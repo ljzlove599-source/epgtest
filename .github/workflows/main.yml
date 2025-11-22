@@ -2,7 +2,7 @@ name: DUPCLITE FILES Generate EPG XML Files2
 
 on:
   schedule:
-    - cron: '5 */1 * * *'   # 每小时第5分钟执行
+    - cron: '12 */1 * * *'   # 每小时第5分钟执行
   workflow_dispatch:
 
 jobs:
