@@ -53,7 +53,8 @@ jobs:
             exit 1
           fi
           
-          scripts_list=\( (IFS=,; echo " \){existing_scripts[*]}")
+          # 修复：使用正确的方式输出数组
+          scripts_list=$(IFS=,; echo "${existing_scripts[*]}")
           echo "existing_scripts=$scripts_list" >> $GITHUB_OUTPUT
 
       - name: Run PHP scripts to generate XML files
@@ -66,10 +67,10 @@ jobs:
             echo "正在运行: $script"
             start_time=$(date +%s)
             
-            if php "\( script" > "logs/ \){script%.php}.log" 2>&1; then
+            if php "$script" > "logs/${script%.php}.log" 2>&1; then
               end_time=$(date +%s)
               duration=$((end_time - start_time))
-              echo "✓ \( script 执行成功 (耗时: \){duration}秒)"
+              echo "✓ $script 执行成功 (耗时: ${duration}秒)"
             else
               echo "✗ $script 执行失败！请查看日志"
               exit 1   # 任一脚本失败就终止工作流
@@ -107,7 +108,8 @@ jobs:
             exit 1
           fi
           
-          xml_list=\( (IFS=,; echo " \){generated_files[*]}")
+          # 修复：使用正确的方式输出数组
+          xml_list=$(IFS=,; echo "${generated_files[*]}")
           echo "generated_xml=$xml_list" >> $GITHUB_OUTPUT
           echo "生成 ${#generated_files[@]} 个XML文件"
 
@@ -155,4 +157,4 @@ jobs:
           echo "状态: ${{ job.status }}"
           echo "生成的XML: ${{ steps.check_xml.outputs.generated_xml || '无' }}"
           echo "执行的脚本: ${{ steps.check_scripts.outputs.existing_scripts }}"
-          echo "查看日志: https://github.com/\( {{ github.repository }}/actions/runs/ \){{ github.run_id }}"
+          echo "查看日志: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
