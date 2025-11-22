@@ -8,9 +8,9 @@ $xmlFiles = [
     './epganywhere.xml',
     './epg4gtv2.xml', 
     './epgofiii.xml', 
-    './epgnewhebei.xml',
-    './epgnewguangdong.xml',
-     './epgyidong.xml',
+   // './epgnewhebei.xml',
+    //'./epgnewguangdong.xml',
+     //'./epgyidong.xml',
  ];
 
 // 创建新的SimpleXMLElement对象作为根元素
