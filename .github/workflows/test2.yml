@@ -36,7 +36,7 @@ jobs:
         id: check_scripts
         run: |
           echo "检查PHP脚本文件..."
-          declare -a scripts=("epgofiii.php" "epgkai1.php" "epgdubaione.php" "epgnewshanghai.php" "epgnewhebei.php" "epgnewguangdong.php")
+          declare -a scripts=("epggen2.php" "epgofiii.php" "epgkai1.php" "epgdubaione.php" "epgnewshanghai.php" "epgnewhebei.php" "epgnewguangdong.php")
           existing_scripts=()
           
           for script in "${scripts[@]}"; do
