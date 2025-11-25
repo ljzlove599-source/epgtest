@@ -124,7 +124,7 @@ try {
     echo $dom->saveXML();
     
     // 可选：保存到文件
-    file_put_contents('epgnewshanghai.xml', $dom->saveXML());
+    file_put_contents('epgdiyicaijing.xml', $dom->saveXML());
 
 } catch (Exception $e) {
     // 清除缓冲区并显示错误
