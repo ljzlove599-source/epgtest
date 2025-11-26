@@ -121,10 +121,10 @@ jobs:
         run: |
           IFS=',' read -ra xml_files <<< "${{ steps.check_xml.outputs.generated_xml }}"
           
-          # 先拉取最新更改并重新应用本地提交
-          git fetch origin
-          git rebase origin/${{ github.ref_name }}
+          # 先拉取最新更改（使用合并而非rebase）
+          git pull origin ${{ github.ref_name }} --no-rebase
           
+          # 然后添加和提交生成的XML文件
           git add "${xml_files[@]}"
           git add logs/ 2>/dev/null || true
           
