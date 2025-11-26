@@ -46,8 +46,8 @@ jobs:
           
           echo "所有依赖安装完成"
 
-      # 第二阶段：文件下载（代码1）
-      - name: Download files from files.json
+      # 第二阶段：文件下载和解压
+      - name: Download and extract files from files.json
         id: download_files
         run: |
           if [ -f "files.json" ]; then
@@ -55,35 +55,67 @@ jobs:
             cat files.json | jq -r 'to_entries[] | "\(.key) \(.value)"' | while read -r filename url; do
               echo "下载: $filename <- $url"
               wget -O "$filename" "$url" --retry-connrefused --waitretry=5 --timeout=30 || echo "$filename 下载失败，跳过"
+              
+              # 如果是.gz文件，自动解压
+              if [[ "$filename" == *.gz ]] && [ -f "$filename" ]; then
+                echo "解压文件: $filename"
+                gunzip -f "$filename" || echo "解压失败或文件已解压: $filename"
+                
+                # 获取解压后的文件名（去掉.gz后缀）
+                extracted_file="${filename%.gz}"
+                if [ -f "$extracted_file" ]; then
+                  echo "✓ 解压成功: $extracted_file"
+                fi
+              fi
             done
-            echo "文件下载完成"
+            echo "文件下载和解压完成"
           else
             echo "files.json 不存在，跳过下载步骤"
           fi
-        # 第三阶段：广东EPG处理（代码2）
+
+      # 第三阶段：广东EPG处理
       - name: Process Guangdong EPG
         id: guangdong_epg
         run: |
           echo "开始处理广东EPG..."
-          # 下载广东EPG
-          curl -L -o epgguangdong.xml.gz https://raw.githubusercontent.com/litiande03/epg/refs/heads/master/pl.xml.gz || exit 1
           
-          # 解压
-          gunzip -f epgguangdong.xml.gz || echo "解压完成或文件不存在"
+          # 检查是否已通过files.json下载并解压
+          if [ -f "epgguangdong.xml" ]; then
+            echo "使用已下载的epgguangdong.xml文件"
+          else
+            # 如果没有，则下载广东EPG
+            echo "从GitHub下载广东EPG..."
+            curl -L -o epgguangdong.xml.gz https://raw.githubusercontent.com/litiande03/epg/refs/heads/master/pl.xml.gz || exit 1
+            
+            # 解压
+            if [ -f "epgguangdong.xml.gz" ]; then
+              gunzip -f epgguangdong.xml.gz
+              echo "广东EPG下载并解压完成"
+            else
+              echo "广东EPG下载失败"
+              echo "guangdong_processed=false" >> $GITHUB_OUTPUT
+              exit 0
+            fi
+          fi
           
           # 运行转换脚本
           if [ -f "epgguangdong.xml" ] && [ -f "convert.py" ]; then
+            echo "运行转换脚本..."
             python convert.py epgguangdong.xml
             echo "广东EPG处理完成"
             echo "guangdong_processed=true" >> $GITHUB_OUTPUT
+            
+            # 重新压缩处理后的文件以便上传
+            if [ -f "epgguangdong.xml" ]; then
+              gzip -k -f epgguangdong.xml
+              echo "重新生成epgguangdong.xml.gz用于上传"
+            fi
           else
             echo "广东EPG文件或转换脚本不存在，跳过"
             echo "guangdong_processed=false" >> $GITHUB_OUTPUT
           fi
-          
-          # 清理临时文件
-          rm -f epgguangdong.xml.gz epgguangdong.xml || true
-      # 第四阶段：PHP EPG生成（代码3）
+
+      # 第四阶段：PHP EPG生成
       - name: Check PHP scripts exist
         id: check_scripts
         run: |
@@ -143,11 +175,14 @@ jobs:
               echo "✓ 生成文件: $xml_file (大小: $filesize bytes)"
               generated_files+=("$xml_file")
               
-              if xmllint --noout "$xml_file" 2>/dev/null; then
-                echo "  XML格式验证通过"
-              else
-                echo "  XML格式验证失败！"
-                exit 1
+              # 对XML文件进行格式验证（跳过.gz文件）
+              if [[ "$xml_file" != *.gz ]]; then
+                if xmllint --noout "$xml_file" 2>/dev/null; then
+                  echo "  XML格式验证通过"
+                else
+                  echo "  XML格式验证失败！"
+                  exit 1
+                fi
               fi
             else
               echo "✗ 未生成文件: $xml_file"
@@ -163,9 +198,7 @@ jobs:
             echo "生成 ${#generated_files[@]} 个XML文件"
           fi
 
-     
-
-      # 第五阶段：繁简转换（代码4）
+      # 第五阶段：繁简转换
       - name: Convert to Simplified and Traditional Chinese
         id: convert_chinese
         run: |
@@ -208,7 +241,7 @@ jobs:
             echo "converted_files=none" >> $GITHUB_OUTPUT
           fi
 
-      # 第六阶段：提取电视台名称（代码5）
+      # 第六阶段：提取电视台名称
       - name: Extract channel names
         id: extract_channels
         run: |
@@ -278,18 +311,29 @@ jobs:
           # 添加所有生成的文件
           files_changed=0
           
-          # 添加下载的文件
+          # 添加下载的文件（包括解压后的文件）
           if [ -f "files.json" ]; then
             cat files.json | jq -r 'keys[]' | while read -r filename; do
+              # 添加原始文件
               if [ -f "$filename" ]; then
                 git add "$filename"
                 echo "添加下载文件: $filename"
                 files_changed=1
               fi
+              
+              # 如果是.gz文件，也添加解压后的文件
+              if [[ "$filename" == *.gz ]]; then
+                extracted_file="${filename%.gz}"
+                if [ -f "$extracted_file" ]; then
+                  git add "$extracted_file"
+                  echo "添加解压文件: $extracted_file"
+                  files_changed=1
+                fi
+              fi
             done
           fi
           
-          # 添加生成的XML文件
+          # 添加生成的XML文件（包括epgguangdong.xml和epgguangdong.xml.gz）
           if [ "${{ steps.check_xml.outputs.generated_xml }}" != "none" ]; then
             IFS=',' read -ra xml_files <<< "${{ steps.check_xml.outputs.generated_xml }}"
             for xml_file in "${xml_files[@]}"; do
@@ -299,6 +343,18 @@ jobs:
                 files_changed=1
               fi
             done
+          fi
+          
+          # 确保epgguangdong.xml和epgguangdong.xml.gz都被添加
+          if [ -f "epgguangdong.xml" ]; then
+            git add "epgguangdong.xml"
+            echo "添加epgguangdong.xml"
+            files_changed=1
+          fi
+          if [ -f "epgguangdong.xml.gz" ]; then
+            git add "epgguangdong.xml.gz"
+            echo "添加epgguangdong.xml.gz"
+            files_changed=1
           fi
           
           # 添加转换文件
