@@ -1,23 +1,29 @@
-name: EPG Generate and Convert
+name: EPG Comprehensive Processing
 
 on:
   schedule:
-    - cron: '12 */1 * * *'   # 每小时第12分钟执行（主生成）
+    - cron: '1 */1 * * *'   # 每小时第1分钟开始执行
   workflow_dispatch:
 
 jobs:
-  generate_and_convert:
+  epg_comprehensive_processing:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
 
     steps:
-      # 第一阶段：PHP EPG 生成
+      # 第一阶段：环境准备和代码检出
       - name: Checkout code
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Set up PHP 7.4
+      - name: Set up environments
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq libxml2-utils gzip
+
+      - name: Set up PHP
         uses: shivammathur/setup-php@v2
         with:
           php-version: '7.4'
@@ -30,20 +36,54 @@ jobs:
 
       - name: Install dependencies
         run: |
-          # PHP 依赖
+          # PHP依赖
           if [ -f "composer.json" ]; then
             composer install --no-dev --no-progress --no-interaction --prefer-dist
-          else
-            echo "No composer.json found, skipping PHP dependency installation."
           fi
           
-          # Python 依赖
+          # Python依赖
           pip install opencc
           
-          # 系统工具
-          sudo apt-get update
-          sudo apt-get install -y libxml2-utils gzip
+          echo "所有依赖安装完成"
 
+      # 第二阶段：文件下载（代码1）
+      - name: Download files from files.json
+        id: download_files
+        run: |
+          if [ -f "files.json" ]; then
+            echo "开始下载files.json中定义的文件..."
+            cat files.json | jq -r 'to_entries[] | "\(.key) \(.value)"' | while read -r filename url; do
+              echo "下载: $filename <- $url"
+              wget -O "$filename" "$url" --retry-connrefused --waitretry=5 --timeout=30 || echo "$filename 下载失败，跳过"
+            done
+            echo "文件下载完成"
+          else
+            echo "files.json 不存在，跳过下载步骤"
+          fi
+        # 第三阶段：广东EPG处理（代码2）
+      - name: Process Guangdong EPG
+        id: guangdong_epg
+        run: |
+          echo "开始处理广东EPG..."
+          # 下载广东EPG
+          curl -L -o epgguangdong.xml.gz https://raw.githubusercontent.com/litiande03/epg/refs/heads/master/pl.xml.gz || exit 1
+          
+          # 解压
+          gunzip -f epgguangdong.xml.gz || echo "解压完成或文件不存在"
+          
+          # 运行转换脚本
+          if [ -f "epgguangdong.xml" ] && [ -f "convert.py" ]; then
+            python convert.py epgguangdong.xml
+            echo "广东EPG处理完成"
+            echo "guangdong_processed=true" >> $GITHUB_OUTPUT
+          else
+            echo "广东EPG文件或转换脚本不存在，跳过"
+            echo "guangdong_processed=false" >> $GITHUB_OUTPUT
+          fi
+          
+          # 清理临时文件
+          rm -f epgguangdong.xml.gz epgguangdong.xml || true
+      # 第四阶段：PHP EPG生成（代码3）
       - name: Check PHP scripts exist
         id: check_scripts
         run: |
@@ -61,14 +101,15 @@ jobs:
           done
           
           if [ ${#existing_scripts[@]} -eq 0 ]; then
-            echo "错误: 没有找到任何PHP脚本文件"
-            exit 1
+            echo "警告: 没有找到任何PHP脚本文件，跳过EPG生成"
+            echo "existing_scripts=none" >> $GITHUB_OUTPUT
+          else
+            scripts_list=$(IFS=,; echo "${existing_scripts[*]}")
+            echo "existing_scripts=$scripts_list" >> $GITHUB_OUTPUT
           fi
-          
-          scripts_list=$(IFS=,; echo "${existing_scripts[*]}")
-          echo "existing_scripts=$scripts_list" >> $GITHUB_OUTPUT
 
       - name: Run PHP scripts to generate XML files
+        if: steps.check_scripts.outputs.existing_scripts != 'none'
         run: |
           IFS=',' read -ra scripts <<< "${{ steps.check_scripts.outputs.existing_scripts }}"
           mkdir -p logs
@@ -114,20 +155,23 @@ jobs:
           done
           
           if [ ${#generated_files[@]} -eq 0 ]; then
-            echo "错误: 没有生成任何XML文件"
-            exit 1
+            echo "警告: 没有生成任何XML文件"
+            echo "generated_xml=none" >> $GITHUB_OUTPUT
+          else
+            xml_list=$(IFS=,; echo "${generated_files[*]}")
+            echo "generated_xml=$xml_list" >> $GITHUB_OUTPUT
+            echo "生成 ${#generated_files[@]} 个XML文件"
           fi
-          
-          xml_list=$(IFS=,; echo "${generated_files[*]}")
-          echo "generated_xml=$xml_list" >> $GITHUB_OUTPUT
-          echo "生成 ${#generated_files[@]} 个XML文件"
 
-      # 第二阶段：繁简转换
-      - name: Convert epgziyong.xml to Simplified & Traditional Chinese
-        if: contains(steps.check_xml.outputs.generated_xml, 'epgziyong.xml')
+     
+
+      # 第五阶段：繁简转换（代码4）
+      - name: Convert to Simplified and Traditional Chinese
+        id: convert_chinese
         run: |
-          echo "开始繁简转换..."
-          python - <<'EOF'
+          if [ -f "epgziyong.xml" ]; then
+            echo "开始繁简转换..."
+            python - <<'EOF'
           from opencc import OpenCC
           import os, gzip
 
@@ -158,55 +202,126 @@ jobs:
               f_out.writelines(f_in)
           print("✅ 已生成 twepg.xml 和 twepg.xml.gz（简→繁）")
           EOF
-
-      - name: Check converted files
-        if: contains(steps.check_xml.outputs.generated_xml, 'epgziyong.xml')
-        id: check_converted
-        run: |
-          echo "检查转换后的文件..."
-          declare -a converted_files=("swepg.xml" "swepg.xml.gz" "twepg.xml" "twepg.xml.gz")
-          valid_files=()
-          
-          for file in "${converted_files[@]}"; do
-            if [ -f "$file" ] && [ -s "$file" ]; then
-              filesize=$(stat -c%s "$file" 2>/dev/null || wc -c < "$file" | awk '{print $1}')
-              echo "✓ 转换文件: $file (大小: $filesize bytes)"
-              valid_files+=("$file")
-            else
-              echo "✗ 文件无效或为空: $file"
-            fi
-          done
-          
-          if [ ${#valid_files[@]} -eq 0 ]; then
-            echo "警告: 没有生成任何转换文件"
+            echo "converted_files=swepg.xml,swepg.xml.gz,twepg.xml,twepg.xml.gz" >> $GITHUB_OUTPUT
           else
-            converted_list=$(IFS=,; echo "${valid_files[*]}")
-            echo "converted_files=$converted_list" >> $GITHUB_OUTPUT
-            echo "生成 ${#valid_files[@]} 个转换文件"
+            echo "epgziyong.xml 不存在，跳过繁简转换"
+            echo "converted_files=none" >> $GITHUB_OUTPUT
           fi
 
-      # 第三阶段：提交所有更改
+      # 第六阶段：提取电视台名称（代码5）
+      - name: Extract channel names
+        id: extract_channels
+        run: |
+          echo "开始提取电视台名称..."
+          # 确保有文件可处理
+          if [ ! -f "twepg.xml" ] && [ ! -f "swepg.xml" ]; then
+            echo "没有找到繁简中文EPG文件，跳过提取"
+            echo "channels_extracted=false" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+          
+          # 如果文件不存在但转换步骤生成了，等待文件
+          if [ ! -f "twepg.xml" ] && [ "${{ steps.convert_chinese.outputs.converted_files }}" != "none" ]; then
+            sleep 5
+          fi
+          
+          python <<'EOF'
+          import xml.etree.ElementTree as ET
+          import os
+
+          def extract_names(xml_file, output_file):
+              try:
+                  tree = ET.parse(xml_file)
+                  root = tree.getroot()
+                  seen = set()
+                  channels = []
+                  for c in root.findall('channel'):
+                      name = c.get('display-name') or c.findtext('display-name') or c.get('id', '')
+                      if name and name.strip() and name not in seen:
+                          seen.add(name)
+                          channels.append(name.strip())
+
+                  with open(output_file, 'w', encoding='utf-8') as f:
+                      f.write('\n'.join(channels))
+                  print(f"✅ {xml_file}: 共提取 {len(channels)} 个频道，已保存到 {output_file}")
+                  return len(channels)
+              except Exception as e:
+                  print(f"❌ 解析 {xml_file} 出错: {e}")
+                  return 0
+
+          total_channels = 0
+          if os.path.exists('twepg.xml'):
+              total_channels += extract_names('twepg.xml', '繁體電視台目錄.txt')
+          if os.path.exists('swepg.xml'):
+              total_channels += extract_names('swepg.xml', '简体电视台目录.txt')
+              
+          print(f"总计提取频道数: {total_channels}")
+          EOF
+          
+          if [ -f "繁體電視台目錄.txt" ] || [ -f "简体电视台目录.txt" ]; then
+            echo "channels_extracted=true" >> $GITHUB_OUTPUT
+          else
+            echo "channels_extracted=false" >> $GITHUB_OUTPUT
+          fi
+
+      # 第七阶段：提交所有更改
       - name: Configure Git
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
       - name: Commit and push all changes
-        if: steps.check_xml.outputs.generated_xml != ''
         run: |
           # 拉取最新更改
           git pull origin ${{ github.ref_name }} --no-rebase
           
           # 添加所有生成的文件
-          IFS=',' read -ra xml_files <<< "${{ steps.check_xml.outputs.generated_xml }}"
-          git add "${xml_files[@]}"
-          git add logs/ 2>/dev/null || true
+          files_changed=0
           
-          # 添加转换文件（如果存在）
-          if [ -n "${{ steps.check_converted.outputs.converted_files }}" ]; then
-            IFS=',' read -ra converted_files <<< "${{ steps.check_converted.outputs.converted_files }}"
-            git add "${converted_files[@]}"
+          # 添加下载的文件
+          if [ -f "files.json" ]; then
+            cat files.json | jq -r 'keys[]' | while read -r filename; do
+              if [ -f "$filename" ]; then
+                git add "$filename"
+                echo "添加下载文件: $filename"
+                files_changed=1
+              fi
+            done
           fi
+          
+          # 添加生成的XML文件
+          if [ "${{ steps.check_xml.outputs.generated_xml }}" != "none" ]; then
+            IFS=',' read -ra xml_files <<< "${{ steps.check_xml.outputs.generated_xml }}"
+            for xml_file in "${xml_files[@]}"; do
+              if [ -f "$xml_file" ]; then
+                git add "$xml_file"
+                echo "添加XML文件: $xml_file"
+                files_changed=1
+              fi
+            done
+          fi
+          
+          # 添加转换文件
+          if [ "${{ steps.convert_chinese.outputs.converted_files }}" != "none" ]; then
+            IFS=',' read -ra converted_files <<< "${{ steps.convert_chinese.outputs.converted_files }}"
+            for converted_file in "${converted_files[@]}"; do
+              if [ -f "$converted_file" ]; then
+                git add "$converted_file"
+                echo "添加转换文件: $converted_file"
+                files_changed=1
+              fi
+            done
+          fi
+          
+          # 添加频道列表文件
+          if [ "${{ steps.extract_channels.outputs.channels_extracted }}" == "true" ]; then
+            git add "繁體電視台目錄.txt" "简体电视台目录.txt" 2>/dev/null || true
+            echo "添加频道列表文件"
+            files_changed=1
+          fi
+          
+          # 添加日志文件
+          git add logs/ 2>/dev/null || true
           
           # 检查是否有变化
           if git diff --staged --quiet; then
@@ -217,10 +332,17 @@ jobs:
           # 提交并推送
           echo "检测到文件变化，正在提交..."
           commit_message="Auto update EPG $(date '+%Y-%m-%d %H:%M:%S')"
-          commit_message+=" | Generated: ${{ steps.check_xml.outputs.generated_xml }}"
           
-          if [ -n "${{ steps.check_converted.outputs.converted_files }}" ]; then
-            commit_message+=" | Converted: ${{ steps.check_converted.outputs.converted_files }}"
+          if [ "${{ steps.check_xml.outputs.generated_xml }}" != "none" ]; then
+            commit_message+=" | Generated: ${{ steps.check_xml.outputs.generated_xml }}"
+          fi
+          
+          if [ "${{ steps.convert_chinese.outputs.converted_files }}" != "none" ]; then
+            commit_message+=" | Converted: ${{ steps.convert_chinese.outputs.converted_files }}"
+          fi
+          
+          if [ "${{ steps.extract_channels.outputs.channels_extracted }}" == "true" ]; then
+            commit_message+=" | Channels extracted"
           fi
           
           git commit -m "$commit_message"
@@ -228,11 +350,12 @@ jobs:
           
           echo "已成功推送更新"
 
+      # 第八阶段：日志和总结
       - name: Upload logs as artifact
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: epg-generation-logs-${{ github.run_number }}
+          name: epg-comprehensive-logs-${{ github.run_number }}
           path: |
             logs/
             *.log
@@ -241,9 +364,12 @@ jobs:
       - name: Workflow Summary
         if: always()
         run: |
-          echo "=== EPG 生成和转换任务总结 ==="
+          echo "=== EPG 综合处理任务总结 ==="
           echo "状态: ${{ job.status }}"
-          echo "生成的XML: ${{ steps.check_xml.outputs.generated_xml || '无' }}"
-          echo "转换的文件: ${{ steps.check_converted.outputs.converted_files || '无' }}"
-          echo "执行的脚本: ${{ steps.check_scripts.outputs.existing_scripts }}"
-          echo "查看日志: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          echo "执行的PHP脚本: ${{ steps.check_scripts.outputs.existing_scripts || '无' }}"
+          echo "广东EPG处理: ${{ steps.guangdong_epg.outputs.guangdong_processed || '未执行' }}"
+          echo "生成的XML文件: ${{ steps.check_xml.outputs.generated_xml || '无' }}"
+          echo "繁简转换文件: ${{ steps.convert_chinese.outputs.converted_files || '无' }}"
+          echo "频道名称提取: ${{ steps.extract_channels.outputs.channels_extracted || '未执行' }}"
+          echo "查看详细日志: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          echo "任务完成时间: $(date)"
