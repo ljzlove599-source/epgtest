@@ -13,7 +13,8 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0   # 重要：允许 git push
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up PHP 7.4
         uses: shivammathur/setup-php@v2
@@ -53,7 +54,6 @@ jobs:
             exit 1
           fi
           
-          # 修复：使用正确的方式输出数组
           scripts_list=$(IFS=,; echo "${existing_scripts[*]}")
           echo "existing_scripts=$scripts_list" >> $GITHUB_OUTPUT
 
@@ -73,7 +73,7 @@ jobs:
               echo "✓ $script 执行成功 (耗时: ${duration}秒)"
             else
               echo "✗ $script 执行失败！请查看日志"
-              exit 1   # 任一脚本失败就终止工作流
+              exit 1
             fi
             echo "========================================="
           done
@@ -91,7 +91,6 @@ jobs:
               echo "✓ 生成文件: $xml_file (大小: $filesize bytes)"
               generated_files+=("$xml_file")
               
-              # XML 格式验证
               if xmllint --noout "$xml_file" 2>/dev/null; then
                 echo "  XML格式验证通过"
               else
@@ -108,7 +107,6 @@ jobs:
             exit 1
           fi
           
-          # 修复：使用正确的方式输出数组
           xml_list=$(IFS=,; echo "${generated_files[*]}")
           echo "generated_xml=$xml_list" >> $GITHUB_OUTPUT
           echo "生成 ${#generated_files[@]} 个XML文件"
@@ -122,6 +120,10 @@ jobs:
         if: steps.check_xml.outputs.generated_xml != ''
         run: |
           IFS=',' read -ra xml_files <<< "${{ steps.check_xml.outputs.generated_xml }}"
+          
+          # 先拉取最新更改并重新应用本地提交
+          git fetch origin
+          git rebase origin/${{ github.ref_name }}
           
           git add "${xml_files[@]}"
           git add logs/ 2>/dev/null || true
@@ -137,7 +139,7 @@ jobs:
           
           git commit -m "$commit_message"
           git push origin HEAD:${{ github.ref }}
-
+          
           echo "已成功推送更新"
 
       - name: Upload logs as artifact
