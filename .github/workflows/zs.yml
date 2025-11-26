@@ -1,0 +1,249 @@
+name: EPG Generate and Convert
+
+on:
+  schedule:
+    - cron: '12 */1 * * *'   # 每小时第12分钟执行（主生成）
+  workflow_dispatch:
+
+jobs:
+  generate_and_convert:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 第一阶段：PHP EPG 生成
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up PHP 7.4
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '7.4'
+          tools: composer
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: |
+          # PHP 依赖
+          if [ -f "composer.json" ]; then
+            composer install --no-dev --no-progress --no-interaction --prefer-dist
+          else
+            echo "No composer.json found, skipping PHP dependency installation."
+          fi
+          
+          # Python 依赖
+          pip install opencc
+          
+          # 系统工具
+          sudo apt-get update
+          sudo apt-get install -y libxml2-utils gzip
+
+      - name: Check PHP scripts exist
+        id: check_scripts
+        run: |
+          echo "检查PHP脚本文件..."
+          declare -a scripts=("epgdiyicaijing.php" "epggen2.php" "epgofiii.php" "epgkai1.php" "epgdubaione.php" "epgnewshanghai.php" "epgnewhebei.php" "epgnewguangdong.php" "epgziyong.php")
+          existing_scripts=()
+          
+          for script in "${scripts[@]}"; do
+            if [ -f "$script" ]; then
+              echo "✓ 找到文件: $script"
+              existing_scripts+=("$script")
+            else
+              echo "✗ 文件不存在: $script"
+            fi
+          done
+          
+          if [ ${#existing_scripts[@]} -eq 0 ]; then
+            echo "错误: 没有找到任何PHP脚本文件"
+            exit 1
+          fi
+          
+          scripts_list=$(IFS=,; echo "${existing_scripts[*]}")
+          echo "existing_scripts=$scripts_list" >> $GITHUB_OUTPUT
+
+      - name: Run PHP scripts to generate XML files
+        run: |
+          IFS=',' read -ra scripts <<< "${{ steps.check_scripts.outputs.existing_scripts }}"
+          mkdir -p logs
+          
+          for script in "${scripts[@]}"; do
+            echo "========================================="
+            echo "正在运行: $script"
+            start_time=$(date +%s)
+            
+            if php "$script" > "logs/${script%.php}.log" 2>&1; then
+              end_time=$(date +%s)
+              duration=$((end_time - start_time))
+              echo "✓ $script 执行成功 (耗时: ${duration}秒)"
+            else
+              echo "✗ $script 执行失败！请查看日志"
+              exit 1
+            fi
+            echo "========================================="
+          done
+
+      - name: Check generated XML files
+        id: check_xml
+        run: |
+          declare -a expected_xml=("epgdiyicaijing.xml" "epgofiii.xml" "epgkai1.xml" "epgdubaione.xml" "epgnewshanghai.xml" "epgnewhebei.xml" "epgnewguangdong.xml" "epgziyong.xml")
+          generated_files=()
+          
+          echo "检查生成的XML文件..."
+          for xml_file in "${expected_xml[@]}"; do
+            if [ -f "$xml_file" ]; then
+              filesize=$(stat -c%s "$xml_file" 2>/dev/null || wc -c < "$xml_file" | awk '{print $1}')
+              echo "✓ 生成文件: $xml_file (大小: $filesize bytes)"
+              generated_files+=("$xml_file")
+              
+              if xmllint --noout "$xml_file" 2>/dev/null; then
+                echo "  XML格式验证通过"
+              else
+                echo "  XML格式验证失败！"
+                exit 1
+              fi
+            else
+              echo "✗ 未生成文件: $xml_file"
+            fi
+          done
+          
+          if [ ${#generated_files[@]} -eq 0 ]; then
+            echo "错误: 没有生成任何XML文件"
+            exit 1
+          fi
+          
+          xml_list=$(IFS=,; echo "${generated_files[*]}")
+          echo "generated_xml=$xml_list" >> $GITHUB_OUTPUT
+          echo "生成 ${#generated_files[@]} 个XML文件"
+
+      # 第二阶段：繁简转换
+      - name: Convert epgziyong.xml to Simplified & Traditional Chinese
+        if: contains(steps.check_xml.outputs.generated_xml, 'epgziyong.xml')
+        run: |
+          echo "开始繁简转换..."
+          python - <<'EOF'
+          from opencc import OpenCC
+          import os, gzip
+
+          input_file = "epgziyong.xml"
+          if not os.path.exists(input_file):
+              raise FileNotFoundError(f"{input_file} 不存在")
+
+          # 初始化两个转换器
+          cc_t2s = OpenCC('t2s')  # 繁 → 简
+          cc_s2t = OpenCC('s2t')  # 简 → 繁
+
+          with open(input_file, "r", encoding="utf-8") as f:
+              text = f.read()
+
+          # --- 繁转简 ---
+          simplified = cc_t2s.convert(text)
+          with open("swepg.xml", "w", encoding="utf-8") as f:
+              f.write(simplified)
+          with open("swepg.xml", "rb") as f_in, gzip.open("swepg.xml.gz", "wb") as f_out:
+              f_out.writelines(f_in)
+          print("✅ 已生成 swepg.xml 和 swepg.xml.gz（繁→简）")
+
+          # --- 简转繁 ---
+          traditional = cc_s2t.convert(text)
+          with open("twepg.xml", "w", encoding="utf-8") as f:
+              f.write(traditional)
+          with open("twepg.xml", "rb") as f_in, gzip.open("twepg.xml.gz", "wb") as f_out:
+              f_out.writelines(f_in)
+          print("✅ 已生成 twepg.xml 和 twepg.xml.gz（简→繁）")
+          EOF
+
+      - name: Check converted files
+        if: contains(steps.check_xml.outputs.generated_xml, 'epgziyong.xml')
+        id: check_converted
+        run: |
+          echo "检查转换后的文件..."
+          declare -a converted_files=("swepg.xml" "swepg.xml.gz" "twepg.xml" "twepg.xml.gz")
+          valid_files=()
+          
+          for file in "${converted_files[@]}"; do
+            if [ -f "$file" ] && [ -s "$file" ]; then
+              filesize=$(stat -c%s "$file" 2>/dev/null || wc -c < "$file" | awk '{print $1}')
+              echo "✓ 转换文件: $file (大小: $filesize bytes)"
+              valid_files+=("$file")
+            else
+              echo "✗ 文件无效或为空: $file"
+            fi
+          done
+          
+          if [ ${#valid_files[@]} -eq 0 ]; then
+            echo "警告: 没有生成任何转换文件"
+          else
+            converted_list=$(IFS=,; echo "${valid_files[*]}")
+            echo "converted_files=$converted_list" >> $GITHUB_OUTPUT
+            echo "生成 ${#valid_files[@]} 个转换文件"
+          fi
+
+      # 第三阶段：提交所有更改
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and push all changes
+        if: steps.check_xml.outputs.generated_xml != ''
+        run: |
+          # 拉取最新更改
+          git pull origin ${{ github.ref_name }} --no-rebase
+          
+          # 添加所有生成的文件
+          IFS=',' read -ra xml_files <<< "${{ steps.check_xml.outputs.generated_xml }}"
+          git add "${xml_files[@]}"
+          git add logs/ 2>/dev/null || true
+          
+          # 添加转换文件（如果存在）
+          if [ -n "${{ steps.check_converted.outputs.converted_files }}" ]; then
+            IFS=',' read -ra converted_files <<< "${{ steps.check_converted.outputs.converted_files }}"
+            git add "${converted_files[@]}"
+          fi
+          
+          # 检查是否有变化
+          if git diff --staged --quiet; then
+            echo "没有文件发生变化，跳过提交"
+            exit 0
+          fi
+          
+          # 提交并推送
+          echo "检测到文件变化，正在提交..."
+          commit_message="Auto update EPG $(date '+%Y-%m-%d %H:%M:%S')"
+          commit_message+=" | Generated: ${{ steps.check_xml.outputs.generated_xml }}"
+          
+          if [ -n "${{ steps.check_converted.outputs.converted_files }}" ]; then
+            commit_message+=" | Converted: ${{ steps.check_converted.outputs.converted_files }}"
+          fi
+          
+          git commit -m "$commit_message"
+          git push origin HEAD:${{ github.ref }}
+          
+          echo "已成功推送更新"
+
+      - name: Upload logs as artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: epg-generation-logs-${{ github.run_number }}
+          path: |
+            logs/
+            *.log
+          retention-days: 7
+
+      - name: Workflow Summary
+        if: always()
+        run: |
+          echo "=== EPG 生成和转换任务总结 ==="
+          echo "状态: ${{ job.status }}"
+          echo "生成的XML: ${{ steps.check_xml.outputs.generated_xml || '无' }}"
+          echo "转换的文件: ${{ steps.check_converted.outputs.converted_files || '无' }}"
+          echo "执行的脚本: ${{ steps.check_scripts.outputs.existing_scripts }}"
+          echo "查看日志: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
