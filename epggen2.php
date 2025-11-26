@@ -3,7 +3,7 @@
 $sources = [
    "epgshanghai.xml" => "https://epg.deny.vip/sh/tel-epg.xml",
   // "epghebeiiptv1.xml" => "https://raw.githubusercontent.com/zzq12345/tvepg/refs/heads/main/epghebeiiptv.xml",
-  // "epgyidong.xml" => "https://epg.136605.xyz/3days.xml"
+   "epgyidong.xml" => "https://epg.136605.xyz/3days.xml"
  
   
 ];
