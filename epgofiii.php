@@ -76,7 +76,7 @@ preg_match('/"buildId":"(.*)",/i', $uuk, $uum);
 
 $id650 = 650081;//起始节目编号
 $cid650 = array(
-    array('4gtv-4gtv066', '台視'),
+   // array('4gtv-4gtv066', '台視'),
     array('4gtv-4gtv040', '中視'),
     array('4gtv-4gtv041', '華視'),
     array('litv-ftv17', '好消息2台'),
