@@ -18,15 +18,8 @@
   swepg.xml  簡體版本epg,适合内地！
 
 
-二. yml啟動先後順序
+
   
-1.epg copy
-
-2.convert guangdong
-
-3.epgziyong
-
-4.Convert to Simplified Chinese/Convert to Traditional Chinese
 
 
 
