@@ -11,6 +11,20 @@ function compress_html($string) {
     return $string;
 }
 
+// XML清理函数
+function clean_xml_content($content) {
+    // 移除控制字符（除了制表符、换行符和回车符）
+    $content = preg_replace('/[^\x{0009}\x{000A}\x{000D}\x{0020}-\x{D7FF}\x{E000}-\x{FFFD}]+/u', ' ', $content);
+    
+    // 处理XML特殊字符
+    $content = htmlspecialchars($content, ENT_XML1 | ENT_QUOTES, 'UTF-8');
+    
+    // 移除连续的空格
+    $content = preg_replace('/\s+/', ' ', $content);
+    
+    return trim($content);
+}
+
 header('Content-Type: text/plain;charset=UTF-8');
 
 $chn = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<!DOCTYPE tv SYSTEM \"http://api.torrent-tv.ru/xmltv.dtd\">\n<tv generator-info-name=\"秋哥綜合\" generator-info-url=\"https://www.tdm.com.mo/c_tv/?ch=Satellite\">\n";
@@ -59,14 +73,24 @@ $channelCount = count($channels);
 // 创建频道列表
 for ($k22 = 0; $k22 < $channelCount; $k22++) {
     $id = $channels[$k22]->id;
-    $title = $channels[$k22]->title;
-    $chn .= "<channel id=\"".$title."\"><display-name lang=\"zh\">".$title."</display-name></channel>\n";
+    $title = clean_xml_content($channels[$k22]->title);
+    
+    // 确保频道ID是有效的XML名称
+    $channel_id = preg_replace('/[^a-zA-Z0-9._-]/', '_', $title);
+    $channel_id = substr($channel_id, 0, 50); // 限制长度
+    
+    $chn .= "<channel id=\"" . $channel_id . "\">\n";
+    $chn .= "  <display-name lang=\"zh\">" . $title . "</display-name>\n";
+    $chn .= "</channel>\n";
 }
 
 // 获取每个频道的节目表
 for ($k22 = 0; $k22 < $channelCount; $k22++) {
     $id = $channels[$k22]->id;
-    $title = $channels[$k22]->title;
+    $title = clean_xml_content($channels[$k22]->title);
+    $channel_id = preg_replace('/[^a-zA-Z0-9._-]/', '_', $title);
+    $channel_id = substr($channel_id, 0, 50);
+    
     $url221 = "https://contenthub-api.eco.astro.com.my/channel/$id.json";
 
     $ch221 = curl_init();
@@ -111,7 +135,7 @@ for ($k22 = 0; $k22 < $channelCount; $k22++) {
         
         for ($k221 = 0; $k221 < $trm221 - 1; $k221++) {
             if (isset($tyuu221[$k221]) && isset($tyuu221[$k221 + 1])) {
-                $title221 = $tyuu221[$k221]->title ?? '未知节目';
+                $title221 = clean_xml_content($tyuu221[$k221]->title ?? '未知节目');
                 $starttime221 = $tyuu221[$k221]->datetime ?? '';
                 $endtime221 = $tyuu221[$k221 + 1]->datetime ?? '';
                 
@@ -119,10 +143,13 @@ for ($k22 = 0; $k22 < $channelCount; $k22++) {
                     $start = str_replace([':', '-', ' ', '.0'], '', $starttime221);
                     $stop = str_replace([':', '-', ' ', '.0'], '', $endtime221);
                     
-                    $chn .= "<programme start=\"{$start} +0800\" stop=\"{$stop} +0800\" channel=\"{$title}\">\n";
-                    $chn .= "<title lang=\"zh\">" . htmlspecialchars($title221) . "</title>\n";
-                    $chn .= "<desc lang=\"zh\"> </desc>\n";
-                    $chn .= "</programme>\n";
+                    // 验证时间格式
+                    if (preg_match('/^\d{14}$/', $start) && preg_match('/^\d{14}$/', $stop)) {
+                        $chn .= "<programme start=\"{$start} +0800\" stop=\"{$stop} +0800\" channel=\"{$channel_id}\">\n";
+                        $chn .= "  <title lang=\"zh\">" . $title221 . "</title>\n";
+                        $chn .= "  <desc lang=\"zh\"> </desc>\n";
+                        $chn .= "</programme>\n";
+                    }
                 }
             }
         }
@@ -135,7 +162,7 @@ for ($k22 = 0; $k22 < $channelCount; $k22++) {
         
         for ($k2211 = 0; $k2211 < $trm2211 - 1; $k2211++) {
             if (isset($tyuu2211[$k2211]) && isset($tyuu2211[$k2211 + 1])) {
-                $title2211 = $tyuu2211[$k2211]->title ?? '未知节目';
+                $title2211 = clean_xml_content($tyuu2211[$k2211]->title ?? '未知节目');
                 $starttime2211 = $tyuu2211[$k2211]->datetime ?? '';
                 $endtime2211 = $tyuu2211[$k2211 + 1]->datetime ?? '';
                 
@@ -143,10 +170,13 @@ for ($k22 = 0; $k22 < $channelCount; $k22++) {
                     $start = str_replace([':', '-', ' ', '.0'], '', $starttime2211);
                     $stop = str_replace([':', '-', ' ', '.0'], '', $endtime2211);
                     
-                    $chn .= "<programme start=\"{$start} +0800\" stop=\"{$stop} +0800\" channel=\"{$title}\">\n";
-                    $chn .= "<title lang=\"zh\">" . htmlspecialchars($title2211) . "</title>\n";
-                    $chn .= "<desc lang=\"zh\"> </desc>\n";
-                    $chn .= "</programme>\n";
+                    // 验证时间格式
+                    if (preg_match('/^\d{14}$/', $start) && preg_match('/^\d{14}$/', $stop)) {
+                        $chn .= "<programme start=\"{$start} +0800\" stop=\"{$stop} +0800\" channel=\"{$channel_id}\">\n";
+                        $chn .= "  <title lang=\"zh\">" . $title2211 . "</title>\n";
+                        $chn .= "  <desc lang=\"zh\"> </desc>\n";
+                        $chn .= "</programme>\n";
+                    }
                 }
             }
         }
@@ -155,9 +185,36 @@ for ($k22 = 0; $k22 < $channelCount; $k22++) {
 
 $chn .= "</tv>\n";
 
-// 可选：保存到文件
-file_put_contents($fp, $chn);
+// 保存到文件前进行最终验证
+if (!empty($chn)) {
+    // 移除可能的BOM字符
+    $chn = preg_replace('/^\xEF\xBB\xBF/', '', $chn);
+    
+    $result = file_put_contents($fp, $chn);
+    if ($result === false) {
+        error_log("Failed to write XML file");
+    } else {
+        echo "XML file generated successfully: " . $fp . " (Size: " . $result . " bytes)\n";
+        
+        // 验证XML格式
+        $xml = simplexml_load_string($chn);
+        if ($xml === false) {
+            echo "Warning: Generated XML may have formatting issues\n";
+            // 输出前几个错误
+            libxml_use_internal_errors(true);
+            $errors = libxml_get_errors();
+            if (!empty($errors)) {
+                foreach (array_slice($errors, 0, 5) as $error) {
+                    echo "XML Error: " . $error->message . "\n";
+                }
+            }
+        } else {
+            echo "XML format validation: PASSED\n";
+        }
+    }
+} else {
+    error_log("No XML content to save");
+}
 
 //echo $chn;
-
 ?>
