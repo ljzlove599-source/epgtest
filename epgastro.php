@@ -27,33 +27,49 @@ $w2 = $w1 + 1;
 $dt11 = date('Y-m-d');
 $dt12 = date('Y-m-d', time() + 24 * 3600);
 
- $url22='https://contenthub-api.eco.astro.com.my/api/v2/search-linear?channelGuide=true&platform=acm&channelOrderBy=stbNumber,asc';
-   $ch22 = curl_init();
-    curl_setopt($ch22, CURLOPT_URL, $url22);
-    curl_setopt($ch22, CURLOPT_RETURNTRANSFER, 1);
-    curl_setopt($ch22, CURLOPT_SSL_VERIFYPEER, FALSE);
-    curl_setopt($ch22, CURLOPT_SSL_VERIFYHOST, FALSE);
-    curl_setopt($ch22, CURLOPT_ENCODING, '');
-    curl_setopt($ch22, CURLOPT_TIMEOUT, 10);
-    curl_setopt($ch22, CURLOPT_USERAGENT, 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36');
-    
-    $re22 = curl_exec($ch22);
-    $httpCode = curl_getinfo($ch22, CURLINFO_HTTP_CODE);
-    curl_close($ch22);
+$url22='https://contenthub-api.eco.astro.com.my/api/v2/search-linear?channelGuide=true&platform=acm&channelOrderBy=stbNumber,asc';
+$ch22 = curl_init();
+curl_setopt($ch22, CURLOPT_URL, $url22);
+curl_setopt($ch22, CURLOPT_RETURNTRANSFER, 1);
+curl_setopt($ch22, CURLOPT_SSL_VERIFYPEER, FALSE);
+curl_setopt($ch22, CURLOPT_SSL_VERIFYHOST, FALSE);
+curl_setopt($ch22, CURLOPT_ENCODING, '');
+curl_setopt($ch22, CURLOPT_TIMEOUT, 10);
+curl_setopt($ch22, CURLOPT_USERAGENT, 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36');
 
-for ($k22 =0; $k22 <= count($title=json_decode($re22)->response->channels->data)-1; $k22++) {
-$id=json_decode($re22)->response->channels->data[$k22]->id;
-$title=json_decode($re22)->response->channels->data[$k22]->title;
-   $chn .= "<channel id=\"".$title."\"><display-name lang=\"zh\">".$title."</display-name></channel>\n";
+$re22 = curl_exec($ch22);
+$httpCode = curl_getinfo($ch22, CURLINFO_HTTP_CODE);
+curl_close($ch22);
+
+// 检查第一个API请求是否成功
+if ($httpCode !== 200 || empty($re22)) {
+    error_log("Failed to fetch channel list, HTTP Code: " . $httpCode);
+    die("Failed to fetch channel data");
 }
 
-for ($k22 =0; $k22 <= count($title=json_decode($re22)->response->channels->data)-1; $k22++) {
-//for ($k22 =0; $k22 <=2; $k22++) {
-$id=json_decode($re22)->response->channels->data[$k22]->id;
-$title=json_decode($re22)->response->channels->data[$k22]->title;
- $url221 = "https://contenthub-api.eco.astro.com.my/channel/$id.json";
+$channelsData = json_decode($re22);
+if (json_last_error() !== JSON_ERROR_NONE || !isset($channelsData->response->channels->data)) {
+    error_log("JSON decode error for channel list: " . json_last_error_msg());
+    die("Invalid channel data format");
+}
 
-$ch221 = curl_init();
+$channels = $channelsData->response->channels->data;
+$channelCount = count($channels);
+
+// 创建频道列表
+for ($k22 = 0; $k22 < $channelCount; $k22++) {
+    $id = $channels[$k22]->id;
+    $title = $channels[$k22]->title;
+    $chn .= "<channel id=\"".$title."\"><display-name lang=\"zh\">".$title."</display-name></channel>\n";
+}
+
+// 获取每个频道的节目表
+for ($k22 = 0; $k22 < $channelCount; $k22++) {
+    $id = $channels[$k22]->id;
+    $title = $channels[$k22]->title;
+    $url221 = "https://contenthub-api.eco.astro.com.my/channel/$id.json";
+
+    $ch221 = curl_init();
     curl_setopt($ch221, CURLOPT_URL, $url221);
     curl_setopt($ch221, CURLOPT_RETURNTRANSFER, 1);
     curl_setopt($ch221, CURLOPT_SSL_VERIFYPEER, FALSE);
@@ -68,7 +84,7 @@ $ch221 = curl_init();
     
     // 检查请求是否成功
     if ($httpCode !== 200 || empty($re221)) {
-        error_log("Failed to fetch data for channel " . $title . ", HTTP Code: " . $httpCode);
+        error_log("Failed to fetch data for channel " . $title . " (ID: " . $id . "), HTTP Code: " . $httpCode);
         continue;
     }
     
