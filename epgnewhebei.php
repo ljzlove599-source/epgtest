@@ -55,4 +55,43 @@ foreach ($xml->programme as $programme) {
 
 // 保存新文件
 $newXml->asXML('epgnewhebei.xml');
+
+// 保存新文件
+
+
+// 可选：保存到文件
+$chn = $newXml->asXML();
+$fp = 'epgnewhebei.xml';
+
+if (!empty($chn)) {
+    // 移除可能的BOM字符
+    $chn = preg_replace('/^\xEF\xBB\xBF/', '', $chn);
+    
+    $result = file_put_contents($fp, $chn);
+    if ($result === false) {
+        error_log("Failed to write XML file");
+    } else {
+        echo "XML file generated successfully: " . $fp . " (Size: " . $result . " bytes)\n";
+        
+        // 验证XML格式
+        $xml = simplexml_load_string($chn);
+        if ($xml === false) {
+            echo "Warning: Generated XML may have formatting issues\n";
+            // 输出前几个错误
+            libxml_use_internal_errors(true);
+            $errors = libxml_get_errors();
+            if (!empty($errors)) {
+                foreach (array_slice($errors, 0, 5) as $error) {
+                    echo "XML Error: " . $error->message . "\n";
+                }
+            }
+        } else {
+            echo "XML format validation: PASSED\n";
+        }
+    }
+} else {
+    error_log("No XML content to save");
+}
+
+
 ?>
