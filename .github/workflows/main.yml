@@ -104,16 +104,6 @@ jobs:
             python convert.py epgguangdong.xml
             echo "广东EPG处理完成"
             echo "guangdong_processed=true" >> $GITHUB_OUTPUT
-            
-            # 重新压缩处理后的文件以便上传
-            if [ -f "epgguangdong.xml" ]; then
-              gzip -k -f epgguangdong.xml
-              echo "重新生成epgguangdong.xml.gz用于上传"
-            fi
-          else
-            echo "广东EPG文件或转换脚本不存在，跳过"
-            echo "guangdong_processed=false" >> $GITHUB_OUTPUT
-          fi
 
       # 第四阶段：PHP EPG生成
       - name: Check PHP scripts exist
