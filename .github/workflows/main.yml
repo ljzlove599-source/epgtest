@@ -199,7 +199,7 @@ jobs:
         run: |
           if [ -f "epgziyong.xml" ]; then
             echo "开始繁简转换..."
-            python - <<'EOF'
+            python3 - << 'EOF'
 from opencc import OpenCC
 import os, gzip
 
@@ -253,7 +253,7 @@ EOF
             sleep 5
           fi
           
-          python <<'EOF'
+          python3 << 'EOF'
 import xml.etree.ElementTree as ET
 import os
 
