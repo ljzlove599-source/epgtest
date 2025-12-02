@@ -1,0 +1,268 @@
+name: EPG Comprehensive Processing with Analysis1
+
+on:
+  schedule:
+    - cron: '1 */1 * * *'   # 每小时执行一次
+  workflow_dispatch:
+
+jobs:
+  epg_processing:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40  # 合并后适当增加超时时间
+
+    steps:
+      # ========== 第一阶段：环境准备和代码检出 ==========
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up environments
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq libxml2-utils gzip
+
+      - name: Set up PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '7.4'
+          tools: composer
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          if [ -f "composer.json" ]; then
+            composer install --no-dev --no-progress --no-interaction --prefer-dist
+          fi
+          pip install opencc
+
+      # ========== 第二阶段：文件下载和解压 ==========
+      - name: Download and extract files from files.json
+        run: |
+          if [ -f "files.json" ]; then
+            cat files.json | jq -r 'to_entries[] | "$.key) $.value)"' | while read -r filename url; do
+              wget -O "$filename" "$url" --retry-connrefused --waitretry=5 --timeout=30 || echo "$filename 下载失败"
+              if [[ "$filename" == *.gz ]] && [ -f "$filename" ]; then
+                gunzip -f "$filename"
+              fi
+            done
+          fi
+
+      # ========== 第三阶段：广东EPG处理 ==========
+      - name: Process Guangdong EPG
+        run: |
+          if [ -f "epgguangdong.xml" ]; then
+            echo "使用已下载的epgguangdong.xml"
+          else
+            curl -L -o epgguangdong.xml.gz https://raw.githubusercontent.com/litiande03/epg/refs/heads/master/pl.xml.gz || exit 1
+            gunzip -f epgguangdong.xml.gz
+          fi
+          if [ -f "epgguangdong.xml" ] && [ -f "convert.py" ]; then
+            python convert.py epgguangdong.xml
+            gzip -k -f epgguangdong.xml
+          fi
+
+      # ========== 第四阶段：PHP EPG生成 ==========
+      - name: Check PHP scripts exist
+        id: check_scripts
+        run: |
+          declare -a scripts=("epgdiyicaijing.php" "epgmncvision.php" "epgastro.php" "epggen2.php" "epgofiii.php" "epgkai1.php" "epgdubaione.php" "epgnewshanghai.php" "epgnewhebei.php" "epgnewguangdong.php" "epgziyong.php")
+          existing_scripts=()
+          for script in "${scripts[@]}"; do
+            [ -f "$script" ] && existing_scripts+=("$script")
+          done
+          scripts_list=$(IFS=,; echo "${existing_scripts[*]}")
+          echo "existing_scripts=$scripts_list" >> $GITHUB_OUTPUT
+
+      - name: Run PHP scripts to generate XML files
+        if: steps.check_scripts.outputs.existing_scripts != ''
+        run: |
+          IFS=',' read -ra scripts <<< "${{ steps.check_scripts.outputs.existing_scripts }}"
+          mkdir -p logs
+          for script in "${scripts[@]}"; do
+            php "$script" > "logs/${script%.php}.log"
+          done
+
+      # ========== 第五阶段：繁简转换 ==========
+      - name: Convert to Simplified and Traditional Chinese
+        run: |
+          if [ -f "epgziyong.xml" ]; then
+            python - <<'EOF'
+            from opencc import OpenCC
+            import gzip
+            cc_t2s = OpenCC('t2s')
+            cc_s2t = OpenCC('s2t')
+            with open("epgziyong.xml", "r", encoding="utf-8") as f:
+                text = f.read()
+            # 繁体转简体
+            with open("swepg.xml", "w", encoding="utf-8") as f:
+                f.write(cc_t2s.convert(text))
+            with open("swepg.xml", "rb") as f_in, gzip.open("swepg.xml.gz", "wb") as f_out:
+                f_out.writelines(f_in)
+            # 简体转繁体
+            with open("twepg.xml", "w", encoding="utf-8") as f:
+                f.write(cc_s2t.convert(text))
+            with open("twepg.xml", "rb") as f_in, gzip.open("twepg.xml.gz", "wb") as f_out:
+                f_out.writelines(f_in)
+            EOF
+          fi
+
+      # ========== 第六阶段：提取电视台名称（来自yy.yml） ==========
+      - name: Extract channel names
+        run: |
+          python <<'EOF'
+          import xml.etree.ElementTree as ET
+          def extract(xml, out):
+            try:
+              tree = ET.parse(xml)
+              root = tree.getroot()
+              ns = {'ns': root.tag.split('}')[0][1:]} if root.tag.startswith('{') else {}
+              seen = set()
+              lines = []
+              path = 'ns:channel' if ns else 'channel'
+              for c in root.findall(path, ns):
+                n = c.get('display-name') or c.findtext('display-name') or c.get('id')
+                if n and n not in seen:
+                  seen.add(n)
+                  lines.append(n.strip())
+              with open(out, 'w', encoding='utf-8') as f:
+                f.write('\n'.join(lines))
+            except: pass
+          extract('twepg.xml', '繁體電視台目錄.txt')
+          extract('swepg.xml', '简体电视台目录.txt')
+          EOF
+
+      # ========== 第七阶段：分析统计和生成报告（来自yy.yml） ==========
+      - name: Analyze EPG data and generate report
+        run: |
+          python <<'EOF'
+          import xml.etree.ElementTree as ET
+          import json
+          from datetime import datetime
+          import re
+
+          def analyze_epg_data(xml_file):
+            try:
+              tree = ET.parse(xml_file)
+              root = tree.getroot()
+              ns = {'ns': root.tag.split('}')[0][1:]} if root.tag.startswith('{') else {}
+              channels_info = {}
+              path = 'ns:channel' if ns else 'channel'
+              
+              # 收集频道信息
+              for channel in root.findall(path, ns):
+                channel_id = channel.get('id')
+                if not channel_id: continue
+                name = channel.get('display-name') or channel.findtext('display-name') or channel_id
+                channels_info[channel_id] = {
+                  'name': name.strip(),
+                  'program_count': 0,
+                  'start_times': [],
+                  'end_times': []
+                }
+              
+              # 统计节目
+              for programme in root.findall('ns:programme' if ns else 'programme', ns):
+                channel_id = programme.get('channel')
+                if channel_id not in channels_info: continue
+                channels_info[channel_id]['program_count'] += 1
+                start = programme.get('start')
+                stop = programme.get('stop')
+                if start: channels_info[channel_id]['start_times'].append(re.sub(r'\s+[+-]\d{4}$', '', start))
+                if stop: channels_info[channel_id]['end_times'].append(re.sub(r'\s+[+-]\d{4}$', '', stop))
+              
+              # 整理结果
+              result = []
+              for channel_id, info in channels_info.items():
+                time_range = "無數據"
+                duration_days = 0
+                epg_status = "□"
+                if info['start_times'] and info['end_times']:
+                  try:
+                    sorted_starts = sorted(info['start_times'])
+                    sorted_ends = sorted(info['end_times'])
+                    start_dt = datetime.strptime(sorted_starts[0], '%Y%m%d%H%M%S')
+                    end_dt = datetime.strptime(sorted_ends[-1], '%Y%m%d%H%M%S')
+                    duration_days = (end_dt - start_dt).days
+                    time_range = f"{start_dt.strftime('%m-%d %H:%M')} ~ {end_dt.strftime('%m-%d %H:%M')}"
+                  except: time_range = "格式異常"
+                if info['program_count'] > 0: epg_status = "■"
+                result.append({
+                  'channel_id': channel_id,
+                  'channel_name': info['name'],
+                  'program_count': info['program_count'],
+                  'duration_days': duration_days,
+                  'time_range': time_range,
+                  'epg_status': epg_status
+                })
+              result.sort(key=lambda x: x['channel_name'].lower())
+              return result
+            except Exception as e:
+              print(f"❌ 解析 {xml_file} 出错: {e}")
+              return []
+
+          # 生成分析报告
+          tw_data = analyze_epg_data('twepg.xml')
+          sw_data = analyze_epg_data('swepg.xml')
+          current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+          
+          # 生成README内容
+          md_content = f"# 📺 EPG 電子節目表狀態報告\n\n"
+          md_content += f"> 最後更新時間: **{current_time}**\n\n"
+          md_content += "## 📊 統計摘要\n"
+          md_content += f"- **繁體頻道數**: {len(tw_data)} (節目總數: {sum(x['program_count'] for x in tw_data)})\n"
+          md_content += f"- **簡體頻道數**: {len(sw_data)} (節目總數: {sum(x['program_count'] for x in sw_data)})\n\n"
+          
+          for title, data in [("🇹🇼 繁體頻道列表", tw_data), ("🇨🇳 簡體頻道列表", sw_data)]:
+            md_content += f"## {title}\n\n"
+            md_content += "| 頻道名稱 | 節目數量 | 覆蓋天數 | 時間範圍 | 狀態 |\n"
+            md_content += "| :--- | :---: | :---: | :--- | :---: |\n"
+            for item in data:
+              status_icon = "✅" if item['epg_status'] == "■" else "⚠️"
+              count_display = f"**{item['program_count']}**" if item['program_count'] == 0 else item['program_count']
+              md_content += f"| {item['channel_name']} | {count_display} | {item['duration_days']} 天 | {item['time_range']} | {status_icon} |\n"
+            md_content += "\n"
+          
+          with open('README.md', 'w', encoding='utf-8') as f:
+            f.write(md_content)
+          print("✅ README.md 已更新")
+
+          # 生成JSON文件
+          def generate_files(data, prefix):
+            table_data = {
+              'title': f'{prefix}列表',
+              'headers': ['频道ID', '频道名称', '节目数量', '天数', '时间范围', '状态'],
+              'data': [[c['channel_id'], c['channel_name'], c['program_count'], c['duration_days'], c['time_range'], c['epg_status']] for c in data]
+            }
+            with open(f'{prefix}_channels_table.json', 'w', encoding='utf-8') as f:
+              json.dump(table_data, f, ensure_ascii=False, indent=2)
+          generate_files(tw_data, 'traditional')
+          generate_files(sw_data, 'simplified')
+          EOF
+
+      # ========== 第八阶段：提交所有更改 ==========
+      - name: Commit and push results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add "繁體電視台目錄.txt" "简体电视台目录.txt" "*.json" "README.md" "*.xml*" "swepg.xml*" "twepg.xml*"
+          if ! git diff --cached --quiet; then
+            git commit -m "Update EPG analysis and report [auto]"
+            git push
+          else
+            echo "⚠️ 无变更需要提交"
+          fi
+
+      # ========== 第九阶段：日志和总结 ==========
+      - name: Upload logs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: epg-logs-${{ github.run_number }}
+          path: logs/
+          retention-days: 7
