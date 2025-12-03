@@ -226,8 +226,8 @@ foreach ($allPrograms as $index => $program) {
 $xml->save('epgdubaione.xml');
 
 // 输出XML内容（这应该是脚本的最后输出）
-//header('Content-Type: application/xml; charset=utf-8');
-//echo $xml->saveXML();
+header('Content-Type: application/xml; charset=utf-8');
+echo $xml->saveXML();
 
 // 辅助函数：转换为XMLTV时间格式
 function convertToXmltvTime($year, $month, $day, $time) {
