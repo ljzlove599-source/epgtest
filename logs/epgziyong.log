@@ -1,1 +1,27 @@
+PHP Warning:  simplexml_load_file(): ./epgmytvsuper.xml:142501: parser error : Opening and ending tag mismatch: Cantonese line 142501 and title in /home/runner/work/epgtest/epgtest/epgziyong.php on line 30
+PHP Warning:  simplexml_load_file(): <title lang="zh">Hong Kong Perspectives <Cantonese> - EP483</title> in /home/runner/work/epgtest/epgtest/epgziyong.php on line 30
+PHP Warning:  simplexml_load_file():                                                                    ^ in /home/runner/work/epgtest/epgtest/epgziyong.php on line 30
+PHP Warning:  simplexml_load_file(): ./epgmytvsuper.xml:142503: parser error : Opening and ending tag mismatch: title line 142501 and programme in /home/runner/work/epgtest/epgtest/epgziyong.php on line 30
+PHP Warning:  simplexml_load_file(): </programme> in /home/runner/work/epgtest/epgtest/epgziyong.php on line 30
+PHP Warning:  simplexml_load_file():             ^ in /home/runner/work/epgtest/epgtest/epgziyong.php on line 30
+PHP Warning:  simplexml_load_file(): ./epgmytvsuper.xml:166309: parser error : Opening and ending tag mismatch: programme line 142500 and tv in /home/runner/work/epgtest/epgtest/epgziyong.php on line 30
+PHP Warning:  simplexml_load_file(): </tv> in /home/runner/work/epgtest/epgtest/epgziyong.php on line 30
+PHP Warning:  simplexml_load_file():      ^ in /home/runner/work/epgtest/epgtest/epgziyong.php on line 30
+PHP Warning:  simplexml_load_file(): ./epgmytvsuper.xml:166310: parser error : Premature end of data in tag tv line 3 in /home/runner/work/epgtest/epgtest/epgziyong.php on line 30
+PHP Warning:  simplexml_load_file():  in /home/runner/work/epgtest/epgtest/epgziyong.php on line 30
+PHP Warning:  simplexml_load_file(): ^ in /home/runner/work/epgtest/epgtest/epgziyong.php on line 30
+加载失败: ./epgmytvsuper.xml
+PHP Warning:  simplexml_load_file(): ./epgmytvsuper.xml:142501: parser error : Opening and ending tag mismatch: Cantonese line 142501 and title in /home/runner/work/epgtest/epgtest/epgziyong.php on line 55
+PHP Warning:  simplexml_load_file(): <title lang="zh">Hong Kong Perspectives <Cantonese> - EP483</title> in /home/runner/work/epgtest/epgtest/epgziyong.php on line 55
+PHP Warning:  simplexml_load_file():                                                                    ^ in /home/runner/work/epgtest/epgtest/epgziyong.php on line 55
+PHP Warning:  simplexml_load_file(): ./epgmytvsuper.xml:142503: parser error : Opening and ending tag mismatch: title line 142501 and programme in /home/runner/work/epgtest/epgtest/epgziyong.php on line 55
+PHP Warning:  simplexml_load_file(): </programme> in /home/runner/work/epgtest/epgtest/epgziyong.php on line 55
+PHP Warning:  simplexml_load_file():             ^ in /home/runner/work/epgtest/epgtest/epgziyong.php on line 55
+PHP Warning:  simplexml_load_file(): ./epgmytvsuper.xml:166309: parser error : Opening and ending tag mismatch: programme line 142500 and tv in /home/runner/work/epgtest/epgtest/epgziyong.php on line 55
+PHP Warning:  simplexml_load_file(): </tv> in /home/runner/work/epgtest/epgtest/epgziyong.php on line 55
+PHP Warning:  simplexml_load_file():      ^ in /home/runner/work/epgtest/epgtest/epgziyong.php on line 55
+PHP Warning:  simplexml_load_file(): ./epgmytvsuper.xml:166310: parser error : Premature end of data in tag tv line 3 in /home/runner/work/epgtest/epgtest/epgziyong.php on line 55
+PHP Warning:  simplexml_load_file():  in /home/runner/work/epgtest/epgtest/epgziyong.php on line 55
+PHP Warning:  simplexml_load_file(): ^ in /home/runner/work/epgtest/epgtest/epgziyong.php on line 55
+加载失败: ./epgmytvsuper.xml
 XML文件合并完成，已保存为 epgziyong.xml 和 epgziyong.xml.gz
