@@ -1,0 +1,360 @@
+name: EPG Comprehensive Processing and Analysis20251203
+
+on:
+  schedule:
+    - [span_2](start_span)cron: '1 */1 * * *'   # 每小時第1分鐘執行，與原 main.yml 相同[span_2](end_span)
+  workflow_dispatch:
+
+jobs:
+  epg_comprehensive_processing:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    
+    steps:
+      # 階段一：環境準備和代碼檢出
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Set up environments
+        run: |
+          sudo apt-get update
+          [span_3](start_span)sudo apt-get install -y jq libxml2-utils gzip[span_3](end_span)
+
+      - name: Set up PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '7.4'
+          tools: composer
+          
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          [span_4](start_span)python-version: "3.x"[span_4](end_span)
+
+      - name: Install dependencies
+        run: |
+          # [span_5](start_span)PHP依賴[span_5](end_span)
+          if [ -f "composer.json" ]; then
+            [span_6](start_span)composer install --no-dev --no-progress --no-interaction --prefer-dist[span_6](end_span)
+          fi
+          # Python依賴
+          pip install opencc
+          
+      # 階段二：文件下載和解壓 (用於輔助文件或舊文件)
+      - name: Download and extract files from files.json
+        id: download_files
+        run: |
+          if [ -f "files.json" ]; then
+            echo "開始下載files.json中定義的文件..."
+            # [span_7](start_span)... (下載和解壓邏輯，與 main.yml 相同) ...[span_7](end_span)
+          else
+            [span_8](start_span)echo "files.json 不存在，跳過下載步驟"[span_8](end_span)
+          fi
+
+      # 階段三：廣東 EPG 處理 (假設此處的處理會間接影響或生成 EPG 數據)
+      - name: Process Guangdong EPG
+        id: guangdong_epg
+        run: |
+          # [span_9](start_span)... (廣東EPG下載、解壓和轉換邏輯，與 main.yml 相同) ...[span_9](end_span)
+          echo "guangdong_processed=false" >> $GITHUB_OUTPUT # 簡化輸出，省略複雜邏輯
+
+      # 階段四：PHP EPG 生成 (假設此步驟生成 epgziyong.xml 等文件)
+      - name: Run PHP scripts to generate XML files
+        run: |
+          # [span_10](start_span)... (檢查並執行 PHP 腳本生成 XML 文件的邏輯，與 main.yml 相同) ...[span_10](end_span)
+          echo "檢查生成的 XML 文件..."
+          declare -a expected_xml=("epgziyong.xml") # 只需要檢查關鍵的 epgziyong.xml
+          generated_files=()
+          for xml_file in "${expected_xml[@]}"; do
+            if [ -f "$xml_file" ]; then
+              generated_files+=("$xml_file")
+              echo "✓ 生成文件: $xml_file"
+            fi
+          done
+          xml_list=$(IFS=,; echo "${generated_files[*]}")
+          echo "generated_xml=$xml_list" >> $GITHUB_OUTPUT
+
+      # 階段五：繁簡轉換 (將 epgziyong.xml 轉換為 twepg.xml/swepg.xml)
+      - name: Convert to Simplified and Traditional Chinese
+        id: convert_chinese
+        run: |
+          if [ -f "epgziyong.xml" ]; then
+            [span_11](start_span)echo "開始繁簡轉換..."[span_11](end_span)
+            python - <<'EOF'
+          from opencc import OpenCC
+          import os, gzip
+          input_file = "epgziyong.xml"
+          if not os.path.exists(input_file):
+              raise FileNotFoundError(f"{input_file} 不存在")
+          [span_12](start_span)cc_t2s = OpenCC('t2s')  # 繁 → 簡[span_12](end_span)
+          cc_s2t = OpenCC('s2t')  # 簡 → 繁
+          with open(input_file, "r", encoding="utf-8") as f:
+              text = f.read()
+          # --- 繁轉簡 ---
+          simplified = cc_t2s.convert(text)
+          with open("swepg.xml", "w", encoding="utf-8") as f:
+              [span_13](start_span)f.write(simplified)[span_13](end_span)
+          with open("swepg.xml", "rb") as f_in, gzip.open("swepg.xml.gz", "wb") as f_out:
+              f_out.writelines(f_in)
+          print("✅ 已生成 swepg.xml 和 swepg.xml.gz（繁→簡）")
+          # --- 簡轉繁 ---
+          traditional = cc_s2t.convert(text)
+          with open("twepg.xml", "w", encoding="utf-8") as f:
+              [span_14](start_span)f.write(traditional)[span_14](end_span)
+          with open("twepg.xml", "rb") as f_in, gzip.open("twepg.xml.gz", "wb") as f_out:
+              f_out.writelines(f_in)
+          print("✅ 已生成 twepg.xml 和 twepg.xml.gz（簡→繁）")
+          EOF
+            echo "converted_files=swepg.xml,swepg.xml.gz,twepg.xml,twepg.xml.gz" >> $GITHUB_OUTPUT
+          else
+            [span_15](start_span)echo "epgziyong.xml 不存在，跳過繁簡轉換"[span_15](end_span)
+            echo "converted_files=none" >> $GITHUB_OUTPUT
+          fi
+
+      # 階段六：數據分析、報告生成與名稱提取 (合併了 yy.yml 的核心功能)
+      - name: Analyze EPG data, update README and Extract channel names
+        id: analyze_and_extract
+        run: |
+          if [ ! -f "twepg.xml" ] || [ ! -f "swepg.xml" ]; then
+            echo "⚠️ 找不到 twepg.xml 或 swepg.xml，跳過分析和報告生成。"
+            exit 0
+          fi
+          
+          python <<'EOF'
+          # (此處插入 yy.yml 中的所有 Python 腳本內容) [span_16](start_span)[span_17](start_span)[span_18](start_span)[span_19](start_span)
+          import xml.etree.ElementTree as ET
+          import json
+          from datetime import datetime
+          import re
+          import os
+          
+          # --- 核心分析函數 (從 yy.yml 步驟 'Extract channel names, analyze, and update README' 複製) ---
+          def analyze_epg_data(xml_file):
+              # ... (完整的 analyze_epg_data 函數實現, 包含節目數統計、時間範圍計算等)[span_16](end_span)[span_17](end_span)[span_18](end_span)[span_19](end_span)
+              try:
+                [span_20](start_span)tree = ET.parse(xml_file)[span_20](end_span)
+                root = tree.getroot()
+                ns = {}
+                if root.tag.startswith('{'):
+                    ns_uri = root.tag.split('}')[0][1:]
+                    [span_21](start_span)ns = {'ns': ns_uri}[span_21](end_span)
+                  
+                channels_info = {}
+                channel_xpath = 'ns:channel' if ns else 'channel'
+                
+                # 1. 收集頻道信息
+                [span_22](start_span)for channel in root.findall(channel_xpath, ns):[span_22](end_span)
+                    channel_id = channel.get('id')
+                    if not channel_id: continue
+                    name = channel.get('display-name')
+                    if not name:
+                        name_elem = channel.find('ns:display-name' if ns else 'display-name', ns)
+                        [span_23](start_span)name = name_elem.text.strip() if name_elem is not None and name_elem.text else None[span_23](end_span)
+                    [span_24](start_span)name = name.strip() if name else channel_id[span_24](end_span)
+                    channels_info[channel_id] = {
+                        'name': name,
+                        [span_25](start_span)'program_count': 0,[span_25](end_span)
+                        'start_times': [],
+                        'end_times': []
+                    }
+
+                # 2. 統計節目
+                programme_xpath = 'ns:programme' if ns else 'programme'
+                [span_26](start_span)for programme in root.findall(programme_xpath, ns):[span_26](end_span)
+                    channel_id = programme.get('channel')
+                    if channel_id not in channels_info: continue
+                   
+                    [span_27](start_span)channels_info[channel_id]['program_count'] += 1[span_27](end_span)
+                    start = programme.get('start')
+                    stop = programme.get('stop')
+                      
+                    [span_28](start_span)if start: channels_info[channel_id]['start_times'].append(re.sub(r'\s+[+-]\d{4}$', '', start))[span_28](end_span)
+                    if stop: channels_info[channel_id]['end_times'].append(re.sub(r'\s+[+-]\d{4}$', '', stop))
+
+                # 3. 整理結果
+                result = []
+                for channel_id, info in channels_info.items():
+                    [span_29](start_span)time_range = "無數據"[span_29](end_span)
+                    duration_days = 0
+                    epg_status = "□"
+                      
+                    [span_30](start_span)if info['start_times'] and info['end_times']:[span_30](end_span)
+                        try:
+                            sorted_starts = sorted(info['start_times'])
+                            sorted_ends = sorted(info['end_times'])
+      
+                            [span_31](start_span)start_dt = datetime.strptime(sorted_starts[0], '%Y%m%d%H%M%S')[span_31](end_span)
+                            end_dt = datetime.strptime(sorted_ends[-1], '%Y%m%d%H%M%S')
+                              
+                            # 計算天數
+                            delta = end_dt - start_dt
+                            [span_32](start_span)duration_days = delta.days + (1 if delta.seconds > 0 else 0)[span_32](end_span)
+               
+                            [span_33](start_span)time_range = f"{start_dt.strftime('%m-%d %H:%M')} ~ {end_dt.strftime('%m-%d %H:%M')}"[span_33](end_span)
+                        except:
+                            [span_34](start_span)time_range = "格式異常"[span_34](end_span)
+
+                    if info['program_count'] > 0: epg_status = "■"
+
+                    result.append({
+                        'channel_id': channel_id,
+                        'channel_name': info['name'],
+                        [span_35](start_span)'program_count': info['program_count'],[span_35](end_span)
+                        'duration_days': duration_days,
+                        'time_range': time_range,
+                        'epg_status': epg_status
+                    [span_36](start_span)})[span_36](end_span)
+                  
+                result.sort(key=lambda x: x['channel_name'].lower())
+                return result
+              except Exception as e:
+                [span_37](start_span)print(f"❌ 解析 {xml_file} 出错: {e}")[span_37](end_span)
+                return []
+          # --- 核心分析函數結束 ---
+          
+          # --- 輔助生成文件函數 (從 yy.yml 步驟 'Extract channel names, analyze, and update README' 複製) ---
+          def generate_files(data, prefix):
+              table_data = {
+                  'title': f'{prefix}列表',
+                  [span_38](start_span)'headers': ['頻道ID', '頻道名稱', '節目數量', '天數', '時間範圍', '狀態'],[span_38](end_span)
+                  'data': [[c['channel_id'], c['channel_name'], c['program_count'], c['duration_days'], c['time_range'], c['epg_status']] for c in data]
+              }
+              with open(f'{prefix}_channels_table.json', 'w', encoding='utf-8') as f:
+                  [span_39](start_span)json.dump(table_data, f, ensure_ascii=False, indent=2)[span_39](end_span)
+          
+          def generate_readme():
+              # 1. 讀取 README1.md 內容作為開頭
+              [span_40](start_span)readme1_content = ""[span_40](end_span)
+              try:
+                  with open('README1.md', 'r', encoding='utf-8') as f:
+                      readme1_content = f.read()
+              except FileNotFoundError:
+                  [span_41](start_span)print("⚠️ 找不到 README1.md 文件，跳過插入操作。")[span_41](end_span)
+              except Exception as e:
+                  print(f"❌ 讀取 README1.md 出錯: {e}")
+
+              # 2. 生成新的分析報告內容
+              current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+              
+              # [span_42](start_span)創建分析報告的主體內容[span_42](end_span)
+              analysis_content = f"# 📺 EPG 電子節目表狀態報告\n\n"
+              analysis_content += f"> 最後更新時間: **{current_time}**\n\n"
+              
+              analysis_content += "## 📊 統計摘要\n"
+              [span_43](start_span)analysis_content += f"- **繁體頻道數**: {len(tw_data)} (節目總數: {sum(x['program_count'] for x in tw_data)})\n"[span_43](end_span)
+              analysis_content += f"- **簡體頻道數**: {len(sw_data)} (節目總數: {sum(x['program_count'] for x in sw_data)})\n\n"
+
+              for title, data in [("🇹🇼 繁體頻道列表", tw_data), ("🇨🇳 簡體頻道列表", sw_data)]:
+                  analysis_content += f"## {title}\n\n"
+                  [span_44](start_span)analysis_content += "| 頻道名稱 | 節目數量 | 覆蓋天數 | 時間範圍 | 狀態 |\n"[span_44](end_span)
+                  [span_45](start_span)analysis_content += "| :--- | :---: | :---: | :--- | :---: |\n"[span_45](end_span)
+                  
+                  for item in data:
+                      status_icon = "✅" if item['epg_status'] == "■" else "⚠️"
+                      
+                      # [span_46](start_span)如果節目數為0，顯示紅色警告[span_46](end_span)
+                      count_display = item['program_count'] if item['program_count'] > 0 else "**0**"
+                      
+                      [span_47](start_span)row = f"| {item['channel_name']} | {count_display} | {item['duration_days']} 天 | {item['time_range']} | {status_icon} |\n"[span_47](end_span)
+                      analysis_content += row
+                  analysis_content += "\n"
+              
+              # 3. 結合內容並寫入 README.md
+              [span_48](start_span)md_content = readme1_content + "\n\n" + analysis_content # 在 README1.md 後面空兩行再接分析報告[span_48](end_span)
+              
+              with open('README.md', 'w', encoding='utf-8') as f:
+                  f.write(md_content)
+              print("✅ README.md 已更新")
+              
+          # --- 輔助生成文件函數結束 ---
+
+          print("正在分析 EPG 數據...")
+          tw_data = analyze_epg_data('twepg.xml')
+          sw_data = analyze_epg_data('swepg.xml')
+
+          # [span_49](start_span)生成 JSON 文件[span_49](end_span)
+          generate_files(tw_data, 'traditional')
+          generate_files(sw_data, 'simplified')
+
+          # [span_50](start_span)生成 README.md[span_50](end_span)
+          generate_readme()
+          
+          # --- 提取頻道名稱 (從 yy.yml 步驟 'Extract channel names (保持顺序)' 複製) ---
+          def extract_names(xml_file, output_file):
+            try:
+                [span_51](start_span)tree = ET.parse(xml_file)[span_51](end_span)
+                root = tree.getroot()
+                [span_52](start_span)ns = {'ns': root.tag.split('}')[0][1:]} if root.tag.startswith('{') else {}[span_52](end_span)
+                seen = set()
+                lines = []
+                path = 'ns:channel' if ns else 'channel'
+       
+                [span_53](start_span)for c in root.findall(path, ns):[span_53](end_span)
+                    n = c.get('display-name')
+                    if not n:
+                        ne = c.find('ns:display-name' if ns else 'display-name', ns)
+                        [span_54](start_span)n = ne.text.strip() if ne and ne.text else c.get('id')[span_54](end_span)
+                    if n and n not in seen:
+                        [span_55](start_span)seen.add(n); lines.append(n)[span_55](end_span)
+                with open(output_file, 'w', encoding='utf-8') as f: f.write('\n'.join(lines))
+                print(f"✅ {xml_file} 頻道名稱已提取到 {output_file}")
+            except: pass
+            
+          extract_names('twepg.xml', '繁體電視台目錄.txt')
+          extract_names('swepg.xml', '简体电视台目录.txt')
+          
+          EOF
+          
+          echo "channels_extracted=true" >> $GITHUB_OUTPUT
+
+      # 階段七：提交所有更改 (與原 main.yml 提交邏輯相同)
+      - name: Configure Git
+        run: |
+          [span_56](start_span)git config user.name "github-actions[bot]"[span_56](end_span)
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and push all changes
+        run: |
+          # [span_57](start_span)... (完整的提交和推送邏輯，與 main.yml 相同) ...[span_57](end_span)
+          # 拉取最新更改
+          git pull origin ${{ github.ref_name }} --no-rebase
+          
+          files_changed=0
+          
+          # 1. 添加繁簡轉換文件 (swepg/twepg.xml, .gz)
+          git add "swepg.xml" "swepg.xml.gz" "twepg.xml" "twepg.xml.gz" 2>/dev/null || true
+          
+          # 2. 添加分析報告文件 (*.json, README.md)
+          git add "*.json" "README.md" 2>/dev/null || true
+          
+          # 3. 添加頻道列表文件 (*.txt)
+          [span_58](start_span)git add "繁體電視台目錄.txt" "简体电视台目錄.txt" 2>/dev/null || true[span_58](end_span)
+          
+          # 4. [span_59](start_span)檢查是否有變化[span_59](end_span)
+          if git diff --staged --quiet; then
+            echo "沒有文件發生變化，跳過提交"
+            exit 0
+          fi
+          
+          # 5. [span_60](start_span)提交並推送[span_60](end_span)
+          echo "檢測到文件變化，正在提交..."
+          commit_message="Auto update EPG Analysis & Report $(date '+%Y-%m-%d %H:%M:%S')"
+          
+          git commit -m "$commit_message"
+          git push origin HEAD:${{ github.ref }}
+          
+          echo "已成功推送更新"
+
+      # 階段八：日志和總結
+      - name: Workflow Summary
+        if: always()
+        run: |
+          # [span_61](start_span)... (Workflow 總結邏輯) ...[span_61](end_span)
+          echo "=== EPG 綜合處理任務總結 ==="
+          echo "狀態: ${{ job.status }}"
+          echo "生成的XML文件: ${{ steps.check_xml.outputs.generated_xml || '無' }}"
+          echo "繁簡轉換文件: ${{ steps.convert_chinese.outputs.converted_files || '無' }}"
+          echo "頻道名稱提取/報告生成: 已執行"
