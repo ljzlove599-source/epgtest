@@ -52,7 +52,7 @@ https://epg.v1.mk/json?ch={name}&date={date}
 
 # 📺 EPG 電子節目表狀態報告
 
-> 最後更新時間: **2025-12-03 09:00:26**
+> 最後更新時間: **2025-12-03 09:18:34**
 
 ## 📊 統計摘要
 - **繁體頻道數**: 1761 (節目總數: 153865)
@@ -306,9 +306,9 @@ https://epg.v1.mk/json?ch={name}&date={date}
 | 玩家頻道 | 96 | 2 天 | 12-03 00:00 ~ 12-05 00:00 | ✅ |
 | HAPPY | 24 | 2 天 | 12-03 00:00 ~ 12-05 00:00 | ✅ |
 | HOT | 48 | 2 天 | 12-03 00:00 ~ 12-05 00:00 | ✅ |
-| 天映經典香港 | 26 | 0 天 | 格式異常 | ✅ |
-| 天映頻道馬來西亞 | 26 | 0 天 | 格式異常 | ✅ |
-| cmplus新加坡 | 26 | 0 天 | 格式異常 | ✅ |
+| 天映經典香港 | 26 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 天映頻道馬來西亞 | 26 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| cmplus新加坡 | 26 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
 | SUPER FREE (免費) | 84 | 3 天 | 12-02 06:00 ~ 12-05 06:00 | ✅ |
 | SUPER獎門人 (免費) | 96 | 3 天 | 12-02 06:00 ~ 12-05 06:00 | ✅ |
 | SUPER EYT (免費)(12月22日6時起改為'觀眾票選-追劇馬拉松 (免費)' | 54 | 3 天 | 12-02 06:00 ~ 12-05 06:00 | ✅ |
@@ -405,147 +405,147 @@ https://epg.v1.mk/json?ch={name}&date={date}
 | 龍華卡通臺 | 574 | 6 天 | 12-03 00:00 ~ 12-08 08:00 | ✅ |
 | 龍華日韓臺 | 268 | 6 天 | 12-03 00:00 ~ 12-08 08:00 | ✅ |
 | 龍華偶像臺OTT | 29 | 2 天 | 12-03 00:00 ~ 12-04 21:00 | ✅ |
-| viu6 | 44 | 0 天 | 格式異常 | ✅ |
-| ViuTV | 58 | 0 天 | 格式異常 | ✅ |
-| Viu 頻道 | 33 | 0 天 | 格式異常 | ✅ |
-| now 劇集 | 33 | 0 天 | 格式異常 | ✅ |
-| video express rentnow | 17 | 0 天 | 格式異常 | ✅ |
-| nowjeli | 28 | 0 天 | 格式異常 | ✅ |
-| HBO Hits香港 | 19 | 0 天 | 格式異常 | ✅ |
-| HBO Family香港 | 64 | 0 天 | 格式異常 | ✅ |
-| CINEMAX香港 | 19 | 0 天 | 格式異常 | ✅ |
-| HBO Signature香港 | 21 | 0 天 | 格式異常 | ✅ |
-| HBO香港 | 22 | 0 天 | 格式異常 | ✅ |
-| MOVIE MOVIE | 20 | 0 天 | 格式異常 | ✅ |
-| 爆谷臺 | 21 | 0 天 | 格式異常 | ✅ |
-| Now爆谷星影臺 | 20 | 0 天 | 格式異常 | ✅ |
-| Animax香港 | 65 | 0 天 | 格式異常 | ✅ |
-| tvN香港 | 25 | 0 天 | 格式異常 | ✅ |
-| KBS World香港 | 38 | 0 天 | 格式異常 | ✅ |
-| 東森亞洲 | 33 | 0 天 | 格式異常 | ✅ |
-| moov | 17 | 0 天 | 格式異常 | ✅ |
-| Panda TV | 6 | 0 天 | 格式異常 | ✅ |
-| Discovery Asia香港 | 44 | 0 天 | 格式異常 | ✅ |
-| Discovery Channel香港 | 37 | 0 天 | 格式異常 | ✅ |
-| 動物星球頻道香港 | 38 | 0 天 | 格式異常 | ✅ |
-| Discovery 科學頻道香港 | 50 | 0 天 | 格式異常 | ✅ |
-| DMAX香港 | 48 | 0 天 | 格式異常 | ✅ |
-| TLC旅遊生活頻道香港 | 41 | 0 天 | 格式異常 | ✅ |
-| Love Nature香港 | 37 | 0 天 | 格式異常 | ✅ |
-| BBC Earth香港 | 35 | 0 天 | 格式異常 | ✅ |
-| 戶外頻道香港 | 48 | 0 天 | 格式異常 | ✅ |
-| 罪案 + 偵緝香港 | 43 | 0 天 | 格式異常 | ✅ |
-| HISTORY香港 | 36 | 0 天 | 格式異常 | ✅ |
-| CNN 國際新聞網絡香港 | 41 | 0 天 | 格式異常 | ✅ |
-| CNBC香港 | 64 | 0 天 | 格式異常 | ✅ |
-| BBC News香港 | 72 | 0 天 | 格式異常 | ✅ |
-| Bloomberg Television香港 | 23 | 0 天 | 格式異常 | ✅ |
-| 亞洲新聞臺香港 | 32 | 0 天 | 格式異常 | ✅ |
-| Sky News香港 | 2 | 0 天 | 格式異常 | ✅ |
-| DW (English)香港 | 77 | 0 天 | 格式異常 | ✅ |
-| 半島電視臺英語頻道香港 | 53 | 0 天 | 格式異常 | ✅ |
-| euronews香港 | 114 | 0 天 | 格式異常 | ✅ |
-| France 24香港 | 170 | 0 天 | 格式異常 | ✅ |
-| NHK WORLD-JAPA香港 | 77 | 0 天 | 格式異常 | ✅ |
-| RT香港 | 5 | 0 天 | 格式異常 | ✅ |
-| 中國環球電視網香港 | 62 | 0 天 | 格式異常 | ✅ |
-| now直播 | 59 | 0 天 | 格式異常 | ✅ |
-| now新聞 | 89 | 0 天 | 格式異常 | ✅ |
-| now財經 | 75 | 0 天 | 格式異常 | ✅ |
-| now報價 | 17 | 0 天 | 格式異常 | ✅ |
-| 鳳凰資訊 | 85 | 0 天 | 格式異常 | ✅ |
-| 鳳凰香港臺 | 2 | 0 天 | 格式異常 | ✅ |
-| 智叻樂園 | 2 | 0 天 | 格式異常 | ✅ |
-| 鳳凰中文 | 68 | 0 天 | 格式異常 | ✅ |
-| 香港衛視 | 2 | 0 天 | 格式異常 | ✅ |
-| 東森亞洲新聞 | 33 | 0 天 | 格式異常 | ✅ |
-| DreamWorks 頻道香港 | 82 | 0 天 | 格式異常 | ✅ |
-| Cartoon Network香港 | 53 | 0 天 | 格式異常 | ✅ |
-| Nickelodeon香港 | 94 | 0 天 | 格式異常 | ✅ |
-| CBeebies香港 | 219 | 0 天 | 格式異常 | ✅ |
-| Moonbug香港 | 62 | 0 天 | 格式異常 | ✅ |
-| Nick Jr.香港 | 109 | 0 天 | 格式異常 | ✅ |
-| Da Vinc香港 | 137 | 0 天 | 格式異常 | ✅ |
-| BBC Lifestyle香港 | 38 | 0 天 | 格式異常 | ✅ |
-| AXN香港 | 37 | 0 天 | 格式異常 | ✅ |
-| ROCK Entertainment香港 | 32 | 0 天 | 格式異常 | ✅ |
-| Lifetime香港 | 35 | 0 天 | 格式異常 | ✅ |
-| Food Network香港 | 54 | 0 天 | 格式異常 | ✅ |
-| 亞洲美食臺香港 | 63 | 0 天 | 格式異常 | ✅ |
-| 旅遊頻道香港 | 2 | 0 天 | 格式異常 | ✅ |
-| 居家樂活頻道香港 | 2 | 0 天 | 格式異常 | ✅ |
-| Netflix香港 | 17 | 0 天 | 格式異常 | ✅ |
-| 深圳衛視香港 | 39 | 0 天 | 格式異常 | ✅ |
-| CCTV-1香港 | 53 | 0 天 | 格式異常 | ✅ |
-| CCTV-4香港 | 57 | 0 天 | 格式異常 | ✅ |
-| 大灣區衛視香港 | 30 | 0 天 | 格式異常 | ✅ |
-| 中央電視臺新聞頻道香港 | 37 | 0 天 | 格式異常 | ✅ |
-| 鳳凰衛視中文臺 | 68 | 0 天 | 格式異常 | ✅ |
-| OneTV 綜合頻道 | 2 | 0 天 | 格式異常 | ✅ |
-| 三沙衛視香港 | 5 | 0 天 | 格式異常 | ✅ |
-| 浙江衛視香港 | 31 | 0 天 | 格式異常 | ✅ |
-| ABC Australia香港 | 52 | 0 天 | 格式異常 | ✅ |
-| now體育 | 2 | 0 天 | 格式異常 | ✅ |
-| now體育4k | 52 | 0 天 | 格式異常 | ✅ |
-| Now Sports 英超TV | 52 | 0 天 | 格式異常 | ✅ |
-| Now Sports 英超TV1 | 40 | 0 天 | 格式異常 | ✅ |
-| Now Sports 英超 TV2 | 11 | 0 天 | 格式異常 | ✅ |
-| Now Sports 英超 TV3 | 10 | 0 天 | 格式異常 | ✅ |
-| Now Sports 英超 TV4 | 10 | 0 天 | 格式異常 | ✅ |
-| Now Sports 英超 TV5 | 10 | 0 天 | 格式異常 | ✅ |
-| Now Sports 英超 TV6 | 10 | 0 天 | 格式異常 | ✅ |
-| Now Sports 英超 TV7 | 9 | 0 天 | 格式異常 | ✅ |
-| Now Sports Premier | 41 | 0 天 | 格式異常 | ✅ |
-| Now Sports 1 | 26 | 0 天 | 格式異常 | ✅ |
-| Now Sports 2 | 23 | 0 天 | 格式異常 | ✅ |
-| Now Sports 3 | 63 | 0 天 | 格式異常 | ✅ |
-| Now Sports 4 | 26 | 0 天 | 格式異常 | ✅ |
-| Now Sports 5 | 26 | 0 天 | 格式異常 | ✅ |
-| Now Sports 6 | 24 | 0 天 | 格式異常 | ✅ |
-| Now Sports 7 | 45 | 0 天 | 格式異常 | ✅ |
-| beIN SPORTS 1 | 27 | 0 天 | 格式異常 | ✅ |
-| beIN SPORTS 2 | 31 | 0 天 | 格式異常 | ✅ |
-| MUTV | 46 | 0 天 | 格式異常 | ✅ |
-| Now Sports 641 | 18 | 0 天 | 格式異常 | ✅ |
-| NBA | 52 | 0 天 | 格式異常 | ✅ |
-| beIN SPORTS 3 | 23 | 0 天 | 格式異常 | ✅ |
-| beIN SPORTS 4 | 30 | 0 天 | 格式異常 | ✅ |
-| beIN SPORTS 5 | 30 | 0 天 | 格式異常 | ✅ |
-| beIN SPORTS 6 | 9 | 0 天 | 格式異常 | ✅ |
-| beIN SPORTS RUGBY | 2 | 0 天 | 格式異常 | ✅ |
-| Now Sports 651 | 17 | 0 天 | 格式異常 | ✅ |
-| Now Sports 652 | 17 | 0 天 | 格式異常 | ✅ |
-| Now Sports 668 | 39 | 0 天 | 格式異常 | ✅ |
-| SPOTV | 57 | 0 天 | 格式異常 | ✅ |
-| SPOTV2 | 25 | 0 天 | 格式異常 | ✅ |
-| Astro Cricket | 14 | 0 天 | 格式異常 | ✅ |
-| Premier Sports | 44 | 0 天 | 格式異常 | ✅ |
-| Now Sports plus | 32 | 0 天 | 格式異常 | ✅ |
-| Now Sports 681 | 2 | 0 天 | 格式異常 | ✅ |
-| Now 高爾夫2 | 24 | 0 天 | 格式異常 | ✅ |
-| Now 高爾夫3 | 21 | 0 天 | 格式異常 | ✅ |
-| Lucky 688 | 2 | 0 天 | 格式異常 | ✅ |
-| NHK World Premium | 190 | 0 天 | 格式異常 | ✅ |
-| TV5MONDE Style | 75 | 0 天 | 格式異常 | ✅ |
-| TV5MONDE ASIE | 65 | 0 天 | 格式異常 | ✅ |
-| France 24 (French) | 136 | 0 天 | 格式異常 | ✅ |
-| GMA Pinoy TV | 41 | 0 天 | 格式異常 | ✅ |
-| GMA Life T | 37 | 0 天 | 格式異常 | ✅ |
-| TFC | 39 | 0 天 | 格式異常 | ✅ |
-| Sony TV (India) | 43 | 0 天 | 格式異常 | ✅ |
-| Sony MAX | 15 | 0 天 | 格式異常 | ✅ |
-| Sony SAB | 73 | 0 天 | 格式異常 | ✅ |
-| MTV India | 33 | 0 天 | 格式異常 | ✅ |
+| viu6 | 44 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| ViuTV | 58 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Viu 頻道 | 33 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| now 劇集 | 33 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| video express rentnow | 17 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| nowjeli | 28 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| HBO Hits香港 | 19 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| HBO Family香港 | 64 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| CINEMAX香港 | 19 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| HBO Signature香港 | 21 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| HBO香港 | 22 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| MOVIE MOVIE | 20 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 爆谷臺 | 21 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now爆谷星影臺 | 20 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Animax香港 | 65 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| tvN香港 | 25 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| KBS World香港 | 38 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 東森亞洲 | 33 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| moov | 17 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Panda TV | 6 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Discovery Asia香港 | 44 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Discovery Channel香港 | 37 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 動物星球頻道香港 | 38 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Discovery 科學頻道香港 | 50 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| DMAX香港 | 48 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| TLC旅遊生活頻道香港 | 41 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Love Nature香港 | 37 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| BBC Earth香港 | 35 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 戶外頻道香港 | 48 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 罪案 + 偵緝香港 | 43 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| HISTORY香港 | 36 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| CNN 國際新聞網絡香港 | 41 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| CNBC香港 | 64 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| BBC News香港 | 72 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Bloomberg Television香港 | 23 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 亞洲新聞臺香港 | 32 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Sky News香港 | 2 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| DW (English)香港 | 77 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 半島電視臺英語頻道香港 | 53 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| euronews香港 | 114 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| France 24香港 | 170 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| NHK WORLD-JAPA香港 | 77 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| RT香港 | 5 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 中國環球電視網香港 | 62 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| now直播 | 59 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| now新聞 | 89 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| now財經 | 75 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| now報價 | 17 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 鳳凰資訊 | 85 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 鳳凰香港臺 | 2 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 智叻樂園 | 2 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 鳳凰中文 | 68 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 香港衛視 | 2 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 東森亞洲新聞 | 33 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| DreamWorks 頻道香港 | 82 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Cartoon Network香港 | 53 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Nickelodeon香港 | 94 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| CBeebies香港 | 219 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Moonbug香港 | 62 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Nick Jr.香港 | 109 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Da Vinc香港 | 137 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| BBC Lifestyle香港 | 38 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| AXN香港 | 37 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| ROCK Entertainment香港 | 32 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Lifetime香港 | 35 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Food Network香港 | 54 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 亞洲美食臺香港 | 63 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 旅遊頻道香港 | 2 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 居家樂活頻道香港 | 2 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Netflix香港 | 17 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 深圳衛視香港 | 39 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| CCTV-1香港 | 53 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| CCTV-4香港 | 57 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 大灣區衛視香港 | 30 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 中央電視臺新聞頻道香港 | 37 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 鳳凰衛視中文臺 | 68 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| OneTV 綜合頻道 | 2 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 三沙衛視香港 | 5 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 浙江衛視香港 | 31 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| ABC Australia香港 | 52 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| now體育 | 2 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| now體育4k | 52 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now Sports 英超TV | 52 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now Sports 英超TV1 | 40 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now Sports 英超 TV2 | 11 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now Sports 英超 TV3 | 10 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now Sports 英超 TV4 | 10 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now Sports 英超 TV5 | 10 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now Sports 英超 TV6 | 10 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now Sports 英超 TV7 | 9 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now Sports Premier | 41 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now Sports 1 | 26 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now Sports 2 | 23 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now Sports 3 | 63 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now Sports 4 | 26 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now Sports 5 | 26 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now Sports 6 | 24 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now Sports 7 | 45 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| beIN SPORTS 1 | 27 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| beIN SPORTS 2 | 31 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| MUTV | 46 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now Sports 641 | 18 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| NBA | 52 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| beIN SPORTS 3 | 23 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| beIN SPORTS 4 | 30 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| beIN SPORTS 5 | 30 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| beIN SPORTS 6 | 9 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| beIN SPORTS RUGBY | 2 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now Sports 651 | 17 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now Sports 652 | 17 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now Sports 668 | 39 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| SPOTV | 57 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| SPOTV2 | 25 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Astro Cricket | 14 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Premier Sports | 44 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now Sports plus | 32 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now Sports 681 | 2 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now 高爾夫2 | 24 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now 高爾夫3 | 21 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Lucky 688 | 2 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| NHK World Premium | 190 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| TV5MONDE Style | 75 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| TV5MONDE ASIE | 65 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| France 24 (French) | 136 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| GMA Pinoy TV | 41 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| GMA Life T | 37 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| TFC | 39 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Sony TV (India) | 43 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Sony MAX | 15 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Sony SAB | 73 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| MTV India | 33 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
 | COLORS | 171 | 4 天 | 12-02 15:00 ~ 12-05 16:30 | ✅ |
-| Zee Cinema International | 12 | 0 天 | 格式異常 | ✅ |
-| Zee TV | 58 | 0 天 | 格式異常 | ✅ |
-| Zee News | 5 | 0 天 | 格式異常 | ✅ |
-| Star Gold | 14 | 0 天 | 格式異常 | ✅ |
-| STAR PLUS | 59 | 0 天 | 格式異常 | ✅ |
-| Star Bharat | 42 | 0 天 | 格式異常 | ✅ |
-| 成人節目資訊 | 2 | 0 天 | 格式異常 | ✅ |
-| 冰火頻道 | 15 | 0 天 | 格式異常 | ✅ |
-| 成人極品臺 | 33 | 0 天 | 格式異常 | ✅ |
+| Zee Cinema International | 12 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Zee TV | 58 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Zee News | 5 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Star Gold | 14 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| STAR PLUS | 59 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Star Bharat | 42 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 成人節目資訊 | 2 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 冰火頻道 | 15 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 成人極品臺 | 33 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
 | Channel 5 | 140 | 4 天 | 12-02 16:00 ~ 12-05 16:20 | ✅ |
 | Channel 8 | 120 | 4 天 | 12-02 16:00 ~ 12-05 17:00 | ✅ |
 | Channel U | 117 | 4 天 | 12-02 15:30 ~ 12-05 16:30 | ✅ |
@@ -647,27 +647,27 @@ https://epg.v1.mk/json?ch={name}&date={date}
 | Zee TV HD | 127 | 4 天 | 12-02 16:00 ~ 12-05 16:30 | ✅ |
 | 重溫經典頻道 | 33 | 1 天 | 12-03 00:00 ~ 12-03 23:59 | ✅ |
 | 新視覺 | 69 | 3 天 | 12-03 14:01 ~ 12-05 23:02 | ✅ |
-| 勁爆體育 | 119 | 0 天 | 格式異常 | ✅ |
+| 勁爆體育 | 119 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
 | 海峽衛視 | 142 | 3 天 | 12-03 00:00 ~ 12-05 23:10 | ✅ |
 | 深視都市頻道 | 48 | 3 天 | 12-03 15:19 ~ 12-05 23:00 | ✅ |
 | 深視電視劇頻道 | 30 | 3 天 | 12-03 14:20 ~ 12-05 23:43 | ✅ |
 | 深視財經生活頻道 | 54 | 3 天 | 12-03 15:32 ~ 12-05 23:21 | ✅ |
 | 深視體育健康頻道 | 56 | 3 天 | 12-03 14:13 ~ 12-05 23:30 | ✅ |
 | 深視少兒頻道 | 43 | 3 天 | 12-03 13:50 ~ 12-05 23:00 | ✅ |
-| 深視移動電視頻道 | 2 | 0 天 | 格式異常 | ✅ |
+| 深視移動電視頻道 | 2 | 0 天 | 無數據 | ✅ |
 | 福建電視臺新聞頻道 | 105 | 3 天 | 12-03 13:55 ~ 12-05 23:59 | ✅ |
-| 福建鄉村振興·公共 | 2 | 0 天 | 格式異常 | ✅ |
-| 福建電視劇頻道 | 44 | 0 天 | 格式異常 | ✅ |
+| 福建鄉村振興·公共 | 2 | 0 天 | 無數據 | ✅ |
+| 福建電視劇頻道 | 44 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
 | 福建旅遊頻道 | 49 | 3 天 | 12-03 14:10 ~ 12-05 23:00 | ✅ |
 | 福建經濟頻道 | 72 | 3 天 | 12-03 17:53 ~ 12-05 23:59 | ✅ |
-| 福建體育頻道 | 23 | 0 天 | 格式異常 | ✅ |
+| 福建體育頻道 | 23 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
 | 福建少兒頻道 | 44 | 3 天 | 12-03 07:00 ~ 12-05 21:30 | ✅ |
 | 福建綜合頻道 | 58 | 3 天 | 12-03 18:02 ~ 12-05 22:46 | ✅ |
 | 江蘇優漫卡通頻道 | 90 | 3 天 | 12-03 13:55 ~ 12-05 23:59 | ✅ |
 | 江蘇國際頻道 | 70 | 3 天 | 12-03 14:10 ~ 12-05 23:00 | ✅ |
-| 魅力足球 | 31 | 0 天 | 格式異常 | ✅ |
-| CCTV-4歐洲頻道 | 93 | 0 天 | 格式異常 | ✅ |
-| CCTV-4美洲頻道 | 84 | 0 天 | 格式異常 | ✅ |
+| 魅力足球 | 31 | 0 天 | 格式異常 (unconverted data remains:  +08) | ✅ |
+| CCTV-4歐洲頻道 | 93 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| CCTV-4美洲頻道 | 84 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
 | CMC 北美頻道 | 17 | 1 天 | 12-03 00:00 ~ 12-03 23:59 | ✅ |
 | CMC 香港頻道 | 16 | 1 天 | 12-03 00:00 ~ 12-03 23:59 | ✅ |
 | CHC 家庭影院 | 14 | 1 天 | 12-03 00:00 ~ 12-03 23:59 | ✅ |
@@ -1307,36 +1307,36 @@ https://epg.v1.mk/json?ch={name}&date={date}
 | 龍華洋片臺OTT | 67 | 6 天 | 12-03 06:10 ~ 12-08 07:35 | ✅ |
 | 咪咕體育 | 69 | 3 天 | 12-03 03:00 ~ 12-06 01:00 | ✅ |
 | 奧林匹克官網直播 | 74 | 4 天 | 12-01 23:14 ~ 12-05 02:49 | ✅ |
-| KBS 1 | 60 | 2 天 | 12-03 00:00 ~ 12-04 23:30 | ✅ |
+| KBS 1 | 60 | 0 天 | 格式異常 (unconverted data remains:  +) | ✅ |
 | KBS 2 | 50 | 2 天 | 12-03 00:25 ~ 12-04 23:10 | ✅ |
 | KBS WORLD | 57 | 2 天 | 12-03 00:20 ~ 12-04 23:05 | ✅ |
 | KBS NEWS | 75 | 2 天 | 12-03 00:50 ~ 12-04 23:50 | ✅ |
-| KBS DRAMA | 44 | 0 天 | 格式異常 | ✅ |
-| KBS JOY | 34 | 0 天 | 格式異常 | ✅ |
-| KBS STORY | 51 | 0 天 | 格式異常 | ✅ |
-| KBS LIFE | 46 | 0 天 | 格式異常 | ✅ |
-| KBS KIDS | 134 | 0 天 | 格式異常 | ✅ |
-| SBS | 48 | 0 天 | 格式異常 | ✅ |
-| SBS plus | 27 | 0 天 | 格式異常 | ✅ |
-| SBS fune | 29 | 0 天 | 格式異常 | ✅ |
-| SBS Fil | 30 | 0 天 | 格式異常 | ✅ |
-| SBS sport | 28 | 0 天 | 格式異常 | ✅ |
-| SBS Golf | 33 | 0 天 | 格式異常 | ✅ |
-| SBS Golf2 | 32 | 0 天 | 格式異常 | ✅ |
-| SBS Biz | 49 | 0 天 | 格式異常 | ✅ |
-| SBS DMB | 48 | 0 天 | 格式異常 | ✅ |
-| MBC | 43 | 0 天 | 格式異常 | ✅ |
-| MBC every1 | 31 | 0 天 | 格式異常 | ✅ |
-| MBC drama | 37 | 0 天 | 格式異常 | ✅ |
-| MBC music | 37 | 0 天 | 格式異常 | ✅ |
-| MBC on | 49 | 0 天 | 格式異常 | ✅ |
-| MBC net | 41 | 0 天 | 格式異常 | ✅ |
+| KBS DRAMA | 44 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| KBS JOY | 34 | 0 天 | 格式異常 (unconverted data remains:  +) | ✅ |
+| KBS STORY | 51 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| KBS LIFE | 46 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| KBS KIDS | 134 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| SBS | 48 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| SBS plus | 27 | 0 天 | 格式異常 (unconverted data remains: 00) | ✅ |
+| SBS fune | 29 | 0 天 | 格式異常 (unconverted data remains: 00) | ✅ |
+| SBS Fil | 30 | 0 天 | 格式異常 (unconverted data remains: 00) | ✅ |
+| SBS sport | 28 | 0 天 | 格式異常 (unconverted data remains: 00) | ✅ |
+| SBS Golf | 33 | 0 天 | 格式異常 (unconverted data remains: 00) | ✅ |
+| SBS Golf2 | 32 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| SBS Biz | 49 | 0 天 | 格式異常 (unconverted data remains: 00) | ✅ |
+| SBS DMB | 48 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| MBC | 43 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| MBC every1 | 31 | 0 天 | 格式異常 (unconverted data remains: 00) | ✅ |
+| MBC drama | 37 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| MBC music | 37 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| MBC on | 49 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| MBC net | 41 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
 | 喀秋莎 | 56 | 1 天 | 12-03 06:30 ~ 12-04 06:20 | ✅ |
-| EBS1 | 90 | 0 天 | 格式異常 | ✅ |
-| EBS2 | 111 | 0 天 | 格式異常 | ✅ |
-| EBS CHILD | 107 | 0 天 | 格式異常 | ✅ |
-| EBS PLUS1 | 64 | 0 天 | 格式異常 | ✅ |
-| EBS PLUS2 | 84 | 0 天 | 格式異常 | ✅ |
+| EBS1 | 90 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| EBS2 | 111 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| EBS CHILD | 107 | 0 天 | 格式異常 (unconverted data remains: 00) | ✅ |
+| EBS PLUS1 | 64 | 0 天 | 格式異常 (unconverted data remains: 00) | ✅ |
+| EBS PLUS2 | 84 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
 | EBS EDUCATION | 130 | 2 天 | 12-03 06:00 ~ 12-04 23:50 | ✅ |
 | 龍華電影臺 | 57 | 5 天 | 12-03 08:10 ~ 12-08 06:10 | ✅ |
 | 龍華洋片臺 | 66 | 5 天 | 12-03 07:55 ~ 12-08 07:35 | ✅ |
@@ -2072,9 +2072,9 @@ https://epg.v1.mk/json?ch={name}&date={date}
 | 玩家频道 | 96 | 2 天 | 12-03 00:00 ~ 12-05 00:00 | ✅ |
 | HAPPY | 24 | 2 天 | 12-03 00:00 ~ 12-05 00:00 | ✅ |
 | HOT | 48 | 2 天 | 12-03 00:00 ~ 12-05 00:00 | ✅ |
-| 天映经典香港 | 26 | 0 天 | 格式異常 | ✅ |
-| 天映频道马来西亚 | 26 | 0 天 | 格式異常 | ✅ |
-| cmplus新加坡 | 26 | 0 天 | 格式異常 | ✅ |
+| 天映经典香港 | 26 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 天映频道马来西亚 | 26 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| cmplus新加坡 | 26 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
 | SUPER FREE (免费) | 84 | 3 天 | 12-02 06:00 ~ 12-05 06:00 | ✅ |
 | SUPER奖门人 (免费) | 96 | 3 天 | 12-02 06:00 ~ 12-05 06:00 | ✅ |
 | SUPER EYT (免费)(12月22日6时起改为'观众票选-追剧马拉松 (免费)' | 54 | 3 天 | 12-02 06:00 ~ 12-05 06:00 | ✅ |
@@ -2171,147 +2171,147 @@ https://epg.v1.mk/json?ch={name}&date={date}
 | 龙华卡通台 | 574 | 6 天 | 12-03 00:00 ~ 12-08 08:00 | ✅ |
 | 龙华日韩台 | 268 | 6 天 | 12-03 00:00 ~ 12-08 08:00 | ✅ |
 | 龙华偶像台OTT | 29 | 2 天 | 12-03 00:00 ~ 12-04 21:00 | ✅ |
-| viu6 | 44 | 0 天 | 格式異常 | ✅ |
-| ViuTV | 58 | 0 天 | 格式異常 | ✅ |
-| Viu 频道 | 33 | 0 天 | 格式異常 | ✅ |
-| now 剧集 | 33 | 0 天 | 格式異常 | ✅ |
-| video express rentnow | 17 | 0 天 | 格式異常 | ✅ |
-| nowjeli | 28 | 0 天 | 格式異常 | ✅ |
-| HBO Hits香港 | 19 | 0 天 | 格式異常 | ✅ |
-| HBO Family香港 | 64 | 0 天 | 格式異常 | ✅ |
-| CINEMAX香港 | 19 | 0 天 | 格式異常 | ✅ |
-| HBO Signature香港 | 21 | 0 天 | 格式異常 | ✅ |
-| HBO香港 | 22 | 0 天 | 格式異常 | ✅ |
-| MOVIE MOVIE | 20 | 0 天 | 格式異常 | ✅ |
-| 爆谷台 | 21 | 0 天 | 格式異常 | ✅ |
-| Now爆谷星影台 | 20 | 0 天 | 格式異常 | ✅ |
-| Animax香港 | 65 | 0 天 | 格式異常 | ✅ |
-| tvN香港 | 25 | 0 天 | 格式異常 | ✅ |
-| KBS World香港 | 38 | 0 天 | 格式異常 | ✅ |
-| 东森亚洲 | 33 | 0 天 | 格式異常 | ✅ |
-| moov | 17 | 0 天 | 格式異常 | ✅ |
-| Panda TV | 6 | 0 天 | 格式異常 | ✅ |
-| Discovery Asia香港 | 44 | 0 天 | 格式異常 | ✅ |
-| Discovery Channel香港 | 37 | 0 天 | 格式異常 | ✅ |
-| 动物星球频道香港 | 38 | 0 天 | 格式異常 | ✅ |
-| Discovery 科学频道香港 | 50 | 0 天 | 格式異常 | ✅ |
-| DMAX香港 | 48 | 0 天 | 格式異常 | ✅ |
-| TLC旅游生活频道香港 | 41 | 0 天 | 格式異常 | ✅ |
-| Love Nature香港 | 37 | 0 天 | 格式異常 | ✅ |
-| BBC Earth香港 | 35 | 0 天 | 格式異常 | ✅ |
-| 户外频道香港 | 48 | 0 天 | 格式異常 | ✅ |
-| 罪案 + 侦缉香港 | 43 | 0 天 | 格式異常 | ✅ |
-| HISTORY香港 | 36 | 0 天 | 格式異常 | ✅ |
-| CNN 国际新闻网络香港 | 41 | 0 天 | 格式異常 | ✅ |
-| CNBC香港 | 64 | 0 天 | 格式異常 | ✅ |
-| BBC News香港 | 72 | 0 天 | 格式異常 | ✅ |
-| Bloomberg Television香港 | 23 | 0 天 | 格式異常 | ✅ |
-| 亚洲新闻台香港 | 32 | 0 天 | 格式異常 | ✅ |
-| Sky News香港 | 2 | 0 天 | 格式異常 | ✅ |
-| DW (English)香港 | 77 | 0 天 | 格式異常 | ✅ |
-| 半岛电视台英语频道香港 | 53 | 0 天 | 格式異常 | ✅ |
-| euronews香港 | 114 | 0 天 | 格式異常 | ✅ |
-| France 24香港 | 170 | 0 天 | 格式異常 | ✅ |
-| NHK WORLD-JAPA香港 | 77 | 0 天 | 格式異常 | ✅ |
-| RT香港 | 5 | 0 天 | 格式異常 | ✅ |
-| 中国环球电视网香港 | 62 | 0 天 | 格式異常 | ✅ |
-| now直播 | 59 | 0 天 | 格式異常 | ✅ |
-| now新闻 | 89 | 0 天 | 格式異常 | ✅ |
-| now财经 | 75 | 0 天 | 格式異常 | ✅ |
-| now报价 | 17 | 0 天 | 格式異常 | ✅ |
-| 凤凰资讯 | 85 | 0 天 | 格式異常 | ✅ |
-| 凤凰香港台 | 2 | 0 天 | 格式異常 | ✅ |
-| 智叻乐园 | 2 | 0 天 | 格式異常 | ✅ |
-| 凤凰中文 | 68 | 0 天 | 格式異常 | ✅ |
-| 香港卫视 | 2 | 0 天 | 格式異常 | ✅ |
-| 东森亚洲新闻 | 33 | 0 天 | 格式異常 | ✅ |
-| DreamWorks 频道香港 | 82 | 0 天 | 格式異常 | ✅ |
-| Cartoon Network香港 | 53 | 0 天 | 格式異常 | ✅ |
-| Nickelodeon香港 | 94 | 0 天 | 格式異常 | ✅ |
-| CBeebies香港 | 219 | 0 天 | 格式異常 | ✅ |
-| Moonbug香港 | 62 | 0 天 | 格式異常 | ✅ |
-| Nick Jr.香港 | 109 | 0 天 | 格式異常 | ✅ |
-| Da Vinc香港 | 137 | 0 天 | 格式異常 | ✅ |
-| BBC Lifestyle香港 | 38 | 0 天 | 格式異常 | ✅ |
-| AXN香港 | 37 | 0 天 | 格式異常 | ✅ |
-| ROCK Entertainment香港 | 32 | 0 天 | 格式異常 | ✅ |
-| Lifetime香港 | 35 | 0 天 | 格式異常 | ✅ |
-| Food Network香港 | 54 | 0 天 | 格式異常 | ✅ |
-| 亚洲美食台香港 | 63 | 0 天 | 格式異常 | ✅ |
-| 旅游频道香港 | 2 | 0 天 | 格式異常 | ✅ |
-| 居家乐活频道香港 | 2 | 0 天 | 格式異常 | ✅ |
-| Netflix香港 | 17 | 0 天 | 格式異常 | ✅ |
-| 深圳卫视香港 | 39 | 0 天 | 格式異常 | ✅ |
-| CCTV-1香港 | 53 | 0 天 | 格式異常 | ✅ |
-| CCTV-4香港 | 57 | 0 天 | 格式異常 | ✅ |
-| 大湾区卫视香港 | 30 | 0 天 | 格式異常 | ✅ |
-| 中央电视台新闻频道香港 | 37 | 0 天 | 格式異常 | ✅ |
-| 凤凰卫视中文台 | 68 | 0 天 | 格式異常 | ✅ |
-| OneTV 综合频道 | 2 | 0 天 | 格式異常 | ✅ |
-| 三沙卫视香港 | 5 | 0 天 | 格式異常 | ✅ |
-| 浙江卫视香港 | 31 | 0 天 | 格式異常 | ✅ |
-| ABC Australia香港 | 52 | 0 天 | 格式異常 | ✅ |
-| now体育 | 2 | 0 天 | 格式異常 | ✅ |
-| now体育4k | 52 | 0 天 | 格式異常 | ✅ |
-| Now Sports 英超TV | 52 | 0 天 | 格式異常 | ✅ |
-| Now Sports 英超TV1 | 40 | 0 天 | 格式異常 | ✅ |
-| Now Sports 英超 TV2 | 11 | 0 天 | 格式異常 | ✅ |
-| Now Sports 英超 TV3 | 10 | 0 天 | 格式異常 | ✅ |
-| Now Sports 英超 TV4 | 10 | 0 天 | 格式異常 | ✅ |
-| Now Sports 英超 TV5 | 10 | 0 天 | 格式異常 | ✅ |
-| Now Sports 英超 TV6 | 10 | 0 天 | 格式異常 | ✅ |
-| Now Sports 英超 TV7 | 9 | 0 天 | 格式異常 | ✅ |
-| Now Sports Premier | 41 | 0 天 | 格式異常 | ✅ |
-| Now Sports 1 | 26 | 0 天 | 格式異常 | ✅ |
-| Now Sports 2 | 23 | 0 天 | 格式異常 | ✅ |
-| Now Sports 3 | 63 | 0 天 | 格式異常 | ✅ |
-| Now Sports 4 | 26 | 0 天 | 格式異常 | ✅ |
-| Now Sports 5 | 26 | 0 天 | 格式異常 | ✅ |
-| Now Sports 6 | 24 | 0 天 | 格式異常 | ✅ |
-| Now Sports 7 | 45 | 0 天 | 格式異常 | ✅ |
-| beIN SPORTS 1 | 27 | 0 天 | 格式異常 | ✅ |
-| beIN SPORTS 2 | 31 | 0 天 | 格式異常 | ✅ |
-| MUTV | 46 | 0 天 | 格式異常 | ✅ |
-| Now Sports 641 | 18 | 0 天 | 格式異常 | ✅ |
-| NBA | 52 | 0 天 | 格式異常 | ✅ |
-| beIN SPORTS 3 | 23 | 0 天 | 格式異常 | ✅ |
-| beIN SPORTS 4 | 30 | 0 天 | 格式異常 | ✅ |
-| beIN SPORTS 5 | 30 | 0 天 | 格式異常 | ✅ |
-| beIN SPORTS 6 | 9 | 0 天 | 格式異常 | ✅ |
-| beIN SPORTS RUGBY | 2 | 0 天 | 格式異常 | ✅ |
-| Now Sports 651 | 17 | 0 天 | 格式異常 | ✅ |
-| Now Sports 652 | 17 | 0 天 | 格式異常 | ✅ |
-| Now Sports 668 | 39 | 0 天 | 格式異常 | ✅ |
-| SPOTV | 57 | 0 天 | 格式異常 | ✅ |
-| SPOTV2 | 25 | 0 天 | 格式異常 | ✅ |
-| Astro Cricket | 14 | 0 天 | 格式異常 | ✅ |
-| Premier Sports | 44 | 0 天 | 格式異常 | ✅ |
-| Now Sports plus | 32 | 0 天 | 格式異常 | ✅ |
-| Now Sports 681 | 2 | 0 天 | 格式異常 | ✅ |
-| Now 高尔夫2 | 24 | 0 天 | 格式異常 | ✅ |
-| Now 高尔夫3 | 21 | 0 天 | 格式異常 | ✅ |
-| Lucky 688 | 2 | 0 天 | 格式異常 | ✅ |
-| NHK World Premium | 190 | 0 天 | 格式異常 | ✅ |
-| TV5MONDE Style | 75 | 0 天 | 格式異常 | ✅ |
-| TV5MONDE ASIE | 65 | 0 天 | 格式異常 | ✅ |
-| France 24 (French) | 136 | 0 天 | 格式異常 | ✅ |
-| GMA Pinoy TV | 41 | 0 天 | 格式異常 | ✅ |
-| GMA Life T | 37 | 0 天 | 格式異常 | ✅ |
-| TFC | 39 | 0 天 | 格式異常 | ✅ |
-| Sony TV (India) | 43 | 0 天 | 格式異常 | ✅ |
-| Sony MAX | 15 | 0 天 | 格式異常 | ✅ |
-| Sony SAB | 73 | 0 天 | 格式異常 | ✅ |
-| MTV India | 33 | 0 天 | 格式異常 | ✅ |
+| viu6 | 44 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| ViuTV | 58 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Viu 频道 | 33 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| now 剧集 | 33 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| video express rentnow | 17 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| nowjeli | 28 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| HBO Hits香港 | 19 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| HBO Family香港 | 64 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| CINEMAX香港 | 19 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| HBO Signature香港 | 21 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| HBO香港 | 22 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| MOVIE MOVIE | 20 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 爆谷台 | 21 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now爆谷星影台 | 20 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Animax香港 | 65 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| tvN香港 | 25 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| KBS World香港 | 38 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 东森亚洲 | 33 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| moov | 17 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Panda TV | 6 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Discovery Asia香港 | 44 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Discovery Channel香港 | 37 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 动物星球频道香港 | 38 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Discovery 科学频道香港 | 50 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| DMAX香港 | 48 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| TLC旅游生活频道香港 | 41 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Love Nature香港 | 37 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| BBC Earth香港 | 35 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 户外频道香港 | 48 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 罪案 + 侦缉香港 | 43 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| HISTORY香港 | 36 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| CNN 国际新闻网络香港 | 41 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| CNBC香港 | 64 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| BBC News香港 | 72 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Bloomberg Television香港 | 23 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 亚洲新闻台香港 | 32 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Sky News香港 | 2 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| DW (English)香港 | 77 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 半岛电视台英语频道香港 | 53 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| euronews香港 | 114 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| France 24香港 | 170 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| NHK WORLD-JAPA香港 | 77 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| RT香港 | 5 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 中国环球电视网香港 | 62 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| now直播 | 59 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| now新闻 | 89 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| now财经 | 75 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| now报价 | 17 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 凤凰资讯 | 85 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 凤凰香港台 | 2 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 智叻乐园 | 2 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 凤凰中文 | 68 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 香港卫视 | 2 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 东森亚洲新闻 | 33 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| DreamWorks 频道香港 | 82 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Cartoon Network香港 | 53 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Nickelodeon香港 | 94 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| CBeebies香港 | 219 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Moonbug香港 | 62 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Nick Jr.香港 | 109 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Da Vinc香港 | 137 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| BBC Lifestyle香港 | 38 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| AXN香港 | 37 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| ROCK Entertainment香港 | 32 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Lifetime香港 | 35 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Food Network香港 | 54 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 亚洲美食台香港 | 63 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 旅游频道香港 | 2 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 居家乐活频道香港 | 2 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Netflix香港 | 17 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 深圳卫视香港 | 39 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| CCTV-1香港 | 53 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| CCTV-4香港 | 57 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 大湾区卫视香港 | 30 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 中央电视台新闻频道香港 | 37 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 凤凰卫视中文台 | 68 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| OneTV 综合频道 | 2 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 三沙卫视香港 | 5 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 浙江卫视香港 | 31 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| ABC Australia香港 | 52 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| now体育 | 2 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| now体育4k | 52 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now Sports 英超TV | 52 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now Sports 英超TV1 | 40 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now Sports 英超 TV2 | 11 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now Sports 英超 TV3 | 10 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now Sports 英超 TV4 | 10 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now Sports 英超 TV5 | 10 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now Sports 英超 TV6 | 10 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now Sports 英超 TV7 | 9 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now Sports Premier | 41 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now Sports 1 | 26 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now Sports 2 | 23 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now Sports 3 | 63 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now Sports 4 | 26 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now Sports 5 | 26 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now Sports 6 | 24 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now Sports 7 | 45 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| beIN SPORTS 1 | 27 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| beIN SPORTS 2 | 31 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| MUTV | 46 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now Sports 641 | 18 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| NBA | 52 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| beIN SPORTS 3 | 23 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| beIN SPORTS 4 | 30 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| beIN SPORTS 5 | 30 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| beIN SPORTS 6 | 9 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| beIN SPORTS RUGBY | 2 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now Sports 651 | 17 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now Sports 652 | 17 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now Sports 668 | 39 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| SPOTV | 57 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| SPOTV2 | 25 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Astro Cricket | 14 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Premier Sports | 44 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now Sports plus | 32 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now Sports 681 | 2 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now 高尔夫2 | 24 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Now 高尔夫3 | 21 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Lucky 688 | 2 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| NHK World Premium | 190 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| TV5MONDE Style | 75 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| TV5MONDE ASIE | 65 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| France 24 (French) | 136 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| GMA Pinoy TV | 41 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| GMA Life T | 37 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| TFC | 39 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Sony TV (India) | 43 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Sony MAX | 15 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Sony SAB | 73 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| MTV India | 33 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
 | COLORS | 171 | 4 天 | 12-02 15:00 ~ 12-05 16:30 | ✅ |
-| Zee Cinema International | 12 | 0 天 | 格式異常 | ✅ |
-| Zee TV | 58 | 0 天 | 格式異常 | ✅ |
-| Zee News | 5 | 0 天 | 格式異常 | ✅ |
-| Star Gold | 14 | 0 天 | 格式異常 | ✅ |
-| STAR PLUS | 59 | 0 天 | 格式異常 | ✅ |
-| Star Bharat | 42 | 0 天 | 格式異常 | ✅ |
-| 成人节目资讯 | 2 | 0 天 | 格式異常 | ✅ |
-| 冰火频道 | 15 | 0 天 | 格式異常 | ✅ |
-| 成人极品台 | 33 | 0 天 | 格式異常 | ✅ |
+| Zee Cinema International | 12 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Zee TV | 58 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Zee News | 5 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Star Gold | 14 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| STAR PLUS | 59 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| Star Bharat | 42 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 成人节目资讯 | 2 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 冰火频道 | 15 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| 成人极品台 | 33 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
 | Channel 5 | 140 | 4 天 | 12-02 16:00 ~ 12-05 16:20 | ✅ |
 | Channel 8 | 120 | 4 天 | 12-02 16:00 ~ 12-05 17:00 | ✅ |
 | Channel U | 117 | 4 天 | 12-02 15:30 ~ 12-05 16:30 | ✅ |
@@ -2413,27 +2413,27 @@ https://epg.v1.mk/json?ch={name}&date={date}
 | Zee TV HD | 127 | 4 天 | 12-02 16:00 ~ 12-05 16:30 | ✅ |
 | 重温经典频道 | 33 | 1 天 | 12-03 00:00 ~ 12-03 23:59 | ✅ |
 | 新视觉 | 69 | 3 天 | 12-03 14:01 ~ 12-05 23:02 | ✅ |
-| 劲爆体育 | 119 | 0 天 | 格式異常 | ✅ |
+| 劲爆体育 | 119 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
 | 海峡卫视 | 142 | 3 天 | 12-03 00:00 ~ 12-05 23:10 | ✅ |
 | 深视都市频道 | 48 | 3 天 | 12-03 15:19 ~ 12-05 23:00 | ✅ |
 | 深视电视剧频道 | 30 | 3 天 | 12-03 14:20 ~ 12-05 23:43 | ✅ |
 | 深视财经生活频道 | 54 | 3 天 | 12-03 15:32 ~ 12-05 23:21 | ✅ |
 | 深视体育健康频道 | 56 | 3 天 | 12-03 14:13 ~ 12-05 23:30 | ✅ |
 | 深视少儿频道 | 43 | 3 天 | 12-03 13:50 ~ 12-05 23:00 | ✅ |
-| 深视移动电视频道 | 2 | 0 天 | 格式異常 | ✅ |
+| 深视移动电视频道 | 2 | 0 天 | 無數據 | ✅ |
 | 福建电视台新闻频道 | 105 | 3 天 | 12-03 13:55 ~ 12-05 23:59 | ✅ |
-| 福建乡村振兴·公共 | 2 | 0 天 | 格式異常 | ✅ |
-| 福建电视剧频道 | 44 | 0 天 | 格式異常 | ✅ |
+| 福建乡村振兴·公共 | 2 | 0 天 | 無數據 | ✅ |
+| 福建电视剧频道 | 44 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
 | 福建旅游频道 | 49 | 3 天 | 12-03 14:10 ~ 12-05 23:00 | ✅ |
 | 福建经济频道 | 72 | 3 天 | 12-03 17:53 ~ 12-05 23:59 | ✅ |
-| 福建体育频道 | 23 | 0 天 | 格式異常 | ✅ |
+| 福建体育频道 | 23 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
 | 福建少儿频道 | 44 | 3 天 | 12-03 07:00 ~ 12-05 21:30 | ✅ |
 | 福建综合频道 | 58 | 3 天 | 12-03 18:02 ~ 12-05 22:46 | ✅ |
 | 江苏优漫卡通频道 | 90 | 3 天 | 12-03 13:55 ~ 12-05 23:59 | ✅ |
 | 江苏国际频道 | 70 | 3 天 | 12-03 14:10 ~ 12-05 23:00 | ✅ |
-| 魅力足球 | 31 | 0 天 | 格式異常 | ✅ |
-| CCTV-4欧洲频道 | 93 | 0 天 | 格式異常 | ✅ |
-| CCTV-4美洲频道 | 84 | 0 天 | 格式異常 | ✅ |
+| 魅力足球 | 31 | 0 天 | 格式異常 (unconverted data remains:  +08) | ✅ |
+| CCTV-4欧洲频道 | 93 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| CCTV-4美洲频道 | 84 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
 | CMC 北美频道 | 17 | 1 天 | 12-03 00:00 ~ 12-03 23:59 | ✅ |
 | CMC 香港频道 | 16 | 1 天 | 12-03 00:00 ~ 12-03 23:59 | ✅ |
 | CHC 家庭影院 | 14 | 1 天 | 12-03 00:00 ~ 12-03 23:59 | ✅ |
@@ -3073,36 +3073,36 @@ https://epg.v1.mk/json?ch={name}&date={date}
 | 龙华洋片台OTT | 67 | 6 天 | 12-03 06:10 ~ 12-08 07:35 | ✅ |
 | 咪咕体育 | 69 | 3 天 | 12-03 03:00 ~ 12-06 01:00 | ✅ |
 | 奥林匹克官网直播 | 74 | 4 天 | 12-01 23:14 ~ 12-05 02:49 | ✅ |
-| KBS 1 | 60 | 2 天 | 12-03 00:00 ~ 12-04 23:30 | ✅ |
+| KBS 1 | 60 | 0 天 | 格式異常 (unconverted data remains:  +) | ✅ |
 | KBS 2 | 50 | 2 天 | 12-03 00:25 ~ 12-04 23:10 | ✅ |
 | KBS WORLD | 57 | 2 天 | 12-03 00:20 ~ 12-04 23:05 | ✅ |
 | KBS NEWS | 75 | 2 天 | 12-03 00:50 ~ 12-04 23:50 | ✅ |
-| KBS DRAMA | 44 | 0 天 | 格式異常 | ✅ |
-| KBS JOY | 34 | 0 天 | 格式異常 | ✅ |
-| KBS STORY | 51 | 0 天 | 格式異常 | ✅ |
-| KBS LIFE | 46 | 0 天 | 格式異常 | ✅ |
-| KBS KIDS | 134 | 0 天 | 格式異常 | ✅ |
-| SBS | 48 | 0 天 | 格式異常 | ✅ |
-| SBS plus | 27 | 0 天 | 格式異常 | ✅ |
-| SBS fune | 29 | 0 天 | 格式異常 | ✅ |
-| SBS Fil | 30 | 0 天 | 格式異常 | ✅ |
-| SBS sport | 28 | 0 天 | 格式異常 | ✅ |
-| SBS Golf | 33 | 0 天 | 格式異常 | ✅ |
-| SBS Golf2 | 32 | 0 天 | 格式異常 | ✅ |
-| SBS Biz | 49 | 0 天 | 格式異常 | ✅ |
-| SBS DMB | 48 | 0 天 | 格式異常 | ✅ |
-| MBC | 43 | 0 天 | 格式異常 | ✅ |
-| MBC every1 | 31 | 0 天 | 格式異常 | ✅ |
-| MBC drama | 37 | 0 天 | 格式異常 | ✅ |
-| MBC music | 37 | 0 天 | 格式異常 | ✅ |
-| MBC on | 49 | 0 天 | 格式異常 | ✅ |
-| MBC net | 41 | 0 天 | 格式異常 | ✅ |
+| KBS DRAMA | 44 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| KBS JOY | 34 | 0 天 | 格式異常 (unconverted data remains:  +) | ✅ |
+| KBS STORY | 51 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| KBS LIFE | 46 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| KBS KIDS | 134 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| SBS | 48 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| SBS plus | 27 | 0 天 | 格式異常 (unconverted data remains: 00) | ✅ |
+| SBS fune | 29 | 0 天 | 格式異常 (unconverted data remains: 00) | ✅ |
+| SBS Fil | 30 | 0 天 | 格式異常 (unconverted data remains: 00) | ✅ |
+| SBS sport | 28 | 0 天 | 格式異常 (unconverted data remains: 00) | ✅ |
+| SBS Golf | 33 | 0 天 | 格式異常 (unconverted data remains: 00) | ✅ |
+| SBS Golf2 | 32 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| SBS Biz | 49 | 0 天 | 格式異常 (unconverted data remains: 00) | ✅ |
+| SBS DMB | 48 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| MBC | 43 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| MBC every1 | 31 | 0 天 | 格式異常 (unconverted data remains: 00) | ✅ |
+| MBC drama | 37 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| MBC music | 37 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| MBC on | 49 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| MBC net | 41 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
 | 喀秋莎 | 56 | 1 天 | 12-03 06:30 ~ 12-04 06:20 | ✅ |
-| EBS1 | 90 | 0 天 | 格式異常 | ✅ |
-| EBS2 | 111 | 0 天 | 格式異常 | ✅ |
-| EBS CHILD | 107 | 0 天 | 格式異常 | ✅ |
-| EBS PLUS1 | 64 | 0 天 | 格式異常 | ✅ |
-| EBS PLUS2 | 84 | 0 天 | 格式異常 | ✅ |
+| EBS1 | 90 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| EBS2 | 111 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
+| EBS CHILD | 107 | 0 天 | 格式異常 (unconverted data remains: 00) | ✅ |
+| EBS PLUS1 | 64 | 0 天 | 格式異常 (unconverted data remains: 00) | ✅ |
+| EBS PLUS2 | 84 | 0 天 | 格式異常 (unconverted data remains: 0) | ✅ |
 | EBS EDUCATION | 130 | 2 天 | 12-03 06:00 ~ 12-04 23:50 | ✅ |
 | 龙华电影台 | 57 | 5 天 | 12-03 08:10 ~ 12-08 06:10 | ✅ |
 | 龙华洋片台 | 66 | 5 天 | 12-03 07:55 ~ 12-08 07:35 | ✅ |
