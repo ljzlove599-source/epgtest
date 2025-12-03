@@ -120,7 +120,7 @@ jobs:
         id: check_scripts
         run: |
           echo "检查PHP脚本文件..."
-          declare -a scripts=("epgdiyicaijing.php" "epgmncvision.php" "epgastro.php" "epggen2.php" "epgofiii.php" "epgkai1.php" "epgdubaione.php" "epgnewshanghai.php" "epgnewhebei.php" "epgnewguangdong.php" "epgziyong.php")
+          declare -a scripts=("epgdiyicaijing.php" "epgdubaione.php" "epgmncvision.php" "epgastro.php" "epggen2.php" "epgofiii.php" "epgkai1.php" "epgnewshanghai.php" "epgnewhebei.php" "epgnewguangdong.php" "epgziyong.php")
           existing_scripts=()
           
           for script in "${scripts[@]}"; do
@@ -165,7 +165,7 @@ jobs:
       - name: Check generated XML files
         id: check_xml
         run: |
-          declare -a expected_xml=("epgguangdong.xml.gz" "epgguangdong.xml" "epgmncvision.xml" "epgastro.xml" "epgyidong.xml" "epghebei.xml" "epgdiyicaijing.xml" "epgofiii.xml" "epgkai1.xml" "epgdubaione.xml" "epgnewshanghai.xml" "epghebeiiptv1.xml" "epgnewhebei.xml" "epgnewguangdong.xml" "epgziyong.xml")
+          declare -a expected_xml=("epgguangdong.xml.gz" "epgguangdong.xml" "epgdubaione.xml" "epgdiyicaijing.xml" "epgmncvision.xml" "epgastro.xml" "epgyidong.xml" "epghebei.xml" "epgofiii.xml" "epgkai1.xml"  "epgnewshanghai.xml" "epghebeiiptv1.xml" "epgnewhebei.xml" "epgnewguangdong.xml" "epgziyong.xml")
           generated_files=()
           
           echo "检查生成的XML文件..."
