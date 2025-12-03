@@ -169,6 +169,6 @@ if (!empty($chn)) {
 }
 
 // 输出 XML
-//header('Content-Length: ' . strlen($formattedXML));
-//echo $formattedXML;
+header('Content-Length: ' . strlen($formattedXML));
+echo $formattedXML;
 ?>
