@@ -47,7 +47,7 @@ jobs:
                 channels_info = {}
                 channel_xpath = 'ns:channel' if ns else 'channel'
                 
-                # --- [修復點 1]: 記錄原始順序的列表 ---
+                # 記錄原始順序的列表
                 original_order_ids = []
                 
                 # 1. 收集頻道信息
@@ -55,8 +55,7 @@ jobs:
                     channel_id = channel.get('id')
                     if not channel_id: continue
                     
-                    # --- [修復點 2]: 記錄 channel_id 的原始順序 ---
-                    if channel_id not in channels_info: # 確保只記錄第一次出現的順序
+                    if channel_id not in channels_info:
                         original_order_ids.append(channel_id)
                 
                     name = channel.get('display-name')
@@ -83,10 +82,18 @@ jobs:
                     stop = programme.get('stop')
                       
                     # ======================================================
-                    # 🚀 修復「格式異常」錯誤：直接提取前 14 位數字 (YYYYMMDDHHMMSS)
+                    # 🚀 第三次修復：使用 Regex 提取連續 14 位數字，確保數據純淨
                     # ======================================================
-                    if start and len(start) >= 14: channels_info[channel_id]['start_times'].append(start[:14])
-                    if stop and len(stop) >= 14: channels_info[channel_id]['end_times'].append(stop[:14])
+                    
+                    # 搜尋並提取連續 14 位數字 (YYYYMMDDHHMMSS)
+                    match_start = re.search(r'\d{14}', start) if start else None
+                    match_stop = re.search(r'\d{14}', stop) if stop else None
+                    
+                    if match_start:
+                        channels_info[channel_id]['start_times'].append(match_start.group(0))
+                    if match_stop:
+                        channels_info[channel_id]['end_times'].append(match_stop.group(0))
+                    
                     # ======================================================
 
                 # 3. 整理結果
@@ -101,7 +108,7 @@ jobs:
                             sorted_starts = sorted(info['start_times'])
                             sorted_ends = sorted(info['end_times'])
                             
-                            # 注意：這裡 start_dt 和 end_dt 已經是乾淨的 14 位字串
+                            # 由於我們已經用 Regex 確保了 start/stop_times 裡都是 14 位數字，解析將更加可靠
                             start_dt = datetime.strptime(sorted_starts[0], '%Y%m%d%H%M%S')
                             end_dt = datetime.strptime(sorted_ends[-1], '%Y%m%d%H%M%S')
                               
@@ -111,7 +118,7 @@ jobs:
                             
                             time_range = f"{start_dt.strftime('%m-%d %H:%M')} ~ {end_dt.strftime('%m-%d %H:%M')}"
                         except Exception as e:
-                            # 如果清理後仍出現異常，通常是因為數據本身無效，將錯誤訊息包含在內
+                            # 如果這裡仍出現錯誤 (例如數據不是有效的日期)，則輸出錯誤訊息
                             time_range = f"格式異常 ({e})"
 
                     if info['program_count'] > 0: epg_status = "■"
@@ -125,14 +132,9 @@ jobs:
                         'epg_status': epg_status
                     })
                   
-                # --- [修復點 3]: 替換排序邏輯 ---
-                # 創建一個字典，用於快速查找 channel_id 在原始列表中的位置 (索引越小，順序越靠前)
+                # 按原始 XML 順序排序
                 order_map = {id: index for index, id in enumerate(original_order_ids)}
-                
-                # 按原始 XML 順序排序：使用 channel_id 在 order_map 中的值（索引）作為排序鍵
-                # 對於不在 original_order_ids 中的 channel_id (理論上不應該發生)，給予一個極大的值讓它排在最後
                 result.sort(key=lambda x: order_map.get(x['channel_id'], len(original_order_ids) + 1))
-                # --------------------------------
 
                 return result
               except Exception as e:
@@ -158,21 +160,18 @@ jobs:
 
           # --- 生成 README.md (新增功能) ---
           def generate_readme():
-              # 1. 讀取 README1.md 內容作為開頭
               readme1_content = ""
               try:
                   with open('README1.md', 'r', encoding='utf-8') as f:
                       readme1_content = f.read()
               except FileNotFoundError:
-                  print("⚠️ 找不到 README1.md 文件，跳過插入操作。")
+                  pass
               except Exception as e:
                   print(f"❌ 讀取 README1.md 出錯: {e}")
 
 
-              # 2. 生成新的分析報告內容
               current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
               
-              # 創建分析報告的主體內容
               analysis_content = f"# 📺 EPG 電子節目表狀態報告\n\n"
               analysis_content += f"> 最後更新時間: **{current_time}**\n\n"
               
@@ -186,16 +185,14 @@ jobs:
                   analysis_content += "| :--- | :---: | :---: | :--- | :---: |\n"
                   
                   for item in data:
-                      status_icon = "✅" if item['epg_status'] == "■" else "⚠️"
-                      # 如果節目數為0，顯示紅色警告
+                      status_icon = "✅" if item['epg_status'] == "■" and "格式異常" not in item['time_range'] else ("⚠️" if item['epg_status'] == "■" else "❌")
                       count_display = item['program_count'] if item['program_count'] > 0 else "**0**"
                       
                       row = f"| {item['channel_name']} | {count_display} | {item['duration_days']} 天 | {item['time_range']} | {status_icon} |\n"
                       analysis_content += row
                   analysis_content += "\n"
               
-              # 3. 結合內容並寫入 README.md
-              md_content = readme1_content + "\n\n" + analysis_content # 在 README1.md 後面空兩行再接分析報告
+              md_content = readme1_content + "\n\n" + analysis_content
               
               with open('README.md', 'w', encoding='utf-8') as f:
                   f.write(md_content)
@@ -235,8 +232,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           
-          # 加入 README.md 到提交列表
-          git add "繁體電視台目錄.txt" "简体电视台目录.txt" "*.json" "README.md"
+          git add "繁體電視台目錄.txt" "简体电视台目錄.txt" "*.json" "README.md"
           
           if git diff --cached --quiet;
           then
