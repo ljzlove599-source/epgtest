@@ -1,6 +1,6 @@
 <?php
 // 错误报告开启以便调试
-header('Content-Type: text/xml;charset=UTF-8');
+//header('Content-Type: text/xml;charset=UTF-8');
 ini_set("max_execution_time", "300");
 ini_set('date.timezone','Asia/Shanghai');
 error_reporting(E_ALL);
