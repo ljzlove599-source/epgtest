@@ -313,6 +313,12 @@
 <channel id="Astro_Sports_UHD_805">
   <display-name lang="zh">Astro Sports UHD 805</display-name>
 </channel>
+<channel id="beIN_SPORTS_4">
+  <display-name lang="zh">beIN SPORTS 4</display-name>
+</channel>
+<channel id="beIN_SPORTS_5">
+  <display-name lang="zh">beIN SPORTS 5</display-name>
+</channel>
 <channel id="Astro_Sports_Plus_2">
   <display-name lang="zh">Astro Sports Plus 2</display-name>
 </channel>
@@ -339,6 +345,9 @@
 </channel>
 <channel id="Astro_Premier_League_4">
   <display-name lang="zh">Astro Premier League 4</display-name>
+</channel>
+<channel id="Astro_Football_3">
+  <display-name lang="zh">Astro Football 3</display-name>
 </channel>
 <channel id="Astro_Premier_League_5">
   <display-name lang="zh">Astro Premier League 5</display-name>
@@ -28647,8 +28656,12 @@
   <title lang="zh">ITTF Mixed Team WC: Day 4: Night Session</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20251204170000 +0800" stop="20251204210000 +0800" channel="Astro_Sports_Plus">
+<programme start="20251204170000 +0800" stop="20251204203500 +0800" channel="Astro_Sports_Plus">
   <title lang="zh">(L) ITTF Mixed Team WC: Day 5: Night Session</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20251204203500 +0800" stop="20251204210000 +0800" channel="Astro_Sports_Plus">
+  <title lang="zh">FIBA World Basketball 2025: Episode 32</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20251204210000 +0800" stop="20251204220000 +0800" channel="Astro_Sports_Plus">
@@ -29655,8 +29668,12 @@
   <title lang="zh">Highlights ICC WWC 2025: Final</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20251204115000 +0800" stop="20251204203000 +0800" channel="Astro_Cricket">
+<programme start="20251204115000 +0800" stop="20251204200000 +0800" channel="Astro_Cricket">
   <title lang="zh">(L) 2nd Test Day 1: AUS v ENG</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20251204200000 +0800" stop="20251204203000 +0800" channel="Astro_Cricket">
+  <title lang="zh">Highlights IPL 2025: CSK v RCB</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20251204203000 +0800" stop="20251204210000 +0800" channel="Astro_Cricket">
