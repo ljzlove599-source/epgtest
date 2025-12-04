@@ -154,4 +154,5 @@ for ($k = 0; $k < $trm; $k++) {
 
 $chn .= "</tv>\n";
 file_put_contents($fp, $chn);
+echo "EPG文件生成完成！路径：{$fp}";
 ?>
