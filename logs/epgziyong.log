@@ -1,1 +1,9 @@
+PHP Warning:  simplexml_load_file(): ./epgmytvsuper.xml:1: parser error : Document is empty in /home/runner/work/epgtest/epgtest/epgziyong.php on line 31
+PHP Warning:  simplexml_load_file():  in /home/runner/work/epgtest/epgtest/epgziyong.php on line 31
+PHP Warning:  simplexml_load_file(): ^ in /home/runner/work/epgtest/epgtest/epgziyong.php on line 31
+加载失败: ./epgmytvsuper.xml
+PHP Warning:  simplexml_load_file(): ./epgmytvsuper.xml:1: parser error : Document is empty in /home/runner/work/epgtest/epgtest/epgziyong.php on line 56
+PHP Warning:  simplexml_load_file():  in /home/runner/work/epgtest/epgtest/epgziyong.php on line 56
+PHP Warning:  simplexml_load_file(): ^ in /home/runner/work/epgtest/epgtest/epgziyong.php on line 56
+加载失败: ./epgmytvsuper.xml
 XML文件合并完成，已保存为 epgziyong.xml 和 epgziyong.xml.gz
