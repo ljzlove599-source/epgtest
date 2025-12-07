@@ -319,6 +319,9 @@
 <channel id="beIN_SPORTS_5">
   <display-name lang="zh">beIN SPORTS 5</display-name>
 </channel>
+<channel id="beIN_SPORTS_6">
+  <display-name lang="zh">beIN SPORTS 6</display-name>
+</channel>
 <channel id="Astro_Sports_Plus_2">
   <display-name lang="zh">Astro Sports Plus 2</display-name>
 </channel>
@@ -345,9 +348,6 @@
 </channel>
 <channel id="Astro_Premier_League_4">
   <display-name lang="zh">Astro Premier League 4</display-name>
-</channel>
-<channel id="Astro_Football_3">
-  <display-name lang="zh">Astro Football 3</display-name>
 </channel>
 <channel id="beIN_SPORTS_1">
   <display-name lang="zh">beIN SPORTS 1</display-name>
@@ -1346,11 +1346,11 @@
   <title lang="zh">Kalut Nak Kahwin</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20251207210000 +0800" stop="20251207233000 +0800" channel="Astro_Ria">
+<programme start="20251207210000 +0800" stop="20251207234000 +0800" channel="Astro_Ria">
   <title lang="zh">(L) Konsert Gegar Vaganza S12 Minggu 6 Ep06</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20251208000000 +0800" stop="20251208003000 +0800" channel="Astro_Ria">
+<programme start="20251208001000 +0800" stop="20251208003000 +0800" channel="Astro_Ria">
   <title lang="zh">Hard To Heart S5 Ep41</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -27218,6 +27218,14 @@
   <title lang="zh">beIN Sports 5</title>
   <desc lang="zh"> </desc>
 </programme>
+<programme start="20251208060000 +0800" stop="20251208120000 +0800" channel="beIN_SPORTS_6">
+  <title lang="zh">beIN SPORTS 6</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20251208120000 +0800" stop="20251208180000 +0800" channel="beIN_SPORTS_6">
+  <title lang="zh">beIN SPORTS 6</title>
+  <desc lang="zh"> </desc>
+</programme>
 <programme start="20251207064500 +0800" stop="20251207100000 +0800" channel="Astro_Sports_Plus_2">
   <title lang="zh">World Snooker Tour 2025/26</title>
   <desc lang="zh"> </desc>
@@ -28006,11 +28014,11 @@
   <title lang="zh">(L) ITTF Mixed Team WC: Day 8: Night Session: 3/4 &amp; Finals</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20251207220000 +0800" stop="20251207233000 +0800" channel="Astro_Sports_Plus">
+<programme start="20251207220000 +0800" stop="20251207233500 +0800" channel="Astro_Sports_Plus">
   <title lang="zh">(L) UCI Cyclo-Cross WC: Terralba: Men Elite</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20251207233000 +0800" stop="20251207234500 +0800" channel="Astro_Sports_Plus">
+<programme start="20251207233500 +0800" stop="20251207234500 +0800" channel="Astro_Sports_Plus">
   <title lang="zh">Nascar: Radioactive NCS Championship Race HL</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -28044,14 +28052,6 @@
 </programme>
 <programme start="20251208190000 +0800" stop="20251208230000 +0800" channel="Astro_Sports_Plus">
   <title lang="zh">ITTF Mixed Team WC: Day 7: Night Session</title>
-  <desc lang="zh"> </desc>
-</programme>
-<programme start="20251208060000 +0800" stop="20251208120000 +0800" channel="Astro_Football_3">
-  <title lang="zh">beIN SPORTS 6</title>
-  <desc lang="zh"> </desc>
-</programme>
-<programme start="20251208120000 +0800" stop="20251208180000 +0800" channel="Astro_Football_3">
-  <title lang="zh">beIN SPORTS 6</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20251207000000 +0800" stop="20251207003000 +0800" channel="beIN_SPORTS_1">
@@ -29070,7 +29070,7 @@
   <title lang="zh">Champions Cup: Bath V Munster</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20251207203000 +0800" stop="20251207230000 +0800" channel="Premier_Sports_Rugby">
+<programme start="20251207203000 +0800" stop="20251207230500 +0800" channel="Premier_Sports_Rugby">
   <title lang="zh">(L) Champions Cup: Pau V Northampton</title>
   <desc lang="zh"> </desc>
 </programme>
