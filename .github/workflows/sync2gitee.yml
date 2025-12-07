@@ -1,0 +1,67 @@
+name: sync2gitee
+
+on:
+  workflow_dispatch:
+  repository_dispatch:
+    types: [sync]
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Clone the GitHub repository
+      - name: Checkout GitHub repo
+        run: git clone --depth 1 https://github.com/${{ github.repository }} github-repo
+
+      # Step 2: Configure SSH and clone Gitee repository
+      - name: Setup SSH & Clone Gitee
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.GITEE_PRIVATE_KEY }}" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan gitee.com >> ~/.ssh/known_hosts
+          git clone git@gitee.com:taksssss/tv.git gitee-repo
+
+      # Step 3: Copy .gz files and commit if changed
+      - name: Copy .gz and commit
+        run: |
+          mkdir -p gitee-repo/epg
+          cp github-repo/epg/*.gz gitee-repo/epg/ || echo "无.gz文件"
+          cp github-repo/README.md gitee-repo/ || echo "无 README.md 文件"
+          cd gitee-repo
+          git config user.name "${{ secrets.GITEE_USER_NAME }}"
+          git config user.email "${{ secrets.GITEE_USER_EMAIL }}"
+          git add .
+          git diff --cached --quiet || git commit -m "同步更新：$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')"
+          git gc --auto
+
+      # Step 4: Push to Gitee and save output to push.log
+      - name: Push to Gitee and capture log
+        id: pushlog
+        run: |
+          cd gitee-repo
+          git checkout main || git checkout -b main
+          { git push origin main; } 2>&1 | tee ../push.log
+          echo "has_quota_issue=$(grep -Ei 'quota|exceed' ../push.log >/dev/null && echo true || echo false)" >> $GITHUB_OUTPUT
+
+      # Step 5: Send WeCom message with push log if quota issue detected
+      - name: Send WeCom alert with push log
+        if: steps.pushlog.outputs.has_quota_issue == 'true'
+        run: |
+          # Get WeCom access token
+          TOKEN=$(curl -s "https://qyapi.weixin.qq.com/cgi-bin/gettoken?corpid=${{ secrets.WECOM_CID }}&corpsecret=${{ secrets.WECOM_SECRET }}" | grep -oP '"access_token":"\K[^"]+')
+
+          # Read push.log and truncate to 4000 characters
+          MSG=$(head -c 4000 push.log | sed 's/"/\\"/g' | sed ':a;N;$!ba;s/\n/\\n/g')
+
+          # Send text message to WeCom
+          curl -s -X POST "https://qyapi.weixin.qq.com/cgi-bin/message/send?access_token=$TOKEN" \
+          -H "Content-Type: application/json" \
+          -d '{
+            "touser": "'${{ secrets.WECOM_TOUID }}'",
+            "msgtype": "text",
+            "agentid": "'${{ secrets.WECOM_AGENT_ID }}'",
+            "text": { "content": "⚠️ Gitee 推送失败，可能超出配额！日志如下：\n'"$MSG"'" },
+            "safe": 0
+          }'
