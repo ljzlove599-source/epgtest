@@ -3924,20 +3924,11 @@
   <channel id="Hami體育2臺">
     <display-name lang="zh">Hami體育2臺</display-name>
   </channel>
-  <channel id="Hami體育2臺(免費)">
-    <display-name lang="zh">Hami體育2臺(免費)</display-name>
-  </channel>
   <channel id="HBLTV1臺">
     <display-name lang="zh">HBLTV1臺</display-name>
   </channel>
-  <channel id="HBLTV1臺(免費)">
-    <display-name lang="zh">HBLTV1臺(免費)</display-name>
-  </channel>
   <channel id="HBLTV2臺">
     <display-name lang="zh">HBLTV2臺</display-name>
-  </channel>
-  <channel id="HBLTV2臺(免費)">
-    <display-name lang="zh">HBLTV2臺(免費)</display-name>
   </channel>
   <channel id="HGTV居家樂活頻道">
     <display-name lang="zh">HGTV居家樂活頻道</display-name>
@@ -4701,11 +4692,11 @@
   <channel id="SBS plus">
     <display-name lang="zh">SBS plus</display-name>
   </channel>
-  <channel id="SBS fune">
-    <display-name lang="zh">SBS fune</display-name>
+  <channel id="SBS funE">
+    <display-name lang="zh">SBS funE</display-name>
   </channel>
-  <channel id="SBS Fil">
-    <display-name lang="zh">SBS Fil</display-name>
+  <channel id="SBS life">
+    <display-name lang="zh">SBS life</display-name>
   </channel>
   <channel id="SBS sport">
     <display-name lang="zh">SBS sport</display-name>
@@ -4713,14 +4704,11 @@
   <channel id="SBS Golf">
     <display-name lang="zh">SBS Golf</display-name>
   </channel>
+  <channel id="SBS Golf2">
+    <display-name lang="zh">SBS Golf2</display-name>
+  </channel>
   <channel id="SBS Biz">
     <display-name lang="zh">SBS Biz</display-name>
-  </channel>
-  <channel id="SBS MTV">
-    <display-name lang="zh">SBS MTV</display-name>
-  </channel>
-  <channel id="SBS kizmom">
-    <display-name lang="zh">SBS kizmom</display-name>
   </channel>
   <channel id="MBC">
     <display-name lang="zh">MBC</display-name>
@@ -4739,9 +4727,6 @@
   </channel>
   <channel id="MBC net">
     <display-name lang="zh">MBC net</display-name>
-  </channel>
-  <channel id="MBC popt">
-    <display-name lang="zh">MBC popt</display-name>
   </channel>
   <channel id="EBS1">
     <display-name lang="zh">EBS1</display-name>
@@ -31579,11 +31564,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251208020900 +0800" stop="20251208020900 +0800" channel="spot on news">
-    <title lang="zh">German-Israeli twins Gali and Ziv embrace after being released</title>
+    <title lang="zh">Crash on Mount Everest: Helicopter breaks into two pieces</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251208020900 +0800" stop="20251208020900 +0800" channel="spot on news">
-    <title lang="zh">Crash on Mount Everest: Helicopter breaks into two pieces</title>
+    <title lang="zh">German-Israeli twins Gali and Ziv embrace after being released</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251208020900 +0800" stop="20251208021000 +0800" channel="spot on news">
@@ -33483,11 +33468,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251208092200 +0800" stop="20251208092200 +0800" channel="spot on news">
-    <title lang="zh">Employee sets fire to shelf with paper products in supermarket</title>
+    <title lang="zh">At the last second: Driver jumps out of crashing bus</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251208092200 +0800" stop="20251208092200 +0800" channel="spot on news">
-    <title lang="zh">At the last second: Driver jumps out of crashing bus</title>
+    <title lang="zh">Employee sets fire to shelf with paper products in supermarket</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251208092200 +0800" stop="20251208092300 +0800" channel="spot on news">
@@ -33887,11 +33872,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251208105200 +0800" stop="20251208105200 +0800" channel="spot on news">
-    <title lang="zh">Scary moment: Lightning strikes car</title>
+    <title lang="zh">Refueling mishap: fuel hose detaches from aircraft</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251208105200 +0800" stop="20251208105200 +0800" channel="spot on news">
-    <title lang="zh">Refueling mishap: fuel hose detaches from aircraft</title>
+    <title lang="zh">Scary moment: Lightning strikes car</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251208105200 +0800" stop="20251208105300 +0800" channel="spot on news">
@@ -35471,11 +35456,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251208165700 +0800" stop="20251208165700 +0800" channel="spot on news">
-    <title lang="zh">Golden Retriever destroys sofa and puts himself in time out</title>
+    <title lang="zh">Landslide collapses Chinese mega bridge</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251208165700 +0800" stop="20251208165700 +0800" channel="spot on news">
-    <title lang="zh">Landslide collapses Chinese mega bridge</title>
+    <title lang="zh">Golden Retriever destroys sofa and puts himself in time out</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251208165700 +0800" stop="20251208165800 +0800" channel="spot on news">
@@ -289586,16 +289571,36 @@
     <title lang="zh">立法院會議直播</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208180000 +0800" stop="20251209000000 +0800" channel="國會頻道1HD">
-    <title lang="zh">當日立法院會議轉播</title>
+  <programme start="20251208151500 +0800" stop="20251208152000 +0800" channel="國會頻道1HD">
+    <title lang="zh">週一會議預報</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209000000 +0800" stop="20251209050000 +0800" channel="國會頻道1HD">
-    <title lang="zh">前日立法院會議轉播</title>
+  <programme start="20251208152000 +0800" stop="20251208182700 +0800" channel="國會頻道1HD">
+    <title lang="zh">經濟委員會</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209050000 +0800" stop="20251209084700 +0800" channel="國會頻道1HD">
-    <title lang="zh">前日立法院會議轉播</title>
+  <programme start="20251208182700 +0800" stop="20251208213300 +0800" channel="國會頻道1HD">
+    <title lang="zh">經濟委員會</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208213300 +0800" stop="20251209004000 +0800" channel="國會頻道1HD">
+    <title lang="zh">經濟委員會</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209004000 +0800" stop="20251209034600 +0800" channel="國會頻道1HD">
+    <title lang="zh">經濟委員會</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209034600 +0800" stop="20251209044600 +0800" channel="國會頻道1HD">
+    <title lang="zh">經濟委員會</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209044600 +0800" stop="20251209065300 +0800" channel="國會頻道1HD">
+    <title lang="zh">經濟委員會</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209065300 +0800" stop="20251209084700 +0800" channel="國會頻道1HD">
+    <title lang="zh">經濟委員會</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251209084700 +0800" stop="20251209090000 +0800" channel="國會頻道1HD">
@@ -295150,23 +295155,27 @@
     <title lang="zh">爆米花聯盟 臺南市VS臺北興富發 11/27</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208124500 +0800" stop="20251208150000 +0800" channel="愛爾達體育4臺">
+  <programme start="20251208124500 +0800" stop="20251208144000 +0800" channel="愛爾達體育4臺">
     <title lang="zh">TPVL 臺北伊斯特 VS 臺中連莊 12/6 例行賽</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208150000 +0800" stop="20251208173000 +0800" channel="愛爾達體育4臺">
+  <programme start="20251208144000 +0800" stop="20251208163000 +0800" channel="愛爾達體育4臺">
     <title lang="zh">TPVL 桃園雲豹飛將 VS 臺鋼天鷹 12/6 例行賽</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208163000 +0800" stop="20251208173000 +0800" channel="愛爾達體育4臺">
+    <title lang="zh">歐霸戰國誌#5</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251208173000 +0800" stop="20251208180000 +0800" channel="愛爾達體育4臺">
     <title lang="zh">排排戰#9</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208180000 +0800" stop="20251208203000 +0800" channel="愛爾達體育4臺">
+  <programme start="20251208180000 +0800" stop="20251208204500 +0800" channel="愛爾達體育4臺">
     <title lang="zh">TPVL 臺北伊斯特 VS 臺鋼天鷹 12/7 例行賽</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208203000 +0800" stop="20251208230000 +0800" channel="愛爾達體育4臺">
+  <programme start="20251208204500 +0800" stop="20251208230000 +0800" channel="愛爾達體育4臺">
     <title lang="zh">TPVL 桃園雲豹飛將 VS 臺中連莊 12/7 例行賽</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -295186,40 +295195,44 @@
     <title lang="zh">12強棒球 中華 VS 日本 冠軍戰</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209060000 +0800" stop="20251209080000 +0800" channel="愛爾達體育4臺">
-    <title lang="zh">ISU花式滑冰大獎賽 總決賽 雙人長曲 12/5</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251209080000 +0800" stop="20251209120000 +0800" channel="愛爾達體育4臺">
-    <title lang="zh">MLB 道奇 VS 藍鳥 世界大賽G2 10/26</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251209120000 +0800" stop="20251209123000 +0800" channel="愛爾達體育4臺">
-    <title lang="zh">英超名人堂 #24 2025名人堂專訪</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251209123000 +0800" stop="20251209153000 +0800" channel="愛爾達體育4臺">
-    <title lang="zh">爆米花聯盟 桃園市VS屏東紅尾 11/27</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251209153000 +0800" stop="20251209183000 +0800" channel="愛爾達體育4臺">
-    <title lang="zh">爆米花聯盟 臺南市VS臺北興富發 11/27</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251209183000 +0800" stop="20251209203000 +0800" channel="愛爾達體育4臺">
-    <title lang="zh">TPVL 桃園雲豹飛將 VS 臺中連莊 12/7 例行賽</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251209203000 +0800" stop="20251209210000 +0800" channel="愛爾達體育4臺">
+  <programme start="20251209060000 +0800" stop="20251209063000 +0800" channel="愛爾達體育4臺">
     <title lang="zh">歐冠足球誌#12</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209210000 +0800" stop="20251209213000 +0800" channel="愛爾達體育4臺">
+  <programme start="20251209063000 +0800" stop="20251209070000 +0800" channel="愛爾達體育4臺">
     <title lang="zh">英超名人堂 #25 Sol Campbell</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209213000 +0800" stop="20251210000000 +0800" channel="愛爾達體育4臺">
-    <title lang="zh">TPVL 臺北伊斯特 VS 臺鋼天鷹 12/7 例行賽</title>
+  <programme start="20251209070000 +0800" stop="20251209073000 +0800" channel="愛爾達體育4臺">
+    <title lang="zh">2025 BWF世界羽球雜誌#10 史詩逆轉戰役</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209073000 +0800" stop="20251209094500 +0800" channel="愛爾達體育4臺">
+    <title lang="zh">ISU花式滑冰大獎賽 日本站 女子長曲 11/8</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209094500 +0800" stop="20251209120000 +0800" channel="愛爾達體育4臺">
+    <title lang="zh">爆米花聯盟 新北凱撒VS綺麗珊瑚 11/29</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209120000 +0800" stop="20251209123000 +0800" channel="愛爾達體育4臺">
+    <title lang="zh">排排戰#9</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209123000 +0800" stop="20251209161000 +0800" channel="愛爾達體育4臺">
+    <title lang="zh">MLB 道奇 VS 藍鳥 世界大賽G1 10/25</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209161000 +0800" stop="20251209171000 +0800" channel="愛爾達體育4臺">
+    <title lang="zh">歐霸戰國誌#4</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209171000 +0800" stop="20251209193000 +0800" channel="愛爾達體育4臺">
+    <title lang="zh">WBSC eBaseball™ 系列賽 2025 世界決賽</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209193000 +0800" stop="20251210013000 +0800" channel="愛爾達體育4臺">
+    <title lang="zh">2025 CTPBA職業撞球巡迴賽 第四站 11/15</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251208000000 +0800" stop="20251208043000 +0800" channel="博斯高球一臺">
@@ -296467,7 +296480,7 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251209090000 +0800" stop="20251209120000 +0800" channel="DAZN 2">
-    <title lang="zh">2025亞洲冬盟 季軍賽 41敗 vs 42敗 (12/7/25)</title>
+    <title lang="zh">2025亞洲冬盟 季軍賽 臺灣山林隊 vs 臺灣海洋隊 (12/7/25)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251209120000 +0800" stop="20251209130000 +0800" channel="DAZN 2">
@@ -296475,7 +296488,7 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251209130000 +0800" stop="20251209160000 +0800" channel="DAZN 2">
-    <title lang="zh">2025亞洲冬盟 冠軍賽 41勝 vs 42勝 (12/7/25)</title>
+    <title lang="zh">2025亞洲冬盟 冠軍賽 日職聯隊 vs 日本社會人 (12/7/25)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251209160000 +0800" stop="20251209180000 +0800" channel="DAZN 2">
@@ -383855,27 +383868,11 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">114學年度HBL男子預賽 精彩重播</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208000000 +0800" stop="20251208235959 +0800" channel="HBLTV1臺(免費)">
-    <title lang="zh">114學年度HBL男子預賽 精彩重播</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251209000000 +0800" stop="20251209235959 +0800" channel="HBLTV1臺(免費)">
-    <title lang="zh">114學年度HBL男子預賽 精彩重播</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20251208000000 +0800" stop="20251208235959 +0800" channel="HBLTV2臺">
     <title lang="zh">114學年度HBL男子預賽 精彩重播</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251209000000 +0800" stop="20251209235959 +0800" channel="HBLTV2臺">
-    <title lang="zh">114學年度HBL男子預賽 精彩重播</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251208000000 +0800" stop="20251208235959 +0800" channel="HBLTV2臺(免費)">
-    <title lang="zh">114學年度HBL男子預賽 精彩重播</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251209000000 +0800" stop="20251209235959 +0800" channel="HBLTV2臺(免費)">
     <title lang="zh">114學年度HBL男子預賽 精彩重播</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -394779,20 +394776,40 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">週一會議預報(普)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208090000 +0800" stop="20251208180000 +0800" channel="國會頻道1">
-    <title lang="zh">立法院會議直播(普)</title>
+  <programme start="20251208151500 +0800" stop="20251208152000 +0800" channel="國會頻道1">
+    <title lang="zh">週一會議預報(普)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208180000 +0800" stop="20251209000000 +0800" channel="國會頻道1">
-    <title lang="zh">當日立法院會議轉播(普)</title>
+  <programme start="20251208152000 +0800" stop="20251208182700 +0800" channel="國會頻道1">
+    <title lang="zh">經濟委員會(普)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209000000 +0800" stop="20251209050000 +0800" channel="國會頻道1">
-    <title lang="zh">前日立法院會議轉播(普)</title>
+  <programme start="20251208182700 +0800" stop="20251208213300 +0800" channel="國會頻道1">
+    <title lang="zh">經濟委員會(普)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209050000 +0800" stop="20251209084700 +0800" channel="國會頻道1">
-    <title lang="zh">前日立法院會議轉播(普)</title>
+  <programme start="20251208213300 +0800" stop="20251209004000 +0800" channel="國會頻道1">
+    <title lang="zh">經濟委員會(普)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208213300 +0800" stop="20251209004000 +0800" channel="國會頻道1">
+    <title lang="zh">經濟委員會(普)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209004000 +0800" stop="20251209034600 +0800" channel="國會頻道1">
+    <title lang="zh">經濟委員會(普)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209034600 +0800" stop="20251209044600 +0800" channel="國會頻道1">
+    <title lang="zh">經濟委員會(普)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209044600 +0800" stop="20251209065300 +0800" channel="國會頻道1">
+    <title lang="zh">經濟委員會(普)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209065300 +0800" stop="20251209084700 +0800" channel="國會頻道1">
+    <title lang="zh">經濟委員會(普)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251209084700 +0800" stop="20251209090000 +0800" channel="國會頻道1">
@@ -394847,16 +394864,28 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">立法院會議直播(普)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208180000 +0800" stop="20251209000000 +0800" channel="國會頻道2">
-    <title lang="zh">當日立法院會議轉播(普)</title>
+  <programme start="20251208215700 +0800" stop="20251209005400 +0800" channel="國會頻道2">
+    <title lang="zh">社會福利及衛生環境委員會(普)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209000000 +0800" stop="20251209050000 +0800" channel="國會頻道2">
-    <title lang="zh">前日立法院會議轉播(普)</title>
+  <programme start="20251208215700 +0800" stop="20251209005400 +0800" channel="國會頻道2">
+    <title lang="zh">社會福利及衛生環境委員會(普)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209050000 +0800" stop="20251209084700 +0800" channel="國會頻道2">
-    <title lang="zh">前日立法院會議轉播(普)</title>
+  <programme start="20251209005400 +0800" stop="20251209042600 +0800" channel="國會頻道2">
+    <title lang="zh">社會福利及衛生環境委員會(普)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209042600 +0800" stop="20251209045600 +0800" channel="國會頻道2">
+    <title lang="zh">教育及文化委員會(普)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209045600 +0800" stop="20251209071000 +0800" channel="國會頻道2">
+    <title lang="zh">教育及文化委員會(普)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209071000 +0800" stop="20251209084700 +0800" channel="國會頻道2">
+    <title lang="zh">交通委員會(普)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251209084700 +0800" stop="20251209090000 +0800" channel="國會頻道2">
@@ -397419,23 +397448,27 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">爆米花聯盟 臺南市VS臺北興富發 11/27(普)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208124500 +0800" stop="20251208150000 +0800" channel="愛爾達體育4臺">
+  <programme start="20251208124500 +0800" stop="20251208144000 +0800" channel="愛爾達體育4臺">
     <title lang="zh">TPVL 臺北伊斯特 VS 臺中連莊 12/6 例行賽(普)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208150000 +0800" stop="20251208173000 +0800" channel="愛爾達體育4臺">
+  <programme start="20251208144000 +0800" stop="20251208163000 +0800" channel="愛爾達體育4臺">
     <title lang="zh">TPVL 桃園雲豹飛將 VS 臺鋼天鷹 12/6 例行賽(普)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208163000 +0800" stop="20251208173000 +0800" channel="愛爾達體育4臺">
+    <title lang="zh">歐霸戰國誌#5(普)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251208173000 +0800" stop="20251208180000 +0800" channel="愛爾達體育4臺">
     <title lang="zh">排排戰#9(普)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208180000 +0800" stop="20251208203000 +0800" channel="愛爾達體育4臺">
+  <programme start="20251208180000 +0800" stop="20251208204500 +0800" channel="愛爾達體育4臺">
     <title lang="zh">TPVL 臺北伊斯特 VS 臺鋼天鷹 12/7 例行賽(普)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208203000 +0800" stop="20251208230000 +0800" channel="愛爾達體育4臺">
+  <programme start="20251208204500 +0800" stop="20251208230000 +0800" channel="愛爾達體育4臺">
     <title lang="zh">TPVL 桃園雲豹飛將 VS 臺中連莊 12/7 例行賽(普)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -397455,40 +397488,44 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">12強棒球 中華 VS 日本 冠軍戰(普)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209060000 +0800" stop="20251209080000 +0800" channel="愛爾達體育4臺">
-    <title lang="zh">ISU花式滑冰大獎賽 總決賽 雙人長曲 12/5(普)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251209080000 +0800" stop="20251209120000 +0800" channel="愛爾達體育4臺">
-    <title lang="zh">MLB 道奇 VS 藍鳥 世界大賽G2 10/26(普)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251209120000 +0800" stop="20251209123000 +0800" channel="愛爾達體育4臺">
-    <title lang="zh">英超名人堂 #24 2025名人堂專訪(普)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251209123000 +0800" stop="20251209153000 +0800" channel="愛爾達體育4臺">
-    <title lang="zh">爆米花聯盟 桃園市VS屏東紅尾 11/27(普)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251209153000 +0800" stop="20251209183000 +0800" channel="愛爾達體育4臺">
-    <title lang="zh">爆米花聯盟 臺南市VS臺北興富發 11/27(普)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251209183000 +0800" stop="20251209203000 +0800" channel="愛爾達體育4臺">
-    <title lang="zh">TPVL 桃園雲豹飛將 VS 臺中連莊 12/7 例行賽(普)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251209203000 +0800" stop="20251209210000 +0800" channel="愛爾達體育4臺">
+  <programme start="20251209060000 +0800" stop="20251209063000 +0800" channel="愛爾達體育4臺">
     <title lang="zh">歐冠足球誌#12(普)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209210000 +0800" stop="20251209213000 +0800" channel="愛爾達體育4臺">
+  <programme start="20251209063000 +0800" stop="20251209070000 +0800" channel="愛爾達體育4臺">
     <title lang="zh">英超名人堂 #25 Sol Campbell(普)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209213000 +0800" stop="20251210000000 +0800" channel="愛爾達體育4臺">
-    <title lang="zh">TPVL 臺北伊斯特 VS 臺鋼天鷹 12/7 例行賽(普)</title>
+  <programme start="20251209070000 +0800" stop="20251209073000 +0800" channel="愛爾達體育4臺">
+    <title lang="zh">2025 BWF世界羽球雜誌#10 史詩逆轉戰役(普)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209073000 +0800" stop="20251209094500 +0800" channel="愛爾達體育4臺">
+    <title lang="zh">ISU花式滑冰大獎賽 日本站 女子長曲 11/8(普)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209094500 +0800" stop="20251209120000 +0800" channel="愛爾達體育4臺">
+    <title lang="zh">爆米花聯盟 新北凱撒VS綺麗珊瑚 11/29(普)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209120000 +0800" stop="20251209123000 +0800" channel="愛爾達體育4臺">
+    <title lang="zh">排排戰#9(普)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209123000 +0800" stop="20251209161000 +0800" channel="愛爾達體育4臺">
+    <title lang="zh">MLB 道奇 VS 藍鳥 世界大賽G1 10/25(普)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209161000 +0800" stop="20251209171000 +0800" channel="愛爾達體育4臺">
+    <title lang="zh">歐霸戰國誌#4(普)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209171000 +0800" stop="20251209193000 +0800" channel="愛爾達體育4臺">
+    <title lang="zh">WBSC eBaseball™ 系列賽 2025 世界決賽(普)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209193000 +0800" stop="20251210013000 +0800" channel="愛爾達體育4臺">
+    <title lang="zh">2025 CTPBA職業撞球巡迴賽 第四站 11/15(普)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251208000000 +0800" stop="20251208002000 +0800" channel="愛爾達體育MAX1臺">
@@ -408828,7 +408865,7 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251210093000 +0800" stop="20251210100000 +0800" channel="民視">
-    <title lang="zh">健康面對面【普】(E74)</title>
+    <title lang="zh">健康面對面【普】(E79)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251210100000 +0800" stop="20251210103000 +0800" channel="民視">
@@ -424484,11 +424521,11 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251208160000 +0800" stop="20251208170000 +0800" channel="中視新聞">
-    <title lang="zh">致富生活密碼(普)</title>
+    <title lang="zh">新庶民大頭家(普)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251208170000 +0800" stop="20251208180000 +0800" channel="中視新聞">
-    <title lang="zh">即時新聞現場(普)</title>
+    <title lang="zh">新庶民大頭家(普)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251208180000 +0800" stop="20251208185800 +0800" channel="中視新聞">
@@ -451780,7 +451817,7 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251208011000 +0800" stop="20251208012500 +0800" channel="NHK WORLD-JAPAN">
-    <title lang="zh">NHK World-Japan Special Programme(普)</title>
+    <title lang="zh">Ramen Japan(普)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251208012500 +0800" stop="20251208013000 +0800" channel="NHK WORLD-JAPAN">
@@ -451807,8 +451844,12 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">NHK Newsline(普)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208031000 +0800" stop="20251208040000 +0800" channel="NHK WORLD-JAPAN">
-    <title lang="zh">NHK World Showcase(普)</title>
+  <programme start="20251208031000 +0800" stop="20251208035400 +0800" channel="NHK WORLD-JAPAN">
+    <title lang="zh">Fujii Kaze: Now, in the World(普)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208035400 +0800" stop="20251208040000 +0800" channel="NHK WORLD-JAPAN">
+    <title lang="zh">Beware! False Info and Impression(普)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251208040000 +0800" stop="20251208041000 +0800" channel="NHK WORLD-JAPAN">
@@ -451852,7 +451893,7 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251208061000 +0800" stop="20251208062500 +0800" channel="NHK WORLD-JAPAN">
-    <title lang="zh">NHK World-Japan Special Programme(普)</title>
+    <title lang="zh">Ramen Japan(普)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251208062500 +0800" stop="20251208063000 +0800" channel="NHK WORLD-JAPAN">
@@ -452015,8 +452056,12 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">Direct Talk(普)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208194300 +0800" stop="20251208195500 +0800" channel="NHK WORLD-JAPAN">
-    <title lang="zh">NHK World Selection(普)</title>
+  <programme start="20251208194300 +0800" stop="20251208194800 +0800" channel="NHK WORLD-JAPAN">
+    <title lang="zh">The Seasons of Yamato(普)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208194800 +0800" stop="20251208195500 +0800" channel="NHK WORLD-JAPAN">
+    <title lang="zh">The Beauty of Japanese Swords(普)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251208195500 +0800" stop="20251208200000 +0800" channel="NHK WORLD-JAPAN">
@@ -452099,8 +452144,12 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">Direct Talk(普)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209024300 +0800" stop="20251209025500 +0800" channel="NHK WORLD-JAPAN">
-    <title lang="zh">NHK World Selection(普)</title>
+  <programme start="20251209024300 +0800" stop="20251209024800 +0800" channel="NHK WORLD-JAPAN">
+    <title lang="zh">The Seasons of Yamato(普)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209024800 +0800" stop="20251209025500 +0800" channel="NHK WORLD-JAPAN">
+    <title lang="zh">The Beauty of Japanese Swords(普)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251209025500 +0800" stop="20251209030000 +0800" channel="NHK WORLD-JAPAN">
@@ -452267,8 +452316,12 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">Direct Talk(普)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209194300 +0800" stop="20251209195500 +0800" channel="NHK WORLD-JAPAN">
-    <title lang="zh">NHK World Selection(普)</title>
+  <programme start="20251209194300 +0800" stop="20251209194800 +0800" channel="NHK WORLD-JAPAN">
+    <title lang="zh">Japan Delish 5min.(普)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209194800 +0800" stop="20251209195500 +0800" channel="NHK WORLD-JAPAN">
+    <title lang="zh">The Beauty of Japanese Swords(普)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251209195500 +0800" stop="20251209200000 +0800" channel="NHK WORLD-JAPAN">
@@ -452339,8 +452392,12 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">Direct Talk(普)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251210024300 +0800" stop="20251210025500 +0800" channel="NHK WORLD-JAPAN">
-    <title lang="zh">NHK World Selection(普)</title>
+  <programme start="20251210024300 +0800" stop="20251210024800 +0800" channel="NHK WORLD-JAPAN">
+    <title lang="zh">Japan Delish 5min.(普)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251210024800 +0800" stop="20251210025500 +0800" channel="NHK WORLD-JAPAN">
+    <title lang="zh">The Beauty of Japanese Swords(普)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251210025500 +0800" stop="20251210030000 +0800" channel="NHK WORLD-JAPAN">
@@ -452499,8 +452556,12 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">Direct Talk(普)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251210194300 +0800" stop="20251210195500 +0800" channel="NHK WORLD-JAPAN">
-    <title lang="zh">NHK World Selection(普)</title>
+  <programme start="20251210194300 +0800" stop="20251210194800 +0800" channel="NHK WORLD-JAPAN">
+    <title lang="zh">Japan Delish 5min.(普)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251210194800 +0800" stop="20251210195500 +0800" channel="NHK WORLD-JAPAN">
+    <title lang="zh">The Beauty of Japanese Swords(普)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251210195500 +0800" stop="20251210200000 +0800" channel="NHK WORLD-JAPAN">
@@ -457783,42 +457844,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">凜子小姐想試愛05</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208035800 +0000" stop="20251208050000 +0000" channel="中視">
-    <title lang="zh">中視午間新聞</title>
-    <desc lang="zh">「中視午間新聞」每天以最客觀的角度，最專業的主播，為觀眾完整報導上午發生之重大國內外重要新聞，並提供最新股市收盤價格。</desc>
-  </programme>
-  <programme start="20251208050000 +0000" stop="20251208060000 +0000" channel="中視">
-    <title lang="zh">MIT臺灣誌</title>
-    <desc lang="zh">「MIT臺灣誌」以發現臺灣、寫真臺灣、紀錄臺灣為主旨，走遍臺灣的每寸土地，介紹臺灣的人文環境、大自然地理等…</desc>
-  </programme>
-  <programme start="20251208060000 +0000" stop="20251208063000 +0000" channel="中視">
-    <title lang="zh">股林高手</title>
-    <desc lang="zh">邀請最專業的財經專家為觀眾解析股市，提供投資參考。</desc>
-  </programme>
-  <programme start="20251208063000 +0000" stop="20251208070000 +0000" channel="中視">
-    <title lang="zh">股市米琪林</title>
-    <desc lang="zh">由永誠國際投顧分析師主講，介紹四大分析視角，實現穩健的投資回報，股市米琪林，文琪通通有辦法！</desc>
-  </programme>
-  <programme start="20251208070000 +0000" stop="20251208073000 +0000" channel="中視">
-    <title lang="zh">價值型投資</title>
-    <desc lang="zh">當行情出現震盪、盤勢不明時，相信投資人一定會開始轉向價值型投資，節目中將推薦適合的標的，提供投資人參考。</desc>
-  </programme>
-  <programme start="20251208073000 +0000" stop="20251208080000 +0000" channel="中視">
-    <title lang="zh">金錢道</title>
-    <desc lang="zh">專業財經專家從技術面到盤後分析，告訴你什麼是賺錢之道。</desc>
-  </programme>
-  <programme start="20251208080000 +0000" stop="20251208090000 +0000" channel="中視">
-    <title lang="zh">只為你停留</title>
-    <desc lang="zh">有一對兄弟，過著相對距離三百公尺，截然不同的生活。哥哥喬楷騰（李沛旭）是水電師傅，在地表騎摩托車，弟弟襲明（簡宏霖）是王牌律師，在三百公尺高的辦公室，周圍的大片玻璃，可鳥瞰大半個城市。十年前的那天，襲明歷經人生中難以承受的重大打擊，從此封閉自己…</desc>
-  </programme>
-  <programme start="20251208090000 +0000" stop="20251208092800 +0000" channel="中視">
-    <title lang="zh">中視新聞</title>
-    <desc lang="zh">由最專業的中視新聞主播，為您播報最新、最即時的新聞。</desc>
-  </programme>
-  <programme start="20251208092800 +0000" stop="20251208095800 +0000" channel="中視">
-    <title lang="zh">中視新聞</title>
-    <desc lang="zh">由最專業的中視新聞主播，為您播報最新、最即時的新聞。</desc>
-  </programme>
   <programme start="20251208095800 +0000" stop="20251208105800 +0000" channel="中視">
     <title lang="zh">中視新聞</title>
     <desc lang="zh">由最專業的中視新聞主播，為您播報最新、最即時的新聞。</desc>
@@ -458367,26 +458392,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">60分鐘</title>
     <desc lang="zh">新聞雜誌節目，深入探討新聞時事與議題，將帶給你全方位的報導。</desc>
   </programme>
-  <programme start="20251208035800 +0000" stop="20251208050000 +0000" channel="華視">
-    <title lang="zh">華視午間新聞</title>
-    <desc lang="zh">華視午間新聞由最專業的華視主播，帶給觀眾朋友更多元化的新聞。</desc>
-  </programme>
-  <programme start="20251208050000 +0000" stop="20251208060000 +0000" channel="華視">
-    <title lang="zh">我們六個</title>
-    <desc lang="zh">林達生（馬志翔）與郭富美（天心）與子女秋伶（黃薇渟）、作賢（塗善存）、作逸（邱宇辰）、宜瑩（陳妤）、青瑩（方語昕）和品秀（安乙蕎）原本幸福的家庭，因一個女子的介入導致家庭破碎。母親死後，六人在大姊帶領下相互扶持、共同面對逆境…</desc>
-  </programme>
-  <programme start="20251208060000 +0000" stop="20251208080000 +0000" channel="華視">
-    <title lang="zh">警世劇場</title>
-    <desc lang="zh">社會寫實單元劇，劇情效法《X檔案》，以現代辦案的角度來切入鬼神之說，用以警惕世人。篤信科學辦案精神的刑警尚智（謝祖武）有心理學博士學位，他與先天具有陰陽眼的搭檔王玉芳（趙英華），共同調查各種無法用科學解釋的案件，為死者伸冤…</desc>
-  </programme>
-  <programme start="20251208080000 +0000" stop="20251208085300 +0000" channel="華視">
-    <title lang="zh">華視在地新聞</title>
-    <desc lang="zh">以臺語發音，提供觀眾朋友不一樣的國內外新聞。</desc>
-  </programme>
-  <programme start="20251208085300 +0000" stop="20251208085800 +0000" channel="華視">
-    <title lang="zh">華視生活廣場</title>
-    <desc lang="zh">華視生活廣場。</desc>
-  </programme>
   <programme start="20251208085800 +0000" stop="20251208105800 +0000" channel="華視">
     <title lang="zh">華視新聞晚報</title>
     <desc lang="zh">華視新聞部每天整理當天重大國內外新聞事件，為觀眾做最快、最即時的播報。</desc>
@@ -458878,38 +458883,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
   <programme start="20251213070000 +0000" stop="20251213080000 +0000" channel="華視">
     <title lang="zh">三國演議</title>
     <desc lang="zh">華視新聞部製播新聞專題節目。由國際政經專家汪浩、日本產經新聞臺北支局長矢板明夫搭檔主持，深度講評最新國際政經重大事件，跳脫傳統政論談話節目的框架屬性。</desc>
-  </programme>
-  <programme start="20251208040500 +0000" stop="20251208050000 +0000" channel="好消息2臺">
-    <title lang="zh">真情部落格</title>
-    <desc lang="zh">廣受海內外觀眾歡迎的真情部落格，由知名主播夏嘉璐主持，莊信德牧師回應，透過每位來賓的生命見證幫助許多人走出低谷。相信神繼續透過真情部落格祝福這世代的華人。</desc>
-  </programme>
-  <programme start="20251208050000 +0000" stop="20251208055000 +0000" channel="好消息2臺">
-    <title lang="zh">家庭８點檔轉轉發現愛</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20251208055000 +0000" stop="20251208060000 +0000" channel="好消息2臺">
-    <title lang="zh">機智青年生活</title>
-    <desc lang="zh">這不是韓劇，而是正上演的一齣充滿血淚與美好友誼的熱血植堂連續劇 ！旌旗好生活邀請到三對青年牧師CP，來聊聊由上帝導演，引領青年教會及一羣青年團隊，經歷瘋狂又精彩的植堂人生！</desc>
-  </programme>
-  <programme start="20251208060000 +0000" stop="20251208070000 +0000" channel="好消息2臺">
-    <title lang="zh">特會</title>
-    <desc lang="zh">以造就、培靈與更新為宗旨，邀請來自世界各國的知名佈道牧師，為信徒傳遞神國信息，挑望靈火，奮興眾人！為信徒提供一個提升性靈的園地。(資料來源：GOOD TV)</desc>
-  </programme>
-  <programme start="20251208070000 +0000" stop="20251208080000 +0000" channel="好消息2臺">
-    <title lang="zh">奔向標竿</title>
-    <desc lang="zh">美國最具影響力的屬靈領袖之一，華理克(Rick Warren)牧師與馬鞍峯教會牧者團隊，與您一起攜手直奔屬天標竿，得著屬天獎賞！</desc>
-  </programme>
-  <programme start="20251208080000 +0000" stop="20251208083000 +0000" channel="好消息2臺">
-    <title lang="zh">蟲蟲歷險記</title>
-    <desc lang="zh">這是一部寓教於樂的卡通，為聖經故事增添些許趣味。聖經故事的主角是人類，但人類腳下是一片迷你世界，住著許多和善的蟲蟲。本系列卡通不僅有各種可愛的蟲蟲角色，還有許多有趣，富教育意義的歷險故事。蟲蟲的小小社會與聖經人物的世界偶爾交錯邂逅，產生刺激、驚險、意想不到的效果。</desc>
-  </programme>
-  <programme start="20251208083000 +0000" stop="20251208090000 +0000" channel="好消息2臺">
-    <title lang="zh">空中聖經學院</title>
-    <desc lang="zh">由GOOD TV和中華福音神學院共同製作推出。這是歷史性的一刻，神的話語要透過衛星傳送至全世界，實現平信徒神學教育之夢。</desc>
-  </programme>
-  <programme start="20251208090000 +0000" stop="20251208100000 +0000" channel="好消息2臺">
-    <title lang="zh">大衛鮑森講座</title>
-    <desc lang="zh">聖經權威大衛鮑森牧師，帶你以宏觀的神學角度，觀看神偉大的神性與恩典，並從其中明白救恩計畫的重要。</desc>
   </programme>
   <programme start="20251208100000 +0000" stop="20251208103000 +0000" channel="好消息2臺">
     <title lang="zh">共享觀點</title>
@@ -459790,66 +459763,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
   <programme start="20251213070000 +0000" stop="20251213080000 +0000" channel="好消息2臺">
     <title lang="zh">特會</title>
     <desc lang="zh">以造就、培靈與更新為宗旨，邀請來自世界各國的知名佈道牧師，為信徒傳遞神國信息，挑望靈火，奮興眾人！為信徒提供一個提升性靈的園地。(資料來源：GOOD TV)</desc>
-  </programme>
-  <programme start="20251208043000 +0000" stop="20251208044500 +0000" channel="好消息">
-    <title lang="zh">機智青年生活</title>
-    <desc lang="zh">這不是韓劇，而是正上演的一齣充滿血淚與美好友誼的熱血植堂連續劇 ！旌旗好生活邀請到三對青年牧師CP，來聊聊由上帝導演，引領青年教會及一羣青年團隊，經歷瘋狂又精彩的植堂人生！</desc>
-  </programme>
-  <programme start="20251208044500 +0000" stop="20251208050000 +0000" channel="好消息">
-    <title lang="zh">機智青年生活</title>
-    <desc lang="zh">這不是韓劇，而是正上演的一齣充滿血淚與美好友誼的熱血植堂連續劇 ！旌旗好生活邀請到三對青年牧師CP，來聊聊由上帝導演，引領青年教會及一羣青年團隊，經歷瘋狂又精彩的植堂人生！</desc>
-  </programme>
-  <programme start="20251208050000 +0000" stop="20251208050500 +0000" channel="好消息">
-    <title lang="zh">維他命施</title>
-    <desc lang="zh">出版超過二十多本暢銷書的作家施以諾，擅長傳遞激勵人心的小故事。《維他命施》針對年輕人，職場青年所設計的節目，短短三分鐘，帶給您滿滿的正能量。</desc>
-  </programme>
-  <programme start="20251208050500 +0000" stop="20251208060000 +0000" channel="好消息">
-    <title lang="zh">真情部落格</title>
-    <desc lang="zh">廣受海內外觀眾歡迎的真情部落格，由知名主播夏嘉璐主持，莊信德牧師回應，透過每位來賓的生命見證幫助許多人走出低谷。相信神繼續透過真情部落格祝福這世代的華人。</desc>
-  </programme>
-  <programme start="20251208060000 +0000" stop="20251208065000 +0000" channel="好消息">
-    <title lang="zh">家庭８點檔轉轉發現愛</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20251208065000 +0000" stop="20251208070000 +0000" channel="好消息">
-    <title lang="zh">愛我們的家</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20251208070000 +0000" stop="20251208073000 +0000" channel="好消息">
-    <title lang="zh">恩雨之聲</title>
-    <desc lang="zh">由梁燕城博士和譚品立牧師共同主持，帶領觀眾走訪世界各地，廣覽基督教遺跡，深度探討文化根源，浩瀚風光，令人眼界大開。（GOODTV提供）</desc>
-  </programme>
-  <programme start="20251208073000 +0000" stop="20251208074500 +0000" channel="好消息">
-    <title lang="zh">經典音樂河</title>
-    <desc lang="zh">古典聖詩具有歷久彌新、感人至深的迷人特質。即使經過百年，這些詩歌所蘊含的生命力，仍繼續向人們訴說上帝的榮耀作為和救贖恩典。</desc>
-  </programme>
-  <programme start="20251208074500 +0000" stop="20251208080000 +0000" channel="好消息">
-    <title lang="zh">來 跳讚美操</title>
-    <desc lang="zh">從原本兩位近70歲的退休長輩，在榮星公園，以聖經經文搭配音樂旋律及肢體動作，讓聖經變成舞蹈，這項由國際讚美操董事長吳美雲老師自創的體操運動，20年後跳到全臺，也跳到亞洲、跳到全世界二十幾個國家。</desc>
-  </programme>
-  <programme start="20251208080000 +0000" stop="20251208083000 +0000" channel="好消息">
-    <title lang="zh">健康新煮流</title>
-    <desc lang="zh">開創夫妻同廚同煮潮流的KC夫婦，繼《健康醫食代》後，走出攝影棚，帶大家全臺走透透，發掘上帝賞賜的美味食材，內容融合新加坡南洋風和客家純樸味，加上臺灣獨特的閩南風情，互相激盪交織出的火花，打造出獨一無二的美食節目。</desc>
-  </programme>
-  <programme start="20251208083000 +0000" stop="20251208090000 +0000" channel="好消息">
-    <title lang="zh">愛＋好醫生</title>
-    <desc lang="zh">結合醫療專業及全人關懷的新型態節目，主持人黃瑽寧醫師親訪家庭，跨領域醫療顧問團全方位檢視，提供最完整、實用和正確的資訊來守護孩子的健康。</desc>
-  </programme>
-  <programme start="20251208090000 +0000" stop="20251208093000 +0000" channel="好消息">
-    <title lang="zh">大家說英語</title>
-    <desc lang="zh">將最受歡迎的美語生活會話雜誌《大家說英語》內容製作成電視教學節目，教學輕鬆活潑，以生活實用會話為單元主題，是新聞局推薦的優質節目。不僅能幫助您輕鬆開口說英語，更提供許多實用的英語語彙與技巧，讓您用簡單的單字，就能說一口漂亮英語。</desc>
-  </programme>
-  <programme start="20251208093000 +0000" stop="20251208094000 +0000" channel="好消息">
-    <title lang="zh">山姆與茱莉亞</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20251208094000 +0000" stop="20251208095000 +0000" channel="好消息">
-    <title lang="zh">山姆與茱莉亞</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20251208095000 +0000" stop="20251208100000 +0000" channel="好消息">
-    <title lang="zh">山姆與茱莉亞</title>
-    <desc lang="zh"/>
   </programme>
   <programme start="20251208100000 +0000" stop="20251208103000 +0000" channel="好消息">
     <title lang="zh">烤箱讀書會</title>
@@ -460883,30 +460796,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">機智青年生活</title>
     <desc lang="zh">這不是韓劇，而是正上演的一齣充滿血淚與美好友誼的熱血植堂連續劇 ！旌旗好生活邀請到三對青年牧師CP，來聊聊由上帝導演，引領青年教會及一羣青年團隊，經歷瘋狂又精彩的植堂人生！</desc>
   </programme>
-  <programme start="20251208043000 +0000" stop="20251208050000 +0000" channel="ELTV生活英語臺">
-    <title lang="zh">小巴士TAYO</title>
-    <desc lang="zh">韓國人氣玩具改編卡通，曾獲韓國內容獎第一名和亞洲電視大獎最佳兒童節目，小朋友們能和TAYO、妮妮、小吉及瑞瑞一桐學習玩耍！</desc>
-  </programme>
-  <programme start="20251208050000 +0000" stop="20251208060000 +0000" channel="ELTV生活英語臺">
-    <title lang="zh">PORORO</title>
-    <desc lang="zh">一隻充滿好奇心的小企鵝-Pororo，因為喜歡嘗試新的事物，且用盡方法瞭解它們，進而惹來許多小麻煩，但在嘗試新事物的過程中也為大家帶來無限歡樂。</desc>
-  </programme>
-  <programme start="20251208060000 +0000" stop="20251208070000 +0000" channel="ELTV生活英語臺">
-    <title lang="zh">小浣熊ABC</title>
-    <desc lang="zh">七隻頑皮又好奇的浣熊住在一個音樂盒裡，這個音樂盒是它們的遊樂場。在每一集中，他們一起遊戲、學習、探索世界各種有趣的事物，還教導新的英文單字。</desc>
-  </programme>
-  <programme start="20251208070000 +0000" stop="20251208080000 +0000" channel="ELTV生活英語臺">
-    <title lang="zh">快樂DoReMi</title>
-    <desc lang="zh">學習英文的方法千百種，練唱英文歌曲是最輕鬆愉快的方式之一。本清單節目集結了動聽的英文兒歌MV，適合父母帶著孩子一起欣賞，在唱唱跳跳的過程中，增進親子情感，也配合動人旋律，學習英文。</desc>
-  </programme>
-  <programme start="20251208080000 +0000" stop="20251208090000 +0000" channel="ELTV生活英語臺">
-    <title lang="zh">森林偵探隊</title>
-    <desc lang="zh">南韓EBS與Bigstar Global共同製播的卡通，可輕鬆認識大自然的樣貌。各個謎團揉合在森林的浩瀚中，期待觀眾跟著偵探隊，細細品味在這森林的每個故事。</desc>
-  </programme>
-  <programme start="20251208090000 +0000" stop="20251208100000 +0000" channel="ELTV生活英語臺">
-    <title lang="zh">PORORO</title>
-    <desc lang="zh">一隻充滿好奇心的小企鵝-Pororo，因為喜歡嘗試新的事物，且用盡方法瞭解它們，進而惹來許多小麻煩，但在嘗試新事物的過程中也為大家帶來無限歡樂。</desc>
-  </programme>
   <programme start="20251208100000 +0000" stop="20251208110000 +0000" channel="ELTV生活英語臺">
     <title lang="zh">森林偵探隊</title>
     <desc lang="zh">南韓EBS與Bigstar Global共同製播的卡通，可輕鬆認識大自然的樣貌。各個謎團揉合在森林的浩瀚中，期待觀眾跟著偵探隊，細細品味在這森林的每個故事。</desc>
@@ -461438,54 +461327,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
   <programme start="20251213070000 +0000" stop="20251213080000 +0000" channel="ELTV生活英語臺">
     <title lang="zh">快樂DoReMi</title>
     <desc lang="zh">學習英文的方法千百種，練唱英文歌曲是最輕鬆愉快的方式之一。本清單節目集結了動聽的英文兒歌MV，適合父母帶著孩子一起欣賞，在唱唱跳跳的過程中，增進親子情感，也配合動人旋律，學習英文。</desc>
-  </programme>
-  <programme start="20251208040000 +0000" stop="20251208043000 +0000" channel="龍華卡通臺">
-    <title lang="zh">往哪跑！</title>
-    <desc lang="zh">俄羅斯經典動畫系列新作！歡樂悠閒的羅莎渡假村，歡迎世界各地的旅客，在此度過最放鬆的假期！然而，調皮的狼總是想和兔子一爭高下，藉此吸引鹿小姐的注意！</desc>
-  </programme>
-  <programme start="20251208043000 +0000" stop="20251208050000 +0000" channel="龍華卡通臺">
-    <title lang="zh">往哪跑！</title>
-    <desc lang="zh">俄羅斯經典動畫系列新作！歡樂悠閒的羅莎渡假村，歡迎世界各地的旅客，在此度過最放鬆的假期！然而，調皮的狼總是想和兔子一爭高下，藉此吸引鹿小姐的注意！</desc>
-  </programme>
-  <programme start="20251208050000 +0000" stop="20251208053000 +0000" channel="龍華卡通臺">
-    <title lang="zh">哈皮樂奇鬧翻天</title>
-    <desc lang="zh">哈皮和樂奇是鄰居，他們跟帕普和邦迪一起住在鄉下。哈皮和樂奇之間相處得很愉快，他們的生活充滿了搞笑和歡樂。</desc>
-  </programme>
-  <programme start="20251208053000 +0000" stop="20251208060000 +0000" channel="龍華卡通臺">
-    <title lang="zh">哈皮樂奇鬧翻天</title>
-    <desc lang="zh">哈皮和樂奇是鄰居，他們跟帕普和邦迪一起住在鄉下。哈皮和樂奇之間相處得很愉快，他們的生活充滿了搞笑和歡樂。</desc>
-  </programme>
-  <programme start="20251208060000 +0000" stop="20251208063000 +0000" channel="龍華卡通臺">
-    <title lang="zh">功夫莫特</title>
-    <desc lang="zh">莫特跟隨師父修行了十年，但一直都只能處理一些和修練無關的瑣事，唯一得心應手的法術就是「立即讓頭髮豎立起來」。某天，他們的村莊被妖怪入侵，師父命令莫特去解救村民，並囑咐不可以真面貌示人，執行任務時，必須帶著一個奇怪面具。對於這樣的指示，莫特並不開心。</desc>
-  </programme>
-  <programme start="20251208063000 +0000" stop="20251208070000 +0000" channel="龍華卡通臺">
-    <title lang="zh">功夫莫特</title>
-    <desc lang="zh">莫特跟隨師父修行了十年，但一直都只能處理一些和修練無關的瑣事，唯一得心應手的法術就是「立即讓頭髮豎立起來」。某天，他們的村莊被妖怪入侵，師父命令莫特去解救村民，並囑咐不可以真面貌示人，執行任務時，必須帶著一個奇怪面具。對於這樣的指示，莫特並不開心。</desc>
-  </programme>
-  <programme start="20251208070000 +0000" stop="20251208073000 +0000" channel="龍華卡通臺">
-    <title lang="zh">往哪跑！</title>
-    <desc lang="zh">俄羅斯經典動畫系列新作！歡樂悠閒的羅莎渡假村，歡迎世界各地的旅客，在此度過最放鬆的假期！然而，調皮的狼總是想和兔子一爭高下，藉此吸引鹿小姐的注意！</desc>
-  </programme>
-  <programme start="20251208073000 +0000" stop="20251208080000 +0000" channel="龍華卡通臺">
-    <title lang="zh">往哪跑！</title>
-    <desc lang="zh">俄羅斯經典動畫系列新作！歡樂悠閒的羅莎渡假村，歡迎世界各地的旅客，在此度過最放鬆的假期！然而，調皮的狼總是想和兔子一爭高下，藉此吸引鹿小姐的注意！</desc>
-  </programme>
-  <programme start="20251208080000 +0000" stop="20251208083000 +0000" channel="龍華卡通臺">
-    <title lang="zh">哈皮樂奇鬧翻天</title>
-    <desc lang="zh">哈皮和樂奇是鄰居，他們跟帕普和邦迪一起住在鄉下。哈皮和樂奇之間相處得很愉快，他們的生活充滿了搞笑和歡樂。</desc>
-  </programme>
-  <programme start="20251208083000 +0000" stop="20251208090000 +0000" channel="龍華卡通臺">
-    <title lang="zh">哈皮樂奇鬧翻天</title>
-    <desc lang="zh">哈皮和樂奇是鄰居，他們跟帕普和邦迪一起住在鄉下。哈皮和樂奇之間相處得很愉快，他們的生活充滿了搞笑和歡樂。</desc>
-  </programme>
-  <programme start="20251208090000 +0000" stop="20251208093000 +0000" channel="龍華卡通臺">
-    <title lang="zh">功夫莫特</title>
-    <desc lang="zh">莫特跟隨師父修行了十年，但一直都只能處理一些和修練無關的瑣事，唯一得心應手的法術就是「立即讓頭髮豎立起來」。某天，他們的村莊被妖怪入侵，師父命令莫特去解救村民，並囑咐不可以真面貌示人，執行任務時，必須帶著一個奇怪面具。對於這樣的指示，莫特並不開心。</desc>
-  </programme>
-  <programme start="20251208093000 +0000" stop="20251208100000 +0000" channel="龍華卡通臺">
-    <title lang="zh">功夫莫特</title>
-    <desc lang="zh">莫特跟隨師父修行了十年，但一直都只能處理一些和修練無關的瑣事，唯一得心應手的法術就是「立即讓頭髮豎立起來」。某天，他們的村莊被妖怪入侵，師父命令莫特去解救村民，並囑咐不可以真面貌示人，執行任務時，必須帶著一個奇怪面具。對於這樣的指示，莫特並不開心。</desc>
   </programme>
   <programme start="20251208100000 +0000" stop="20251208103000 +0000" channel="龍華卡通臺">
     <title lang="zh">往哪跑！</title>
@@ -462431,30 +462272,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">神犬大偵探</title>
     <desc lang="zh">印度偵探動作喜劇動畫。主角Chimpoo是一位年輕偵探，和寵物狗Simpoo擁有一個裝有偵探工具的壁櫃。看他們如何利用自己的直覺和聰明才智解決神祕案件並抓住罪犯。</desc>
   </programme>
-  <programme start="20251208040000 +0000" stop="20251208050000 +0000" channel="亞洲旅遊臺">
-    <title lang="zh">驚奇大冒險</title>
-    <desc lang="zh">帶您深入各國體驗在地文化，貼近當地人民的生活，真實呈現祕境探險、 尋找奇景的過程，讓您知道怎麼玩纔好玩，怎麼玩才刺激！</desc>
-  </programme>
-  <programme start="20251208050000 +0000" stop="20251208060000 +0000" channel="亞洲旅遊臺">
-    <title lang="zh">33廚房</title>
-    <desc lang="zh">電影圈的大明星林美秀首度跨足綜藝接主持棒，即將大展廚藝與觀眾們一起美味上菜！</desc>
-  </programme>
-  <programme start="20251208060000 +0000" stop="20251208070000 +0000" channel="亞洲旅遊臺">
-    <title lang="zh">王子的移動城堡</title>
-    <desc lang="zh">以介紹露營車旅遊行程的節目，第二季將加入新的元素，還邀請混血名模Akemi與錦榮一同主持。帶觀眾深度瞭解當地文化，隨當地農民進入他們的生活，並體驗他們的日常工作，快跟著錦榮與Akemi一起開著露營車去旅行！</desc>
-  </programme>
-  <programme start="20251208070000 +0000" stop="20251208080000 +0000" channel="亞洲旅遊臺">
-    <title lang="zh">嗨 Let’s Go</title>
-    <desc lang="zh">旅行該怎麼玩呢？有人喜歡喫美食、看風景、體驗人文與歷史；也有人只想瘋血拼、追潮流、享奢華；更有人愛自然、愛冒險，當起揹包客最逍遙！其實，無論哪種旅遊方式和玩法，只要懂門道，都能玩出最精彩！</desc>
-  </programme>
-  <programme start="20251208080000 +0000" stop="20251208090000 +0000" channel="亞洲旅遊臺">
-    <title lang="zh">效廉出發吧</title>
-    <desc lang="zh">東森超視全新外景旅遊實境綜藝節目，由跨世代人夫許效舜、威廉攜手主持。兩位私交甚篤的知己好友，將在節目中分享彼此人生故事，帶觀眾深入瞭解每個城鎮獨有的歷史人文，探索每個地方的特色美食生活。一段見證男人友誼的旅行，就此展開！</desc>
-  </programme>
-  <programme start="20251208090000 +0000" stop="20251208100000 +0000" channel="亞洲旅遊臺">
-    <title lang="zh">效廉出發吧</title>
-    <desc lang="zh">東森超視全新外景旅遊實境綜藝節目，由跨世代人夫許效舜、威廉攜手主持。兩位私交甚篤的知己好友，將在節目中分享彼此人生故事，帶觀眾深入瞭解每個城鎮獨有的歷史人文，探索每個地方的特色美食生活。一段見證男人友誼的旅行，就此展開！</desc>
-  </programme>
   <programme start="20251208100000 +0000" stop="20251208110000 +0000" channel="亞洲旅遊臺">
     <title lang="zh">驚奇大冒險</title>
     <desc lang="zh">帶您深入各國體驗在地文化，貼近當地人民的生活，真實呈現祕境探險、 尋找奇景的過程，讓您知道怎麼玩纔好玩，怎麼玩才刺激！</desc>
@@ -462927,30 +462744,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">融融歷險記</title>
     <desc lang="zh">《融融歷險記 Ben’s Adventure》的創辦人Ben，立志前往那些沒有人要去的地方。走過五大洲75餘國，喜歡拍影片更愛與當地人交流，因為這纔是旅行真正的意義。「旅行的意義是什麼？」旅行的意義，看不同的風景，認識不同的人，領略不同的美好，讓你覺得世界那麼大。</desc>
   </programme>
-  <programme start="20251208040000 +0000" stop="20251208050000 +0000" channel="Smart知識臺">
-    <title lang="zh">健康2.0</title>
-    <desc lang="zh">在節目中，將以各種深入淺出的方式，檢測時下流行的健康產品的效用，示範健康烹調與運動方法，並與觀眾分享照顧家人的健康資訊與心得。</desc>
-  </programme>
-  <programme start="20251208050000 +0000" stop="20251208060000 +0000" channel="Smart知識臺">
-    <title lang="zh">全民星攻略</title>
-    <desc lang="zh">東森綜合臺全新益智實境節目，「全民星攻略」，由館長曾國城擔任把關者，考驗著每個來挑戰九宮格益智遊戲藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理想分析，纔有機會獲取智慧星幣，帶走夢幻大獎。</desc>
-  </programme>
-  <programme start="20251208060000 +0000" stop="20251208070000 +0000" channel="Smart知識臺">
-    <title lang="zh">健康2.0</title>
-    <desc lang="zh">在節目中，將以各種深入淺出的方式，檢測時下流行的健康產品的效用，示範健康烹調與運動方法，並與觀眾分享照顧家人的健康資訊與心得。</desc>
-  </programme>
-  <programme start="20251208070000 +0000" stop="20251208080000 +0000" channel="Smart知識臺">
-    <title lang="zh">全民星攻略</title>
-    <desc lang="zh">東森綜合臺全新益智實境節目，「全民星攻略」，由館長曾國城擔任把關者，考驗著每個來挑戰九宮格益智遊戲藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理想分析，纔有機會獲取智慧星幣，帶走夢幻大獎。</desc>
-  </programme>
-  <programme start="20251208080000 +0000" stop="20251208090000 +0000" channel="Smart知識臺">
-    <title lang="zh">健康2.0</title>
-    <desc lang="zh">在節目中，將以各種深入淺出的方式，檢測時下流行的健康產品的效用，示範健康烹調與運動方法，並與觀眾分享照顧家人的健康資訊與心得。</desc>
-  </programme>
-  <programme start="20251208090000 +0000" stop="20251208100000 +0000" channel="Smart知識臺">
-    <title lang="zh">全民星攻略</title>
-    <desc lang="zh">東森綜合臺全新益智實境節目，「全民星攻略」，由館長曾國城擔任把關者，考驗著每個來挑戰九宮格益智遊戲藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理想分析，纔有機會獲取智慧星幣，帶走夢幻大獎。</desc>
-  </programme>
   <programme start="20251208100000 +0000" stop="20251208110000 +0000" channel="Smart知識臺">
     <title lang="zh">健康2.0</title>
     <desc lang="zh">在節目中，將以各種深入淺出的方式，檢測時下流行的健康產品的效用，示範健康烹調與運動方法，並與觀眾分享照顧家人的健康資訊與心得。</desc>
@@ -463406,30 +463199,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
   <programme start="20251213070000 +0000" stop="20251213080000 +0000" channel="Smart知識臺">
     <title lang="zh">動物生存策略(完)</title>
     <desc lang="zh"/>
-  </programme>
-  <programme start="20251208040000 +0000" stop="20251208050000 +0000" channel="龍華戲劇臺">
-    <title lang="zh">金庸武俠世界 鐵血丹心</title>
-    <desc lang="zh">南宋末年，金兵入侵，朝廷奸臣當道。平民義士郭嘯天、楊鐵心兩家指腹為婚，後為金兵所害。全真教道士丘處機與江南七怪定下賭約：分別尋找楊、郭後人並傳授他們武功，於十八年後在醉仙樓比試高低。郭靖、楊康分別在江南七怪與丘處機的教養下長大成人。</desc>
-  </programme>
-  <programme start="20251208050000 +0000" stop="20251208060000 +0000" channel="龍華戲劇臺">
-    <title lang="zh">金庸武俠世界 鐵血丹心</title>
-    <desc lang="zh">南宋末年，金兵入侵，朝廷奸臣當道。平民義士郭嘯天、楊鐵心兩家指腹為婚，後為金兵所害。全真教道士丘處機與江南七怪定下賭約：分別尋找楊、郭後人並傳授他們武功，於十八年後在醉仙樓比試高低。郭靖、楊康分別在江南七怪與丘處機的教養下長大成人。</desc>
-  </programme>
-  <programme start="20251208060000 +0000" stop="20251208070000 +0000" channel="龍華戲劇臺">
-    <title lang="zh">大漢天子</title>
-    <desc lang="zh">武帝劉徹為太子時，結交了胸懷大志的張湯、李陵等人，自視為「太子黨」。而其祖母竇太后卻因維護竇氏家族，千方百計想將他廢掉。劉徹身處險境而不自知，幸而奇人東方朔多次指點迷津才逢凶化吉。武帝登基後，排除後宮勢力平定叛亂，戰勝匈奴，結束了靠「和親」維持和平的屈辱時代，把漢朝推向峯巔…</desc>
-  </programme>
-  <programme start="20251208070000 +0000" stop="20251208080000 +0000" channel="龍華戲劇臺">
-    <title lang="zh">大漢天子</title>
-    <desc lang="zh">武帝劉徹為太子時，結交了胸懷大志的張湯、李陵等人，自視為「太子黨」。而其祖母竇太后卻因維護竇氏家族，千方百計想將他廢掉。劉徹身處險境而不自知，幸而奇人東方朔多次指點迷津才逢凶化吉。武帝登基後，排除後宮勢力平定叛亂，戰勝匈奴，結束了靠「和親」維持和平的屈辱時代，把漢朝推向峯巔…</desc>
-  </programme>
-  <programme start="20251208080000 +0000" stop="20251208090000 +0000" channel="龍華戲劇臺">
-    <title lang="zh">三國</title>
-    <desc lang="zh">距今一千八百多年前，漢帝國衰敗積重難返，長安城內董卓荒淫無度、濫殺無辜，引起舉國義憤，而以曹操為首殲滅董卓，造就了羣雄割據，至赤壁之戰後三國鼎立，再到司馬氏篡魏，天下歸晉為止，這個英雄輩出、波瀾壯闊的大傳奇時代終於結束。而其中的英雄人物和動人故事，仍被傳頌至今。</desc>
-  </programme>
-  <programme start="20251208090000 +0000" stop="20251208100000 +0000" channel="龍華戲劇臺">
-    <title lang="zh">三國</title>
-    <desc lang="zh">距今一千八百多年前，漢帝國衰敗積重難返，長安城內董卓荒淫無度、濫殺無辜，引起舉國義憤，而以曹操為首殲滅董卓，造就了羣雄割據，至赤壁之戰後三國鼎立，再到司馬氏篡魏，天下歸晉為止，這個英雄輩出、波瀾壯闊的大傳奇時代終於結束。而其中的英雄人物和動人故事，仍被傳頌至今。</desc>
   </programme>
   <programme start="20251208100000 +0000" stop="20251208110000 +0000" channel="龍華戲劇臺">
     <title lang="zh">金庸武俠世界 鐵血丹心</title>
@@ -463902,34 +463671,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
   <programme start="20251213070000 +0000" stop="20251213080000 +0000" channel="龍華戲劇臺">
     <title lang="zh">落花時節又逢君</title>
     <desc lang="zh">不懂情愛、呆萌率直的小花妖紅凝，為了報恩誤闖仙界，卻意外發現自己口中的「仙女姐姐」，竟是身為花神的錦繡。紅凝大膽示愛，直言想當錦繡的「天后」，不是拉著他一起睡覺就是要陪他洗澡，讓這位必須斷情絕愛、恪守仙妖界限的未來天帝繼承者瞬間亂了方寸。</desc>
-  </programme>
-  <programme start="20251208040000 +0000" stop="20251208050000 +0000" channel="臺灣戲劇臺">
-    <title lang="zh">關鍵時刻</title>
-    <desc lang="zh">行政院勞工委員會勞工安全衛生研究所製作的3D立體動畫「關鍵時刻」，於第十八屆世界職業安全衛生大會榮獲國際安全衛生影片首獎，大會並以「非常創新的手法」盛讚得獎單位-行政院勞委會勞工安全衛生研究所，對於職場安全衛生教育宣導所做出的貢獻。</desc>
-  </programme>
-  <programme start="20251208050000 +0000" stop="20251208060000 +0000" channel="臺灣戲劇臺">
-    <title lang="zh">臺灣啟示錄</title>
-    <desc lang="zh">為您統整介紹臺灣社會近年來重大案件與名人軼事的始末，以及相關的新聞分析與報導。</desc>
-  </programme>
-  <programme start="20251208060000 +0000" stop="20251208070000 +0000" channel="臺灣戲劇臺">
-    <title lang="zh">臺灣啟示錄</title>
-    <desc lang="zh">為您統整介紹臺灣社會近年來重大案件與名人軼事的始末，以及相關的新聞分析與報導。</desc>
-  </programme>
-  <programme start="20251208070000 +0000" stop="20251208080000 +0000" channel="臺灣戲劇臺">
-    <title lang="zh">包青天</title>
-    <desc lang="zh">仁宗皇帝在位期間，包拯（金超羣）升任開封府府尹執掌京畿，剛直耿介、鐵面無私、明察秋毫、斷案如神，百姓愛戴敬仰尊稱為“包青天”。並有公孫策（範鴻軒）與南俠展昭（何家勁）一文一武兩員大將，使得包拯屢破奇案屢建奇功。</desc>
-  </programme>
-  <programme start="20251208080000 +0000" stop="20251208090000 +0000" channel="臺灣戲劇臺">
-    <title lang="zh">包青天</title>
-    <desc lang="zh">仁宗皇帝在位期間，包拯（金超羣）升任開封府府尹執掌京畿，剛直耿介、鐵面無私、明察秋毫、斷案如神，百姓愛戴敬仰尊稱為“包青天”。並有公孫策（範鴻軒）與南俠展昭（何家勁）一文一武兩員大將，使得包拯屢破奇案屢建奇功。</desc>
-  </programme>
-  <programme start="20251208090000 +0000" stop="20251208093000 +0000" channel="臺灣戲劇臺">
-    <title lang="zh">親戚不計較</title>
-    <desc lang="zh">由卓勝利、李鑼等人主演，本劇雖以喜劇的方式呈現，但笑中有淚，淚中有悟，悟中有得，令人深思！</desc>
-  </programme>
-  <programme start="20251208093000 +0000" stop="20251208100000 +0000" channel="臺灣戲劇臺">
-    <title lang="zh">親戚不計較</title>
-    <desc lang="zh">由卓勝利、李鑼等人主演，本劇雖以喜劇的方式呈現，但笑中有淚，淚中有悟，悟中有得，令人深思！</desc>
   </programme>
   <programme start="20251208100000 +0000" stop="20251208103000 +0000" channel="臺灣戲劇臺">
     <title lang="zh">親戚不計較</title>
@@ -464410,42 +464151,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
   <programme start="20251213070000 +0000" stop="20251213080000 +0000" channel="臺灣戲劇臺">
     <title lang="zh">包青天</title>
     <desc lang="zh">仁宗皇帝在位期間，包拯（金超羣）升任開封府府尹執掌京畿，剛直耿介、鐵面無私、明察秋毫、斷案如神，百姓愛戴敬仰尊稱為“包青天”。並有公孫策（範鴻軒）與南俠展昭（何家勁）一文一武兩員大將，使得包拯屢破奇案屢建奇功。</desc>
-  </programme>
-  <programme start="20251208040000 +0000" stop="20251208044000 +0000" channel="東森購物1臺">
-    <title lang="zh">12/1-12/31全月消費實付滿5,000元送進口【紅心芭樂飲】一箱</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20251208044000 +0000" stop="20251208052000 +0000" channel="東森購物1臺">
-    <title lang="zh">鎖定CH.43、CH.49選購</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20251208052000 +0000" stop="20251208060000 +0000" channel="東森購物1臺">
-    <title lang="zh">12/1-12/31全月消費實付滿5,000元送進口【紅心芭樂飲】一箱</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20251208060000 +0000" stop="20251208064000 +0000" channel="東森購物1臺">
-    <title lang="zh">鎖定CH.43、CH.49選購</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20251208064000 +0000" stop="20251208072000 +0000" channel="東森購物1臺">
-    <title lang="zh">12/1-12/31全月消費實付滿5,000元送進口【紅心芭樂飲】一箱</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20251208072000 +0000" stop="20251208080000 +0000" channel="東森購物1臺">
-    <title lang="zh">鎖定CH.43、CH.49選購</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20251208080000 +0000" stop="20251208084000 +0000" channel="東森購物1臺">
-    <title lang="zh">12/1-12/31全月消費實付滿5,000元送進口【紅心芭樂飲】一箱</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20251208084000 +0000" stop="20251208092000 +0000" channel="東森購物1臺">
-    <title lang="zh">鎖定CH.43、CH.49選購</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20251208092000 +0000" stop="20251208100000 +0000" channel="東森購物1臺">
-    <title lang="zh">12/1-12/31全月消費實付滿5,000元送進口【紅心芭樂飲】一箱</title>
-    <desc lang="zh"/>
   </programme>
   <programme start="20251208100000 +0000" stop="20251208104000 +0000" channel="東森購物1臺">
     <title lang="zh">鎖定CH.43、CH.49選購</title>
@@ -465155,30 +464860,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">鎖定CH.43、CH.49選購</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20251208040000 +0000" stop="20251208050000 +0000" channel="龍華偶像臺">
-    <title lang="zh">玉面桃花總相逢</title>
-    <desc lang="zh">講述了胡嬌與許清嘉因一紙婚約歡喜結緣，夫妻攜手共闖官場江湖的故事</desc>
-  </programme>
-  <programme start="20251208050000 +0000" stop="20251208060000 +0000" channel="龍華偶像臺">
-    <title lang="zh">玉面桃花總相逢</title>
-    <desc lang="zh">講述了胡嬌與許清嘉因一紙婚約歡喜結緣，夫妻攜手共闖官場江湖的故事</desc>
-  </programme>
-  <programme start="20251208060000 +0000" stop="20251208070000 +0000" channel="龍華偶像臺">
-    <title lang="zh">記得我愛你</title>
-    <desc lang="zh">徐振宇（俞承豪）身患超憶症而無法忘記任何事，雖然被人視為記憶天才，但醫生診斷為「障礙」。他積極克服自身障礙，成為所向披靡的律師，父親卻因遭人陰謀算計，被栽贓陷害並宣判死刑。為證明父親的清白，振宇發誓要找出父親無罪的證據…</desc>
-  </programme>
-  <programme start="20251208070000 +0000" stop="20251208080000 +0000" channel="龍華偶像臺">
-    <title lang="zh">記得我愛你</title>
-    <desc lang="zh">徐振宇（俞承豪）身患超憶症而無法忘記任何事，雖然被人視為記憶天才，但醫生診斷為「障礙」。他積極克服自身障礙，成為所向披靡的律師，父親卻因遭人陰謀算計，被栽贓陷害並宣判死刑。為證明父親的清白，振宇發誓要找出父親無罪的證據…</desc>
-  </programme>
-  <programme start="20251208080000 +0000" stop="20251208090000 +0000" channel="龍華偶像臺">
-    <title lang="zh">我把社長解鎖了</title>
-    <desc lang="zh">講述不明所以死去的39歲大企業天才CEO，死後被鎖在手機裏，隨後被29歲待業生撿到手機後挖掘真相的故事。</desc>
-  </programme>
-  <programme start="20251208090000 +0000" stop="20251208100000 +0000" channel="龍華偶像臺">
-    <title lang="zh">我把社長解鎖了</title>
-    <desc lang="zh">講述不明所以死去的39歲大企業天才CEO，死後被鎖在手機裏，隨後被29歲待業生撿到手機後挖掘真相的故事。</desc>
-  </programme>
   <programme start="20251208100000 +0000" stop="20251208110000 +0000" channel="龍華偶像臺">
     <title lang="zh">玉面桃花總相逢</title>
     <desc lang="zh">講述了胡嬌與許清嘉因一紙婚約歡喜結緣，夫妻攜手共闖官場江湖的故事</desc>
@@ -465655,30 +465336,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">向風而行</title>
     <desc lang="zh">嚴苛自律的飛行部副部長顧南亭，因公司改制意外，與性格颯爽不羈的程霄成上下屬和師徒關係。面對接踵而來的突發航空事件，兩人攜手絕地反擊、化險為夷。在解決危機的途中，追求穩定秩序的顧南亭時常被不按常理出牌的程霄打亂計劃，但仍然能夠解決困難，並在過程中克服著自身的缺點，一路朝着夢想前進。</desc>
   </programme>
-  <programme start="20251208040000 +0000" stop="20251208050000 +0000" channel="龍華日韓臺">
-    <title lang="zh">紅色高跟鞋</title>
-    <desc lang="zh">閔熙瓊（崔明吉）多年前為追求成功的野心拋夫棄子。熙瓊的女兒金珍雅（蘇怡賢）長大後雖才貌兼具，內心卻隱藏著傷痛，並對媽媽產生怨恨。當她發現母親如今成為知名製鞋品牌的實權者，父親死亡那天還對他見死不救，決心為父親討回公道…</desc>
-  </programme>
-  <programme start="20251208050000 +0000" stop="20251208060000 +0000" channel="龍華日韓臺">
-    <title lang="zh">紅色高跟鞋</title>
-    <desc lang="zh">閔熙瓊（崔明吉）多年前為追求成功的野心拋夫棄子。熙瓊的女兒金珍雅（蘇怡賢）長大後雖才貌兼具，內心卻隱藏著傷痛，並對媽媽產生怨恨。當她發現母親如今成為知名製鞋品牌的實權者，父親死亡那天還對他見死不救，決心為父親討回公道…</desc>
-  </programme>
-  <programme start="20251208060000 +0000" stop="20251208070000 +0000" channel="龍華日韓臺">
-    <title lang="zh">我的魯蛇舅舅</title>
-    <desc lang="zh">被朋友背叛、被愛人拋棄的無業遊民音樂家王俊赫（吳正世），因為姐姐俊熙突然離婚，開始負責照顧患有兒童強迫症的侄子，卻意外成為育兒達人，成為「育兒舅舅」後變得更有責任感。俊熙也為了爭取兒子撫養權而勇敢對抗暴力前夫…</desc>
-  </programme>
-  <programme start="20251208070000 +0000" stop="20251208080000 +0000" channel="龍華日韓臺">
-    <title lang="zh">我的魯蛇舅舅</title>
-    <desc lang="zh">被朋友背叛、被愛人拋棄的無業遊民音樂家王俊赫（吳正世），因為姐姐俊熙突然離婚，開始負責照顧患有兒童強迫症的侄子，卻意外成為育兒達人，成為「育兒舅舅」後變得更有責任感。俊熙也為了爭取兒子撫養權而勇敢對抗暴力前夫…</desc>
-  </programme>
-  <programme start="20251208080000 +0000" stop="20251208090000 +0000" channel="龍華日韓臺">
-    <title lang="zh">榴蓮小姐</title>
-    <desc lang="zh">朝鮮時代的榴蓮（樸柱美）雖嫁給樸一帥，但她愛的卻是為救她身亡的石鐵（金敏俊）。多年後，榴蓮和石鐵之子樸言（柳政厚）和金素貯（李多妍）先婚後愛，樸言驟逝後，悲痛的婆媳倆竟在月蝕之夜穿越時空，來到心愛之人轉世的丹氏家族…</desc>
-  </programme>
-  <programme start="20251208090000 +0000" stop="20251208100000 +0000" channel="龍華日韓臺">
-    <title lang="zh">歐若拉公主</title>
-    <desc lang="zh">大企業天王食品會長家，晚來得到的獨生女歐若拉竟對完美挑剔男的小說家黃馬馬一見鍾情，而這兩家族之間會因為這兩人間所發生的事情，有何改變呢？</desc>
-  </programme>
   <programme start="20251208100000 +0000" stop="20251208110000 +0000" channel="龍華日韓臺">
     <title lang="zh">歐若拉公主</title>
     <desc lang="zh">大企業天王食品會長家，晚來得到的獨生女歐若拉竟對完美挑剔男的小說家黃馬馬一見鍾情，而這兩家族之間會因為這兩人間所發生的事情，有何改變呢？</desc>
@@ -466150,42 +465807,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
   <programme start="20251213070000 +0000" stop="20251213080000 +0000" channel="龍華日韓臺">
     <title lang="zh">逆轉女王</title>
     <desc lang="zh">翻越萬重障礙終於結婚的兩人將展開令人羨慕的夫妻生活。沒想到在結婚後發生了預想不到的波折，之後終於戰勝困難實現「人生逆轉」。是部的輕鬆愉快夫婦劇。</desc>
-  </programme>
-  <programme start="20251208040000 +0000" stop="20251208044000 +0000" channel="東森購物2臺">
-    <title lang="zh">12/1-12/31全月消費實付滿5,000元送進口【紅心芭樂飲】一箱</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20251208044000 +0000" stop="20251208052000 +0000" channel="東森購物2臺">
-    <title lang="zh">鎖定CH.43、CH.49選購</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20251208052000 +0000" stop="20251208060000 +0000" channel="東森購物2臺">
-    <title lang="zh">12/1-12/31全月消費實付滿5,000元送進口【紅心芭樂飲】一箱</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20251208060000 +0000" stop="20251208064000 +0000" channel="東森購物2臺">
-    <title lang="zh">鎖定CH.43、CH.49選購</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20251208064000 +0000" stop="20251208072000 +0000" channel="東森購物2臺">
-    <title lang="zh">12/1-12/31全月消費實付滿5,000元送進口【紅心芭樂飲】一箱</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20251208072000 +0000" stop="20251208080000 +0000" channel="東森購物2臺">
-    <title lang="zh">鎖定CH.43、CH.49選購</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20251208080000 +0000" stop="20251208084000 +0000" channel="東森購物2臺">
-    <title lang="zh">12/1-12/31全月消費實付滿5,000元送進口【紅心芭樂飲】一箱</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20251208084000 +0000" stop="20251208092000 +0000" channel="東森購物2臺">
-    <title lang="zh">鎖定CH.43、CH.49選購</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20251208092000 +0000" stop="20251208100000 +0000" channel="東森購物2臺">
-    <title lang="zh">12/1-12/31全月消費實付滿5,000元送進口【紅心芭樂飲】一箱</title>
-    <desc lang="zh"/>
   </programme>
   <programme start="20251208100000 +0000" stop="20251208104000 +0000" channel="東森購物2臺">
     <title lang="zh">鎖定CH.43、CH.49選購</title>
@@ -466895,26 +466516,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">鎖定CH.43、CH.49選購</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20251208035800 +0000" stop="20251208050000 +0000" channel="華視新聞">
-    <title lang="zh">華視午間新聞</title>
-    <desc lang="zh">華視午間新聞由最專業的華視主播，帶給觀眾朋友更多元化的新聞。</desc>
-  </programme>
-  <programme start="20251208050000 +0000" stop="20251208060000 +0000" channel="華視新聞">
-    <title lang="zh">華視1300午間新聞</title>
-    <desc lang="zh">以最客觀的角度，最專業的主播，為觀眾完整報導國內外重要新聞。</desc>
-  </programme>
-  <programme start="20251208060000 +0000" stop="20251208070000 +0000" channel="華視新聞">
-    <title lang="zh">華視1400整點新聞</title>
-    <desc lang="zh">以最客觀的角度，最專業的主播，為觀眾完整報導國內外重要新聞。</desc>
-  </programme>
-  <programme start="20251208070000 +0000" stop="20251208080000 +0000" channel="華視新聞">
-    <title lang="zh">華視1500整點新聞</title>
-    <desc lang="zh">以最客觀的角度，最專業的主播，為觀眾完整報導上午發生之重大國內外重要新聞。</desc>
-  </programme>
-  <programme start="20251208080000 +0000" stop="20251208085300 +0000" channel="華視新聞">
-    <title lang="zh">華視在地新聞</title>
-    <desc lang="zh">以臺語發音，提供觀眾朋友不一樣的國內外新聞。</desc>
-  </programme>
   <programme start="20251208085300 +0000" stop="20251208120000 +0000" channel="華視新聞">
     <title lang="zh">華視新聞晚報</title>
     <desc lang="zh">華視新聞部每天整理當天重大國內外新聞事件，為觀眾做最快、最即時的播報。</desc>
@@ -467351,10 +466952,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">三國演議</title>
     <desc lang="zh">華視新聞部製播新聞專題節目。由國際政經專家汪浩、日本產經新聞臺北支局長矢板明夫搭檔主持，深度講評最新國際政經重大事件，跳脫傳統政論談話節目的框架屬性。</desc>
   </programme>
-  <programme start="20251208040000 +0000" stop="20251208100000 +0000" channel="倪珍播新聞">
-    <title lang="zh">午安新聞</title>
-    <desc lang="zh"/>
-  </programme>
   <programme start="20251208100000 +0000" stop="20251208160000 +0000" channel="倪珍播新聞">
     <title lang="zh">晚安新聞</title>
     <desc lang="zh"/>
@@ -467430,30 +467027,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
   <programme start="20251212220000 +0000" stop="20251213040000 +0000" channel="倪珍播新聞">
     <title lang="zh">早安新聞</title>
     <desc lang="zh"/>
-  </programme>
-  <programme start="20251208035500 +0000" stop="20251208060000 +0000" channel="三立新聞iNEWS">
-    <title lang="zh">iNEWS財經午報</title>
-    <desc lang="zh">三立iNEWS製播的財經新聞節目，每天午間由最專業的主播帶來國際時事、財經股匯市報導、深度新聞、時事評論…等內容。</desc>
-  </programme>
-  <programme start="20251208060000 +0000" stop="20251208063000 +0000" channel="三立新聞iNEWS">
-    <title lang="zh">臺股大贏家</title>
-    <desc lang="zh">三立iNEWS製播的財經新聞節目，由最專業的財經主播與股市專家帶來股匯市趨勢分析、提供觀眾投資時的參考。</desc>
-  </programme>
-  <programme start="20251208063000 +0000" stop="20251208070000 +0000" channel="三立新聞iNEWS">
-    <title lang="zh">iNEWS1430整點新聞</title>
-    <desc lang="zh">三立iNEWS製播的財經新聞節目，由最專業的財經主播帶來國際時事、財經股匯市報導、深度新聞、時事評論…等內容。</desc>
-  </programme>
-  <programme start="20251208070000 +0000" stop="20251208080000 +0000" channel="三立新聞iNEWS">
-    <title lang="zh">旅行東西軍</title>
-    <desc lang="zh">由年輕主播和記者用尬場PK節目型態播出。</desc>
-  </programme>
-  <programme start="20251208080000 +0000" stop="20251208090000 +0000" channel="三立新聞iNEWS">
-    <title lang="zh">iNEWS1600整點新聞</title>
-    <desc lang="zh">三立iNEWS製播的財經新聞節目，由最專業的財經主播帶來國際時事、財經股匯市報導、深度新聞、時事評論…等內容。</desc>
-  </programme>
-  <programme start="20251208090000 +0000" stop="20251208100000 +0000" channel="三立新聞iNEWS">
-    <title lang="zh">iNEWS1700整點新聞</title>
-    <desc lang="zh">三立iNEWS製播的財經新聞節目，由最專業的財經主播帶來國際時事、財經股匯市報導、深度新聞、時事評論…等內容。</desc>
   </programme>
   <programme start="20251208100000 +0000" stop="20251208115500 +0000" channel="三立新聞iNEWS">
     <title lang="zh">1819錢進大頭條</title>
@@ -467866,30 +467439,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
   <programme start="20251213065500 +0000" stop="20251213075500 +0000" channel="三立新聞iNEWS">
     <title lang="zh">好宅敲敲門</title>
     <desc lang="zh">由廖婕妤主持，節目將深入分析房地產市場動態，提供區域房價、趨勢報導，同時有房地產界人物專訪，透過人物故事看房市更迭，並搭配每週精選、具吸引力之房地產新聞，以及主播開箱名人明星家，訪談買房心法、投資觀點。</desc>
-  </programme>
-  <programme start="20251208040000 +0000" stop="20251208050000 +0000" channel="寰宇財經臺">
-    <title lang="zh">臺股線上</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20251208050000 +0000" stop="20251208060000 +0000" channel="寰宇財經臺">
-    <title lang="zh">臺股線上</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20251208060000 +0000" stop="20251208070000 +0000" channel="寰宇財經臺">
-    <title lang="zh">股海大丈夫</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20251208070000 +0000" stop="20251208080000 +0000" channel="寰宇財經臺">
-    <title lang="zh">小食光臺味誌</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20251208080000 +0000" stop="20251208090000 +0000" channel="寰宇財經臺">
-    <title lang="zh">寰宇追追追</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20251208090000 +0000" stop="20251208100000 +0000" channel="寰宇財經臺">
-    <title lang="zh">巷弄美食家</title>
-    <desc lang="zh"/>
   </programme>
   <programme start="20251208100000 +0000" stop="20251208110000 +0000" channel="寰宇財經臺">
     <title lang="zh">美食打卡趣</title>
@@ -468363,30 +467912,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">打卡吧!我的炫FOOD日記</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20251208035800 +0000" stop="20251208050000 +0000" channel="中視新聞">
-    <title lang="zh">中視午間新聞</title>
-    <desc lang="zh">「中視午間新聞」每天以最客觀的角度，最專業的主播，為觀眾完整報導上午發生之重大國內外重要新聞，並提供最新股市收盤價格。</desc>
-  </programme>
-  <programme start="20251208050000 +0000" stop="20251208060000 +0000" channel="中視新聞">
-    <title lang="zh">中視新聞即時現場</title>
-    <desc lang="zh">由主播蕭惠文播報，以SNG車讓觀眾看到最即時的新聞報導，並以最客觀的角度，為觀眾完整報導上午發生之重要新聞。</desc>
-  </programme>
-  <programme start="20251208060000 +0000" stop="20251208070000 +0000" channel="中視新聞">
-    <title lang="zh">中視新聞即時現場</title>
-    <desc lang="zh">由主播蕭惠文播報，以SNG車讓觀眾看到最即時的新聞報導，並以最客觀的角度，為觀眾完整報導上午發生之重要新聞。</desc>
-  </programme>
-  <programme start="20251208070000 +0000" stop="20251208080000 +0000" channel="中視新聞">
-    <title lang="zh">中視新聞即時現場</title>
-    <desc lang="zh">由主播蕭惠文播報，以SNG車讓觀眾看到最即時的新聞報導，並以最客觀的角度，為觀眾完整報導上午發生之重要新聞。</desc>
-  </programme>
-  <programme start="20251208080000 +0000" stop="20251208090000 +0000" channel="中視新聞">
-    <title lang="zh">致富生活密碼</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20251208090000 +0000" stop="20251208100000 +0000" channel="中視新聞">
-    <title lang="zh">中視新聞即時現場</title>
-    <desc lang="zh">由主播蕭惠文播報，以SNG車讓觀眾看到最即時的新聞報導，並以最客觀的角度，為觀眾完整報導上午發生之重要新聞。</desc>
-  </programme>
   <programme start="20251208100000 +0000" stop="20251208105800 +0000" channel="中視新聞">
     <title lang="zh">中視新聞全球報導</title>
     <desc lang="zh">中視每晚七點由主播哈遠儀為全國觀眾最專業、準確的新聞報導。</desc>
@@ -468858,30 +468383,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
   <programme start="20251213070000 +0000" stop="20251213080000 +0000" channel="中視新聞">
     <title lang="zh">中視新聞即時現場</title>
     <desc lang="zh">由主播蕭惠文播報，以SNG車讓觀眾看到最即時的新聞報導，並以最客觀的角度，為觀眾完整報導上午發生之重要新聞。</desc>
-  </programme>
-  <programme start="20251208040000 +0000" stop="20251208050000 +0000" channel="中天新聞臺">
-    <title lang="zh">中天新聞 1200正午新聞</title>
-    <desc lang="zh">中天正午新聞帶給您最新的國內外大事，掌握天下，以及最新疫情新聞消息、疫情指揮中心直播、今日確診人數統計等重大新聞轉播報導。</desc>
-  </programme>
-  <programme start="20251208050000 +0000" stop="20251208060000 +0000" channel="中天新聞臺">
-    <title lang="zh">中天新聞 1300午間新聞</title>
-    <desc lang="zh">中天午間新聞帶給您最新的國內外大事，掌握天下。</desc>
-  </programme>
-  <programme start="20251208060000 +0000" stop="20251208070000 +0000" channel="中天新聞臺">
-    <title lang="zh">14大新聞大爆卦</title>
-    <desc lang="zh">每週一到週五《大新聞大爆卦》中天主播馬千惠陪你一起來解卦！！！</desc>
-  </programme>
-  <programme start="20251208070000 +0000" stop="20251208080000 +0000" channel="中天新聞臺">
-    <title lang="zh">15大新聞大爆卦</title>
-    <desc lang="zh">每週一到週五《大新聞大爆卦》中天主播陪你一起來解卦！！！</desc>
-  </programme>
-  <programme start="20251208080000 +0000" stop="20251208090000 +0000" channel="中天新聞臺">
-    <title lang="zh">中天新聞 1600整點新聞</title>
-    <desc lang="zh">收看中天新聞帶給你最即時、最完整、最專業的新聞報導。</desc>
-  </programme>
-  <programme start="20251208090000 +0000" stop="20251208100000 +0000" channel="中天新聞臺">
-    <title lang="zh">中天新聞 1700整點新聞</title>
-    <desc lang="zh">收看中天新聞帶給你最即時、最完整、最專業的新聞報導。</desc>
   </programme>
   <programme start="20251208100000 +0000" stop="20251208110000 +0000" channel="中天新聞臺">
     <title lang="zh">中天辣晚報</title>
@@ -469355,30 +468856,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">週末大爆卦</title>
     <desc lang="zh">中天主播為您帶來最新、最即時的重點新聞、內幕爆卦，鎖定《週末大爆掛》！</desc>
   </programme>
-  <programme start="20251208035500 +0000" stop="20251208045500 +0000" channel="寰宇新聞臺">
-    <title lang="zh">寰宇午間新聞</title>
-    <desc lang="zh">寰宇午間新聞給你最在地的臺灣新聞、最深入的兩岸焦點，掌握國際情勢帶您瞭解社會脈動。</desc>
-  </programme>
-  <programme start="20251208045500 +0000" stop="20251208055500 +0000" channel="寰宇新聞臺">
-    <title lang="zh">寰宇午間新聞</title>
-    <desc lang="zh">寰宇午間新聞給你最在地的臺灣新聞、最深入的兩岸焦點，掌握國際情勢帶您瞭解社會脈動。</desc>
-  </programme>
-  <programme start="20251208055500 +0000" stop="20251208065500 +0000" channel="寰宇新聞臺">
-    <title lang="zh">寰宇整點新聞</title>
-    <desc lang="zh">來自路透的國際新聞、最在地的臺灣新聞以及最深入的兩岸焦點，帶您掌握社會脈動。</desc>
-  </programme>
-  <programme start="20251208065500 +0000" stop="20251208075500 +0000" channel="寰宇新聞臺">
-    <title lang="zh">寰宇整點新聞</title>
-    <desc lang="zh">來自路透的國際新聞、最在地的臺灣新聞以及最深入的兩岸焦點，帶您掌握社會脈動。</desc>
-  </programme>
-  <programme start="20251208075500 +0000" stop="20251208085500 +0000" channel="寰宇新聞臺">
-    <title lang="zh">寰宇晚間新聞</title>
-    <desc lang="zh">寰宇晚間新聞給你最在地的臺灣新聞、最深入的兩岸焦點，掌握國際情勢帶您瞭解社會脈動。</desc>
-  </programme>
-  <programme start="20251208085500 +0000" stop="20251208095500 +0000" channel="寰宇新聞臺">
-    <title lang="zh">寰宇晚間新聞</title>
-    <desc lang="zh">寰宇晚間新聞給你最在地的臺灣新聞、最深入的兩岸焦點，掌握國際情勢帶您瞭解社會脈動。</desc>
-  </programme>
   <programme start="20251208095500 +0000" stop="20251208105500 +0000" channel="寰宇新聞臺">
     <title lang="zh">寰宇晚間新聞</title>
     <desc lang="zh">寰宇晚間新聞給你最在地的臺灣新聞、最深入的兩岸焦點，掌握國際情勢帶您瞭解社會脈動。</desc>
@@ -469849,46 +469326,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
   </programme>
   <programme start="20251213065500 +0000" stop="20251213075500 +0000" channel="寰宇新聞臺">
     <title lang="zh">噓你不知道的事</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20251208040000 +0000" stop="20251208050000 +0000" channel="第1商業臺">
-    <title lang="zh">財經資訊</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20251208050000 +0000" stop="20251208060000 +0000" channel="第1商業臺">
-    <title lang="zh">財經資訊</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20251208060000 +0000" stop="20251208063000 +0000" channel="第1商業臺">
-    <title lang="zh">股市吳限鑽-寶得富-吳曉松分析師</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20251208063000 +0000" stop="20251208070000 +0000" channel="第1商業臺">
-    <title lang="zh">啟發投顧精選</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20251208070000 +0000" stop="20251208073000 +0000" channel="第1商業臺">
-    <title lang="zh">阪田戰法-寶得富-顧奎國分析師</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20251208073000 +0000" stop="20251208080000 +0000" channel="第1商業臺">
-    <title lang="zh">期股衝衝衝-寶得富-翁士峻分析師</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20251208080000 +0000" stop="20251208083000 +0000" channel="第1商業臺">
-    <title lang="zh">股市全攻略-豐銀投顧-龔鴻彬分析師</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20251208083000 +0000" stop="20251208090000 +0000" channel="第1商業臺">
-    <title lang="zh">汪海華_操盤的智慧</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20251208090000 +0000" stop="20251208093000 +0000" channel="第1商業臺">
-    <title lang="zh">股市第一線-顧德投顧-李冠嶔分析師</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20251208093000 +0000" stop="20251208100000 +0000" channel="第1商業臺">
-    <title lang="zh">贏家應對-顧德投顧-林泓橡分析師</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20251208100000 +0000" stop="20251208103000 +0000" channel="第1商業臺">
@@ -470755,10 +470192,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">期股衝衝衝-寶得富-翁士峻分析師</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20251208010000 +0000" stop="20251208100000 +0000" channel="國會頻道1臺">
-    <title lang="zh">立法院會議直播</title>
-    <desc lang="zh"/>
-  </programme>
   <programme start="20251208100000 +0000" stop="20251208160000 +0000" channel="國會頻道1臺">
     <title lang="zh">當日立法院會議轉播</title>
     <desc lang="zh"/>
@@ -470853,10 +470286,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
   </programme>
   <programme start="20251213010000 +0000" stop="20251213050000 +0000" channel="國會頻道1臺">
     <title lang="zh">本週立法院會議轉播</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20251208010000 +0000" stop="20251208100000 +0000" channel="國會頻道2臺">
-    <title lang="zh">立法院會議直播</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20251208100000 +0000" stop="20251208160000 +0000" channel="國會頻道2臺">
@@ -470954,18 +470383,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
   <programme start="20251213010000 +0000" stop="20251213050000 +0000" channel="國會頻道2臺">
     <title lang="zh">本週立法院會議轉播</title>
     <desc lang="zh"/>
-  </programme>
-  <programme start="20251208023500 +0000" stop="20251208050500 +0000" channel="龍華經典臺">
-    <title lang="zh">達斯汀霍夫曼之小巨人</title>
-    <desc lang="zh">19世紀中葉的美國西部開拓時期，十歲的白人孤兒傑克由夏安族老酋長老帳篷皮撫養長大，個頭矮小的他屢受印地安玩伴嘲笑，但在為救同伴而殺了敵族後獲得小巨人的名號。而後周旋於白人與紅人間出生入死的傳奇經歷，亦反映了美國西部拓荒時期的一頁血淚史。</desc>
-  </programme>
-  <programme start="20251208050500 +0000" stop="20251208070500 +0000" channel="龍華經典臺">
-    <title lang="zh">朋友再見</title>
-    <desc lang="zh">自阿爾及利亞戰場歸來，法國醫官巴宏和外籍軍團傭兵波普同在營區等待除役而相識，種下了莫名的兄弟情誼。巴宏為了完成軍中友人生前承諾，答應其女友伊莎貝爾，利用即將到來的聖誕長假潛入公司保險櫃放回一筆價值不菲的債券，波普也恰在同時找上巴宏，二人竟被鎖在公司金庫中！</desc>
-  </programme>
-  <programme start="20251208070500 +0000" stop="20251208092000 +0000" channel="龍華經典臺">
-    <title lang="zh">信用詐欺師JP：公主篇</title>
-    <desc lang="zh">富豪留下10兆日圓遺產，律師發表的繼承人卻是誰都不知道的私生女。就在家屬尋找私生女的同時，世界各地的詐欺師們也為這遺產大集合！詐欺師三人小組怎能錯過這天大的好機會，他們也潛入富豪家，開啟史上最大規模的詐騙計畫。豈料，他們的身份卻被家屬識破，並安排殺手暗中突襲…</desc>
   </programme>
   <programme start="20251208092000 +0000" stop="20251208110000 +0000" channel="龍華經典臺">
     <title lang="zh">祖孫情</title>
@@ -471182,14 +470599,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
   <programme start="20251213043000 +0000" stop="20251213064500 +0000" channel="龍華經典臺">
     <title lang="zh">青面修羅</title>
     <desc lang="zh">因一塊藏寶銅片慘遭滅門的「青面修羅」齊君元（馮紹峯），在神祕刺客組織「離恨谷」長大。某日，離恨谷受託奪取藏寶銅片，谷主卻不派齊君元追查，他決意復仇，不惜叛谷暗中調查。消失多年的銅片為何再現？面對各路追殺，齊君元更發現自己身陷一個「局」，設局者是何方神聖？神祕委託人是何許人也？</desc>
-  </programme>
-  <programme start="20251208041000 +0000" stop="20251208061000 +0000" channel="龍華電影院">
-    <title lang="zh">倩女幽魂</title>
-    <desc lang="zh">書生寧採臣（張國榮）借宿荒廟蘭若寺內。夜晚他被廟後傳來的琴聲所吸引，因此結識了聶小倩（王祖賢）。兩人相互傾心，但是小倩其實是個被樹精姥姥控制的女鬼，而大俠燕赤霞（午馬）也想利用寧採臣來消滅樹精姥姥…八十年代香港經典，改編賦予新意，節奏明快，風格詩意，並獲金馬獎多項肯定。</desc>
-  </programme>
-  <programme start="20251208061000 +0000" stop="20251208082000 +0000" channel="龍華電影院">
-    <title lang="zh">倩女幽魂2:人間道</title>
-    <desc lang="zh">在一朝政混亂，民生困苦的朝代，寧採臣與好友燕赤霞分手後，路過一個市集，無故被陷入獄，幸得通天博士諸葛臥龍相助逃獄成功。後來更與道士一葉知秋相交，但孰不知國師竟是妖精幻化所成。</desc>
   </programme>
   <programme start="20251208082000 +0000" stop="20251208105500 +0000" channel="龍華電影院">
     <title lang="zh">非誠勿擾2</title>
@@ -471422,18 +470831,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
   <programme start="20251213032500 +0000" stop="20251213060000 +0000" channel="龍華電影院">
     <title lang="zh">至尊無上</title>
     <desc lang="zh">亞蟹（劉德華）與羅森（譚詠麟）是賭壇雙天至尊，逢賭必贏。一次他們被派前往賭場，揭發日本詐騙集團的騙局，結果反被集團首領窮追猛打。亞蟹為救羅森，右手被斬終生殘廢，只好退出江湖。可惜他仍得不到安寧，日本首領不斷的找他麻煩，逼他重出江湖。</desc>
-  </programme>
-  <programme start="20251208034000 +0000" stop="20251208052000 +0000" channel="龍華洋片臺OTT">
-    <title lang="zh">雙面遊戲</title>
-    <desc lang="zh">山姆是一個平凡的紐約人，但在女友喬治婭慘遭保加利亞黑幫謀殺後，他的生活一片混亂。為了躲避殺他女友的那幫人，山姆逃到了巴黎。三年後，山姆偶然在電影院銀幕上看見一個長得跟喬治婭一模一樣的人。對過往愛情的執迷，將山姆帶往洛杉磯尋求答案，但這也讓他重新出現在保加利亞黑幫的視線中</desc>
-  </programme>
-  <programme start="20251208052000 +0000" stop="20251208073500 +0000" channel="龍華洋片臺OTT">
-    <title lang="zh">酷寒殺手</title>
-    <desc lang="zh">剛獲頒榮譽市民的尼爾（連恩尼遜）接獲警方通知兒子吸毒過量致死，堅信兒子清白的他調查後發現兒子實則死於黑幫之手，憤而展開復仇行動。在尼爾殺死三個黑幫份子後，老大誤以為是敵對黑幫下毒手而回敬，豈料竟就此引發幫派大火拼…</desc>
-  </programme>
-  <programme start="20251208073500 +0000" stop="20251208094500 +0000" channel="龍華洋片臺OTT">
-    <title lang="zh">波伽利：聲命之歌</title>
-    <desc lang="zh">改編自跨界男高音波伽利的自傳，以第一人稱自述方式呈現，片中他化身先天眼疾的阿莫斯（託比塞巴斯欽），經歷由弱視變全盲與變聲期失聲等打擊後，讓天生好歌喉的他逐漸消沉，後來得恩師（安東尼奧班德拉斯）教導度過低潮，到最後馳名全球…</desc>
   </programme>
   <programme start="20251208094500 +0000" stop="20251208112500 +0000" channel="龍華洋片臺OTT">
     <title lang="zh">王子鬥惡龍</title>
@@ -471779,24 +471176,24 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">中國足球青少年精英聯賽浙江俱樂部U21vs長春亞泰U21</title>
     <desc lang="zh">/</desc>
   </programme>
-  <programme start="20251208144500 +0800" stop="20251208190000 +0800" channel="咪咕體育">
+  <programme start="20251208144500 +0800" stop="20251208170247 +0800" channel="咪咕體育">
     <title lang="zh">CBA俱樂部杯小組賽山東高速vs青島嶗山啤酒</title>
     <desc lang="zh">/</desc>
   </programme>
-  <programme start="20251208145000 +0800" stop="20251208190000 +0800" channel="咪咕體育">
+  <programme start="20251208145000 +0800" stop="20251208170017 +0800" channel="咪咕體育">
     <title lang="zh">中國足球青少年精英聯賽雲南玉昆U21vs河南俱樂部U21</title>
     <desc lang="zh">/</desc>
   </programme>
-  <programme start="20251208145000 +0800" stop="20251208190000 +0800" channel="咪咕體育">
+  <programme start="20251208145000 +0800" stop="20251208165957 +0800" channel="咪咕體育">
     <title lang="zh">中國足球青少年精英聯賽深圳新鵬城U21vs大連英博U21</title>
     <desc lang="zh">/</desc>
   </programme>
-  <programme start="20251208145000 +0800" stop="20251208190000 +0800" channel="咪咕體育">
+  <programme start="20251208145000 +0800" stop="20251208165425 +0800" channel="咪咕體育">
     <title lang="zh">中國足球青少年精英聯賽天津津門虎U21vs上海申花U21</title>
     <desc lang="zh">/</desc>
   </programme>
-  <programme start="20251208150000 +0800" stop="20251208230000 +0800" channel="咪咕體育">
-    <title lang="zh">【抽籤儀式】見證賽季收官好戲【抽籤儀式】見證賽季收官好戲</title>
+  <programme start="20251208150000 +0800" stop="20251208163713 +0800" channel="咪咕體育">
+    <title lang="zh">【抽籤】孫穎莎首輪戰大迪 王楚欽獨守半區【抽籤】孫穎莎首輪戰大迪 王楚欽獨守半區</title>
     <desc lang="zh">/</desc>
   </programme>
   <programme start="20251208191500 +0800" stop="20251208233000 +0800" channel="咪咕體育">
@@ -471815,7 +471212,7 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">WCBA常規賽A組新疆天山 VS 山西竹葉青酒</title>
     <desc lang="zh">/</desc>
   </programme>
-  <programme start="20251208200000 +0800" stop="20251209100000 +0800" channel="咪咕體育">
+  <programme start="20251208200000 +0800" stop="20251208230000 +0800" channel="咪咕體育">
     <title lang="zh">馬術場地障礙世界盃西歐聯賽馬術場地障礙世界盃西歐聯賽</title>
     <desc lang="zh">/</desc>
   </programme>
@@ -471853,6 +471250,10 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
   </programme>
   <programme start="20251209085500 +0800" stop="20251209130000 +0800" channel="咪咕體育">
     <title lang="zh">NBA常規賽馬刺VS鵜鶘</title>
+    <desc lang="zh">/</desc>
+  </programme>
+  <programme start="20251209100000 +0800" stop="20251210140000 +0800" channel="咪咕體育">
+    <title lang="zh">王呈丞、翁浩亮相鞍馬項目王呈丞、翁浩亮相鞍馬項目</title>
     <desc lang="zh">/</desc>
   </programme>
   <programme start="20251209174500 +0800" stop="20251209220000 +0800" channel="咪咕體育">
@@ -473303,11 +472704,11 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">차트를달리는남자 스페셜</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208215000 +0900" stop="20251208231000 +0900" channel="KBS JOY">
+  <programme start="20251208215000 +0900" stop="20251208231500 +0900" channel="KBS JOY">
     <title lang="zh">무엇이든물어보살</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208231000 +0900" stop="20251209010500 +0900" channel="KBS JOY">
+  <programme start="20251208231500 +0900" stop="20251209010500 +0900" channel="KBS JOY">
     <title lang="zh">무엇이든물어보살</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -473315,11 +472716,11 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">차트를달리는남자 Darkedition</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209023500 +0900" stop="20251209040500 +0900" channel="KBS JOY">
+  <programme start="20251209023500 +0900" stop="20251209040000 +0900" channel="KBS JOY">
     <title lang="zh">개그콘서트</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209040500 +0900" stop="20251209045000 +0900" channel="KBS JOY">
+  <programme start="20251209040000 +0900" stop="20251209044500 +0900" channel="KBS JOY">
     <title lang="zh">사장님귀는당나귀귀</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -473595,7 +472996,7 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">2TV생생정보</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208061500 +0900" stop="20251208075500 +0900" channel="KBS LIFE">
+  <programme start="20251208061000 +0900" stop="20251208075500 +0900" channel="KBS LIFE">
     <title lang="zh">무엇이든물어보세요</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -473611,11 +473012,11 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">우리들의 지식살롱 스페셜</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208110000 +0900" stop="20251208122000 +0900" channel="KBS LIFE">
+  <programme start="20251208110000 +0900" stop="20251208121500 +0900" channel="KBS LIFE">
     <title lang="zh">다큐인사이트</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208122000 +0900" stop="20251208125000 +0900" channel="KBS LIFE">
+  <programme start="20251208121500 +0900" stop="20251208125000 +0900" channel="KBS LIFE">
     <title lang="zh">재난안전119</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -473635,11 +473036,11 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">재난탈출 생존왕</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208160000 +0900" stop="20251208165500 +0900" channel="KBS LIFE">
+  <programme start="20251208160000 +0900" stop="20251208165000 +0900" channel="KBS LIFE">
     <title lang="zh">내고향스페셜 남도지오그래피</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208165500 +0900" stop="20251208175500 +0900" channel="KBS LIFE">
+  <programme start="20251208165000 +0900" stop="20251208175500 +0900" channel="KBS LIFE">
     <title lang="zh">경제 스포트라이트</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -473651,11 +473052,11 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">위기탈출 넘버원</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208195500 +0900" stop="20251208205500 +0900" channel="KBS LIFE">
+  <programme start="20251208195500 +0900" stop="20251208210000 +0900" channel="KBS LIFE">
     <title lang="zh">류수영의 동물티비</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208205500 +0900" stop="20251208215500 +0900" channel="KBS LIFE">
+  <programme start="20251208210000 +0900" stop="20251208215500 +0900" channel="KBS LIFE">
     <title lang="zh">개그콘서트</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -473663,19 +473064,19 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">경제 스포트라이트</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208225500 +0900" stop="20251209000000 +0900" channel="KBS LIFE">
+  <programme start="20251208225500 +0900" stop="20251208235500 +0900" channel="KBS LIFE">
     <title lang="zh">다큐인사이트</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208240000 +0900" stop="20251209005500 +0900" channel="KBS LIFE">
+  <programme start="20251208235500 +0900" stop="20251209005500 +0900" channel="KBS LIFE">
     <title lang="zh">내고향스페셜 남도지오그래피</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209005500 +0900" stop="20251209013000 +0900" channel="KBS LIFE">
+  <programme start="20251209005500 +0900" stop="20251209012500 +0900" channel="KBS LIFE">
     <title lang="zh">스모킹 건</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209013000 +0900" stop="20251209022500 +0900" channel="KBS LIFE">
+  <programme start="20251209012500 +0900" stop="20251209022500 +0900" channel="KBS LIFE">
     <title lang="zh">우리들의 지식살롱</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -473683,11 +473084,11 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">위기탈출 넘버원</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209032500 +0900" stop="20251209040000 +0900" channel="KBS LIFE">
+  <programme start="20251209032500 +0900" stop="20251209035500 +0900" channel="KBS LIFE">
     <title lang="zh">UHD환경스페셜 </title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209040000 +0900" stop="20251209044500 +0900" channel="KBS LIFE">
+  <programme start="20251209035500 +0900" stop="20251209044500 +0900" channel="KBS LIFE">
     <title lang="zh">AI토피아</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -474579,15 +473980,19 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">키스는 괜히 해서 (자막해설)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209040000 +0900" stop="20251209053000 +0900" channel="SBS plus">
+  <programme start="20251209040000 +0900" stop="20251209052000 +0900" channel="SBS plus">
     <title lang="zh">먹고 보는 형제들 (자막해설수화)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209053000 +0900" stop="20251209072000 +0900" channel="SBS plus">
+  <programme start="20251209052000 +0900" stop="20251209055000 +0900" channel="SBS plus">
+    <title lang="zh">접속!무비월드 스페셜 (해설)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209055000 +0900" stop="20251209074000 +0900" channel="SBS plus">
     <title lang="zh">런닝맨 (자막)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209072000 +0900" stop="20251209092000 +0900" channel="SBS plus">
+  <programme start="20251209074000 +0900" stop="20251209092000 +0900" channel="SBS plus">
     <title lang="zh">내겐 너무 까칠한 매니저 - 비서진 (자막)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -474607,315 +474012,191 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">미운 우리 새끼 (자막)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209160000 +0900" stop="20251209175000 +0900" channel="SBS plus">
+  <programme start="20251209160000 +0900" stop="20251209174000 +0900" channel="SBS plus">
     <title lang="zh">내겐 너무 까칠한 매니저 - 비서진 (자막)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209175000 +0900" stop="20251209194000 +0900" channel="SBS plus">
+  <programme start="20251209174000 +0900" stop="20251209193000 +0900" channel="SBS plus">
     <title lang="zh">동상이몽 2 너는 내 운명 (자막)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209194000 +0900" stop="20251209210000 +0900" channel="SBS plus">
+  <programme start="20251209193000 +0900" stop="20251209204000 +0900" channel="SBS plus">
     <title lang="zh">모범택시3 (자막해설)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209210000 +0900" stop="20251209222000 +0900" channel="SBS plus">
+  <programme start="20251209204000 +0900" stop="20251209220000 +0900" channel="SBS plus">
     <title lang="zh">모범택시3 (자막해설)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209222000 +0900" stop="20251209235000 +0900" channel="SBS plus">
+  <programme start="20251209220000 +0900" stop="20251209233000 +0900" channel="SBS plus">
     <title lang="zh">리얼 연애실험실 독사과 시즌2 </title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209235000 +0900" stop="20251210005000 +0900" channel="SBS plus">
+  <programme start="20251209233000 +0900" stop="20251210003000 +0900" channel="SBS plus">
     <title lang="zh">이호선의 사이다 </title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251210005000 +0900" stop="20251210020000 +0900" channel="SBS plus">
+  <programme start="20251210003000 +0900" stop="20251210014000 +0900" channel="SBS plus">
     <title lang="zh">키스는 괜히 해서! (자막해설)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251210020000 +0900" stop="20251210030000 +0900" channel="SBS plus">
+  <programme start="20251210014000 +0900" stop="20251210025000 +0900" channel="SBS plus">
     <title lang="zh">키스는 괜히 해서! (자막해설)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208040000 +0900" stop="20251208053000 +0900" channel="SBS fune">
+  <programme start="20251208040000 +0900" stop="20251208053000 +0900" channel="SBS funE">
     <title lang="zh">먹고 보는 형제들 (자막/해설/수화)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208053000 +0900" stop="20251208071000 +0900" channel="SBS fune">
+  <programme start="20251208053000 +0900" stop="20251208071000 +0900" channel="SBS funE">
     <title lang="zh">동상이몽2 너는 내 운명 (자막)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208071000 +0900" stop="20251208083000 +0900" channel="SBS fune">
+  <programme start="20251208071000 +0900" stop="20251208083000 +0900" channel="SBS funE">
     <title lang="zh">키스는 괜히 해서! (자막/해설)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208083000 +0900" stop="20251208094000 +0900" channel="SBS fune">
+  <programme start="20251208083000 +0900" stop="20251208094000 +0900" channel="SBS funE">
     <title lang="zh">키스는 괜히 해서! (자막/해설)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208094000 +0900" stop="20251208104000 +0900" channel="SBS fune">
+  <programme start="20251208094000 +0900" stop="20251208104000 +0900" channel="SBS funE">
     <title lang="zh">이호선의 사이다 </title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208104000 +0900" stop="20251208124000 +0900" channel="SBS fune">
+  <programme start="20251208104000 +0900" stop="20251208124000 +0900" channel="SBS funE">
     <title lang="zh">런닝맨 (자막)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208124000 +0900" stop="20251208145000 +0900" channel="SBS fune">
+  <programme start="20251208124000 +0900" stop="20251208145000 +0900" channel="SBS funE">
     <title lang="zh">미운 우리 새끼 (자막)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208145000 +0900" stop="20251208164000 +0900" channel="SBS fune">
+  <programme start="20251208145000 +0900" stop="20251208164000 +0900" channel="SBS funE">
     <title lang="zh">런닝맨 (자막)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208164000 +0900" stop="20251208183000 +0900" channel="SBS fune">
+  <programme start="20251208164000 +0900" stop="20251208183000 +0900" channel="SBS funE">
     <title lang="zh">내겐 너무 까칠한 매니저 - 비서진 (자막)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208183000 +0900" stop="20251208203000 +0900" channel="SBS fune">
+  <programme start="20251208183000 +0900" stop="20251208203000 +0900" channel="SBS funE">
     <title lang="zh">미운 우리 새끼 (자막)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208203000 +0900" stop="20251208223000 +0900" channel="SBS fune">
+  <programme start="20251208203000 +0900" stop="20251208223000 +0900" channel="SBS funE">
     <title lang="zh">나는 SOLO </title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208223000 +0900" stop="20251208233000 +0900" channel="SBS fune">
+  <programme start="20251208223000 +0900" stop="20251208233000 +0900" channel="SBS funE">
     <title lang="zh">갱단과의 전쟁 (자막)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208233000 +0900" stop="20251209004000 +0900" channel="SBS fune">
+  <programme start="20251208233000 +0900" stop="20251209004000 +0900" channel="SBS funE">
     <title lang="zh">희망TV </title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209004000 +0900" stop="20251209022000 +0900" channel="SBS fune">
+  <programme start="20251209004000 +0900" stop="20251209022000 +0900" channel="SBS funE">
     <title lang="zh">내겐 너무 까칠한 매니저 - 비서진 (자막)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209022000 +0900" stop="20251209034000 +0900" channel="SBS fune">
+  <programme start="20251209022000 +0900" stop="20251209034000 +0900" channel="SBS funE">
     <title lang="zh">꼬리에 꼬리를 무는 그날 이야기 (자막)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209040000 +0900" stop="20251209052000 +0900" channel="SBS fune">
+  <programme start="20251209040000 +0900" stop="20251209050000 +0900" channel="SBS funE">
     <title lang="zh">먹고 보는 형제들 (자막/해설/수화)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209052000 +0900" stop="20251209071000 +0900" channel="SBS fune">
+  <programme start="20251209050000 +0900" stop="20251209065000 +0900" channel="SBS funE">
     <title lang="zh">내겐 너무 까칠한 매니저 - 비서진 (자막)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209071000 +0900" stop="20251209083000 +0900" channel="SBS fune">
+  <programme start="20251209065000 +0900" stop="20251209082000 +0900" channel="SBS funE">
     <title lang="zh">TV 동물농장 (자막)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209083000 +0900" stop="20251209102000 +0900" channel="SBS fune">
+  <programme start="20251209082000 +0900" stop="20251209101000 +0900" channel="SBS funE">
     <title lang="zh">런닝맨 (자막)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209102000 +0900" stop="20251209123000 +0900" channel="SBS fune">
+  <programme start="20251209101000 +0900" stop="20251209122000 +0900" channel="SBS funE">
     <title lang="zh">미운 우리 새끼 (자막)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209123000 +0900" stop="20251209135000 +0900" channel="SBS fune">
+  <programme start="20251209122000 +0900" stop="20251209134000 +0900" channel="SBS funE">
     <title lang="zh">모범택시 3 (자막/해설)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209135000 +0900" stop="20251209151000 +0900" channel="SBS fune">
+  <programme start="20251209134000 +0900" stop="20251209145000 +0900" channel="SBS funE">
     <title lang="zh">모범택시 3 (자막/해설)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209151000 +0900" stop="20251209170000 +0900" channel="SBS fune">
+  <programme start="20251209145000 +0900" stop="20251209163000 +0900" channel="SBS funE">
     <title lang="zh">동상이몽2 너는 내 운명 (자막)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209170000 +0900" stop="20251209190000 +0900" channel="SBS fune">
+  <programme start="20251209163000 +0900" stop="20251209183000 +0900" channel="SBS funE">
     <title lang="zh">런닝맨 (자막)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209190000 +0900" stop="20251209210000 +0900" channel="SBS fune">
+  <programme start="20251209183000 +0900" stop="20251209204000 +0900" channel="SBS funE">
     <title lang="zh">나는 SOLO </title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209210000 +0900" stop="20251209225000 +0900" channel="SBS fune">
+  <programme start="20251209204000 +0900" stop="20251209222000 +0900" channel="SBS funE">
     <title lang="zh">내겐 너무 까칠한 매니저 - 비서진 (자막)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209225000 +0900" stop="20251210005000 +0900" channel="SBS fune">
+  <programme start="20251209222000 +0900" stop="20251210002000 +0900" channel="SBS funE">
     <title lang="zh">런닝맨 (자막)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251210005000 +0900" stop="20251210022000 +0900" channel="SBS fune">
+  <programme start="20251210002000 +0900" stop="20251210014000 +0900" channel="SBS funE">
     <title lang="zh">리얼 연애실험실 독사과 2 </title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208040000 +0900" stop="20251208053000 +0900" channel="SBS Fil">
-    <title lang="zh">대한민국 치킨대전 </title>
+  <programme start="20251210014000 +0900" stop="20251210031000 +0900" channel="SBS funE">
+    <title lang="zh">동상이몽2 너는 내 운명 (자막)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208053000 +0900" stop="20251208072000 +0900" channel="SBS Fil">
-    <title lang="zh">더 트롯 쇼 </title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251208072000 +0900" stop="20251208083000 +0900" channel="SBS Fil">
-    <title lang="zh">밝히는 가 : 하우스 스페셜 </title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251208083000 +0900" stop="20251208100000 +0900" channel="SBS Fil">
-    <title lang="zh">생활의 달인 </title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251208100000 +0900" stop="20251208110000 +0900" channel="SBS Fil">
-    <title lang="zh">접속! 무비월드 </title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251208110000 +0900" stop="20251208120000 +0900" channel="SBS Fil">
-    <title lang="zh">이호선의 사이다 </title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251208120000 +0900" stop="20251208131000 +0900" channel="SBS Fil">
-    <title lang="zh">TV 동물농장 </title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251208131000 +0900" stop="20251208144000 +0900" channel="SBS Fil">
-    <title lang="zh">TV 동물농장 </title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251208144000 +0900" stop="20251208160000 +0900" channel="SBS Fil">
-    <title lang="zh">모범택시3 </title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251208160000 +0900" stop="20251208172000 +0900" channel="SBS Fil">
-    <title lang="zh">모범택시3 </title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251208172000 +0900" stop="20251208183000 +0900" channel="SBS Fil">
-    <title lang="zh">신발 벗고 돌싱포맨 </title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251208183000 +0900" stop="20251208194000 +0900" channel="SBS Fil">
-    <title lang="zh">접속! 무비월드 </title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251208194000 +0900" stop="20251208203000 +0900" channel="SBS Fil">
-    <title lang="zh">이호선의 사이다 </title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251208203000 +0900" stop="20251208224000 +0900" channel="SBS Fil">
-    <title lang="zh">미운 우리 새끼 </title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251208224000 +0900" stop="20251209002000 +0900" channel="SBS Fil">
-    <title lang="zh">신빨 토크쇼 귀묘한 이야기 </title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251209002000 +0900" stop="20251209020000 +0900" channel="SBS Fil">
-    <title lang="zh">신빨 토크쇼 귀묘한 이야기 </title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251209040000 +0900" stop="20251209050000 +0900" channel="SBS Fil">
-    <title lang="zh">밝히는 가 : 하우스 스페셜 </title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251209050000 +0900" stop="20251209065000 +0900" channel="SBS Fil">
-    <title lang="zh">더 트롯 쇼 </title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251209065000 +0900" stop="20251209080000 +0900" channel="SBS Fil">
-    <title lang="zh">TV 동물농장 </title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251209080000 +0900" stop="20251209092000 +0900" channel="SBS Fil">
-    <title lang="zh">생활의 달인 </title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251209092000 +0900" stop="20251209103000 +0900" channel="SBS Fil">
-    <title lang="zh">신발 벗고 돌싱포맨 </title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251209103000 +0900" stop="20251209120000 +0900" channel="SBS Fil">
-    <title lang="zh">꼬리에 꼬리를 무는 그날 이야기 3 </title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251209120000 +0900" stop="20251209145000 +0900" channel="SBS Fil">
-    <title lang="zh">우리들의 발라드 </title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251209145000 +0900" stop="20251209155000 +0900" channel="SBS Fil">
-    <title lang="zh">이호선의 사이다 </title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251209155000 +0900" stop="20251209171000 +0900" channel="SBS Fil">
-    <title lang="zh">생활의 달인 </title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251209171000 +0900" stop="20251209185000 +0900" channel="SBS Fil">
-    <title lang="zh">리얼 연애실험실 독사과 2 </title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251209185000 +0900" stop="20251209201000 +0900" channel="SBS Fil">
-    <title lang="zh">생활의 달인 </title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251209201000 +0900" stop="20251209221000 +0900" channel="SBS Fil">
-    <title lang="zh">미운 우리 새끼 </title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251209221000 +0900" stop="20251209235000 +0900" channel="SBS Fil">
-    <title lang="zh">신빨 토크쇼 귀묘한 이야기 </title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251209235000 +0900" stop="20251210013000 +0900" channel="SBS Fil">
-    <title lang="zh">신빨 토크쇼 귀묘한 이야기 </title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251210013000 +0900" stop="20251210024000 +0900" channel="SBS Fil">
-    <title lang="zh">TV 동물농장 </title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251210024000 +0900" stop="20251210033000 +0900" channel="SBS Fil">
-    <title lang="zh">빵카로드2 </title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251208030000 +0900" stop="20251208034000 +0900" channel="SBS sport">
+  <programme start="20251208030000 +0900" stop="20251208032000 +0900" channel="SBS sport">
     <title lang="zh">25~26 V-리그 여자부 정관장:한국도로공사</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208034000 +0900" stop="20251208054000 +0900" channel="SBS sport">
+  <programme start="20251208032000 +0900" stop="20251208052500 +0900" channel="SBS sport">
     <title lang="zh">2025 토요타 바른 DOG 어질리티 대회 </title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208054000 +0900" stop="20251208062000 +0900" channel="SBS sport">
+  <programme start="20251208052500 +0900" stop="20251208060000 +0900" channel="SBS sport">
     <title lang="zh">PBA 연속득점 </title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208062000 +0900" stop="20251208070000 +0900" channel="SBS sport">
+  <programme start="20251208060000 +0900" stop="20251208064500 +0900" channel="SBS sport">
     <title lang="zh">25-26 ISU 쇼트트랙 월드투어 메달 모음 </title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208070000 +0900" stop="20251208094000 +0900" channel="SBS sport">
+  <programme start="20251208064500 +0900" stop="20251208090000 +0900" channel="SBS sport">
     <title lang="zh">25-26 ISU 스피드 스케이팅 월드컵 3차 남녀 500m, 남녀 매스스타트, 남녀 팀추월</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208094000 +0900" stop="20251208103000 +0900" channel="SBS sport">
+  <programme start="20251208090000 +0900" stop="20251208094500 +0900" channel="SBS sport">
     <title lang="zh">2026 북중미 월드컵 3차 예선 하이라이트 대한민국 모음</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208103000 +0900" stop="20251208123000 +0900" channel="SBS sport">
+  <programme start="20251208094500 +0900" stop="20251208122000 +0900" channel="SBS sport">
     <title lang="zh">25~26 V-리그 여자부 정관장:한국도로공사</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208123000 +0900" stop="20251208150000 +0900" channel="SBS sport">
+  <programme start="20251208122000 +0900" stop="20251208145500 +0900" channel="SBS sport">
     <title lang="zh">하림 PBA 챔피언십 25-26 결승전 강동궁:산체스</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208150000 +0900" stop="20251208170000 +0900" channel="SBS sport">
+  <programme start="20251208145500 +0900" stop="20251208165000 +0900" channel="SBS sport">
     <title lang="zh">25-26 ISU 쇼트트랙 월드투어 4차 하이라이트 </title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208170000 +0900" stop="20251208190000 +0900" channel="SBS sport">
+  <programme start="20251208165000 +0900" stop="20251208190000 +0900" channel="SBS sport">
     <title lang="zh">25~26 V-리그 여자부 정관장:한국도로공사</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -474931,39 +474212,43 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">주간배구 </title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208233000 +0900" stop="20251209013000 +0900" channel="SBS sport">
+  <programme start="20251208233000 +0900" stop="20251209015000 +0900" channel="SBS sport">
     <title lang="zh">2025 SBS프로볼링 로드필드·한스컵</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209030000 +0900" stop="20251209053000 +0900" channel="SBS sport">
+  <programme start="20251209030000 +0900" stop="20251209033000 +0900" channel="SBS sport">
+    <title lang="zh">2025 컴투스프로야구 리얼글러브 어워드 </title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209033000 +0900" stop="20251209055000 +0900" channel="SBS sport">
     <title lang="zh">휴온스 PBA 챔피언십 25-26 준결승전 김영원:P.응우옌</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209053000 +0900" stop="20251209072000 +0900" channel="SBS sport">
+  <programme start="20251209055000 +0900" stop="20251209075000 +0900" channel="SBS sport">
     <title lang="zh">2016 ISU 쇼트트랙 세계선수권 하이라이트 </title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209072000 +0900" stop="20251209092000 +0900" channel="SBS sport">
-    <title lang="zh">25~26 V-리그 여자부 현대건설:GS칼텍스</title>
+  <programme start="20251209075000 +0900" stop="20251209094500 +0900" channel="SBS sport">
+    <title lang="zh">25~26 V-리그 여자부 흥국생명:한국도로공사</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209092000 +0900" stop="20251209102000 +0900" channel="SBS sport">
-    <title lang="zh">내일은 태권왕 </title>
+  <programme start="20251209094500 +0900" stop="20251209104500 +0900" channel="SBS sport">
+    <title lang="zh">2025 피겨 주니어 그랑프리 파이널 남자 프리</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209102000 +0900" stop="20251209112000 +0900" channel="SBS sport">
+  <programme start="20251209104500 +0900" stop="20251209114000 +0900" channel="SBS sport">
     <title lang="zh">25-26 ISU 스피드 스케이팅 월드컵 3차 하이라이트 </title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209112000 +0900" stop="20251209122000 +0900" channel="SBS sport">
+  <programme start="20251209114000 +0900" stop="20251209124000 +0900" channel="SBS sport">
     <title lang="zh">주간배구 </title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209122000 +0900" stop="20251209154500 +0900" channel="SBS sport">
+  <programme start="20251209124000 +0900" stop="20251209160000 +0900" channel="SBS sport">
     <title lang="zh">25-26 ISU 쇼트트랙 월드투어 3차 남 1500m, 여 1000m, 남 500m, 여 3000m 계주, 남 5000m 계주 준결</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209154500 +0900" stop="20251209174500 +0900" channel="SBS sport">
+  <programme start="20251209160000 +0900" stop="20251209174500 +0900" channel="SBS sport">
     <title lang="zh">25~26 V-리그 여자부 흥국생명:현대건설</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -475133,6 +474418,114 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
   </programme>
   <programme start="20251210003000 +0900" stop="20251210013000 +0900" channel="SBS Golf">
     <title lang="zh">2025 키움증권배 고교동창 골프 최강전 </title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208040000 +0900" stop="20251208063000 +0900" channel="SBS Golf2">
+    <title lang="zh">2024 KLPGA 하나금융그룹 챔피언십 FR</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208063000 +0900" stop="20251208073000 +0900" channel="SBS Golf2">
+    <title lang="zh">미코파워-한국일보 아이언걸스 </title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208073000 +0900" stop="20251208110000 +0900" channel="SBS Golf2">
+    <title lang="zh">2025 백송홀딩스·부산일보 CHARITY MATCH in ASIAD C.C DAY2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208110000 +0900" stop="20251208133000 +0900" channel="SBS Golf2">
+    <title lang="zh">2025 KPGA투어 KPGA 투어챔피언십 in JEJU 3R</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208133000 +0900" stop="20251208160000 +0900" channel="SBS Golf2">
+    <title lang="zh">2025 KPGA투어 KPGA 투어챔피언십 in JEJU FR</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208160000 +0900" stop="20251208183000 +0900" channel="SBS Golf2">
+    <title lang="zh">2025 백송홀딩스·부산일보 CHARITY MATCH in ASIAD C.C DAY2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208183000 +0900" stop="20251208200000 +0900" channel="SBS Golf2">
+    <title lang="zh">THE SHOT </title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208200000 +0900" stop="20251208203000 +0900" channel="SBS Golf2">
+    <title lang="zh">제1회 농협중앙회장배 농업인 파크골프대회 </title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208203000 +0900" stop="20251208210000 +0900" channel="SBS Golf2">
+    <title lang="zh">임진한의 이지골프 </title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208210000 +0900" stop="20251208213000 +0900" channel="SBS Golf2">
+    <title lang="zh">임진한의 이지골프 </title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208213000 +0900" stop="20251208223000 +0900" channel="SBS Golf2">
+    <title lang="zh">2025 벤제프 클럽챔피언십 </title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208223000 +0900" stop="20251208233000 +0900" channel="SBS Golf2">
+    <title lang="zh">하나카드 3번우드 티샷 여자 아마추어 골프대회 </title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208233000 +0900" stop="20251209013000 +0900" channel="SBS Golf2">
+    <title lang="zh">로테이션 게임 안근영 김태현 / 전승민 김민철</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209040000 +0900" stop="20251209063000 +0900" channel="SBS Golf2">
+    <title lang="zh">2023 KPGA투어 하나은행 인비테이셔널 1R</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209063000 +0900" stop="20251209073000 +0900" channel="SBS Golf2">
+    <title lang="zh">미코파워-한국일보 아이언걸스 </title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209073000 +0900" stop="20251209083000 +0900" channel="SBS Golf2">
+    <title lang="zh">2025 벤제프 클럽챔피언십 </title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209083000 +0900" stop="20251209100000 +0900" channel="SBS Golf2">
+    <title lang="zh">2025 백송홀딩스·부산일보 CHARITY MATCH in ASIAD C.C 하이라이트 </title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209100000 +0900" stop="20251209110000 +0900" channel="SBS Golf2">
+    <title lang="zh">레슨팩토리 진지희 강덕균</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209110000 +0900" stop="20251209133000 +0900" channel="SBS Golf2">
+    <title lang="zh">2025 KPGA투어 렉서스 마스터즈 3R</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209133000 +0900" stop="20251209160000 +0900" channel="SBS Golf2">
+    <title lang="zh">2025 KPGA투어 렉서스 마스터즈 FR</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209160000 +0900" stop="20251209183000 +0900" channel="SBS Golf2">
+    <title lang="zh">2022 U.S. 여자 오픈 FR</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209183000 +0900" stop="20251209200000 +0900" channel="SBS Golf2">
+    <title lang="zh">THE SHOT </title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209200000 +0900" stop="20251209210000 +0900" channel="SBS Golf2">
+    <title lang="zh">제5회 GTR 스크린 파크골프 챔피언십 </title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209210000 +0900" stop="20251209213000 +0900" channel="SBS Golf2">
+    <title lang="zh">임진한의 이지골프 </title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209213000 +0900" stop="20251209230000 +0900" channel="SBS Golf2">
+    <title lang="zh">2022 K-culture 연예인골프대회 </title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209230000 +0900" stop="20251209233000 +0900" channel="SBS Golf2">
+    <title lang="zh">더 리얼레슨, 말하는대로 2 </title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209233000 +0900" stop="20251210013000 +0900" channel="SBS Golf2">
+    <title lang="zh">로테이션 게임 안근영, 김태현 / 전승민, 김민철</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251208050000 +0900" stop="20251208060000 +0900" channel="SBS Biz">
@@ -475587,71 +474980,71 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">전지적 참견 시점 375회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208042100 +0900" stop="20251208050000 +0900" channel="MBC every1">
+  <programme start="20251208042100 +0900" stop="20251208050300 +0900" channel="MBC every1">
     <title lang="zh">히든 아이 라이브이슈 12회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209050000 +0900" stop="20251209053000 +0900" channel="MBC every1">
+  <programme start="20251209050300 +0900" stop="20251209053900 +0900" channel="MBC every1">
     <title lang="zh">쇼킹 받는 차트 스페셜 19회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209053000 +0900" stop="20251209070000 +0900" channel="MBC every1">
+  <programme start="20251209053900 +0900" stop="20251209065900 +0900" channel="MBC every1">
     <title lang="zh">이강에는 달이 흐른다 10회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209070000 +0900" stop="20251209081000 +0900" channel="MBC every1">
+  <programme start="20251209065900 +0900" stop="20251209080900 +0900" channel="MBC every1">
     <title lang="zh">나 혼자 산다 625회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209081000 +0900" stop="20251209095000 +0900" channel="MBC every1">
+  <programme start="20251209080900 +0900" stop="20251209094000 +0900" channel="MBC every1">
     <title lang="zh">전지적 참견 시점 375회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209095000 +0900" stop="20251209114000 +0900" channel="MBC every1">
+  <programme start="20251209094000 +0900" stop="20251209113900 +0900" channel="MBC every1">
     <title lang="zh">히든 아이 63회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209114000 +0900" stop="20251209134000 +0900" channel="MBC every1">
+  <programme start="20251209113900 +0900" stop="20251209133300 +0900" channel="MBC every1">
     <title lang="zh">극한84 2회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209134000 +0900" stop="20251209150000 +0900" channel="MBC every1">
+  <programme start="20251209133300 +0900" stop="20251209144700 +0900" channel="MBC every1">
     <title lang="zh">나 혼자 산다 625회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209150000 +0900" stop="20251209164000 +0900" channel="MBC every1">
+  <programme start="20251209144700 +0900" stop="20251209163700 +0900" channel="MBC every1">
     <title lang="zh">전지적 참견 시점 375회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209164000 +0900" stop="20251209183000 +0900" channel="MBC every1">
+  <programme start="20251209163700 +0900" stop="20251209183800 +0900" channel="MBC every1">
     <title lang="zh">히든 아이 63회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209183000 +0900" stop="20251209203000 +0900" channel="MBC every1">
+  <programme start="20251209183800 +0900" stop="20251209203000 +0900" channel="MBC every1">
     <title lang="zh">극한84 2회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209203000 +0900" stop="20251209223000 +0900" channel="MBC every1">
+  <programme start="20251209203000 +0900" stop="20251209222900 +0900" channel="MBC every1">
     <title lang="zh">위대한 가이드2.5-대다난 가이드 7회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209223000 +0900" stop="20251210002000 +0900" channel="MBC every1">
+  <programme start="20251209222900 +0900" stop="20251210003100 +0900" channel="MBC every1">
     <title lang="zh">위대한 가이드2.5-대다난 가이드 7회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209002000 +0900" stop="20251209020000 +0900" channel="MBC every1">
+  <programme start="20251209003100 +0900" stop="20251209021100 +0900" channel="MBC every1">
     <title lang="zh">나 혼자 산다 625회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209020000 +0900" stop="20251209035000 +0900" channel="MBC every1">
+  <programme start="20251209021100 +0900" stop="20251209035200 +0900" channel="MBC every1">
     <title lang="zh">히든 아이 63회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209035000 +0900" stop="20251209043000 +0900" channel="MBC every1">
+  <programme start="20251209035200 +0900" stop="20251209043100 +0900" channel="MBC every1">
     <title lang="zh">쇼킹 받는 차트 스페셜 25회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209043000 +0900" stop="20251209050000 +0900" channel="MBC every1">
+  <programme start="20251209043100 +0900" stop="20251209050300 +0900" channel="MBC every1">
     <title lang="zh">인생은 항구다 6회</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -475719,79 +475112,79 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">피크닉 라이브 소풍 97회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208043300 +0900" stop="20251208050000 +0900" channel="MBC drama">
+  <programme start="20251208043300 +0900" stop="20251208050600 +0900" channel="MBC drama">
     <title lang="zh">쇼킹 받는 차트 스페셜 9회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209050000 +0900" stop="20251209060000 +0900" channel="MBC drama">
-    <title lang="zh">60분 드라마 2016 5회</title>
+  <programme start="20251209050600 +0900" stop="20251209060300 +0900" channel="MBC drama">
+    <title lang="zh">60분 드라마 5회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209060000 +0900" stop="20251209064000 +0900" channel="MBC drama">
+  <programme start="20251209060300 +0900" stop="20251209063700 +0900" channel="MBC drama">
     <title lang="zh">태양을 삼킨 여자 117회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209064000 +0900" stop="20251209072000 +0900" channel="MBC drama">
+  <programme start="20251209063700 +0900" stop="20251209071700 +0900" channel="MBC drama">
     <title lang="zh">태양을 삼킨 여자 118회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209072000 +0900" stop="20251209080000 +0900" channel="MBC drama">
+  <programme start="20251209071700 +0900" stop="20251209075700 +0900" channel="MBC drama">
     <title lang="zh">태양을 삼킨 여자 119회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209080000 +0900" stop="20251209093000 +0900" channel="MBC drama">
+  <programme start="20251209075700 +0900" stop="20251209093200 +0900" channel="MBC drama">
     <title lang="zh">이강에는 달이 흐른다 9회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209093000 +0900" stop="20251209111000 +0900" channel="MBC drama">
+  <programme start="20251209093200 +0900" stop="20251209110800 +0900" channel="MBC drama">
     <title lang="zh">이강에는 달이 흐른다 10회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209111000 +0900" stop="20251209130000 +0900" channel="MBC drama">
+  <programme start="20251209110800 +0900" stop="20251209125300 +0900" channel="MBC drama">
     <title lang="zh">전지적 참견 시점 375회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209130000 +0900" stop="20251209143000 +0900" channel="MBC drama">
+  <programme start="20251209125300 +0900" stop="20251209143000 +0900" channel="MBC drama">
     <title lang="zh">이강에는 달이 흐른다 10회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209143000 +0900" stop="20251209162000 +0900" channel="MBC drama">
+  <programme start="20251209143000 +0900" stop="20251209161300 +0900" channel="MBC drama">
     <title lang="zh">오은영 리포트 결혼지옥 148회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209162000 +0900" stop="20251209175000 +0900" channel="MBC drama">
+  <programme start="20251209161300 +0900" stop="20251209174800 +0900" channel="MBC drama">
     <title lang="zh">이강에는 달이 흐른다 9회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209175000 +0900" stop="20251209192000 +0900" channel="MBC drama">
+  <programme start="20251209174800 +0900" stop="20251209192800 +0900" channel="MBC drama">
     <title lang="zh">이강에는 달이 흐른다 10회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209192000 +0900" stop="20251209211000 +0900" channel="MBC drama">
+  <programme start="20251209192800 +0900" stop="20251209211400 +0900" channel="MBC drama">
     <title lang="zh">전지적 참견 시점 375회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209211000 +0900" stop="20251209230000 +0900" channel="MBC drama">
+  <programme start="20251209211400 +0900" stop="20251209230200 +0900" channel="MBC drama">
     <title lang="zh">나 혼자 산다 625회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209230000 +0900" stop="20251210002000 +0900" channel="MBC drama">
+  <programme start="20251209230200 +0900" stop="20251210001600 +0900" channel="MBC drama">
     <title lang="zh">전지적 참견 시점 375회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209002000 +0900" stop="20251209022000 +0900" channel="MBC drama">
+  <programme start="20251209001600 +0900" stop="20251209022000 +0900" channel="MBC drama">
     <title lang="zh">위대한 가이드2.5-대다난 가이드 7회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209022000 +0900" stop="20251209040000 +0900" channel="MBC drama">
+  <programme start="20251209022000 +0900" stop="20251209035500 +0900" channel="MBC drama">
     <title lang="zh">복면가왕 519회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209040000 +0900" stop="20251209043000 +0900" channel="MBC drama">
+  <programme start="20251209035500 +0900" stop="20251209042800 +0900" channel="MBC drama">
     <title lang="zh">피크닉 라이브 소풍 98회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209043000 +0900" stop="20251209050000 +0900" channel="MBC drama">
+  <programme start="20251209042800 +0900" stop="20251209050000 +0900" channel="MBC drama">
     <title lang="zh">쇼킹 받는 차트 스페셜 10회</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -475863,79 +475256,79 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">시골경찰 리턴즈 2 4회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208033700 +0900" stop="20251208050000 +0900" channel="MBC music">
+  <programme start="20251208033700 +0900" stop="20251208050300 +0900" channel="MBC music">
     <title lang="zh">알바로 바캉스 3회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209050000 +0900" stop="20251209062000 +0900" channel="MBC music">
+  <programme start="20251209050300 +0900" stop="20251209062300 +0900" channel="MBC music">
     <title lang="zh">장미의 전쟁 5회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209062000 +0900" stop="20251209075000 +0900" channel="MBC music">
+  <programme start="20251209062300 +0900" stop="20251209074800 +0900" channel="MBC music">
     <title lang="zh">장미의 전쟁 6회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209075000 +0900" stop="20251209091000 +0900" channel="MBC music">
-    <title lang="zh">나 혼자 산다 514회</title>
+  <programme start="20251209074800 +0900" stop="20251209091200 +0900" channel="MBC music">
+    <title lang="zh">나 혼자 산다 459회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209091000 +0900" stop="20251209105000 +0900" channel="MBC music">
+  <programme start="20251209091200 +0900" stop="20251209105800 +0900" channel="MBC music">
     <title lang="zh">극한84 2회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209105000 +0900" stop="20251209113000 +0900" channel="MBC music">
+  <programme start="20251209105800 +0900" stop="20251209113900 +0900" channel="MBC music">
     <title lang="zh">있을때 잘해 50회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209113000 +0900" stop="20251209121000 +0900" channel="MBC music">
+  <programme start="20251209113900 +0900" stop="20251209122100 +0900" channel="MBC music">
     <title lang="zh">있을때 잘해 51회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209121000 +0900" stop="20251209125000 +0900" channel="MBC music">
+  <programme start="20251209122100 +0900" stop="20251209130100 +0900" channel="MBC music">
     <title lang="zh">있을때 잘해 52회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209125000 +0900" stop="20251209133000 +0900" channel="MBC music">
+  <programme start="20251209130100 +0900" stop="20251209134200 +0900" channel="MBC music">
     <title lang="zh">있을때 잘해 53회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209133000 +0900" stop="20251209141000 +0900" channel="MBC music">
+  <programme start="20251209134200 +0900" stop="20251209142600 +0900" channel="MBC music">
     <title lang="zh">있을때 잘해 54회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209141000 +0900" stop="20251209153000 +0900" channel="MBC music">
+  <programme start="20251209142600 +0900" stop="20251209154100 +0900" channel="MBC music">
     <title lang="zh">동이 2회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209153000 +0900" stop="20251209170000 +0900" channel="MBC music">
+  <programme start="20251209154100 +0900" stop="20251209171100 +0900" channel="MBC music">
     <title lang="zh">이강에는 달이 흐른다 9회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209170000 +0900" stop="20251209183000 +0900" channel="MBC music">
+  <programme start="20251209171100 +0900" stop="20251209184500 +0900" channel="MBC music">
     <title lang="zh">이강에는 달이 흐른다 10회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209183000 +0900" stop="20251209202000 +0900" channel="MBC music">
+  <programme start="20251209184500 +0900" stop="20251209203800 +0900" channel="MBC music">
     <title lang="zh">히든아이 63회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209202000 +0900" stop="20251209221000 +0900" channel="MBC music">
+  <programme start="20251209203800 +0900" stop="20251209222000 +0900" channel="MBC music">
     <title lang="zh">나 혼자 산다 625회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209221000 +0900" stop="20251210000000 +0900" channel="MBC music">
+  <programme start="20251209222000 +0900" stop="20251210000300 +0900" channel="MBC music">
     <title lang="zh">전지적 참견 시점 375회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209000000 +0900" stop="20251209014000 +0900" channel="MBC music">
+  <programme start="20251209000300 +0900" stop="20251209014500 +0900" channel="MBC music">
     <title lang="zh">나 혼자 산다 625회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209014000 +0900" stop="20251209033000 +0900" channel="MBC music">
+  <programme start="20251209014500 +0900" stop="20251209033300 +0900" channel="MBC music">
     <title lang="zh">극한84 2회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209033000 +0900" stop="20251209050000 +0900" channel="MBC music">
+  <programme start="20251209033300 +0900" stop="20251209050000 +0900" channel="MBC music">
     <title lang="zh">안싸우면 다행이야 121회</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -476043,103 +475436,103 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">히스토리 후 18회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251208044000 +0900" stop="20251208050000 +0900" channel="MBC on">
+  <programme start="20251208044000 +0900" stop="20251208050400 +0900" channel="MBC on">
     <title lang="zh">히스토리 후 19회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209050000 +0900" stop="20251209060000 +0900" channel="MBC on">
+  <programme start="20251209050400 +0900" stop="20251209055900 +0900" channel="MBC on">
     <title lang="zh">허준 27회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209060000 +0900" stop="20251209070000 +0900" channel="MBC on">
+  <programme start="20251209055900 +0900" stop="20251209065900 +0900" channel="MBC on">
     <title lang="zh">허준 28회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209070000 +0900" stop="20251209080000 +0900" channel="MBC on">
+  <programme start="20251209065900 +0900" stop="20251209080700 +0900" channel="MBC on">
     <title lang="zh">허준 29회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209080000 +0900" stop="20251209092000 +0900" channel="MBC on">
+  <programme start="20251209080700 +0900" stop="20251209092400 +0900" channel="MBC on">
     <title lang="zh">금 나와라 뚝딱! 23회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209092000 +0900" stop="20251209104000 +0900" channel="MBC on">
+  <programme start="20251209092400 +0900" stop="20251209104200 +0900" channel="MBC on">
     <title lang="zh">금 나와라 뚝딱! 24회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209104000 +0900" stop="20251209111000 +0900" channel="MBC on">
+  <programme start="20251209104200 +0900" stop="20251209110900 +0900" channel="MBC on">
     <title lang="zh">온달 왕자들 34회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209111000 +0900" stop="20251209114000 +0900" channel="MBC on">
+  <programme start="20251209110900 +0900" stop="20251209114700 +0900" channel="MBC on">
     <title lang="zh">온달 왕자들 35회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209114000 +0900" stop="20251209121500 +0900" channel="MBC on">
+  <programme start="20251209114700 +0900" stop="20251209121500 +0900" channel="MBC on">
     <title lang="zh">온달 왕자들 36회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209121500 +0900" stop="20251209125000 +0900" channel="MBC on">
+  <programme start="20251209121500 +0900" stop="20251209125500 +0900" channel="MBC on">
     <title lang="zh">온달 왕자들 37회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209125000 +0900" stop="20251209141000 +0900" channel="MBC on">
+  <programme start="20251209125500 +0900" stop="20251209141400 +0900" channel="MBC on">
     <title lang="zh">이산 57회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209141000 +0900" stop="20251209153000 +0900" channel="MBC on">
+  <programme start="20251209141400 +0900" stop="20251209153400 +0900" channel="MBC on">
     <title lang="zh">이산 58회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209153000 +0900" stop="20251209165000 +0900" channel="MBC on">
+  <programme start="20251209153400 +0900" stop="20251209165200 +0900" channel="MBC on">
     <title lang="zh">금 나와라 뚝딱! 23회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209165000 +0900" stop="20251209181000 +0900" channel="MBC on">
+  <programme start="20251209165200 +0900" stop="20251209181300 +0900" channel="MBC on">
     <title lang="zh">금 나와라 뚝딱! 24회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209181000 +0900" stop="20251209185500 +0900" channel="MBC on">
+  <programme start="20251209181300 +0900" stop="20251209185300 +0900" channel="MBC on">
     <title lang="zh">오자룡이 간다 73회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209185500 +0900" stop="20251209194000 +0900" channel="MBC on">
+  <programme start="20251209185300 +0900" stop="20251209194600 +0900" channel="MBC on">
     <title lang="zh">오자룡이 간다 74회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209194000 +0900" stop="20251209202500 +0900" channel="MBC on">
+  <programme start="20251209194600 +0900" stop="20251209202500 +0900" channel="MBC on">
     <title lang="zh">오자룡이 간다 75회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209202500 +0900" stop="20251209211000 +0900" channel="MBC on">
+  <programme start="20251209202500 +0900" stop="20251209211400 +0900" channel="MBC on">
     <title lang="zh">오자룡이 간다 76회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209211000 +0900" stop="20251209220000 +0900" channel="MBC on">
+  <programme start="20251209211400 +0900" stop="20251209220600 +0900" channel="MBC on">
     <title lang="zh">전원일기 733회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209220000 +0900" stop="20251209230000 +0900" channel="MBC on">
+  <programme start="20251209220600 +0900" stop="20251209230000 +0900" channel="MBC on">
     <title lang="zh">전원일기 734회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209230000 +0900" stop="20251209235000 +0900" channel="MBC on">
+  <programme start="20251209230000 +0900" stop="20251209235300 +0900" channel="MBC on">
     <title lang="zh">전원일기 735회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209235000 +0900" stop="20251210004000 +0900" channel="MBC on">
+  <programme start="20251209235300 +0900" stop="20251210004900 +0900" channel="MBC on">
     <title lang="zh">전원일기 736회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209004000 +0900" stop="20251209023000 +0900" channel="MBC on">
+  <programme start="20251209004900 +0900" stop="20251209023800 +0900" channel="MBC on">
     <title lang="zh">히든 아이 63회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209023000 +0900" stop="20251209035000 +0900" channel="MBC on">
+  <programme start="20251209023800 +0900" stop="20251209035300 +0900" channel="MBC on">
     <title lang="zh">장미의 전쟁 1회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251209035000 +0900" stop="20251209050000 +0900" channel="MBC on">
+  <programme start="20251209035300 +0900" stop="20251209050000 +0900" channel="MBC on">
     <title lang="zh">60분 드라마 2회</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -476541,7 +475934,7 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
   </programme>
   <programme start="20251209화000 +0700" stop="20251209화000 +0700" channel="EBS1">
     <title lang="zh">세상을비집고시즌3(전전주재방)</title>
-    <desc lang="zh">영화속핫플완전정복</desc>
+    <desc lang="zh">영화속핫플모두의박물관</desc>
   </programme>
   <programme start="20251209화000 +0700" stop="20251209화000 +0700" channel="EBS1">
     <title lang="zh">자이언트펭TV(전주재방)</title>
@@ -476629,7 +476022,7 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
   </programme>
   <programme start="20251209화100 +0700" stop="20251209화100 +0700" channel="EBS1">
     <title lang="zh">클래스업!교실을깨워라</title>
-    <desc lang="zh">질문으로답을찾아요!</desc>
+    <desc lang="zh">질문으로답을찾아가요!</desc>
   </programme>
   <programme start="20251209화100 +0700" stop="20251209화100 +0700" channel="EBS1">
     <title lang="zh">고향민국</title>
@@ -478935,10 +478328,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">我們結婚吧</title>
     <desc lang="zh">《我們結婚吧》節目的參與者，都是單身男性和女性。他們都真誠希望遇到自己的“另一半”。</desc>
   </programme>
-  <programme start="20251208095800 +0000" stop="20251208105800 +0000" channel="中視">
-    <title lang="zh">中視新聞</title>
-    <desc lang="zh">由最專業的中視新聞主播，為您播報最新、最即時的新聞。</desc>
-  </programme>
   <programme start="20251208105800 +0000" stop="20251208120000 +0000" channel="中視">
     <title lang="zh">中視新聞全球報導</title>
     <desc lang="zh">中視每晚七點由主播哈遠儀為全國觀眾最專業、準確的新聞報導。</desc>
@@ -479483,10 +478872,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">60分鐘</title>
     <desc lang="zh">新聞雜誌節目，深入探討新聞時事與議題，將帶給你全方位的報導。</desc>
   </programme>
-  <programme start="20251208085800 +0000" stop="20251208105800 +0000" channel="華視">
-    <title lang="zh">華視新聞晚報</title>
-    <desc lang="zh">華視新聞部每天整理當天重大國內外新聞事件，為觀眾做最快、最即時的播報。</desc>
-  </programme>
   <programme start="20251208105800 +0000" stop="20251208120000 +0000" channel="華視">
     <title lang="zh">華視晚間新聞</title>
     <desc lang="zh">以最客觀的角度，最專業的主播，為觀眾完整報導國內外重要新聞。</desc>
@@ -479974,14 +479359,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
   <programme start="20251213070000 +0000" stop="20251213080000 +0000" channel="華視">
     <title lang="zh">三國演議</title>
     <desc lang="zh">華視新聞部製播新聞專題節目。由國際政經專家汪浩、日本產經新聞臺北支局長矢板明夫搭檔主持，深度講評最新國際政經重大事件，跳脫傳統政論談話節目的框架屬性。</desc>
-  </programme>
-  <programme start="20251208100000 +0000" stop="20251208103000 +0000" channel="好消息2臺">
-    <title lang="zh">共享觀點</title>
-    <desc lang="zh">連結社羣、分享、行動的特色，藉著媒體平臺將聖經教導、基要真理落實在生活中。兩位主持人將在節目中以輕鬆對談的方式，討論年輕人關注的話題。</desc>
-  </programme>
-  <programme start="20251208103000 +0000" stop="20251208110000 +0000" channel="好消息2臺">
-    <title lang="zh">寇住幸福</title>
-    <desc lang="zh">因現代人娛樂方式改變，媒體宣教更成為重要的傳福音管道。GOOD TV發現如今有更多人駐足在網路上，因此投入製作合乎網路媒體特性的節目，《寇住幸福》應運而生！由寇紹恩牧師主持，節目結合精彩的家庭生活短劇、動人的詩歌音樂與信息分享。</desc>
   </programme>
   <programme start="20251208110000 +0000" stop="20251208115000 +0000" channel="好消息2臺">
     <title lang="zh">家庭８點檔轉轉發現愛</title>
@@ -480854,18 +480231,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
   <programme start="20251213070000 +0000" stop="20251213080000 +0000" channel="好消息2臺">
     <title lang="zh">特會</title>
     <desc lang="zh">以造就、培靈與更新為宗旨，邀請來自世界各國的知名佈道牧師，為信徒傳遞神國信息，挑望靈火，奮興眾人！為信徒提供一個提升性靈的園地。(資料來源：GOOD TV)</desc>
-  </programme>
-  <programme start="20251208100000 +0000" stop="20251208103000 +0000" channel="好消息">
-    <title lang="zh">烤箱讀書會</title>
-    <desc lang="zh">會織毛衣、愛做點心的說書人劉清彥，與歌聲甜美的星光歌手李宣榕共同主持，首創了將圖畫書和點心食譜結合在一起的《烤箱讀書會》，趁著點心在烤箱裡烘培的時間，帶領讀書會成員一起讀圖畫書。</desc>
-  </programme>
-  <programme start="20251208103000 +0000" stop="20251208110000 +0000" channel="好消息">
-    <title lang="zh">福氣人生</title>
-    <desc lang="zh">如何才能擁有福氣人生?看牧師們以臺語分享聖經的真理，讓你領受天國滿滿的福氣與祝福。</desc>
-  </programme>
-  <programme start="20251208110000 +0000" stop="20251208111500 +0000" channel="好消息">
-    <title lang="zh">今天不講理</title>
-    <desc lang="zh">在有理說不清的世代，我們今天用「不講理」的方式，卻能在生活裡大大小小的事情中，透過體驗與學習找到真理。每集節目由主持人柳子駿牧師，經由參與各式各樣的生活體驗，及與形形色色的來賓互動，讓大家看到牧師不一樣的一面。今天，他走下講臺、走上街頭，走出教會、走入社會；以牧師的眼光看世界！</desc>
   </programme>
   <programme start="20251208111500 +0000" stop="20251208113000 +0000" channel="好消息">
     <title lang="zh">今天不講理</title>
@@ -481887,10 +481252,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">機智青年生活</title>
     <desc lang="zh">這不是韓劇，而是正上演的一齣充滿血淚與美好友誼的熱血植堂連續劇 ！旌旗好生活邀請到三對青年牧師CP，來聊聊由上帝導演，引領青年教會及一羣青年團隊，經歷瘋狂又精彩的植堂人生！</desc>
   </programme>
-  <programme start="20251208100000 +0000" stop="20251208110000 +0000" channel="ELTV生活英語臺">
-    <title lang="zh">森林偵探隊</title>
-    <desc lang="zh">南韓EBS與Bigstar Global共同製播的卡通，可輕鬆認識大自然的樣貌。各個謎團揉合在森林的浩瀚中，期待觀眾跟著偵探隊，細細品味在這森林的每個故事。</desc>
-  </programme>
   <programme start="20251208110000 +0000" stop="20251208120000 +0000" channel="ELTV生活英語臺">
     <title lang="zh">小浣熊ABC</title>
     <desc lang="zh">七隻頑皮又好奇的浣熊住在一個音樂盒裡，這個音樂盒是它們的遊樂場。在每一集中，他們一起遊戲、學習、探索世界各種有趣的事物，還教導新的英文單字。</desc>
@@ -482418,14 +481779,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
   <programme start="20251213070000 +0000" stop="20251213080000 +0000" channel="ELTV生活英語臺">
     <title lang="zh">快樂DoReMi</title>
     <desc lang="zh">學習英文的方法千百種，練唱英文歌曲是最輕鬆愉快的方式之一。本清單節目集結了動聽的英文兒歌MV，適合父母帶著孩子一起欣賞，在唱唱跳跳的過程中，增進親子情感，也配合動人旋律，學習英文。</desc>
-  </programme>
-  <programme start="20251208100000 +0000" stop="20251208103000 +0000" channel="龍華卡通臺">
-    <title lang="zh">往哪跑！</title>
-    <desc lang="zh">俄羅斯經典動畫系列新作！歡樂悠閒的羅莎渡假村，歡迎世界各地的旅客，在此度過最放鬆的假期！然而，調皮的狼總是想和兔子一爭高下，藉此吸引鹿小姐的注意！</desc>
-  </programme>
-  <programme start="20251208103000 +0000" stop="20251208110000 +0000" channel="龍華卡通臺">
-    <title lang="zh">往哪跑！</title>
-    <desc lang="zh">俄羅斯經典動畫系列新作！歡樂悠閒的羅莎渡假村，歡迎世界各地的旅客，在此度過最放鬆的假期！然而，調皮的狼總是想和兔子一爭高下，藉此吸引鹿小姐的注意！</desc>
   </programme>
   <programme start="20251208110000 +0000" stop="20251208113000 +0000" channel="龍華卡通臺">
     <title lang="zh">哈皮樂奇鬧翻天</title>
@@ -483363,10 +482716,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">神犬大偵探</title>
     <desc lang="zh">印度偵探動作喜劇動畫。主角Chimpoo是一位年輕偵探，和寵物狗Simpoo擁有一個裝有偵探工具的壁櫃。看他們如何利用自己的直覺和聰明才智解決神祕案件並抓住罪犯。</desc>
   </programme>
-  <programme start="20251208100000 +0000" stop="20251208110000 +0000" channel="亞洲旅遊臺">
-    <title lang="zh">驚奇大冒險</title>
-    <desc lang="zh">帶您深入各國體驗在地文化，貼近當地人民的生活，真實呈現祕境探險、 尋找奇景的過程，讓您知道怎麼玩纔好玩，怎麼玩才刺激！</desc>
-  </programme>
   <programme start="20251208110000 +0000" stop="20251208120000 +0000" channel="亞洲旅遊臺">
     <title lang="zh">33廚房</title>
     <desc lang="zh">電影圈的大明星林美秀首度跨足綜藝接主持棒，即將大展廚藝與觀眾們一起美味上菜！</desc>
@@ -483835,10 +483184,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">融融歷險記</title>
     <desc lang="zh">《融融歷險記 Ben’s Adventure》的創辦人Ben，立志前往那些沒有人要去的地方。走過五大洲75餘國，喜歡拍影片更愛與當地人交流，因為這纔是旅行真正的意義。「旅行的意義是什麼？」旅行的意義，看不同的風景，認識不同的人，領略不同的美好，讓你覺得世界那麼大。</desc>
   </programme>
-  <programme start="20251208100000 +0000" stop="20251208110000 +0000" channel="Smart知識臺">
-    <title lang="zh">健康2.0</title>
-    <desc lang="zh">在節目中，將以各種深入淺出的方式，檢測時下流行的健康產品的效用，示範健康烹調與運動方法，並與觀眾分享照顧家人的健康資訊與心得。</desc>
-  </programme>
   <programme start="20251208110000 +0000" stop="20251208120000 +0000" channel="Smart知識臺">
     <title lang="zh">全民星攻略</title>
     <desc lang="zh">東森綜合臺全新益智實境節目，「全民星攻略」，由館長曾國城擔任把關者，考驗著每個來挑戰九宮格益智遊戲藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理想分析，纔有機會獲取智慧星幣，帶走夢幻大獎。</desc>
@@ -484290,10 +483635,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
   <programme start="20251213070000 +0000" stop="20251213080000 +0000" channel="Smart知識臺">
     <title lang="zh">動物生存策略(完)</title>
     <desc lang="zh">暫無描述</desc>
-  </programme>
-  <programme start="20251208100000 +0000" stop="20251208110000 +0000" channel="龍華戲劇臺">
-    <title lang="zh">金庸武俠世界 鐵血丹心</title>
-    <desc lang="zh">南宋末年，金兵入侵，朝廷奸臣當道。平民義士郭嘯天、楊鐵心兩家指腹為婚，後為金兵所害。全真教道士丘處機與江南七怪定下賭約：分別尋找楊、郭後人並傳授他們武功，於十八年後在醉仙樓比試高低。郭靖、楊康分別在江南七怪與丘處機的教養下長大成人。</desc>
   </programme>
   <programme start="20251208110000 +0000" stop="20251208120000 +0000" channel="龍華戲劇臺">
     <title lang="zh">金庸武俠世界 鐵血丹心</title>
@@ -484762,14 +484103,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
   <programme start="20251213070000 +0000" stop="20251213080000 +0000" channel="龍華戲劇臺">
     <title lang="zh">落花時節又逢君</title>
     <desc lang="zh">不懂情愛、呆萌率直的小花妖紅凝，為了報恩誤闖仙界，卻意外發現自己口中的「仙女姐姐」，竟是身為花神的錦繡。紅凝大膽示愛，直言想當錦繡的「天后」，不是拉著他一起睡覺就是要陪他洗澡，讓這位必須斷情絕愛、恪守仙妖界限的未來天帝繼承者瞬間亂了方寸。</desc>
-  </programme>
-  <programme start="20251208100000 +0000" stop="20251208103000 +0000" channel="臺灣戲劇臺">
-    <title lang="zh">親戚不計較</title>
-    <desc lang="zh">由卓勝利、李鑼等人主演，本劇雖以喜劇的方式呈現，但笑中有淚，淚中有悟，悟中有得，令人深思！</desc>
-  </programme>
-  <programme start="20251208103000 +0000" stop="20251208110000 +0000" channel="臺灣戲劇臺">
-    <title lang="zh">親戚不計較</title>
-    <desc lang="zh">由卓勝利、李鑼等人主演，本劇雖以喜劇的方式呈現，但笑中有淚，淚中有悟，悟中有得，令人深思！</desc>
   </programme>
   <programme start="20251208110000 +0000" stop="20251208120000 +0000" channel="臺灣戲劇臺">
     <title lang="zh">包青天</title>
@@ -485242,14 +484575,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
   <programme start="20251213070000 +0000" stop="20251213080000 +0000" channel="臺灣戲劇臺">
     <title lang="zh">包青天</title>
     <desc lang="zh">仁宗皇帝在位期間，包拯（金超羣）升任開封府府尹執掌京畿，剛直耿介、鐵面無私、明察秋毫、斷案如神，百姓愛戴敬仰尊稱為“包青天”。並有公孫策（範鴻軒）與南俠展昭（何家勁）一文一武兩員大將，使得包拯屢破奇案屢建奇功。</desc>
-  </programme>
-  <programme start="20251208100000 +0000" stop="20251208104000 +0000" channel="東森購物1臺">
-    <title lang="zh">鎖定CH.43、CH.49選購</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
-  <programme start="20251208104000 +0000" stop="20251208112000 +0000" channel="東森購物1臺">
-    <title lang="zh">12/1-12/31全月消費實付滿5,000元送進口【紅心芭樂飲】一箱</title>
-    <desc lang="zh">暫無描述</desc>
   </programme>
   <programme start="20251208112000 +0000" stop="20251208120000 +0000" channel="東森購物1臺">
     <title lang="zh">鎖定CH.43、CH.49選購</title>
@@ -485951,10 +485276,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">鎖定CH.43、CH.49選購</title>
     <desc lang="zh">暫無描述</desc>
   </programme>
-  <programme start="20251208100000 +0000" stop="20251208110000 +0000" channel="龍華偶像臺">
-    <title lang="zh">玉面桃花總相逢</title>
-    <desc lang="zh">講述了胡嬌與許清嘉因一紙婚約歡喜結緣，夫妻攜手共闖官場江湖的故事</desc>
-  </programme>
   <programme start="20251208110000 +0000" stop="20251208120000 +0000" channel="龍華偶像臺">
     <title lang="zh">玉面桃花總相逢</title>
     <desc lang="zh">講述了胡嬌與許清嘉因一紙婚約歡喜結緣，夫妻攜手共闖官場江湖的故事</desc>
@@ -486427,10 +485748,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">向風而行</title>
     <desc lang="zh">嚴苛自律的飛行部副部長顧南亭，因公司改制意外，與性格颯爽不羈的程霄成上下屬和師徒關係。面對接踵而來的突發航空事件，兩人攜手絕地反擊、化險為夷。在解決危機的途中，追求穩定秩序的顧南亭時常被不按常理出牌的程霄打亂計劃，但仍然能夠解決困難，並在過程中克服著自身的缺點，一路朝着夢想前進。</desc>
   </programme>
-  <programme start="20251208100000 +0000" stop="20251208110000 +0000" channel="龍華日韓臺">
-    <title lang="zh">歐若拉公主</title>
-    <desc lang="zh">大企業天王食品會長家，晚來得到的獨生女歐若拉竟對完美挑剔男的小說家黃馬馬一見鍾情，而這兩家族之間會因為這兩人間所發生的事情，有何改變呢？</desc>
-  </programme>
   <programme start="20251208110000 +0000" stop="20251208120000 +0000" channel="龍華日韓臺">
     <title lang="zh">陌生人</title>
     <desc lang="zh">同名網漫改編。金恩美（田慧振）高中時未婚懷孕，從此與女兒珍熙（崔秀英）相依為命，兩人關係比起母女來更像朋友。警花珍熙因故降職到派出所，變成昔日前輩殷載元（樸成勳）的下屬，樸振洪醫生（安在旭）也在此時忽然出現在母女生活中…</desc>
@@ -486898,14 +486215,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
   <programme start="20251213070000 +0000" stop="20251213080000 +0000" channel="龍華日韓臺">
     <title lang="zh">逆轉女王</title>
     <desc lang="zh">翻越萬重障礙終於結婚的兩人將展開令人羨慕的夫妻生活。沒想到在結婚後發生了預想不到的波折，之後終於戰勝困難實現「人生逆轉」。是部的輕鬆愉快夫婦劇。</desc>
-  </programme>
-  <programme start="20251208100000 +0000" stop="20251208104000 +0000" channel="東森購物2臺">
-    <title lang="zh">鎖定CH.43、CH.49選購</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
-  <programme start="20251208104000 +0000" stop="20251208112000 +0000" channel="東森購物2臺">
-    <title lang="zh">12/1-12/31全月消費實付滿5,000元送進口【紅心芭樂飲】一箱</title>
-    <desc lang="zh">暫無描述</desc>
   </programme>
   <programme start="20251208112000 +0000" stop="20251208120000 +0000" channel="東森購物2臺">
     <title lang="zh">鎖定CH.43、CH.49選購</title>
@@ -488531,10 +487840,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">好宅敲敲門</title>
     <desc lang="zh">由廖婕妤主持，節目將深入分析房地產市場動態，提供區域房價、趨勢報導，同時有房地產界人物專訪，透過人物故事看房市更迭，並搭配每週精選、具吸引力之房地產新聞，以及主播開箱名人明星家，訪談買房心法、投資觀點。</desc>
   </programme>
-  <programme start="20251208100000 +0000" stop="20251208110000 +0000" channel="寰宇財經臺">
-    <title lang="zh">美食打卡趣</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
   <programme start="20251208110000 +0000" stop="20251208120000 +0000" channel="寰宇財經臺">
     <title lang="zh">打卡吧!我的炫FOOD日記</title>
     <desc lang="zh">暫無描述</desc>
@@ -489002,10 +488307,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
   <programme start="20251213070000 +0000" stop="20251213080000 +0000" channel="寰宇財經臺">
     <title lang="zh">打卡吧!我的炫FOOD日記</title>
     <desc lang="zh">暫無描述</desc>
-  </programme>
-  <programme start="20251208100000 +0000" stop="20251208105800 +0000" channel="中視新聞">
-    <title lang="zh">中視新聞全球報導</title>
-    <desc lang="zh">中視每晚七點由主播哈遠儀為全國觀眾最專業、準確的新聞報導。</desc>
   </programme>
   <programme start="20251208105800 +0000" stop="20251208120000 +0000" channel="中視新聞">
     <title lang="zh">中視新聞全球報導</title>
@@ -489475,10 +488776,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">中視新聞即時現場</title>
     <desc lang="zh">由主播蕭惠文播報，以SNG車讓觀眾看到最即時的新聞報導，並以最客觀的角度，為觀眾完整報導上午發生之重要新聞。</desc>
   </programme>
-  <programme start="20251208100000 +0000" stop="20251208110000 +0000" channel="中天新聞臺">
-    <title lang="zh">中天辣晚報</title>
-    <desc lang="zh">提供國內、兩岸、國際頭條焦點，掌握時事脈動，觀察新聞背後的真正意義，帶領觀眾知曉天下事。有最深度的內容、最專業的追蹤、最需要的資訊，收視率領先各臺，具有高度影響力！</desc>
-  </programme>
   <programme start="20251208110000 +0000" stop="20251208120000 +0000" channel="中天新聞臺">
     <title lang="zh">中天辣晚報</title>
     <desc lang="zh">提供國內、兩岸、國際頭條焦點，掌握時事脈動，觀察新聞背後的真正意義，帶領觀眾知曉天下事。有最深度的內容、最專業的追蹤、最需要的資訊，收視率領先各臺，具有高度影響力！</desc>
@@ -489946,10 +489243,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
   <programme start="20251213070000 +0000" stop="20251213080000 +0000" channel="中天新聞臺">
     <title lang="zh">週末大爆卦</title>
     <desc lang="zh">中天主播為您帶來最新、最即時的重點新聞、內幕爆卦，鎖定《週末大爆掛》！</desc>
-  </programme>
-  <programme start="20251208095500 +0000" stop="20251208105500 +0000" channel="寰宇新聞臺灣臺">
-    <title lang="zh">寰宇晚間新聞</title>
-    <desc lang="zh">寰宇晚間新聞給你最在地的臺灣新聞、最深入的兩岸焦點，掌握國際情勢帶您瞭解社會脈動。</desc>
   </programme>
   <programme start="20251208105500 +0000" stop="20251208115500 +0000" channel="寰宇新聞臺灣臺">
     <title lang="zh">寰宇晚間新聞</title>
@@ -490419,10 +489712,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">噓你不知道的事</title>
     <desc lang="zh">暫無描述</desc>
   </programme>
-  <programme start="20251208095500 +0000" stop="20251208105500 +0000" channel="寰宇新聞臺">
-    <title lang="zh">寰宇全球新聞</title>
-    <desc lang="zh">搶先揭露全球各地政經、社會、娛樂的第一手新聞訊息，讓觀眾不漏接關鍵的世界大事。</desc>
-  </programme>
   <programme start="20251208105500 +0000" stop="20251208115500 +0000" channel="寰宇新聞臺">
     <title lang="zh">寰宇全球新聞</title>
     <desc lang="zh">搶先揭露全球各地政經、社會、娛樂的第一手新聞訊息，讓觀眾不漏接關鍵的世界大事。</desc>
@@ -490889,14 +490178,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
   </programme>
   <programme start="20251213065500 +0000" stop="20251213075500 +0000" channel="寰宇新聞臺">
     <title lang="zh">寰宇全球現場</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
-  <programme start="20251208100000 +0000" stop="20251208103000 +0000" channel="第1商業臺">
-    <title lang="zh">阪田戰法-寶得富-顧奎國分析師</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
-  <programme start="20251208103000 +0000" stop="20251208110000 +0000" channel="第1商業臺">
-    <title lang="zh">股市強強滾-亞洲投顧-鄭偉羣分析師</title>
     <desc lang="zh">暫無描述</desc>
   </programme>
   <programme start="20251208110000 +0000" stop="20251208113000 +0000" channel="第1商業臺">
@@ -491947,10 +491228,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
     <title lang="zh">本週立法院會議轉播</title>
     <desc lang="zh">暫無描述</desc>
   </programme>
-  <programme start="20251208092000 +0000" stop="20251208110000 +0000" channel="龍華經典臺">
-    <title lang="zh">祖孫情</title>
-    <desc lang="zh">幼年得了白血病的簡銘傑，在生母阿如改嫁棄養後，生活經濟的重擔全都落在阿嬤與大伯敬文的身上。也因阿如的自私，讓簡家為了醫藥費四處借錢、變賣房產，最後一貧如洗。</desc>
-  </programme>
   <programme start="20251208110000 +0000" stop="20251208130000 +0000" channel="龍華經典臺">
     <title lang="zh">大漢風</title>
     <desc lang="zh">內容以秦末漢初的楚漢相爭的歷史為背景，結合美人與英雄的永恆史詩故事。由項羽和劉邦從起初聯手抗秦到分庭抗禮，直到最後劉邦戰勝項羽建立大漢王朝的歷史過程…</desc>
@@ -492162,10 +491439,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
   <programme start="20251213043000 +0000" stop="20251213064500 +0000" channel="龍華經典臺">
     <title lang="zh">青面修羅</title>
     <desc lang="zh">因一塊藏寶銅片慘遭滅門的「青面修羅」齊君元（馮紹峯），在神祕刺客組織「離恨谷」長大。某日，離恨谷受託奪取藏寶銅片，谷主卻不派齊君元追查，他決意復仇，不惜叛谷暗中調查。消失多年的銅片為何再現？面對各路追殺，齊君元更發現自己身陷一個「局」，設局者是何方神聖？神祕委託人是何許人也？</desc>
-  </programme>
-  <programme start="20251208082000 +0000" stop="20251208105500 +0000" channel="龍華電影臺">
-    <title lang="zh">非誠勿擾2</title>
-    <desc lang="zh">笑笑對於猛烈追求的秦奮一直無法從「好感」跨入「愛情」，對於愛情充滿疑惑。戀人未滿的窘境得怎麼突破？這對愛情冤家開始玩起「同居試婚」的遊戲，抱持著「熬過了就肯定可以長久」的愛情觀，給彼此丟出最刁鑽的難題，然而他們真的可以通過愛情的考驗嗎？難道應驗了那句愛情名言：分手纔是戀愛的開始？</desc>
   </programme>
   <programme start="20251208105500 +0000" stop="20251208130000 +0000" channel="龍華電影臺">
     <title lang="zh">武狀元蘇乞兒</title>
@@ -492394,10 +491667,6 @@ Sandy知道真相能夠接受嗎？狗狗真的會報復嗎？
   <programme start="20251213032500 +0000" stop="20251213060000 +0000" channel="龍華電影臺">
     <title lang="zh">至尊無上</title>
     <desc lang="zh">亞蟹（劉德華）與羅森（譚詠麟）是賭壇雙天至尊，逢賭必贏。一次他們被派前往賭場，揭發日本詐騙集團的騙局，結果反被集團首領窮追猛打。亞蟹為救羅森，右手被斬終生殘廢，只好退出江湖。可惜他仍得不到安寧，日本首領不斷的找他麻煩，逼他重出江湖。</desc>
-  </programme>
-  <programme start="20251208094500 +0000" stop="20251208112500 +0000" channel="龍華洋片臺">
-    <title lang="zh">王子鬥惡龍</title>
-    <desc lang="zh">尼奇的父親是大力士坦納，也是眾所皆知的屠龍英雄，尼奇決心要像多年前的父親一樣做個打倒惡龍的英雄。因此他不顧父親的反對，踏上尋找惡龍的旅程，沒想到卻意外成為拯救人類世界與魔法世界的關鍵，對上一個被龍之鬼附身的女巫…</desc>
   </programme>
   <programme start="20251208112500 +0000" stop="20251208130000 +0000" channel="龍華洋片臺">
     <title lang="zh">黑豹救援軍</title>
@@ -597496,7 +596765,7 @@ Ella爆料Selina「一家三口當垃圾」</desc>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251208193000 +0800" stop="20251208203000 +0800" channel="Adithya">
-    <title lang="zh">Combo Comedy Special</title>
+    <title lang="zh">Anbudan Adithya</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251208203000 +0800" stop="20251208213000 +0800" channel="Adithya">
@@ -644380,7 +643649,7 @@ Ella爆料Selina「一家三口當垃圾」</desc>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251208200000 +0700" stop="20251208220000 +0700" channel="Sportstars 3">
-    <title lang="zh">European Qualifiers</title>
+    <title lang="zh">Friendly Match</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251209000000 +0700" stop="20251209020000 +0700" channel="Sportstars 3">
@@ -644480,7 +643749,7 @@ Ella爆料Selina「一家三口當垃圾」</desc>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251208200000 +0700" stop="20251208220000 +0700" channel="sportstars 3 HD">
-    <title lang="zh">European Qualifiers</title>
+    <title lang="zh">Friendly Match</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251209000000 +0700" stop="20251209020000 +0700" channel="sportstars 3 HD">
