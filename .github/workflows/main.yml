@@ -303,11 +303,18 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
+      - name: Pull latest changes with strategy
+        run: |
+          # 先重置所有更改（因为我们生成的文件应该覆盖远程的任何更改）
+          git reset --hard HEAD
+          # 拉取最新代码，使用theirs策略自动解决冲突（优先使用远程版本）
+          git pull origin ${{ github.ref_name }} --strategy-option=theirs --no-rebase
+          # 如果拉取失败，可能是因为有未跟踪的文件，强制更新
+          git fetch origin
+          git reset --hard origin/${{ github.ref_name }}
+
       - name: Commit and push all changes
         run: |
-          # 拉取最新更改
-          git pull origin ${{ github.ref_name }} --no-rebase
-          
           # 添加所有生成的文件
           files_changed=0
           
@@ -333,7 +340,7 @@ jobs:
             done
           fi
           
-          # 添加生成的XML文件（包括epgguangdong.xml和epgguangdong.xml.gz）
+          # 添加生成的XML文件
           if [ "${{ steps.check_xml.outputs.generated_xml }}" != "none" ]; then
             IFS=',' read -ra xml_files <<< "${{ steps.check_xml.outputs.generated_xml }}"
             for xml_file in "${xml_files[@]}"; do
@@ -402,7 +409,9 @@ jobs:
           fi
           
           git commit -m "$commit_message"
-          git push origin HEAD:${{ github.ref }}
+          
+          # 强制推送（因为我们生成的文件应该覆盖远程的）
+          git push origin HEAD:${{ github.ref }} --force-with-lease
           
           echo "已成功推送更新"
 
