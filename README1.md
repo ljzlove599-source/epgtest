@@ -174,7 +174,3 @@ MOD, BB Broadband, TBC Cable, 4GTV, Hami, Ofiii, etc.
 #EXTINF:-1 tvg-id="电视台名称2" tvg-name="电视台名称2" tvg-logo="https://epg.51/tb1/CCTV/CCTV1.png" group-title="你的分组",电视台名称2
 节目源地址2
 ```
-
-我可以帮你将這兩份分開的版本分別導出為獨立的**Markdown文件**（中文繁體版、英文版各一個），方便單獨使用或傳輸，需要嗎？
-
-內容由 AI 生成
