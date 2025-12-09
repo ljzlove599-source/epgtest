@@ -1,5 +1,5 @@
 
-# 中文繁體版：EPG服務說明
+# EPG服務說明
 ## 一、概述
 本電子節目指南（EPG）服務僅面向個人娛樂使用，嚴禁用於商業用途。服務覆蓋大陸、香港、澳門、台灣、韓國、新加坡、馬來西亞、印度尼西亞等地區的電視台節目預告，針對性推出簡體中文與繁體中文兩個版本，适配不同區域用戶需求。
 
@@ -64,8 +64,8 @@ MOD、BB寬頻、TBC有線、4GTV、Hami、Ofiii等。
 5. 上線簡體中文版本EPG（swepg.xml.gz）及繁體中文版本EPG（twepg.xml.gz），優化區域适配性。
 
 ## 六、參考資源
-1. 繁體中文電視台目錄：https://raw.githubusercontent.com/zzq12345/epgtest/refs/heads/main/繁體電視台目錄.txt；
-2. 簡體中文電視台目錄：https://raw.githubusercontent.com/zzq12345/epgtest/refs/heads/main/简体电视台目录.txt。
+1. 繁體中文電視台目錄：https://raw.githubusercontent.com/zzq12345/epgtest/refs/heads/main/繁體電視台目錄.txt   ；
+2. 簡體中文電視台目錄：https://raw.githubusercontent.com/zzq12345/epgtest/refs/heads/main/简体电视台目录.txt  。
 
 ## 七、M3U格式規範
 ### （一）繁體中文版本（適用於香港、澳門、台灣地區）
