@@ -1,8 +1,8 @@
 # EPG服务说明
-## 一、服务概述
+## 一、概述
 本电子节目指南（EPG）服务仅面向个人娱乐使用，严禁用于商业用途。服务覆盖中国大陆、中国香港、中国澳门、中国台湾、韩国、新加坡、马来西亚、印度尼西亚等地区的电视台节目预告，针对性推出简体中文与繁体中文两个版本，适配不同区域用户需求。
 
-## 二、核心条款与使用规范
+## 二、使用规范
 ### （一）使用限制
 1. 仅限个人非商业用途，任何商业性质的开发、传播或盈利行为均严格禁止；
 2. 本服务不承诺提供常规维护及技术支持服务。
@@ -59,7 +59,7 @@ MOD、BB宽频、TBC有线、4GTV、Hami、Ofiii等。
 ## 七、M3U格式规范
 ### （一）繁体中文版本（适用于中国香港、中国澳门、中国台湾地区）
 ```
-#EXTM3U url-tvg="https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U url-tvg="https://github.com/zzq12345/epgtest/raw/refs/heads/main/swepg.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-id="電視台名稱1" tvg-name="電視台名稱1" tvg-logo="https://epg.51/tb1/CCTV/CCTV1.png" group-title="你的分组",電視台名稱1
 節目播放地址1
 #EXTINF:-1 tvg-id="電視台名稱2" tvg-name="電視台名稱2" tvg-logo="https://epg.51/tb1/CCTV/CCTV1.png" group-title="你的分组",電視台名稱2
@@ -68,7 +68,7 @@ MOD、BB宽频、TBC有线、4GTV、Hami、Ofiii等。
 
 ### （二）简体中文版本（适用于中国大陆及东南亚地区）
 ```
-#EXTM3U url-tvg="https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U url-tvg="https://github.com/zzq12345/epgtest/raw/refs/heads/main/swepg.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-id="电视台名称1" tvg-name="电视台名称1" tvg-logo="https://epg.51/tb1/CCTV/CCTV1.png" group-title="你的分组",电视台名称1
 节目源地址1
 #EXTINF:-1 tvg-id="电视台名称2" tvg-name="电视台名称2" tvg-logo="https://epg.51/tb1/CCTV/CCTV1.png" group-title="你的分组",电视台名称2
@@ -98,8 +98,8 @@ This EPG (Electronic Program Guide) service is provided exclusively for personal
 ### 3.2 Regional Adaptations
 | EPG Version       | File Name       | Applicable Regions          | Download URL                                                                 |
 |-------------------|-----------------|-----------------------------|-----------------------------------------------------------------------------|
-| Simplified Chinese | swepg.xml.gz    | Mainland China, Singapore, Malaysia | https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz       |
-| Traditional Chinese | twepg.xml.gz   | Hong Kong, Macau, Taiwan    | https://github.com/zzq1234567890/epg/raw/refs/heads/main/twepg.xml.gz       |
+| Simplified Chinese | swepg.xml.gz    | Mainland China, Singapore, Malaysia | https://github.com/zzq12345/epgtest/raw/refs/heads/main/swepg.xml.gz       |
+| Traditional Chinese | twepg.xml.gz   | Hong Kong, Macau, Taiwan    | https://github.com/zzq12345/epgtest/raw/refs/heads/main/twepg.xml.gz       |
 
 ### 3.3 Special Notes for Mainland China Users
 - It is recommended to use **epgnew.xml** (excludes program previews for a few adult-oriented and regionally restricted TV channels).
@@ -113,13 +113,13 @@ This EPG (Electronic Program Guide) service is provided exclusively for personal
 5. Launched Simplified Chinese EPG (swepg.xml.gz) and Traditional Chinese EPG (twepg.xml.gz) for regional adaptation.
 
 ## 5. Reference Resources
-- Traditional Chinese TV Channel List: https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/繁體電視台目錄.txt
-- Simplified Chinese TV Channel List: https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/简体电视台目录.txt
+- Traditional Chinese TV Channel List: https://raw.githubusercontent.com/zzq12345/epgtest/refs/heads/main/繁體電視台目錄.txt
+- Simplified Chinese TV Channel List: https://raw.githubusercontent.com/zzq12345/epgtest/refs/heads/main/简体电视台目录.txt
 
 ## 6. M3U Format Specifications
 ### 6.1 Traditional Chinese (For Hong Kong, Macau, Taiwan)
 ```
-#EXTM3U url-tvg="https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U url-tvg="https://github.com/zzq12345/epgtest/raw/refs/heads/main/swepg.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-id="電視台名稱1" tvg-name="電視台名稱1" tvg-logo="https://epg.51/tb1/CCTV/CCTV1.png" group-title="你的分组",電視台名稱1
 節目播放地址1
 #EXTINF:-1 tvg-id="電視台名稱2" tvg-name="電視台名稱2" tvg-logo="https://epg.51/tb1/CCTV/CCTV1.png" group-title="你的分组",電視台名稱2
@@ -128,7 +128,7 @@ This EPG (Electronic Program Guide) service is provided exclusively for personal
 
 ### 6.2 Simplified Chinese (For Mainland China, Southeast Asia)
 ```
-#EXTM3U url-tvg="https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U url-tvg="https://github.com/zzq12345/epgtest/raw/refs/heads/main/swepg.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-id="电视台名称1" tvg-name="电视台名称1" tvg-logo="https://epg.51/tb1/CCTV/CCTV1.png" group-title="你的分组",电视台名称1
 节目源地址1
 #EXTINF:-1 tvg-id="电视台名称2" tvg-name="电视台名称2" tvg-logo="https://epg.51/tb1/CCTV/CCTV1.png" group-title="你的分组",电视台名称2
