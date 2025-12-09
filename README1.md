@@ -19,8 +19,8 @@
 ### （二）区域适配版本
 | EPG版本 | 文件名 | 适用区域 | 下载链接 |
 | ---- | ---- | ---- | ---- |
-| 简体中文 | swepg.xml.gz | 中国大陆、新加坡、马来西亚 | https://github.com/zzq1234567890/epg/raw/refs/heads/main/swepg.xml.gz |
-| 繁体中文 | twepg.xml.gz | 中国香港、中国澳门、中国台湾 | https://github.com/zzq1234567890/epg/raw/refs/heads/main/twepg.xml.gz |
+| 简体中文 | swepg.xml.gz | 中国大陆、新加坡、马来西亚 | https://github.com/zzq12345/epgtest/raw/refs/heads/main/swepg.xml.gz |
+| 繁体中文 | twepg.xml.gz | 中国香港、中国澳门、中国台湾 | https://github.com/zzq12345/epgtest/raw/refs/heads/main/twepg.xml.gz |
 
 ### （三）中国大陆用户特别说明
 1. 建议选用**epgnew.xml**文件，该版本已剔除少量少儿不宜及区域限制类电视台的节目预告；
@@ -53,8 +53,8 @@ MOD、BB宽频、TBC有线、4GTV、Hami、Ofiii等。
 5. 上线简体中文版本EPG（swepg.xml.gz）及繁体中文版本EPG（twepg.xml.gz），优化区域适配性。
 
 ## 六、参考资源
-1. 繁体中文电视台目录：https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/繁體電視台目錄.txt   ；
-2. 简体中文电视台目录：https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/简体电视台目录.txt  。
+1. 繁体中文电视台目录：https://raw.githubusercontent.com/zzq12345/epgtest/refs/heads/main/繁體電視台目錄.txt   ；
+2. 简体中文电视台目录：https://raw.githubusercontent.com/zzq12345/epgtest/refs/heads/main/简体电视台目录.txt  。
 
 ## 七、M3U格式规范
 ### （一）繁体中文版本（适用于中国香港、中国澳门、中国台湾地区）
