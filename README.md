@@ -1,6 +1,4 @@
-使用者：
-中英文分開
-豆包：
+
 # 中文繁體版：EPG服務說明
 ## 一、概述
 本電子節目指南（EPG）服務僅面向個人娛樂使用，嚴禁用於商業用途。服務覆蓋中國大陸、中國香港、中國澳門、台灣、韓國、新加坡、馬來西亞、印度尼西亞等地區的電視台節目預告，針對性推出簡體中文與繁體中文兩個版本，适配不同區域用戶需求。
@@ -32,24 +30,24 @@
 ### （三）區域适配版本
 | EPG版本 | 文件名 | 適用區域 | 下載鏈接 |
 | ---- | ---- | ---- | ---- |
-| 簡體中文 | swepg.xml.gz | 中國大陸、新加坡、馬來西亞 | https://github.com/zzq12345/epgtest/raw/refs/heads/main/swepg.xml.gz |
-| 繁體中文 | twepg.xml.gz | 中國香港、中國澳門、中國台灣 | https://github.com/zzq12345/epgtest/raw/refs/heads/main/twepg.xml.gz |
+| 簡體中文 | swepg.xml.gz | 大陸、新加坡、馬來西亞 | https://github.com/zzq12345/epgtest/raw/refs/heads/main/swepg.xml.gz |
+| 繁體中文 | twepg.xml.gz | 香港、澳門、台灣 | https://github.com/zzq12345/epgtest/raw/refs/heads/main/twepg.xml.gz |
 
-### （四）中國大陸用戶特別說明
-1. 建議選用**epgnew.xml**文件，該版本已剔除少量未滿十八歲不宜及區域限制類電視台的節目預告；
+### （四）大陸用戶特別說明
+1. 建議選用**epgnew.xml.gz**文件，該版本已剔除少量未滿十八歲不宜及區域限制類電視台的節目預告；
 2. 境外用戶可根據需求自由選擇epgziyong.xml或epgnew.xml。
 
 ## 四、覆蓋頻道範圍
-### （一）中國大陸地區
+### （一）大陸地區
 央視頻、1905電影網、浙江衛視、江蘇衛視、河北衛視、北京衛視、上海衛視、重慶衛視、福建衛視、廣東衛視、廣西衛視、江西衛視、四川衛視、內蒙古衛視、新疆衛視等。
 
-### （二）中國香港地區
+### （二）香港地區
 MyTV Super、Anywhere、TVB Anywhere USA、Now寬頻、HOY電視台、香港電台等。
 
-### （三）中國澳門地區
+### （三）澳門地區
 澳門電視台、澳門有線電視台。
 
-### （四）中國台灣地區
+### （四）台灣地區
 MOD、BB寬頻、TBC有線、4GTV、Hami、Ofiii等。
 
 ### （五）其他國家及地區
@@ -70,7 +68,7 @@ MOD、BB寬頻、TBC有線、4GTV、Hami、Ofiii等。
 2. 簡體中文電視台目錄：https://raw.githubusercontent.com/zzq12345/epgtest/refs/heads/main/简体电视台目录.txt。
 
 ## 七、M3U格式規範
-### （一）繁體中文版本（適用於中國香港、中國澳門、中國台灣地區）
+### （一）繁體中文版本（適用於香港、澳門、台灣地區）
 ```
 #EXTM3U url-tvg="https://github.com/zzq12345/epgtest/raw/refs/heads/main/swepg.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-id="電視台名稱1" tvg-name="電視台名稱1" tvg-logo="https://epg.51/tb1/CCTV/CCTV1.png" group-title="你的分組",電視台名稱1
@@ -79,7 +77,7 @@ MOD、BB寬頻、TBC有線、4GTV、Hami、Ofiii等。
 節目播放地址2
 ```
 
-### （二）簡體中文版本（適用於中國大陸及東南亞地區）
+### （二）簡體中文版本（適用於大陸及東南亞地區）
 ```
 #EXTM3U url-tvg="https://github.com/zzq12345/epgtest/raw/refs/heads/main/swepg.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-id="電視台名稱1" tvg-name="電視台名稱1" tvg-logo="https://epg.51/tb1/CCTV/CCTV1.png" group-title="你的分組",電視台名稱1
@@ -184,7 +182,7 @@ MOD, BB Broadband, TBC Cable, 4GTV, Hami, Ofiii, etc.
 
 # 📺 EPG 電子節目表狀態報告
 
-> 最後更新時間: **2025-12-09 14:09:54**
+> 最後更新時間: **2025-12-09 14:13:39**
 
 ## 📊 統計摘要
 - **繁體頻道數**: 1790 (節目總數: 159616)
