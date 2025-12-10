@@ -1,3 +1,15 @@
-跳过不存在的文件: ./epgae.xml
-跳过不存在的文件: ./epgae.xml
+PHP Warning:  simplexml_load_file(): ./epgae.xml:31: parser error : Opening and ending tag mismatch: link line 27 and head in /home/runner/work/epgtest/epgtest/epgziyong.php on line 33
+PHP Warning:  simplexml_load_file(): </head> in /home/runner/work/epgtest/epgtest/epgziyong.php on line 33
+PHP Warning:  simplexml_load_file():        ^ in /home/runner/work/epgtest/epgtest/epgziyong.php on line 33
+PHP Warning:  simplexml_load_file(): ./epgae.xml:753: parser error : Premature end of data in tag link line 25 in /home/runner/work/epgtest/epgtest/epgziyong.php on line 33
+PHP Warning:  simplexml_load_file():  in /home/runner/work/epgtest/epgtest/epgziyong.php on line 33
+PHP Warning:  simplexml_load_file(): ^ in /home/runner/work/epgtest/epgtest/epgziyong.php on line 33
+加载失败: ./epgae.xml
+PHP Warning:  simplexml_load_file(): ./epgae.xml:31: parser error : Opening and ending tag mismatch: link line 27 and head in /home/runner/work/epgtest/epgtest/epgziyong.php on line 58
+PHP Warning:  simplexml_load_file(): </head> in /home/runner/work/epgtest/epgtest/epgziyong.php on line 58
+PHP Warning:  simplexml_load_file():        ^ in /home/runner/work/epgtest/epgtest/epgziyong.php on line 58
+PHP Warning:  simplexml_load_file(): ./epgae.xml:753: parser error : Premature end of data in tag link line 25 in /home/runner/work/epgtest/epgtest/epgziyong.php on line 58
+PHP Warning:  simplexml_load_file():  in /home/runner/work/epgtest/epgtest/epgziyong.php on line 58
+PHP Warning:  simplexml_load_file(): ^ in /home/runner/work/epgtest/epgtest/epgziyong.php on line 58
+加载失败: ./epgae.xml
 XML文件合并完成，已保存为 epgziyong.xml 和 epgziyong.xml.gz
