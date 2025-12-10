@@ -159,7 +159,7 @@ jobs:
       - name: Check generated XML files
         id: check_xml
         run: |
-          declare -a expected_xml=("epgguangdong.xml.gz" "epgguangdong.xml" "epgmacocable.xml" "epgdubaione.xml" "epgdiyicaijing.xml" "epgmncvision.xml" "epgastro.xml" "epgyidong.xml" "epghebei.xml" "epgofiii.xml" "epgkai1.xml"  "epgnewshanghai.xml" "epghebeiiptv1.xml" "epgnewhebei.xml" "epgnewguangdong.xml" "epgziyong.xml")
+          declare -a expected_xml=("epgguangdong.xml.gz" "epgguangdong.xml" "epgasia.xml" "epgmacocable.xml" "epgdubaione.xml" "epgdiyicaijing.xml" "epgmncvision.xml" "epgastro.xml" "epgyidong.xml" "epghebei.xml" "epgofiii.xml" "epgkai1.xml"  "epgnewshanghai.xml" "epghebeiiptv1.xml" "epgnewhebei.xml" "epgnewguangdong.xml" "epgziyong.xml")
           generated_files=()
           
           echo "检查生成的XML文件..."
