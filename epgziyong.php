@@ -2,7 +2,7 @@
 // 定义要合并的XML文件列表
 $xmlFiles = [
     './epgasia.xml',
-     'epgdiyicaijing.xml',
+     './epgdiyicaijing.xml',
      './epgdubaione.xml',
     './epgkai1.xml',
      './epgmacocable.xml',
