@@ -3,8 +3,8 @@
 $sources = [
    "epgshanghai.xml" => "https://epg.deny.vip/sh/tel-epg.xml",
    "epghebeiiptv1.xml" => "https://epg.mb6.top/heiptv.xml",
-   "epgyidong.xml" => "https://epg.136605.xyz/3days.xml"
- 
+   "epgyidong.xml" => "https://epg.136605.xyz/3days.xml",
+  "epgae.xml": "https://iptv-epg.org/files/epg-sa.xml"
   
 ];
 
@@ -29,7 +29,7 @@ foreach ($sources as $filename => $targetUrl) {
         echo "Error downloading $filename\n";
         continue;
     }
-
+       $xmlContent=str_replace('<title lang="ar">','<title lang="en">',$xmlContent);
     // 解析 XML
     $xml = simplexml_load_string($xmlContent);
     if (!$xml) {
