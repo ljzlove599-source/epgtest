@@ -30,6 +30,8 @@ foreach ($sources as $filename => $targetUrl) {
         continue;
     }
        $xmlContent=str_replace('<title lang="ar">','<title lang="en">',$xmlContent);
+         $xmlContent=str_replace('<desc lang="ar">','<desc lang="en">',$xmlContent);
+   
     // 解析 XML
     $xml = simplexml_load_string($xmlContent);
     if (!$xml) {
