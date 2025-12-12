@@ -322,6 +322,9 @@
 <channel id="Astro_Premier_League_2">
   <display-name lang="zh">Astro Premier League 2</display-name>
 </channel>
+<channel id="Astro_Premier_League_3">
+  <display-name lang="zh">Astro Premier League 3</display-name>
+</channel>
 <channel id="Astro_Football">
   <display-name lang="zh">Astro Football</display-name>
 </channel>
@@ -333,6 +336,9 @@
 </channel>
 <channel id="Astro_Sports_Plus">
   <display-name lang="zh">Astro Sports Plus</display-name>
+</channel>
+<channel id="Astro_Premier_League_4">
+  <display-name lang="zh">Astro Premier League 4</display-name>
 </channel>
 <channel id="beIN_SPORTS_1">
   <display-name lang="zh">beIN SPORTS 1</display-name>
@@ -26619,55 +26625,55 @@
   <title lang="zh">Sorotan Hoki SASC 2025: Hari ke-3</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20251212055500 +0800" stop="20251212063000 +0800" channel="Astro_Arena">
+<programme start="20251212055500 +0800" stop="20251212062600 +0800" channel="Astro_Arena">
   <title lang="zh">Botak Terjah Stadium</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20251212063000 +0800" stop="20251212073000 +0800" channel="Astro_Arena">
+<programme start="20251212062600 +0800" stop="20251212072500 +0800" channel="Astro_Arena">
   <title lang="zh">Hari Pertama: Aksi Thailand 2025</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20251212073000 +0800" stop="20251212083000 +0800" channel="Astro_Arena">
+<programme start="20251212072500 +0800" stop="20251212082600 +0800" channel="Astro_Arena">
   <title lang="zh">Nadi Arena</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20251212083000 +0800" stop="20251212093000 +0800" channel="Astro_Arena">
+<programme start="20251212082600 +0800" stop="20251212093000 +0800" channel="Astro_Arena">
   <title lang="zh">Hari ke-2: Aksi Thailand 2025</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20251212093000 +0800" stop="20251212100000 +0800" channel="Astro_Arena">
+<programme start="20251212093000 +0800" stop="20251212095500 +0800" channel="Astro_Arena">
   <title lang="zh">(L) What&apos;s Up Thailand 2025</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20251212100000 +0800" stop="20251212170000 +0800" channel="Astro_Arena">
+<programme start="20251212095500 +0800" stop="20251212165500 +0800" channel="Astro_Arena">
   <title lang="zh">(L) Hari ke-3: Sukan Sea Thailand 2025</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20251212170000 +0800" stop="20251212173000 +0800" channel="Astro_Arena">
+<programme start="20251212165500 +0800" stop="20251212172500 +0800" channel="Astro_Arena">
   <title lang="zh">(L) Nadi Arena</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20251212173000 +0800" stop="20251212210000 +0800" channel="Astro_Arena">
+<programme start="20251212172500 +0800" stop="20251212211500 +0800" channel="Astro_Arena">
   <title lang="zh">(L) Hari ke-3: Sukan Sea Thailand 2025</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20251212210000 +0800" stop="20251212220000 +0800" channel="Astro_Arena">
+<programme start="20251212211500 +0800" stop="20251212221500 +0800" channel="Astro_Arena">
+  <title lang="zh">(L) Nadi Arena</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20251212221500 +0800" stop="20251212223000 +0800" channel="Astro_Arena">
   <title lang="zh">Hari Pertama: Aksi Thailand 2025</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20251212220000 +0800" stop="20251212230000 +0800" channel="Astro_Arena">
+<programme start="20251212223000 +0800" stop="20251212235500 +0800" channel="Astro_Arena">
   <title lang="zh">Hari ke-2: Aksi Thailand 2025</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20251213000000 +0800" stop="20251213010000 +0800" channel="Astro_Arena">
-  <title lang="zh">Hari ke-3: Aksi Thailand 2025</title>
-  <desc lang="zh"> </desc>
-</programme>
-<programme start="20251213010000 +0800" stop="20251213030000 +0800" channel="Astro_Arena">
+<programme start="20251213005500 +0800" stop="20251213025500 +0800" channel="Astro_Arena">
   <title lang="zh">Sukan Sea 2025 Bolasepak: MAS lwn LAO</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20251213030000 +0800" stop="20251213060000 +0800" channel="Astro_Arena">
+<programme start="20251213025500 +0800" stop="20251213060000 +0800" channel="Astro_Arena">
   <title lang="zh">Motor Cub Prix 2025: Rnd 10</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -26735,8 +26741,16 @@
   <title lang="zh">Sorotan PL 2025/26</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20251212190000 +0800" stop="20251212213000 +0800" channel="Astro_Arena_2">
+<programme start="20251212190000 +0800" stop="20251212203000 +0800" channel="Astro_Arena_2">
   <title lang="zh">(L) Sukan Sea Thailand 2025: Snooker</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20251212203000 +0800" stop="20251212210000 +0800" channel="Astro_Arena_2">
+  <title lang="zh">Sorotan CRANK Lead 2025</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20251212210000 +0800" stop="20251212213000 +0800" channel="Astro_Arena_2">
+  <title lang="zh">Sorotan PL 2025/26</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20251212213000 +0800" stop="20251212223000 +0800" channel="Astro_Arena_2">
