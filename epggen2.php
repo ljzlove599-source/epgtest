@@ -3,8 +3,8 @@
 $sources = [
    "epgshanghai.xml" => "https://epg.deny.vip/sh/tel-epg.xml",
    "epghebeiiptv1.xml" => "https://epg.mb6.top/heiptv.xml",
-   "epgyidong.xml" => "https://epg.136605.xyz/3days.xml",
-  "epgae.xml" =>  "https://iptv-epg.org/files/epg-sa.xml"
+   "epgyidong.xml" => "https://epg.136605.xyz/3days.xml"
+ // "epgae.xml" =>  "https://iptv-epg.org/files/epg-sa.xml"
   
 ];
 
