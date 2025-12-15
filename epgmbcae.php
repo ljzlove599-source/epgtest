@@ -192,7 +192,7 @@ function generate_xml(array $all_programs): string
         $channel_name = $program['channel'];
         if (!in_array($channel_name, $added_channels)) {
             $channel = $xml->addChild('channel');
-            $channel_id = str_replace(' ', '.', $channel_name);
+            $channel_id = $channel_name;
             $channel->addAttribute('id', $channel_id);
             $display_name = $channel->addChild('display-name', $channel_name);
             $display_name->addAttribute('lang', 'en');
