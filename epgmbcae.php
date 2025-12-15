@@ -2,7 +2,7 @@
 
 // 設定時區以確保時間處理正確
 date_default_timezone_set('Asia/Shanghai');
-$fp="epgmbcae1.xml";//压缩版
+$fp="epgmbcae.xml";//压缩版
 /**
  * 抓取指定 URL 的 EPG 資料
  * @param string $url 節目表網址
