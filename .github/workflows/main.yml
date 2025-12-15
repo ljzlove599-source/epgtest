@@ -116,7 +116,7 @@ jobs:
         id: check_scripts
         run: |
           echo "检查PHP脚本文件..."
-          declare -a scripts=("epgdiyicaijing.php" "epgmacocable.php" "epgdubaione.php" "epgmncvision.php" "epgastro.php" "epggen2.php" "epgofiii.php" "epgkai1.php" "epgnewshanghai.php" "epgnewhebei.php" "epgnewguangdong.php" "epgziyong.php")
+          declare -a scripts=("epgdiyicaijing.php" "epgmacocable.php" "epgmbcae.php" "epgmbcaction.php" "epgdubaione.php" "epgmncvision.php" "epgastro.php" "epggen2.php" "epgofiii.php" "epgkai1.php" "epgnewshanghai.php" "epgnewhebei.php" "epgnewguangdong.php" "epgziyong.php")
           existing_scripts=()
           
           for script in "${scripts[@]}"; do
