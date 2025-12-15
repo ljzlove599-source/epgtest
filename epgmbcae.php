@@ -144,12 +144,12 @@ function scrape_epg_data(string $url, string $channel_name): array
                     }
                     
                     // 格式化為 XMLTV 要求的 YYYYMMDDHHMMSS +0000 格式
-                    $start_time = $timestamp ? date('YmdHis', $timestamp) . ' +0000' : '';
+                    $start_time = $timestamp ? date('YmdHis', $timestamp) . ' +0800' : '';
                     
                     // 計算結束時間
                     if ($timestamp && $duration_minutes > 0) {
                         $end_timestamp = $timestamp + ($duration_minutes * 60);
-                        $stop_time = date('YmdHis', $end_timestamp) . ' +0000';
+                        $stop_time = date('YmdHis', $end_timestamp) . ' +0800';
                     }
                 }
                 
