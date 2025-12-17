@@ -24,6 +24,9 @@
   <channel id="HOY 國際財經台">
     <display-name lang="zh">HOY 國際財經台</display-name>
   </channel>
+  <channel id="HOY TV">
+    <display-name lang="zh">HOY TV</display-name>
+  </channel>
   <channel id="HOY 資訊台">
     <display-name lang="zh">HOY 資訊台</display-name>
   </channel>
@@ -6375,10 +6378,6 @@
   <channel id="Zoomoo">
     <display-name lang="zh">Zoomoo</display-name>
   </channel>
-  <programme start="20251218003500 +0800" stop="20251218010000 +0800" channel="mbc max">
-    <title lang="en">Films &amp; Stars</title>
-    <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
-  </programme>
   <programme start="20251218010000 +0800" stop="20251218023000 +0800" channel="mbc max">
     <title lang="en">The Transporter Refueled</title>
     <desc lang="en">When former mercenary-turned-contract driver Frank Martin ishired by a mysterious woman for a job, he finds himself embroiled in a dangerous game, since the woman has her own vendetta that she wants to settle with a Russian mobster.</desc>
@@ -6491,6 +6490,10 @@
   <programme start="20251220090000 +0800" stop="20251220110000 +0800" channel="mbc max">
     <title lang="en">Rogue</title>
     <desc lang="en">As Samantha O'Hara leads a team of mercenaries on a missionto rescue hostages in remote Africa, the mission goes haywire and the team becomes hunted by a group of rebels and wild lions.</desc>
+  </programme>
+  <programme start="20251220110000 +0800" stop="20251220123000 +0800" channel="mbc max">
+    <title lang="en">Faster</title>
+    <desc lang="en">Driver (Dwayne "The Rock" Johnson) seeks revenge againstthose who put him in prison as well as those who killed his brother. After 10 years, he is released from prison, drives through the deserts of Nevada in search of his enemies while being chased by a contract killer (Oliver Jackson-Cohen) and a veteran cop (Billy Bob Thornton).</desc>
   </programme>
   <programme start="20251218000500 +0800" stop="20251218020000 +0800" channel="mbc 2">
     <title lang="en">Space Jam: A New Legacy</title>
@@ -6615,10 +6618,6 @@
   <programme start="20251220100000 +0800" stop="20251220120000 +0800" channel="mbc 2">
     <title lang="en">Mortal Kombat</title>
     <desc lang="en">When a young hero gets embroiled in a brutal,multi-dimensional battle, the experience gives him a new perspective on his limits and capabilities.</desc>
-  </programme>
-  <programme start="20251217120000 +0800" stop="20251217130000 +0800" channel="mbc action">
-    <title lang="en">برنامج action bodcast</title>
-    <desc lang=""/>
   </programme>
   <programme start="20251217130000 +0800" stop="20251217140000 +0800" channel="mbc action">
     <title lang="en">بودكاست ملح الدوري</title>
@@ -10990,6 +10989,3206 @@
   </programme>
   <programme start="20251225231500 +0800" stop="20251225233000 +0800" channel="HOY 國際財經台">
     <title lang="zh">Green Touch</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251204001500 +0800" stop="20251204004500 +0800" channel="HOY TV">
+    <title lang="zh">香港代表作</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251204004500 +0800" stop="20251204010000 +0800" channel="HOY TV">
+    <title lang="zh">娛樂頭條 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251204010000 +0800" stop="20251204030000 +0800" channel="HOY TV">
+    <title lang="zh">HOY 動音樂</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251204030000 +0800" stop="20251204060000 +0800" channel="HOY TV">
+    <title lang="zh">魚樂無限</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251204060000 +0800" stop="20251204070000 +0800" channel="HOY TV">
+    <title lang="zh">幸福大家姐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251204070000 +0800" stop="20251204080000 +0800" channel="HOY TV">
+    <title lang="zh">長相思 第一季</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251204080000 +0800" stop="20251204090000 +0800" channel="HOY TV">
+    <title lang="zh">會長的愛</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251204090000 +0800" stop="20251204093000 +0800" channel="HOY TV">
+    <title lang="zh">開飯啦</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251204093000 +0800" stop="20251204100000 +0800" channel="HOY TV">
+    <title lang="zh">Call的去開餐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251204100000 +0800" stop="20251204102500 +0800" channel="HOY TV">
+    <title lang="zh">茶餐廳龍虎榜</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251204102500 +0800" stop="20251204103000 +0800" channel="HOY TV">
+    <title lang="zh">全運倒數 (重溫)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251204103000 +0800" stop="20251204113000 +0800" channel="HOY TV">
+    <title lang="zh">灰姑娘遊戲</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251204113000 +0800" stop="20251204122500 +0800" channel="HOY TV">
+    <title lang="zh">幸福大家姐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251204122500 +0800" stop="20251204123000 +0800" channel="HOY TV">
+    <title lang="zh">全運倒數 (重溫)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251204123000 +0800" stop="20251204130000 +0800" channel="HOY TV">
+    <title lang="zh">午間新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251204130000 +0800" stop="20251204133000 +0800" channel="HOY TV">
+    <title lang="zh">中國光大集團呈獻 : 一線搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251204133000 +0800" stop="20251204140000 +0800" channel="HOY TV">
+    <title lang="zh">煮題COOK之舟山美食搜遊</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251204140000 +0800" stop="20251204143000 +0800" channel="HOY TV">
+    <title lang="zh">健康關注組</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251204143000 +0800" stop="20251204150000 +0800" channel="HOY TV">
+    <title lang="zh">樂趣遊蹤</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251204150000 +0800" stop="20251204153000 +0800" channel="HOY TV">
+    <title lang="zh">自煮女人最漂亮</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251204153000 +0800" stop="20251204160000 +0800" channel="HOY TV">
+    <title lang="zh">君九齡</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251204160000 +0800" stop="20251204163000 +0800" channel="HOY TV">
+    <title lang="zh">100% 帕斯卡老師</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251204163000 +0800" stop="20251204170000 +0800" channel="HOY TV">
+    <title lang="zh">地底小靈精</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251204170000 +0800" stop="20251204173000 +0800" channel="HOY TV">
+    <title lang="zh">友夫日記</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251204173000 +0800" stop="20251204180000 +0800" channel="HOY TV">
+    <title lang="zh">雷頓 不可思議偵探社 ～卡特莉的解謎事件簿～</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251204180000 +0800" stop="20251204183000 +0800" channel="HOY TV">
+    <title lang="zh">香港代表作</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251204183000 +0800" stop="20251204190000 +0800" channel="HOY TV">
+    <title lang="zh">茶餐廳龍虎榜</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251204190000 +0800" stop="20251204195000 +0800" channel="HOY TV">
+    <title lang="zh">7點直播室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251204195000 +0800" stop="20251204200000 +0800" channel="HOY TV">
+    <title lang="zh">28Hse特約 : 每日樓市</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251204200000 +0800" stop="20251204202500 +0800" channel="HOY TV">
+    <title lang="zh">中國光大集團呈獻 : 一線搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251204202500 +0800" stop="20251204203000 +0800" channel="HOY TV">
+    <title lang="zh">全運倒數 (重溫)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251204203000 +0800" stop="20251204210000 +0800" channel="HOY TV">
+    <title lang="zh">煮題COOK之舟山美食搜遊</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251204210000 +0800" stop="20251204213000 +0800" channel="HOY TV">
+    <title lang="zh">健康關注組</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251204213000 +0800" stop="20251204215500 +0800" channel="HOY TV">
+    <title lang="zh">樂趣遊蹤</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251204215500 +0800" stop="20251204220000 +0800" channel="HOY TV">
+    <title lang="zh">全運倒數 (重溫)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251204220000 +0800" stop="20251204230000 +0800" channel="HOY TV">
+    <title lang="zh">灰姑娘遊戲</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251204230000 +0800" stop="20251204233000 +0800" channel="HOY TV">
+    <title lang="zh">有線新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251204233000 +0800" stop="20251204234500 +0800" channel="HOY TV">
+    <title lang="zh">娛樂頭條 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251204234500 +0800" stop="20251205001500 +0800" channel="HOY TV">
+    <title lang="zh">開飯啦</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251205001500 +0800" stop="20251205004500 +0800" channel="HOY TV">
+    <title lang="zh">香港代表作</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251205004500 +0800" stop="20251205010000 +0800" channel="HOY TV">
+    <title lang="zh">娛樂頭條 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251205010000 +0800" stop="20251205030000 +0800" channel="HOY TV">
+    <title lang="zh">HOY 動音樂</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251205030000 +0800" stop="20251205060000 +0800" channel="HOY TV">
+    <title lang="zh">魚樂無限</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251205060000 +0800" stop="20251205070000 +0800" channel="HOY TV">
+    <title lang="zh">幸福大家姐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251205070000 +0800" stop="20251205080000 +0800" channel="HOY TV">
+    <title lang="zh">長相思 第一季</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251205080000 +0800" stop="20251205090000 +0800" channel="HOY TV">
+    <title lang="zh">會長的愛</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251205090000 +0800" stop="20251205093000 +0800" channel="HOY TV">
+    <title lang="zh">開飯啦</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251205093000 +0800" stop="20251205100000 +0800" channel="HOY TV">
+    <title lang="zh">Call的去開餐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251205100000 +0800" stop="20251205102500 +0800" channel="HOY TV">
+    <title lang="zh">茶餐廳龍虎榜</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251205102500 +0800" stop="20251205103000 +0800" channel="HOY TV">
+    <title lang="zh">全運倒數 (重溫)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251205103000 +0800" stop="20251205113000 +0800" channel="HOY TV">
+    <title lang="zh">灰姑娘遊戲</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251205113000 +0800" stop="20251205122500 +0800" channel="HOY TV">
+    <title lang="zh">幸福大家姐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251205122500 +0800" stop="20251205123000 +0800" channel="HOY TV">
+    <title lang="zh">全運倒數 (重溫)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251205123000 +0800" stop="20251205130000 +0800" channel="HOY TV">
+    <title lang="zh">午間新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251205130000 +0800" stop="20251205133000 +0800" channel="HOY TV">
+    <title lang="zh">中國光大集團呈獻 : 一線搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251205133000 +0800" stop="20251205140000 +0800" channel="HOY TV">
+    <title lang="zh">煮題COOK之舟山美食搜遊</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251205140000 +0800" stop="20251205143000 +0800" channel="HOY TV">
+    <title lang="zh">健康關注組</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251205143000 +0800" stop="20251205150000 +0800" channel="HOY TV">
+    <title lang="zh">樂趣遊蹤</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251205150000 +0800" stop="20251205153000 +0800" channel="HOY TV">
+    <title lang="zh">曬Ya馬拉Moi</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251205153000 +0800" stop="20251205160000 +0800" channel="HOY TV">
+    <title lang="zh">君九齡</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251205160000 +0800" stop="20251205163000 +0800" channel="HOY TV">
+    <title lang="zh">100% 帕斯卡老師</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251205163000 +0800" stop="20251205170000 +0800" channel="HOY TV">
+    <title lang="zh">地底小靈精</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251205170000 +0800" stop="20251205173000 +0800" channel="HOY TV">
+    <title lang="zh">友夫日記</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251205173000 +0800" stop="20251205180000 +0800" channel="HOY TV">
+    <title lang="zh">雷頓 不可思議偵探社 ～卡特莉的解謎事件簿～</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251205180000 +0800" stop="20251205183000 +0800" channel="HOY TV">
+    <title lang="zh">世食之味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251205183000 +0800" stop="20251205190000 +0800" channel="HOY TV">
+    <title lang="zh">名廚私藏12味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251205190000 +0800" stop="20251205195000 +0800" channel="HOY TV">
+    <title lang="zh">7點直播室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251205195000 +0800" stop="20251205200000 +0800" channel="HOY TV">
+    <title lang="zh">28Hse特約 : 每日樓市</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251205200000 +0800" stop="20251205202500 +0800" channel="HOY TV">
+    <title lang="zh">中國光大集團呈獻 : 一線搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251205202500 +0800" stop="20251205203000 +0800" channel="HOY TV">
+    <title lang="zh">全運倒數 (重溫)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251205203000 +0800" stop="20251205210000 +0800" channel="HOY TV">
+    <title lang="zh">煮題COOK之舟山美食搜遊</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251205210000 +0800" stop="20251205213000 +0800" channel="HOY TV">
+    <title lang="zh">健康關注組</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251205213000 +0800" stop="20251205215500 +0800" channel="HOY TV">
+    <title lang="zh">樂趣遊蹤</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251205215500 +0800" stop="20251205220000 +0800" channel="HOY TV">
+    <title lang="zh">全運倒數 (重溫)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251205220000 +0800" stop="20251205230000 +0800" channel="HOY TV">
+    <title lang="zh">灰姑娘遊戲</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251205230000 +0800" stop="20251205233000 +0800" channel="HOY TV">
+    <title lang="zh">有線新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251205233000 +0800" stop="20251205234500 +0800" channel="HOY TV">
+    <title lang="zh">娛樂頭條 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251205234500 +0800" stop="20251206001500 +0800" channel="HOY TV">
+    <title lang="zh">開飯啦</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251206001500 +0800" stop="20251206004500 +0800" channel="HOY TV">
+    <title lang="zh">世食之味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251206004500 +0800" stop="20251206010000 +0800" channel="HOY TV">
+    <title lang="zh">娛樂頭條 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251206010000 +0800" stop="20251206030000 +0800" channel="HOY TV">
+    <title lang="zh">HOY 動音樂</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251206030000 +0800" stop="20251206060000 +0800" channel="HOY TV">
+    <title lang="zh">魚樂無限</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251206060000 +0800" stop="20251206065500 +0800" channel="HOY TV">
+    <title lang="zh">道地蜂蜜綠茶特約 : 健康原因講多D</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251206065500 +0800" stop="20251206070000 +0800" channel="HOY TV">
+    <title lang="zh">全運倒數 (重溫)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251206070000 +0800" stop="20251206090000 +0800" channel="HOY TV">
+    <title lang="zh">Running Man</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251206090000 +0800" stop="20251206100000 +0800" channel="HOY TV">
+    <title lang="zh">島上的神奇婆婆2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251206100000 +0800" stop="20251206102500 +0800" channel="HOY TV">
+    <title lang="zh">名廚私藏12味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251206102500 +0800" stop="20251206103000 +0800" channel="HOY TV">
+    <title lang="zh">全運倒數 (重溫)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251206103000 +0800" stop="20251206110000 +0800" channel="HOY TV">
+    <title lang="zh">中國光大集團呈獻 : 一線搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251206110000 +0800" stop="20251206115500 +0800" channel="HOY TV">
+    <title lang="zh">立邦抗甲醛淨味兒童漆系列特約 : 空間改造王</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251206115500 +0800" stop="20251206141500 +0800" channel="HOY TV">
+    <title lang="zh">澳洲冠軍聯賽決賽 - 南墨爾本 對 馬可尼駿馬</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251206141500 +0800" stop="20251206144500 +0800" channel="HOY TV">
+    <title lang="zh">名廚秘方</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251206144500 +0800" stop="20251206150000 +0800" channel="HOY TV">
+    <title lang="zh">發明王</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251206150000 +0800" stop="20251206153000 +0800" channel="HOY TV">
+    <title lang="zh">嘻哈馬場</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251206153000 +0800" stop="20251206160000 +0800" channel="HOY TV">
+    <title lang="zh">活出真我</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251206160000 +0800" stop="20251206163000 +0800" channel="HOY TV">
+    <title lang="zh">美斯的奧奇島</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251206163000 +0800" stop="20251206170000 +0800" channel="HOY TV">
+    <title lang="zh">超甲蟲戰記 聖域傳說</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251206170000 +0800" stop="20251206180000 +0800" channel="HOY TV">
+    <title lang="zh">香料貿易之路</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251206180000 +0800" stop="20251206182500 +0800" channel="HOY TV">
+    <title lang="zh">上海工匠</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251206182500 +0800" stop="20251206183000 +0800" channel="HOY TV">
+    <title lang="zh">全運倒數 (重溫)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251206183000 +0800" stop="20251206190000 +0800" channel="HOY TV">
+    <title lang="zh">馬時亨．獅子山精神</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251206190000 +0800" stop="20251206193000 +0800" channel="HOY TV">
+    <title lang="zh">7點直播室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251206193000 +0800" stop="20251206195500 +0800" channel="HOY TV">
+    <title lang="zh">共享滋味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251206195500 +0800" stop="20251206200000 +0800" channel="HOY TV">
+    <title lang="zh">全運倒數 (重溫)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251206200000 +0800" stop="20251206203000 +0800" channel="HOY TV">
+    <title lang="zh">安居樂業</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251206203000 +0800" stop="20251206213000 +0800" channel="HOY TV">
+    <title lang="zh">山旮旯睇樓團</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251206213000 +0800" stop="20251206220000 +0800" channel="HOY TV">
+    <title lang="zh">一人店長</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251206220000 +0800" stop="20251206230000 +0800" channel="HOY TV">
+    <title lang="zh">道地蜂蜜綠茶特約 : 健康原因講多D</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251206230000 +0800" stop="20251206233000 +0800" channel="HOY TV">
+    <title lang="zh">HOY娛樂一周</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251206233000 +0800" stop="20251207000000 +0800" channel="HOY TV">
+    <title lang="zh">有線新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251207000000 +0800" stop="20251207003000 +0800" channel="HOY TV">
+    <title lang="zh">名廚秘方</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251207003000 +0800" stop="20251207010000 +0800" channel="HOY TV">
+    <title lang="zh">英國邊忽好</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251207010000 +0800" stop="20251207030000 +0800" channel="HOY TV">
+    <title lang="zh">HOY 動音樂</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251207030000 +0800" stop="20251207060000 +0800" channel="HOY TV">
+    <title lang="zh">魚樂無限</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251207060000 +0800" stop="20251207070000 +0800" channel="HOY TV">
+    <title lang="zh">島上的神奇婆婆2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251207070000 +0800" stop="20251207080000 +0800" channel="HOY TV">
+    <title lang="zh">香料貿易之路</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251207080000 +0800" stop="20251207090000 +0800" channel="HOY TV">
+    <title lang="zh">童班同學</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251207090000 +0800" stop="20251207100000 +0800" channel="HOY TV">
+    <title lang="zh">道地蜂蜜綠茶特約 : 健康原因講多D</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251207100000 +0800" stop="20251207102500 +0800" channel="HOY TV">
+    <title lang="zh">文化大觀園</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251207102500 +0800" stop="20251207103000 +0800" channel="HOY TV">
+    <title lang="zh">全運倒數 (重溫)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251207103000 +0800" stop="20251207110000 +0800" channel="HOY TV">
+    <title lang="zh">四處首羅</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251207110000 +0800" stop="20251207120000 +0800" channel="HOY TV">
+    <title lang="zh">山旮旯睇樓團</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251207120000 +0800" stop="20251207122500 +0800" channel="HOY TV">
+    <title lang="zh">HOY娛樂一周</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251207122500 +0800" stop="20251207123000 +0800" channel="HOY TV">
+    <title lang="zh">全運倒數 (重溫)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251207123000 +0800" stop="20251207125500 +0800" channel="HOY TV">
+    <title lang="zh">午間新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251207125500 +0800" stop="20251207130500 +0800" channel="HOY TV">
+    <title lang="zh">東方表行Take Your Time 特約 : 一刻．時光</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251207130500 +0800" stop="20251207140000 +0800" channel="HOY TV">
+    <title lang="zh">道地星期日影院 : 女王之家</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251207140000 +0800" stop="20251207150000 +0800" channel="HOY TV">
+    <title lang="zh">道地星期日影院 : 女王之家</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251207150000 +0800" stop="20251207153000 +0800" channel="HOY TV">
+    <title lang="zh">下一站，前海—港人北上創業紀事</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251207153000 +0800" stop="20251207160000 +0800" channel="HOY TV">
+    <title lang="zh">共享滋味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251207160000 +0800" stop="20251207163000 +0800" channel="HOY TV">
+    <title lang="zh">美斯的奧奇島</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251207163000 +0800" stop="20251207170000 +0800" channel="HOY TV">
+    <title lang="zh">超甲蟲戰記 聖域傳說</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251207170000 +0800" stop="20251207173000 +0800" channel="HOY TV">
+    <title lang="zh">超甲蟲戰記 聖域傳說</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251207173000 +0800" stop="20251207180000 +0800" channel="HOY TV">
+    <title lang="zh">我的香港故事</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251207180000 +0800" stop="20251207183000 +0800" channel="HOY TV">
+    <title lang="zh">上海工匠</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251207183000 +0800" stop="20251207190000 +0800" channel="HOY TV">
+    <title lang="zh">森之隱憂</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251207190000 +0800" stop="20251207193000 +0800" channel="HOY TV">
+    <title lang="zh">7點直播室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251207193000 +0800" stop="20251207200000 +0800" channel="HOY TV">
+    <title lang="zh">五平方Squarefoot特約 : 樓盤傳真</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251207200000 +0800" stop="20251207205500 +0800" channel="HOY TV">
+    <title lang="zh">立邦抗甲醛淨味兒童漆系列特約 : 空間改造王</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251207205500 +0800" stop="20251207210000 +0800" channel="HOY TV">
+    <title lang="zh">全運倒數 (重溫)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251207210000 +0800" stop="20251207213000 +0800" channel="HOY TV">
+    <title lang="zh">畀你食住賺回贈嘅WeWa卡呈獻 : 餓底家家走</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251207213000 +0800" stop="20251207215500 +0800" channel="HOY TV">
+    <title lang="zh">精明買手</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251207215500 +0800" stop="20251207220000 +0800" channel="HOY TV">
+    <title lang="zh">全運倒數 (重溫)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251207220000 +0800" stop="20251207223000 +0800" channel="HOY TV">
+    <title lang="zh">一流料理人</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251207223000 +0800" stop="20251207230000 +0800" channel="HOY TV">
+    <title lang="zh">日本奇職</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251207230000 +0800" stop="20251207232900 +0800" channel="HOY TV">
+    <title lang="zh">2025殘特奧會精華</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251207232900 +0800" stop="20251207235500 +0800" channel="HOY TV">
+    <title lang="zh">有線新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251207235500 +0800" stop="20251208000000 +0800" channel="HOY TV">
+    <title lang="zh">東方表行Take Your Time 特約 : 一刻．時光</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208000000 +0800" stop="20251208003000 +0800" channel="HOY TV">
+    <title lang="zh">嘻哈馬場</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208003000 +0800" stop="20251208010000 +0800" channel="HOY TV">
+    <title lang="zh">五平方Squarefoot特約 : 樓盤傳真</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208010000 +0800" stop="20251208030000 +0800" channel="HOY TV">
+    <title lang="zh">HOY 動音樂</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208030000 +0800" stop="20251208060000 +0800" channel="HOY TV">
+    <title lang="zh">魚樂無限</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208060000 +0800" stop="20251208070000 +0800" channel="HOY TV">
+    <title lang="zh">幸福大家姐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208070000 +0800" stop="20251208080000 +0800" channel="HOY TV">
+    <title lang="zh">長相思 第一季</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208080000 +0800" stop="20251208090000 +0800" channel="HOY TV">
+    <title lang="zh">會長的愛</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208090000 +0800" stop="20251208093000 +0800" channel="HOY TV">
+    <title lang="zh">開飯啦</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208093000 +0800" stop="20251208100000 +0800" channel="HOY TV">
+    <title lang="zh">Call的去開餐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208100000 +0800" stop="20251208103000 +0800" channel="HOY TV">
+    <title lang="zh">一流料理人</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208103000 +0800" stop="20251208113000 +0800" channel="HOY TV">
+    <title lang="zh">灰姑娘遊戲</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208113000 +0800" stop="20251208123000 +0800" channel="HOY TV">
+    <title lang="zh">幸福大家姐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208123000 +0800" stop="20251208130000 +0800" channel="HOY TV">
+    <title lang="zh">午間新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208130000 +0800" stop="20251208133000 +0800" channel="HOY TV">
+    <title lang="zh">英國邊忽好</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208133000 +0800" stop="20251208140000 +0800" channel="HOY TV">
+    <title lang="zh">煮題COOK之舟山美食搜遊</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208140000 +0800" stop="20251208143000 +0800" channel="HOY TV">
+    <title lang="zh">健康關注組</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208143000 +0800" stop="20251208150000 +0800" channel="HOY TV">
+    <title lang="zh">樂趣遊蹤</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208150000 +0800" stop="20251208153000 +0800" channel="HOY TV">
+    <title lang="zh">畀你食住賺回贈嘅WeWa卡呈獻 : 餓底家家走</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208153000 +0800" stop="20251208160000 +0800" channel="HOY TV">
+    <title lang="zh">君九齡</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208160000 +0800" stop="20251208163000 +0800" channel="HOY TV">
+    <title lang="zh">100% 帕斯卡老師</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208163000 +0800" stop="20251208170000 +0800" channel="HOY TV">
+    <title lang="zh">地底小靈精</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208170000 +0800" stop="20251208173000 +0800" channel="HOY TV">
+    <title lang="zh">友夫日記</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208173000 +0800" stop="20251208180000 +0800" channel="HOY TV">
+    <title lang="zh">雷頓 不可思議偵探社 ～卡特莉的解謎事件簿～</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208180000 +0800" stop="20251208183000 +0800" channel="HOY TV">
+    <title lang="zh">世食之味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208183000 +0800" stop="20251208190000 +0800" channel="HOY TV">
+    <title lang="zh">名廚私藏12味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208190000 +0800" stop="20251208195000 +0800" channel="HOY TV">
+    <title lang="zh">7點直播室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208195000 +0800" stop="20251208200000 +0800" channel="HOY TV">
+    <title lang="zh">28Hse特約 : 每日樓市</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208200000 +0800" stop="20251208203000 +0800" channel="HOY TV">
+    <title lang="zh">中國光大集團呈獻 : 一線搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208203000 +0800" stop="20251208210000 +0800" channel="HOY TV">
+    <title lang="zh">100 樣可能</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208210000 +0800" stop="20251208213000 +0800" channel="HOY TV">
+    <title lang="zh">健康關注組</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208213000 +0800" stop="20251208220000 +0800" channel="HOY TV">
+    <title lang="zh">樂趣遊蹤</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208220000 +0800" stop="20251208230000 +0800" channel="HOY TV">
+    <title lang="zh">灰姑娘遊戲</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208230000 +0800" stop="20251208233000 +0800" channel="HOY TV">
+    <title lang="zh">2025殘特奧會精華</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251208233000 +0800" stop="20251209000000 +0800" channel="HOY TV">
+    <title lang="zh">有線新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209000000 +0800" stop="20251209001500 +0800" channel="HOY TV">
+    <title lang="zh">娛樂頭條 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209001500 +0800" stop="20251209004500 +0800" channel="HOY TV">
+    <title lang="zh">世食之味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209004500 +0800" stop="20251209010000 +0800" channel="HOY TV">
+    <title lang="zh">娛樂頭條 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209010000 +0800" stop="20251209030000 +0800" channel="HOY TV">
+    <title lang="zh">HOY 動音樂</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209030000 +0800" stop="20251209060000 +0800" channel="HOY TV">
+    <title lang="zh">魚樂無限</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209060000 +0800" stop="20251209070000 +0800" channel="HOY TV">
+    <title lang="zh">幸福大家姐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209070000 +0800" stop="20251209080000 +0800" channel="HOY TV">
+    <title lang="zh">長相思 第一季</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209080000 +0800" stop="20251209090000 +0800" channel="HOY TV">
+    <title lang="zh">會長的愛</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209090000 +0800" stop="20251209093000 +0800" channel="HOY TV">
+    <title lang="zh">開飯啦</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209093000 +0800" stop="20251209100000 +0800" channel="HOY TV">
+    <title lang="zh">Call的去開餐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209100000 +0800" stop="20251209103000 +0800" channel="HOY TV">
+    <title lang="zh">名廚私藏12味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209103000 +0800" stop="20251209113000 +0800" channel="HOY TV">
+    <title lang="zh">灰姑娘遊戲</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209113000 +0800" stop="20251209123000 +0800" channel="HOY TV">
+    <title lang="zh">幸福大家姐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209123000 +0800" stop="20251209130000 +0800" channel="HOY TV">
+    <title lang="zh">午間新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209130000 +0800" stop="20251209133000 +0800" channel="HOY TV">
+    <title lang="zh">中國光大集團呈獻 : 一線搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209133000 +0800" stop="20251209140000 +0800" channel="HOY TV">
+    <title lang="zh">100 樣可能</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209140000 +0800" stop="20251209143000 +0800" channel="HOY TV">
+    <title lang="zh">健康關注組</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209143000 +0800" stop="20251209150000 +0800" channel="HOY TV">
+    <title lang="zh">樂趣遊蹤</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209150000 +0800" stop="20251209153000 +0800" channel="HOY TV">
+    <title lang="zh">安居樂業</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209153000 +0800" stop="20251209160000 +0800" channel="HOY TV">
+    <title lang="zh">君九齡</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209160000 +0800" stop="20251209163000 +0800" channel="HOY TV">
+    <title lang="zh">100% 帕斯卡老師</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209163000 +0800" stop="20251209170000 +0800" channel="HOY TV">
+    <title lang="zh">地底小靈精</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209170000 +0800" stop="20251209173000 +0800" channel="HOY TV">
+    <title lang="zh">友夫日記</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209173000 +0800" stop="20251209180000 +0800" channel="HOY TV">
+    <title lang="zh">雷頓 不可思議偵探社 ～卡特莉的解謎事件簿～</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209180000 +0800" stop="20251209183000 +0800" channel="HOY TV">
+    <title lang="zh">世食之味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209183000 +0800" stop="20251209190000 +0800" channel="HOY TV">
+    <title lang="zh">名廚私藏12味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209190000 +0800" stop="20251209194500 +0800" channel="HOY TV">
+    <title lang="zh">7點直播室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209194500 +0800" stop="20251209195000 +0800" channel="HOY TV">
+    <title lang="zh">中國建設銀行(亞洲)呈獻 : 大國科技</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209195000 +0800" stop="20251209200000 +0800" channel="HOY TV">
+    <title lang="zh">28Hse特約 : 每日樓市</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209200000 +0800" stop="20251209203000 +0800" channel="HOY TV">
+    <title lang="zh">中國光大集團呈獻 : 一線搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209203000 +0800" stop="20251209210000 +0800" channel="HOY TV">
+    <title lang="zh">100 樣可能</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209210000 +0800" stop="20251209213000 +0800" channel="HOY TV">
+    <title lang="zh">健康關注組</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209213000 +0800" stop="20251209220000 +0800" channel="HOY TV">
+    <title lang="zh">樂趣遊蹤</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209220000 +0800" stop="20251209230000 +0800" channel="HOY TV">
+    <title lang="zh">灰姑娘遊戲</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209230000 +0800" stop="20251209233000 +0800" channel="HOY TV">
+    <title lang="zh">2025殘特奧會精華</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251209233000 +0800" stop="20251210000000 +0800" channel="HOY TV">
+    <title lang="zh">有線新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251210000000 +0800" stop="20251210001500 +0800" channel="HOY TV">
+    <title lang="zh">娛樂頭條 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251210001500 +0800" stop="20251210004500 +0800" channel="HOY TV">
+    <title lang="zh">世食之味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251210004500 +0800" stop="20251210010000 +0800" channel="HOY TV">
+    <title lang="zh">娛樂頭條 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251210010000 +0800" stop="20251210030000 +0800" channel="HOY TV">
+    <title lang="zh">HOY 動音樂</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251210030000 +0800" stop="20251210060000 +0800" channel="HOY TV">
+    <title lang="zh">魚樂無限</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251210060000 +0800" stop="20251210070000 +0800" channel="HOY TV">
+    <title lang="zh">幸福大家姐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251210070000 +0800" stop="20251210080000 +0800" channel="HOY TV">
+    <title lang="zh">長相思 第一季</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251210080000 +0800" stop="20251210090000 +0800" channel="HOY TV">
+    <title lang="zh">會長的愛</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251210090000 +0800" stop="20251210093000 +0800" channel="HOY TV">
+    <title lang="zh">開飯啦</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251210093000 +0800" stop="20251210100000 +0800" channel="HOY TV">
+    <title lang="zh">Call的去開餐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251210100000 +0800" stop="20251210103000 +0800" channel="HOY TV">
+    <title lang="zh">名廚私藏12味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251210103000 +0800" stop="20251210113000 +0800" channel="HOY TV">
+    <title lang="zh">灰姑娘遊戲</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251210113000 +0800" stop="20251210123000 +0800" channel="HOY TV">
+    <title lang="zh">幸福大家姐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251210123000 +0800" stop="20251210130000 +0800" channel="HOY TV">
+    <title lang="zh">午間新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251210130000 +0800" stop="20251210133000 +0800" channel="HOY TV">
+    <title lang="zh">中國光大集團呈獻 : 一線搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251210133000 +0800" stop="20251210140000 +0800" channel="HOY TV">
+    <title lang="zh">100 樣可能</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251210140000 +0800" stop="20251210143000 +0800" channel="HOY TV">
+    <title lang="zh">健康關注組</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251210143000 +0800" stop="20251210150000 +0800" channel="HOY TV">
+    <title lang="zh">樂趣遊蹤</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251210150000 +0800" stop="20251210153000 +0800" channel="HOY TV">
+    <title lang="zh">黑白大廚滋味行</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251210153000 +0800" stop="20251210160000 +0800" channel="HOY TV">
+    <title lang="zh">君九齡</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251210160000 +0800" stop="20251210163000 +0800" channel="HOY TV">
+    <title lang="zh">100% 帕斯卡老師</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251210163000 +0800" stop="20251210170000 +0800" channel="HOY TV">
+    <title lang="zh">地底小靈精</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251210170000 +0800" stop="20251210173000 +0800" channel="HOY TV">
+    <title lang="zh">友夫日記</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251210173000 +0800" stop="20251210180000 +0800" channel="HOY TV">
+    <title lang="zh">雷頓 不可思議偵探社 ～卡特莉的解謎事件簿～</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251210180000 +0800" stop="20251210183000 +0800" channel="HOY TV">
+    <title lang="zh">世食之味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251210183000 +0800" stop="20251210190000 +0800" channel="HOY TV">
+    <title lang="zh">名廚私藏12味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251210190000 +0800" stop="20251210195000 +0800" channel="HOY TV">
+    <title lang="zh">7點直播室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251210195000 +0800" stop="20251210200000 +0800" channel="HOY TV">
+    <title lang="zh">28Hse特約 : 每日樓市</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251210200000 +0800" stop="20251210203000 +0800" channel="HOY TV">
+    <title lang="zh">中國光大集團呈獻 : 一線搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251210203000 +0800" stop="20251210210000 +0800" channel="HOY TV">
+    <title lang="zh">100 樣可能</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251210210000 +0800" stop="20251210213000 +0800" channel="HOY TV">
+    <title lang="zh">健康關注組</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251210213000 +0800" stop="20251210220000 +0800" channel="HOY TV">
+    <title lang="zh">樂趣遊蹤</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251210220000 +0800" stop="20251210230000 +0800" channel="HOY TV">
+    <title lang="zh">灰姑娘遊戲</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251210230000 +0800" stop="20251210233000 +0800" channel="HOY TV">
+    <title lang="zh">2025殘特奧會精華</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251210233000 +0800" stop="20251211000000 +0800" channel="HOY TV">
+    <title lang="zh">有線新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251211000000 +0800" stop="20251211001500 +0800" channel="HOY TV">
+    <title lang="zh">娛樂頭條 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251211001500 +0800" stop="20251211004500 +0800" channel="HOY TV">
+    <title lang="zh">世食之味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251211004500 +0800" stop="20251211010000 +0800" channel="HOY TV">
+    <title lang="zh">娛樂頭條 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251211010000 +0800" stop="20251211030000 +0800" channel="HOY TV">
+    <title lang="zh">HOY 動音樂</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251211030000 +0800" stop="20251211060000 +0800" channel="HOY TV">
+    <title lang="zh">魚樂無限</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251211060000 +0800" stop="20251211070000 +0800" channel="HOY TV">
+    <title lang="zh">幸福大家姐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251211070000 +0800" stop="20251211080000 +0800" channel="HOY TV">
+    <title lang="zh">長相思 第一季</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251211080000 +0800" stop="20251211090000 +0800" channel="HOY TV">
+    <title lang="zh">會長的愛</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251211090000 +0800" stop="20251211093000 +0800" channel="HOY TV">
+    <title lang="zh">開飯啦</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251211093000 +0800" stop="20251211100000 +0800" channel="HOY TV">
+    <title lang="zh">Call的去開餐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251211100000 +0800" stop="20251211103000 +0800" channel="HOY TV">
+    <title lang="zh">名廚私藏12味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251211103000 +0800" stop="20251211113000 +0800" channel="HOY TV">
+    <title lang="zh">灰姑娘遊戲</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251211113000 +0800" stop="20251211123000 +0800" channel="HOY TV">
+    <title lang="zh">幸福大家姐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251211123000 +0800" stop="20251211130000 +0800" channel="HOY TV">
+    <title lang="zh">午間新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251211130000 +0800" stop="20251211133000 +0800" channel="HOY TV">
+    <title lang="zh">中國光大集團呈獻 : 一線搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251211133000 +0800" stop="20251211140000 +0800" channel="HOY TV">
+    <title lang="zh">100 樣可能</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251211140000 +0800" stop="20251211143000 +0800" channel="HOY TV">
+    <title lang="zh">健康關注組</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251211143000 +0800" stop="20251211150000 +0800" channel="HOY TV">
+    <title lang="zh">樂趣遊蹤</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251211150000 +0800" stop="20251211153000 +0800" channel="HOY TV">
+    <title lang="zh">自煮女人最漂亮</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251211153000 +0800" stop="20251211160000 +0800" channel="HOY TV">
+    <title lang="zh">君九齡</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251211160000 +0800" stop="20251211163000 +0800" channel="HOY TV">
+    <title lang="zh">100% 帕斯卡老師</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251211163000 +0800" stop="20251211170000 +0800" channel="HOY TV">
+    <title lang="zh">地底小靈精</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251211170000 +0800" stop="20251211173000 +0800" channel="HOY TV">
+    <title lang="zh">友夫日記</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251211173000 +0800" stop="20251211180000 +0800" channel="HOY TV">
+    <title lang="zh">雷頓 不可思議偵探社 ～卡特莉的解謎事件簿～</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251211180000 +0800" stop="20251211183000 +0800" channel="HOY TV">
+    <title lang="zh">世食之味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251211183000 +0800" stop="20251211190000 +0800" channel="HOY TV">
+    <title lang="zh">名廚私藏12味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251211190000 +0800" stop="20251211195000 +0800" channel="HOY TV">
+    <title lang="zh">7點直播室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251211195000 +0800" stop="20251211200000 +0800" channel="HOY TV">
+    <title lang="zh">28Hse特約 : 每日樓市</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251211200000 +0800" stop="20251211203000 +0800" channel="HOY TV">
+    <title lang="zh">中國光大集團呈獻 : 一線搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251211203000 +0800" stop="20251211210000 +0800" channel="HOY TV">
+    <title lang="zh">100 樣可能</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251211210000 +0800" stop="20251211213000 +0800" channel="HOY TV">
+    <title lang="zh">健康關注組</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251211213000 +0800" stop="20251211220000 +0800" channel="HOY TV">
+    <title lang="zh">來頓燒烤</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251211220000 +0800" stop="20251211230000 +0800" channel="HOY TV">
+    <title lang="zh">灰姑娘遊戲</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251211230000 +0800" stop="20251211233000 +0800" channel="HOY TV">
+    <title lang="zh">2025殘特奧會精華</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251211233000 +0800" stop="20251212000000 +0800" channel="HOY TV">
+    <title lang="zh">有線新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251212000000 +0800" stop="20251212001500 +0800" channel="HOY TV">
+    <title lang="zh">娛樂頭條 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251212001500 +0800" stop="20251212004500 +0800" channel="HOY TV">
+    <title lang="zh">世食之味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251212004500 +0800" stop="20251212010000 +0800" channel="HOY TV">
+    <title lang="zh">娛樂頭條 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251212010000 +0800" stop="20251212030000 +0800" channel="HOY TV">
+    <title lang="zh">HOY 動音樂</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251212030000 +0800" stop="20251212060000 +0800" channel="HOY TV">
+    <title lang="zh">魚樂無限</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251212060000 +0800" stop="20251212070000 +0800" channel="HOY TV">
+    <title lang="zh">幸福大家姐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251212070000 +0800" stop="20251212080000 +0800" channel="HOY TV">
+    <title lang="zh">長相思 第一季</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251212080000 +0800" stop="20251212090000 +0800" channel="HOY TV">
+    <title lang="zh">會長的愛</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251212090000 +0800" stop="20251212093000 +0800" channel="HOY TV">
+    <title lang="zh">開飯啦</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251212093000 +0800" stop="20251212100000 +0800" channel="HOY TV">
+    <title lang="zh">Call的去開餐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251212100000 +0800" stop="20251212103000 +0800" channel="HOY TV">
+    <title lang="zh">名廚私藏12味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251212103000 +0800" stop="20251212113000 +0800" channel="HOY TV">
+    <title lang="zh">灰姑娘遊戲</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251212113000 +0800" stop="20251212123000 +0800" channel="HOY TV">
+    <title lang="zh">幸福大家姐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251212123000 +0800" stop="20251212130000 +0800" channel="HOY TV">
+    <title lang="zh">午間新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251212130000 +0800" stop="20251212133000 +0800" channel="HOY TV">
+    <title lang="zh">中國光大集團呈獻 : 一線搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251212133000 +0800" stop="20251212140000 +0800" channel="HOY TV">
+    <title lang="zh">100 樣可能</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251212140000 +0800" stop="20251212143000 +0800" channel="HOY TV">
+    <title lang="zh">健康關注組</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251212143000 +0800" stop="20251212150000 +0800" channel="HOY TV">
+    <title lang="zh">來頓燒烤</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251212150000 +0800" stop="20251212153000 +0800" channel="HOY TV">
+    <title lang="zh">曬Ya馬拉Moi</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251212153000 +0800" stop="20251212160000 +0800" channel="HOY TV">
+    <title lang="zh">君九齡</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251212160000 +0800" stop="20251212163000 +0800" channel="HOY TV">
+    <title lang="zh">100% 帕斯卡老師</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251212163000 +0800" stop="20251212170000 +0800" channel="HOY TV">
+    <title lang="zh">地底小靈精</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251212170000 +0800" stop="20251212173000 +0800" channel="HOY TV">
+    <title lang="zh">友夫日記</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251212173000 +0800" stop="20251212180000 +0800" channel="HOY TV">
+    <title lang="zh">雷頓 不可思議偵探社 ～卡特莉的解謎事件簿～</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251212180000 +0800" stop="20251212183000 +0800" channel="HOY TV">
+    <title lang="zh">世食之味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251212183000 +0800" stop="20251212190000 +0800" channel="HOY TV">
+    <title lang="zh">名廚私藏12味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251212190000 +0800" stop="20251212195000 +0800" channel="HOY TV">
+    <title lang="zh">7點直播室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251212195000 +0800" stop="20251212200000 +0800" channel="HOY TV">
+    <title lang="zh">28Hse特約 : 每日樓市</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251212200000 +0800" stop="20251212203000 +0800" channel="HOY TV">
+    <title lang="zh">中國光大集團呈獻 : 一線搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251212203000 +0800" stop="20251212210000 +0800" channel="HOY TV">
+    <title lang="zh">100 樣可能</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251212210000 +0800" stop="20251212213000 +0800" channel="HOY TV">
+    <title lang="zh">健康關注組</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251212213000 +0800" stop="20251212220000 +0800" channel="HOY TV">
+    <title lang="zh">來頓燒烤</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251212220000 +0800" stop="20251212230000 +0800" channel="HOY TV">
+    <title lang="zh">灰姑娘遊戲</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251212230000 +0800" stop="20251212233000 +0800" channel="HOY TV">
+    <title lang="zh">2025殘特奧會精華</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251212233000 +0800" stop="20251213000000 +0800" channel="HOY TV">
+    <title lang="zh">有線新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251213000000 +0800" stop="20251213001500 +0800" channel="HOY TV">
+    <title lang="zh">娛樂頭條 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251213001500 +0800" stop="20251213004500 +0800" channel="HOY TV">
+    <title lang="zh">世食之味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251213004500 +0800" stop="20251213010000 +0800" channel="HOY TV">
+    <title lang="zh">娛樂頭條 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251213010000 +0800" stop="20251213030000 +0800" channel="HOY TV">
+    <title lang="zh">HOY 動音樂</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251213030000 +0800" stop="20251213060000 +0800" channel="HOY TV">
+    <title lang="zh">魚樂無限</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251213060000 +0800" stop="20251213070000 +0800" channel="HOY TV">
+    <title lang="zh">道地蜂蜜綠茶特約 : 健康原因講多D</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251213070000 +0800" stop="20251213090000 +0800" channel="HOY TV">
+    <title lang="zh">Running Man</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251213090000 +0800" stop="20251213100000 +0800" channel="HOY TV">
+    <title lang="zh">島上的神奇婆婆2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251213100000 +0800" stop="20251213103000 +0800" channel="HOY TV">
+    <title lang="zh">名廚私藏12味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251213103000 +0800" stop="20251213113000 +0800" channel="HOY TV">
+    <title lang="zh">宜居住遊行</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251213113000 +0800" stop="20251213123000 +0800" channel="HOY TV">
+    <title lang="zh">立邦抗甲醛淨味兒童漆系列特約 : 空間改造王</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251213123000 +0800" stop="20251213130500 +0800" channel="HOY TV">
+    <title lang="zh">午間新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251213130500 +0800" stop="20251213133000 +0800" channel="HOY TV">
+    <title lang="zh">中國光大集團呈獻 : 一線搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251213133000 +0800" stop="20251213140000 +0800" channel="HOY TV">
+    <title lang="zh">名廚秘方</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251213140000 +0800" stop="20251213150000 +0800" channel="HOY TV">
+    <title lang="zh">勁食拉麵大對戰</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251213150000 +0800" stop="20251213153000 +0800" channel="HOY TV">
+    <title lang="zh">嘻哈馬場</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251213153000 +0800" stop="20251213160000 +0800" channel="HOY TV">
+    <title lang="zh">活出真我</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251213160000 +0800" stop="20251213163000 +0800" channel="HOY TV">
+    <title lang="zh">美斯的奧奇島</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251213163000 +0800" stop="20251213170000 +0800" channel="HOY TV">
+    <title lang="zh">汪汪隊立大功</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251213170000 +0800" stop="20251213180000 +0800" channel="HOY TV">
+    <title lang="zh">香料貿易之路</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251213180000 +0800" stop="20251213183000 +0800" channel="HOY TV">
+    <title lang="zh">上海工匠</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251213183000 +0800" stop="20251213190000 +0800" channel="HOY TV">
+    <title lang="zh">馬時亨．獅子山精神</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251213190000 +0800" stop="20251213193000 +0800" channel="HOY TV">
+    <title lang="zh">7點直播室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251213193000 +0800" stop="20251213200000 +0800" channel="HOY TV">
+    <title lang="zh">共享滋味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251213200000 +0800" stop="20251213203000 +0800" channel="HOY TV">
+    <title lang="zh">安居樂業</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251213203000 +0800" stop="20251213213000 +0800" channel="HOY TV">
+    <title lang="zh">山旮旯睇樓團</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251213213000 +0800" stop="20251213220000 +0800" channel="HOY TV">
+    <title lang="zh">香港保險業聯會呈獻 : In Café 健康．保障360</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251213220000 +0800" stop="20251213230000 +0800" channel="HOY TV">
+    <title lang="zh">道地蜂蜜綠茶特約 : 健康原因講多D</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251213230000 +0800" stop="20251213233000 +0800" channel="HOY TV">
+    <title lang="zh">2025殘特奧會精華</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251213233000 +0800" stop="20251214000000 +0800" channel="HOY TV">
+    <title lang="zh">有線新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251214000000 +0800" stop="20251214003000 +0800" channel="HOY TV">
+    <title lang="zh">HOY娛樂一周</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251214003000 +0800" stop="20251214010000 +0800" channel="HOY TV">
+    <title lang="zh">英國邊忽好</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251214010000 +0800" stop="20251214030000 +0800" channel="HOY TV">
+    <title lang="zh">HOY 動音樂</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251214030000 +0800" stop="20251214060000 +0800" channel="HOY TV">
+    <title lang="zh">魚樂無限</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251214060000 +0800" stop="20251214070000 +0800" channel="HOY TV">
+    <title lang="zh">島上的神奇婆婆2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251214070000 +0800" stop="20251214080000 +0800" channel="HOY TV">
+    <title lang="zh">香料貿易之路</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251214080000 +0800" stop="20251214090000 +0800" channel="HOY TV">
+    <title lang="zh">童班同學</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251214090000 +0800" stop="20251214100000 +0800" channel="HOY TV">
+    <title lang="zh">道地蜂蜜綠茶特約 : 健康原因講多D</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251214100000 +0800" stop="20251214103000 +0800" channel="HOY TV">
+    <title lang="zh">香港保險業聯會呈獻 : In Café 健康．保障360</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251214103000 +0800" stop="20251214110000 +0800" channel="HOY TV">
+    <title lang="zh">四處首羅</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251214110000 +0800" stop="20251214120000 +0800" channel="HOY TV">
+    <title lang="zh">山旮旯睇樓團</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251214120000 +0800" stop="20251214123000 +0800" channel="HOY TV">
+    <title lang="zh">HOY娛樂一周</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251214123000 +0800" stop="20251214125500 +0800" channel="HOY TV">
+    <title lang="zh">午間新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251214125500 +0800" stop="20251214130500 +0800" channel="HOY TV">
+    <title lang="zh">東方表行Take Your Time 特約 : 一刻．時光</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251214130500 +0800" stop="20251214140000 +0800" channel="HOY TV">
+    <title lang="zh">道地星期日影院 : 女王之家</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251214140000 +0800" stop="20251214150000 +0800" channel="HOY TV">
+    <title lang="zh">道地星期日影院 : 女王之家</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251214150000 +0800" stop="20251214153000 +0800" channel="HOY TV">
+    <title lang="zh">下一站，前海—港人北上創業紀事</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251214153000 +0800" stop="20251214160000 +0800" channel="HOY TV">
+    <title lang="zh">共享滋味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251214160000 +0800" stop="20251214163000 +0800" channel="HOY TV">
+    <title lang="zh">美斯的奧奇島</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251214163000 +0800" stop="20251214170000 +0800" channel="HOY TV">
+    <title lang="zh">汪汪隊立大功</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251214170000 +0800" stop="20251214180000 +0800" channel="HOY TV">
+    <title lang="zh">童班同學</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251214180000 +0800" stop="20251214183000 +0800" channel="HOY TV">
+    <title lang="zh">靈感·大灣區</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251214183000 +0800" stop="20251214190000 +0800" channel="HOY TV">
+    <title lang="zh">AI 數啟未來</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251214190000 +0800" stop="20251214193000 +0800" channel="HOY TV">
+    <title lang="zh">7點直播室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251214193000 +0800" stop="20251214200000 +0800" channel="HOY TV">
+    <title lang="zh">五平方Squarefoot特約 : 樓盤傳真</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251214200000 +0800" stop="20251214210000 +0800" channel="HOY TV">
+    <title lang="zh">立邦抗甲醛淨味兒童漆系列特約 : 空間改造王</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251214210000 +0800" stop="20251214213000 +0800" channel="HOY TV">
+    <title lang="zh">畀你食住賺回贈嘅WeWa卡呈獻 : 餓底家家走</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251214213000 +0800" stop="20251214220000 +0800" channel="HOY TV">
+    <title lang="zh">精明買手</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251214220000 +0800" stop="20251214223000 +0800" channel="HOY TV">
+    <title lang="zh">一流料理人</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251214223000 +0800" stop="20251214230000 +0800" channel="HOY TV">
+    <title lang="zh">日本奇職</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251214230000 +0800" stop="20251214233000 +0800" channel="HOY TV">
+    <title lang="zh">2025殘特奧會精華</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251214233000 +0800" stop="20251214235500 +0800" channel="HOY TV">
+    <title lang="zh">有線新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251214235500 +0800" stop="20251215000000 +0800" channel="HOY TV">
+    <title lang="zh">東方表行Take Your Time 特約 : 一刻．時光</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251215000000 +0800" stop="20251215003000 +0800" channel="HOY TV">
+    <title lang="zh">嘻哈馬場</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251215003000 +0800" stop="20251215010000 +0800" channel="HOY TV">
+    <title lang="zh">五平方Squarefoot特約 : 樓盤傳真</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251215010000 +0800" stop="20251215030000 +0800" channel="HOY TV">
+    <title lang="zh">HOY 動音樂</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251215030000 +0800" stop="20251215060000 +0800" channel="HOY TV">
+    <title lang="zh">魚樂無限</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251215060000 +0800" stop="20251215070000 +0800" channel="HOY TV">
+    <title lang="zh">幸福大家姐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251215070000 +0800" stop="20251215080000 +0800" channel="HOY TV">
+    <title lang="zh">長相思 第一季</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251215080000 +0800" stop="20251215090000 +0800" channel="HOY TV">
+    <title lang="zh">會長的愛</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251215090000 +0800" stop="20251215093000 +0800" channel="HOY TV">
+    <title lang="zh">開飯啦</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251215093000 +0800" stop="20251215100000 +0800" channel="HOY TV">
+    <title lang="zh">Call的去開餐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251215100000 +0800" stop="20251215103000 +0800" channel="HOY TV">
+    <title lang="zh">一流料理人</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251215103000 +0800" stop="20251215113000 +0800" channel="HOY TV">
+    <title lang="zh">灰姑娘遊戲</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251215113000 +0800" stop="20251215123000 +0800" channel="HOY TV">
+    <title lang="zh">幸福大家姐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251215123000 +0800" stop="20251215130000 +0800" channel="HOY TV">
+    <title lang="zh">午間新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251215130000 +0800" stop="20251215133000 +0800" channel="HOY TV">
+    <title lang="zh">大匠之峰</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251215133000 +0800" stop="20251215140000 +0800" channel="HOY TV">
+    <title lang="zh">100 樣可能</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251215140000 +0800" stop="20251215143000 +0800" channel="HOY TV">
+    <title lang="zh">健康關注組</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251215143000 +0800" stop="20251215150000 +0800" channel="HOY TV">
+    <title lang="zh">來頓燒烤</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251215150000 +0800" stop="20251215153000 +0800" channel="HOY TV">
+    <title lang="zh">畀你食住賺回贈嘅WeWa卡呈獻 : 餓底家家走</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251215153000 +0800" stop="20251215160000 +0800" channel="HOY TV">
+    <title lang="zh">君九齡</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251215160000 +0800" stop="20251215163000 +0800" channel="HOY TV">
+    <title lang="zh">100% 帕斯卡老師</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251215163000 +0800" stop="20251215170000 +0800" channel="HOY TV">
+    <title lang="zh">地底小靈精</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251215170000 +0800" stop="20251215173000 +0800" channel="HOY TV">
+    <title lang="zh">友夫日記</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251215173000 +0800" stop="20251215180000 +0800" channel="HOY TV">
+    <title lang="zh">雷頓 不可思議偵探社 ～卡特莉的解謎事件簿～</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251215180000 +0800" stop="20251215183000 +0800" channel="HOY TV">
+    <title lang="zh">世食之味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251215183000 +0800" stop="20251215190000 +0800" channel="HOY TV">
+    <title lang="zh">升級美食</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251215190000 +0800" stop="20251215195000 +0800" channel="HOY TV">
+    <title lang="zh">7點直播室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251215195000 +0800" stop="20251215200000 +0800" channel="HOY TV">
+    <title lang="zh">28Hse特約 : 每日樓市</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251215200000 +0800" stop="20251215203000 +0800" channel="HOY TV">
+    <title lang="zh">中國光大集團呈獻 : 一線搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251215203000 +0800" stop="20251215210000 +0800" channel="HOY TV">
+    <title lang="zh">100 樣可能</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251215210000 +0800" stop="20251215213000 +0800" channel="HOY TV">
+    <title lang="zh">健康關注組</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251215213000 +0800" stop="20251215220000 +0800" channel="HOY TV">
+    <title lang="zh">亞洲美食巡禮</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251215220000 +0800" stop="20251215230000 +0800" channel="HOY TV">
+    <title lang="zh">灰姑娘遊戲</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251215230000 +0800" stop="20251215233000 +0800" channel="HOY TV">
+    <title lang="zh">2025殘特奧會精華</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251215233000 +0800" stop="20251216000000 +0800" channel="HOY TV">
+    <title lang="zh">有線新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251216000000 +0800" stop="20251216001500 +0800" channel="HOY TV">
+    <title lang="zh">娛樂頭條 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251216001500 +0800" stop="20251216004500 +0800" channel="HOY TV">
+    <title lang="zh">世食之味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251216004500 +0800" stop="20251216010000 +0800" channel="HOY TV">
+    <title lang="zh">娛樂頭條 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251216010000 +0800" stop="20251216030000 +0800" channel="HOY TV">
+    <title lang="zh">HOY 動音樂</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251216030000 +0800" stop="20251216060000 +0800" channel="HOY TV">
+    <title lang="zh">魚樂無限</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251216060000 +0800" stop="20251216070000 +0800" channel="HOY TV">
+    <title lang="zh">幸福大家姐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251216070000 +0800" stop="20251216075500 +0800" channel="HOY TV">
+    <title lang="zh">長相思 第一季</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251216075500 +0800" stop="20251216080000 +0800" channel="HOY TV">
+    <title lang="zh">中國建設銀行(亞洲)呈獻 : 走過2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251216080000 +0800" stop="20251216090000 +0800" channel="HOY TV">
+    <title lang="zh">會長的愛</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251216090000 +0800" stop="20251216093000 +0800" channel="HOY TV">
+    <title lang="zh">開飯啦</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251216093000 +0800" stop="20251216100000 +0800" channel="HOY TV">
+    <title lang="zh">Call的去開餐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251216100000 +0800" stop="20251216102500 +0800" channel="HOY TV">
+    <title lang="zh">升級美食</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251216102500 +0800" stop="20251216103000 +0800" channel="HOY TV">
+    <title lang="zh">中國建設銀行(亞洲)呈獻 : 走過2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251216103000 +0800" stop="20251216113000 +0800" channel="HOY TV">
+    <title lang="zh">灰姑娘遊戲</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251216113000 +0800" stop="20251216123000 +0800" channel="HOY TV">
+    <title lang="zh">幸福大家姐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251216123000 +0800" stop="20251216125500 +0800" channel="HOY TV">
+    <title lang="zh">午間新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251216125500 +0800" stop="20251216130000 +0800" channel="HOY TV">
+    <title lang="zh">中國建設銀行(亞洲)呈獻 : 走過2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251216130000 +0800" stop="20251216133000 +0800" channel="HOY TV">
+    <title lang="zh">中國光大集團呈獻 : 一線搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251216133000 +0800" stop="20251216140000 +0800" channel="HOY TV">
+    <title lang="zh">100 樣可能</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251216140000 +0800" stop="20251216143000 +0800" channel="HOY TV">
+    <title lang="zh">健康關注組</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251216143000 +0800" stop="20251216150000 +0800" channel="HOY TV">
+    <title lang="zh">亞洲美食巡禮</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251216150000 +0800" stop="20251216153000 +0800" channel="HOY TV">
+    <title lang="zh">安居樂業</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251216153000 +0800" stop="20251216160000 +0800" channel="HOY TV">
+    <title lang="zh">君九齡</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251216160000 +0800" stop="20251216163000 +0800" channel="HOY TV">
+    <title lang="zh">100% 帕斯卡老師</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251216163000 +0800" stop="20251216170000 +0800" channel="HOY TV">
+    <title lang="zh">地底小靈精</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251216170000 +0800" stop="20251216173000 +0800" channel="HOY TV">
+    <title lang="zh">友夫日記</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251216173000 +0800" stop="20251216180000 +0800" channel="HOY TV">
+    <title lang="zh">雷頓 不可思議偵探社 ～卡特莉的解謎事件簿～</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251216180000 +0800" stop="20251216183000 +0800" channel="HOY TV">
+    <title lang="zh">世食之味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251216183000 +0800" stop="20251216190000 +0800" channel="HOY TV">
+    <title lang="zh">升級美食</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251216190000 +0800" stop="20251216194000 +0800" channel="HOY TV">
+    <title lang="zh">7點直播室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251216194000 +0800" stop="20251216194500 +0800" channel="HOY TV">
+    <title lang="zh">中國建設銀行(亞洲)呈獻 : 大國科技</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251216194500 +0800" stop="20251216195500 +0800" channel="HOY TV">
+    <title lang="zh">28Hse特約 : 每日樓市</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251216195500 +0800" stop="20251216200000 +0800" channel="HOY TV">
+    <title lang="zh">中國建設銀行(亞洲)呈獻 : 走過2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251216200000 +0800" stop="20251216203000 +0800" channel="HOY TV">
+    <title lang="zh">中國光大集團呈獻 : 一線搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251216203000 +0800" stop="20251216210000 +0800" channel="HOY TV">
+    <title lang="zh">100 樣可能</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251216210000 +0800" stop="20251216213000 +0800" channel="HOY TV">
+    <title lang="zh">健康關注組</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251216213000 +0800" stop="20251216220000 +0800" channel="HOY TV">
+    <title lang="zh">亞洲美食巡禮</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251216220000 +0800" stop="20251216230000 +0800" channel="HOY TV">
+    <title lang="zh">灰姑娘遊戲</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251216230000 +0800" stop="20251216233000 +0800" channel="HOY TV">
+    <title lang="zh">有線新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251216233000 +0800" stop="20251216234500 +0800" channel="HOY TV">
+    <title lang="zh">娛樂頭條 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251216234500 +0800" stop="20251217001500 +0800" channel="HOY TV">
+    <title lang="zh">開飯啦</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251217001500 +0800" stop="20251217004500 +0800" channel="HOY TV">
+    <title lang="zh">世食之味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251217004500 +0800" stop="20251217010000 +0800" channel="HOY TV">
+    <title lang="zh">娛樂頭條 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251217010000 +0800" stop="20251217030000 +0800" channel="HOY TV">
+    <title lang="zh">HOY 動音樂</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251217030000 +0800" stop="20251217060000 +0800" channel="HOY TV">
+    <title lang="zh">魚樂無限</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251217060000 +0800" stop="20251217070000 +0800" channel="HOY TV">
+    <title lang="zh">幸福大家姐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251217070000 +0800" stop="20251217075500 +0800" channel="HOY TV">
+    <title lang="zh">長相思 第一季</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251217075500 +0800" stop="20251217080000 +0800" channel="HOY TV">
+    <title lang="zh">中國建設銀行(亞洲)呈獻 : 走過2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251217080000 +0800" stop="20251217090000 +0800" channel="HOY TV">
+    <title lang="zh">會長的愛</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251217090000 +0800" stop="20251217093000 +0800" channel="HOY TV">
+    <title lang="zh">開飯啦</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251217093000 +0800" stop="20251217100000 +0800" channel="HOY TV">
+    <title lang="zh">Call的去開餐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251217100000 +0800" stop="20251217102500 +0800" channel="HOY TV">
+    <title lang="zh">升級美食</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251217102500 +0800" stop="20251217103000 +0800" channel="HOY TV">
+    <title lang="zh">中國建設銀行(亞洲)呈獻 : 走過2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251217103000 +0800" stop="20251217113000 +0800" channel="HOY TV">
+    <title lang="zh">灰姑娘遊戲</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251217113000 +0800" stop="20251217123000 +0800" channel="HOY TV">
+    <title lang="zh">幸福大家姐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251217123000 +0800" stop="20251217125500 +0800" channel="HOY TV">
+    <title lang="zh">午間新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251217125500 +0800" stop="20251217130000 +0800" channel="HOY TV">
+    <title lang="zh">中國建設銀行(亞洲)呈獻 : 走過2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251217130000 +0800" stop="20251217133000 +0800" channel="HOY TV">
+    <title lang="zh">中國光大集團呈獻 : 一線搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251217133000 +0800" stop="20251217140000 +0800" channel="HOY TV">
+    <title lang="zh">100 樣可能</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251217140000 +0800" stop="20251217143000 +0800" channel="HOY TV">
+    <title lang="zh">健康關注組</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251217143000 +0800" stop="20251217150000 +0800" channel="HOY TV">
+    <title lang="zh">亞洲美食巡禮</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251217150000 +0800" stop="20251217153000 +0800" channel="HOY TV">
+    <title lang="zh">黑白大廚滋味行</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251217153000 +0800" stop="20251217160000 +0800" channel="HOY TV">
+    <title lang="zh">君九齡</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251217160000 +0800" stop="20251217163000 +0800" channel="HOY TV">
+    <title lang="zh">柚木家的四兄弟</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251217163000 +0800" stop="20251217170000 +0800" channel="HOY TV">
+    <title lang="zh">地底小靈精</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251217170000 +0800" stop="20251217173000 +0800" channel="HOY TV">
+    <title lang="zh">友夫日記</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251217173000 +0800" stop="20251217180000 +0800" channel="HOY TV">
+    <title lang="zh">雷頓 不可思議偵探社 ～卡特莉的解謎事件簿～</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251217180000 +0800" stop="20251217183000 +0800" channel="HOY TV">
+    <title lang="zh">世食之味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251217183000 +0800" stop="20251217190000 +0800" channel="HOY TV">
+    <title lang="zh">升級美食</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251217190000 +0800" stop="20251217195000 +0800" channel="HOY TV">
+    <title lang="zh">7點直播室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251217195000 +0800" stop="20251217195500 +0800" channel="HOY TV">
+    <title lang="zh">28Hse特約 : 每日樓市</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251217195500 +0800" stop="20251217200000 +0800" channel="HOY TV">
+    <title lang="zh">中國建設銀行(亞洲)呈獻 : 走過2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251217200000 +0800" stop="20251217203000 +0800" channel="HOY TV">
+    <title lang="zh">中國光大集團呈獻 : 一線搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251217203000 +0800" stop="20251217210000 +0800" channel="HOY TV">
+    <title lang="zh">100 樣可能</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251217210000 +0800" stop="20251217213000 +0800" channel="HOY TV">
+    <title lang="zh">健康關注組</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251217213000 +0800" stop="20251217220000 +0800" channel="HOY TV">
+    <title lang="zh">亞洲美食巡禮</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251217220000 +0800" stop="20251217230000 +0800" channel="HOY TV">
+    <title lang="zh">灰姑娘遊戲</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251217230000 +0800" stop="20251217233000 +0800" channel="HOY TV">
+    <title lang="zh">有線新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251217233000 +0800" stop="20251217234500 +0800" channel="HOY TV">
+    <title lang="zh">娛樂頭條 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251217234500 +0800" stop="20251218001500 +0800" channel="HOY TV">
+    <title lang="zh">開飯啦</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218001500 +0800" stop="20251218004500 +0800" channel="HOY TV">
+    <title lang="zh">世食之味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218004500 +0800" stop="20251218010000 +0800" channel="HOY TV">
+    <title lang="zh">娛樂頭條 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218010000 +0800" stop="20251218030000 +0800" channel="HOY TV">
+    <title lang="zh">HOY 動音樂</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218030000 +0800" stop="20251218060000 +0800" channel="HOY TV">
+    <title lang="zh">魚樂無限</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218060000 +0800" stop="20251218070000 +0800" channel="HOY TV">
+    <title lang="zh">幸福大家姐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218070000 +0800" stop="20251218075500 +0800" channel="HOY TV">
+    <title lang="zh">長相思 第一季</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218075500 +0800" stop="20251218080000 +0800" channel="HOY TV">
+    <title lang="zh">中國建設銀行(亞洲)呈獻 : 走過2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218080000 +0800" stop="20251218090000 +0800" channel="HOY TV">
+    <title lang="zh">會長的愛</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218090000 +0800" stop="20251218093000 +0800" channel="HOY TV">
+    <title lang="zh">開飯啦</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218093000 +0800" stop="20251218100000 +0800" channel="HOY TV">
+    <title lang="zh">Call的去開餐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218100000 +0800" stop="20251218102500 +0800" channel="HOY TV">
+    <title lang="zh">升級美食</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218102500 +0800" stop="20251218103000 +0800" channel="HOY TV">
+    <title lang="zh">中國建設銀行(亞洲)呈獻 : 走過2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218103000 +0800" stop="20251218113000 +0800" channel="HOY TV">
+    <title lang="zh">灰姑娘遊戲</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218113000 +0800" stop="20251218123000 +0800" channel="HOY TV">
+    <title lang="zh">幸福大家姐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218123000 +0800" stop="20251218125500 +0800" channel="HOY TV">
+    <title lang="zh">午間新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218125500 +0800" stop="20251218130000 +0800" channel="HOY TV">
+    <title lang="zh">中國建設銀行(亞洲)呈獻 : 走過2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218130000 +0800" stop="20251218133000 +0800" channel="HOY TV">
+    <title lang="zh">中國光大集團呈獻 : 一線搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218133000 +0800" stop="20251218140000 +0800" channel="HOY TV">
+    <title lang="zh">100 樣可能</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218140000 +0800" stop="20251218143000 +0800" channel="HOY TV">
+    <title lang="zh">健康關注組</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218143000 +0800" stop="20251218150000 +0800" channel="HOY TV">
+    <title lang="zh">亞洲美食巡禮</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218150000 +0800" stop="20251218153000 +0800" channel="HOY TV">
+    <title lang="zh">自煮女人最漂亮</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218153000 +0800" stop="20251218160000 +0800" channel="HOY TV">
+    <title lang="zh">君九齡</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218160000 +0800" stop="20251218163000 +0800" channel="HOY TV">
+    <title lang="zh">柚木家的四兄弟</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218163000 +0800" stop="20251218170000 +0800" channel="HOY TV">
+    <title lang="zh">地底小靈精</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218170000 +0800" stop="20251218173000 +0800" channel="HOY TV">
+    <title lang="zh">友夫日記</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218173000 +0800" stop="20251218180000 +0800" channel="HOY TV">
+    <title lang="zh">雷頓 不可思議偵探社 ～卡特莉的解謎事件簿～</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218180000 +0800" stop="20251218183000 +0800" channel="HOY TV">
+    <title lang="zh">世食之味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218183000 +0800" stop="20251218190000 +0800" channel="HOY TV">
+    <title lang="zh">升級美食</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218190000 +0800" stop="20251218195000 +0800" channel="HOY TV">
+    <title lang="zh">7點直播室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218195000 +0800" stop="20251218195500 +0800" channel="HOY TV">
+    <title lang="zh">28Hse特約 : 每日樓市</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218195500 +0800" stop="20251218200000 +0800" channel="HOY TV">
+    <title lang="zh">中國建設銀行(亞洲)呈獻 : 走過2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218200000 +0800" stop="20251218203000 +0800" channel="HOY TV">
+    <title lang="zh">中國光大集團呈獻 : 一線搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218203000 +0800" stop="20251218210000 +0800" channel="HOY TV">
+    <title lang="zh">100 樣可能</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218210000 +0800" stop="20251218213000 +0800" channel="HOY TV">
+    <title lang="zh">健康關注組</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218213000 +0800" stop="20251218220000 +0800" channel="HOY TV">
+    <title lang="zh">亞洲美食巡禮</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218220000 +0800" stop="20251218230000 +0800" channel="HOY TV">
+    <title lang="zh">灰姑娘遊戲</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218230000 +0800" stop="20251218233000 +0800" channel="HOY TV">
+    <title lang="zh">有線新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218233000 +0800" stop="20251218234500 +0800" channel="HOY TV">
+    <title lang="zh">娛樂頭條 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218234500 +0800" stop="20251219001500 +0800" channel="HOY TV">
+    <title lang="zh">開飯啦</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219001500 +0800" stop="20251219004500 +0800" channel="HOY TV">
+    <title lang="zh">世食之味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219004500 +0800" stop="20251219010000 +0800" channel="HOY TV">
+    <title lang="zh">娛樂頭條 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219010000 +0800" stop="20251219030000 +0800" channel="HOY TV">
+    <title lang="zh">HOY 動音樂</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219030000 +0800" stop="20251219060000 +0800" channel="HOY TV">
+    <title lang="zh">魚樂無限</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219060000 +0800" stop="20251219070000 +0800" channel="HOY TV">
+    <title lang="zh">幸福大家姐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219070000 +0800" stop="20251219075500 +0800" channel="HOY TV">
+    <title lang="zh">長相思 第一季</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219075500 +0800" stop="20251219080000 +0800" channel="HOY TV">
+    <title lang="zh">中國建設銀行(亞洲)呈獻 : 走過2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219080000 +0800" stop="20251219090000 +0800" channel="HOY TV">
+    <title lang="zh">會長的愛</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219090000 +0800" stop="20251219093000 +0800" channel="HOY TV">
+    <title lang="zh">開飯啦</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219093000 +0800" stop="20251219100000 +0800" channel="HOY TV">
+    <title lang="zh">Call的去開餐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219100000 +0800" stop="20251219102500 +0800" channel="HOY TV">
+    <title lang="zh">升級美食</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219102500 +0800" stop="20251219103000 +0800" channel="HOY TV">
+    <title lang="zh">中國建設銀行(亞洲)呈獻 : 走過2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219103000 +0800" stop="20251219113000 +0800" channel="HOY TV">
+    <title lang="zh">灰姑娘遊戲</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219113000 +0800" stop="20251219123000 +0800" channel="HOY TV">
+    <title lang="zh">幸福大家姐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219123000 +0800" stop="20251219125500 +0800" channel="HOY TV">
+    <title lang="zh">午間新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219125500 +0800" stop="20251219130000 +0800" channel="HOY TV">
+    <title lang="zh">中國建設銀行(亞洲)呈獻 : 走過2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219130000 +0800" stop="20251219133000 +0800" channel="HOY TV">
+    <title lang="zh">中國光大集團呈獻 : 一線搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219133000 +0800" stop="20251219140000 +0800" channel="HOY TV">
+    <title lang="zh">100 樣可能</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219140000 +0800" stop="20251219143000 +0800" channel="HOY TV">
+    <title lang="zh">健康關注組</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219143000 +0800" stop="20251219150000 +0800" channel="HOY TV">
+    <title lang="zh">亞洲美食巡禮</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219150000 +0800" stop="20251219153000 +0800" channel="HOY TV">
+    <title lang="zh">曬Ya馬拉Moi</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219153000 +0800" stop="20251219155500 +0800" channel="HOY TV">
+    <title lang="zh">君九齡</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219155500 +0800" stop="20251219180000 +0800" channel="HOY TV">
+    <title lang="zh">澳洲女子職業足球聯賽 - 紐卡素噴射機 對 墨爾本勝利</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219180000 +0800" stop="20251219183000 +0800" channel="HOY TV">
+    <title lang="zh">世食之味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219183000 +0800" stop="20251219190000 +0800" channel="HOY TV">
+    <title lang="zh">升級美食</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219190000 +0800" stop="20251219195000 +0800" channel="HOY TV">
+    <title lang="zh">7點直播室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219195000 +0800" stop="20251219195500 +0800" channel="HOY TV">
+    <title lang="zh">28Hse特約 : 每日樓市</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219195500 +0800" stop="20251219200000 +0800" channel="HOY TV">
+    <title lang="zh">中國建設銀行(亞洲)呈獻 : 走過2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219200000 +0800" stop="20251219203000 +0800" channel="HOY TV">
+    <title lang="zh">中國光大集團呈獻 : 一線搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219203000 +0800" stop="20251219210000 +0800" channel="HOY TV">
+    <title lang="zh">100 樣可能</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219210000 +0800" stop="20251219213000 +0800" channel="HOY TV">
+    <title lang="zh">健康關注組</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219213000 +0800" stop="20251219220000 +0800" channel="HOY TV">
+    <title lang="zh">亞洲美食巡禮</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219220000 +0800" stop="20251219230000 +0800" channel="HOY TV">
+    <title lang="zh">灰姑娘遊戲</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219230000 +0800" stop="20251219233000 +0800" channel="HOY TV">
+    <title lang="zh">有線新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219233000 +0800" stop="20251219234500 +0800" channel="HOY TV">
+    <title lang="zh">娛樂頭條 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219234500 +0800" stop="20251220001500 +0800" channel="HOY TV">
+    <title lang="zh">開飯啦</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251220001500 +0800" stop="20251220004500 +0800" channel="HOY TV">
+    <title lang="zh">世食之味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251220004500 +0800" stop="20251220010000 +0800" channel="HOY TV">
+    <title lang="zh">娛樂頭條 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251220010000 +0800" stop="20251220030000 +0800" channel="HOY TV">
+    <title lang="zh">HOY 動音樂</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251220030000 +0800" stop="20251220060000 +0800" channel="HOY TV">
+    <title lang="zh">魚樂無限</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251220060000 +0800" stop="20251220070000 +0800" channel="HOY TV">
+    <title lang="zh">道地蜂蜜綠茶特約 : 健康原因講多D</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251220070000 +0800" stop="20251220085500 +0800" channel="HOY TV">
+    <title lang="zh">Running Man</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251220085500 +0800" stop="20251220090000 +0800" channel="HOY TV">
+    <title lang="zh">中國建設銀行(亞洲)呈獻 : 走過2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251220090000 +0800" stop="20251220100000 +0800" channel="HOY TV">
+    <title lang="zh">香港有寶證</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251220100000 +0800" stop="20251220102500 +0800" channel="HOY TV">
+    <title lang="zh">升級美食</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251220102500 +0800" stop="20251220103000 +0800" channel="HOY TV">
+    <title lang="zh">中國建設銀行(亞洲)呈獻 : 走過2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251220103000 +0800" stop="20251220113000 +0800" channel="HOY TV">
+    <title lang="zh">宜居住遊行</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251220113000 +0800" stop="20251220123000 +0800" channel="HOY TV">
+    <title lang="zh">立邦抗甲醛淨味兒童漆系列特約 : 空間改造王</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251220123000 +0800" stop="20251220125500 +0800" channel="HOY TV">
+    <title lang="zh">午間新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251220125500 +0800" stop="20251220130500 +0800" channel="HOY TV">
+    <title lang="zh">中國建設銀行(亞洲)呈獻 : 走過2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251220130500 +0800" stop="20251220133000 +0800" channel="HOY TV">
+    <title lang="zh">中國光大集團呈獻 : 一線搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251220133000 +0800" stop="20251220140000 +0800" channel="HOY TV">
+    <title lang="zh">知整發電男</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251220140000 +0800" stop="20251220150000 +0800" channel="HOY TV">
+    <title lang="zh">勁食拉麵大對戰</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251220150000 +0800" stop="20251220153000 +0800" channel="HOY TV">
+    <title lang="zh">嘻哈馬場</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251220153000 +0800" stop="20251220160000 +0800" channel="HOY TV">
+    <title lang="zh">活出真我</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251220160000 +0800" stop="20251220163000 +0800" channel="HOY TV">
+    <title lang="zh">美斯的奧奇島</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251220163000 +0800" stop="20251220170000 +0800" channel="HOY TV">
+    <title lang="zh">汪汪隊立大功</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251220170000 +0800" stop="20251220180000 +0800" channel="HOY TV">
+    <title lang="zh">香料貿易之路</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251220180000 +0800" stop="20251220183000 +0800" channel="HOY TV">
+    <title lang="zh">靈感·大灣區</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251220183000 +0800" stop="20251220190000 +0800" channel="HOY TV">
+    <title lang="zh">馬時亨．獅子山精神</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251220190000 +0800" stop="20251220192500 +0800" channel="HOY TV">
+    <title lang="zh">7點直播室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251220192500 +0800" stop="20251220193000 +0800" channel="HOY TV">
+    <title lang="zh">中國建設銀行(亞洲)呈獻 : 走過2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251220193000 +0800" stop="20251220200000 +0800" channel="HOY TV">
+    <title lang="zh">共享滋味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251220200000 +0800" stop="20251220203000 +0800" channel="HOY TV">
+    <title lang="zh">安居樂業</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251220203000 +0800" stop="20251220213000 +0800" channel="HOY TV">
+    <title lang="zh">山旮旯睇樓團</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251220213000 +0800" stop="20251220220000 +0800" channel="HOY TV">
+    <title lang="zh">香港保險業聯會呈獻 : In Café 健康．保障360</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251220220000 +0800" stop="20251220230000 +0800" channel="HOY TV">
+    <title lang="zh">道地蜂蜜綠茶特約 : 健康原因講多D</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251220230000 +0800" stop="20251220233000 +0800" channel="HOY TV">
+    <title lang="zh">HOY娛樂一周</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251220233000 +0800" stop="20251221000000 +0800" channel="HOY TV">
+    <title lang="zh">有線新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251221000000 +0800" stop="20251221003000 +0800" channel="HOY TV">
+    <title lang="zh">知整發電男</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251221003000 +0800" stop="20251221010000 +0800" channel="HOY TV">
+    <title lang="zh">大匠之峰</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251221010000 +0800" stop="20251221030000 +0800" channel="HOY TV">
+    <title lang="zh">HOY 動音樂</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251221030000 +0800" stop="20251221060000 +0800" channel="HOY TV">
+    <title lang="zh">魚樂無限</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251221060000 +0800" stop="20251221070000 +0800" channel="HOY TV">
+    <title lang="zh">香港有寶證</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251221070000 +0800" stop="20251221080000 +0800" channel="HOY TV">
+    <title lang="zh">香料貿易之路</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251221080000 +0800" stop="20251221085500 +0800" channel="HOY TV">
+    <title lang="zh">童班同學</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251221085500 +0800" stop="20251221090000 +0800" channel="HOY TV">
+    <title lang="zh">中國建設銀行(亞洲)呈獻 : 走過2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251221090000 +0800" stop="20251221100000 +0800" channel="HOY TV">
+    <title lang="zh">道地蜂蜜綠茶特約 : 健康原因講多D</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251221100000 +0800" stop="20251221102500 +0800" channel="HOY TV">
+    <title lang="zh">香港保險業聯會呈獻 : In Café 健康．保障360</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251221102500 +0800" stop="20251221103000 +0800" channel="HOY TV">
+    <title lang="zh">中國建設銀行(亞洲)呈獻 : 走過2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251221103000 +0800" stop="20251221110000 +0800" channel="HOY TV">
+    <title lang="zh">四處首羅</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251221110000 +0800" stop="20251221120000 +0800" channel="HOY TV">
+    <title lang="zh">山旮旯睇樓團</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251221120000 +0800" stop="20251221123000 +0800" channel="HOY TV">
+    <title lang="zh">HOY娛樂一周</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251221123000 +0800" stop="20251221125000 +0800" channel="HOY TV">
+    <title lang="zh">午間新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251221125000 +0800" stop="20251221125500 +0800" channel="HOY TV">
+    <title lang="zh">東方表行Take Your Time 特約 : 一刻．時光</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251221125500 +0800" stop="20251221130500 +0800" channel="HOY TV">
+    <title lang="zh">中國建設銀行(亞洲)呈獻 : 走過2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251221130500 +0800" stop="20251221140000 +0800" channel="HOY TV">
+    <title lang="zh">道地星期日影院 : 女王之家</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251221140000 +0800" stop="20251221150000 +0800" channel="HOY TV">
+    <title lang="zh">道地星期日影院 : 女王之家</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251221150000 +0800" stop="20251221153000 +0800" channel="HOY TV">
+    <title lang="zh">異鄉人</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251221153000 +0800" stop="20251221160000 +0800" channel="HOY TV">
+    <title lang="zh">極限冰速</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251221160000 +0800" stop="20251221163000 +0800" channel="HOY TV">
+    <title lang="zh">美斯的奧奇島</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251221163000 +0800" stop="20251221170000 +0800" channel="HOY TV">
+    <title lang="zh">汪汪隊立大功</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251221170000 +0800" stop="20251221180000 +0800" channel="HOY TV">
+    <title lang="zh">童班同學</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251221180000 +0800" stop="20251221183000 +0800" channel="HOY TV">
+    <title lang="zh">靈感·大灣區</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251221183000 +0800" stop="20251221190000 +0800" channel="HOY TV">
+    <title lang="zh">AI 數啟未來</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251221190000 +0800" stop="20251221192500 +0800" channel="HOY TV">
+    <title lang="zh">7點直播室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251221192500 +0800" stop="20251221193000 +0800" channel="HOY TV">
+    <title lang="zh">中國建設銀行(亞洲)呈獻 : 走過2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251221193000 +0800" stop="20251221200000 +0800" channel="HOY TV">
+    <title lang="zh">五平方Squarefoot特約 : 樓盤傳真</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251221200000 +0800" stop="20251221210000 +0800" channel="HOY TV">
+    <title lang="zh">立邦抗甲醛淨味兒童漆系列特約 : 空間改造王</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251221210000 +0800" stop="20251221213000 +0800" channel="HOY TV">
+    <title lang="zh">畀你食住賺回贈嘅WeWa卡呈獻 : 餓底家家走</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251221213000 +0800" stop="20251221220000 +0800" channel="HOY TV">
+    <title lang="zh">精明買手</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251221220000 +0800" stop="20251221223000 +0800" channel="HOY TV">
+    <title lang="zh">一流料理人</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251221223000 +0800" stop="20251221233000 +0800" channel="HOY TV">
+    <title lang="zh">日本奇職</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251221233000 +0800" stop="20251221235500 +0800" channel="HOY TV">
+    <title lang="zh">有線新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251221235500 +0800" stop="20251222000000 +0800" channel="HOY TV">
+    <title lang="zh">東方表行Take Your Time 特約 : 一刻．時光</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251222000000 +0800" stop="20251222003000 +0800" channel="HOY TV">
+    <title lang="zh">嘻哈馬場</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251222003000 +0800" stop="20251222010000 +0800" channel="HOY TV">
+    <title lang="zh">五平方Squarefoot特約 : 樓盤傳真</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251222010000 +0800" stop="20251222030000 +0800" channel="HOY TV">
+    <title lang="zh">HOY 動音樂</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251222030000 +0800" stop="20251222060000 +0800" channel="HOY TV">
+    <title lang="zh">魚樂無限</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251222060000 +0800" stop="20251222070000 +0800" channel="HOY TV">
+    <title lang="zh">幸福大家姐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251222070000 +0800" stop="20251222075500 +0800" channel="HOY TV">
+    <title lang="zh">長相思 第一季</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251222075500 +0800" stop="20251222080000 +0800" channel="HOY TV">
+    <title lang="zh">中國建設銀行(亞洲)呈獻 : 走過2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251222080000 +0800" stop="20251222090000 +0800" channel="HOY TV">
+    <title lang="zh">會長的愛</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251222090000 +0800" stop="20251222093000 +0800" channel="HOY TV">
+    <title lang="zh">開飯啦</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251222093000 +0800" stop="20251222100000 +0800" channel="HOY TV">
+    <title lang="zh">Call的去開餐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251222100000 +0800" stop="20251222102500 +0800" channel="HOY TV">
+    <title lang="zh">一流料理人</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251222102500 +0800" stop="20251222103000 +0800" channel="HOY TV">
+    <title lang="zh">中國建設銀行(亞洲)呈獻 : 走過2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251222103000 +0800" stop="20251222113000 +0800" channel="HOY TV">
+    <title lang="zh">灰姑娘遊戲</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251222113000 +0800" stop="20251222123000 +0800" channel="HOY TV">
+    <title lang="zh">幸福大家姐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251222123000 +0800" stop="20251222125500 +0800" channel="HOY TV">
+    <title lang="zh">午間新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251222125500 +0800" stop="20251222130000 +0800" channel="HOY TV">
+    <title lang="zh">中國建設銀行(亞洲)呈獻 : 走過2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251222130000 +0800" stop="20251222133000 +0800" channel="HOY TV">
+    <title lang="zh">大匠之峰</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251222133000 +0800" stop="20251222140000 +0800" channel="HOY TV">
+    <title lang="zh">100 樣可能</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251222140000 +0800" stop="20251222143000 +0800" channel="HOY TV">
+    <title lang="zh">健康關注組</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251222143000 +0800" stop="20251222150000 +0800" channel="HOY TV">
+    <title lang="zh">亞洲美食巡禮</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251222150000 +0800" stop="20251222153000 +0800" channel="HOY TV">
+    <title lang="zh">畀你食住賺回贈嘅WeWa卡呈獻 : 餓底家家走</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251222153000 +0800" stop="20251222160000 +0800" channel="HOY TV">
+    <title lang="zh">君九齡</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251222160000 +0800" stop="20251222163000 +0800" channel="HOY TV">
+    <title lang="zh">柚木家的四兄弟</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251222163000 +0800" stop="20251222170000 +0800" channel="HOY TV">
+    <title lang="zh">地底小靈精</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251222170000 +0800" stop="20251222173000 +0800" channel="HOY TV">
+    <title lang="zh">友夫日記</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251222173000 +0800" stop="20251222180000 +0800" channel="HOY TV">
+    <title lang="zh">雷頓 不可思議偵探社 ～卡特莉的解謎事件簿～</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251222180000 +0800" stop="20251222183000 +0800" channel="HOY TV">
+    <title lang="zh">世食之味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251222183000 +0800" stop="20251222190000 +0800" channel="HOY TV">
+    <title lang="zh">升級美食</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251222190000 +0800" stop="20251222195000 +0800" channel="HOY TV">
+    <title lang="zh">7點直播室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251222195000 +0800" stop="20251222195500 +0800" channel="HOY TV">
+    <title lang="zh">28Hse特約 : 每日樓市</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251222195500 +0800" stop="20251222200000 +0800" channel="HOY TV">
+    <title lang="zh">中國建設銀行(亞洲)呈獻 : 走過2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251222200000 +0800" stop="20251222203000 +0800" channel="HOY TV">
+    <title lang="zh">中國光大集團呈獻 : 一線搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251222203000 +0800" stop="20251222210000 +0800" channel="HOY TV">
+    <title lang="zh">100 樣可能</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251222210000 +0800" stop="20251222213000 +0800" channel="HOY TV">
+    <title lang="zh">健康關注組</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251222213000 +0800" stop="20251222220000 +0800" channel="HOY TV">
+    <title lang="zh">詹姆士出走料理</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251222220000 +0800" stop="20251222230000 +0800" channel="HOY TV">
+    <title lang="zh">灰姑娘遊戲</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251222230000 +0800" stop="20251222233000 +0800" channel="HOY TV">
+    <title lang="zh">有線新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251222233000 +0800" stop="20251222234500 +0800" channel="HOY TV">
+    <title lang="zh">娛樂頭條 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251222234500 +0800" stop="20251223001500 +0800" channel="HOY TV">
+    <title lang="zh">開飯啦</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251223001500 +0800" stop="20251223004500 +0800" channel="HOY TV">
+    <title lang="zh">世食之味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251223004500 +0800" stop="20251223010000 +0800" channel="HOY TV">
+    <title lang="zh">娛樂頭條 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251223010000 +0800" stop="20251223030000 +0800" channel="HOY TV">
+    <title lang="zh">HOY 動音樂</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251223030000 +0800" stop="20251223060000 +0800" channel="HOY TV">
+    <title lang="zh">魚樂無限</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251223060000 +0800" stop="20251223070000 +0800" channel="HOY TV">
+    <title lang="zh">幸福大家姐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251223070000 +0800" stop="20251223075500 +0800" channel="HOY TV">
+    <title lang="zh">長相思 第一季</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251223075500 +0800" stop="20251223080000 +0800" channel="HOY TV">
+    <title lang="zh">中國建設銀行(亞洲)呈獻 : 走過2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251223080000 +0800" stop="20251223090000 +0800" channel="HOY TV">
+    <title lang="zh">會長的愛</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251223090000 +0800" stop="20251223093000 +0800" channel="HOY TV">
+    <title lang="zh">開飯啦</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251223093000 +0800" stop="20251223100000 +0800" channel="HOY TV">
+    <title lang="zh">Call的去開餐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251223100000 +0800" stop="20251223102500 +0800" channel="HOY TV">
+    <title lang="zh">升級美食</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251223102500 +0800" stop="20251223103000 +0800" channel="HOY TV">
+    <title lang="zh">中國建設銀行(亞洲)呈獻 : 走過2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251223103000 +0800" stop="20251223113000 +0800" channel="HOY TV">
+    <title lang="zh">灰姑娘遊戲</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251223113000 +0800" stop="20251223123000 +0800" channel="HOY TV">
+    <title lang="zh">幸福大家姐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251223123000 +0800" stop="20251223125500 +0800" channel="HOY TV">
+    <title lang="zh">午間新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251223125500 +0800" stop="20251223130000 +0800" channel="HOY TV">
+    <title lang="zh">中國建設銀行(亞洲)呈獻 : 走過2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251223130000 +0800" stop="20251223133000 +0800" channel="HOY TV">
+    <title lang="zh">中國光大集團呈獻 : 一線搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251223133000 +0800" stop="20251223140000 +0800" channel="HOY TV">
+    <title lang="zh">100 樣可能</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251223140000 +0800" stop="20251223143000 +0800" channel="HOY TV">
+    <title lang="zh">健康關注組</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251223143000 +0800" stop="20251223150000 +0800" channel="HOY TV">
+    <title lang="zh">詹姆士出走料理</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251223150000 +0800" stop="20251223153000 +0800" channel="HOY TV">
+    <title lang="zh">安居樂業</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251223153000 +0800" stop="20251223160000 +0800" channel="HOY TV">
+    <title lang="zh">君九齡</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251223160000 +0800" stop="20251223163000 +0800" channel="HOY TV">
+    <title lang="zh">柚木家的四兄弟</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251223163000 +0800" stop="20251223170000 +0800" channel="HOY TV">
+    <title lang="zh">地底小靈精</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251223170000 +0800" stop="20251223173000 +0800" channel="HOY TV">
+    <title lang="zh">友夫日記</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251223173000 +0800" stop="20251223180000 +0800" channel="HOY TV">
+    <title lang="zh">雷頓 不可思議偵探社 ～卡特莉的解謎事件簿～</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251223180000 +0800" stop="20251223183000 +0800" channel="HOY TV">
+    <title lang="zh">世食之味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251223183000 +0800" stop="20251223190000 +0800" channel="HOY TV">
+    <title lang="zh">升級美食</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251223190000 +0800" stop="20251223194000 +0800" channel="HOY TV">
+    <title lang="zh">7點直播室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251223194000 +0800" stop="20251223194500 +0800" channel="HOY TV">
+    <title lang="zh">中國建設銀行(亞洲)呈獻 : 大國科技</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251223194500 +0800" stop="20251223195500 +0800" channel="HOY TV">
+    <title lang="zh">28Hse特約 : 每日樓市</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251223195500 +0800" stop="20251223200000 +0800" channel="HOY TV">
+    <title lang="zh">中國建設銀行(亞洲)呈獻 : 走過2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251223200000 +0800" stop="20251223203000 +0800" channel="HOY TV">
+    <title lang="zh">中國光大集團呈獻 : 一線搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251223203000 +0800" stop="20251223210000 +0800" channel="HOY TV">
+    <title lang="zh">100 樣可能</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251223210000 +0800" stop="20251223213000 +0800" channel="HOY TV">
+    <title lang="zh">健康關注組</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251223213000 +0800" stop="20251223220000 +0800" channel="HOY TV">
+    <title lang="zh">詹姆士出走料理</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251223220000 +0800" stop="20251223230000 +0800" channel="HOY TV">
+    <title lang="zh">灰姑娘遊戲</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251223230000 +0800" stop="20251223233000 +0800" channel="HOY TV">
+    <title lang="zh">有線新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251223233000 +0800" stop="20251223234500 +0800" channel="HOY TV">
+    <title lang="zh">娛樂頭條 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251223234500 +0800" stop="20251224001500 +0800" channel="HOY TV">
+    <title lang="zh">開飯啦</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251224001500 +0800" stop="20251224004500 +0800" channel="HOY TV">
+    <title lang="zh">世食之味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251224004500 +0800" stop="20251224010000 +0800" channel="HOY TV">
+    <title lang="zh">娛樂頭條 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251224010000 +0800" stop="20251224030000 +0800" channel="HOY TV">
+    <title lang="zh">HOY 動音樂</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251224030000 +0800" stop="20251224060000 +0800" channel="HOY TV">
+    <title lang="zh">魚樂無限</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251224060000 +0800" stop="20251224070000 +0800" channel="HOY TV">
+    <title lang="zh">幸福大家姐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251224070000 +0800" stop="20251224075500 +0800" channel="HOY TV">
+    <title lang="zh">長相思 第一季</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251224075500 +0800" stop="20251224080000 +0800" channel="HOY TV">
+    <title lang="zh">中國建設銀行(亞洲)呈獻 : 走過2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251224080000 +0800" stop="20251224090000 +0800" channel="HOY TV">
+    <title lang="zh">會長的愛</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251224090000 +0800" stop="20251224093000 +0800" channel="HOY TV">
+    <title lang="zh">全港開餐100強</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251224093000 +0800" stop="20251224100000 +0800" channel="HOY TV">
+    <title lang="zh">Call的去開餐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251224100000 +0800" stop="20251224102500 +0800" channel="HOY TV">
+    <title lang="zh">升級美食</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251224102500 +0800" stop="20251224103000 +0800" channel="HOY TV">
+    <title lang="zh">中國建設銀行(亞洲)呈獻 : 走過2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251224103000 +0800" stop="20251224113000 +0800" channel="HOY TV">
+    <title lang="zh">灰姑娘遊戲</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251224113000 +0800" stop="20251224123000 +0800" channel="HOY TV">
+    <title lang="zh">幸福大家姐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251224123000 +0800" stop="20251224125500 +0800" channel="HOY TV">
+    <title lang="zh">午間新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251224125500 +0800" stop="20251224130000 +0800" channel="HOY TV">
+    <title lang="zh">中國建設銀行(亞洲)呈獻 : 走過2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251224130000 +0800" stop="20251224133000 +0800" channel="HOY TV">
+    <title lang="zh">中國光大集團呈獻 : 一線搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251224133000 +0800" stop="20251224140000 +0800" channel="HOY TV">
+    <title lang="zh">100 樣可能</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251224140000 +0800" stop="20251224143000 +0800" channel="HOY TV">
+    <title lang="zh">健康關注組</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251224143000 +0800" stop="20251224150000 +0800" channel="HOY TV">
+    <title lang="zh">詹姆士出走料理</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251224150000 +0800" stop="20251224153000 +0800" channel="HOY TV">
+    <title lang="zh">黑白大廚滋味行</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251224153000 +0800" stop="20251224160000 +0800" channel="HOY TV">
+    <title lang="zh">君九齡</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251224160000 +0800" stop="20251224163000 +0800" channel="HOY TV">
+    <title lang="zh">柚木家的四兄弟</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251224163000 +0800" stop="20251224170000 +0800" channel="HOY TV">
+    <title lang="zh">地底小靈精</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251224170000 +0800" stop="20251224173000 +0800" channel="HOY TV">
+    <title lang="zh">友夫日記</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251224173000 +0800" stop="20251224180000 +0800" channel="HOY TV">
+    <title lang="zh">雷頓 不可思議偵探社 ～卡特莉的解謎事件簿～</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251224180000 +0800" stop="20251224183000 +0800" channel="HOY TV">
+    <title lang="zh">世食之味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251224183000 +0800" stop="20251224190000 +0800" channel="HOY TV">
+    <title lang="zh">升級美食</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251224190000 +0800" stop="20251224195000 +0800" channel="HOY TV">
+    <title lang="zh">7點直播室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251224195000 +0800" stop="20251224195500 +0800" channel="HOY TV">
+    <title lang="zh">28Hse特約 : 每日樓市</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251224195500 +0800" stop="20251224200000 +0800" channel="HOY TV">
+    <title lang="zh">中國建設銀行(亞洲)呈獻 : 走過2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251224200000 +0800" stop="20251224203000 +0800" channel="HOY TV">
+    <title lang="zh">中國光大集團呈獻 : 一線搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251224203000 +0800" stop="20251224210000 +0800" channel="HOY TV">
+    <title lang="zh">100 樣可能</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251224210000 +0800" stop="20251224213000 +0800" channel="HOY TV">
+    <title lang="zh">健康關注組</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251224213000 +0800" stop="20251224220000 +0800" channel="HOY TV">
+    <title lang="zh">詹姆士出走料理</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251224220000 +0800" stop="20251224230000 +0800" channel="HOY TV">
+    <title lang="zh">灰姑娘遊戲</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251224230000 +0800" stop="20251224233000 +0800" channel="HOY TV">
+    <title lang="zh">有線新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251224233000 +0800" stop="20251224234500 +0800" channel="HOY TV">
+    <title lang="zh">娛樂頭條 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251224234500 +0800" stop="20251225001500 +0800" channel="HOY TV">
+    <title lang="zh">全港開餐100強</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251225001500 +0800" stop="20251225004500 +0800" channel="HOY TV">
+    <title lang="zh">世食之味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251225004500 +0800" stop="20251225010000 +0800" channel="HOY TV">
+    <title lang="zh">娛樂頭條 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251225010000 +0800" stop="20251225030000 +0800" channel="HOY TV">
+    <title lang="zh">HOY 動音樂</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251225030000 +0800" stop="20251225060000 +0800" channel="HOY TV">
+    <title lang="zh">魚樂無限</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251225060000 +0800" stop="20251225070000 +0800" channel="HOY TV">
+    <title lang="zh">幸福大家姐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251225070000 +0800" stop="20251225075500 +0800" channel="HOY TV">
+    <title lang="zh">長相思 第一季</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251225075500 +0800" stop="20251225080000 +0800" channel="HOY TV">
+    <title lang="zh">中國建設銀行(亞洲)呈獻 : 走過2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251225080000 +0800" stop="20251225090000 +0800" channel="HOY TV">
+    <title lang="zh">會長的愛</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251225090000 +0800" stop="20251225093000 +0800" channel="HOY TV">
+    <title lang="zh">全港開餐100強</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251225093000 +0800" stop="20251225095500 +0800" channel="HOY TV">
+    <title lang="zh">Call的去開餐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251225095500 +0800" stop="20251225100000 +0800" channel="HOY TV">
+    <title lang="zh">中國建設銀行(亞洲)呈獻 : 走過2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251225100000 +0800" stop="20251225110000 +0800" channel="HOY TV">
+    <title lang="zh">百元商品 2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251225110000 +0800" stop="20251225120000 +0800" channel="HOY TV">
+    <title lang="zh">我間屋有嘢睇</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251225120000 +0800" stop="20251225123000 +0800" channel="HOY TV">
+    <title lang="zh">開飯啦聖誕</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251225123000 +0800" stop="20251225125500 +0800" channel="HOY TV">
+    <title lang="zh">午間新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251225125500 +0800" stop="20251225130000 +0800" channel="HOY TV">
+    <title lang="zh">中國建設銀行(亞洲)呈獻 : 走過2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251225130000 +0800" stop="20251225133000 +0800" channel="HOY TV">
+    <title lang="zh">中國光大集團呈獻 : 一線搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251225133000 +0800" stop="20251225140000 +0800" channel="HOY TV">
+    <title lang="zh">100 樣可能</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251225140000 +0800" stop="20251225143000 +0800" channel="HOY TV">
+    <title lang="zh">健康關注組</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251225143000 +0800" stop="20251225150000 +0800" channel="HOY TV">
+    <title lang="zh">詹姆士出走料理</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251225150000 +0800" stop="20251225153000 +0800" channel="HOY TV">
+    <title lang="zh">自煮女人最漂亮</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251225153000 +0800" stop="20251225160000 +0800" channel="HOY TV">
+    <title lang="zh">君九齡</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251225160000 +0800" stop="20251225163000 +0800" channel="HOY TV">
+    <title lang="zh">柚木家的四兄弟</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251225163000 +0800" stop="20251225170000 +0800" channel="HOY TV">
+    <title lang="zh">地底小靈精</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251225170000 +0800" stop="20251225173000 +0800" channel="HOY TV">
+    <title lang="zh">友夫日記</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251225173000 +0800" stop="20251225180000 +0800" channel="HOY TV">
+    <title lang="zh">雷頓 不可思議偵探社 ～卡特莉的解謎事件簿～</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251225180000 +0800" stop="20251225183000 +0800" channel="HOY TV">
+    <title lang="zh">世食之味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251225183000 +0800" stop="20251225190000 +0800" channel="HOY TV">
+    <title lang="zh">升級美食</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251225190000 +0800" stop="20251225192500 +0800" channel="HOY TV">
+    <title lang="zh">7點直播室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251225192500 +0800" stop="20251225193000 +0800" channel="HOY TV">
+    <title lang="zh">中國建設銀行(亞洲)呈獻 : 走過2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251225193000 +0800" stop="20251225200000 +0800" channel="HOY TV">
+    <title lang="zh">開飯啦聖誕</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251225200000 +0800" stop="20251225203000 +0800" channel="HOY TV">
+    <title lang="zh">中國光大集團呈獻 : 一線搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251225203000 +0800" stop="20251225210000 +0800" channel="HOY TV">
+    <title lang="zh">100 樣可能</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251225210000 +0800" stop="20251225213000 +0800" channel="HOY TV">
+    <title lang="zh">健康關注組</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251225213000 +0800" stop="20251225220000 +0800" channel="HOY TV">
+    <title lang="zh">詹姆士出走料理</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251225220000 +0800" stop="20251225230000 +0800" channel="HOY TV">
+    <title lang="zh">灰姑娘遊戲</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251225230000 +0800" stop="20251225233000 +0800" channel="HOY TV">
+    <title lang="zh">有線新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251225233000 +0800" stop="20251225234500 +0800" channel="HOY TV">
+    <title lang="zh">娛樂頭條 E-news Headline</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251204000000 +0800" stop="20251204003000 +0800" channel="HOY 資訊台">
@@ -479971,10 +483170,6 @@
     <title lang="zh">今天晚上</title>
     <desc lang="zh">尤丽娅·麦尼朔娃和马克西姆·加尔金的晚间节目。</desc>
   </programme>
-  <programme start="20251217180000 +0000" stop="20251217190000 +0000" channel="中視">
-    <title lang="zh">中視新聞</title>
-    <desc lang="zh">由最專業的中視新聞主播，為您播報最新、最即時的新聞。</desc>
-  </programme>
   <programme start="20251217190000 +0000" stop="20251217193000 +0000" channel="中視">
     <title lang="zh">台灣味道</title>
     <desc lang="zh">以台灣這片土地上奮鬥的小人物為主角的系列紀錄片。這些升斗小民、尋常人家為追求他們的願望、嚮往、志向、使命或執著，堅持著一種作為。這個作為，就是他們之所以活得精彩的故事，也是《台灣味道》探尋、擷取的影像題材、故事的基礎。</desc>
@@ -480371,10 +483566,6 @@
     <title lang="zh">中視新聞</title>
     <desc lang="zh">由最專業的中視新聞主播，為您播報最新、最即時的新聞。</desc>
   </programme>
-  <programme start="20251217180000 +0000" stop="20251217190000 +0000" channel="華視">
-    <title lang="zh">請問今晚住誰家</title>
-    <desc lang="zh">真人打工旅遊實境節目，由型男主持李李仁、肯納與型男來賓組成型男打工團，結伴遠離都市塵囂，探訪鄉間祕境，藉由借宿不同家庭體會在地日常生活，並配合寄宿家庭工作清單體驗農漁畜牧生活，以換取當日食宿，感受「台灣最美的風景是人」…</desc>
-  </programme>
   <programme start="20251217190000 +0000" stop="20251217200000 +0000" channel="華視">
     <title lang="zh">我們發財了</title>
     <desc lang="zh">經濟不景氣，想發財要更努力！江爸和江媽是吵了大半輩子的歡喜冤家，吵的除了柴米油鹽，不外乎是家裡的三個孩子。把希望寄託孩子身上的江媽，希望他們早日發財，別像她為錢苦惱。然而發財之路路迢迢，小人物要如何才能成功大翻身？</desc>
@@ -480762,14 +483953,6 @@
   <programme start="20251221220000 +0000" stop="20251221230000 +0000" channel="華視">
     <title lang="zh">三國演議</title>
     <desc lang="zh">華視新聞部製播新聞專題節目。由國際政經專家汪浩、日本產經新聞台北支局長矢板明夫搭檔主持，深度講評最新國際政經重大事件，跳脫傳統政論談話節目的框架屬性。</desc>
-  </programme>
-  <programme start="20251217180000 +0000" stop="20251217190000 +0000" channel="好消息2台">
-    <title lang="zh">道在人間(國)</title>
-    <desc lang="zh">節目中邀請趙鏞基、葉光明、傑克海福德、喬依絲邁爾等，國內外知名牧長，以豐富的服事經歷與紮實的神學裝備，教導、傳講聖經真道，堅固信徒並警醒人心。</desc>
-  </programme>
-  <programme start="20251217190000 +0000" stop="20251217193000 +0000" channel="好消息2台">
-    <title lang="zh">空中聖經學院</title>
-    <desc lang="zh">由GOOD TV和中華福音神學院共同製作推出。這是歷史性的一刻，神的話語要透過衛星傳送至全世界，實現平信徒神學教育之夢。</desc>
   </programme>
   <programme start="20251217193000 +0000" stop="20251217200000 +0000" channel="好消息2台">
     <title lang="zh">豐盛人生</title>
@@ -481583,18 +484766,6 @@
     <title lang="zh">奔向標竿</title>
     <desc lang="zh">美國最具影響力的屬靈領袖之一，華理克(Rick Warren)牧師與馬鞍峰教會牧者團隊，與您一起攜手直奔屬天標竿，得著屬天獎賞！</desc>
   </programme>
-  <programme start="20251217180500 +0000" stop="20251217183000 +0000" channel="好消息">
-    <title lang="zh">天堂敬拜</title>
-    <desc lang="zh">敬拜與禱告是基督徒生命中不可少的兩件事。新的一年，讓我們用敬拜與禱告翻開得勝的新篇章。</desc>
-  </programme>
-  <programme start="20251217183000 +0000" stop="20251217190000 +0000" channel="好消息">
-    <title lang="zh">700俱樂部</title>
-    <desc lang="zh">精彩、真實的生命見證故事，透過短劇、訪談重現故事現場，請看他們如何走過黑暗洪流、渡過驚濤駭浪、飛越頹廢萎靡，進到豐富、彩色、充滿希望的新生活，得著新生命。</desc>
-  </programme>
-  <programme start="20251217190000 +0000" stop="20251217193000 +0000" channel="好消息">
-    <title lang="zh">救恩之光</title>
-    <desc lang="zh">紐約救贖主長老教會的主任牧師「提姆凱勒」，迄今已於35個城市協助創辦170間教會，其敏銳的證道、犀利的護教學與事工，讓許多神的兒女得著幫助。</desc>
-  </programme>
   <programme start="20251217193000 +0000" stop="20251217200000 +0000" channel="好消息">
     <title lang="zh">展翅上騰</title>
     <desc lang="zh">史帝文‧弗提克為美國北卡羅來納州夏洛特市 Elevation Church 的主任牧師，他融合了新世代的文化與正統基督教的信息，且擅長運用講台空間與道具，講道方式活潑有力，廣受青年人喜愛，盼望能激勵青年人，跳出宗教的框架，抱著對主的熱情再次思考福音。</desc>
@@ -482407,10 +485578,6 @@
     <title lang="zh">來 跳讚美操</title>
     <desc lang="zh">從原本兩位近70歲的退休長輩，在榮星公園，以聖經經文搭配音樂旋律及肢體動作，讓聖經變成舞蹈，這項由國際讚美操董事長吳美雲老師自創的體操運動，20年後跳到全台，也跳到亞洲、跳到全世界二十幾個國家。</desc>
   </programme>
-  <programme start="20251217180000 +0000" stop="20251217190000 +0000" channel="ELTV生活英語台">
-    <title lang="zh">聰明學文法</title>
-    <desc lang="zh">專為文法學習打造的系列，透過主持人分析情境對話，搭配上神奇的專屬道具「數位文法桌」，不論是在解釋字詞與語法，或句型結構調整，都能用操作的手法令學習者一目瞭然。有了神奇的數位文法桌，你也能夠用聰明的方式來學文法了！</desc>
-  </programme>
   <programme start="20251217190000 +0000" stop="20251217200000 +0000" channel="ELTV生活英語台">
     <title lang="zh">DT踹貢</title>
     <desc lang="zh">由劍橋大學認証KET、PET、FCE檢定考特訓老師David Tan主講，內容包含與時事相關的英語單字、有趣的學習經驗分享，以及如何用英文討論熱門話題。</desc>
@@ -482898,18 +486065,6 @@
   <programme start="20251222070000 +0000" stop="20251222080000 +0000" channel="ELTV生活英語台">
     <title lang="zh">快樂DoReMi</title>
     <desc lang="zh">學習英文的方法千百種，練唱英文歌曲是最輕鬆愉快的方式之一。本清單節目集結了動聽的英文兒歌MV，適合父母帶著孩子一起欣賞，在唱唱跳跳的過程中，增進親子情感，也配合動人旋律，學習英文。</desc>
-  </programme>
-  <programme start="20251217180000 +0000" stop="20251217183000 +0000" channel="龍華卡通台">
-    <title lang="zh">喵咪漂浮歷險</title>
-    <desc lang="zh">第1集【雲朵麵包】，一天早晨，7歲的小冰起床後發現外面正下著雨。她把5歲的弟弟叫醒，兩個人偷溜出門，發現有朵雲，卡在屋外的樹枝上。媽媽利用這朵雲做了特別的「雲朵麵包」。</desc>
-  </programme>
-  <programme start="20251217183000 +0000" stop="20251217190000 +0000" channel="龍華卡通台">
-    <title lang="zh">喵咪漂浮歷險</title>
-    <desc lang="zh">第1集【雲朵麵包】，一天早晨，7歲的小冰起床後發現外面正下著雨。她把5歲的弟弟叫醒，兩個人偷溜出門，發現有朵雲，卡在屋外的樹枝上。媽媽利用這朵雲做了特別的「雲朵麵包」。</desc>
-  </programme>
-  <programme start="20251217190000 +0000" stop="20251217193000 +0000" channel="龍華卡通台">
-    <title lang="zh">彼得與狼奇遇記</title>
-    <desc lang="zh">擅長解決問題的小學生彼得，在路上救了一隻狼後，意外展開穿越時空的奇幻冒險！勇者與惡龍、精靈與半人馬、複製人與隱形人……彼得與狼的精采奇遇，就此展開！</desc>
   </programme>
   <programme start="20251217193000 +0000" stop="20251217200000 +0000" channel="龍華卡通台">
     <title lang="zh">彼得與狼奇遇記</title>
@@ -483779,10 +486934,6 @@
     <title lang="zh">彼得與狼奇遇記</title>
     <desc lang="zh">擅長解決問題的小學生彼得，在路上救了一隻狼後，意外展開穿越時空的奇幻冒險！勇者與惡龍、精靈與半人馬、複製人與隱形人……彼得與狼的精采奇遇，就此展開！</desc>
   </programme>
-  <programme start="20251217180000 +0000" stop="20251217190000 +0000" channel="亞洲旅遊台">
-    <title lang="zh">33廚房</title>
-    <desc lang="zh">電影圈的大明星林美秀首度跨足綜藝接主持棒，即將大展廚藝與觀眾們一起美味上菜！</desc>
-  </programme>
   <programme start="20251217190000 +0000" stop="20251217200000 +0000" channel="亞洲旅遊台">
     <title lang="zh">閨蜜的奇幻旅程</title>
     <desc lang="zh">與閨蜜去旅行，最開心的就是不需要再顧及任何女生形象，可以盡情解放自己，一起完成瘋狂的事，節目主持人為演藝圈有十多年的情誼好姊妹組合-小甜甜與王宇婕，兩人帶領觀眾一起體驗女性專屬浪漫行程，分享各自的時尚資訊，一起瘋一起笑，一同創造無價的回憶及故事！</desc>
@@ -484219,10 +487370,6 @@
     <title lang="zh">閨蜜的奇幻旅程</title>
     <desc lang="zh">與閨蜜去旅行，最開心的就是不需要再顧及任何女生形象，可以盡情解放自己，一起完成瘋狂的事，節目主持人為演藝圈有十多年的情誼好姊妹組合-小甜甜與王宇婕，兩人帶領觀眾一起體驗女性專屬浪漫行程，分享各自的時尚資訊，一起瘋一起笑，一同創造無價的回憶及故事！</desc>
   </programme>
-  <programme start="20251217180000 +0000" stop="20251217190000 +0000" channel="Smart知識台">
-    <title lang="zh">健康2.0</title>
-    <desc lang="zh">在節目中，將以各種深入淺出的方式，檢測時下流行的健康產品的效用，示範健康烹調與運動方法，並與觀眾分享照顧家人的健康資訊與心得。</desc>
-  </programme>
   <programme start="20251217190000 +0000" stop="20251217200000 +0000" channel="Smart知識台">
     <title lang="zh">全民星攻略</title>
     <desc lang="zh">東森綜合台全新益智實境節目，「全民星攻略」，由館長曾國城擔任把關者，考驗著每個來挑戰九宮格益智遊戲藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理想分析，才有機會獲取智慧星幣，帶走夢幻大獎。</desc>
@@ -484608,10 +487755,6 @@
     <desc lang="zh">在節目中，將以各種深入淺出的方式，檢測時下流行的健康產品的效用，示範健康烹調與運動方法，並與觀眾分享照顧家人的健康資訊與心得。</desc>
   </programme>
   <programme start="20251222070000 +0000" stop="20251222080000 +0000" channel="Smart知識台">
-    <title lang="zh">全民星攻略</title>
-    <desc lang="zh">東森綜合台全新益智實境節目，「全民星攻略」，由館長曾國城擔任把關者，考驗著每個來挑戰九宮格益智遊戲藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理想分析，才有機會獲取智慧星幣，帶走夢幻大獎。</desc>
-  </programme>
-  <programme start="20251217180000 +0000" stop="20251217190000 +0000" channel="龍華戲劇台">
     <title lang="zh">全民星攻略</title>
     <desc lang="zh">東森綜合台全新益智實境節目，「全民星攻略」，由館長曾國城擔任把關者，考驗著每個來挑戰九宮格益智遊戲藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理想分析，才有機會獲取智慧星幣，帶走夢幻大獎。</desc>
   </programme>
@@ -485030,10 +488173,6 @@
   <programme start="20251222070000 +0000" stop="20251222080000 +0000" channel="龍華戲劇台">
     <title lang="zh">大漢天子2</title>
     <desc lang="zh">接續第一集的劇情，武帝歎息當年如兄如弟的「太子黨」，具已煙散。張湯、郭舍人、灌夫已死，唯一仍在人世的李陵陷落匈奴。他倚為智囊的東方朔也一去不返。如今，他希望再集合一群那樣的賢才猛士，做他的左膀右臂。</desc>
-  </programme>
-  <programme start="20251217180000 +0000" stop="20251217190000 +0000" channel="台灣戲劇台">
-    <title lang="zh">台灣啟示錄</title>
-    <desc lang="zh">為您統整介紹台灣社會近年來重大案件與名人軼事的始末，以及相關的新聞分析與報導。</desc>
   </programme>
   <programme start="20251217190000 +0000" stop="20251217203000 +0000" channel="台灣戲劇台">
     <title lang="zh">藍色水玲瓏</title>
@@ -485466,14 +488605,6 @@
   <programme start="20251222070000 +0000" stop="20251222080000 +0000" channel="台灣戲劇台">
     <title lang="zh">包青天</title>
     <desc lang="zh">仁宗皇帝在位期間，包拯（金超群）升任開封府府尹執掌京畿，剛直耿介、鐵面無私、明察秋毫、斷案如神，百姓愛戴敬仰尊稱為“包青天”。並有公孫策（范鴻軒）與南俠展昭（何家勁）一文一武兩員大將，使得包拯屢破奇案屢建奇功。</desc>
-  </programme>
-  <programme start="20251217180000 +0000" stop="20251217184000 +0000" channel="東森購物1台">
-    <title lang="zh">鎖定CH.43、CH.49選購</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20251217184000 +0000" stop="20251217192000 +0000" channel="東森購物1台">
-    <title lang="zh">12/1-12/31全月消費實付滿5,000元送進口【紅心芭樂飲】一箱</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20251217192000 +0000" stop="20251217200000 +0000" channel="東森購物1台">
     <title lang="zh">鎖定CH.43、CH.49選購</title>
@@ -486127,10 +489258,6 @@
     <title lang="zh">鎖定CH.43、CH.49選購</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20251217180000 +0000" stop="20251217190000 +0000" channel="龍華偶像台">
-    <title lang="zh">紅天機</title>
-    <desc lang="zh">架空韓國歷史劇。御容畫師之女紅天機（金裕貞）是命定擁有神力的天才畫工，出生時因魔王詛咒而失明，後來又意外復明。她與貴族出身擁有喚水靈力的書文觀主簿河覽（安孝燮）有命定緣份，但熱愛藝術的三王子李律（孔明）卻也愛上了她…</desc>
-  </programme>
   <programme start="20251217190000 +0000" stop="20251217200000 +0000" channel="龍華偶像台">
     <title lang="zh">好好生活</title>
     <desc lang="zh">《好好生活》由陳銘章、陳世嶧執導，林雨申、蔡文靜領銜主演，鄒廷威、姜妍主演的都市歡脫治癒輕喜劇。講述了吳憂領證當天因為車禍放了男友鴿子，男友分手出國，吳憂傷心寄情工作，卻與「大魔王」何西亞擦出火花，兩人鬥智斗勇成為歡喜冤家的故事。</desc>
@@ -486631,10 +489758,6 @@
     <title lang="zh">紅天機</title>
     <desc lang="zh">架空韓國歷史劇。御容畫師之女紅天機（金裕貞）是命定擁有神力的天才畫工，出生時因魔王詛咒而失明，後來又意外復明。她與貴族出身擁有喚水靈力的書文觀主簿河覽（安孝燮）有命定緣份，但熱愛藝術的三王子李律（孔明）卻也愛上了她…</desc>
   </programme>
-  <programme start="20251217180000 +0000" stop="20251217190000 +0000" channel="龍華日韓台">
-    <title lang="zh">金裝律師</title>
-    <desc lang="zh">崔江錫（張東健）是律師事務所的首席合夥人兼王牌律師，他偶然發現高延宇（朴炯植）雖沒念過法學院，但卻聰明絕頂並擁有照相般記憶，自小夢想成為律師的他卻因負擔不起學費而無法成為律師。江錫看中延宇的才能而僱用他，兩人成為黃金搭檔…</desc>
-  </programme>
   <programme start="20251217190000 +0000" stop="20251217200000 +0000" channel="龍華日韓台">
     <title lang="zh">榴蓮小姐</title>
     <desc lang="zh">朝鮮時代的榴蓮（朴柱美）雖嫁給朴一帥，但她愛的卻是為救她身亡的石鐵（金敏俊）。多年後，榴蓮和石鐵之子朴言（柳政厚）和金素貯（李多妍）先婚後愛，朴言驟逝後，悲痛的婆媳倆竟在月蝕之夜穿越時空，來到心愛之人轉世的丹氏家族…</desc>
@@ -487070,14 +490193,6 @@
   <programme start="20251222070000 +0000" stop="20251222080000 +0000" channel="龍華日韓台">
     <title lang="zh">我的魯蛇舅舅</title>
     <desc lang="zh">被朋友背叛、被愛人拋棄的無業遊民音樂家王俊赫（吳正世），因為姐姐俊熙突然離婚，開始負責照顧患有兒童強迫症的侄子，卻意外成為育兒達人，成為「育兒舅舅」後變得更有責任感。俊熙也為了爭取兒子撫養權而勇敢對抗暴力前夫…</desc>
-  </programme>
-  <programme start="20251217180000 +0000" stop="20251217184000 +0000" channel="東森購物2台">
-    <title lang="zh">鎖定CH.43、CH.49選購</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20251217184000 +0000" stop="20251217192000 +0000" channel="東森購物2台">
-    <title lang="zh">12/1-12/31全月消費實付滿5,000元送進口【紅心芭樂飲】一箱</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20251217192000 +0000" stop="20251217200000 +0000" channel="東森購物2台">
     <title lang="zh">鎖定CH.43、CH.49選購</title>
@@ -487731,10 +490846,6 @@
     <title lang="zh">鎖定CH.43、CH.49選購</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20251217180000 +0000" stop="20251217190000 +0000" channel="華視新聞">
-    <title lang="zh">華視2400夜間新聞</title>
-    <desc lang="zh">由專業華視主播帶來最即時、最完整、最專業的新聞報導。</desc>
-  </programme>
   <programme start="20251217190000 +0000" stop="20251217200000 +0000" channel="華視新聞">
     <title lang="zh">World News 9</title>
     <desc lang="zh">華視新聞製作，帶給觀眾最公正客觀的新聞視野，由優質主播與新聞團隊聯手打造，每日提供最新最即時的各種國際新聞。</desc>
@@ -488191,10 +491302,6 @@
     <title lang="zh">早安新聞</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20251217180000 +0000" stop="20251217190000 +0000" channel="三立新聞iNEWS">
-    <title lang="zh">2300iNEWS財經夜世界</title>
-    <desc lang="zh">三立iNEWS製播的財經新聞節目，由最專業的財經主播帶來國際時事、財經股匯市報導、深度新聞、時事評論…等內容。</desc>
-  </programme>
   <programme start="20251217190000 +0000" stop="20251217210000 +0000" channel="三立新聞iNEWS">
     <title lang="zh">1819錢進大頭條</title>
     <desc lang="zh">三立iNEWS製播的財經新聞節目，由最專業的財經主播帶來國際時事、財經股匯市報導、深度新聞及時事評論…等內容。</desc>
@@ -488598,10 +491705,6 @@
   <programme start="20251222070000 +0000" stop="20251222080000 +0000" channel="三立新聞iNEWS">
     <title lang="zh">旅行東西軍</title>
     <desc lang="zh">由年輕主播和記者用尬場PK節目型態播出。</desc>
-  </programme>
-  <programme start="20251217180000 +0000" stop="20251217190000 +0000" channel="寰宇財經台">
-    <title lang="zh">寰宇追追追</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20251217190000 +0000" stop="20251217200000 +0000" channel="寰宇財經台">
     <title lang="zh">巷弄美食家</title>
@@ -489043,10 +492146,6 @@
     <title lang="zh">美食打卡趣</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20251217180000 +0000" stop="20251217190000 +0000" channel="中視新聞">
-    <title lang="zh">新庶民大頭家</title>
-    <desc lang="zh">中視新聞全新政論節目，每日帶給你超勁爆話題討論，歡迎庶民們一起來follow。</desc>
-  </programme>
   <programme start="20251217190000 +0000" stop="20251217200000 +0000" channel="中視新聞">
     <title lang="zh">中視新聞全球報導</title>
     <desc lang="zh">中視每晚七點由主播哈遠儀為全國觀眾最專業、準確的新聞報導。</desc>
@@ -489446,10 +492545,6 @@
   <programme start="20251221220000 +0000" stop="20251221230000 +0000" channel="中視新聞">
     <title lang="zh">中視新聞全球報導</title>
     <desc lang="zh">中視每晚七點由主播哈遠儀為全國觀眾最專業、準確的新聞報導。</desc>
-  </programme>
-  <programme start="20251217180000 +0000" stop="20251217190000 +0000" channel="中天新聞台">
-    <title lang="zh">頭條開講</title>
-    <desc lang="zh">中天新聞為服務廣大觀眾，提供多元論述平台，發揮媒體第四權的社會責任，於十月五日起，週一至週五晚間八點同一時段，接檔推出《頭條開講》談話節目，由主播周玉琴及政治中心主任林嘉源共同主持，敬請支持中天的觀眾朋友準時鎖定！</desc>
   </programme>
   <programme start="20251217190000 +0000" stop="20251217200000 +0000" channel="中天新聞台">
     <title lang="zh">頭條開講</title>
@@ -489887,10 +492982,6 @@
     <title lang="zh">15大新聞大爆卦</title>
     <desc lang="zh">每周一到周五《大新聞大爆卦》中天主播陪你一起來解卦！！！</desc>
   </programme>
-  <programme start="20251217175500 +0000" stop="20251217185500 +0000" channel="寰宇新聞台灣台">
-    <title lang="zh">寰宇焦點新聞</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
   <programme start="20251217185500 +0000" stop="20251217195500 +0000" channel="寰宇新聞台灣台">
     <title lang="zh">寰宇焦點新聞</title>
     <desc lang="zh">暂无描述</desc>
@@ -490326,10 +493417,6 @@
   <programme start="20251222065500 +0000" stop="20251222075500 +0000" channel="寰宇新聞台灣台">
     <title lang="zh">寰宇整點新聞</title>
     <desc lang="zh">來自路透的國際新聞、最在地的台灣新聞以及最深入的兩岸焦點，帶您掌握社會脈動。</desc>
-  </programme>
-  <programme start="20251217175500 +0000" stop="20251217185500 +0000" channel="寰宇新聞台">
-    <title lang="zh">寰宇世界通</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20251217185500 +0000" stop="20251217195500 +0000" channel="寰宇新聞台">
     <title lang="zh">寰宇世界通</title>
@@ -490770,18 +493857,6 @@
   <programme start="20251222065500 +0000" stop="20251222075500 +0000" channel="寰宇新聞台">
     <title lang="zh">寰宇整點新聞</title>
     <desc lang="zh">來自路透的國際新聞、最在地的台灣新聞以及最深入的兩岸焦點，帶您掌握社會脈動。</desc>
-  </programme>
-  <programme start="20251217180000 +0000" stop="20251217183000 +0000" channel="第1商業台">
-    <title lang="zh">股市第一線-顧德投顧-李冠嶔分析師</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20251217183000 +0000" stop="20251217190000 +0000" channel="第1商業台">
-    <title lang="zh">贏家應對-顧德投顧-林泓橡分析師</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20251217190000 +0000" stop="20251217193000 +0000" channel="第1商業台">
-    <title lang="zh">阪田戰法-寶得富-顧奎國分析師</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20251217193000 +0000" stop="20251217200000 +0000" channel="第1商業台">
     <title lang="zh">股市強強滾-亞洲投顧-鄭偉群分析師</title>
@@ -491995,10 +495070,6 @@
     <title lang="zh">狂沙十萬里</title>
     <desc lang="zh">義大利西部片宗師里昂尼的經典之作，被譽為影史上最偉大的西部片。一名神祕客（查理士布朗遜）光臨猶他州一處小鎮，被捲入一名寡婦與鐵路大亨的土地搶奪戰…一向形象正義的亨利方達，在片中顛覆形象，飾演反派的冷面殺手。</desc>
   </programme>
-  <programme start="20251217164000 +0000" stop="20251217191500 +0000" channel="龍華電影台">
-    <title lang="zh">寒單</title>
-    <desc lang="zh">夜晚街頭鑼鼓喧天，炮炸現場擠滿了人潮，寒單阿義站在神轎，威風地接受丟上鞭炮轟炸。忽然成堆的炸藥引爆，震耳欲聾意外造成女友萱萱死亡。保住性命卻喪失一切的阿義開始墮落，毅然放棄成為教師的正昆挺身，兄弟二人一同經營「昆儀回收場」生活，怎知當年意外真相曝光，從此兩人在天平的兩端生死掙扎。</desc>
-  </programme>
   <programme start="20251217191500 +0000" stop="20251217215000 +0000" channel="龍華電影台">
     <title lang="zh">悟空傳</title>
     <desc lang="zh">五百年前，天庭分為三六九等，而出身低賤的悟空，卻狂傲不羈，藐視神權，大破各處規章戒律，無視尊佛星仙，向天地諸神發起抗爭。結界橋之戰，悟空等人不慎落入凡間，雖歷盡浩劫，卻收穫愛情與友情。然而，所有命運早已註定，無奈宿命難改，迷茫與挫敗，屬於青春不朽的奮戰正將展開…</desc>
@@ -492210,10 +495281,6 @@
   <programme start="20251222041000 +0000" stop="20251222061500 +0000" channel="龍華電影台">
     <title lang="zh">家有囍事2009</title>
     <desc lang="zh">余宅一家四口，長女兼女強人余珠（吳君如），抱著女權至上的單身主義，再加上「長女未嫁，弟妹不能嫁娶」家規，令幼男余寶（鄭中基）無法戀愛。他唯有找愛情治療師—情聖曹迪克（古天樂）出馬，希望令余珠相信愛情，卻惹一串瘋狂的三角關係！</desc>
-  </programme>
-  <programme start="20251217165500 +0000" stop="20251217191500 +0000" channel="龍華洋片台">
-    <title lang="zh">殘骸密碼</title>
-    <desc lang="zh">巴黎發生了恐怖的連續凶殺案，三名土耳其婦女慘遭分屍。承辦警員保羅懷疑事件背後有更大的組織涉案，找來熟悉法國土耳其圈子的奇佛（尚雷諾）協助辦案。兩人追查到一位疑似有精神分裂症的政府官員夫人安娜，安娜的身分竟藏有重要的破案關鍵…</desc>
   </programme>
   <programme start="20251217191500 +0000" stop="20251217213500 +0000" channel="龍華洋片台">
     <title lang="zh">荒蕪之地·應許之心</title>
@@ -624264,6 +627331,50 @@ Summer突然在社群說
     <title lang="zh">Tawa Kalcer</title>
     <desc lang="zh"> </desc>
   </programme>
+  <programme start="20251219013000 +0700" stop="20251219040000 +0700" channel="ANTV">
+    <title lang="zh">Supercoppa</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219040000 +0700" stop="20251219060000 +0700" channel="ANTV">
+    <title lang="zh">Zeynep</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219060000 +0700" stop="20251219073000 +0700" channel="ANTV">
+    <title lang="zh">Takdir Cinta Layla</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219073000 +0700" stop="20251219093000 +0700" channel="ANTV">
+    <title lang="zh">Lenyapnya Dendam Si Buta</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219093000 +0700" stop="20251219130000 +0700" channel="ANTV">
+    <title lang="zh">Dhoom</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219130000 +0700" stop="20251219143000 +0700" channel="ANTV">
+    <title lang="zh">Jhanak</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219143000 +0700" stop="20251219153000 +0700" channel="ANTV">
+    <title lang="zh">Shani</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219153000 +0700" stop="20251219180000 +0700" channel="ANTV">
+    <title lang="zh">Manusia 6 Juta Dollar</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219180000 +0700" stop="20251219193000 +0700" channel="ANTV">
+    <title lang="zh">Senandung Cinta Lilis</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219193000 +0700" stop="20251219210000 +0700" channel="ANTV">
+    <title lang="zh">Nyi Blorong</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219210000 +0700" stop="20251219230000 +0700" channel="ANTV">
+    <title lang="zh">Tawa Kalcer</title>
+    <desc lang="zh"> </desc>
+  </programme>
   <programme start="20251218000000 +0700" stop="20251218003000 +0700" channel="Arirang">
     <title lang="zh">The Kulture Wave</title>
     <desc lang="zh"> </desc>
@@ -627574,6 +630685,254 @@ Summer突然在社群說
   </programme>
   <programme start="20251218071500 +0700" stop="20251218072500 +0700" channel="CBeebies">
     <title lang="zh">Dog Squad S3, Ep 17</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219000000 +0700" stop="20251219000700 +0700" channel="CBeebies">
+    <title lang="zh">Hey Duggee S5, Ep 4</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219000700 +0700" stop="20251219001500 +0700" channel="CBeebies">
+    <title lang="zh">Hey Duggee S5, Ep 3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219001500 +0700" stop="20251219002200 +0700" channel="CBeebies">
+    <title lang="zh">Hey Duggee's Squirrel..., Ep 7</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219002200 +0700" stop="20251219003000 +0700" channel="CBeebies">
+    <title lang="zh">Hey Duggee's Squirrel..., Ep 8</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219003000 +0700" stop="20251219004500 +0700" channel="CBeebies">
+    <title lang="zh">Go Jetters S1, Ep 20</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219004500 +0700" stop="20251219005200 +0700" channel="CBeebies">
+    <title lang="zh">Bluey S1, Ep 6</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219005200 +0700" stop="20251219010000 +0700" channel="CBeebies">
+    <title lang="zh">Bluey S2, Ep 8</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219010000 +0700" stop="20251219011500 +0700" channel="CBeebies">
+    <title lang="zh">Andy's Baby Animal... S1, Ep 3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219011500 +0700" stop="20251219012500 +0700" channel="CBeebies">
+    <title lang="zh">Dog Squad S3, Ep 17</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219012500 +0700" stop="20251219013000 +0700" channel="CBeebies">
+    <title lang="zh">Steve &amp; Aneeshwar Go..., Ep 19</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219013000 +0700" stop="20251219015500 +0700" channel="CBeebies">
+    <title lang="zh">Playtime Towers S1, Ep 14</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219015500 +0700" stop="20251219020200 +0700" channel="CBeebies">
+    <title lang="zh">Hey Duggee S3, Ep 21</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219020200 +0700" stop="20251219020900 +0700" channel="CBeebies">
+    <title lang="zh">Hey Duggee S3, Ep 20</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219020900 +0700" stop="20251219021500 +0700" channel="CBeebies">
+    <title lang="zh">Hey Duggee S3, Ep 19</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219021500 +0700" stop="20251219022500 +0700" channel="CBeebies">
+    <title lang="zh">Go Jetters S3, Ep 40</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219022500 +0700" stop="20251219024000 +0700" channel="CBeebies">
+    <title lang="zh">Go Jetters S3, Ep 39</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219024000 +0700" stop="20251219025000 +0700" channel="CBeebies">
+    <title lang="zh">Thomas &amp; Friends S23, Ep 19</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219025000 +0700" stop="20251219025700 +0700" channel="CBeebies">
+    <title lang="zh">Sarah And Duck S2, Ep 8</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219025700 +0700" stop="20251219030500 +0700" channel="CBeebies">
+    <title lang="zh">Sarah And Duck S2, Ep 10</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219030500 +0700" stop="20251219031100 +0700" channel="CBeebies">
+    <title lang="zh">Stan Can S1, Ep 47</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219031100 +0700" stop="20251219032000 +0700" channel="CBeebies">
+    <title lang="zh">Stan Can S1, Ep 46</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219032000 +0700" stop="20251219032500 +0700" channel="CBeebies">
+    <title lang="zh">Kazoops! S1, Ep 54</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219032500 +0700" stop="20251219033800 +0700" channel="CBeebies">
+    <title lang="zh">Jojo &amp; Gran Gran S1, Ep 36</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219033800 +0700" stop="20251219034500 +0700" channel="CBeebies">
+    <title lang="zh">Bluey S3, Ep 46</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219034500 +0700" stop="20251219035000 +0700" channel="CBeebies">
+    <title lang="zh">Bluey S3, Ep 47</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219035000 +0700" stop="20251219040000 +0700" channel="CBeebies">
+    <title lang="zh">Bluey S3, Ep 1</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219040000 +0700" stop="20251219040700 +0700" channel="CBeebies">
+    <title lang="zh">Hey Duggee S3, Ep 24</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219040700 +0700" stop="20251219041400 +0700" channel="CBeebies">
+    <title lang="zh">Hey Duggee S3, Ep 23</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219041400 +0700" stop="20251219042000 +0700" channel="CBeebies">
+    <title lang="zh">Hey Duggee's Squirrel..., Ep 1</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219042000 +0700" stop="20251219043000 +0700" channel="CBeebies">
+    <title lang="zh">Go Jetters S1, Ep 20</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219043000 +0700" stop="20251219043500 +0700" channel="CBeebies">
+    <title lang="zh">Roots &amp; Fruits S2, Ep 15</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219043500 +0700" stop="20251219044500 +0700" channel="CBeebies">
+    <title lang="zh">Roots &amp; Fruits S2, Ep 14</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219044500 +0700" stop="20251219045200 +0700" channel="CBeebies">
+    <title lang="zh">Supertato S1, Ep 21</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219045200 +0700" stop="20251219050000 +0700" channel="CBeebies">
+    <title lang="zh">Supertato S1, Ep 22</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219050000 +0700" stop="20251219051000 +0700" channel="CBeebies">
+    <title lang="zh">Teletubbies S1, Ep 120</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219051000 +0700" stop="20251219051500 +0700" channel="CBeebies">
+    <title lang="zh">Yakka Dee S6, Ep 20</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219051500 +0700" stop="20251219052500 +0700" channel="CBeebies">
+    <title lang="zh">Pop Paper City S1, Ep 35</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219052500 +0700" stop="20251219054000 +0700" channel="CBeebies">
+    <title lang="zh">Messy Goes To Okido S2, Ep 2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219054000 +0700" stop="20251219054700 +0700" channel="CBeebies">
+    <title lang="zh">Bluey S3, Ep 5</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219054700 +0700" stop="20251219060000 +0700" channel="CBeebies">
+    <title lang="zh">Bluey S3, Ep 4</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219060000 +0700" stop="20251219060700 +0700" channel="CBeebies">
+    <title lang="zh">Hey Duggee S5, Ep 5</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219060700 +0700" stop="20251219061500 +0700" channel="CBeebies">
+    <title lang="zh">Hey Duggee S5, Ep 4</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219061500 +0700" stop="20251219062200 +0700" channel="CBeebies">
+    <title lang="zh">Hey Duggee's Squirrel..., Ep 8</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219062200 +0700" stop="20251219063000 +0700" channel="CBeebies">
+    <title lang="zh">Hey Duggee's Squirrel..., Ep 9</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219063000 +0700" stop="20251219064500 +0700" channel="CBeebies">
+    <title lang="zh">Go Jetters S1, Ep 21</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219064500 +0700" stop="20251219065200 +0700" channel="CBeebies">
+    <title lang="zh">Bluey S1, Ep 7</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219065200 +0700" stop="20251219070000 +0700" channel="CBeebies">
+    <title lang="zh">Bluey S2, Ep 9</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219070000 +0700" stop="20251219071500 +0700" channel="CBeebies">
+    <title lang="zh">Andy's Baby Animal... S1, Ep 4</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251219071500 +0700" stop="20251219072500 +0700" channel="CBeebies">
+    <title lang="zh">Dog Squad S3, Ep 18</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218011000 +0700" stop="20251218024500 +0700" channel="CCM">
+    <title lang="zh">Passing Flickers</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218024500 +0700" stop="20251218043000 +0700" channel="CCM">
+    <title lang="zh">Magnificent Wanderers</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218043000 +0700" stop="20251218061500 +0700" channel="CCM">
+    <title lang="zh">The Mirror And The Lichee</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218061500 +0700" stop="20251218075000 +0700" channel="CCM">
+    <title lang="zh">The Chinese Boxer</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218075000 +0700" stop="20251218093000 +0700" channel="CCM">
+    <title lang="zh">Blue Skies</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218093000 +0700" stop="20251218110500 +0700" channel="CCM">
+    <title lang="zh">The Mighty One</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218110500 +0700" stop="20251218131000 +0700" channel="CCM">
+    <title lang="zh">The Blue And The Black</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218131000 +0700" stop="20251218145000 +0700" channel="CCM">
+    <title lang="zh">Monkey Kung Fu</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218145000 +0700" stop="20251218163500 +0700" channel="CCM">
+    <title lang="zh">Voyage Of Emperor Chien Lung</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218163500 +0700" stop="20251218182000 +0700" channel="CCM">
+    <title lang="zh">The Fantastic Magic Baby</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218182000 +0700" stop="20251218200000 +0700" channel="CCM">
+    <title lang="zh">Rose, Be My Love</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218200000 +0700" stop="20251218215500 +0700" channel="CCM">
+    <title lang="zh">The Sword Of Swords</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251218215500 +0700" stop="20251218233000 +0700" channel="CCM">
+    <title lang="zh">The Snake Prince</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251219013500 +0700" stop="20251219030000 +0700" channel="CCM">
