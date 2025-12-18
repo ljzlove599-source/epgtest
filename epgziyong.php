@@ -12,10 +12,10 @@ $xmlFiles = [
     './epgmytvsuper.xml',
     './epganywhere.xml',
     './epg4gtv2.xml', 
+    './epgtvsou.xml',
     './epgofiii.xml', 
     './epgnewhebei.xml',
     './epgnewguangdong.xml',
-     //'./epgyidong.xml',
      './epgastro.xml',
      './epgmncvision.xml'
      //'./epgae.xml',
