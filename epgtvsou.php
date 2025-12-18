@@ -419,5 +419,5 @@ $chn .= "</tv>";
 //echo $chn;
 
 // 可选：保存到文件
- file_put_contents('epgtvmao.xml', $chn);
+ file_put_contents('epgtvsou.xml', $chn);
 ?>
