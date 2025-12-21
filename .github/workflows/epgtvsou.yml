@@ -1,4 +1,4 @@
-name: epgkai1
+name: epgtvsou
 on:
   schedule:
     - cron: '8 */4 * * *'  # 每4小時的第1分鐘執行
@@ -22,16 +22,16 @@ jobs:
         with:
           php-version: '7.4'
      
-     # 3. 生成 epgkai1.xml
-      - name: Run epgkai1.php
-        run: php epgkai1.php
-      # 4. 提交 epgkai.xml 到當前倉庫
-      - name: Commit epgkai.xml to current repository
+     # 3. 生成 epgtvsou.xml
+      - name: Run epgtvsou.php
+        run: php epgtvsou.php
+      # 4. 提交 epgtvsou.xml 到當前倉庫
+      - name: Commit epgtvsou.xml to current repository
         run: |
-          if [ -f epgkai.xml ]; then
+          if [ -f epgtvsou.xml ]; then
             git config --local user.name "github-actions[bot]"
             git config --local user.email "github-actions[bot]@users.noreply.github.com"
-            git add epgkai1.xml
+            git add epgtvsou.xml
             git commit -m "Update epgkai1.xml: $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')" || echo "No changes to commit."
             git push origin main || echo "推送到當前倉庫失敗"
           fi
