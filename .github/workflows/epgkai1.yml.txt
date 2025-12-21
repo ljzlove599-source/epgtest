@@ -1,0 +1,37 @@
+name: epgkai1
+on:
+  schedule:
+    - cron: '8 */4 * * *'  # 每4小時的第1分鐘執行
+  workflow_dispatch:       # 允許手動觸發
+
+jobs:
+  generate_and_upload:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. 檢出代碼
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true  # 保留推送權限
+
+      # 2. 設置 PHP 7.4 環境
+      - name: Set up PHP 7.4
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '7.4'
+     
+     # 3. 生成 epgkai1.xml
+      - name: Run epgkai1.php
+        run: php epgkai1.php
+      # 4. 提交 epgkai.xml 到當前倉庫
+      - name: Commit epgkai.xml to current repository
+        run: |
+          if [ -f epgkai.xml ]; then
+            git config --local user.name "github-actions[bot]"
+            git config --local user.email "github-actions[bot]@users.noreply.github.com"
+            git add epgkai1.xml
+            git commit -m "Update epgkai1.xml: $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')" || echo "No changes to commit."
+            git push origin main || echo "推送到當前倉庫失敗"
+          fi
