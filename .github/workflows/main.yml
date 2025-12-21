@@ -2,7 +2,7 @@ name: EPG Comprehensive Processing
 
 on:
   schedule:
-    - cron: '1 */1 * * *'   # 每小时第1分钟开始执行
+    - cron: '31 */1 * * *'   # 每小时第1分钟开始执行
   workflow_dispatch:
 
 jobs:
