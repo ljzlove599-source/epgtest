@@ -155,7 +155,7 @@ header('Content-Type: application/xml; charset=utf-8');
 echo $xmlContent;
 
 // 保存到文件
-file_put_contents('epg.xml', $xmlContent);
+file_put_contents('epgasia.xml', $xmlContent);
 
 // 如果需要保存压缩版本
 if (strpos($fp, '.gz') !== false) {
