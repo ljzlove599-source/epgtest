@@ -3,9 +3,6 @@
   <channel id="mbc action">
     <display-name>MBC Action</display-name>
   </channel>
-  <programme start="20251223013000 +0800" stop="20251223023000 +0800" channel="mbc action">
-    <title lang="en">برنامج the inside line</title>
-  </programme>
   <programme start="20251223023000 +0800" stop="20251223033000 +0800" channel="mbc action">
     <title lang="en">The Promised Neverland</title>
     <desc lang="en">Type: Series (2019)</desc>
@@ -326,5 +323,8 @@
       <actor>Mari Hino</actor>
     </credits>
     <date>2019</date>
+  </programme>
+  <programme start="20251225120000 +0800" stop="20251225123000 +0800" channel="mbc action">
+    <title lang="en">برنامج action bodcast</title>
   </programme>
 </tv>
