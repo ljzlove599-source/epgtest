@@ -3,18 +3,6 @@
   <channel id="mbc action">
     <display-name>MBC Action</display-name>
   </channel>
-  <programme start="20251226023000 +0800" stop="20251226033500 +0800" channel="mbc action">
-    <title lang="en">Sword Art Online</title>
-    <desc lang="en">Kirito finds himself trapped, along with thousands of players, inside new virtual MMORPG games, where he decides to take on the challenge of escaping this world. However, he faces great dangers and powerful enemies on his adventure-filled journey. | Type: Series (2012) | Rating: 5.8/10</desc>
-    <category lang="en">Series</category>
-    <credits>
-      <actor>Todd Haberkorn</actor>
-      <actor>Takehito Koyasu</actor>
-      <actor>Patrick Seitz</actor>
-      <actor>Kirk Thornton</actor>
-    </credits>
-    <date>2012</date>
-  </programme>
   <programme start="20251226033500 +0800" stop="20251226060000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
     <desc lang="en">A diverse sports program presented by Saudi writer Waleed Al Farraj on the MBC Action channel, in which he hosts sports analysts and sports stars. The program reviews the most important events and news of the Saudi Pro League, aka the Roshn Saudi League. | Type: Program (2021) | Rating: 5.1/10</desc>
@@ -332,5 +320,11 @@
       <actor>Kirk Thornton</actor>
     </credits>
     <date>2012</date>
+  </programme>
+  <programme start="20251228123000 +0800" stop="20251228140000 +0800" channel="mbc action">
+    <title lang="en">Action Ma' Waleed</title>
+    <desc lang="en">A diverse sports program presented by Saudi writer Waleed Al Farraj on the MBC Action channel, in which he hosts sports analysts and sports stars. The program reviews the most important events and news of the Saudi Pro League, aka the Roshn Saudi League. | Type: Program (2021) | Rating: 5.1/10</desc>
+    <category lang="en">Program</category>
+    <date>2021</date>
   </programme>
 </tv>
