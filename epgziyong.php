@@ -3,9 +3,9 @@
 $xmlFiles = [
     './epgmbcae.xml',
     './epgmbcaction.xml',
+    './epgdubaione.xml',
     './epgasia.xml',
      './epgdiyicaijing.xml',
-     './epgdubaione.xml',
     './epgkai1.xml',
      './epgmacocable.xml',
     './epgnewshanghai.xml',
