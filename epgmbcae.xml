@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20251229120000 +0800" stop="20251229140000 +0800" channel="mbc max">
-    <title lang="en">Non-Stop</title>
-    <desc lang="en">The movie is set in an international flight from New York toLondon. During that trip, Bill Marks (Liam Neeson) receives several threats from an unknown threat that every 20 minutes a passenger will be killed unless $ 150 million is transferred to a bank account. The twist occurs when the owner of this account is revealed.</desc>
-    <category lang="en">Movie
-               (2014)</category>
-  </programme>
   <programme start="20251229140000 +0800" stop="20251229160000 +0800" channel="mbc max">
     <title lang="en">Bullet Head</title>
     <desc lang="en">After a robbery goes south, three criminals hide from thepolice in a warehouse. Unbeknownst to them, a bigger threat awaits them inside, forcing them into a fight for survival.</desc>
@@ -234,6 +228,12 @@
     <category lang="en">Program
                (2010)</category>
   </programme>
+  <programme start="20251231233000 +0800" stop="20260101010000 +0800" channel="mbc max">
+    <title lang="en">Walking Tall</title>
+    <desc lang="en">An ex-army officer returns to his home town wanting to workin the local mill, but he finds the town filled with drugs and corruption after the mill was closed and turned into a Casino.</desc>
+    <category lang="en">Movie
+               (2004)</category>
+  </programme>
   <programme start="20251229133000 +0800" stop="20251229153000 +0800" channel="mbc 2">
     <title lang="en">Sicario</title>
     <desc lang="en">In the border stretching between Mexico and the U.S.A., anarea that has been always out of the reach of the law, an idealistic FBI agent is assigned to aid in the escalating war against the cartel.</desc>
@@ -443,5 +443,11 @@
     <desc lang="en">Police chief Matt Whitlock finds himself embroiled in amurder investigation when his mistress and her husband are brutally murdered. He races to uncover the secrets behind the murder as he becomes a suspect himself.</desc>
     <category lang="en">Movie
                (2003)</category>
+  </programme>
+  <programme start="20260101002000 +0800" stop="20260101020500 +0800" channel="mbc 2">
+    <title lang="en">Hell or High Water</title>
+    <desc lang="en">A divorced father and his ex-con brother start a series ofbank robberies to keep their family's ranch in West Texas, while two Texas Rangers try to catch them.</desc>
+    <category lang="en">Movie
+               (2016)</category>
   </programme>
 </tv>
