@@ -3,9 +3,6 @@
   <channel id="mbc action">
     <display-name>MBC Action</display-name>
   </channel>
-  <programme start="20251229013000 +0800" stop="20251229023000 +0800" channel="mbc action">
-    <title lang="en">برنامج bear grylls</title>
-  </programme>
   <programme start="20251229023000 +0800" stop="20251229033000 +0800" channel="mbc action">
     <title lang="en">Sword Art Online</title>
     <desc lang="en">Kirito finds himself trapped, along with thousands of players, inside new virtual MMORPG games, where he decides to take on the challenge of escaping this world. However, he faces great dangers and powerful enemies on his adventure-filled journey. | Type: Series (2012) | Rating: 5.8/10</desc>
@@ -332,5 +329,8 @@
       <actor>Kirk Thornton</actor>
     </credits>
     <date>2012</date>
+  </programme>
+  <programme start="20251231120000 +0800" stop="20251231130000 +0800" channel="mbc action">
+    <title lang="en">برنامج action bodcast</title>
   </programme>
 </tv>
