@@ -3,18 +3,6 @@
   <channel id="mbc action">
     <display-name>MBC Action</display-name>
   </channel>
-  <programme start="20251230220000 +0800" stop="20251230230000 +0800" channel="mbc action">
-    <title lang="en">Sword Art Online</title>
-    <desc lang="en">Kirito finds himself trapped, along with thousands of players, inside new virtual MMORPG games, where he decides to take on the challenge of escaping this world. However, he faces great dangers and powerful enemies on his adventure-filled journey. | Type: Series (2012) | Rating: 5.8/10</desc>
-    <category lang="en">Series</category>
-    <credits>
-      <actor>Todd Haberkorn</actor>
-      <actor>Takehito Koyasu</actor>
-      <actor>Patrick Seitz</actor>
-      <actor>Kirk Thornton</actor>
-    </credits>
-    <date>2012</date>
-  </programme>
   <programme start="20251230230000 +0800" stop="20251231000000 +0800" channel="mbc action">
     <title lang="en">ascend برنامج</title>
   </programme>
@@ -326,5 +314,14 @@
   </programme>
   <programme start="20250101080000 +0800" stop="20250101090000 +0800" channel="mbc action">
     <title lang="en">برنامج the inside line</title>
+  </programme>
+  <programme start="20250101090000 +0800" stop="20250101100000 +0800" channel="mbc action">
+    <title lang="en">Ridiculousness</title>
+    <desc lang="en">An American comedy clip show hosted by Rob Dyrdek, who presents funny viral videos from the Internet, while he and his panelists offer mocking commentary in response. | Type: Program (2011) | Rating: 6.1/10</desc>
+    <category lang="en">Program</category>
+    <credits>
+      <actor>Rob Dyrdek</actor>
+    </credits>
+    <date>2011</date>
   </programme>
 </tv>

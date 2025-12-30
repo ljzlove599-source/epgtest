@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20251230220000 +0800" stop="20251230233000 +0800" channel="mbc max">
-    <title lang="en">Bullet Head</title>
-    <desc lang="en">After a robbery goes south, three criminals hide from thepolice in a warehouse. Unbeknownst to them, a bigger threat awaits them inside, forcing them into a fight for survival.</desc>
-    <category lang="en">Movie
-               (2017)</category>
-  </programme>
   <programme start="20251230233000 +0800" stop="20251231000000 +0800" channel="mbc max">
     <title lang="en">Films &amp; Stars</title>
     <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
@@ -425,5 +419,11 @@
     <desc lang="en">A program that offers a look at the latest films that arepremiering in international theaters, and the film scenes that baffled audiences, in addition to many exclusive interviews.</desc>
     <category lang="en">Program
                (2010)</category>
+  </programme>
+  <programme start="20260102083000 +0800" stop="20260102103000 +0800" channel="mbc 2">
+    <title lang="en">Taxi Driver</title>
+    <desc lang="en">Travis Bickle is a lonely ex-Marine and Vietnam veteran, whotakes the night shift as a cab driver to cope with his chronic insomnia. He finds himself driven to the brink of insanity as he attempts to rescue an underage prostitute from her pimp.</desc>
+    <category lang="en">Movie
+               (1976)</category>
   </programme>
 </tv>
