@@ -126,9 +126,9 @@ function parse_epg($html) {
 
 // Define channels to scrape
 $channels = [
-    '1130' => ['id' => 'mbc action', 'name' => 'MBC Action'],
-    '1132' => ['id' => 'mbc max', 'name' => 'MBC Max'],
-    '1128' => ['id' => 'mbc 2', 'name' => 'MBC 2'],
+    '1130' => ['id' => 'mbc action', 'name' => 'mbc action'],
+    '1132' => ['id' => 'mbc max', 'name' => 'mbc max'],
+    '1128' => ['id' => 'mbc 2', 'name' => 'mbc 2'],
 ];
 
 // Initialize XML
