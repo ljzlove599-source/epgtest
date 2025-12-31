@@ -1,177 +1,180 @@
 <?php
-// 設置時區以正確處理時間
-date_default_timezone_set('Asia/Shanghai');
 
-// 創建 XML 文檔
-$xml = new DOMDocument('1.0', 'UTF-8');
-$xml->formatOutput = true;
+/**
+ * Multi-Channel EPG Generator for elcinema.com
+ * Supports channels: 1130 (MBC Action), 1132 (MBC Max), 1128 (MBC 2)
+ * Handles PM to AM transition for date increment.
+ */
 
-$tv = $xml->createElement('tv');
-$tv->setAttribute('source-info-url', 'https://elcinema.com/en/tvguide/');
-$tv->setAttribute('source-info-name', 'elCinema.com');
-$tv->setAttribute('generator-info-name', 'Manus EPG Generator');
-$xml->appendChild($tv);
-
-// 頻道資訊陣列 - 三個頻道
-$channels = [
-   // ['1130', 'mbc action'],
-    ['1132', 'mbc max'],
-    ['1128', 'mbc 2'],
-];
-
-// 先添加所有频道定义
-foreach ($channels as $channel) {
-    $channelId = htmlspecialchars($channel[1]);
-    $channelName = htmlspecialchars($channel[1]);
-    
-    $channelElem = $xml->createElement('channel');
-    $channelElem->setAttribute('id', $channelId);
-    $tv->appendChild($channelElem);
-    
-    $displayName = $xml->createElement('display-name', $channelName);
-    $displayName->setAttribute('lang', 'zh');
-    $channelElem->appendChild($displayName);
+// Set header for XML output if running in a web server
+if (php_sapi_name() !== 'cli') {
+    header('Content-Type: application/xml; charset=utf-8');
 }
 
-// 处理每个频道的节目表
-foreach ($channels as $channel) {
-    $channelId = isset($channel[0]) ? $channel[0] : '';
-    $channelName = isset($channel[1]) ? $channel[1] : '';
-    
-    $url = 'https://elcinema.com/en/tvguide/' . $channelId . '/';
-
+/**
+ * Fetch HTML content from URL
+ */
+function fetch_epg($url) {
     $ch = curl_init();
     curl_setopt($ch, CURLOPT_URL, $url);
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
     curl_setopt($ch, CURLOPT_USERAGENT, 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36');
-    curl_setopt($ch, CURLOPT_TIMEOUT, 30);
+    curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
     curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
-
-    $html_content = curl_exec($ch);
-    if (curl_error($ch)) {
-        error_log('cURL Error for channel ' . $channelName . ': ' . curl_error($ch));
-        curl_close($ch);
-        continue; // 跳过这个频道，继续处理下一个
+    curl_setopt($ch, CURLOPT_TIMEOUT, 30);
+    $html = curl_exec($ch);
+    if (curl_errno($ch)) {
+        error_log('Curl error: ' . curl_error($ch));
     }
     curl_close($ch);
+    return $html;
+}
 
-    // 創建 DOMDocument 和 DOMXPath
+/**
+ * Parse EPG data from HTML
+ */
+function parse_epg($html) {
     $dom = new DOMDocument();
-    @$dom->loadHTML($html_content);
+    @$dom->loadHTML('<?xml encoding="UTF-8">' . $html);
     $xpath = new DOMXPath($dom);
 
-    // 提取日期資訊
-    $date_node = $xpath->query("//h3[contains(text(), 'December')] | //h3[contains(text(), 'January')] | //h3[contains(text(), 'February')] | //h3[contains(text(), 'March')] | //h3[contains(text(), 'April')] | //h3[contains(text(), 'May')] | //h3[contains(text(), 'June')] | //h3[contains(text(), 'July')] | //h3[contains(text(), 'August')] | //h3[contains(text(), 'September')] | //h3[contains(text(), 'October')] | //h3[contains(text(), 'November')]");
-
-    $current_date_str = '';
-    if ($date_node->length > 0) {
-        $current_date_str = trim($date_node->item(0)->textContent);
-    } else {
-        $current_date_str = date('l d F');
+    // Try to find the base date from the page
+    $base_date = new DateTime();
+    $date_header = $xpath->query("//h3[contains(text(), '202')] | //div[contains(@class, 'day-header')]");
+    if ($date_header->length > 0) {
+        try {
+            $parsed_date = new DateTime(trim($date_header->item(0)->textContent));
+            if ($parsed_date) $base_date = $parsed_date;
+        } catch (Exception $e) {}
     }
 
-    $current_year = date('Y');
-    $base_date_timestamp = strtotime($current_date_str . ' ' . $current_year);
-    if ($base_date_timestamp === false) {
-        $base_date_timestamp = time();
-    }
-
-    // 提取節目數據
+    $nodes = $xpath->query("//div[contains(@class, 'boxed-category-')]");
     $programs = [];
-    $program_nodes = $xpath->query("//div[contains(@class, 'boxed-category-1')]");
+    $last_hour = -1;
+    $day_offset = 0;
 
-    $last_stop_time = null;
-    $current_date_for_channel = $base_date_timestamp; // 每个频道独立的日期跟踪
+    foreach ($nodes as $node) {
+        // Extract Title
+        $title = "";
+        $title_paths = [
+            ".//ul[contains(@class, 'no-margin')]/li[1]",
+            ".//div[contains(@class, 'small-7')]//li[1]",
+            ".//div[contains(@class, 'small-6')]//li[1]",
+            ".//a[contains(@href, '/work/')]"
+        ];
+        foreach ($title_paths as $path) {
+            $t_nodes = $xpath->query($path, $node);
+            if ($t_nodes->length > 0) {
+                $title = trim($t_nodes->item(0)->textContent);
+                if (!empty($title)) break;
+            }
+        }
 
-    foreach ($program_nodes as $node) {
-        $program = [];
+        // Extract Time
+        $time_str = "";
+        $time_paths = [
+            ".//ul[contains(@class, 'text-center')]/li[1]",
+            ".//ul[contains(@class, 'no-margin')]/li[2]",
+            ".//li[contains(text(), 'AM') or contains(text(), 'PM')]"
+        ];
+        foreach ($time_paths as $path) {
+            $tm_nodes = $xpath->query($path, $node);
+            foreach ($tm_nodes as $tm_node) {
+                if (preg_match('/(\d{2}:\d{2}\s*(?:AM|PM))/i', $tm_node->textContent, $matches)) {
+                    $time_str = $matches[1];
+                    break 2;
+                }
+            }
+        }
 
-        // 1. 提取開始時間 (Start Time)
-        $time_node = $xpath->query(".//div[contains(@class, 'small-3') and contains(@class, 'large-2')]/ul/li[1]", $node);
-        $duration_node = $xpath->query(".//div[contains(@class, 'small-3') and contains(@class, 'large-2')]/ul/li[2]/span", $node);
+        // Extract Duration
+        $duration = 60;
+        $dur_nodes = $xpath->query(".//span[contains(@class, 'subheader')]", $node);
+        if ($dur_nodes->length > 0) {
+            if (preg_match('/(\d+)/', $dur_nodes->item(0)->textContent, $matches)) {
+                $duration = (int)$matches[1];
+            }
+        }
+
+        if (empty($title) || empty($time_str)) continue;
+
+        // Handle PM to AM transition
+        $time_obj = DateTime::createFromFormat('h:i A', $time_str);
+        if (!$time_obj) continue;
         
-        $start_time_str = $time_node->length > 0 ? trim($time_node->item(0)->textContent) : null;
-        $duration_str = $duration_node->length > 0 ? trim($duration_node->item(0)->textContent) : null;
-
-        if (!$start_time_str) continue;
-
-        // 處理時間和日期
-        $start_datetime_str = date('Y-m-d', $current_date_for_channel) . ' ' . $start_time_str;
-        $start_timestamp = strtotime($start_datetime_str);
-
-        // 處理跨日問題
-        if ($last_stop_time !== null && $start_timestamp < $last_stop_time) {
-            // 跨日，日期加一天
-            $current_date_for_channel = strtotime('+1 day', $current_date_for_channel);
-            $start_datetime_str = date('Y-m-d', $current_date_for_channel) . ' ' . $start_time_str;
-            $start_timestamp = strtotime($start_datetime_str);
+        $hour_24 = (int)$time_obj->format('G');
+        if ($last_hour >= 12 && $hour_24 < 12) {
+            $day_offset++;
         }
+        $last_hour = $hour_24;
 
-        // 處理持續時間
-        $duration_minutes = 0;
-        if (preg_match('/\[(\d+)\s+minutes\]/', $duration_str, $matches)) {
-            $duration_minutes = (int)$matches[1];
-        }
+        $program_date = clone $base_date;
+        if ($day_offset > 0) $program_date->modify("+$day_offset days");
         
-        $stop_timestamp = $start_timestamp + ($duration_minutes * 60);
-        $last_stop_time = $stop_timestamp;
+        $start_dt = new DateTime($program_date->format('Y-m-d') . ' ' . $time_obj->format('H:i:s'));
+        $end_dt = clone $start_dt;
+        $end_dt->modify("+$duration minutes");
 
-        // 格式化為 XMLTV 標準時間格式
-        $program['start'] = date('YmdHis', $start_timestamp) . ' +0800';
-        $program['stop'] = date('YmdHis', $stop_timestamp) . ' +0800';
-
-        // 2. 提取標題 (Title) 和類別 (Category)
-        $title_node = $xpath->query(".//div[contains(@class, 'small-6') and contains(@class, 'large-3')]/ul/li[1]/a", $node);
-        $category_node = $xpath->query(".//div[contains(@class, 'small-6') and contains(@class, 'large-3')]/ul/li[2]", $node);
-
-        $program['title'] = $title_node->length > 0 ? trim($title_node->item(0)->textContent) : 'N/A';
-        $program['category'] = $category_node->length > 0 ? trim($category_node->item(0)->textContent) : 'N/A';
-
-        // 3. 提取描述 (Description)
-        $desc_node = $xpath->query(".//div[contains(@class, 'small-12') and contains(@class, 'large-6')]/ul/li[last()]", $node);
-        $description = '';
-        if ($desc_node->length > 0) {
-            $li_text = trim($desc_node->item(0)->firstChild->textContent);
-            
-            $hidden_span = $xpath->query(".//span[contains(@class, 'hide')]", $desc_node->item(0));
-            $hidden_text = $hidden_span->length > 0 ? trim($hidden_span->item(0)->textContent) : '';
-            
-            $description = str_replace('...Read more', '', $li_text) . $hidden_text;
-            $program['desc'] = trim($description);
-        } else {
-            $program['desc'] = 'No description available.';
-        }
-
-        $programs[] = $program;
+        $programs[] = [
+            'title' => $title,
+            'start' => $start_dt->format('YmdHis O'),
+            'stop' => $end_dt->format('YmdHis O'),
+        ];
     }
+    return $programs;
+}
 
-    // 寫入節目資訊
-    foreach ($programs as $program_data) {
-        $programme = $xml->createElement('programme');
-        $programme->setAttribute('start', $program_data['start']);
-        $programme->setAttribute('stop', $program_data['stop']);
-        $programme->setAttribute('channel', $channelName);
-        $tv->appendChild($programme);
+// Define channels to scrape
+$channels = [
+    '1130' => ['id' => 'mbc action', 'name' => 'MBC Action'],
+    '1132' => ['id' => 'mbc max', 'name' => 'MBC Max'],
+    '1128' => ['id' => 'mbc 2', 'name' => 'MBC 2'],
+];
 
-        // 標題
-        $title = $xml->createElement('title', htmlspecialchars($program_data['title']));
-        $title->setAttribute('lang', 'en');
-        $programme->appendChild($title);
+// Initialize XML
+$xml = new SimpleXMLElement('<?xml version="1.0" encoding="UTF-8"?><tv/>');
+$xml->addAttribute('generator-info-name', 'Manus Multi-Channel EPG Generator');
 
-        // 描述
-        $desc = $xml->createElement('desc', htmlspecialchars($program_data['desc']));
-        $desc->setAttribute('lang', 'en');
-        $programme->appendChild($desc);
+$all_programmes = [];
 
-        // 類別
-        $category = $xml->createElement('category', htmlspecialchars($program_data['category']));
-        $category->setAttribute('lang', 'en');
-        $programme->appendChild($category);
+foreach ($channels as $code => $info) {
+    // Add channel info to XML
+    $channel_node = $xml->addChild('channel');
+    $channel_node->addAttribute('id', $info['id']);
+    $channel_node->addChild('display-name', htmlspecialchars($info['name']));
+
+    // Fetch and parse
+    $url = "https://elcinema.com/en/tvguide/$code/";
+    $html = fetch_epg($url);
+    if (!empty($html)) {
+        $programs = parse_epg($html);
+        foreach ($programs as $prog) {
+            $prog['channel_id'] = $info['id'];
+            $all_programmes[] = $prog;
+        }
     }
 }
 
+// Add all programmes to XML
+foreach ($all_programmes as $prog) {
+    $programme = $xml->addChild('programme');
+    $programme->addAttribute('start', $prog['start']);
+    $programme->addAttribute('stop', $prog['stop']);
+    $programme->addAttribute('channel', $prog['channel_id']);
+    
+    $title = $programme->addChild('title', htmlspecialchars($prog['title']));
+    $title->addAttribute('lang', 'en');
+}
+
+// Output formatted XML
+$dom = new DOMDocument('1.0');
+$dom->preserveWhiteSpace = false;
+$dom->formatOutput = true;
+$dom->loadXML($xml->asXML());
+//echo $dom->saveXML();
+
 // 輸出 XML
-$xml_output = $xml->saveXML();
+$xml_output = $dom->saveXML();
 file_put_contents('epgmbcae.xml', $xml_output);
 //echo $xml_output ;
 // 输出成功信息
