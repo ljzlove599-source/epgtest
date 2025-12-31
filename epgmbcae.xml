@@ -9,12 +9,6 @@
   <channel id="mbc 2">
     <display-name>mbc 2</display-name>
   </channel>
-  <programme start="20251231153000 +0800" stop="20251231163000 +0800" channel="mbc action">
-    <title lang="en">ابرز لقطات الدوري</title>
-  </programme>
-  <programme start="20251231163000 +0800" stop="20251231173000 +0800" channel="mbc action">
-    <title lang="en">الخميس</title>
-  </programme>
   <programme start="20251231173000 +0800" stop="20251231180000 +0800" channel="mbc action">
     <title lang="en">Sword Art Online</title>
   </programme>
@@ -80,9 +74,6 @@
   </programme>
   <programme start="20260101153000 +0800" stop="20260101163000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
-  </programme>
-  <programme start="20251231140000 +0800" stop="20251231160000 +0800" channel="mbc max">
-    <title lang="en">A Simple Favor</title>
   </programme>
   <programme start="20251231160000 +0800" stop="20251231180000 +0800" channel="mbc max">
     <title lang="en">The Family</title>
@@ -209,5 +200,8 @@
   </programme>
   <programme start="20260103010000 +0800" stop="20260103030000 +0800" channel="mbc max">
     <title lang="en">Panic Room</title>
+  </programme>
+  <programme start="20260103030000 +0800" stop="20260103033000 +0800" channel="mbc max">
+    <title lang="en">Hollywood Buzz</title>
   </programme>
 </tv>
