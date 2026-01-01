@@ -1,180 +1,213 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="Manus Multi-Channel EPG Generator">
-  <channel id="mbc action">
-    <display-name>mbc action</display-name>
-  </channel>
+<tv source-info-url="https://elcinema.com/en/tvguide/" source-info-name="elCinema.com" generator-info-name="Manus EPG Generator">
   <channel id="mbc max">
-    <display-name>mbc max</display-name>
+    <display-name lang="zh">mbc max</display-name>
   </channel>
   <channel id="mbc 2">
-    <display-name>mbc 2</display-name>
+    <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260102033000 +0000" stop="20260102050000 +0000" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-  </programme>
-  <programme start="20260102050000 +0000" stop="20260102060000 +0000" channel="mbc action">
-    <title lang="en">برنامج american ninja warrior</title>
-  </programme>
-  <programme start="20260101060000 +0000" stop="20260101070000 +0000" channel="mbc action">
-    <title lang="en">Sword Art Online</title>
-  </programme>
-  <programme start="20260101070000 +0000" stop="20260101080000 +0000" channel="mbc action">
-    <title lang="en">برنامج Accelerate</title>
-  </programme>
-  <programme start="20260101080000 +0000" stop="20260101090000 +0000" channel="mbc action">
-    <title lang="en">برنامج the inside line</title>
-  </programme>
-  <programme start="20260101090000 +0000" stop="20260101100000 +0000" channel="mbc action">
-    <title lang="en">Ridiculousness</title>
-  </programme>
-  <programme start="20260101100000 +0000" stop="20260101110000 +0000" channel="mbc action">
-    <title lang="en">برنامج american ninja warrior</title>
-  </programme>
-  <programme start="20260101110000 +0000" stop="20260101120000 +0000" channel="mbc action">
-    <title lang="en">Sword Art Online</title>
-  </programme>
-  <programme start="20260101120000 +0000" stop="20260101123000 +0000" channel="mbc action">
-    <title lang="en">برنامج action bodcast</title>
-  </programme>
-  <programme start="20260101123000 +0000" stop="20260101140000 +0000" channel="mbc action">
-    <title lang="en">بودكاست ملح الدوري</title>
-  </programme>
-  <programme start="20260101140000 +0000" stop="20260101153000 +0000" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-  </programme>
-  <programme start="20260101153000 +0000" stop="20260101163000 +0000" channel="mbc action">
-    <title lang="en">برنامج ارض المليون</title>
-  </programme>
-  <programme start="20260102045500 +0000" stop="20260102053000 +0000" channel="mbc max">
-    <title lang="en">فيلم</title>
-  </programme>
-  <programme start="20260102053000 +0000" stop="20260102071000 +0000" channel="mbc max">
+  <programme start="20260101183000 +0800" stop="20260101201000 +0800" channel="mbc max">
     <title lang="en">A Simple Favor</title>
+    <desc lang="en">Stephanie, a mother who works as a blogger, seeks todiscover the mystery of the disappearance of her friend Emily from the city by joining her friend's husband, where everyone is subjected to love and loyalty tests and secrets that could cause murder and revenge.</desc>
+    <category lang="en">Movie
+               (2018)</category>
   </programme>
-  <programme start="20260101071000 +0000" stop="20260101080000 +0000" channel="mbc max">
-    <title lang="en">فيلم</title>
-  </programme>
-  <programme start="20260101080000 +0000" stop="20260101100000 +0000" channel="mbc max">
+  <programme start="20260101210000 +0800" stop="20260101230000 +0800" channel="mbc max">
     <title lang="en">50 First Dates</title>
+    <desc lang="en">When Henry meets Lucy and thinks he has found the girl ofhis dreams, he discovers she has short-term memory loss and forgets him everyday.</desc>
+    <category lang="en">Movie
+               (2004)</category>
   </programme>
-  <programme start="20260101100000 +0000" stop="20260101120000 +0000" channel="mbc max">
+  <programme start="20260101230000 +0800" stop="20260102010000 +0800" channel="mbc max">
     <title lang="en">Across the Universe</title>
+    <desc lang="en">While looking for his American father, Jude meets theadventurous Max and his sister Lucy who he starts to fall for. As the war in Vietnam escalates, Max joins the army as Lucy supports an anti-war movement.</desc>
+    <category lang="en">Movie
+               (2007)</category>
   </programme>
-  <programme start="20260101120000 +0000" stop="20260101140000 +0000" channel="mbc max">
+  <programme start="20260102010000 +0800" stop="20260102030000 +0800" channel="mbc max">
     <title lang="en">How Do You Know</title>
+    <desc lang="en">Baseball player Lisa wants to be a star, and pays noattention to her personal life. Then, she is kicked off the team for being older than 32, and her life changes completely. She starts to make up for lost time, and falls in love with two people at the same time, which places her in a difficult position to choose.</desc>
+    <category lang="en">Movie
+               (2011)</category>
   </programme>
-  <programme start="20260101140000 +0000" stop="20260101160000 +0000" channel="mbc max">
+  <programme start="20260102030000 +0800" stop="20260102050000 +0800" channel="mbc max">
     <title lang="en">Life as We Know It</title>
+    <desc lang="en">After an unsuccessful date set up by their common friends,Holly and Eric are shocked when life brings them together when their friends die in an accident, leaving them as their child’s sole caretakers. Their reluctance soon turns into joy as little Sophie proves the catalyst to bring them together.</desc>
+    <category lang="en">Movie
+               (2010)</category>
   </programme>
-  <programme start="20260101160000 +0000" stop="20260101173000 +0000" channel="mbc max">
+  <programme start="20260102050000 +0800" stop="20260102063000 +0800" channel="mbc max">
     <title lang="en">Kajillionaire</title>
+    <desc lang="en">As the daughter of two con artists, Old Dolio Dyne has livedan unusual life that saw her act as an accomplice to her parents' crime. But as they set their eyes on a new target, Old Dolio soon finds her world shaken as they invite their newest target to take part in one of their schemes.</desc>
+    <category lang="en">Movie
+               (2020)</category>
   </programme>
-  <programme start="20260101173000 +0000" stop="20260101180000 +0000" channel="mbc max">
+  <programme start="20260102063000 +0800" stop="20260102070000 +0800" channel="mbc max">
     <title lang="en">Films &amp; Stars</title>
+    <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
+    <category lang="en">Program
+               (2008)</category>
   </programme>
-  <programme start="20260101180000 +0000" stop="20260101200000 +0000" channel="mbc max">
+  <programme start="20260102070000 +0800" stop="20260102090000 +0800" channel="mbc max">
     <title lang="en">Now You See Me 2</title>
+    <desc lang="en">In the world of magic and optical illusions, the FourHorsemen face a tech genius who tries to exploit them, and they must clear their names before society and reveal the truth through one last stunt.</desc>
+    <category lang="en">Movie
+               (2016)</category>
   </programme>
-  <programme start="20260101200000 +0000" stop="20260101220000 +0000" channel="mbc max">
+  <programme start="20260102090000 +0800" stop="20260102110000 +0800" channel="mbc max">
     <title lang="en">The Family</title>
+    <desc lang="en">An infamous mafia family, the Manzonis, headed by GiovanniManzoni (Robert De Niro) is relocated to Normandy, France under the witness protection program. Written and directed by the man who made "The Fifth Element" and "Léon: The Professional."</desc>
+    <category lang="en">Movie
+               (2013)</category>
   </programme>
-  <programme start="20260101220000 +0000" stop="20260101233000 +0000" channel="mbc max">
+  <programme start="20260102110000 +0800" stop="20260102123000 +0800" channel="mbc max">
     <title lang="en">The Hustle</title>
+    <desc lang="en">A remake of the 1988 “Dirty little scoundrels”, starringAnne Hathaway and Rebel Wilson as two scam artist  trying their best shot at conning a filthy rich Tech wonder.</desc>
+    <category lang="en">Movie
+               (2019)</category>
   </programme>
-  <programme start="20260101233000 +0000" stop="20260102010000 +0000" channel="mbc max">
+  <programme start="20260102123000 +0800" stop="20260102140000 +0800" channel="mbc max">
     <title lang="en">One for the Money</title>
+    <desc lang="en">Stephanie Plum (Katherine Heigl) loses her job, and workswith her cousin Finney as a bounty hunter . Her first case is to find officer Joe Morelli (Jason O'Mara), who's accused of murder but she faces obstacles because of his skills . During her search, she believes that he's innocent and tries to prove it.</desc>
+    <category lang="en">Movie
+               (2012)</category>
   </programme>
-  <programme start="20260103010000 +0000" stop="20260103030000 +0000" channel="mbc max">
+  <programme start="20260102140000 +0800" stop="20260102160000 +0800" channel="mbc max">
     <title lang="en">Life as We Know It</title>
+    <desc lang="en">After an unsuccessful date set up by their common friends,Holly and Eric are shocked when life brings them together when their friends die in an accident, leaving them as their child’s sole caretakers. Their reluctance soon turns into joy as little Sophie proves the catalyst to bring them together.</desc>
+    <category lang="en">Movie
+               (2010)</category>
   </programme>
-  <programme start="20260103030000 +0000" stop="20260103033000 +0000" channel="mbc max">
+  <programme start="20260102160000 +0800" stop="20260102163000 +0800" channel="mbc max">
     <title lang="en">Hollywood Buzz</title>
+    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
+    <category lang="en">Program
+               (1998)</category>
   </programme>
-  <programme start="20260103033000 +0000" stop="20260103053000 +0000" channel="mbc max">
+  <programme start="20260102163000 +0800" stop="20260102183000 +0800" channel="mbc max">
     <title lang="en">How Do You Know</title>
+    <desc lang="en">Baseball player Lisa wants to be a star, and pays noattention to her personal life. Then, she is kicked off the team for being older than 32, and her life changes completely. She starts to make up for lost time, and falls in love with two people at the same time, which places her in a difficult position to choose.</desc>
+    <category lang="en">Movie
+               (2011)</category>
   </programme>
-  <programme start="20260103053000 +0000" stop="20260103060000 +0000" channel="mbc max">
-    <title lang="en">برنامج Planet Action</title>
-  </programme>
-  <programme start="20260102060000 +0000" stop="20260102073000 +0000" channel="mbc max">
+  <programme start="20260102190000 +0800" stop="20260102203000 +0800" channel="mbc max">
     <title lang="en">Kajillionaire</title>
+    <desc lang="en">As the daughter of two con artists, Old Dolio Dyne has livedan unusual life that saw her act as an accomplice to her parents' crime. But as they set their eyes on a new target, Old Dolio soon finds her world shaken as they invite their newest target to take part in one of their schemes.</desc>
+    <category lang="en">Movie
+               (2020)</category>
   </programme>
-  <programme start="20260102073000 +0000" stop="20260102080000 +0000" channel="mbc max">
-    <title lang="en">برنامج Making The Movies</title>
-  </programme>
-  <programme start="20260102080000 +0000" stop="20260102100000 +0000" channel="mbc max">
+  <programme start="20260102210000 +0800" stop="20260102230000 +0800" channel="mbc max">
     <title lang="en">Panic Room</title>
+    <desc lang="en">A woman and her daughter's first night in theirnewly-purchased house takes a dark turn when they are forced to take refuge in the house's panic room during a home invasion. But the burglars know that they are in the room, which also houses the fortune the burglars are after.</desc>
+    <category lang="en">Movie
+               (2002)</category>
   </programme>
-  <programme start="20260102100000 +0000" stop="20260102113000 +0000" channel="mbc max">
+  <programme start="20260102230000 +0800" stop="20260103003000 +0800" channel="mbc max">
     <title lang="en">All I See Is You</title>
+    <desc lang="en">When a blind wife regains her sight, she finds out how badher relationship with her husband is.</desc>
+    <category lang="en">Movie
+               (2016)</category>
   </programme>
-  <programme start="20260102113000 +0000" stop="20260102120000 +0000" channel="mbc max">
-    <title lang="en">برنامج World Of Movies</title>
-  </programme>
-  <programme start="20260102120000 +0000" stop="20260102133000 +0000" channel="mbc max">
+  <programme start="20260103010000 +0800" stop="20260103023000 +0800" channel="mbc max">
     <title lang="en">Terminal</title>
+    <desc lang="en">Set in a train terminal at night, two assassins with asinister mission, a fatally ill teacher, an enigmatic janitor, and a waitress with a double life meet. Murderous consequences unravel as their lives intersect at the hands of a criminal mastermind hell-bent on revenge.</desc>
+    <category lang="en">Movie
+               (2018)</category>
   </programme>
-  <programme start="20260102133000 +0000" stop="20260102140000 +0000" channel="mbc max">
-    <title lang="en">برنامج Celebrity Scoop</title>
-  </programme>
-  <programme start="20260102140000 +0000" stop="20260102153000 +0000" channel="mbc max">
+  <programme start="20260103030000 +0800" stop="20260103043000 +0800" channel="mbc max">
     <title lang="en">Thoroughbreds</title>
+    <desc lang="en">After years of growing apart, two high-class teenage girlsrevive their friendship again, and try to figure out a way to solve their problems together no matter what they have to do.</desc>
+    <category lang="en">Movie
+               (2017)</category>
   </programme>
-  <programme start="20260102153000 +0000" stop="20260102160000 +0000" channel="mbc max">
+  <programme start="20260103043000 +0800" stop="20260103050000 +0800" channel="mbc max">
     <title lang="en">Films &amp; Stars</title>
+    <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
+    <category lang="en">Program
+               (2008)</category>
   </programme>
-  <programme start="20260102160000 +0000" stop="20260102180000 +0000" channel="mbc max">
+  <programme start="20260103050000 +0800" stop="20260103070000 +0800" channel="mbc max">
     <title lang="en">Parasite</title>
+    <desc lang="en">The life of an unemployed family living in a poor apartmentchanges completely when the son becomes the English tutor for the daughter of a wealthy family. As the lives of the wealthy Park family and the destitute Kim family intersect, what follows is a web of deceit and disturbing violence.</desc>
+    <category lang="en">Movie
+               (2019)</category>
   </programme>
-  <programme start="20260102180000 +0000" stop="20260102183000 +0000" channel="mbc max">
+  <programme start="20260103070000 +0800" stop="20260103073000 +0800" channel="mbc max">
     <title lang="en">Action Zone</title>
+    <desc lang="en">A program that offers a look at the latest films that arepremiering in international theaters, and the film scenes that baffled audiences, in addition to many exclusive interviews.</desc>
+    <category lang="en">Program
+               (2010)</category>
   </programme>
-  <programme start="20260102183000 +0000" stop="20260102203000 +0000" channel="mbc max">
+  <programme start="20260103073000 +0800" stop="20260103093000 +0800" channel="mbc max">
     <title lang="en">How Do You Know</title>
+    <desc lang="en">Baseball player Lisa wants to be a star, and pays noattention to her personal life. Then, she is kicked off the team for being older than 32, and her life changes completely. She starts to make up for lost time, and falls in love with two people at the same time, which places her in a difficult position to choose.</desc>
+    <category lang="en">Movie
+               (2011)</category>
   </programme>
-  <programme start="20260102203000 +0000" stop="20260102210000 +0000" channel="mbc max">
-    <title lang="en">برنامج Stars In Style</title>
-  </programme>
-  <programme start="20260102210000 +0000" stop="20260102230000 +0000" channel="mbc max">
+  <programme start="20260103100000 +0800" stop="20260103120000 +0800" channel="mbc max">
     <title lang="en">Across the Universe</title>
+    <desc lang="en">While looking for his American father, Jude meets theadventurous Max and his sister Lucy who he starts to fall for. As the war in Vietnam escalates, Max joins the army as Lucy supports an anti-war movement.</desc>
+    <category lang="en">Movie
+               (2007)</category>
   </programme>
-  <programme start="20260102230000 +0000" stop="20260102233000 +0000" channel="mbc max">
+  <programme start="20260103120000 +0800" stop="20260103123000 +0800" channel="mbc max">
     <title lang="en">Hollywood Buzz</title>
+    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
+    <category lang="en">Program
+               (1998)</category>
   </programme>
-  <programme start="20260102233000 +0000" stop="20260103010000 +0000" channel="mbc max">
+  <programme start="20260103123000 +0800" stop="20260103140000 +0800" channel="mbc max">
     <title lang="en">50 First Dates</title>
+    <desc lang="en">When Henry meets Lucy and thinks he has found the girl ofhis dreams, he discovers she has short-term memory loss and forgets him everyday.</desc>
+    <category lang="en">Movie
+               (2004)</category>
   </programme>
-  <programme start="20260104010000 +0000" stop="20260104030000 +0000" channel="mbc max">
+  <programme start="20260103140000 +0800" stop="20260103160000 +0800" channel="mbc max">
     <title lang="en">Panic Room</title>
+    <desc lang="en">A woman and her daughter's first night in theirnewly-purchased house takes a dark turn when they are forced to take refuge in the house's panic room during a home invasion. But the burglars know that they are in the room, which also houses the fortune the burglars are after.</desc>
+    <category lang="en">Movie
+               (2002)</category>
   </programme>
-  <programme start="20260104030000 +0000" stop="20260104033000 +0000" channel="mbc max">
+  <programme start="20260103160000 +0800" stop="20260103163000 +0800" channel="mbc max">
     <title lang="en">Hollywood Buzz</title>
+    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
+    <category lang="en">Program
+               (1998)</category>
   </programme>
-  <programme start="20260104033000 +0000" stop="20260104053000 +0000" channel="mbc max">
+  <programme start="20260103163000 +0800" stop="20260103183000 +0800" channel="mbc max">
     <title lang="en">Parasite</title>
+    <desc lang="en">The life of an unemployed family living in a poor apartmentchanges completely when the son becomes the English tutor for the daughter of a wealthy family. As the lives of the wealthy Park family and the destitute Kim family intersect, what follows is a web of deceit and disturbing violence.</desc>
+    <category lang="en">Movie
+               (2019)</category>
   </programme>
-  <programme start="20260104053000 +0000" stop="20260104060000 +0000" channel="mbc max">
-    <title lang="en">برنامج Planet Action</title>
-  </programme>
-  <programme start="20260103060000 +0000" stop="20260103073000 +0000" channel="mbc max">
+  <programme start="20260103190000 +0800" stop="20260103203000 +0800" channel="mbc max">
     <title lang="en">Thoroughbreds</title>
+    <desc lang="en">After years of growing apart, two high-class teenage girlsrevive their friendship again, and try to figure out a way to solve their problems together no matter what they have to do.</desc>
+    <category lang="en">Movie
+               (2017)</category>
   </programme>
-  <programme start="20260103073000 +0000" stop="20260103080000 +0000" channel="mbc max">
-    <title lang="en">برنامج Making The Movies</title>
-  </programme>
-  <programme start="20260103080000 +0000" stop="20260103100000 +0000" channel="mbc max">
+  <programme start="20260103210000 +0800" stop="20260103230000 +0800" channel="mbc max">
     <title lang="en">Chaos</title>
+    <desc lang="en">Two cops partner up in order to uncover how a group of bankrobbers managed to escape from a bank during a heist that apparently has other motives than just stealing money.</desc>
+    <category lang="en">Movie
+               (2005)</category>
   </programme>
-  <programme start="20260103100000 +0000" stop="20260103120000 +0000" channel="mbc max">
+  <programme start="20260103230000 +0800" stop="20260104010000 +0800" channel="mbc max">
     <title lang="en">3 Days to Kill</title>
+    <desc lang="en">International spy Ethan Renner (Kevin Costner) decides toleave his risky life behind to build a stronger relationship with his daughter and wife. but Ethan has to complete one final mission before he retires , to catch the most dangerous terrorist in the world, while taking care of his daughter.</desc>
+    <category lang="en">Movie
+               (2014)</category>
   </programme>
-  <programme start="20260103120000 +0000" stop="20260103133000 +0000" channel="mbc max">
+  <programme start="20260104010000 +0800" stop="20260104023000 +0800" channel="mbc max">
     <title lang="en">The Doorman</title>
+    <desc lang="en">After returning from combat, the former soldier Ali works asa doorman in an apartment building in NYC. But things take a turn, when a gang of thieves attack the building in order to retrieve a valuable artwork, as she becomes the only one standing in their way.</desc>
+    <category lang="en">Movie
+               (2020)</category>
   </programme>
-  <programme start="20260103133000 +0000" stop="20260103140000 +0000" channel="mbc max">
-    <title lang="en">برنامج World Of Movies</title>
-  </programme>
-  <programme start="20260103140000 +0000" stop="20260103160000 +0000" channel="mbc max">
+  <programme start="20260104030000 +0800" stop="20260104050000 +0800" channel="mbc max">
     <title lang="en">John Wick: Chapter 2</title>
+    <desc lang="en">Retired assassin John Wick unwillingly returns to thecriminal underworld to repay a debt but is faced with many challenges along the way, including a bounty.</desc>
+    <category lang="en">Movie
+               (2017)</category>
   </programme>
 </tv>
