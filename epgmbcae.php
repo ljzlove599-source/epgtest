@@ -1,5 +1,9 @@
 <?php
-
+header('Content-Type: text/plain; charset=UTF-8');
+//header('Content-Type:text /html; charset=UTF-8');
+ini_set("max_execution_time", "3000000");
+//htaccess php_value max_execution_time 0;
+ini_set('date.timezone','Asia/Shanghai');
 /**
  * Multi-Channel EPG Generator for elcinema.com
  * Supports channels: 1130 (MBC Action), 1132 (MBC Max), 1128 (MBC 2)
