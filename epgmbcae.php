@@ -148,8 +148,8 @@ function parse_epg($html) {
 
         $programs[] = [
             'title' => $title,
-            'start' => $start_dt->format('YmdHis') . ' +0800',
-            'stop' => $end_dt->format('YmdHis') . ' +0800',
+            'start' => $start_dt->format('YmdHis') . ' +0000',
+            'stop' => $end_dt->format('YmdHis') . ' +0000',
         ];
     }
     return $programs;
