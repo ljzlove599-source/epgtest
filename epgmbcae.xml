@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260102153000 +0800" stop="20260102163500 +0800" channel="mbc action">
-    <title lang="en">Sword Art Online</title>
-  </programme>
   <programme start="20260102163500 +0800" stop="20260102190000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
@@ -183,11 +180,8 @@
   <programme start="20260105010000 +0800" stop="20260105013000 +0800" channel="mbc action">
     <title lang="en">Sword Art Online</title>
   </programme>
-  <programme start="20260102140000 +0800" stop="20260102160000 +0800" channel="mbc max">
-    <title lang="en">Life as We Know It</title>
-  </programme>
-  <programme start="20260102160000 +0800" stop="20260102163000 +0800" channel="mbc max">
-    <title lang="en">Hollywood Buzz</title>
+  <programme start="20260105013000 +0800" stop="20260105030000 +0800" channel="mbc action">
+    <title lang="en">Action Ma' Waleed</title>
   </programme>
   <programme start="20260102163000 +0800" stop="20260102183000 +0800" channel="mbc max">
     <title lang="en">How Do You Know</title>
@@ -320,9 +314,6 @@
   </programme>
   <programme start="20260105010000 +0800" stop="20260105030000 +0800" channel="mbc max">
     <title lang="en">Mamma Mia!</title>
-  </programme>
-  <programme start="20260102140000 +0800" stop="20260102160000 +0800" channel="mbc 2">
-    <title lang="en">Kill the Messenger</title>
   </programme>
   <programme start="20260102160000 +0800" stop="20260102175500 +0800" channel="mbc 2">
     <title lang="en">Edge of Darkness</title>
@@ -461,5 +452,8 @@
   </programme>
   <programme start="20260105003000 +0800" stop="20260105020000 +0800" channel="mbc 2">
     <title lang="en">Seized</title>
+  </programme>
+  <programme start="20260105020000 +0800" stop="20260105023000 +0800" channel="mbc 2">
+    <title lang="en">Scoop Maa Raya</title>
   </programme>
 </tv>
