@@ -1,76 +1,13 @@
-页面 1 日期: Jan 2, 2026, 节目数量: 16
-页面 2 日期: Jan 3, 2026, 节目数量: 14
-页面 3 日期: Jan 4, 2026, 节目数量: 18
-页面 4 日期: Jan 5, 2026, 节目数量: 18
+页面 1 日期: Jan 3, 2026, 节目数量: 14
+页面 2 日期: Jan 4, 2026, 节目数量: 18
+页面 3 日期: Jan 5, 2026, 节目数量: 18
+页面 4 日期: Jan 6, 2026, 节目数量: 16
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "http://api.torrent-tv.ru/xmltv.dtd">
 <tv generator-info-name="http://192.168.10.1/system/opt/" generator-info-url="QQ">
   <channel id="Dubai One">
     <display-name lang="en">Dubai One</display-name>
   </channel>
-  <programme start="20260102003000 +0400" stop="20260102023000 +0400" channel="Dubai One">
-    <title lang="en">Escape Room</title>
-    <desc lang="en">Taylor Russell</desc>
-  </programme>
-  <programme start="20260102023000 +0400" stop="20260102030000 +0400" channel="Dubai One">
-    <title lang="en">Emirates News Emirates News</title>
-    <desc lang="en">Be the First to Know.</desc>
-  </programme>
-  <programme start="20260102030000 +0400" stop="20260102040000 +0400" channel="Dubai One">
-    <title lang="en">Las hijas de la Señora García</title>
-    <desc lang="en">Mrs. Garcia strives to achieve her dream at cost of her daughters' happiness.</desc>
-  </programme>
-  <programme start="20260102040000 +0400" stop="20260102060000 +0400" channel="Dubai One">
-    <title lang="en">Charlie's Angel Charlie</title>
-    <desc lang="en">The Angels investigate a series of murders that occur after the theft of a witness protection profile database.</desc>
-  </programme>
-  <programme start="20260102060000 +0400" stop="20260102100000 +0400" channel="Dubai One">
-    <title lang="en">Dubai Eye On Dubai One</title>
-    <desc lang="en">Magazine show featuring news and current affairs</desc>
-  </programme>
-  <programme start="20260102100000 +0400" stop="20260102110000 +0400" channel="Dubai One">
-    <title lang="en">Las hijas de la Señora García</title>
-    <desc lang="en">Mrs. Garcia strives to achieve her dream at cost of her daughters' happiness.</desc>
-  </programme>
-  <programme start="20260102110000 +0400" stop="20260102130000 +0400" channel="Dubai One">
-    <title lang="en">Life of Pi</title>
-    <desc lang="en">A young man who survives a disaster at sea is hurtled into an epic journey of adventure and discovery. While cast away, he forms an unexpected connection with another survivor: a fearsome Bengal tiger.</desc>
-  </programme>
-  <programme start="20260102130000 +0400" stop="20260102150000 +0400" channel="Dubai One">
-    <title lang="en">Charlie's Angel Charlie</title>
-    <desc lang="en">The Angels investigate a series of murders that occur after the theft of a witness protection profile database.</desc>
-  </programme>
-  <programme start="20260102150000 +0400" stop="20260102160000 +0400" channel="Dubai One">
-    <title lang="en">Chaliapin</title>
-    <desc lang="en">A story of Fyodor Chaliapin's journey to the world of theater!</desc>
-  </programme>
-  <programme start="20260102160000 +0400" stop="20260102170000 +0400" channel="Dubai One">
-    <title lang="en">Las hijas de la Señora García</title>
-    <desc lang="en">Mrs. Garcia strives to achieve her dream at cost of her daughters' happiness.</desc>
-  </programme>
-  <programme start="20260102170000 +0400" stop="20260102190000 +0400" channel="Dubai One">
-    <title lang="en">Escape Room</title>
-    <desc lang="en">Taylor Russell</desc>
-  </programme>
-  <programme start="20260102190000 +0400" stop="20260102200000 +0400" channel="Dubai One">
-    <title lang="en">Grand Designs</title>
-  </programme>
-  <programme start="20260102200000 +0400" stop="20260102203000 +0400" channel="Dubai One">
-    <title lang="en">Emirates News Emirates News</title>
-    <desc lang="en">Be the First to Know.</desc>
-  </programme>
-  <programme start="20260102203000 +0400" stop="20260102213000 +0400" channel="Dubai One">
-    <title lang="en">Chaliapin</title>
-    <desc lang="en">A story of Fyodor Chaliapin's journey to the world of theater!</desc>
-  </programme>
-  <programme start="20260102213000 +0400" stop="20260102223000 +0400" channel="Dubai One">
-    <title lang="en">Las hijas de la Señora García</title>
-    <desc lang="en">Mrs. Garcia strives to achieve her dream at cost of her daughters' happiness.</desc>
-  </programme>
-  <programme start="20260102223000 +0400" stop="20260103003000 +0400" channel="Dubai One">
-    <title lang="en">West Side</title>
-    <desc lang="en">Risk everything for true love.</desc>
-  </programme>
   <programme start="20260103003000 +0400" stop="20260103023000 +0400" channel="Dubai One">
     <title lang="en">The Sixth Sense</title>
     <desc lang="en">"I see dead people"</desc>
@@ -261,8 +198,72 @@
     <title lang="en">Las hijas de la Señora García</title>
     <desc lang="en">Mrs. Garcia strives to achieve her dream at cost of her daughters' happiness.</desc>
   </programme>
-  <programme start="20260105223000 +0400" stop="20260102000000 +0400" channel="Dubai One">
+  <programme start="20260105223000 +0400" stop="20260106003000 +0400" channel="Dubai One">
     <title lang="en">A Bluebird in My Heart</title>
     <desc lang="en">An ex-con confronts his old demons.</desc>
+  </programme>
+  <programme start="20260106003000 +0400" stop="20260106023000 +0400" channel="Dubai One">
+    <title lang="en">Help</title>
+    <desc lang="en">Everyone has a secret</desc>
+  </programme>
+  <programme start="20260106023000 +0400" stop="20260106030000 +0400" channel="Dubai One">
+    <title lang="en">Emirates News Emirates News</title>
+    <desc lang="en">Be the First to Know.</desc>
+  </programme>
+  <programme start="20260106030000 +0400" stop="20260106040000 +0400" channel="Dubai One">
+    <title lang="en">Las hijas de la Señora García</title>
+    <desc lang="en">Mrs. Garcia strives to achieve her dream at cost of her daughters' happiness.</desc>
+  </programme>
+  <programme start="20260106040000 +0400" stop="20260106060000 +0400" channel="Dubai One">
+    <title lang="en">A Bluebird in My Heart</title>
+    <desc lang="en">An ex-con confronts his old demons.</desc>
+  </programme>
+  <programme start="20260106060000 +0400" stop="20260106100000 +0400" channel="Dubai One">
+    <title lang="en">Dubai Eye On Dubai One</title>
+    <desc lang="en">Magazine show featuring news and current affairs</desc>
+  </programme>
+  <programme start="20260106100000 +0400" stop="20260106110000 +0400" channel="Dubai One">
+    <title lang="en">Las hijas de la Señora García</title>
+    <desc lang="en">Mrs. Garcia strives to achieve her dream at cost of her daughters' happiness.</desc>
+  </programme>
+  <programme start="20260106110000 +0400" stop="20260106130000 +0400" channel="Dubai One">
+    <title lang="en">(500) Days of Summer</title>
+    <desc lang="en">An offbeat romantic comedy about a woman who doesn't believe true love exists, and the young man who falls for her.</desc>
+  </programme>
+  <programme start="20260106130000 +0400" stop="20260106150000 +0400" channel="Dubai One">
+    <title lang="en">A Bluebird in My Heart</title>
+    <desc lang="en">An ex-con confronts his old demons.</desc>
+  </programme>
+  <programme start="20260106150000 +0400" stop="20260106160000 +0400" channel="Dubai One">
+    <title lang="en">Chaliapin</title>
+    <desc lang="en">A story of Fyodor Chaliapin's journey to the world of theater!</desc>
+  </programme>
+  <programme start="20260106160000 +0400" stop="20260106170000 +0400" channel="Dubai One">
+    <title lang="en">Las hijas de la Señora García</title>
+    <desc lang="en">Mrs. Garcia strives to achieve her dream at cost of her daughters' happiness.</desc>
+  </programme>
+  <programme start="20260106170000 +0400" stop="20260106190000 +0400" channel="Dubai One">
+    <title lang="en">Help</title>
+    <desc lang="en">Everyone has a secret</desc>
+  </programme>
+  <programme start="20260106190000 +0400" stop="20260106200000 +0400" channel="Dubai One">
+    <title lang="en">Homegrown DXB</title>
+    <desc lang="en">Home Grown Dubai will highlight the businesses and people who are not only making a difference in our country but across the world.</desc>
+  </programme>
+  <programme start="20260106200000 +0400" stop="20260106203000 +0400" channel="Dubai One">
+    <title lang="en">Emirates News Emirates News</title>
+    <desc lang="en">Be the First to Know.</desc>
+  </programme>
+  <programme start="20260106203000 +0400" stop="20260106213000 +0400" channel="Dubai One">
+    <title lang="en">Chaliapin</title>
+    <desc lang="en">A story of Fyodor Chaliapin's journey to the world of theater!</desc>
+  </programme>
+  <programme start="20260106213000 +0400" stop="20260106223000 +0400" channel="Dubai One">
+    <title lang="en">Las hijas de la Señora García</title>
+    <desc lang="en">Mrs. Garcia strives to achieve her dream at cost of her daughters' happiness.</desc>
+  </programme>
+  <programme start="20260106223000 +0400" stop="20260102000000 +0400" channel="Dubai One">
+    <title lang="en">Midnight in the Switchgrass</title>
+    <desc lang="en">Can they stop a serial killer who can't stop himself?</desc>
   </programme>
 </tv>
