@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260102120000 +0800" stop="20260102130000 +0800" channel="mbc action">
-    <title lang="en">برنامج ارض المليون</title>
-  </programme>
   <programme start="20260102130000 +0800" stop="20260102143000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
@@ -180,6 +177,12 @@
   <programme start="20260104213000 +0800" stop="20260104223000 +0800" channel="mbc action">
     <title lang="en">برنامج cars &amp; stars </title>
   </programme>
+  <programme start="20260104223000 +0800" stop="20260104230000 +0800" channel="mbc action">
+    <title lang="en">Sword Art Online</title>
+  </programme>
+  <programme start="20260104230000 +0800" stop="20260105000000 +0800" channel="mbc action">
+    <title lang="en">برنامج Celebrity Car Wars</title>
+  </programme>
   <programme start="20260102123000 +0800" stop="20260102140000 +0800" channel="mbc max">
     <title lang="en">One for the Money</title>
   </programme>
@@ -311,6 +314,9 @@
   </programme>
   <programme start="20260104210000 +0800" stop="20260104230000 +0800" channel="mbc max">
     <title lang="en">Just Go with It</title>
+  </programme>
+  <programme start="20260104230000 +0800" stop="20260105003000 +0800" channel="mbc max">
+    <title lang="en">I Used to Go Here</title>
   </programme>
   <programme start="20260102120000 +0800" stop="20260102140000 +0800" channel="mbc 2">
     <title lang="en">New Year's Eve</title>
@@ -446,5 +452,8 @@
   </programme>
   <programme start="20260104221000 +0800" stop="20260104223000 +0800" channel="mbc 2">
     <title lang="en">Action Zone</title>
+  </programme>
+  <programme start="20260104223000 +0800" stop="20260105000000 +0800" channel="mbc 2">
+    <title lang="en">Salt</title>
   </programme>
 </tv>
