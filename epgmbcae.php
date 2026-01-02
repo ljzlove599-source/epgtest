@@ -1,4 +1,6 @@
 <?php
+ini_set("max_execution_time", "333333000000");
+ini_set('date.timezone','Asia/Shanghai');
 
 /**
  * Multi-Channel EPG Generator for elcinema.com
