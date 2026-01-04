@@ -9,10 +9,7 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260106013000 +0800" stop="20260106030000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-  </programme>
-  <programme start="20260105030000 +0800" stop="20260105040000 +0800" channel="mbc action">
+  <programme start="20260106030000 +0800" stop="20260106040000 +0800" channel="mbc action">
     <title lang="en">برنامج action bodcast </title>
   </programme>
   <programme start="20260105040000 +0800" stop="20260105043000 +0800" channel="mbc action">
@@ -21,10 +18,7 @@
   <programme start="20260105043000 +0800" stop="20260105053000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
-  <programme start="20260106010000 +0800" stop="20260106030000 +0800" channel="mbc max">
-    <title lang="en">Mamma Mia!</title>
-  </programme>
-  <programme start="20260105030000 +0800" stop="20260105050000 +0800" channel="mbc max">
+  <programme start="20260106030000 +0800" stop="20260106050000 +0800" channel="mbc max">
     <title lang="en">Mamma Mia! Here We Go Again</title>
   </programme>
   <programme start="20260105050000 +0800" stop="20260105063500 +0800" channel="mbc max">
@@ -146,6 +140,12 @@
   </programme>
   <programme start="20260107103000 +0800" stop="20260107123000 +0800" channel="mbc max">
     <title lang="en">Passengers</title>
+  </programme>
+  <programme start="20260107123000 +0800" stop="20260107130000 +0800" channel="mbc max">
+    <title lang="en">برنامج Stars In Style</title>
+  </programme>
+  <programme start="20260107130000 +0800" stop="20260107143000 +0800" channel="mbc max">
+    <title lang="en">The Darkest Hour</title>
   </programme>
   <programme start="20260106023000 +0800" stop="20260106040000 +0800" channel="mbc 2">
     <title lang="en">Escape Plan: The Extractors</title>
@@ -272,5 +272,8 @@
   </programme>
   <programme start="20260107121000 +0800" stop="20260107123500 +0800" channel="mbc 2">
     <title lang="en">برنامج 6 Making The Movies</title>
+  </programme>
+  <programme start="20260107123500 +0800" stop="20260107140500 +0800" channel="mbc 2">
+    <title lang="en">Hancock</title>
   </programme>
 </tv>
