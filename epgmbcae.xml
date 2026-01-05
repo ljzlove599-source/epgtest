@@ -9,12 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260105073000 +0800" stop="20260105083000 +0800" channel="mbc action">
-    <title lang="en">Ridiculousness</title>
-  </programme>
-  <programme start="20260105083000 +0800" stop="20260105093000 +0800" channel="mbc action">
-    <title lang="en">Sword Art Online</title>
-  </programme>
   <programme start="20260105093000 +0800" stop="20260105110000 +0800" channel="mbc action">
     <title lang="en">برنامج adernline</title>
   </programme>
@@ -180,8 +174,14 @@
   <programme start="20260107163000 +0800" stop="20260107180000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
-  <programme start="20260105070300 +0800" stop="20260105090000 +0800" channel="mbc max">
-    <title lang="en">3 Days to Kill</title>
+  <programme start="20260107180000 +0800" stop="20260107190000 +0800" channel="mbc action">
+    <title lang="en">برنامج وثائقيات موتورشو</title>
+  </programme>
+  <programme start="20260107190000 +0800" stop="20260107200000 +0800" channel="mbc action">
+    <title lang="en">Sword Art Online</title>
+  </programme>
+  <programme start="20260107200000 +0800" stop="20260107210000 +0800" channel="mbc action">
+    <title lang="en">برنامجcar issuse</title>
   </programme>
   <programme start="20260105090000 +0800" stop="20260105110000 +0800" channel="mbc max">
     <title lang="en">John Wick: Chapter 2</title>
@@ -309,11 +309,11 @@
   <programme start="20260107170000 +0800" stop="20260107183000 +0800" channel="mbc max">
     <title lang="en">Charlie St. Cloud</title>
   </programme>
-  <programme start="20260105070500 +0800" stop="20260105083000 +0800" channel="mbc 2">
-    <title lang="en">Dreamkatcher</title>
+  <programme start="20260107183000 +0800" stop="20260107190000 +0800" channel="mbc max">
+    <title lang="en">برنامج 6 Planet Action</title>
   </programme>
-  <programme start="20260105083000 +0800" stop="20260105100100 +0800" channel="mbc 2">
-    <title lang="en">Mr. Right</title>
+  <programme start="20260107190000 +0800" stop="20260107210000 +0800" channel="mbc max">
+    <title lang="en">A Million Little Pieces</title>
   </programme>
   <programme start="20260105100100 +0800" stop="20260105113900 +0800" channel="mbc 2">
     <title lang="en">The Art of Self-Defense</title>
@@ -434,5 +434,14 @@
   </programme>
   <programme start="20260107153500 +0800" stop="20260107173500 +0800" channel="mbc 2">
     <title lang="en">12 Strong</title>
+  </programme>
+  <programme start="20260107173500 +0800" stop="20260107180000 +0800" channel="mbc 2">
+    <title lang="en">Films &amp; Stars</title>
+  </programme>
+  <programme start="20260107180000 +0800" stop="20260107193500 +0800" channel="mbc 2">
+    <title lang="en">Buried</title>
+  </programme>
+  <programme start="20260107193500 +0800" stop="20260107214000 +0800" channel="mbc 2">
+    <title lang="en">Rescue Dawn</title>
   </programme>
 </tv>
