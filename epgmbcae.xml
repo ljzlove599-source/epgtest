@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260106013000 +0800" stop="20260106030000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-  </programme>
   <programme start="20260106030000 +0800" stop="20260106040000 +0800" channel="mbc action">
     <title lang="en">برنامج action bodcast</title>
   </programme>
@@ -189,6 +186,9 @@
   <programme start="20260108120000 +0800" stop="20260108130000 +0800" channel="mbc action">
     <title lang="en">برنامج action bodcast</title>
   </programme>
+  <programme start="20260108130000 +0800" stop="20260108143000 +0800" channel="mbc action">
+    <title lang="en">Action Ma' Waleed</title>
+  </programme>
   <programme start="20260106025800 +0800" stop="20260106050500 +0800" channel="mbc max">
     <title lang="en">Battleship</title>
   </programme>
@@ -318,8 +318,8 @@
   <programme start="20260108110000 +0800" stop="20260108130000 +0800" channel="mbc max">
     <title lang="en">T2 Trainspotting</title>
   </programme>
-  <programme start="20260106013000 +0800" stop="20260106033500 +0800" channel="mbc 2">
-    <title lang="en">Maze Runner: The Scorch Trials</title>
+  <programme start="20260108130000 +0800" stop="20260108143000 +0800" channel="mbc max">
+    <title lang="en">Infinitely Polar Bear</title>
   </programme>
   <programme start="20260106033500 +0800" stop="20260106040000 +0800" channel="mbc 2">
     <title lang="en">برنامج Celebrity Scoop Season 9</title>
@@ -449,5 +449,8 @@
   </programme>
   <programme start="20260108101000 +0800" stop="20260108123500 +0800" channel="mbc 2">
     <title lang="en">The Revenant</title>
+  </programme>
+  <programme start="20260108123500 +0800" stop="20260108140500 +0800" channel="mbc 2">
+    <title lang="en">Buried</title>
   </programme>
 </tv>

@@ -6789,10 +6789,6 @@
   <channel id="Zoomoo">
     <display-name lang="zh">Zoomoo</display-name>
   </channel>
-  <programme start="20260106013000 +0800" stop="20260106030000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-    <desc lang=""/>
-  </programme>
   <programme start="20260106030000 +0800" stop="20260106040000 +0800" channel="mbc action">
     <title lang="en">برنامج action bodcast</title>
     <desc lang=""/>
@@ -7029,6 +7025,10 @@
     <title lang="en">برنامج action bodcast</title>
     <desc lang=""/>
   </programme>
+  <programme start="20260108130000 +0800" stop="20260108143000 +0800" channel="mbc action">
+    <title lang="en">Action Ma' Waleed</title>
+    <desc lang=""/>
+  </programme>
   <programme start="20260106025800 +0800" stop="20260106050500 +0800" channel="mbc max">
     <title lang="en">Battleship</title>
     <desc lang=""/>
@@ -7201,8 +7201,8 @@
     <title lang="en">T2 Trainspotting</title>
     <desc lang=""/>
   </programme>
-  <programme start="20260106013000 +0800" stop="20260106033500 +0800" channel="mbc 2">
-    <title lang="en">Maze Runner: The Scorch Trials</title>
+  <programme start="20260108130000 +0800" stop="20260108143000 +0800" channel="mbc max">
+    <title lang="en">Infinitely Polar Bear</title>
     <desc lang=""/>
   </programme>
   <programme start="20260106033500 +0800" stop="20260106040000 +0800" channel="mbc 2">
@@ -7375,6 +7375,10 @@
   </programme>
   <programme start="20260108101000 +0800" stop="20260108123500 +0800" channel="mbc 2">
     <title lang="en">The Revenant</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260108123500 +0800" stop="20260108140500 +0800" channel="mbc 2">
+    <title lang="en">Buried</title>
     <desc lang=""/>
   </programme>
   <programme start="20260105000000 +0400" stop="20260105020000 +0400" channel="Dubai One">
@@ -30594,11 +30598,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260106000700 +0800" stop="20260106000700 +0800" channel="spot on news">
-    <title lang="zh">Prince Harry rides the waves in rare clip posted by Meghan</title>
+    <title lang="zh">Fighter jet catches fire: Pilots escape using ejector seats</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260106000700 +0800" stop="20260106000700 +0800" channel="spot on news">
-    <title lang="zh">Fighter jet catches fire: Pilots escape using ejector seats</title>
+    <title lang="zh">Prince Harry rides the waves in rare clip posted by Meghan</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260106000700 +0800" stop="20260106000800 +0800" channel="spot on news">
@@ -31694,11 +31698,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260106042800 +0800" stop="20260106042800 +0800" channel="spot on news">
-    <title lang="zh">Failed advertising stunt: Car crashes into wall</title>
+    <title lang="zh">Adam Sandler looks unusually chic on the red carpet</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260106042800 +0800" stop="20260106042800 +0800" channel="spot on news">
-    <title lang="zh">Adam Sandler looks unusually chic on the red carpet</title>
+    <title lang="zh">Failed advertising stunt: Car crashes into wall</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260106042800 +0800" stop="20260106043000 +0800" channel="spot on news">
@@ -520070,14 +520074,6 @@
     <title lang="zh">小山正在秀</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260105190000 +0000" stop="20260105193000 +0000" channel="中视">
-    <title lang="zh">台湾味道</title>
-    <desc lang="zh">以台湾这片土地上奋斗的小人物为主角的系列纪录片。这些升斗小民、寻常人家为追求他们的愿望、向往、志向、使命或执著，坚持著一种作为。这个作为，就是他们之所以活得精彩的故事，也是《台湾味道》探寻、撷取的影像题材、故事的基础。</desc>
-  </programme>
-  <programme start="20260105193000 +0000" stop="20260105200000 +0000" channel="中视">
-    <title lang="zh">台湾味道</title>
-    <desc lang="zh">以台湾这片土地上奋斗的小人物为主角的系列纪录片。这些升斗小民、寻常人家为追求他们的愿望、向往、志向、使命或执著，坚持著一种作为。这个作为，就是他们之所以活得精彩的故事，也是《台湾味道》探寻、撷取的影像题材、故事的基础。</desc>
-  </programme>
   <programme start="20260105200000 +0000" stop="20260105210000 +0000" channel="中视">
     <title lang="zh">MIT台湾志</title>
     <desc lang="zh">「MIT台湾志」以发现台湾、写真台湾、纪录台湾为主旨，走遍台湾的每寸土地，介绍台湾的人文环境、大自然地理等…</desc>
@@ -520582,10 +520578,6 @@
     <title lang="zh">60分钟</title>
     <desc lang="zh">新闻杂志节目，深入探讨新闻时事与议题，将带给你全方位的报导。</desc>
   </programme>
-  <programme start="20260105190000 +0000" stop="20260105200000 +0000" channel="华视">
-    <title lang="zh">欢喜来逗阵</title>
-    <desc lang="zh">当石珊怡和黄辉宏带著三个儿子和三个女儿们搬进新居时，他们就知道，身上流著黄、石传人的宿命之血，要开始随著这场战争沸腾了，黄、石两家人居然住在一起，百年冤家重新聚首，新仇旧恨会为两家人带来什么重大冲突呢？</desc>
-  </programme>
   <programme start="20260105200000 +0000" stop="20260105210000 +0000" channel="华视">
     <title lang="zh">欢喜来逗阵</title>
     <desc lang="zh">当石珊怡和黄辉宏带著三个儿子和三个女儿们搬进新居时，他们就知道，身上流著黄、石传人的宿命之血，要开始随著这场战争沸腾了，黄、石两家人居然住在一起，百年冤家重新聚首，新仇旧恨会为两家人带来什么重大冲突呢？</desc>
@@ -521033,10 +521025,6 @@
   <programme start="20260110070000 +0000" stop="20260110080000 +0000" channel="华视">
     <title lang="zh">三国演议</title>
     <desc lang="zh">华视新闻部制播新闻专题节目。由国际政经专家汪浩、日本产经新闻台北支局长矢板明夫搭档主持，深度讲评最新国际政经重大事件，跳脱传统政论谈话节目的框架属性。</desc>
-  </programme>
-  <programme start="20260105193000 +0000" stop="20260105200000 +0000" channel="好消息2台">
-    <title lang="zh">生命的触动</title>
-    <desc lang="zh">在像是查尔斯史丹利牧师等知名事工或牧师引领下，带领教友导读圣经，以深入浅出的话语，引用圣经中的智慧，宣扬上帝启示。</desc>
   </programme>
   <programme start="20260105200000 +0000" stop="20260105210000 +0000" channel="好消息2台">
     <title lang="zh">大卫鲍森讲座</title>
@@ -521837,10 +521825,6 @@
   <programme start="20260110070000 +0000" stop="20260110080000 +0000" channel="好消息2台">
     <title lang="zh">特会</title>
     <desc lang="zh">以造就、培灵与更新为宗旨，邀请来自世界各国的知名布道牧师，为信徒传递神国信息，挑望灵火，奋兴众人！为信徒提供一个提升性灵的园地。(资料来源：GOOD TV)</desc>
-  </programme>
-  <programme start="20260105193000 +0000" stop="20260105200000 +0000" channel="好消息">
-    <title lang="zh">生命转折点</title>
-    <desc lang="zh">大卫耶利米牧师以其精辟、严谨、深入浅出的证道内容为基础，传递上帝永不改变的真理。</desc>
   </programme>
   <programme start="20260105200000 +0000" stop="20260105210000 +0000" channel="好消息">
     <title lang="zh">真情部落格</title>
@@ -522722,10 +522706,6 @@
     <title lang="zh">机智青年生活</title>
     <desc lang="zh">这不是韩剧，而是正上演的一出充满血泪与美好友谊的热血植堂连续剧 ！旌旗好生活邀请到三对青年牧师CP，来聊聊由上帝导演，引领青年教会及一群青年团队，经历疯狂又精彩的植堂人生！</desc>
   </programme>
-  <programme start="20260105190000 +0000" stop="20260105200000 +0000" channel="ELTV生活英语台">
-    <title lang="zh">DT踹贡</title>
-    <desc lang="zh">由剑桥大学认证KET、PET、FCE检定考特训老师David Tan主讲，内容包含与时事相关的英语单字、有趣的学习经验分享，以及如何用英文讨论热门话题。</desc>
-  </programme>
   <programme start="20260105200000 +0000" stop="20260105210000 +0000" channel="ELTV生活英语台">
     <title lang="zh">快乐DoReMi</title>
     <desc lang="zh">学习英文的方法千百种，练唱英文歌曲是最轻松愉快的方式之一。本清单节目集结了动听的英文儿歌MV，适合父母带著孩子一起欣赏，在唱唱跳跳的过程中，增进亲子情感，也配合动人旋律，学习英文。</desc>
@@ -523209,18 +523189,6 @@
   <programme start="20260110070000 +0000" stop="20260110080000 +0000" channel="ELTV生活英语台">
     <title lang="zh">萌马吼吼</title>
     <desc lang="zh">主人公吼吼，是一只可爱的奶油独角兽，他生活在甜蜜镇上，这里的居民都是各种甜品，有著各自的职业。作为一名快乐的打工人，吼吼每天都在小镇的不同地方打工，当发型师助理时，用自己的奶油为甜品们打造时下最流行的发型，尤其是杯子蛋糕，对他的设计总是赞不绝口。</desc>
-  </programme>
-  <programme start="20260105190000 +0000" stop="20260105193000 +0000" channel="龙华卡通台">
-    <title lang="zh">彼得与狼奇遇记</title>
-    <desc lang="zh">擅长解决问题的小学生彼得，在路上救了一只狼后，意外展开穿越时空的奇幻冒险！勇者与恶龙、精灵与半人马、复制人与隐形人……彼得与狼的精采奇遇，就此展开！</desc>
-  </programme>
-  <programme start="20260105193000 +0000" stop="20260105200000 +0000" channel="龙华卡通台">
-    <title lang="zh">彼得与狼奇遇记</title>
-    <desc lang="zh">擅长解决问题的小学生彼得，在路上救了一只狼后，意外展开穿越时空的奇幻冒险！勇者与恶龙、精灵与半人马、复制人与隐形人……彼得与狼的精采奇遇，就此展开！</desc>
-  </programme>
-  <programme start="20260105200000 +0000" stop="20260105203000 +0000" channel="龙华卡通台">
-    <title lang="zh">酷奇银河游骑队</title>
-    <desc lang="zh">聪明仓鼠吉克、勇敢松鼠露比、大力狗狗阿力，还有疾速猫咪闪电，组成了宇宙最酷的超级英雄组合！他们帮助其他星球的居民解决问题，保护银河系，并对抗邪恶又神秘的铁鹰怪！</desc>
   </programme>
   <programme start="20260105203000 +0000" stop="20260105210000 +0000" channel="龙华卡通台">
     <title lang="zh">酷奇银河游骑队</title>
@@ -524082,10 +524050,6 @@
     <title lang="zh">呱张爆音团</title>
     <desc lang="zh">12岁的柯阿瑞和他的三个好朋友一起在车库里成立了一支乐队，但是很快的他们就发现他们的乐队很烂 - 真的很烂。问题不在他们的音乐或是百变造型，而是因为柯阿瑞写不出歌词。他就是想不出酷炫的歌词嘛，直到......柯阿瑞找到了他姊姊翠娜的日记。</desc>
   </programme>
-  <programme start="20260105190000 +0000" stop="20260105200000 +0000" channel="亚洲旅游台">
-    <title lang="zh">世界跟我这Young玩</title>
-    <desc lang="zh">《世界跟我这YOUNG玩》，由刘沛颖担任主持人，不同于以往行脚节目内容，采用时下年轻人最爱的随拍纪录、热门景点打卡，即时记录独自出游的状况与趣事，并以女性的角度出发，鼓励女生可以带著勇敢与热情踏上环游世界的梦想之旅，也可独立解决所有困难，强调一个女生的旅行也可以很精采。</desc>
-  </programme>
   <programme start="20260105200000 +0000" stop="20260105210000 +0000" channel="亚洲旅游台">
     <title lang="zh">效廉出发吧</title>
     <desc lang="zh">东森超视全新外景旅游实境综艺节目，由跨世代人夫许效舜、威廉携手主持。两位私交甚笃的知己好友，将在节目中分享彼此人生故事，带观众深入了解每个城镇独有的历史人文，探索每个地方的特色美食生活。一段见证男人友谊的旅行，就此展开！</desc>
@@ -524518,10 +524482,6 @@
     <title lang="zh">融融历险记</title>
     <desc lang="zh">《融融历险记 Ben’s Adventure》的创办人Ben，立志前往那些没有人要去的地方。走过五大洲75余国，喜欢拍影片更爱与当地人交流，因为这才是旅行真正的意义。「旅行的意义是什么？」旅行的意义，看不同的风景，认识不同的人，领略不同的美好，让你觉得世界那么大。</desc>
   </programme>
-  <programme start="20260105190000 +0000" stop="20260105200000 +0000" channel="Smart知识台">
-    <title lang="zh">全民星攻略</title>
-    <desc lang="zh">东森综合台全新益智实境节目，「全民星攻略」，由馆长曾国城担任把关者，考验著每个来挑战九宫格益智游戏艺人明星。想要攻略九宫格关卡，透过创意联想、逻辑推理、理想分析，才有机会获取智慧星币，带走梦幻大奖。</desc>
-  </programme>
   <programme start="20260105200000 +0000" stop="20260105210000 +0000" channel="Smart知识台">
     <title lang="zh">健康2.0</title>
     <desc lang="zh">在节目中，将以各种深入浅出的方式，检测时下流行的健康产品的效用，示范健康烹调与运动方法，并与观众分享照顾家人的健康资讯与心得。</desc>
@@ -524953,10 +524913,6 @@
   <programme start="20260110070000 +0000" stop="20260110080000 +0000" channel="Smart知识台">
     <title lang="zh">台湾60赫兹</title>
     <desc lang="zh">邀请您一起了解台湾各产业发展的脉络，发现台湾的另一种美！</desc>
-  </programme>
-  <programme start="20260105190000 +0000" stop="20260105200000 +0000" channel="龙华戏剧台">
-    <title lang="zh">全民星攻略</title>
-    <desc lang="zh">东森综合台全新益智实境节目，「全民星攻略」，由馆长曾国城担任把关者，考验著每个来挑战九宫格益智游戏艺人明星。想要攻略九宫格关卡，透过创意联想、逻辑推理、理想分析，才有机会获取智慧星币，带走梦幻大奖。</desc>
   </programme>
   <programme start="20260105200000 +0000" stop="20260105210000 +0000" channel="龙华戏剧台">
     <title lang="zh">全民星攻略</title>
@@ -525830,14 +525786,6 @@
     <title lang="zh">包青天</title>
     <desc lang="zh">仁宗皇帝在位期间，包拯（金超群）升任开封府府尹执掌京畿，刚直耿介、铁面无私、明察秋毫、断案如神，百姓爱戴敬仰尊称为“包青天”。并有公孙策（范鸿轩）与南侠展昭（何家劲）一文一武两员大将，使得包拯屡破奇案屡建奇功。</desc>
   </programme>
-  <programme start="20260105192000 +0000" stop="20260105200000 +0000" channel="东森购物1台">
-    <title lang="zh">锁定CH.43、CH.49选购</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260105200000 +0000" stop="20260105204000 +0000" channel="东森购物1台">
-    <title lang="zh">1/1-1/31全月消费实付满5,000元送【500元现金券】(每人限赠1次)。</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
   <programme start="20260105204000 +0000" stop="20260105212000 +0000" channel="东森购物1台">
     <title lang="zh">锁定CH.43、CH.49选购</title>
     <desc lang="zh">暂无描述</desc>
@@ -526482,10 +526430,6 @@
     <title lang="zh">锁定CH.43、CH.49选购</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260105190000 +0000" stop="20260105200000 +0000" channel="龙华偶像台">
-    <title lang="zh">好好生活</title>
-    <desc lang="zh">《好好生活》由陈铭章、陈世峄执导，林雨申、蔡文静领衔主演，邹廷威、姜妍主演的都市欢脱治愈轻喜剧。讲述了吴忧领证当天因为车祸放了男友鸽子，男友分手出国，吴忧伤心寄情工作，却与「大魔王」何西亚擦出火花，两人斗智斗勇成为欢喜冤家的故事。</desc>
-  </programme>
   <programme start="20260105200000 +0000" stop="20260105210000 +0000" channel="龙华偶像台">
     <title lang="zh">圣水洞之吻</title>
     <desc lang="zh">▲ MZ 世代浪漫奇幻剧-意外之吻展开爱恋 ▲灵魂交换「以下犯上」展开爆笑罗曼史 ▲朴所罗门化身暖男实习生爱上傲娇上司 【年下实习生朴所罗门恋年上工作狂金智恩，吻出姊弟恋化学效应！！】</desc>
@@ -526922,10 +526866,6 @@
     <title lang="zh">向风而行</title>
     <desc lang="zh">严苛自律的飞行部副部长顾南亭，因公司改制意外，与性格飒爽不羁的程霄成上下属和师徒关系。面对接踵而来的突发航空事件，两人携手绝地反击、化险为夷。在解决危机的途中，追求稳定秩序的顾南亭时常被不按常理出牌的程霄打乱计划，但仍然能够解决困难，并在过程中克服著自身的缺点，一路朝着梦想前进。</desc>
   </programme>
-  <programme start="20260105190000 +0000" stop="20260105200000 +0000" channel="龙华日韩台">
-    <title lang="zh">追踪者</title>
-    <desc lang="zh">聪明又狠毒、宛如恶棍般的黄东柱（任时完）曾是检查大企业贿赂的优秀会计师，却忽然辞去工作，转任大韩民国国税厅税收五局一组的组长，剧情讲述他如何带领拥有「垃圾回收场」之称的税收五局，来搅乱国税厅内部斗争的一池春水。</desc>
-  </programme>
   <programme start="20260105200000 +0000" stop="20260105210000 +0000" channel="龙华日韩台">
     <title lang="zh">欧若拉公主</title>
     <desc lang="zh">大企业天王食品会长家，晚来得到的独生女欧若拉竟对完美挑剔男的小说家黄马马一见钟情，而这两家族之间会因为这两人间所发生的事情，有何改变呢？</desc>
@@ -527357,14 +527297,6 @@
   <programme start="20260110070000 +0000" stop="20260110080000 +0000" channel="龙华日韩台">
     <title lang="zh">绅士与小姐</title>
     <desc lang="zh">朴丹丹（李世熙）因受不了父亲偏心继母而离家出走，在山上散心时遇到穿西装健行的李英国（智铉寓），后来丹丹住进李家，成为三个熊孩子的家教。因为朴老师的关系，英国与孩子的关系越来越亲近，他还发现自己的心渐渐因丹丹而动摇了…</desc>
-  </programme>
-  <programme start="20260105192000 +0000" stop="20260105200000 +0000" channel="东森购物2台">
-    <title lang="zh">锁定CH.43、CH.49选购</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260105200000 +0000" stop="20260105204000 +0000" channel="东森购物2台">
-    <title lang="zh">1/1-1/31全月消费实付满5,000元送【500元现金券】(每人限赠1次)。</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260105204000 +0000" stop="20260105212000 +0000" channel="东森购物2台">
     <title lang="zh">锁定CH.43、CH.49选购</title>
@@ -528009,10 +527941,6 @@
   <programme start="20260110072000 +0000" stop="20260110080000 +0000" channel="东森购物2台">
     <title lang="zh">锁定CH.43、CH.49选购</title>
     <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260105190000 +0000" stop="20260105200000 +0000" channel="华视新闻">
-    <title lang="zh">World News 9</title>
-    <desc lang="zh">华视新闻制作，带给观众最公正客观的新闻视野，由优质主播与新闻团队联手打造，每日提供最新最即时的各种国际新闻。</desc>
   </programme>
   <programme start="20260105200000 +0000" stop="20260105210000 +0000" channel="华视新闻">
     <title lang="zh">华视2400夜间新闻</title>
@@ -528870,10 +528798,6 @@
     <title lang="zh">好宅敲敲门</title>
     <desc lang="zh">由廖婕妤主持，节目将深入分析房地产市场动态，提供区域房价、趋势报导，同时有房地产界人物专访，透过人物故事看房市更迭，并搭配每周精选、具吸引力之房地产新闻，以及主播开箱名人明星家，访谈买房心法、投资观点。</desc>
   </programme>
-  <programme start="20260105190000 +0000" stop="20260105200000 +0000" channel="寰宇财经台">
-    <title lang="zh">巷弄美食家</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
   <programme start="20260105200000 +0000" stop="20260105210000 +0000" channel="寰宇财经台">
     <title lang="zh">寰宇追追追</title>
     <desc lang="zh">暂无描述</desc>
@@ -529305,10 +529229,6 @@
   <programme start="20260110070000 +0000" stop="20260110080000 +0000" channel="寰宇财经台">
     <title lang="zh">打卡吧!我的炫FOOD日记</title>
     <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260105190000 +0000" stop="20260105200000 +0000" channel="中视新闻">
-    <title lang="zh">中视新闻全球报导</title>
-    <desc lang="zh">中视每晚七点由主播哈远仪为全国观众最专业、准确的新闻报导。</desc>
   </programme>
   <programme start="20260105200000 +0000" stop="20260105210000 +0000" channel="中视新闻">
     <title lang="zh">中视新闻即时现场</title>
@@ -529742,10 +529662,6 @@
     <title lang="zh">中视新闻即时现场</title>
     <desc lang="zh">由主播萧惠文播报，以SNG车让观众看到最即时的新闻报导，并以最客观的角度，为观众完整报导上午发生之重要新闻。</desc>
   </programme>
-  <programme start="20260105190000 +0000" stop="20260105200000 +0000" channel="中天新闻台">
-    <title lang="zh">头条开讲</title>
-    <desc lang="zh">中天新闻为服务广大观众，提供多元论述平台，发挥媒体第四权的社会责任，于十月五日起，周一至周五晚间八点同一时段，接档推出《头条开讲》谈话节目，由主播周玉琴及政治中心主任林嘉源共同主持，敬请支持中天的观众朋友准时锁定！</desc>
-  </programme>
   <programme start="20260105200000 +0000" stop="20260105210000 +0000" channel="中天新闻台">
     <title lang="zh">中天SUPER夜线</title>
     <desc lang="zh">由中天新闻专业主播带来最新的晚间新闻特报。</desc>
@@ -530141,10 +530057,6 @@
   <programme start="20260109220000 +0000" stop="20260109230000 +0000" channel="中天新闻台">
     <title lang="zh">中天新闻 中天晨报</title>
     <desc lang="zh">每天早晨时段，由早报主播与您一起读报，看遍天下事。</desc>
-  </programme>
-  <programme start="20260105185500 +0000" stop="20260105195500 +0000" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇焦点新闻</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260105195500 +0000" stop="20260105205500 +0000" channel="寰宇新闻台湾台">
     <title lang="zh">寰宇焦点新闻</title>
@@ -530578,10 +530490,6 @@
     <title lang="zh">嘘你不知道的事</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260105185500 +0000" stop="20260105195500 +0000" channel="寰宇新闻台">
-    <title lang="zh">寰宇世界通</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
   <programme start="20260105195500 +0000" stop="20260105205500 +0000" channel="寰宇新闻台">
     <title lang="zh">寰宇世界通</title>
     <desc lang="zh">暂无描述</desc>
@@ -531012,14 +530920,6 @@
   </programme>
   <programme start="20260110065500 +0000" stop="20260110075500 +0000" channel="寰宇新闻台">
     <title lang="zh">寰宇全球现场</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260105193000 +0000" stop="20260105200000 +0000" channel="第1商业台">
-    <title lang="zh">股市强强滚-亚洲投顾-郑伟群分析师</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260105200000 +0000" stop="20260105203000 +0000" channel="第1商业台">
-    <title lang="zh">旗开得胜-顾德投顾-张家豪分析师</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260105203000 +0000" stop="20260105210000 +0000" channel="第1商业台">
@@ -532409,10 +532309,6 @@
   <programme start="20260110053000 +0000" stop="20260110072500 +0000" channel="龙华电影台">
     <title lang="zh">人在囧途</title>
     <desc lang="zh">玩具集团老板李成功（徐峥）计划回家乡长沙过年，同时在二奶的逼迫下，准备年后与大老婆摊牌离婚。结果，他在机场巧遇前往长沙讨债的挤奶工牛耿（王宝强）。命运捉弄下，两人自结伴而行后一路囧事不断，也遭遇了各式各样的人和千奇百怪的事…</desc>
-  </programme>
-  <programme start="20260105183000 +0000" stop="20260105200000 +0000" channel="龙华洋片台">
-    <title lang="zh">黑暗魔书</title>
-    <desc lang="zh">一名私家侦探读了一本来历险恶的书，不知不觉中让他和他的女儿陷入了为生命以及灵魂而战的境地。</desc>
   </programme>
   <programme start="20260105200000 +0000" stop="20260105220000 +0000" channel="龙华洋片台">
     <title lang="zh">我的野蛮王妃(1-2)(首)</title>
@@ -634689,11 +634585,11 @@
     <title lang="zh">8 Mani Seithigal</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260106015300 +0800" stop="20260106043000 +0800" channel="KTV">
+  <programme start="20260106015300 +0800" stop="20260106044000 +0800" channel="KTV">
     <title lang="zh">Ulagam Pirandhadhu Enakkaaga</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260106043000 +0800" stop="20260106073000 +0800" channel="KTV">
+  <programme start="20260106044000 +0800" stop="20260106073000 +0800" channel="KTV">
     <title lang="zh">Karungali</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -634881,11 +634777,11 @@
     <title lang="zh">Suttum Vizhi Sudare</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260106023500 +0800" stop="20260106033500 +0800" channel="Star_Vijay_HD">
+  <programme start="20260106023500 +0800" stop="20260106033700 +0800" channel="Star_Vijay_HD">
     <title lang="zh">Bigg Boss Tamil S9 Ep93</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260106033500 +0800" stop="20260106043000 +0800" channel="Star_Vijay_HD">
+  <programme start="20260106033700 +0800" stop="20260106043000 +0800" channel="Star_Vijay_HD">
     <title lang="zh">Neeya Naana Ep743</title>
     <desc lang="zh"> </desc>
   </programme>
