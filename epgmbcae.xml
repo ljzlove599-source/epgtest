@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260105143000 +0800" stop="20260105153000 +0800" channel="mbc action">
-    <title lang="en">برنامج bear grylls</title>
-  </programme>
   <programme start="20260105153000 +0800" stop="20260105163000 +0800" channel="mbc action">
     <title lang="en">Sword Art Online</title>
   </programme>
@@ -186,6 +183,9 @@
   <programme start="20260108000000 +0800" stop="20260108010000 +0800" channel="mbc action">
     <title lang="en">Sword Art Online</title>
   </programme>
+  <programme start="20260108010000 +0800" stop="20260108020000 +0800" channel="mbc action">
+    <title lang="en">برنامج action bodcast</title>
+  </programme>
   <programme start="20260105143100 +0800" stop="20260105162900 +0800" channel="mbc max">
     <title lang="en">Just Go with It</title>
   </programme>
@@ -318,8 +318,11 @@
   <programme start="20260107230000 +0800" stop="20260108003000 +0800" channel="mbc max">
     <title lang="en">Grown Ups 2</title>
   </programme>
-  <programme start="20260105142000 +0800" stop="20260105155500 +0800" channel="mbc 2">
-    <title lang="en">Salt</title>
+  <programme start="20260108003000 +0800" stop="20260108010000 +0800" channel="mbc max">
+    <title lang="en">برنامج World Of Movies</title>
+  </programme>
+  <programme start="20260108010000 +0800" stop="20260108030000 +0800" channel="mbc max">
+    <title lang="en">Dumplin'</title>
   </programme>
   <programme start="20260105155500 +0800" stop="20260105175000 +0800" channel="mbc 2">
     <title lang="en">Jurassic World</title>
