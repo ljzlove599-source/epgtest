@@ -324,10 +324,10 @@ $cid655 = array(
     array('ofiii216', 'SiCAR愛車酷'),
     array('ofiii217', '狂人日誌'),
     array('ofiii218', '脖子解說 Mr. Neck'),
-    array('ofiii225', '食尚玩家-Hello腹餓代'),
-    array('ofiii226', '食尚玩家-天菜就醬吃'),
-    array('ofiii227', '食尚玩家-2天1夜go'),
-    array('ofiii228', '食尚玩家-熱血48小時'),
+   // array('ofiii225', '食尚玩家-Hello腹餓代'),
+   // array('ofiii226', '食尚玩家-天菜就醬吃'),
+   // array('ofiii227', '食尚玩家-2天1夜go'),
+   // array('ofiii228', '食尚玩家-熱血48小時'),
     array('ofiii234', '非凡大探索'),
     array('ofiii235', '台灣1001個故事'),
     array('ofiii236', '詹姆士出走料理'),
@@ -346,8 +346,8 @@ $cid655 = array(
     array('ofiii250', '紓壓雷雨聲'),
     array('ofiii251', '療癒下雨聲'),
     array('ofiii252', '放鬆的爵士午後'),
-    array('ofiii254', '夏日陽光海浪聲'),
-    array('ofiii255', '大自然流水聲'),
+   // array('ofiii254', '夏日陽光海浪聲'),
+    //array('ofiii255', '大自然流水聲'),
 );
 
 $nid655 = sizeof($cid655);
