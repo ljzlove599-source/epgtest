@@ -25,7 +25,7 @@
 5. epgnewshanghai.php 用於提取上海地方台；
 6. epgnewhebei.php 用於提取河北地方台；
 7. twepg.xml 繁體版本EPG，適合港澳台地區；
-8. swepg.xml 簡體版本EPG，適合內地用戶。
+8. swepg.xml 簡體版本EPG，適合中國內地及東南亞華人用戶。
 
 ### （三）區域适配版本
 | EPG版本 | 文件名 | 適用區域 | 下載鏈接 |
