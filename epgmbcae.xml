@@ -9,12 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260106050000 +0800" stop="20260106063000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-  </programme>
-  <programme start="20260106063000 +0800" stop="20260106073000 +0800" channel="mbc action">
-    <title lang="en">برنامج get  out a life with bear gryls</title>
-  </programme>
   <programme start="20260106073000 +0800" stop="20260106083000 +0800" channel="mbc action">
     <title lang="en">Sword Art Online</title>
   </programme>
@@ -186,8 +180,11 @@
   <programme start="20260108143000 +0800" stop="20260108153000 +0800" channel="mbc action">
     <title lang="en">برنامج Accelerate</title>
   </programme>
-  <programme start="20260106053000 +0800" stop="20260106070400 +0800" channel="mbc max">
-    <title lang="en">Firestarter</title>
+  <programme start="20260108153000 +0800" stop="20260108163000 +0800" channel="mbc action">
+    <title lang="en">Sword Art Online</title>
+  </programme>
+  <programme start="20260108163000 +0800" stop="20260108180000 +0800" channel="mbc action">
+    <title lang="en">Action Ma' Waleed</title>
   </programme>
   <programme start="20260106070400 +0800" stop="20260106083500 +0800" channel="mbc max">
     <title lang="en">The Darkest Hour</title>
@@ -315,11 +312,8 @@
   <programme start="20260108143000 +0800" stop="20260108160000 +0800" channel="mbc max">
     <title lang="en">Grown Ups</title>
   </programme>
-  <programme start="20260106040000 +0800" stop="20260106060000 +0800" channel="mbc 2">
-    <title lang="en">The Suicide Squad</title>
-  </programme>
-  <programme start="20260106060000 +0800" stop="20260106063000 +0800" channel="mbc 2">
-    <title lang="en">Action Zone</title>
+  <programme start="20260108160000 +0800" stop="20260108180000 +0800" channel="mbc max">
+    <title lang="en">Night School</title>
   </programme>
   <programme start="20260106063000 +0800" stop="20260106081500 +0800" channel="mbc 2">
     <title lang="en">Jiu Jitsu</title>
@@ -446,5 +440,8 @@
   </programme>
   <programme start="20260108140500 +0800" stop="20260108153000 +0800" channel="mbc 2">
     <title lang="en">Over the Hedge</title>
+  </programme>
+  <programme start="20260108153000 +0800" stop="20260108173000 +0800" channel="mbc 2">
+    <title lang="en">Penguins of Madagascar</title>
   </programme>
 </tv>
