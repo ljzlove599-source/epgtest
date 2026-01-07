@@ -1,10 +1,31 @@
 <?php
-/**
- * KBS World EPG Scraper for PHP 7.4
- * Target URL: https://kbsworld.kbs.co.kr/schedule/list.php?lang=e&time_add=0&sdate=2026-01-08
- */
+header('Content-Type: text/plain; charset=UTF-8');
+ini_set("max_execution_time", "900");
+ini_set('date.timezone','Asia/Shanghai');
+ini_set('memory_limit', '512M');
 
-header('Content-Type: application/xml; charset=utf-8');
+// 开启输出缓冲
+
+//header('Content-Type: application/xml; charset=utf-8');
+
+// 清理字符串中的无效XML字符
+function clean_xml_string($string) {
+    if (empty($string)) {
+        return '';
+    }
+    
+    // 移除控制字符和非XML合法字符（除了制表符、换行符和回车符）
+    $string = preg_replace('/[\x00-\x08\x0B\x0C\x0E-\x1F\x7F]/', '', $string);
+    
+    // 替换XML特殊字符
+    $string = str_replace(
+        ['&', '<', '>', '"', "'"],
+        ['&amp;', '&lt;', '&gt;', '&quot;', '&apos;'],
+        $string
+    );
+    
+    return trim($string);
+}
 
 function fetch_epg($date) {
     $url = "https://kbsworld.kbs.co.kr/schedule/list.php?lang=e&time_add=0&sdate=" . $date;
@@ -15,7 +36,13 @@ function fetch_epg($date) {
     curl_setopt($ch, CURLOPT_USERAGENT, 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36');
     curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
     curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+    curl_setopt($ch, CURLOPT_TIMEOUT, 30);
     $html = curl_exec($ch);
+    
+    if (curl_errno($ch)) {
+        error_log("cURL Error for $date: " . curl_error($ch));
+    }
+    
     curl_close($ch);
 
     if (!$html) {
@@ -24,7 +51,10 @@ function fetch_epg($date) {
 
     $dom = new DOMDocument();
     libxml_use_internal_errors(true);
-    $dom->loadHTML(mb_convert_encoding($html, 'HTML-ENTITIES', 'UTF-8'));
+    
+    // 使用正确的编码处理
+    $html = mb_convert_encoding($html, 'HTML-ENTITIES', 'UTF-8');
+    $dom->loadHTML($html, LIBXML_HTML_NOIMPLIED | LIBXML_HTML_NODEFDTD);
     libxml_clear_errors();
 
     $xpath = new DOMXPath($dom);
@@ -37,24 +67,23 @@ function fetch_epg($date) {
         
         // 提取時間 (從 twice-left-tab 獲取)
         $timeNode = $xpath->query(".//div[contains(@class, 'twice-left-tab')]//span[contains(@class, 'time')]", $item);
-        $program['time'] = $timeNode->length > 0 ? trim($timeNode->item(0)->nodeValue) : '';
+        $program['time'] = $timeNode->length > 0 ? clean_xml_string(trim($timeNode->item(0)->nodeValue)) : '';
 
         // 提取類別
         $genreNode = $xpath->query(".//div[contains(@class, 'genre')]", $item);
-        $program['category'] = $genreNode->length > 0 ? trim($genreNode->item(0)->nodeValue) : '';
+        $program['category'] = $genreNode->length > 0 ? clean_xml_string(trim($genreNode->item(0)->nodeValue)) : '';
 
         // 提取標題 (在 twice-right-tab 內的 div.title)
         $titleNode = $xpath->query(".//div[contains(@class, 'twice-right-tab')]//div[contains(@class, 'title')]", $item);
         if ($titleNode->length > 0) {
-            // 移除內部的 span (例如集數) 以獲得乾淨的標題，或者保留它
-            $program['title'] = trim($titleNode->item(0)->nodeValue);
+            $program['title'] = clean_xml_string(trim($titleNode->item(0)->nodeValue));
         } else {
             $program['title'] = '';
         }
 
         // 提取描述
         $descNode = $xpath->query(".//div[contains(@class, 'twice-right-tab')]//div[contains(@class, 'desc')]", $item);
-        $program['description'] = $descNode->length > 0 ? trim($descNode->item(0)->nodeValue) : '';
+        $program['description'] = $descNode->length > 0 ? clean_xml_string(trim($descNode->item(0)->nodeValue)) : '';
 
         if (!empty($program['title'])) {
             $program['date'] = $date; // 添加日期信息
@@ -135,43 +164,61 @@ function calculate_end_times($programs) {
 $all_programs = calculate_end_times($all_programs);
 
 // 建立 XML 输出
-$xml = new SimpleXMLElement('<?xml version="1.0" encoding="UTF-8"?><tv/>');
-$xml->addAttribute('generator-info-name', 'KBS World EPG Scraper');
-$xml->addAttribute('generator-info-url', 'https://kbsworld.kbs.co.kr/');
+try {
+    $xml = new SimpleXMLElement('<?xml version="1.0" encoding="UTF-8"?><tv/>');
+    $xml->addAttribute('generator-info-name', 'KBS World EPG Scraper');
+    $xml->addAttribute('generator-info-url', 'https://kbsworld.kbs.co.kr/');
 
-$channel = $xml->addChild('channel');
-$channel->addAttribute('id', 'KBSWorld');
-$channel->addChild('display-name', 'KBS World');
-$channel->addChild('display-name', 'KBS World')->addAttribute('lang', 'en');
+    $channel = $xml->addChild('channel');
+    $channel->addAttribute('id', 'KBSWorld');
+    $channel->addChild('display-name', 'KBS World');
+    $channel->addChild('display-name', 'KBS World')->addAttribute('lang', 'en');
 
-if ($all_programs) {
-    foreach ($all_programs as $p) {
-        $programme = $xml->addChild('programme');
-        $programme->addAttribute('channel', 'KBSWorld');
-        
-        // 设置开始时间
-        $startTime = date('YmdHis', $p['start_timestamp']) . ' +0900';
-        $programme->addAttribute('start', $startTime);
-        
-        // 设置结束时间
-        $endTime = date('YmdHis', $p['end_timestamp']) . ' +0900';
-        $programme->addAttribute('stop', $endTime);
-        
-        $programme->addChild('title', htmlspecialchars($p['title']))->addAttribute('lang', 'en');
-        if (!empty($p['description'])) {
-            $programme->addChild('desc', htmlspecialchars($p['description']))->addAttribute('lang', 'en');
-        }
-        if (!empty($p['category'])) {
-            $programme->addChild('category', htmlspecialchars($p['category']))->addAttribute('lang', 'en');
+    if ($all_programs) {
+        foreach ($all_programs as $p) {
+            $programme = $xml->addChild('programme');
+            $programme->addAttribute('channel', 'KBSWorld');
+            
+            // 设置开始时间
+            $startTime = date('YmdHis', $p['start_timestamp']) . ' +0900';
+            $programme->addAttribute('start', $startTime);
+            
+            // 设置结束时间
+            $endTime = date('YmdHis', $p['end_timestamp']) . ' +0900';
+            $programme->addAttribute('stop', $endTime);
+            
+            $programme->addChild('title', $p['title'])->addAttribute('lang', 'en');
+            if (!empty($p['description'])) {
+                $programme->addChild('desc', $p['description'])->addAttribute('lang', 'en');
+            }
+            if (!empty($p['category'])) {
+                $programme->addChild('category', $p['category'])->addAttribute('lang', 'en');
+            }
         }
     }
+    
+    // 输出XML
+    $xml_string = $xml->asXML();
+    
+    // 清理输出缓冲
+    ob_clean();
+    
+    /*
+输出更格式化的XML
+    $dom = new DOMDocument('1.0');
+    $dom->preserveWhiteSpace = false;
+    $dom->formatOutput = true;
+    $dom->loadXML($xml_string);
+*/
+  file_put_contents('epgkbsworld.xml', $xml_string);
+    
+} catch (Exception $e) {
+    // 如果XML生成失败，输出错误信息
+    ob_clean();
+    echo '<?xml version="1.0" encoding="UTF-8"?>';
+    echo '<error>';
+    echo '<message>' . htmlspecialchars($e->getMessage()) . '</message>';
+    echo '<file>' . htmlspecialchars($e->getFile()) . '</file>';
+    echo '<line>' . htmlspecialchars($e->getLine()) . '</line>';
+    echo '</error>';
 }
-
-// 输出更格式化的XML
-$dom = new DOMDocument('1.0');
-$dom->preserveWhiteSpace = false;
-$dom->formatOutput = true;
-$dom->loadXML($xml->asXML());
- $dom->saveXML();
- file_put_contents('epgkbsworld.xml', $dom);
-?>
