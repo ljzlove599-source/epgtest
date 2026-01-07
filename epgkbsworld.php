@@ -3,7 +3,15 @@ header('Content-Type: text/plain; charset=UTF-8');
 ini_set("max_execution_time", "900");
 ini_set('date.timezone','Asia/Shanghai');
 ini_set('memory_limit', '512M');
+$dt1=date('Y-m-d');//獲取當前日期
+$dt18=date('Y');//獲取當前日期
+$dt2=date('Y-m-d',time()+24*3600);//第二天日期
+$dt21=date('Ymd',time()+48*3600);//第三天日期
+$dt3=date('Ymd',time()+6*24*3600);
 
+$dt11=date('Ymd');//獲取當前日期
+$dt12=date('Ymd',time()+24*3600);//第二天日期
+$dt13=date('Ymd',time()+48*3600);//第二天日期
 // 开启输出缓冲
 
 //header('Content-Type: application/xml; charset=utf-8');
@@ -95,7 +103,7 @@ function fetch_epg($date) {
 }
 
 // 获取两天的节目数据
-$dates = ['2026-01-07', '2026-01-08'];
+$dates = [$dt1, $dt2];
 $all_programs = [];
 
 foreach ($dates as $date) {
