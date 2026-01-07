@@ -9,12 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260107163000 +0800" stop="20260107180000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-  </programme>
-  <programme start="20260107180000 +0800" stop="20260107190000 +0800" channel="mbc action">
-    <title lang="en">برنامج وثائقيات موتورشو</title>
-  </programme>
   <programme start="20260107190000 +0800" stop="20260107200000 +0800" channel="mbc action">
     <title lang="en">Sword Art Online</title>
   </programme>
@@ -117,12 +111,6 @@
   <programme start="20260109043000 +0800" stop="20260109053000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
   </programme>
-  <programme start="20260107170000 +0800" stop="20260107183000 +0800" channel="mbc max">
-    <title lang="en">Charlie St. Cloud</title>
-  </programme>
-  <programme start="20260107183000 +0800" stop="20260107190000 +0800" channel="mbc max">
-    <title lang="en">برنامج 6 Planet Action</title>
-  </programme>
   <programme start="20260107190000 +0800" stop="20260107210000 +0800" channel="mbc max">
     <title lang="en">A Million Little Pieces</title>
   </programme>
@@ -222,11 +210,8 @@
   <programme start="20260110030000 +0800" stop="20260110050000 +0800" channel="mbc max">
     <title lang="en">The Girl on the Train</title>
   </programme>
-  <programme start="20260107173500 +0800" stop="20260107180000 +0800" channel="mbc 2">
-    <title lang="en">Films &amp; Stars</title>
-  </programme>
-  <programme start="20260107180000 +0800" stop="20260107193500 +0800" channel="mbc 2">
-    <title lang="en">Buried</title>
+  <programme start="20260110050000 +0800" stop="20260110073000 +0800" channel="mbc max">
+    <title lang="en">Gone Girl</title>
   </programme>
   <programme start="20260107193500 +0800" stop="20260107214000 +0800" channel="mbc 2">
     <title lang="en">Rescue Dawn</title>
@@ -326,5 +311,8 @@
   </programme>
   <programme start="20260110020000 +0800" stop="20260110040000 +0800" channel="mbc 2">
     <title lang="en">Jurassic World: Fallen Kingdom</title>
+  </programme>
+  <programme start="20260110040000 +0800" stop="20260110060000 +0800" channel="mbc 2">
+    <title lang="en">Rampage</title>
   </programme>
 </tv>
