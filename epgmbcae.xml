@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260107110000 +0800" stop="20260107120000 +0800" channel="mbc action">
-    <title lang="en">بودكاست ملح الدوري</title>
-  </programme>
   <programme start="20260107120000 +0800" stop="20260107130000 +0800" channel="mbc action">
     <title lang="en">برنامج action bodcast</title>
   </programme>
@@ -132,9 +129,6 @@
   <programme start="20260109043000 +0800" stop="20260109053000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
   </programme>
-  <programme start="20260107103000 +0800" stop="20260107123000 +0800" channel="mbc max">
-    <title lang="en">Passengers</title>
-  </programme>
   <programme start="20260107123000 +0800" stop="20260107130000 +0800" channel="mbc max">
     <title lang="en">برنامج Stars In Style</title>
   </programme>
@@ -243,12 +237,6 @@
   <programme start="20260109210000 +0800" stop="20260109230000 +0800" channel="mbc max">
     <title lang="en">Christine</title>
   </programme>
-  <programme start="20260107103000 +0800" stop="20260107121000 +0800" channel="mbc 2">
-    <title lang="en">Jiu Jitsu</title>
-  </programme>
-  <programme start="20260107121000 +0800" stop="20260107123500 +0800" channel="mbc 2">
-    <title lang="en">برنامج 6 Making The Movies</title>
-  </programme>
   <programme start="20260107123500 +0800" stop="20260107140500 +0800" channel="mbc 2">
     <title lang="en">Hancock</title>
   </programme>
@@ -353,5 +341,8 @@
   </programme>
   <programme start="20260109193000 +0800" stop="20260109213000 +0800" channel="mbc 2">
     <title lang="en">Above Suspicion</title>
+  </programme>
+  <programme start="20260109213000 +0800" stop="20260110000000 +0800" channel="mbc 2">
+    <title lang="en">Hulk</title>
   </programme>
 </tv>
