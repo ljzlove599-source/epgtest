@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260107063000 +0800" stop="20260107070000 +0800" channel="mbc action">
-    <title lang="en">Sword Art Online</title>
-  </programme>
   <programme start="20260107070000 +0800" stop="20260107080000 +0800" channel="mbc action">
     <title lang="en">برنامج action bodcast</title>
   </programme>
@@ -147,9 +144,6 @@
   <programme start="20260109043000 +0800" stop="20260109053000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
   </programme>
-  <programme start="20260107050000 +0800" stop="20260107070000 +0800" channel="mbc max">
-    <title lang="en">T2 Trainspotting</title>
-  </programme>
   <programme start="20260107070000 +0800" stop="20260107083000 +0800" channel="mbc max">
     <title lang="en">Nerve</title>
   </programme>
@@ -261,6 +255,9 @@
   <programme start="20260109143000 +0800" stop="20260109163000 +0800" channel="mbc max">
     <title lang="en">Grown Ups 2</title>
   </programme>
+  <programme start="20260109163000 +0800" stop="20260109183000 +0800" channel="mbc max">
+    <title lang="en">The Iron Lady</title>
+  </programme>
   <programme start="20260107063000 +0800" stop="20260107083000 +0800" channel="mbc 2">
     <title lang="en">Rescue Dawn</title>
   </programme>
@@ -371,5 +368,8 @@
   </programme>
   <programme start="20260109140000 +0800" stop="20260109170000 +0800" channel="mbc 2">
     <title lang="en">The Hunger Games: Catching Fire</title>
+  </programme>
+  <programme start="20260109170000 +0800" stop="20260109193000 +0800" channel="mbc 2">
+    <title lang="en">Downton Abbey: A New Era</title>
   </programme>
 </tv>
