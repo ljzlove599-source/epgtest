@@ -3,6 +3,7 @@
 $xmlFiles = [
     './epgmbcae.xml',
     './epgdubaione.xml',
+    './epgkbsworld.xml',
     './epgasia.xml',
      './epgdiyicaijing.xml',
     './epgkai1.xml',
