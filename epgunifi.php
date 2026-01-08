@@ -59,6 +59,40 @@ for ($k7 = 0; $k7 <= 7; $k7++) {
         $chn .= "<display-name lang=\"zh\">" . htmlspecialchars($cs, ENT_XML1, 'UTF-8') . "</display-name>\n";
         $chn .= "</channel>\n";
     }
+}
+for ($k7 = 0; $k7 <= 7; $k7++) {
+//https://data-store-cdn.api.tmcms.quickplay.com/content/epg?start=2026-01-08T16:00:00.000Z&end=2026-01-09T16:00:00Z&reg=my&dt=web&client=tm-unifitv-web&seg=cohort4&pf=regular&locale=en&pageSize=10&pageNumber=' . $k7
+
+    $url7 = 'https://data-store-cdn.api.tmcms.quickplay.com/content/epg?start='.$dt1.'T16:00:00.000Z&end='.$dt2.'T16:00:00Z&reg=my&dt=web&client=tm-unifitv-web&seg=cohort4&pf=regular&locale=en&pageSize=10&pageNumber=' . $k7;
+
+    $ch7 = curl_init();
+    curl_setopt($ch7, CURLOPT_URL, $url7);
+    curl_setopt($ch7, CURLOPT_SSL_VERIFYPEER, false);
+    curl_setopt($ch7, CURLOPT_SSL_VERIFYHOST, false);
+    curl_setopt($ch7, CURLOPT_RETURNTRANSFER, 1);
+    curl_setopt($ch7, CURLOPT_TIMEOUT, 30);
+    $re7 = curl_exec($ch7);
+    curl_close($ch7);
+
+    if ($re7 === false) {
+        continue;
+    }
+
+    $re7 = str_replace('&', '&amp;', $re7);
+    $json7 = json_decode($re7);
+
+    if (!isset($json7->data)) {
+        continue;
+    }
+
+    $data7 = $json7->data;
+    $tuu7 = count($data7);
+
+    // 首先收集所有频道
+    $channels = [];
+    for ($i7 = 0; $i7 < $tuu7; $i7++) {
+        $cid = $data7[$i7]->cid; // 频道ID
+        $cs = $data7[$i7]->cs; // 电视台名称
 
     // 然后为每个频道获取节目表
     foreach ($channels as $cid => $cs) {
@@ -159,7 +193,7 @@ for ($k7 = 0; $k7 <= 7; $k7++) {
 
 
 
-
+}
 
 }
 
