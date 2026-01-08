@@ -101,6 +101,11 @@ for ($k7 = 0; $k7 <= 7; $k7++) {
     foreach ($channels as $cid => $cs) {
 
         $url71 = 'https://data-store-cdn.api.tmcms.quickplay.com/content/epg?start='.$dt1.'T00:00:00.000Z&end='.$dt2.'T00:00:00Z&reg=my&dt=web&client=tm-unifitv-web&seg=cohort4&pf=regular&locale=en&channel=' . $cid . '&pageSize=10&pageNumber=1';
+//https://data-store-cdn.api.tmcms.quickplay.com/content/epg?start=2026-01-08T16:00:00.000Z&end=2026-01-09T16:00:00Z&reg=my&dt=web&client=tm-unifitv-web&seg=cohort4&pf=regular&locale=en&channel=31780236-3056-4866-AE99-B3C33D65B073&pageSize=10&pageNumber=1
+
+
+//https://data-store-cdn.api.tmcms.quickplay.com/content/epg?start=2025-01-09T00:00:00.000Z&end=2025-01-08T00:00:00Z&reg=my&dt=web&client=tm-unifitv-web&seg=cohort4&pf=regular&locale=en&channel=9A5A508C-BB3A-4139-8C2F-8B092336F192&pageSize=10&pageNumber=1
+https://unifitv.com.my/epg/9A5A508C-BB3A-4139-8C2F-8B092336F192
 
         $ch71 = curl_init();
         curl_setopt($ch71, CURLOPT_URL, $url71);
@@ -126,11 +131,11 @@ for ($k7 = 0; $k7 <= 7; $k7++) {
         $tuu71 = count($data71);
 
         for ($i71 = 0; $i71 < $tuu71; $i71++) {
-            if (!isset($data71[$i71]->pgm->loepn[0]->n)) {
+            if (!isset($data71[$i71]->pgm->losetl[0]->n)) {
                 continue;
                                                                                   }
             
-            $programName = $data71[$i71]->pgm->loepn[0]->n; // 节目名称
+            $programName = $data71[$i71]->pgm->losetl[0]->n; // 节目名称
             $sc_st_dt = $data71[$i71]->sc_st_dt; // 开始时间
             $sc_ed_dt = $data71[$i71]->sc_ed_dt; // 结束时间
 
@@ -171,11 +176,11 @@ for ($k7 = 0; $k7 <= 7; $k7++) {
         $tuu72 = count($data72);
 
         for ($i72 = 0; $i72 < $tuu72; $i72++) {
-            if (!isset($data72[$i72]->pgm->loepn[0]->n)) {
+            if (!isset($data72[$i72]->pgm->losetl[0]->n)) {
                 continue;
                                                                                  }
             
-            $programName72 = $data72[$i72]->pgm->loepn[0]->n; // 节目名称
+            $programName72 = $data72[$i72]->pgm->losetl[0]->n; // 节目名称
             $sc_st_dt72 = $data72[$i72]->sc_st_dt; // 开始时间
             $sc_ed_dt72 = $data72[$i72]->sc_ed_dt; // 结束时间
 
