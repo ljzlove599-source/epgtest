@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260108210000 +0800" stop="20260108220000 +0800" channel="mbc action">
-    <title lang="en">برنامج the inside line</title>
-  </programme>
   <programme start="20260108220000 +0800" stop="20260108230000 +0800" channel="mbc action">
     <title lang="en">Ridiculousness</title>
   </programme>
@@ -203,5 +200,8 @@
   </programme>
   <programme start="20260111060000 +0800" stop="20260111080000 +0800" channel="mbc 2">
     <title lang="en">Vacation</title>
+  </programme>
+  <programme start="20260111080000 +0800" stop="20260111100000 +0800" channel="mbc 2">
+    <title lang="en">Wedding Crashers</title>
   </programme>
 </tv>
