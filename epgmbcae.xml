@@ -9,22 +9,19 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260109230000 +0800" stop="20260110000000 +0800" channel="mbc action">
-    <title lang="en">برنامج american ninja warrior</title>
-  </programme>
-  <programme start="20260110000000 +0800" stop="20260110010000 +0800" channel="mbc action">
+  <programme start="20260109000000 +0800" stop="20260109010000 +0800" channel="mbc action">
     <title lang="en">Sword Art Online</title>
   </programme>
-  <programme start="20260110010000 +0800" stop="20260110013000 +0800" channel="mbc action">
+  <programme start="20260109010000 +0800" stop="20260109013000 +0800" channel="mbc action">
     <title lang="en">برنامج action bodcast</title>
   </programme>
-  <programme start="20260110013000 +0800" stop="20260110030000 +0800" channel="mbc action">
+  <programme start="20260109013000 +0800" stop="20260109030000 +0800" channel="mbc action">
     <title lang="en">بودكاست ملح الدوري</title>
   </programme>
-  <programme start="20260110030000 +0800" stop="20260110043000 +0800" channel="mbc action">
+  <programme start="20260109030000 +0800" stop="20260109043000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
-  <programme start="20260110043000 +0800" stop="20260110053000 +0800" channel="mbc action">
+  <programme start="20260109043000 +0800" stop="20260109053000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
   </programme>
   <programme start="20260109230000 +0800" stop="20260110010000 +0800" channel="mbc max">
@@ -197,5 +194,8 @@
   </programme>
   <programme start="20260112080000 +0800" stop="20260112100000 +0800" channel="mbc 2">
     <title lang="en">Wedding Crashers</title>
+  </programme>
+  <programme start="20260112100000 +0800" stop="20260112120000 +0800" channel="mbc 2">
+    <title lang="en">Rampage</title>
   </programme>
 </tv>
