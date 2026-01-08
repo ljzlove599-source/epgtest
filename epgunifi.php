@@ -1,6 +1,6 @@
 <?php
 header('Content-Type: text/plain; charset=UTF-8');
-ini_set("max_execution_time", "900");
+ini_set("max_execution_time", "900000");
 ini_set('date.timezone','Asia/Shanghai');
 ini_set('memory_limit', '512M');
 $dt1=date('Y-m-d');//獲取當前日期
