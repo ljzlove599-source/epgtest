@@ -33,10 +33,6 @@
 | 簡體中文 | swepg.xml.gz | 大陸、新加坡、馬來西亞 | https://github.com/zzq12345/epgtest/raw/refs/heads/main/swepg.xml.gz |
 | 繁體中文 | twepg.xml.gz | 香港、澳門、台灣 | https://github.com/zzq12345/epgtest/raw/refs/heads/main/twepg.xml.gz |
 
-### （四）大陸用戶特別說明
-1. 建議選用**epgnew.xml.gz**文件，該版本已剔除少量未滿十八歲不宜及區域限制類電視台的節目預告；
-2. 境外用戶可根據需求自由選擇epgziyong.xml或epgnew.xml。
-
 ## 四、覆蓋頻道範圍
 ### （一）大陸地區
 央視頻、1905電影網、浙江電視台、江蘇電視台、河北電視台、北京電視台、上海電視台、重慶電視台、福建電視台、廣東電視台、廣西電視台、江西電視台、四川電視台、內蒙古電視台、新疆電視台等。
