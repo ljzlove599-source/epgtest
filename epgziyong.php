@@ -18,7 +18,7 @@ $xmlFiles = [
     './epgnewhebei.xml',
     './epgnewguangdong.xml',
      './epgastro.xml',
-     './epgmncvision.xml'
+     './epgmncvision.xml',
      './epgunifi.xml'
  ];
 
