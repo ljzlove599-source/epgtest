@@ -19,7 +19,7 @@ $xmlFiles = [
     './epgnewguangdong.xml',
      './epgastro.xml',
      './epgmncvision.xml'
-     './epgunifi.xml',
+     './epgunifi.xml'
  ];
 
 // 创建新的SimpleXMLElement对象作为根元素
