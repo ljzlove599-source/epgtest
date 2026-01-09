@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260109110000 +0800" stop="20260109120000 +0800" channel="mbc action">
-    <title lang="en">Sword Art Online</title>
-  </programme>
   <programme start="20260109120000 +0800" stop="20260109130000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
   </programme>
@@ -180,8 +177,8 @@
   <programme start="20260111203000 +0800" stop="20260111213000 +0800" channel="mbc action">
     <title lang="en">برنامج The Ride Life With Sung Kang</title>
   </programme>
-  <programme start="20260109110000 +0800" stop="20260109123000 +0800" channel="mbc max">
-    <title lang="en">The Campaign</title>
+  <programme start="20260111213000 +0800" stop="20260111223000 +0800" channel="mbc action">
+    <title lang="en">برنامج cars &amp; stars </title>
   </programme>
   <programme start="20260109123000 +0800" stop="20260109143000 +0800" channel="mbc max">
     <title lang="en">Night School</title>
@@ -267,9 +264,6 @@
   <programme start="20260111210000 +0800" stop="20260111230000 +0800" channel="mbc max">
     <title lang="en">Little</title>
   </programme>
-  <programme start="20260109103000 +0800" stop="20260109123000 +0800" channel="mbc 2">
-    <title lang="en">Goosebumps</title>
-  </programme>
   <programme start="20260109123000 +0800" stop="20260109140000 +0800" channel="mbc 2">
     <title lang="en">Penguins of Madagascar</title>
   </programme>
@@ -353,5 +347,8 @@
   </programme>
   <programme start="20260111200000 +0800" stop="20260111220000 +0800" channel="mbc 2">
     <title lang="en">Downton Abbey: A New Era</title>
+  </programme>
+  <programme start="20260111220000 +0800" stop="20260112000000 +0800" channel="mbc 2">
+    <title lang="en">127 Hours</title>
   </programme>
 </tv>
