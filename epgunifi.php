@@ -140,8 +140,8 @@ https://unifitv.com.my/epg/9A5A508C-BB3A-4139-8C2F-8B092336F192
             $sc_ed_dt = $data71[$i71]->sc_ed_dt; // 结束时间
 
             // 格式化时间（移除不需要的字符）
-            $start_time = str_replace([':', '-', 'T', 'Z'], '', $sc_st_dt) . ' +0800';
-            $stop_time = str_replace([':', '-', 'T', 'Z'], '', $sc_ed_dt) . ' +0800';
+            $start_time = str_replace([':', '-', 'T', 'Z'], '', $sc_st_dt) . ' +0000';
+            $stop_time = str_replace([':', '-', 'T', 'Z'], '', $sc_ed_dt) . ' +0000';
 
             $chn .= "<programme start=\"" . $start_time . "\" stop=\"" . $stop_time . "\" channel=\"" . htmlspecialchars($cs, ENT_XML1, 'UTF-8') . "\">\n";
             $chn .= "<title lang=\"zh\">" . htmlspecialchars($programName, ENT_XML1, 'UTF-8') . "</title>\n";
@@ -185,8 +185,8 @@ https://unifitv.com.my/epg/9A5A508C-BB3A-4139-8C2F-8B092336F192
             $sc_ed_dt72 = $data72[$i72]->sc_ed_dt; // 结束时间
 
             // 格式化时间（移除不需要的字符）
-            $start_time72 = str_replace([':', '-', 'T', 'Z'], '', $sc_st_dt72) . ' +0800';
-            $stop_time72 = str_replace([':', '-', 'T', 'Z'], '', $sc_ed_dt72) . ' +0800';
+            $start_time72 = str_replace([':', '-', 'T', 'Z'], '', $sc_st_dt72) . ' +0000';
+            $stop_time72 = str_replace([':', '-', 'T', 'Z'], '', $sc_ed_dt72) . ' +0000';
 
             $chn .= "<programme start=\"" . $start_time72 . "\" stop=\"" . $stop_time72 . "\" channel=\"" . htmlspecialchars($cs, ENT_XML1, 'UTF-8') . "\">\n";
             $chn .= "<title lang=\"zh\">" . htmlspecialchars($programName72, ENT_XML1, 'UTF-8') . "</title>\n";
