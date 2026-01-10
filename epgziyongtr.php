@@ -142,14 +142,14 @@ $dom = new DOMDocument('1.0');
 $dom->preserveWhiteSpace = false;
 $dom->formatOutput = true;
 $dom->loadXML($mergedXml->asXML());
-$dom->save('epgziyong.xml');
+$dom->save('epgziyongtr.xml');
 
-$xmlContent = file_get_contents('epgziyong.xml');
-$gz = gzopen('epgziyong.xml.gz', 'w9');
+$xmlContent = file_get_contents('epgziyongtr.xml');
+$gz = gzopen('epgziyongtr.xml.gz', 'w9');
 if ($gz !== false) {
     gzwrite($gz, $xmlContent);
     gzclose($gz);
-    echo "XML文件合并并翻译完成，已保存为 epgziyong.xml 和 epgziyong.xml.gz\n";
+    echo "XML文件合并并翻译完成，已保存为 epgziyongtr.xml 和 epgziyong.xml.gz\n";
 } else {
     echo "创建 gz 文件失败\n";
 }
