@@ -203,110 +203,7 @@ jobs:
             echo "epgziyongtr.xml 不存在，跳过繁简转换"
             echo "converted_files=none" >> $GITHUB_OUTPUT
           fi
-      # 第六阶段：提取电视台名称（已修改）
-      - name: Extract channel names
-        id: extract_channels
-        run: |
-          echo "开始提取电视台名称..."
-          # 确保有文件可处理
-          declare -a epg_files=("twepg.xml" "swepg.xml" "twepgorginal.xml" "swepgorginal.xml")
-          files_exist=false
-          
-          for file in "${epg_files[@]}"; do
-            if [ -f "$file" ]; then
-              files_exist=true
-              break
-            fi
-          done
-          
-          if [ "$files_exist" = false ]; then
-            echo "没有找到繁简中文EPG文件，跳过提取"
-            echo "channels_extracted=false" >> $GITHUB_OUTPUT
-            exit 0
-          fi
-          
-          python <<'EOF'
-          import xml.etree.ElementTree as ET
-          import os
-          
-          def extract_names(xml_file, output_file):
-              try:
-                  tree = ET.parse(xml_file)
-                  root = tree.getroot()
-                  seen = set()
-                  channels = []
-                  for c in root.findall('channel'):
-                      name = c.get('display-name') or c.findtext('display-name') or c.get('id', '')
-                      if name and name.strip() and name not in seen:
-                          seen.add(name)
-                          channels.append(name.strip())
-                  with open(output_file, 'w', encoding='utf-8') as f:
-                      f.write('\n'.join(channels))
-                  print(f"✅ {xml_file}: 共提取 {len(channels)} 个频道，已保存到 {output_file}")
-                  return len(channels)
-              except Exception as e:
-                  print(f"❌ 解析 {xml_file} 出错: {e}")
-                  return 0
-          
-          total_channels = 0
-          
-          # 提取繁体版
-          if os.path.exists('twepg.xml'):
-              total_channels += extract_names('twepg.xml', '繁體電視台目錄.txt')
-          if os.path.exists('twepgorginal.xml'):
-              total_channels += extract_names('twepgorginal.xml', '繁體電視台目錄_原始.txt')
-          
-          # 提取简体版
-          if os.path.exists('swepg.xml'):
-              total_channels += extract_names('swepg.xml', '简体电视台目录.txt')
-          if os.path.exists('swepgorginal.xml'):
-              total_channels += extract_names('swepgorginal.xml', '简体电视台目录_原始.txt')
-              
-          print(f"总计提取频道数: {total_channels}")
-          EOF
-          
-          # 检查是否成功提取了任何频道文件
-          if [ -f "繁體電視台目錄.txt" ] || [ -f "简体电视台目录.txt" ] || \
-             [ -f "繁體電視台目錄_原始.txt" ] || [ -f "简体电视台目录_原始.txt" ]; then
-            echo "channels_extracted=true" >> $GITHUB_OUTPUT
-          else
-            echo "channels_extracted=false" >> $GITHUB_OUTPUT
-          fi
-      # 第七阶段：提交所有更改（已修改）
-      - name: Configure Git
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-      - name: Commit and push all changes
-        run: |
-          # 拉取最新更改
-          git pull origin ${{ github.ref_name }} --no-rebase
-          
-          # 添加所有生成的文件
-          files_changed=0
-          
-          # 添加下载的文件（包括解压后的文件）
-          if [ -f "files.json" ]; then
-            cat files.json | jq -r 'keys[]' | while read -r filename; do
-              # 添加原始文件
-              if [ -f "$filename" ]; then
-                git add "$filename"
-                echo "添加下载文件: $filename"
-                files_changed=1
-              fi
-              
-              # 如果是.gz文件，也添加解压后的文件
-              if [[ "$filename" == *.gz ]]; then
-                extracted_file="${filename%.gz}"
-                if [ -f "$extracted_file" ]; then
-                  git add "$extracted_file"
-                  echo "添加解压文件: $extracted_file"
-                  files_changed=1
-                fi
-              fi
-            done
-          fi
-          
+      
           # 添加生成的XML文件（包括epgguangdong.xml和epgguangdong.xml.gz）
           if [ "${{ steps.check_xml.outputs.generated_xml }}" != "none" ]; then
             IFS=',' read -ra xml_files <<< "${{ steps.check_xml.outputs.generated_xml }}"
@@ -319,36 +216,9 @@ jobs:
             done
           fi
           
-          # 确保epgguangdong.xml和epgguangdong.xml.gz都被添加
-          if [ -f "epgguangdong.xml" ]; then
-            git add "epgguangdong.xml"
-            echo "添加epgguangdong.xml"
-            files_changed=1
-          fi
-          if [ -f "epgguangdong.xml.gz" ]; then
-            git add "epgguangdong.xml.gz"
-            echo "添加epgguangdong.xml.gz"
-            files_changed=1
-          fi
           
-          # 添加转换文件
-          if [ "${{ steps.convert_chinese.outputs.converted_files }}" != "none" ]; then
-            IFS=',' read -ra converted_files <<< "${{ steps.convert_chinese.outputs.converted_files }}"
-            for converted_file in "${converted_files[@]}"; do
-              if [ -f "$converted_file" ]; then
-                git add "$converted_file"
-                echo "添加转换文件: $converted_file"
-                files_changed=1
-              fi
-            done
-          fi
           
-          # 添加频道列表文件（包括新生成的文件）
-          if [ "${{ steps.extract_channels.outputs.channels_extracted }}" == "true" ]; then
-            git add "繁體電視台目錄.txt" "简体电视台目录.txt" "繁體電視台目錄_原始.txt" "简体电视台目录_原始.txt" 2>/dev/null || true
-            echo "添加频道列表文件"
-            files_changed=1
-          fi
+          
           
           # 添加日志文件
           git add logs/ 2>/dev/null || true
