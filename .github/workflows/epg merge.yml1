@@ -43,79 +43,13 @@ jobs:
           pip install opencc
           
           echo "所有依赖安装完成"
-      # 第二阶段：文件下载和解压
-      - name: Download and extract files from files.json
-        id: download_files
-        run: |
-          if [ -f "files.json" ]; then
-            echo "开始下载files.json中定义的文件..."
-            cat files.json | jq -r 'to_entries[] | "\(.key) \(.value)"' | while read -r filename url; do
-              echo "下载: $filename <- $url"
-              wget -O "$filename" "$url" --retry-connrefused --waitretry=5 --timeout=30 || echo "$filename 下载失败，跳过"
-              
-              # 如果是.gz文件，自动解压
-              if [[ "$filename" == *.gz ]] && [ -f "$filename" ]; then
-                echo "解压文件: $filename"
-                gunzip -f "$filename" || echo "解压失败或文件已解压: $filename"
-                
-                # 获取解压后的文件名（去掉.gz后缀）
-                extracted_file="${filename%.gz}"
-                if [ -f "$extracted_file" ]; then
-                  echo "✓ 解压成功: $extracted_file"
-                fi
-              fi
-            done
-            echo "文件下载和解压完成"
-          else
-            echo "files.json 不存在，跳过下载步骤"
-          fi
-      # 第三阶段：广东EPG处理
-      - name: Process Guangdong EPG
-        id: guangdong_epg
-        run: |
-          echo "开始处理广东EPG..."
-          
-          # 检查是否已通过files.json下载并解压
-          if [ -f "epgguangdong.xml" ]; then
-            echo "使用已下载的epgguangdong.xml文件"
-          else
-            # 如果没有，则下载广东EPG
-            echo "从GitHub下载广东EPG..."
-            curl -L -o epgguangdong.xml.gz https://raw.githubusercontent.com/litiande03/epg/refs/heads/master/pl.xml.gz || exit 1
-            
-            # 解压
-            if [ -f "epgguangdong.xml.gz" ]; then
-              gunzip -f epgguangdong.xml.gz
-              echo "广东EPG下载并解压完成"
-            else
-              echo "广东EPG下载失败"
-              echo "guangdong_processed=false" >> $GITHUB_OUTPUT
-              exit 0
-            fi
-          fi
-          
-          # 运行转换脚本
-          if [ -f "epgguangdong.xml" ] && [ -f "convert.py" ]; then
-            echo "运行转换脚本..."
-            python convert.py epgguangdong.xml
-            echo "广东EPG处理完成"
-            echo "guangdong_processed=true" >> $GITHUB_OUTPUT
-            
-            # 重新压缩处理后的文件以便上传
-            if [ -f "epgguangdong.xml" ]; then
-              gzip -k -f epgguangdong.xml
-              echo "重新生成epgguangdong.xml.gz用于上传"
-            fi
-          else
-            echo "广东EPG文件或转换脚本不存在，跳过"
-            echo "guangdong_processed=false" >> $GITHUB_OUTPUT
-          fi
+      
       # 第四阶段：PHP EPG生成
       - name: Check PHP scripts exist
         id: check_scripts
         run: |
           echo "检查PHP脚本文件..."
-          declare -a scripts=("epgdiyicaijing.php" "epgunifi.php" "epglifetv.php" "epgkbsworld.php" "epgmacocable.php" "epgtvsou.php" "epgdubaione.php" "epgasia.php" "epgmncvision.php" "epgastro.php" "epggen2.php" "epgofiii.php" "epgkai1.php" "epgnewshanghai.php" "epgnewhebei.php" "epgnewguangdong.php" "epgziyong.php" "epgziyongtr.php")
+          declare -a scripts=( "epgziyongtr.php")
           existing_scripts=()
           
           for script in "${scripts[@]}"; do
@@ -158,7 +92,7 @@ jobs:
       - name: Check generated XML files
         id: check_xml
         run: |
-          declare -a expected_xml=("epgguangdong.xml.gz" "epgunifi.xml" "epgkbsworld.xml" "epglifetv.xml" "epgguangdong.xml" "epgmbcae.xml"  "epgmacocable.xml" "epgdubaione.xml" "epgasia.xml" "epgdiyicaijing.xml" "epgmncvision.xml" "epgtvsou.xml" "epgastro.xml" "epgyidong.xml" "epghebei.xml" "epgofiii.xml" "epgkai1.xml"  "epgnewshanghai.xml" "epghebeiiptv1.xml" "epgnewhebei.xml" "epgnewguangdong.xml" "epgziyong.xml" "epgziyongtr.xml")
+          declare -a expected_xml=("epgziyongtr.xml")
           generated_files=()
           
           echo "检查生成的XML文件..."
@@ -196,9 +130,9 @@ jobs:
         run: |
           echo "开始繁简转换..."
           
-          # 转换主文件 epgziyong.xml
-          if [ -f "epgziyong.xml" ]; then
-            echo "转换 epgziyong.xml..."
+          # 转换主文件 epgziyongtr.xml
+          if [ -f "epgziyongtr.xml" ]; then
+            echo "转换 epgziyongtr.xml..."
             python - <<'EOF'
           from opencc import OpenCC
           import os, gzip
@@ -235,12 +169,12 @@ jobs:
               return True
           
           # 转换主文件
-          print("=== 转换 epgziyong.xml ===")
+          print("=== 转换 epgziyongtr.xml ===")
           convert_epg_file("epgziyong.xml", "swepg", "twepg")
           
           # 转换原始文件
-          print("=== 转换 epgziyongorginal.xml ===")
-          convert_epg_file("epgziyongorginal.xml", "swepgorginal", "twepgorginal")
+          print("=== 转换 epgziyongtr.xml ===")
+          convert_epg_file("epgziyongtr.xml", "swepgorginal", "twepgorginal")
           
           EOF
             
@@ -248,8 +182,7 @@ jobs:
             converted_files_list=""
             
             # 检查生成的文件并添加到列表
-            for file in "swepg.xml" "swepg.xml.gz" "twepg.xml" "twepg.xml.gz" \
-                        "swepgorginal.xml" "swepgorginal.xml.gz" "twepgorginal.xml" "twepgorginal.xml.gz"; do
+            for file in "swepgtr.xml" "swepgtr.xml.gz" "twepgtr.xml" "twepgtr.xml.gz" ; do
               if [ -f "$file" ]; then
                 if [ -z "$converted_files_list" ]; then
                   converted_files_list="$file"
@@ -267,7 +200,7 @@ jobs:
             fi
             
           else
-            echo "epgziyong.xml 不存在，跳过繁简转换"
+            echo "epgziyongtr.xml 不存在，跳过繁简转换"
             echo "converted_files=none" >> $GITHUB_OUTPUT
           fi
       # 第六阶段：提取电视台名称（已修改）
