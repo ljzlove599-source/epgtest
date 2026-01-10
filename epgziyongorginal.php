@@ -87,13 +87,13 @@ $dom->formatOutput = true;
 $dom->loadXML($mergedXml->asXML());
 $dom->save('epgziyong.xml');
 $xmlContent = file_get_contents('epgziyong.xml');
-$gz = gzopen('epgziyong.xml.gz', 'w9');  // 'w9' 表示最高压缩级别（可选，默认为 6）
+$gz = gzopen('epgziyongorginal.xml.gz', 'w9');  // 'w9' 表示最高压缩级别（可选，默认为 6）
 if ($gz !== false) {
     gzwrite($gz, $xmlContent);
     gzclose($gz);
-    echo "XML文件合并完成，已保存为 epgziyong.xml 和 epgziyong.xml.gz";
+    echo "XML文件合并完成，已保存为 epgziyongorginal.xml 和 epgziyongorginal.xml.gz";
 } else {
     echo "创建 gz 文件失败";
 }
-//echo "XML文件合并完成，已保存为 epgziyong.xml";
+//echo "XML文件合并完成，已保存为 epgziyongorginal.xml";
 ?>
