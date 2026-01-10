@@ -87,7 +87,7 @@ $dom->formatOutput = true;
 $dom->loadXML($mergedXml->asXML());
 $dom->save('epgziyong.xml');
 $xmlContent = file_get_contents('epgziyong.xml');
-$gz = gzopen('epgziyongorginal.xml.gz', 'w9');  // 'w9' 表示最高压缩级别（可选，默认为 6）
+$gz = gzopen('epgziyong.xml.gz', 'w9');  // 'w9' 表示最高压缩级别（可选，默认为 6）
 if ($gz !== false) {
     gzwrite($gz, $xmlContent);
     gzclose($gz);
