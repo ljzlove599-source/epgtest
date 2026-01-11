@@ -7026,10 +7026,6 @@
   <channel id="beinsports4">
     <display-name lang="zh">beinsports4</display-name>
   </channel>
-  <programme start="20260112013000 +0800" stop="20260112030000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-    <desc lang=""/>
-  </programme>
   <programme start="20260112030000 +0800" stop="20260112040000 +0800" channel="mbc action">
     <title lang="en">برنامج action bodcast </title>
     <desc lang=""/>
@@ -7040,10 +7036,6 @@
   </programme>
   <programme start="20260112043000 +0800" stop="20260112053000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260112010000 +0800" stop="20260112030000 +0800" channel="mbc max">
-    <title lang="en">Duplicity</title>
     <desc lang=""/>
   </programme>
   <programme start="20260112030000 +0800" stop="20260112050000 +0800" channel="mbc max">
@@ -7214,8 +7206,12 @@
     <title lang="en">The Shallows</title>
     <desc lang=""/>
   </programme>
-  <programme start="20260112000000 +0800" stop="20260112023000 +0800" channel="mbc 2">
-    <title lang="en">Captain Phillips</title>
+  <programme start="20260114120000 +0800" stop="20260114123000 +0800" channel="mbc max">
+    <title lang="en">Hollywood Buzz</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260114123000 +0800" stop="20260114143000 +0800" channel="mbc max">
+    <title lang="en">Room</title>
     <desc lang=""/>
   </programme>
   <programme start="20260112023000 +0800" stop="20260112050000 +0800" channel="mbc 2">
@@ -7364,6 +7360,14 @@
   </programme>
   <programme start="20260114110500 +0800" stop="20260114113000 +0800" channel="mbc 2">
     <title lang="en">برنامج making the movies 6</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260114113000 +0800" stop="20260114130000 +0800" channel="mbc 2">
+    <title lang="en">Deep Fear</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260114130000 +0800" stop="20260114143000 +0800" channel="mbc 2">
+    <title lang="en">Journey 2: The Mysterious Island</title>
     <desc lang=""/>
   </programme>
   <programme start="20260111000000 +0400" stop="20260111020000 +0400" channel="Dubai One">
@@ -7647,11 +7651,11 @@
     <desc lang=""/>
   </programme>
   <programme start="20260112040000 +0900" stop="20260112051000 +0900" channel="KBSWorld">
-    <title lang="en">The Return of Superman Ep.602 [LIVE]</title>
+    <title lang="en">The Return of Superman Ep.602</title>
     <desc lang=""/>
   </programme>
   <programme start="20260112051000 +0900" stop="20260112060000 +0900" channel="KBSWorld">
-    <title lang="en">My Neighbor, Charles Ep.511</title>
+    <title lang="en">My Neighbor, Charles Ep.511 [LIVE]</title>
     <desc lang=""/>
   </programme>
   <programme start="20260112060000 +0900" stop="20260112071500 +0900" channel="KBSWorld">
@@ -38947,11 +38951,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260111085900 +0800" stop="20260111085900 +0800" channel="spot on news">
-    <title lang="zh">Personal background: Why Taylor Swift donates millions</title>
+    <title lang="zh">Huge mess: Portable toilet falls from crane onto road</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260111085900 +0800" stop="20260111085900 +0800" channel="spot on news">
-    <title lang="zh">Huge mess: Portable toilet falls from crane onto road</title>
+    <title lang="zh">Personal background: Why Taylor Swift donates millions</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260111085900 +0800" stop="20260111090000 +0800" channel="spot on news">
@@ -39659,11 +39663,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260111113900 +0800" stop="20260111113900 +0800" channel="spot on news">
-    <title lang="zh">At the last second: security guard saves woman from tram</title>
+    <title lang="zh">Wall collapses - woman narrowly escapes</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260111113900 +0800" stop="20260111113900 +0800" channel="spot on news">
-    <title lang="zh">Wall collapses - woman narrowly escapes</title>
+    <title lang="zh">At the last second: security guard saves woman from tram</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260111113900 +0800" stop="20260111114000 +0800" channel="spot on news">
@@ -39899,11 +39903,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260111123100 +0800" stop="20260111123100 +0800" channel="spot on news">
-    <title lang="zh">Crane operator rescues worker from burning skyscraper</title>
+    <title lang="zh">Paramotor crashes into power line, pilot nearly survives</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260111123100 +0800" stop="20260111123100 +0800" channel="spot on news">
-    <title lang="zh">Paramotor crashes into power line, pilot nearly survives</title>
+    <title lang="zh">Crane operator rescues worker from burning skyscraper</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260111123100 +0800" stop="20260111123200 +0800" channel="spot on news">
@@ -491270,118 +491274,6 @@
     <title lang="zh">青春賽場</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260112011500" stop="20260112060000" channel="泉州綜合">
-    <title lang="zh">新聞廣角</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112060000" stop="20260112070000" channel="泉州綜合">
-    <title lang="zh">閩臺戲棚</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112070000" stop="20260112073800" channel="泉州綜合">
-    <title lang="zh">泉州新聞聯播</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112073800" stop="20260112081000" channel="泉州綜合">
-    <title lang="zh">健康責任田(770)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112081000" stop="20260112093500" channel="泉州綜合">
-    <title lang="zh">閩臺戲棚</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112093500" stop="20260112114000" channel="泉州綜合">
-    <title lang="zh">劇場</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112114000" stop="20260112120000" channel="泉州綜合">
-    <title lang="zh">泉看見(136)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112120000" stop="20260112123300" channel="泉州綜合">
-    <title lang="zh">午間新聞網</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112123300" stop="20260112124000" channel="泉州綜合">
-    <title lang="zh">午間天氣預報</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112124000" stop="20260112130500" channel="泉州綜合">
-    <title lang="zh">健康責任田(770)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112130500" stop="20260112131500" channel="泉州綜合">
-    <title lang="zh">臺商投資區新聞</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112131500" stop="20260112132000" channel="泉州綜合">
-    <title lang="zh">午間天氣預報</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112132000" stop="20260112165500" channel="泉州綜合">
-    <title lang="zh">劇場</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112165500" stop="20260112172200" channel="泉州綜合">
-    <title lang="zh">新聞相拍報</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112172200" stop="20260112174000" channel="泉州綜合">
-    <title lang="zh">養生之道(3265)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112174000" stop="20260112175700" channel="泉州綜合">
-    <title lang="zh">泉州美食(4224)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112175700" stop="20260112181200" channel="泉州綜合">
-    <title lang="zh">泉州講古(4313)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112181200" stop="20260112183000" channel="泉州綜合">
-    <title lang="zh">臺商投資區新聞</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112183000" stop="20260112185400" channel="泉州綜合">
-    <title lang="zh">泉州新聞聯播</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112185400" stop="20260112190000" channel="泉州綜合">
-    <title lang="zh">旅遊天氣</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112190000" stop="20260112193500" channel="泉州綜合">
-    <title lang="zh">轉播中央臺新聞聯播</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112193500" stop="20260112200000" channel="泉州綜合">
-    <title lang="zh">泉看見(137)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112200000" stop="20260112204000" channel="泉州綜合">
-    <title lang="zh">新聞廣角</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112204000" stop="20260112223000" channel="泉州綜合">
-    <title lang="zh">劇場</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112223000" stop="20260112230500" channel="泉州綜合">
-    <title lang="zh">今晚播報</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112230500" stop="20260112232200" channel="泉州綜合">
-    <title lang="zh">泉看見(137)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112232200" stop="20260112234300" channel="泉州綜合">
-    <title lang="zh">健康責任田(770)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112234300" stop="20260113000000" channel="泉州綜合">
-    <title lang="zh">劇場</title>
-    <desc lang="zh"/>
-  </programme>
   <programme start="20260113011500" stop="20260113060000" channel="泉州綜合">
     <title lang="zh">新聞廣角</title>
     <desc lang="zh"/>
@@ -493294,118 +493186,6 @@
     <title lang="zh">千里雷聲萬里閃8-9</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260112011500" stop="20260112060000" channel="泉州綜合">
-    <title lang="zh">新聞廣角</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112060000" stop="20260112070000" channel="泉州綜合">
-    <title lang="zh">閩臺戲棚</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112070000" stop="20260112073800" channel="泉州綜合">
-    <title lang="zh">泉州新聞聯播</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112073800" stop="20260112081000" channel="泉州綜合">
-    <title lang="zh">健康責任田(770)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112081000" stop="20260112093500" channel="泉州綜合">
-    <title lang="zh">閩臺戲棚</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112093500" stop="20260112114000" channel="泉州綜合">
-    <title lang="zh">劇場</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112114000" stop="20260112120000" channel="泉州綜合">
-    <title lang="zh">泉看見(136)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112120000" stop="20260112123300" channel="泉州綜合">
-    <title lang="zh">午間新聞網</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112123300" stop="20260112124000" channel="泉州綜合">
-    <title lang="zh">午間天氣預報</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112124000" stop="20260112130500" channel="泉州綜合">
-    <title lang="zh">健康責任田(770)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112130500" stop="20260112131500" channel="泉州綜合">
-    <title lang="zh">臺商投資區新聞</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112131500" stop="20260112132000" channel="泉州綜合">
-    <title lang="zh">午間天氣預報</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112132000" stop="20260112165500" channel="泉州綜合">
-    <title lang="zh">劇場</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112165500" stop="20260112172200" channel="泉州綜合">
-    <title lang="zh">新聞相拍報</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112172200" stop="20260112174000" channel="泉州綜合">
-    <title lang="zh">養生之道(3265)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112174000" stop="20260112175700" channel="泉州綜合">
-    <title lang="zh">泉州美食(4224)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112175700" stop="20260112181200" channel="泉州綜合">
-    <title lang="zh">泉州講古(4313)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112181200" stop="20260112183000" channel="泉州綜合">
-    <title lang="zh">臺商投資區新聞</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112183000" stop="20260112185400" channel="泉州綜合">
-    <title lang="zh">泉州新聞聯播</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112185400" stop="20260112190000" channel="泉州綜合">
-    <title lang="zh">旅遊天氣</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112190000" stop="20260112193500" channel="泉州綜合">
-    <title lang="zh">轉播中央臺新聞聯播</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112193500" stop="20260112200000" channel="泉州綜合">
-    <title lang="zh">泉看見(137)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112200000" stop="20260112204000" channel="泉州綜合">
-    <title lang="zh">新聞廣角</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112204000" stop="20260112223000" channel="泉州綜合">
-    <title lang="zh">劇場</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112223000" stop="20260112230500" channel="泉州綜合">
-    <title lang="zh">今晚播報</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112230500" stop="20260112232200" channel="泉州綜合">
-    <title lang="zh">泉看見(137)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112232200" stop="20260112234300" channel="泉州綜合">
-    <title lang="zh">健康責任田(770)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112234300" stop="20260113000000" channel="泉州綜合">
-    <title lang="zh">劇場</title>
-    <desc lang="zh"/>
-  </programme>
   <programme start="20260113011500" stop="20260113060000" channel="泉州綜合">
     <title lang="zh">新聞廣角</title>
     <desc lang="zh"/>
@@ -493527,118 +493307,6 @@
     <desc lang="zh"/>
   </programme>
   <programme start="20260113234300" stop="20260114000000" channel="泉州綜合">
-    <title lang="zh">劇場</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112011500" stop="20260112060000" channel="泉州新聞">
-    <title lang="zh">新聞廣角</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112060000" stop="20260112070000" channel="泉州新聞">
-    <title lang="zh">閩臺戲棚</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112070000" stop="20260112073800" channel="泉州新聞">
-    <title lang="zh">泉州新聞聯播</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112073800" stop="20260112081000" channel="泉州新聞">
-    <title lang="zh">健康責任田(770)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112081000" stop="20260112093500" channel="泉州新聞">
-    <title lang="zh">閩臺戲棚</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112093500" stop="20260112114000" channel="泉州新聞">
-    <title lang="zh">劇場</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112114000" stop="20260112120000" channel="泉州新聞">
-    <title lang="zh">泉看見(136)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112120000" stop="20260112123300" channel="泉州新聞">
-    <title lang="zh">午間新聞網</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112123300" stop="20260112124000" channel="泉州新聞">
-    <title lang="zh">午間天氣預報</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112124000" stop="20260112130500" channel="泉州新聞">
-    <title lang="zh">健康責任田(770)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112130500" stop="20260112131500" channel="泉州新聞">
-    <title lang="zh">臺商投資區新聞</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112131500" stop="20260112132000" channel="泉州新聞">
-    <title lang="zh">午間天氣預報</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112132000" stop="20260112165500" channel="泉州新聞">
-    <title lang="zh">劇場</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112165500" stop="20260112172200" channel="泉州新聞">
-    <title lang="zh">新聞相拍報</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112172200" stop="20260112174000" channel="泉州新聞">
-    <title lang="zh">養生之道(3265)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112174000" stop="20260112175700" channel="泉州新聞">
-    <title lang="zh">泉州美食(4224)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112175700" stop="20260112181200" channel="泉州新聞">
-    <title lang="zh">泉州講古(4313)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112181200" stop="20260112183000" channel="泉州新聞">
-    <title lang="zh">臺商投資區新聞</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112183000" stop="20260112185400" channel="泉州新聞">
-    <title lang="zh">泉州新聞聯播</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112185400" stop="20260112190000" channel="泉州新聞">
-    <title lang="zh">旅遊天氣</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112190000" stop="20260112193500" channel="泉州新聞">
-    <title lang="zh">轉播中央臺新聞聯播</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112193500" stop="20260112200000" channel="泉州新聞">
-    <title lang="zh">泉看見(137)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112200000" stop="20260112204000" channel="泉州新聞">
-    <title lang="zh">新聞廣角</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112204000" stop="20260112223000" channel="泉州新聞">
-    <title lang="zh">劇場</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112223000" stop="20260112230500" channel="泉州新聞">
-    <title lang="zh">今晚播報</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112230500" stop="20260112232200" channel="泉州新聞">
-    <title lang="zh">泉看見(137)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112232200" stop="20260112234300" channel="泉州新聞">
-    <title lang="zh">健康責任田(770)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260112234300" stop="20260113000000" channel="泉州新聞">
     <title lang="zh">劇場</title>
     <desc lang="zh"/>
   </programme>
@@ -501914,6 +501582,158 @@
     <title lang="zh">經典紀錄深夜版</title>
     <desc lang="zh"/>
   </programme>
+  <programme start="20260113063400" stop="20260113070000" channel="重慶時尚">
+    <title lang="zh">經典紀錄早間版</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260113070000" stop="20260113074100" channel="重慶時尚">
+    <title lang="zh">紅巖劇場晚間重播版1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260113074100" stop="20260113082100" channel="重慶時尚">
+    <title lang="zh">紅巖劇場晚間重播版2</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260113082100" stop="20260113084200" channel="重慶時尚">
+    <title lang="zh">耄視清</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260113084200" stop="20260113092200" channel="重慶時尚">
+    <title lang="zh">紅巖劇場晚間重播版3</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260113092200" stop="20260113094300" channel="重慶時尚">
+    <title lang="zh">天天變通</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260113094300" stop="20260113102500" channel="重慶時尚">
+    <title lang="zh">紅巖劇場晚間重播版4</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260113102500" stop="20260113111000" channel="重慶時尚">
+    <title lang="zh">紅巖劇場日間版01</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260113111000" stop="20260113113200" channel="重慶時尚">
+    <title lang="zh">耄視清</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260113113200" stop="20260113115800" channel="重慶時尚">
+    <title lang="zh">紅巖劇場日間版02</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260113115800" stop="20260113121800" channel="重慶時尚">
+    <title lang="zh">一家裝飾1200秒</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260113121800" stop="20260113123900" channel="重慶時尚">
+    <title lang="zh">紅巖劇場日間版03</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260113123900" stop="20260113130000" channel="重慶時尚">
+    <title lang="zh">天天變通</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260113130000" stop="20260113131500" channel="重慶時尚">
+    <title lang="zh">紅巖本色午間版</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260113131500" stop="20260113133100" channel="重慶時尚">
+    <title lang="zh">紅巖劇場日間版04</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260113133100" stop="20260113135300" channel="重慶時尚">
+    <title lang="zh">天天變通</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260113135300" stop="20260113141500" channel="重慶時尚">
+    <title lang="zh">紅巖劇場日間版05</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260113141500" stop="20260113143600" channel="重慶時尚">
+    <title lang="zh">天天變通</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260113143600" stop="20260113150600" channel="重慶時尚">
+    <title lang="zh">紅巖劇場日間版06</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260113150600" stop="20260113152700" channel="重慶時尚">
+    <title lang="zh">天天變通</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260113152700" stop="20260113154600" channel="重慶時尚">
+    <title lang="zh">紅巖劇場日間版07</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260113154600" stop="20260113160800" channel="重慶時尚">
+    <title lang="zh">天天變通</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260113160800" stop="20260113164800" channel="重慶時尚">
+    <title lang="zh">紅巖劇場日間版08</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260113164800" stop="20260113170800" channel="重慶時尚">
+    <title lang="zh">耄視清</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260113170800" stop="20260113172800" channel="重慶時尚">
+    <title lang="zh">紅巖劇場日間版09</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260113172800" stop="20260113174800" channel="重慶時尚">
+    <title lang="zh">耄視清</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260113174800" stop="20260113180200" channel="重慶時尚">
+    <title lang="zh">紅巖劇場日間版10</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260113180200" stop="20260113182300" channel="重慶時尚">
+    <title lang="zh">紅巖劇場日間版11</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260113182300" stop="20260113190000" channel="重慶時尚">
+    <title lang="zh">紅巖劇場日間版12</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260113190000" stop="20260113191100" channel="重慶時尚">
+    <title lang="zh">紅色記憶晚間版1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260113191100" stop="20260113192400" channel="重慶時尚">
+    <title lang="zh">紅色記憶晚間版2</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260113192400" stop="20260113193500" channel="重慶時尚">
+    <title lang="zh">紅色記憶晚間版3</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260113193500" stop="20260113195000" channel="重慶時尚">
+    <title lang="zh">紅色記憶晚間版4</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260113195000" stop="20260113202700" channel="重慶時尚">
+    <title lang="zh">紅巖劇場晚間版1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260113202700" stop="20260113210800" channel="重慶時尚">
+    <title lang="zh">紅巖劇場晚間版2</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260113210800" stop="20260113213700" channel="重慶時尚">
+    <title lang="zh">紅巖劇場晚間版3</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260113213700" stop="20260113215700" channel="重慶時尚">
+    <title lang="zh">萬創破壁機</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260113215700" stop="20260114000000" channel="重慶時尚">
+    <title lang="zh">紅巖劇場晚間版4</title>
+    <desc lang="zh"/>
+  </programme>
   <programme start="20260112000000" stop="20260112003000" channel="貴州公共">
     <title lang="zh">重播電視劇:緊急行動45</title>
     <desc lang="zh"/>
@@ -506675,62 +506495,6 @@
     <desc lang="zh"/>
   </programme>
   <programme start="20260112231500" stop="20260113000000" channel="合肥財經">
-    <title lang="zh">都市房產報道</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260113000000" stop="20260113060000" channel="合肥財經">
-    <title lang="zh">連續劇</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260113060000" stop="20260113063600" channel="合肥財經">
-    <title lang="zh">合肥經濟新聞聯播</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260113063600" stop="20260113080000" channel="合肥財經">
-    <title lang="zh">電視劇</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260113080000" stop="20260113121500" channel="合肥財經">
-    <title lang="zh">電視劇</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260113121500" stop="20260113124000" channel="合肥財經">
-    <title lang="zh">今日蜀山</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260113124000" stop="20260113140800" channel="合肥財經">
-    <title lang="zh">合肥經濟新聞聯播</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260113140800" stop="20260113181800" channel="合肥財經">
-    <title lang="zh">電視劇</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260113181800" stop="20260113190000" channel="合肥財經">
-    <title lang="zh">都市房產報道</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260113190000" stop="20260113193000" channel="合肥財經">
-    <title lang="zh">合肥經濟新聞聯播</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260113193000" stop="20260113194500" channel="合肥財經">
-    <title lang="zh">今日蜀山</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260113194500" stop="20260113200000" channel="合肥財經">
-    <title lang="zh">心有所屬</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260113200000" stop="20260113221100" channel="合肥財經">
-    <title lang="zh">連續劇</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260113221100" stop="20260113231500" channel="合肥財經">
-    <title lang="zh">合肥經濟新聞聯播</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260113231500" stop="20260114000000" channel="合肥財經">
     <title lang="zh">都市房產報道</title>
     <desc lang="zh"/>
   </programme>
@@ -517434,10 +517198,6 @@
     <title lang="zh">小山正在秀</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260111180000 +0000" stop="20260111200000 +0000" channel="中視">
-    <title lang="zh">綜藝玩很大</title>
-    <desc lang="zh">由本土天王吳宗憲主持，打造臺灣電視史上第一個最真實的外景實境秀。每趟旅程帶領8位藝人，挑戰時間內募集返家所需旅費。成功隊伍可以順利回家，失敗隊則直接被流放當地，露宿街頭。綜藝玩很大，要玩就玩大的！</desc>
-  </programme>
   <programme start="20260111200000 +0000" stop="20260111210000 +0000" channel="中視">
     <title lang="zh">MIT臺灣誌</title>
     <desc lang="zh">「MIT臺灣誌」以發現臺灣、寫真臺灣、紀錄臺灣為主旨，走遍臺灣的每寸土地，介紹臺灣的人文環境、大自然地理等…</desc>
@@ -517450,10 +517210,6 @@
     <title lang="zh">中視新聞</title>
     <desc lang="zh">由最專業的中視新聞主播，為您播報最新、最即時的新聞。</desc>
   </programme>
-  <programme start="20260111190000 +0000" stop="20260111200000 +0000" channel="華視">
-    <title lang="zh">喝酒吧！笨蛋</title>
-    <desc lang="zh">笨蛋酒吧內什麼樣的酒客都有，調酒師阿榮（莫子儀）會認真傾聽他們的故事，量身訂做每人的專屬調酒。當阿榮出獄的父親、自殺未遂前女友和難以忘懷舊情人再次出現，掀開已結痂的疤，但這些年的沉澱讓他提起勇氣，面對那跌宕起伏的過往…</desc>
-  </programme>
   <programme start="20260111200000 +0000" stop="20260111210000 +0000" channel="華視">
     <title lang="zh">咱的城咱的市咱臺灣的味</title>
     <desc lang="zh">金鐘歌王荒山亮主持，用歌聲帶觀眾遊臺灣，每集會介紹一個地方，並用一首歌貫穿這集的主題，過程中有美食也有好歌聲，讓節目更加多元與富有意涵。荒山亮要帶觀眾體驗廚師與職人的心路歷程，讓大家看到臺灣各地的鄉土民情。</desc>
@@ -517465,10 +517221,6 @@
   <programme start="20260111220000 +0000" stop="20260111230000 +0000" channel="華視">
     <title lang="zh">三國演議</title>
     <desc lang="zh">華視新聞部製播新聞專題節目。由國際政經專家汪浩、日本產經新聞臺北支局長矢板明夫搭檔主持，深度講評最新國際政經重大事件，跳脫傳統政論談話節目的框架屬性。</desc>
-  </programme>
-  <programme start="20260111193000 +0000" stop="20260111200000 +0000" channel="好消息2臺">
-    <title lang="zh">生命的贏家</title>
-    <desc lang="zh">美國湖木教會牧師也是全美暢銷書「活出美好」作者約爾歐斯汀製作的電視福音佈道節目，不僅在美國創下高收視率，自播出後也相當受臺灣觀眾歡迎，在歐斯汀牧師所寫的《活出美好》一書中，鼓勵弟兄姊妹要力求卓越，因為上帝並不祝福平庸，祂祝福卓越、傑出與正直…</desc>
   </programme>
   <programme start="20260111200000 +0000" stop="20260111210000 +0000" channel="好消息2臺">
     <title lang="zh">大衛鮑森講座</title>
@@ -518257,10 +518009,6 @@
   <programme start="20260116073000 +0000" stop="20260116080000 +0000" channel="好消息2臺">
     <title lang="zh">福氣人生</title>
     <desc lang="zh">如何才能擁有福氣人生?看牧師們以臺語分享聖經的真理，讓你領受天國滿滿的福氣與祝福。</desc>
-  </programme>
-  <programme start="20260111190000 +0000" stop="20260111200000 +0000" channel="好消息">
-    <title lang="zh">空中禮拜堂</title>
-    <desc lang="zh">邀請國內外各地知名講員，分享最新最挑旺的信息，讓你在家，也能跟上聖靈的水流，接受真理的裝備。</desc>
   </programme>
   <programme start="20260111200000 +0000" stop="20260111210000 +0000" channel="好消息">
     <title lang="zh">新舊約縱覽</title>
@@ -519182,10 +518930,6 @@
     <title lang="zh">精選系列生命更新專題</title>
     <desc lang="zh">好消息電視臺製作的一系列特別節目，內容圍繞生命更新、信仰成長、聖經真理，旨在幫助觀眾認識耶穌、建立門徒生活，涵蓋見證分享、專題講座、職場／家庭／親子等多元主題，是華人基督徒信仰造就的重要資源。</desc>
   </programme>
-  <programme start="20260111190000 +0000" stop="20260111200000 +0000" channel="ELTV生活英語臺">
-    <title lang="zh">DT踹貢</title>
-    <desc lang="zh">由劍橋大學認証KET、PET、FCE檢定考特訓老師David Tan主講，內容包含與時事相關的英語單字、有趣的學習經驗分享，以及如何用英文討論熱門話題。</desc>
-  </programme>
   <programme start="20260111200000 +0000" stop="20260111210000 +0000" channel="ELTV生活英語臺">
     <title lang="zh">快樂DoReMi</title>
     <desc lang="zh">學習英文的方法千百種，練唱英文歌曲是最輕鬆愉快的方式之一。本清單節目集結了動聽的英文兒歌MV，適合父母帶著孩子一起欣賞，在唱唱跳跳的過程中，增進親子情感，也配合動人旋律，學習英文。</desc>
@@ -519305,18 +519049,6 @@
   <programme start="20260112220000 +0000" stop="20260112230000 +0000" channel="ELTV生活英語臺">
     <title lang="zh">貓頭鷹探險隊</title>
     <desc lang="zh">貓頭鷹探險隊出發了，三隻可愛的貓頭鷹，每天要面對各種挑戰。但是友誼和團隊合作，就能戰勝一切。全英語發音卡通，小朋友學習英語的好夥伴！</desc>
-  </programme>
-  <programme start="20260111190000 +0000" stop="20260111193000 +0000" channel="龍華卡通臺">
-    <title lang="zh">彼得與狼奇遇記</title>
-    <desc lang="zh">擅長解決問題的小學生彼得，在路上救了一隻狼後，意外展開穿越時空的奇幻冒險！勇者與惡龍、精靈與半人馬、複製人與隱形人……彼得與狼的精采奇遇，就此展開！</desc>
-  </programme>
-  <programme start="20260111193000 +0000" stop="20260111200000 +0000" channel="龍華卡通臺">
-    <title lang="zh">彼得與狼奇遇記</title>
-    <desc lang="zh">擅長解決問題的小學生彼得，在路上救了一隻狼後，意外展開穿越時空的奇幻冒險！勇者與惡龍、精靈與半人馬、複製人與隱形人……彼得與狼的精采奇遇，就此展開！</desc>
-  </programme>
-  <programme start="20260111200000 +0000" stop="20260111203000 +0000" channel="龍華卡通臺">
-    <title lang="zh">酷奇銀河遊騎隊</title>
-    <desc lang="zh">聰明倉鼠吉克、勇敢松鼠露比、大力狗狗阿力，還有疾速貓咪閃電，組成了宇宙最酷的超級英雄組合！他們幫助其他星球的居民解決問題，保護銀河系，並對抗邪惡又神祕的鐵鷹怪！</desc>
   </programme>
   <programme start="20260111203000 +0000" stop="20260111210000 +0000" channel="龍華卡通臺">
     <title lang="zh">酷奇銀河遊騎隊</title>
@@ -520178,10 +519910,6 @@
     <title lang="zh">歡唱小浣熊</title>
     <desc lang="zh">七隻頑皮小浣熊在神奇音樂盒開啟歡樂冒險！每集獻上趣味充滿想像力的歌曲，讓孩子快樂學習！透過語言遊戲激發創意、豐富詞彙！快來加入這場音樂與知識的奇妙盛宴吧！</desc>
   </programme>
-  <programme start="20260111190000 +0000" stop="20260111200000 +0000" channel="亞洲旅遊臺">
-    <title lang="zh">世界跟我這Young玩</title>
-    <desc lang="zh">《世界跟我這YOUNG玩》，由劉沛穎擔任主持人，不同於以往行腳節目內容，採用時下年輕人最愛的隨拍紀錄、熱門景點打卡，即時記錄獨自出遊的狀況與趣事，並以女性的角度出發，鼓勵女生可以帶著勇敢與熱情踏上環遊世界的夢想之旅，也可獨立解決所有困難，強調一個女生的旅行也可以很精采。</desc>
-  </programme>
   <programme start="20260111200000 +0000" stop="20260111210000 +0000" channel="亞洲旅遊臺">
     <title lang="zh">效廉出發吧</title>
     <desc lang="zh">東森超視全新外景旅遊實境綜藝節目，由跨世代人夫許效舜、威廉攜手主持。兩位私交甚篤的知己好友，將在節目中分享彼此人生故事，帶觀眾深入瞭解每個城鎮獨有的歷史人文，探索每個地方的特色美食生活。一段見證男人友誼的旅行，就此展開！</desc>
@@ -520614,10 +520342,6 @@
     <title lang="zh">暴走兄弟朝聖趣</title>
     <desc lang="zh">透過主持人盧廣仲、李玉璽、美麗本人三兄弟挑戰世界唯二被聯合國列為世界文化遺產的參拜道：西班牙聖雅各之路與日本熊野古道的冒險實境節目，究竟其中有什麼魔力吸引著一波又一波不論國界不分年齡的朝聖者，湧入這條古老的朝聖之路？</desc>
   </programme>
-  <programme start="20260111190000 +0000" stop="20260111200000 +0000" channel="Smart知識臺">
-    <title lang="zh">全民星攻略</title>
-    <desc lang="zh">東森綜合臺全新益智實境節目，「全民星攻略」，由館長曾國城擔任把關者，考驗著每個來挑戰九宮格益智遊戲藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理想分析，纔有機會獲取智慧星幣，帶走夢幻大獎。</desc>
-  </programme>
   <programme start="20260111200000 +0000" stop="20260111210000 +0000" channel="Smart知識臺">
     <title lang="zh">健康2.0</title>
     <desc lang="zh">在節目中，將以各種深入淺出的方式，檢測時下流行的健康產品的效用，示範健康烹調與運動方法，並與觀眾分享照顧家人的健康資訊與心得。</desc>
@@ -520725,10 +520449,6 @@
   <programme start="20260112220000 +0000" stop="20260112230000 +0000" channel="Smart知識臺">
     <title lang="zh">健康2.0</title>
     <desc lang="zh">在節目中，將以各種深入淺出的方式，檢測時下流行的健康產品的效用，示範健康烹調與運動方法，並與觀眾分享照顧家人的健康資訊與心得。</desc>
-  </programme>
-  <programme start="20260111190000 +0000" stop="20260111200000 +0000" channel="龍華戲劇臺">
-    <title lang="zh">全民星攻略</title>
-    <desc lang="zh">東森綜合臺全新益智實境節目，「全民星攻略」，由館長曾國城擔任把關者，考驗著每個來挑戰九宮格益智遊戲藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理想分析，纔有機會獲取智慧星幣，帶走夢幻大獎。</desc>
   </programme>
   <programme start="20260111200000 +0000" stop="20260111210000 +0000" channel="龍華戲劇臺">
     <title lang="zh">全民星攻略</title>
@@ -521162,10 +520882,6 @@
     <title lang="zh">大漢天子3</title>
     <desc lang="zh">延續前兩集的劇情《大漢3》主要講述的是進入中年的漢武帝和漢室新一代之間的故事。永不滿足的漢武帝，不斷設計自己的人生藍圖。他聯合西域，穩定北疆，再無後顧之憂；又將目光轉向南越（今兩廣、西南）。意在建成最強大的大漢王朝，自己也要繼三皇五帝之後，成為有史以來不朽的"六帝"。</desc>
   </programme>
-  <programme start="20260111190000 +0000" stop="20260111203000 +0000" channel="臺灣戲劇臺">
-    <title lang="zh">藍色水玲瓏</title>
-    <desc lang="zh">推出全新三大系列，分別為陰陽有情天、夜迷離及神祕記事簿，劇情有動人的人世間的親情，至死不渝的男女情愛，天理報應的因果事件等，這些充斥在社會上的愛恨情仇，令人匪夷所思的事件，帶來另一種不同的詮釋角度。</desc>
-  </programme>
   <programme start="20260111203000 +0000" stop="20260111220000 +0000" channel="臺灣戲劇臺">
     <title lang="zh">藍色水玲瓏</title>
     <desc lang="zh">推出全新三大系列，分別為陰陽有情天、夜迷離及神祕記事簿，劇情有動人的人世間的親情，至死不渝的男女情愛，天理報應的因果事件等，這些充斥在社會上的愛恨情仇，令人匪夷所思的事件，帶來另一種不同的詮釋角度。</desc>
@@ -521277,14 +520993,6 @@
   <programme start="20260112223000 +0000" stop="20260112230000 +0000" channel="臺灣戲劇臺">
     <title lang="zh">親戚不計較</title>
     <desc lang="zh">由卓勝利、李鑼等人主演，本劇雖以喜劇的方式呈現，但笑中有淚，淚中有悟，悟中有得，令人深思！</desc>
-  </programme>
-  <programme start="20260111192000 +0000" stop="20260111200000 +0000" channel="東森購物1臺">
-    <title lang="zh">鎖定CH.43、CH.49選購</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
-  <programme start="20260111200000 +0000" stop="20260111204000 +0000" channel="東森購物1臺">
-    <title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title>
-    <desc lang="zh">暫無描述</desc>
   </programme>
   <programme start="20260111204000 +0000" stop="20260111212000 +0000" channel="東森購物1臺">
     <title lang="zh">鎖定CH.43、CH.49選購</title>
@@ -521930,10 +521638,6 @@
     <title lang="zh">鎖定CH.43、CH.49選購</title>
     <desc lang="zh">暫無描述</desc>
   </programme>
-  <programme start="20260111190000 +0000" stop="20260111200000 +0000" channel="龍華偶像臺">
-    <title lang="zh">好好生活</title>
-    <desc lang="zh">《好好生活》由陳銘章、陳世嶧執導，林雨申、蔡文靜領銜主演，鄒廷威、姜妍主演的都市歡脫治癒輕喜劇。講述了吳憂領證當天因為車禍放了男友鴿子，男友分手出國，吳憂傷心寄情工作，卻與「大魔王」何西亞擦出火花，兩人鬥智鬥勇成為歡喜冤家的故事。</desc>
-  </programme>
   <programme start="20260111200000 +0000" stop="20260111210000 +0000" channel="龍華偶像臺">
     <title lang="zh">被告人</title>
     <desc lang="zh">首爾中央地方檢察廳王牌檢察官樸政宇，和他的妻子一同慶祝女兒夏燕六歲生日的這一夜，他變成司法史上第一位殺死妻女的嫌犯檢察官，更糟糕的是他對於這一連串的事情都失去記憶…那一夜到底發生了什麼事呢？</desc>
@@ -522366,10 +522070,6 @@
     <title lang="zh">紅天機</title>
     <desc lang="zh">架空韓國歷史劇。御容畫師之女紅天機（金裕貞）是命定擁有神力的天才畫工，出生時因魔王詛咒而失明，後來又意外復明。她與貴族出身擁有喚水靈力的書文觀主簿河覽（安孝燮）有命定緣份，但熱愛藝術的三王子李律（孔明）卻也愛上了她…</desc>
   </programme>
-  <programme start="20260111190000 +0000" stop="20260111200000 +0000" channel="龍華日韓臺">
-    <title lang="zh">追蹤者</title>
-    <desc lang="zh">聰明又狠毒、宛如惡棍般的黃東柱（任時完）曾是檢查大企業賄賂的優秀會計師，卻忽然辭去工作，轉任大韓民國國稅廳稅收五局一組的組長，劇情講述他如何帶領擁有「垃圾回收場」之稱的稅收五局，來攪亂國稅廳內部鬥爭的一池春水。</desc>
-  </programme>
   <programme start="20260111200000 +0000" stop="20260111210000 +0000" channel="龍華日韓臺">
     <title lang="zh">歐若拉公主</title>
     <desc lang="zh">大企業天王食品會長家，晚來得到的獨生女歐若拉竟對完美挑剔男的小說家黃馬馬一見鍾情，而這兩家族之間會因為這兩人間所發生的事情，有何改變呢？</desc>
@@ -522801,14 +522501,6 @@
   <programme start="20260116070000 +0000" stop="20260116080000 +0000" channel="龍華日韓臺">
     <title lang="zh">母親</title>
     <desc lang="zh">一位一直犧牲自己為子女付出全部的偉大母親（車和娟），發現子女成為了自己的精神枷鎖和負擔，從而向子女展開報復行動的故事。</desc>
-  </programme>
-  <programme start="20260111192000 +0000" stop="20260111200000 +0000" channel="東森購物2臺">
-    <title lang="zh">鎖定CH.43、CH.49選購</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
-  <programme start="20260111200000 +0000" stop="20260111204000 +0000" channel="東森購物2臺">
-    <title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title>
-    <desc lang="zh">暫無描述</desc>
   </programme>
   <programme start="20260111204000 +0000" stop="20260111212000 +0000" channel="東森購物2臺">
     <title lang="zh">鎖定CH.43、CH.49選購</title>
@@ -523454,10 +523146,6 @@
     <title lang="zh">鎖定CH.43、CH.49選購</title>
     <desc lang="zh">暫無描述</desc>
   </programme>
-  <programme start="20260111190000 +0000" stop="20260111200000 +0000" channel="華視新聞">
-    <title lang="zh">新聞高峯會</title>
-    <desc lang="zh">華視新聞部製作的人物專訪節目，由新聞臺臺長陳雅琳身兼製作人與主持人，邀請各新聞發燒人物、各領域領袖人物，與雅琳主播進行深度對談。</desc>
-  </programme>
   <programme start="20260111200000 +0000" stop="20260111210000 +0000" channel="華視新聞">
     <title lang="zh">華視2400夜間新聞</title>
     <desc lang="zh">由專業華視主播帶來最即時、最完整、最專業的新聞報導。</desc>
@@ -523898,10 +523586,6 @@
     <title lang="zh">節目未定</title>
     <desc lang="zh">節目資訊尚未公佈。</desc>
   </programme>
-  <programme start="20260111190000 +0000" stop="20260111200000 +0000" channel="三立新聞iNEWS">
-    <title lang="zh">好宅敲敲門</title>
-    <desc lang="zh">由廖婕妤主持，節目將深入分析房地產市場動態，提供區域房價、趨勢報導，同時有房地產界人物專訪，透過人物故事看房市更迭，並搭配每週精選、具吸引力之房地產新聞，以及主播開箱名人明星家，訪談買房心法、投資觀點。</desc>
-  </programme>
   <programme start="20260111200000 +0000" stop="20260111210000 +0000" channel="三立新聞iNEWS">
     <title lang="zh">1819錢進大頭條</title>
     <desc lang="zh">三立iNEWS製播的財經新聞節目，由最專業的財經主播帶來國際時事、財經股匯市報導、深度新聞及時事評論…等內容。</desc>
@@ -523997,10 +523681,6 @@
   <programme start="20260112220000 +0000" stop="20260112230000 +0000" channel="三立新聞iNEWS">
     <title lang="zh">2300iNEWS財經夜世界</title>
     <desc lang="zh">三立iNEWS製播的財經新聞節目，由最專業的財經主播帶來國際時事、財經股匯市報導、深度新聞、時事評論…等內容。</desc>
-  </programme>
-  <programme start="20260111190000 +0000" stop="20260111200000 +0000" channel="寰宇財經臺">
-    <title lang="zh">57怪奇物語</title>
-    <desc lang="zh">世上真有外星生物嗎？最新幽浮檔案，帶您探訪外星文明！前進各國小鎮，搜尋奇聞怪談，深度剖析玄案疑雲，抽絲剝繭挖掘詭譎真相，攤開世界地圖，想了解地球上的怪奇之事，請鎖定57怪奇物語！</desc>
   </programme>
   <programme start="20260111200000 +0000" stop="20260111210000 +0000" channel="寰宇財經臺">
     <title lang="zh">銅板美食呷透透</title>
@@ -524110,10 +523790,6 @@
     <title lang="zh">小食光臺味誌</title>
     <desc lang="zh">暫無描述</desc>
   </programme>
-  <programme start="20260111190000 +0000" stop="20260111200000 +0000" channel="中視新聞">
-    <title lang="zh">中視新聞全球報導</title>
-    <desc lang="zh">中視每晚七點由主播哈遠儀為全國觀眾最專業、準確的新聞報導。</desc>
-  </programme>
   <programme start="20260111200000 +0000" stop="20260111210000 +0000" channel="中視新聞">
     <title lang="zh">中視整點新聞</title>
     <desc lang="zh">以最客觀的角度，最專業的主播，為觀眾完整報導當日發生之重大國內外重要新聞。</desc>
@@ -524125,10 +523801,6 @@
   <programme start="20260111220000 +0000" stop="20260111230000 +0000" channel="中視新聞">
     <title lang="zh">中視新聞全球報導</title>
     <desc lang="zh">中視每晚七點由主播哈遠儀為全國觀眾最專業、準確的新聞報導。</desc>
-  </programme>
-  <programme start="20260111185500 +0000" stop="20260111195500 +0000" channel="寰宇新聞臺灣臺">
-    <title lang="zh">寰宇焦點新聞</title>
-    <desc lang="zh">暫無描述</desc>
   </programme>
   <programme start="20260111195500 +0000" stop="20260111205500 +0000" channel="寰宇新聞臺灣臺">
     <title lang="zh">寰宇晚間新聞</title>
@@ -524266,10 +523938,6 @@
     <title lang="zh">節目未定</title>
     <desc lang="zh">節目資訊尚未公佈。</desc>
   </programme>
-  <programme start="20260111185500 +0000" stop="20260111195500 +0000" channel="寰宇新聞臺">
-    <title lang="zh">寰宇全球新聞</title>
-    <desc lang="zh">搶先揭露全球各地政經、社會、娛樂的第一手新聞訊息，讓觀眾不漏接關鍵的世界大事。</desc>
-  </programme>
   <programme start="20260111195500 +0000" stop="20260111205500 +0000" channel="寰宇新聞臺">
     <title lang="zh">寰宇全球新聞</title>
     <desc lang="zh">搶先揭露全球各地政經、社會、娛樂的第一手新聞訊息，讓觀眾不漏接關鍵的世界大事。</desc>
@@ -524405,10 +524073,6 @@
   <programme start="20260113160000 +0000" stop="20260113200000 +0000" channel="寰宇新聞臺">
     <title lang="zh">節目未定</title>
     <desc lang="zh">節目資訊尚未公佈。</desc>
-  </programme>
-  <programme start="20260111193000 +0000" stop="20260111200000 +0000" channel="第1商業臺">
-    <title lang="zh">股市強強滾-亞洲投顧-鄭偉羣分析師</title>
-    <desc lang="zh">暫無描述</desc>
   </programme>
   <programme start="20260111200000 +0000" stop="20260111203000 +0000" channel="第1商業臺">
     <title lang="zh">旗開得勝-顧德投顧-張家豪分析師</title>
@@ -525194,10 +524858,6 @@
     <title lang="zh">期股衝衝衝-寶得富-翁士峻分析師</title>
     <desc lang="zh">暫無描述</desc>
   </programme>
-  <programme start="20260111173500 +0000" stop="20260111201900 +0000" channel="國會頻道1臺">
-    <title lang="zh">外交及國防委員會</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
   <programme start="20260111201900 +0000" stop="20260111211400 +0000" channel="國會頻道1臺">
     <title lang="zh">黨團協商</title>
     <desc lang="zh">暫無描述</desc>
@@ -525361,10 +525021,6 @@
   <programme start="20260112180000 +0000" stop="20260112220000 +0000" channel="龍華經典臺">
     <title lang="zh">收播</title>
     <desc lang="zh">目前無播出節目。</desc>
-  </programme>
-  <programme start="20260111175000 +0000" stop="20260111195000 +0000" channel="龍華電影臺">
-    <title lang="zh">特殊身份</title>
-    <desc lang="zh">故事橫跨香港深圳兩地，陳子龍（甄子丹）是名長期臥底在黑道旁的警察，一名從美國回來的混混，不斷地在江湖滋事，陳子龍奉老大命令追查，卻深陷警力和幫派之中，錯綜複雜的關係，讓他自己幾乎喪命…</desc>
   </programme>
   <programme start="20260111195000 +0000" stop="20260111220000 +0000" channel="龍華電影臺">
     <title lang="zh">素還真</title>
@@ -525609,10 +525265,6 @@
   <programme start="20260116065000 +0000" stop="20260116072000 +0000" channel="龍華電影臺">
     <title lang="zh">超人力霸王傑特</title>
     <desc lang="zh">過去曾經四散在宇宙各處的惡魔碎片，現在又再度讓全宇宙陷入了混亂。 為了奪回和平的生活，超人力霸王們不停地在宇宙中奮戰。與此同時，濫用惡魔碎片並陸續毀滅行星的神祕存在，也正在私底下進行卑劣的活動。 隨後，邪惡的魔掌也終於伸向了「光之國」…</desc>
-  </programme>
-  <programme start="20260111184500 +0000" stop="20260111204000 +0000" channel="龍華洋片臺">
-    <title lang="zh">腥鞋遊戲</title>
-    <desc lang="zh">富豪發出名為「搶奪紅色高跟鞋」的高額獎金遊戲，最終贏家可獲得金錢與權力，但這血腥的遊戲設定了病態的規則：突破道德界線的玩法才被認可！殘虐的遊戲就此失控的展開，直到她的出現…</desc>
   </programme>
   <programme start="20260111204000 +0000" stop="20260111222500 +0000" channel="龍華洋片臺">
     <title lang="zh">伊莉莎白二世：榮耀年華</title>
@@ -628884,11 +628536,11 @@ Emma被叫「大姐」勸酒技能神遺傳</desc>
     <title lang="zh">Suttum Vizhi Sudare</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260112023500 +0800" stop="20260112035000 +0800" channel="Star_Vijay_HD">
+  <programme start="20260112023500 +0800" stop="20260112040000 +0800" channel="Star_Vijay_HD">
     <title lang="zh">Bigg Boss Tamil S9 Ep99</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260112035000 +0800" stop="20260112044500 +0800" channel="Star_Vijay_HD">
+  <programme start="20260112040000 +0800" stop="20260112044500 +0800" channel="Star_Vijay_HD">
     <title lang="zh">Neeya Naana Ep749</title>
     <desc lang="zh"> </desc>
   </programme>
