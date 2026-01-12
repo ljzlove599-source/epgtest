@@ -9,12 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260112163000 +0800" stop="20260112180000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-  </programme>
-  <programme start="20260112180000 +0800" stop="20260112190000 +0800" channel="mbc action">
-    <title lang="en">Ridiculousness</title>
-  </programme>
   <programme start="20260112190000 +0800" stop="20260112203000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
@@ -189,8 +183,8 @@
   <programme start="20260115030000 +0800" stop="20260115043000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
-  <programme start="20260112163000 +0800" stop="20260112183000 +0800" channel="mbc max">
-    <title lang="en">Duplicity</title>
+  <programme start="20260115043000 +0800" stop="20260115053000 +0800" channel="mbc action">
+    <title lang="en">ابرز لقطات الدوري</title>
   </programme>
   <programme start="20260112183000 +0800" stop="20260112203000 +0800" channel="mbc max">
     <title lang="en">Long Shot</title>
@@ -324,11 +318,11 @@
   <programme start="20260115030000 +0800" stop="20260115043000 +0800" channel="mbc max">
     <title lang="en">Forgetting Sarah Marshall</title>
   </programme>
-  <programme start="20260112162500 +0800" stop="20260112183500 +0800" channel="mbc 2">
-    <title lang="en">Captain Phillips</title>
-  </programme>
-  <programme start="20260112183500 +0800" stop="20260112190000 +0800" channel="mbc 2">
+  <programme start="20260115043000 +0800" stop="20260115050000 +0800" channel="mbc max">
     <title lang="en">برنامج Celebrity Scoop Season 9</title>
+  </programme>
+  <programme start="20260115050000 +0800" stop="20260115063000 +0800" channel="mbc max">
+    <title lang="en">She's Funny That Way</title>
   </programme>
   <programme start="20260112190000 +0800" stop="20260112210000 +0800" channel="mbc 2">
     <title lang="en">Iron Mask</title>
@@ -443,5 +437,8 @@
   </programme>
   <programme start="20260115020000 +0800" stop="20260115034000 +0800" channel="mbc 2">
     <title lang="en">How to Train Your Dragon: The Hidden World</title>
+  </programme>
+  <programme start="20260115034000 +0800" stop="20260115054000 +0800" channel="mbc 2">
+    <title lang="en">برنامج making the movies 6</title>
   </programme>
 </tv>
