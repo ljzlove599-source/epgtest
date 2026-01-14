@@ -1,7 +1,7 @@
 Processing: epgshanghai.xml
 Generated: epgshanghai.xml
 Processing: epghebeiiptv1.xml
-Generated: epghebeiiptv1.xml
+Error downloading epghebeiiptv1.xml
 Processing: epgyidong.xml
 PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '<' not found in /home/runner/work/epgtest/epgtest/epggen2.php on line 35
 PHP Warning:  simplexml_load_string(): error code: 526 in /home/runner/work/epgtest/epgtest/epggen2.php on line 35
