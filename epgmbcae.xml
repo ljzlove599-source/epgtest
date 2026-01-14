@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260115020000 +0800" stop="20260115030000 +0800" channel="mbc action">
-    <title lang="en">بودكاست ملح الدوري</title>
-  </programme>
   <programme start="20260115030000 +0800" stop="20260115043000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
@@ -86,9 +83,6 @@
   </programme>
   <programme start="20260116043000 +0800" stop="20260116053000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
-  </programme>
-  <programme start="20260115010000 +0800" stop="20260115030000 +0800" channel="mbc max">
-    <title lang="en">No Reservations</title>
   </programme>
   <programme start="20260115030000 +0800" stop="20260115043000 +0800" channel="mbc max">
     <title lang="en">Forgetting Sarah Marshall</title>
@@ -189,8 +183,8 @@
   <programme start="20260117113000 +0800" stop="20260117130000 +0800" channel="mbc max">
     <title lang="en">Moonrise Kingdom</title>
   </programme>
-  <programme start="20260115020000 +0800" stop="20260115034000 +0800" channel="mbc 2">
-    <title lang="en">How to Train Your Dragon: The Hidden World</title>
+  <programme start="20260117130000 +0800" stop="20260117143000 +0800" channel="mbc max">
+    <title lang="en">Brick Mansions</title>
   </programme>
   <programme start="20260115034000 +0800" stop="20260115054000 +0800" channel="mbc 2">
     <title lang="en">برنامج making the movies 6</title>
@@ -278,5 +272,8 @@
   </programme>
   <programme start="20260117110000 +0800" stop="20260117123000 +0800" channel="mbc 2">
     <title lang="en">Boogie</title>
+  </programme>
+  <programme start="20260117123000 +0800" stop="20260117143000 +0800" channel="mbc 2">
+    <title lang="en">42</title>
   </programme>
 </tv>
