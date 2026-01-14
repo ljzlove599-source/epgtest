@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260114180000 +0800" stop="20260114190000 +0800" channel="mbc action">
-    <title lang="en">برنامج وثائقيات موتورشو</title>
-  </programme>
   <programme start="20260114190000 +0800" stop="20260114200000 +0800" channel="mbc action">
     <title lang="en">One Piece</title>
   </programme>
@@ -113,9 +110,6 @@
   </programme>
   <programme start="20260116043000 +0800" stop="20260116053000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
-  </programme>
-  <programme start="20260114183000 +0800" stop="20260114190000 +0800" channel="mbc max">
-    <title lang="en">برنامج world of movies</title>
   </programme>
   <programme start="20260114190000 +0800" stop="20260114203000 +0800" channel="mbc max">
     <title lang="en">Moonrise Kingdom</title>
@@ -219,8 +213,8 @@
   <programme start="20260117030000 +0800" stop="20260117050000 +0800" channel="mbc max">
     <title lang="en">My Spy</title>
   </programme>
-  <programme start="20260114170000 +0800" stop="20260114193000 +0800" channel="mbc 2">
-    <title lang="en">برنامج golden globes 2026</title>
+  <programme start="20260117050000 +0800" stop="20260117070000 +0800" channel="mbc max">
+    <title lang="en">Ride Along 2</title>
   </programme>
   <programme start="20260114193000 +0800" stop="20260114213500 +0800" channel="mbc 2">
     <title lang="en">Miss Sloane</title>
@@ -317,5 +311,8 @@
   </programme>
   <programme start="20260117020000 +0800" stop="20260117043000 +0800" channel="mbc 2">
     <title lang="en">Ready Player One</title>
+  </programme>
+  <programme start="20260117043000 +0800" stop="20260117063000 +0800" channel="mbc 2">
+    <title lang="en">Resident Evil: Welcome to Raccoon City</title>
   </programme>
 </tv>
