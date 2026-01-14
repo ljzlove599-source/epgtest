@@ -1,75 +1,13 @@
-页面 1 日期: Jan 13, 2026, 节目数量: 16
-页面 2 日期: Jan 14, 2026, 节目数量: 16
-页面 3 日期: Jan 15, 2026, 节目数量: 16
-页面 4 日期: Jan 16, 2026, 节目数量: 15
+页面 1 日期: Jan 14, 2026, 节目数量: 16
+页面 2 日期: Jan 15, 2026, 节目数量: 16
+页面 3 日期: Jan 16, 2026, 节目数量: 15
+页面 4 日期: Jan 17, 2026, 节目数量: 4
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "http://api.torrent-tv.ru/xmltv.dtd">
 <tv generator-info-name="http://192.168.10.1/system/opt/" generator-info-url="QQ">
   <channel id="Dubai One">
     <display-name lang="en">Dubai One</display-name>
   </channel>
-  <programme start="20260113003000 +0400" stop="20260113023000 +0400" channel="Dubai One">
-    <title lang="en">Father of the Bride</title>
-    <desc lang="en">In this remake of the Spencer Tracy classic, George and Nina Banks are the parents of young soon-to-be-wed Annie.</desc>
-  </programme>
-  <programme start="20260113023000 +0400" stop="20260113030000 +0400" channel="Dubai One">
-    <title lang="en">Emirates News Emirates News</title>
-    <desc lang="en">Be the First to Know.</desc>
-  </programme>
-  <programme start="20260113030000 +0400" stop="20260113040000 +0400" channel="Dubai One">
-    <title lang="en">Las hijas de la Señora García</title>
-    <desc lang="en">Mrs. Garcia strives to achieve her dream at cost of her daughters' happiness.</desc>
-  </programme>
-  <programme start="20260113040000 +0400" stop="20260113060000 +0400" channel="Dubai One">
-    <title lang="en">Boiling Point</title>
-  </programme>
-  <programme start="20260113060000 +0400" stop="20260113100000 +0400" channel="Dubai One">
-    <title lang="en">Dubai Eye On Dubai One</title>
-    <desc lang="en">Magazine show featuring news and current affairs</desc>
-  </programme>
-  <programme start="20260113100000 +0400" stop="20260113110000 +0400" channel="Dubai One">
-    <title lang="en">Las hijas de la Señora García</title>
-    <desc lang="en">Mrs. Garcia strives to achieve her dream at cost of her daughters' happiness.</desc>
-  </programme>
-  <programme start="20260113110000 +0400" stop="20260113130000 +0400" channel="Dubai One">
-    <title lang="en">The Secret Life of Bees</title>
-    <desc lang="en">Set in South Carolina in 1964, this is the tale of Lily Owens a 14-year-old girl who is haunted by the memory of her late mother...</desc>
-  </programme>
-  <programme start="20260113130000 +0400" stop="20260113150000 +0400" channel="Dubai One">
-    <title lang="en">Boiling Point</title>
-  </programme>
-  <programme start="20260113150000 +0400" stop="20260113160000 +0400" channel="Dubai One">
-    <title lang="en">DXB Today</title>
-    <desc lang="en">Your guide to what's happening in Dubai!</desc>
-  </programme>
-  <programme start="20260113160000 +0400" stop="20260113170000 +0400" channel="Dubai One">
-    <title lang="en">Las hijas de la Señora García</title>
-    <desc lang="en">Mrs. Garcia strives to achieve her dream at cost of her daughters' happiness.</desc>
-  </programme>
-  <programme start="20260113170000 +0400" stop="20260113190000 +0400" channel="Dubai One">
-    <title lang="en">Father of the Bride</title>
-    <desc lang="en">In this remake of the Spencer Tracy classic, George and Nina Banks are the parents of young soon-to-be-wed Annie.</desc>
-  </programme>
-  <programme start="20260113190000 +0400" stop="20260113200000 +0400" channel="Dubai One">
-    <title lang="en">Homegrown DXB</title>
-    <desc lang="en">Home Grown Dubai will highlight the businesses and people who are not only making a difference in our country but across the world.</desc>
-  </programme>
-  <programme start="20260113200000 +0400" stop="20260113203000 +0400" channel="Dubai One">
-    <title lang="en">Emirates News Emirates News</title>
-    <desc lang="en">Be the First to Know.</desc>
-  </programme>
-  <programme start="20260113203000 +0400" stop="20260113213000 +0400" channel="Dubai One">
-    <title lang="en">DXB Today</title>
-    <desc lang="en">Your guide to what's happening in Dubai!</desc>
-  </programme>
-  <programme start="20260113213000 +0400" stop="20260113223000 +0400" channel="Dubai One">
-    <title lang="en">Las hijas de la Señora García</title>
-    <desc lang="en">Mrs. Garcia strives to achieve her dream at cost of her daughters' happiness.</desc>
-  </programme>
-  <programme start="20260113223000 +0400" stop="20260114003000 +0400" channel="Dubai One">
-    <title lang="en">Money Monster</title>
-    <desc lang="en">Financial TV host Lee Gates and his producer Patty are put in an extreme situation when an irate investor takes them and their crew as hostage.</desc>
-  </programme>
   <programme start="20260114003000 +0400" stop="20260114023000 +0400" channel="Dubai One">
     <title lang="en">Cheaper by the Dozen 2</title>
     <desc lang="en">Steve Martin and Bonnie Hunt return as heads of the Baker family who, while on vacation, find themselves in competition with a rival family of eight children, headed by Eugene Levy</desc>
@@ -249,7 +187,23 @@
     <title lang="en">Las hijas de la Señora García</title>
     <desc lang="en">Mrs. Garcia strives to achieve her dream at cost of her daughters' happiness.</desc>
   </programme>
-  <programme start="20260116223000 +0400" stop="20260117000000 +0400" channel="Dubai One">
+  <programme start="20260116223000 +0400" stop="20260117010000 +0400" channel="Dubai One">
+    <title lang="en">Divergent</title>
+    <desc lang="en">What Makes You Different, Makes You Dangerous</desc>
+  </programme>
+  <programme start="20260117010000 +0400" stop="20260117030000 +0400" channel="Dubai One">
+    <title lang="en">The Da Vinci Code</title>
+    <desc lang="en">A murder inside the Louvre and clues in Da Vinci paintings lead to the discovery of a religious mystery protected by a secret society for two thousand years -- which could shake the foundations of Christianity.</desc>
+  </programme>
+  <programme start="20260117030000 +0400" stop="20260117033000 +0400" channel="Dubai One">
+    <title lang="en">Emirates News Emirates News</title>
+    <desc lang="en">Be the First to Know.</desc>
+  </programme>
+  <programme start="20260117033000 +0400" stop="20260117040000 +0400" channel="Dubai One">
+    <title lang="en">Hollywood on Set</title>
+    <desc lang="en">The making of blockbuster movies</desc>
+  </programme>
+  <programme start="20260117040000 +0400" stop="20260118000000 +0400" channel="Dubai One">
     <title lang="en">Divergent</title>
     <desc lang="en">What Makes You Different, Makes You Dangerous</desc>
   </programme>
