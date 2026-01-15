@@ -9,12 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260115053000 +0800" stop="20260115063000 +0800" channel="mbc action">
-    <title lang="en">الخميس</title>
-  </programme>
-  <programme start="20260115063000 +0800" stop="20260115070000 +0800" channel="mbc action">
-    <title lang="en">One Piece</title>
-  </programme>
   <programme start="20260115070000 +0800" stop="20260115080000 +0800" channel="mbc action">
     <title lang="en">برنامج action bodcast</title>
   </programme>
@@ -77,12 +71,6 @@
   </programme>
   <programme start="20260116043000 +0800" stop="20260116053000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
-  </programme>
-  <programme start="20260115050000 +0800" stop="20260115063000 +0800" channel="mbc max">
-    <title lang="en">She's Funny That Way</title>
-  </programme>
-  <programme start="20260115063000 +0800" stop="20260115070000 +0800" channel="mbc max">
-    <title lang="en">برنامج Making The Movies</title>
   </programme>
   <programme start="20260115070000 +0800" stop="20260115083000 +0800" channel="mbc max">
     <title lang="en">Going in Style</title>
@@ -177,11 +165,8 @@
   <programme start="20260117143000 +0800" stop="20260117163000 +0800" channel="mbc max">
     <title lang="en">Click</title>
   </programme>
-  <programme start="20260115054000 +0800" stop="20260115060500 +0800" channel="mbc 2">
-    <title lang="en">برنامج Planet Action 6</title>
-  </programme>
-  <programme start="20260115060500 +0800" stop="20260115074500 +0800" channel="mbc 2">
-    <title lang="en">Krampus</title>
+  <programme start="20260117163000 +0800" stop="20260117183000 +0800" channel="mbc max">
+    <title lang="en">Taken 3</title>
   </programme>
   <programme start="20260115074500 +0800" stop="20260115092400 +0800" channel="mbc 2">
     <title lang="en">The Man Who Knew Infinity</title>
@@ -266,5 +251,8 @@
   </programme>
   <programme start="20260117143000 +0800" stop="20260117170000 +0800" channel="mbc 2">
     <title lang="en">Ready Player One</title>
+  </programme>
+  <programme start="20260117170000 +0800" stop="20260117190000 +0800" channel="mbc 2">
+    <title lang="en">Ender's Game</title>
   </programme>
 </tv>
