@@ -1,7 +1,7 @@
 页面 1 日期: Jan 15, 2026, 节目数量: 16
 页面 2 日期: Jan 16, 2026, 节目数量: 15
 页面 3 日期: Jan 17, 2026, 节目数量: 15
-页面 4 日期: Jan 18, 2026, 节目数量: 17
+页面 4 日期: Jan 18, 2026, 节目数量: 18
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "http://api.torrent-tv.ru/xmltv.dtd">
 <tv generator-info-name="http://192.168.10.1/system/opt/" generator-info-url="QQ">
@@ -242,9 +242,13 @@
     <title lang="en">Hollywood News Feed</title>
     <desc lang="en">Hottest entertainment news of the week!</desc>
   </programme>
-  <programme start="20260118203000 +0400" stop="20260118220000 +0400" channel="Dubai One">
+  <programme start="20260118203000 +0400" stop="20260118210000 +0400" channel="Dubai One">
     <title lang="en">Hollywood on Set</title>
     <desc lang="en">The making of blockbuster movies</desc>
+  </programme>
+  <programme start="20260118210000 +0400" stop="20260118220000 +0400" channel="Dubai One">
+    <title lang="en">Maxima</title>
+    <desc lang="en">Máxima Zorreguieta steps into the spotlight beside the Dutch crown prince.</desc>
   </programme>
   <programme start="20260118220000 +0400" stop="20260119000000 +0400" channel="Dubai One">
     <title lang="en">La Vie En Rose</title>
