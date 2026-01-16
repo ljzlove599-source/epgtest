@@ -7041,10 +7041,6 @@
   <channel id="beinsports4">
     <display-name lang="zh">beinsports4</display-name>
   </channel>
-  <programme start="20260116110000 +0800" stop="20260116120000 +0800" channel="mbc action">
-    <title lang="en">One Piece</title>
-    <desc lang=""/>
-  </programme>
   <programme start="20260116120000 +0800" stop="20260116130000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
     <desc lang=""/>
@@ -7269,8 +7265,8 @@
     <title lang="en">برنامج The Ride Life With Sung Kang</title>
     <desc lang=""/>
   </programme>
-  <programme start="20260116110000 +0800" stop="20260116123000 +0800" channel="mbc max">
-    <title lang="en">She's Funny That Way</title>
+  <programme start="20260118213000 +0800" stop="20260118223000 +0800" channel="mbc action">
+    <title lang="en">برنامج cars &amp; stars </title>
     <desc lang=""/>
   </programme>
   <programme start="20260116123000 +0800" stop="20260116143000 +0800" channel="mbc max">
@@ -7389,10 +7385,6 @@
     <title lang="en">Hellboy II: The Golden Army</title>
     <desc lang=""/>
   </programme>
-  <programme start="20260116103000 +0800" stop="20260116123000 +0800" channel="mbc 2">
-    <title lang="en">Krampus</title>
-    <desc lang=""/>
-  </programme>
   <programme start="20260116123000 +0800" stop="20260116140000 +0800" channel="mbc 2">
     <title lang="en">The Croods</title>
     <desc lang=""/>
@@ -7503,6 +7495,10 @@
   </programme>
   <programme start="20260118193000 +0800" stop="20260118220000 +0800" channel="mbc 2">
     <title lang="en">The Big Sick</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260118220000 +0800" stop="20260119000000 +0800" channel="mbc 2">
+    <title lang="en">The Commuter</title>
     <desc lang=""/>
   </programme>
   <programme start="20260115003000 +0400" stop="20260115023000 +0400" channel="Dubai One">
@@ -7826,11 +7822,11 @@
     <desc lang=""/>
   </programme>
   <programme start="20260116124000 +0900" stop="20260116141000 +0900" channel="KBSWorld">
-    <title lang="en">Boss in the Mirror Ep.337 [LIVE]</title>
+    <title lang="en">Boss in the Mirror Ep.337</title>
     <desc lang=""/>
   </programme>
   <programme start="20260116141000 +0900" stop="20260116152500 +0900" channel="KBSWorld">
-    <title lang="en">Oh My Venus Ep.3</title>
+    <title lang="en">Oh My Venus Ep.3 [LIVE]</title>
     <desc lang=""/>
   </programme>
   <programme start="20260116152500 +0900" stop="20260116164000 +0900" channel="KBSWorld">
@@ -492698,6 +492694,138 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <title lang="zh">蹦蹦跳跳爱健康</title>
     <desc lang="zh"/>
   </programme>
+  <programme start="20260116055200" stop="20260116055400" channel="南京综合">
+    <title lang="zh">南京电视台总片头</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260116055400" stop="20260116063900" channel="南京综合">
+    <title lang="zh">标点说房+南京第一家装</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260116063900" stop="20260116073300" channel="南京综合">
+    <title lang="zh">标点家装</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260116073300" stop="20260116080000" channel="南京综合">
+    <title lang="zh">直播南京(复)</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260116080000" stop="20260116082000" channel="南京综合">
+    <title lang="zh">南京新闻(复)</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260116082000" stop="20260116083000" channel="南京综合">
+    <title lang="zh">联办节目(复)</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260116083000" stop="20260116085000" channel="南京综合">
+    <title lang="zh">城市面孔等专题</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260116085000" stop="20260116093500" channel="南京综合">
+    <title lang="zh">仁心说医事</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260116093500" stop="20260116105500" channel="南京综合">
+    <title lang="zh">电视剧</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260116105500" stop="20260116111000" channel="南京综合">
+    <title lang="zh">初心永恒等</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260116111000" stop="20260116120000" channel="南京综合">
+    <title lang="zh">仁心说医事</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260116120000" stop="20260116123500" channel="南京综合">
+    <title lang="zh">南京纵横(直播)</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260116123500" stop="20260116133000" channel="南京综合">
+    <title lang="zh">城市面孔等专题</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260116133000" stop="20260116141500" channel="南京综合">
+    <title lang="zh">仁心说医事</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260116141500" stop="20260116150900" channel="南京综合">
+    <title lang="zh">电视剧</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260116150900" stop="20260116162700" channel="南京综合">
+    <title lang="zh">仁心说医事</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260116162700" stop="20260116164700" channel="南京综合">
+    <title lang="zh">诗行天下精编版</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260116164700" stop="20260116172800" channel="南京综合">
+    <title lang="zh">仁心说医事</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260116172800" stop="20260116173000" channel="南京综合">
+    <title lang="zh">南京广播电视台总片头</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260116173000" stop="20260116174500" channel="南京综合">
+    <title lang="zh">新居巧匠</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260116174500" stop="20260116180000" channel="南京综合">
+    <title lang="zh">南京纵横复播版</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260116180000" stop="20260116183000" channel="南京综合">
+    <title lang="zh">直播南京(直播)</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260116183000" stop="20260116190000" channel="南京综合">
+    <title lang="zh">南京新闻(直播)</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260116190000" stop="20260116193800" channel="南京综合">
+    <title lang="zh">转播中央电视台新闻联播</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260116193800" stop="20260116202600" channel="南京综合">
+    <title lang="zh">电视剧</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260116202600" stop="20260116203000" channel="南京综合">
+    <title lang="zh">幕后故事</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260116203000" stop="20260116213000" channel="南京综合">
+    <title lang="zh">电视剧</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260116213000" stop="20260116220000" channel="南京综合">
+    <title lang="zh">南京纵横晚间版</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260116220000" stop="20260116222200" channel="南京综合">
+    <title lang="zh">南京新闻(复)</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260116222200" stop="20260116223500" channel="南京综合">
+    <title lang="zh">联办节目</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260116223500" stop="20260116232000" channel="南京综合">
+    <title lang="zh">标点说房+南京第一家装</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260116232000" stop="20260116234000" channel="南京综合">
+    <title lang="zh">标点家装</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260116234000" stop="20260117000000" channel="南京综合">
+    <title lang="zh">消费向导</title>
+    <desc lang="zh"/>
+  </programme>
   <programme start="20260117055200" stop="20260117055400" channel="南京综合">
     <title lang="zh">南京电视台总片头</title>
     <desc lang="zh"/>
@@ -506314,10 +506442,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <title lang="zh">小山正在秀</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260116035800 +0000" stop="20260116050000 +0000" channel="中視">
-    <title lang="zh">中視午間新聞</title>
-    <desc lang="zh">「中視午間新聞」每天以最客觀的角度，最專業的主播，為觀眾完整報導上午發生之重大國內外重要新聞，並提供最新股市收盤價格。</desc>
-  </programme>
   <programme start="20260116050000 +0000" stop="20260116060000 +0000" channel="中視">
     <title lang="zh">MIT台灣誌</title>
     <desc lang="zh">「MIT台灣誌」以發現台灣、寫真台灣、紀錄台灣為主旨，走遍台灣的每寸土地，介紹台灣的人文環境、大自然地理等…</desc>
@@ -506545,10 +506669,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
   <programme start="20260118220000 +0000" stop="20260118230000 +0000" channel="中視">
     <title lang="zh">中視新聞</title>
     <desc lang="zh">由最專業的中視新聞主播，為您播報最新、最即時的新聞。</desc>
-  </programme>
-  <programme start="20260116035800 +0000" stop="20260116050000 +0000" channel="華視">
-    <title lang="zh">華視午間新聞</title>
-    <desc lang="zh">華視午間新聞由最專業的華視主播，帶給觀眾朋友更多元化的新聞。</desc>
   </programme>
   <programme start="20260116050000 +0000" stop="20260116060000 +0000" channel="華視">
     <title lang="zh">九如一家人</title>
@@ -507025,10 +507145,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
   <programme start="20260121060000 +0000" stop="20260121080000 +0000" channel="華視">
     <title lang="zh">警世劇場</title>
     <desc lang="zh">社會寫實單元劇，劇情效法《X檔案》，以現代辦案的角度來切入鬼神之說，用以警惕世人。篤信科學辦案精神的刑警尚智（謝祖武）有心理學博士學位，他與先天具有陰陽眼的搭檔王玉芳（趙英華），共同調查各種無法用科學解釋的案件，為死者伸冤…</desc>
-  </programme>
-  <programme start="20260116040500 +0000" stop="20260116050000 +0000" channel="好消息2台">
-    <title lang="zh">真情部落格</title>
-    <desc lang="zh">廣受海內外觀眾歡迎的真情部落格，由知名主播夏嘉璐主持，莊信德牧師回應，透過每位來賓的生命見證幫助許多人走出低谷。相信神繼續透過真情部落格祝福這世代的華人。</desc>
   </programme>
   <programme start="20260116050000 +0000" stop="20260116060000 +0000" channel="好消息2台">
     <title lang="zh">幸福學堂</title>
@@ -507949,22 +508065,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
   <programme start="20260121073000 +0000" stop="20260121080000 +0000" channel="好消息2台">
     <title lang="zh">福氣人生</title>
     <desc lang="zh">如何才能擁有福氣人生?看牧師們以台語分享聖經的真理，讓你領受天國滿滿的福氣與祝福。</desc>
-  </programme>
-  <programme start="20260116040000 +0000" stop="20260116043000 +0000" channel="好消息">
-    <title lang="zh">福氣人生</title>
-    <desc lang="zh">如何才能擁有福氣人生?看牧師們以台語分享聖經的真理，讓你領受天國滿滿的福氣與祝福。</desc>
-  </programme>
-  <programme start="20260116043000 +0000" stop="20260116044500 +0000" channel="好消息">
-    <title lang="zh">機智青年生活</title>
-    <desc lang="zh">這不是韓劇，而是正上演的一齣充滿血淚與美好友誼的熱血植堂連續劇 ！旌旗好生活邀請到三對青年牧師CP，來聊聊由上帝導演，引領青年教會及一群青年團隊，經歷瘋狂又精彩的植堂人生！</desc>
-  </programme>
-  <programme start="20260116044500 +0000" stop="20260116050000 +0000" channel="好消息">
-    <title lang="zh">機智青年生活</title>
-    <desc lang="zh">這不是韓劇，而是正上演的一齣充滿血淚與美好友誼的熱血植堂連續劇 ！旌旗好生活邀請到三對青年牧師CP，來聊聊由上帝導演，引領青年教會及一群青年團隊，經歷瘋狂又精彩的植堂人生！</desc>
-  </programme>
-  <programme start="20260116050000 +0000" stop="20260116050500 +0000" channel="好消息">
-    <title lang="zh">遇見祝福</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260116050500 +0000" stop="20260116060000 +0000" channel="好消息">
     <title lang="zh">真情部落格</title>
@@ -508902,10 +509002,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <title lang="zh">道在人間(國)</title>
     <desc lang="zh">節目中邀請趙鏞基、葉光明、傑克海福德、喬依絲邁爾等，國內外知名牧長，以豐富的服事經歷與紮實的神學裝備，教導、傳講聖經真道，堅固信徒並警醒人心。</desc>
   </programme>
-  <programme start="20260116040000 +0000" stop="20260116050000 +0000" channel="亞洲旅遊台">
-    <title lang="zh">唐綺陽逍遙遊</title>
-    <desc lang="zh">華人最具影響力的占星師，唐綺陽專屬的旅遊節目。跟著獨特的唐氏風格，觀眾可以用不同的角度看世界，同時見證東西方占星大師的對話。</desc>
-  </programme>
   <programme start="20260116050000 +0000" stop="20260116060000 +0000" channel="亞洲旅遊台">
     <title lang="zh">33廚房</title>
     <desc lang="zh">電影圈的大明星林美秀首度跨足綜藝接主持棒，即將大展廚藝與觀眾們一起美味上菜！</desc>
@@ -509397,10 +509493,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
   <programme start="20260121070000 +0000" stop="20260121080000 +0000" channel="亞洲旅遊台">
     <title lang="zh">暴走兄弟朝聖趣</title>
     <desc lang="zh">透過主持人盧廣仲、李玉璽、美麗本人三兄弟挑戰世界唯二被聯合國列為世界文化遺產的參拜道：西班牙聖雅各之路與日本熊野古道的冒險實境節目，究竟其中有什麼魔力吸引著一波又一波不論國界不分年齡的朝聖者，湧入這條古老的朝聖之路？</desc>
-  </programme>
-  <programme start="20260116040000 +0000" stop="20260116044000 +0000" channel="東森購物1台">
-    <title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260116044000 +0000" stop="20260116052000 +0000" channel="東森購物1台">
     <title lang="zh">鎖定CH.43、CH.49選購</title>
@@ -510142,10 +510234,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <title lang="zh">鎖定CH.43、CH.49選購</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260116040000 +0000" stop="20260116044000 +0000" channel="東森購物2台">
-    <title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
   <programme start="20260116044000 +0000" stop="20260116052000 +0000" channel="東森購物2台">
     <title lang="zh">鎖定CH.43、CH.49選購</title>
     <desc lang="zh">暂无描述</desc>
@@ -510885,10 +510973,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
   <programme start="20260121072000 +0000" stop="20260121080000 +0000" channel="東森購物2台">
     <title lang="zh">鎖定CH.43、CH.49選購</title>
     <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260116035800 +0000" stop="20260116050000 +0000" channel="華視新聞">
-    <title lang="zh">華視午間新聞</title>
-    <desc lang="zh">華視午間新聞由最專業的華視主播，帶給觀眾朋友更多元化的新聞。</desc>
   </programme>
   <programme start="20260116050000 +0000" stop="20260116060000 +0000" channel="華視新聞">
     <title lang="zh">華視1300午間新聞</title>
@@ -511894,10 +511978,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <title lang="zh">智富食代</title>
     <desc lang="zh">顛覆傳統旅遊節目，而是以全新新聞性、知識性旅遊資訊節目，呈現觀眾眼前。輕鬆有趣的內容中，將觀光經濟數字、各地房價、消費指數及各地風土民情融入結合。要學怎麼贏、先學怎麼玩！女漢子兩條路線PK旅行大挑戰。</desc>
   </programme>
-  <programme start="20260116040000 +0000" stop="20260116050000 +0000" channel="寰宇財經台">
-    <title lang="zh">台股線上</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
   <programme start="20260116050000 +0000" stop="20260116060000 +0000" channel="寰宇財經台">
     <title lang="zh">台股線上</title>
     <desc lang="zh">暂无描述</desc>
@@ -512394,10 +512474,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <title lang="zh">打卡吧!我的炫FOOD日記</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260116035800 +0000" stop="20260116050000 +0000" channel="中視新聞">
-    <title lang="zh">中視午間新聞</title>
-    <desc lang="zh">「中視午間新聞」每天以最客觀的角度，最專業的主播，為觀眾完整報導上午發生之重大國內外重要新聞，並提供最新股市收盤價格。</desc>
-  </programme>
   <programme start="20260116050000 +0000" stop="20260116060000 +0000" channel="中視新聞">
     <title lang="zh">中視新聞即時現場</title>
     <desc lang="zh">由主播蕭惠文播報，以SNG車讓觀眾看到最即時的新聞報導，並以最客觀的角度，為觀眾完整報導上午發生之重要新聞。</desc>
@@ -512661,10 +512737,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
   <programme start="20260118220000 +0000" stop="20260118230000 +0000" channel="中視新聞">
     <title lang="zh">中視新聞全球報導</title>
     <desc lang="zh">中視每晚七點由主播哈遠儀為全國觀眾最專業、準確的新聞報導。</desc>
-  </programme>
-  <programme start="20260116040000 +0000" stop="20260116050000 +0000" channel="中天新聞台">
-    <title lang="zh">中天新聞 1200正午新聞</title>
-    <desc lang="zh">中天正午新聞帶給您最新的國內外大事，掌握天下，以及最新疫情新聞消息、疫情指揮中心直播、今日確診人數統計等重大新聞轉播報導。</desc>
   </programme>
   <programme start="20260116050000 +0000" stop="20260116060000 +0000" channel="中天新聞台">
     <title lang="zh">中天新聞 1300午間新聞</title>
@@ -513158,10 +513230,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <title lang="zh">15大新聞大爆卦</title>
     <desc lang="zh">每周一到周五《大新聞大爆卦》中天主播陪你一起來解卦！！！</desc>
   </programme>
-  <programme start="20260116035500 +0000" stop="20260116045500 +0000" channel="寰宇新聞台灣台">
-    <title lang="zh">寰宇午間新聞</title>
-    <desc lang="zh">寰宇午間新聞給你最在地的台灣新聞、最深入的兩岸焦點，掌握國際情勢帶您了解社會脈動。</desc>
-  </programme>
   <programme start="20260116045500 +0000" stop="20260116055500 +0000" channel="寰宇新聞台灣台">
     <title lang="zh">寰宇午間新聞</title>
     <desc lang="zh">寰宇午間新聞給你最在地的台灣新聞、最深入的兩岸焦點，掌握國際情勢帶您了解社會脈動。</desc>
@@ -513654,10 +513722,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <title lang="zh">寰宇整點新聞</title>
     <desc lang="zh">來自路透的國際新聞、最在地的台灣新聞以及最深入的兩岸焦點，帶您掌握社會脈動。</desc>
   </programme>
-  <programme start="20260116035500 +0000" stop="20260116045500 +0000" channel="寰宇新聞台">
-    <title lang="zh">寰宇全球現場</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
   <programme start="20260116045500 +0000" stop="20260116055500 +0000" channel="寰宇新聞台">
     <title lang="zh">寰宇全球現場</title>
     <desc lang="zh">暂无描述</desc>
@@ -514149,10 +514213,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
   <programme start="20260121065500 +0000" stop="20260121075500 +0000" channel="寰宇新聞台">
     <title lang="zh">寰宇整點新聞</title>
     <desc lang="zh">來自路透的國際新聞、最在地的台灣新聞以及最深入的兩岸焦點，帶您掌握社會脈動。</desc>
-  </programme>
-  <programme start="20260116040000 +0000" stop="20260116050000 +0000" channel="第1商業台">
-    <title lang="zh">財經資訊</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260116050000 +0000" stop="20260116060000 +0000" channel="第1商業台">
     <title lang="zh">財經資訊</title>
