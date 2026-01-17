@@ -7041,10 +7041,6 @@
   <channel id="beinsports4">
     <display-name lang="zh">beinsports4</display-name>
   </channel>
-  <programme start="20260117200000 +0800" stop="20260117210000 +0800" channel="mbc action">
-    <title lang="en">برنامج Celebrity Car Wars</title>
-    <desc lang=""/>
-  </programme>
   <programme start="20260117210000 +0800" stop="20260117220000 +0800" channel="mbc action">
     <title lang="en">برنامج وثائقيات مورشو</title>
     <desc lang=""/>
@@ -7271,6 +7267,10 @@
   </programme>
   <programme start="20260120050000 +0800" stop="20260120063000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260120063000 +0800" stop="20260120073000 +0800" channel="mbc action">
+    <title lang="en">برنامج get  out a life with bear gryls</title>
     <desc lang=""/>
   </programme>
   <programme start="20260117203000 +0800" stop="20260117223000 +0800" channel="mbc max">
@@ -42754,11 +42754,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116061000 +0800" stop="20260116061000 +0800" channel="spot on news">
-    <title lang="zh">Construction crane collapses onto highway: Two people killed</title>
+    <title lang="zh">Sarah Jessica Parker with black wings on the red carpet</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116061000 +0800" stop="20260116061000 +0800" channel="spot on news">
-    <title lang="zh">Sarah Jessica Parker with black wings on the red carpet</title>
+    <title lang="zh">Construction crane collapses onto highway: Two people killed</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116061000 +0800" stop="20260116061100 +0800" channel="spot on news">
@@ -219129,6 +219129,18 @@
     <title lang="zh">聚焦新年首場寒潮</title>
     <desc lang="zh">聚焦新年首場寒潮 </desc>
   </programme>
+  <programme start="20260118130000 +0800" stop="20260118140000 +0800" channel="看看新聞直播">
+    <title lang="zh">申康科普直播間｜智愈未來：對抗轉移性肝癌的科技與人文新篇</title>
+    <desc lang="zh">申康科普直播間｜智愈未來：對抗轉移性肝癌的科技與人文新篇 </desc>
+  </programme>
+  <programme start="20260118190000 +0800" stop="20260118200000 +0800" channel="看看新聞直播">
+    <title lang="zh">大寒養生重在“藏” 中醫助力安“心”過冬</title>
+    <desc lang="zh">大寒養生重在“藏” 中醫助力安“心”過冬 </desc>
+  </programme>
+  <programme start="20260119190000 +0800" stop="20260119200000 +0800" channel="看看新聞直播">
+    <title lang="zh">漢漢和名醫朋友來了：週一晚公益直播麥</title>
+    <desc lang="zh">漢漢和名醫朋友來了：週一晚公益直播麥 </desc>
+  </programme>
   <programme start="20260123180000 +0800" stop="20260123190000 +0800" channel="第一財經直播">
     <title lang="zh">2026冬季達沃斯｜國際貨幣基金組織（IMF）總裁、歐洲央行行長等分享全球經濟展望</title>
     <desc lang="zh"> 預計2026年全球經濟將增長約3.1%，但貿易緊張局勢、技術應用、公共債務以及資產泡沫風險令政策制定者和市場保持高度警惕。哪些政策能夠鞏固信心，同時釋放長期生產力增長潛力？</desc>
@@ -220728,14 +220740,6 @@
   <programme start="20251031100000 +0800" stop="20251031110000 +0800" channel="第一財經直播">
     <title lang="zh">一線發佈丨多部門介紹拓展綠色貿易相關情況</title>
     <desc lang="zh"> 國務院新聞辦公室舉行國務院政策例行吹風會，請商務部國際貿易談判代表兼副部長李成鋼和工業和信息化部、中國人民銀行、市場監管總局有關負責人介紹拓展綠色貿易相關情況，並答記者問。</desc>
-  </programme>
-  <programme start="20260116060000 +0800" stop="20260116083615 +0800" channel="cctv1">
-    <title lang="zh">朝聞天下</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116083615 +0800" stop="20260116092130 +0800" channel="cctv1">
-    <title lang="zh">生活早參考-特別節目(生活圈)2026-16</title>
-    <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116092130 +0800" stop="20260116101130 +0800" channel="cctv1">
     <title lang="zh">歸隊第29集</title>
@@ -221091,14 +221095,6 @@
   </programme>
   <programme start="20260118223600 +0800" stop="20260118235900 +0800" channel="cctv1">
     <title lang="zh">金石探文明-1</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116070000 +0800" stop="20260116090000 +0800" channel="cctv2">
-    <title lang="zh">第一時間</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116090000 +0800" stop="20260116100000 +0800" channel="cctv2">
-    <title lang="zh">正點財經</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116100000 +0800" stop="20260116103000 +0800" channel="cctv2">
@@ -221485,14 +221481,6 @@
     <title lang="zh">一槌定音-2026-3</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116072635 +0800" stop="20260116084250 +0800" channel="cctv3">
-    <title lang="zh">滄海運河謠-3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116084250 +0800" stop="20260116095520 +0800" channel="cctv3">
-    <title lang="zh">精彩音樂匯-我的愛對你說-2026-101</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260116095520 +0800" stop="20260116112625 +0800" channel="cctv3">
     <title lang="zh">星光大道-2026-5</title>
     <desc lang="zh"> </desc>
@@ -221723,18 +221711,6 @@
   </programme>
   <programme start="20260118234345 +0800" stop="20260118235900 +0800" channel="cctv3">
     <title lang="zh">綜藝喜樂匯-2024-1163煙火人家19/40</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116080000 +0800" stop="20260116090000 +0800" channel="cctv4亞洲">
-    <title lang="zh">今日環球</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116090000 +0800" stop="20260116092800 +0800" channel="cctv4亞洲">
-    <title lang="zh">今日亞洲</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116092800 +0800" stop="20260116100000 +0800" channel="cctv4亞洲">
-    <title lang="zh">中國文藝-2026-11</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116100000 +0800" stop="20260116101000 +0800" channel="cctv4亞洲">
@@ -222165,14 +222141,6 @@
     <title lang="zh">塞上風雲記－第30集</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116070000 +0800" stop="20260116080300 +0800" channel="cctv5">
-    <title lang="zh">體壇晨報</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116080300 +0800" stop="20260116090000 +0800" channel="cctv5">
-    <title lang="zh">實況錄像-2025/2026賽季自由式滑雪世界盃美國普萊西德湖站空中技巧</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260116090000 +0800" stop="20260116103000 +0800" channel="cctv5">
     <title lang="zh">國際足球賽場-25-26賽季英超聯賽第21輪西漢姆聯—諾丁漢森林</title>
     <desc lang="zh"> </desc>
@@ -222401,10 +222369,6 @@
     <title lang="zh">2025/2026西班牙足球甲級聯賽-第20輪(馬德里競技—阿拉維斯)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116073000 +0800" stop="20260116090000 +0800" channel="cctv5+">
-    <title lang="zh">實況錄像(奧林匹克)-第十五屆全國運動會體操女子團體決賽(4K)</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260116090000 +0800" stop="20260116103000 +0800" channel="cctv5+">
     <title lang="zh">實況錄像-2025/2026賽季中國男子籃球職業聯賽第15輪浙江稠州金租—廣州朗肽海本</title>
     <desc lang="zh"> </desc>
@@ -222579,10 +222543,6 @@
   </programme>
   <programme start="20260118220000 +0800" stop="20260118235900 +0800" channel="cctv5+">
     <title lang="zh">2025/2026英格蘭足球超級聯賽-第22輪(伍爾弗漢普頓-紐卡斯爾聯)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116063700 +0800" stop="20260116082010 +0800" channel="cctv6">
-    <title lang="zh">風雲太白山</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116082010 +0800" stop="20260116100539 +0800" channel="cctv6">
@@ -222795,18 +222755,6 @@
   </programme>
   <programme start="20260118222345 +0800" stop="20260118235900 +0800" channel="cctv6">
     <title lang="zh">西部雙雄</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116075830 +0800" stop="20260116083330 +0800" channel="cctv7">
-    <title lang="zh">時光軍史館-2026-2</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116083330 +0800" stop="20260116090300 +0800" channel="cctv7">
-    <title lang="zh">軍營的味道-2026-2</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116090300 +0800" stop="20260116093530 +0800" channel="cctv7">
-    <title lang="zh">防務新觀察-2026-15</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116093530 +0800" stop="20260116100530 +0800" channel="cctv7">
@@ -223159,22 +223107,6 @@
   </programme>
   <programme start="20260118234045 +0800" stop="20260118235900 +0800" channel="cctv7">
     <title lang="zh">兵器面面觀-環球兵器大事件-2026-3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116075640 +0800" stop="20260116080350 +0800" channel="cctv8">
-    <title lang="zh">星推薦-2026年1月-15</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116080350 +0800" stop="20260116085550 +0800" channel="cctv8">
-    <title lang="zh">風與潮25/31（版權原因不可回看）</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116085550 +0800" stop="20260116094420 +0800" channel="cctv8">
-    <title lang="zh">風與潮26/31（版權原因不可回看）</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116094420 +0800" stop="20260116095330 +0800" channel="cctv8">
-    <title lang="zh">星推薦-2026年1月-15</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116095330 +0800" stop="20260116104900 +0800" channel="cctv8">
@@ -223645,14 +223577,6 @@
     <title lang="zh">掃毒風暴第12集</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116075930 +0800" stop="20260116083100 +0800" channel="cctv9">
-    <title lang="zh">活力·源2026-15</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116083100 +0800" stop="20260116092700 +0800" channel="cctv9">
-    <title lang="zh">特別呈現2026-15</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260116092700 +0800" stop="20260116102600 +0800" channel="cctv9">
     <title lang="zh">寰宇視野2025-193</title>
     <desc lang="zh"> </desc>
@@ -223931,14 +223855,6 @@
   </programme>
   <programme start="20260118233830 +0800" stop="20260118235900 +0800" channel="cctv9">
     <title lang="zh">9視頻2026-18</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116080000 +0800" stop="20260116084800 +0800" channel="cctv10">
-    <title lang="zh">探索·發現-2026-15</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116084800 +0800" stop="20260116094500 +0800" channel="cctv10">
-    <title lang="zh">奧祕(精編)-11</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116094500 +0800" stop="20260116102200 +0800" channel="cctv10">
@@ -224249,14 +224165,6 @@
     <title lang="zh">科幻地帶-2026-3</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116071320 +0800" stop="20260116082820 +0800" channel="cctv11">
-    <title lang="zh">角兒來了-2025-29黃梅雅韻</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116082820 +0800" stop="20260116091020 +0800" channel="cctv11">
-    <title lang="zh">典藏-2025-105</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260116091020 +0800" stop="20260116114030 +0800" channel="cctv11">
     <title lang="zh">京劇電影工程《鎖麟囊》</title>
     <desc lang="zh"> </desc>
@@ -224447,14 +224355,6 @@
   </programme>
   <programme start="20260118232450 +0800" stop="20260118235900 +0800" channel="cctv11">
     <title lang="zh">蠻好的人生第6集</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116075200 +0800" stop="20260116083500 +0800" channel="cctv12">
-    <title lang="zh">現場-2025-41</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116083500 +0800" stop="20260116091000 +0800" channel="cctv12">
-    <title lang="zh">夕陽紅-2026-16</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116091000 +0800" stop="20260116100400 +0800" channel="cctv12">
@@ -224783,10 +224683,6 @@
   </programme>
   <programme start="20260118233130 +0800" stop="20260118235900 +0800" channel="cctv12">
     <title lang="zh">2025社會與法電視劇精選-媽媽在等你-15/47</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116060000 +0800" stop="20260116090000 +0800" channel="cctv13">
-    <title lang="zh">朝聞天下</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116090000 +0800" stop="20260116100000 +0800" channel="cctv13">
@@ -225145,14 +225041,6 @@
     <title lang="zh">24小時</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116080000 +0800" stop="20260116081500 +0800" channel="cctv14">
-    <title lang="zh">新聞袋袋褲</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116081500 +0800" stop="20260116084500 +0800" channel="cctv14">
-    <title lang="zh">小小智慧樹-2026-12</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260116084500 +0800" stop="20260116120000 +0800" channel="cctv14">
     <title lang="zh">動畫大放映(黃金版)-2026-9</title>
     <desc lang="zh"> </desc>
@@ -225303,14 +225191,6 @@
   </programme>
   <programme start="20260118232800 +0800" stop="20260118235900 +0800" channel="cctv14">
     <title lang="zh">電影-閃閃的紅星</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116070230 +0800" stop="20260116083300 +0800" channel="cctv15">
-    <title lang="zh">全球中文音樂榜上榜-2025-中國音樂TOP榜-(新版)5</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116083300 +0800" stop="20260116090930 +0800" channel="cctv15">
-    <title lang="zh">風華國樂-2026-17</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116090930 +0800" stop="20260116102500 +0800" channel="cctv15">
@@ -225499,14 +225379,6 @@
   </programme>
   <programme start="20260118235530 +0800" stop="20260118235900 +0800" channel="cctv15">
     <title lang="zh">CCTV音樂廳-2026-10-名家名曲(10)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116071500 +0800" stop="20260116084500 +0800" channel="cctv16">
-    <title lang="zh">實況錄像(奧林匹克)-2024年巴黎奧運會網球比賽1</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116084500 +0800" stop="20260116091500 +0800" channel="cctv16">
-    <title lang="zh">2025/2026西班牙足球甲級聯賽-第19輪集錦</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116091500 +0800" stop="20260116104500 +0800" channel="cctv16">
@@ -225791,22 +225663,6 @@
   </programme>
   <programme start="20260118233000 +0800" stop="20260118235900 +0800" channel="cctv16">
     <title lang="zh">實況錄像(奧林匹克)-第十五屆全國運動會跳水男子10米臺決賽</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116080000 +0800" stop="20260116083000 +0800" channel="cctv17">
-    <title lang="zh">中國三農報道</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116083000 +0800" stop="20260116090000 +0800" channel="cctv17">
-    <title lang="zh">三農羣英匯-2026-15</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116090000 +0800" stop="20260116092800 +0800" channel="cctv17">
-    <title lang="zh">田園幫幫團-2026-4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116092800 +0800" stop="20260116095500 +0800" channel="cctv17">
-    <title lang="zh">超級農人秀-2026-11</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116095500 +0800" stop="20260116102235 +0800" channel="cctv17">
@@ -226095,66 +225951,6 @@
   </programme>
   <programme start="20260118230900 +0800" stop="20260118235900 +0800" channel="cctv17">
     <title lang="zh">田野歡歌-2025-30</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116073055 +0800" stop="20260116082025 +0800" channel="cctv4k">
-    <title lang="zh">跟着唐詩去旅行(第二季)-6(4K)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116082025 +0800" stop="20260116084825 +0800" channel="cctv4k">
-    <title lang="zh">記住鄉愁2025-7(4K)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116084825 +0800" stop="20260116085315 +0800" channel="cctv4k">
-    <title lang="zh">5億年，岩石裏的生命奇蹟第一季-12(4K)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116085315 +0800" stop="20260116085605 +0800" channel="cctv4k">
-    <title lang="zh">4K宣傳片-大國之翼同風起</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116085605 +0800" stop="20260116085640 +0800" channel="cctv4k">
-    <title lang="zh">4K宣傳片-小寒2026</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116085640 +0800" stop="20260116085710 +0800" channel="cctv4k">
-    <title lang="zh">4K宣傳片-2025中國詩詞大會</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116085710 +0800" stop="20260116085740 +0800" channel="cctv4k">
-    <title lang="zh">4K宣傳片-金石探文明</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116085740 +0800" stop="20260116085810 +0800" channel="cctv4k">
-    <title lang="zh">4K宣傳片-中華考工記</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116085810 +0800" stop="20260116085840 +0800" channel="cctv4k">
-    <title lang="zh">4K宣傳片-花開中國</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116085840 +0800" stop="20260116085910 +0800" channel="cctv4k">
-    <title lang="zh">4K宣傳片-非遺裏的中國第四季總宣</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116085910 +0800" stop="20260116085920 +0800" channel="cctv4k">
-    <title lang="zh">4K節目預告</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116085920 +0800" stop="20260116094520 +0800" channel="cctv4k">
-    <title lang="zh">沉默的榮耀-(4K)-34/39</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116094520 +0800" stop="20260116094550 +0800" channel="cctv4k">
-    <title lang="zh">4K宣傳片-大宋詞人傳</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116094550 +0800" stop="20260116094620 +0800" channel="cctv4k">
-    <title lang="zh">4K宣傳片-城市風華錄</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116094620 +0800" stop="20260116094650 +0800" channel="cctv4k">
-    <title lang="zh">4K宣傳片-農耕探文明第三季</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116094650 +0800" stop="20260116103310 +0800" channel="cctv4k">
@@ -226819,166 +226615,6 @@
   </programme>
   <programme start="20260118235540 +0800" stop="20260118235925 +0800" channel="cctv4k">
     <title lang="zh">4K墊播節目-絲綢之旅2025</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116080100 +0800" stop="20260116080130 +0800" channel="cctv8k">
-    <title lang="zh">大宋詞人傳-宣傳片(8K)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116080130 +0800" stop="20260116080200 +0800" channel="cctv8k">
-    <title lang="zh">金石探文明-宣傳片(8K)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116080200 +0800" stop="20260116080230 +0800" channel="cctv8k">
-    <title lang="zh">非遺裏的中國第四季總宣-宣傳片(8K)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116080230 +0800" stop="20260116080315 +0800" channel="cctv8k">
-    <title lang="zh">記住鄉愁-宣傳片(8K)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116080315 +0800" stop="20260116080445 +0800" channel="cctv8k">
-    <title lang="zh">2025品牌強國工程-形象宣傳片3(8K)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116080445 +0800" stop="20260116081224 +0800" channel="cctv8k">
-    <title lang="zh">2025年元宵晚會-8K-元宵食指大動</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116081224 +0800" stop="20260116082145 +0800" channel="cctv8k">
-    <title lang="zh">2025年元宵晚會-8K-金蛇序曲</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116082145 +0800" stop="20260116082340 +0800" channel="cctv8k">
-    <title lang="zh">國博文物展示-大盂鼎</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116082340 +0800" stop="20260116082631 +0800" channel="cctv8k">
-    <title lang="zh">奮楫家國瀋水歡歌頌端陽-常來(8K)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116082631 +0800" stop="20260116082826 +0800" channel="cctv8k">
-    <title lang="zh">奮楫家國瀋水歡歌頌端陽-歸鄉(8K)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116082826 +0800" stop="20260116083245 +0800" channel="cctv8k">
-    <title lang="zh">奮楫家國瀋水歡歌頌端陽-你是人間四月天(8K)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116083245 +0800" stop="20260116083545 +0800" channel="cctv8k">
-    <title lang="zh">2025年中秋晚會-不如一個你(8K)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116083545 +0800" stop="20260116083850 +0800" channel="cctv8k">
-    <title lang="zh">2025年中秋晚會-海角天涯(8K)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116083850 +0800" stop="20260116084220 +0800" channel="cctv8k">
-    <title lang="zh">2025年中秋晚會-將進酒(8K)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116084220 +0800" stop="20260116084447 +0800" channel="cctv8k">
-    <title lang="zh">2025年中秋晚會-半個月亮爬上來(8K)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116084447 +0800" stop="20260116084840 +0800" channel="cctv8k">
-    <title lang="zh">2025年中秋晚會-月亮照山川(8K)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116084840 +0800" stop="20260116085055 +0800" channel="cctv8k">
-    <title lang="zh">2025年中秋晚會-守望(8K)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116085055 +0800" stop="20260116085430 +0800" channel="cctv8k">
-    <title lang="zh">2025年中秋晚會-無名的人(8K)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116085430 +0800" stop="20260116085731 +0800" channel="cctv8k">
-    <title lang="zh">2025年中秋晚會-月光(8K)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116085731 +0800" stop="20260116090035 +0800" channel="cctv8k">
-    <title lang="zh">2025年中秋晚會-直下看山河(8K)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116090035 +0800" stop="20260116090105 +0800" channel="cctv8k">
-    <title lang="zh">2025中國詩詞大會-宣傳片(8K)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116090105 +0800" stop="20260116090135 +0800" channel="cctv8k">
-    <title lang="zh">三餐四季第三季-宣傳片(8K)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116090135 +0800" stop="20260116090205 +0800" channel="cctv8k">
-    <title lang="zh">城市風華錄-宣傳片(8K)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116090205 +0800" stop="20260116090235 +0800" channel="cctv8k">
-    <title lang="zh">農耕探文明第三季-宣傳片(8K)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116090235 +0800" stop="20260116090310 +0800" channel="cctv8k">
-    <title lang="zh">8K超高清萬象-小寒2026</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116090310 +0800" stop="20260116090355 +0800" channel="cctv8k">
-    <title lang="zh">記住鄉愁-宣傳片(8K)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116090355 +0800" stop="20260116090725 +0800" channel="cctv8k">
-    <title lang="zh">鹿鳴課堂-宣傳片(8K)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116090725 +0800" stop="20260116091039 +0800" channel="cctv8k">
-    <title lang="zh">2025年元宵晚會-8K-元宵如意</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116091039 +0800" stop="20260116091457 +0800" channel="cctv8k">
-    <title lang="zh">2025年元宵晚會-8K-漢陽門花園</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116091457 +0800" stop="20260116091746 +0800" channel="cctv8k">
-    <title lang="zh">2025年元宵晚會-8K-去見你</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116091746 +0800" stop="20260116092124 +0800" channel="cctv8k">
-    <title lang="zh">2025年元宵晚會-8K-麒麟</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116092124 +0800" stop="20260116092427 +0800" channel="cctv8k">
-    <title lang="zh">2025年元宵晚會-8K-知冷暖</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116092427 +0800" stop="20260116093127 +0800" channel="cctv8k">
-    <title lang="zh">千秋詩頌-聞官軍收河南河北(8K)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116093127 +0800" stop="20260116093532 +0800" channel="cctv8k">
-    <title lang="zh">二十四節氣總宣-宣傳片(8K)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116093532 +0800" stop="20260116093841 +0800" channel="cctv8k">
-    <title lang="zh">2025年春節聯歡晚會-秧BOT(8K)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116093841 +0800" stop="20260116094818 +0800" channel="cctv8k">
-    <title lang="zh">2025年春節聯歡晚會-花架子(8K)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116094818 +0800" stop="20260116095732 +0800" channel="cctv8k">
-    <title lang="zh">2025年春節聯歡晚會-聲動梨園(8K)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116095732 +0800" stop="20260116095835 +0800" channel="cctv8k">
-    <title lang="zh">哈爾濱2025年亞冬會-奪冠時刻速度滑冰女子1000米(8K)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116095835 +0800" stop="20260116100035 +0800" channel="cctv8k">
-    <title lang="zh">8K超高清萬象-等春來(8K)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116100035 +0800" stop="20260116100105 +0800" channel="cctv8k">
-    <title lang="zh">花開中國-宣傳片(8K)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116100105 +0800" stop="20260116100135 +0800" channel="cctv8k">
@@ -230069,86 +229705,6 @@
     <title lang="zh">精彩集錦-喀納斯+三沙(8K)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116074645 +0800" stop="20260116083300 +0800" channel="cctv第一劇場">
-    <title lang="zh">青山是故鄉11/29</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116083300 +0800" stop="20260116083315 +0800" channel="cctv第一劇場">
-    <title lang="zh">第一劇場頻道包裝-電視劇山花爛漫時宣傳片純淨版15秒</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116083315 +0800" stop="20260116083345 +0800" channel="cctv第一劇場">
-    <title lang="zh">第一劇場頻道包裝-電視劇奔跑吧醫生宣傳片純淨版30秒</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116083345 +0800" stop="20260116083415 +0800" channel="cctv第一劇場">
-    <title lang="zh">第一劇場頻道包裝-電視劇海天雄鷹宣傳片純淨版30秒</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116083415 +0800" stop="20260116083430 +0800" channel="cctv第一劇場">
-    <title lang="zh">第一劇場頻道包裝-電視劇小夫妻宣傳片純淨版15秒</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116083430 +0800" stop="20260116083500 +0800" channel="cctv第一劇場">
-    <title lang="zh">第一劇場頻道包裝-電視劇平凡之路宣傳片純淨版30秒</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116083500 +0800" stop="20260116083530 +0800" channel="cctv第一劇場">
-    <title lang="zh">第一劇場頻道包裝-電視劇青春之城宣傳片純淨版30秒</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116083530 +0800" stop="20260116083600 +0800" channel="cctv第一劇場">
-    <title lang="zh">第一劇場頻道包裝-電視劇山花爛漫時宣傳片純淨版30秒</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116083600 +0800" stop="20260116083630 +0800" channel="cctv第一劇場">
-    <title lang="zh">第一劇場頻道包裝-電視劇夢中的那片海宣傳片純淨版30秒</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116083630 +0800" stop="20260116083730 +0800" channel="cctv第一劇場">
-    <title lang="zh">第一劇場頻道包裝-電視劇海天雄鷹宣傳片純淨版60秒</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116083730 +0800" stop="20260116083745 +0800" channel="cctv第一劇場">
-    <title lang="zh">第一劇場頻道包裝-電視劇山花爛漫時宣傳片純淨版15秒</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116083745 +0800" stop="20260116083845 +0800" channel="cctv第一劇場">
-    <title lang="zh">第一劇場頻道包裝-電視劇小滿生活宣傳片純淨版60秒</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116083845 +0800" stop="20260116083900 +0800" channel="cctv第一劇場">
-    <title lang="zh">第一劇場頻道包裝-電視劇小夫妻宣傳片純淨版15秒</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116083900 +0800" stop="20260116083930 +0800" channel="cctv第一劇場">
-    <title lang="zh">第一劇場頻道包裝-電視劇青春之城宣傳片純淨版30秒</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116083930 +0800" stop="20260116084000 +0800" channel="cctv第一劇場">
-    <title lang="zh">第一劇場頻道包裝-電視劇夢中的那片海宣傳片純淨版30秒</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116084000 +0800" stop="20260116084030 +0800" channel="cctv第一劇場">
-    <title lang="zh">第一劇場頻道包裝-電視劇山花爛漫時宣傳片純淨版30秒</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116084030 +0800" stop="20260116084130 +0800" channel="cctv第一劇場">
-    <title lang="zh">第一劇場頻道包裝-電視劇謝謝你溫暖我宣傳片2026.1.21-1.24播出</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116084130 +0800" stop="20260116084230 +0800" channel="cctv第一劇場">
-    <title lang="zh">第一劇場頻道包裝-電視劇平凡之路宣傳片純淨版60秒</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116084230 +0800" stop="20260116084300 +0800" channel="cctv第一劇場">
-    <title lang="zh">第一劇場頻道包裝-2025年6月新改人名字幕條</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116084300 +0800" stop="20260116092900 +0800" channel="cctv第一劇場">
-    <title lang="zh">暴風眼24/39</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260116092900 +0800" stop="20260116101500 +0800" channel="cctv第一劇場">
     <title lang="zh">暴風眼25/39</title>
     <desc lang="zh"> </desc>
@@ -231725,26 +231281,6 @@
     <title lang="zh">青山是故鄉16/29</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116075229 +0800" stop="20260116083829 +0800" channel="cctv風雲劇場">
-    <title lang="zh">狂飆31/39</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116083829 +0800" stop="20260116083943 +0800" channel="cctv風雲劇場">
-    <title lang="zh">風雲劇場頻道包裝-古風宣傳片2</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116083943 +0800" stop="20260116084103 +0800" channel="cctv風雲劇場">
-    <title lang="zh">風雲劇場頻道包裝-葉卡捷琳娜二世第三季宣傳片近期播出版</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116084103 +0800" stop="20260116092703 +0800" channel="cctv風雲劇場">
-    <title lang="zh">狂飆32/39</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116092703 +0800" stop="20260116092902 +0800" channel="cctv風雲劇場">
-    <title lang="zh">風雲劇場頻道包裝-時間的針腳宣傳片近期播出</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260116092902 +0800" stop="20260116101517 +0800" channel="cctv風雲劇場">
     <title lang="zh">狂飆33/39</title>
     <desc lang="zh"> </desc>
@@ -232429,10 +231965,6 @@
     <title lang="zh">風雲劇場-紅帶協會第一季9(許可證版)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116080100 +0800" stop="20260116093235 +0800" channel="cctv懷舊劇場">
-    <title lang="zh">經典重溫-中國電影永失我愛</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260116093235 +0800" stop="20260116101835 +0800" channel="cctv懷舊劇場">
     <title lang="zh">湄公河大案5/34</title>
     <desc lang="zh"> </desc>
@@ -232787,30 +232319,6 @@
   </programme>
   <programme start="20260118233315 +0800" stop="20260119000000 +0800" channel="cctv懷舊劇場">
     <title lang="zh">湄公河大案14/34</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116074245 +0800" stop="20260116081245 +0800" channel="cctv世界地理">
-    <title lang="zh">味道-2024-101</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116081245 +0800" stop="20260116081745 +0800" channel="cctv世界地理">
-    <title lang="zh">世界地理頻道包裝-美麗中國雲南</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116081745 +0800" stop="20260116084745 +0800" channel="cctv世界地理">
-    <title lang="zh">味道-2024-102</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116084745 +0800" stop="20260116085245 +0800" channel="cctv世界地理">
-    <title lang="zh">2026世界地理頻道精彩多看點-3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116085245 +0800" stop="20260116094015 +0800" channel="cctv世界地理">
-    <title lang="zh">世界地理50’-與恐龍同行第五集遷徙之路</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116094015 +0800" stop="20260116094515 +0800" channel="cctv世界地理">
-    <title lang="zh">世界地理頻道包裝-美麗中國長白山</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116094515 +0800" stop="20260116103515 +0800" channel="cctv世界地理">
@@ -233493,18 +233001,6 @@
     <title lang="zh">活力·源2024-136</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116073045 +0800" stop="20260116083045 +0800" channel="cctv風雲音樂">
-    <title lang="zh">民歌·中國-2025-105山水戀歌51</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116083045 +0800" stop="20260116083100 +0800" channel="cctv風雲音樂">
-    <title lang="zh">風雲音樂頻道宣傳片-2020-1</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116083100 +0800" stop="20260116091600 +0800" channel="cctv風雲音樂">
-    <title lang="zh">音樂公開課-2023-9與樂同行風華不老</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260116091600 +0800" stop="20260116101615 +0800" channel="cctv風雲音樂">
     <title lang="zh">合唱先鋒-2025-2</title>
     <desc lang="zh"> </desc>
@@ -233783,30 +233279,6 @@
   </programme>
   <programme start="20260118235245 +0800" stop="20260119000000 +0800" channel="cctv風雲音樂">
     <title lang="zh">CCTV音樂廳-2022-346-“名家名團”精選音樂會(五)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116080200 +0800" stop="20260116083200 +0800" channel="cctv兵器科技">
-    <title lang="zh">兵工啓示錄-2020-7</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116083200 +0800" stop="20260116083230 +0800" channel="cctv兵器科技">
-    <title lang="zh">兵器科技頻道包裝-2023-51</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116083230 +0800" stop="20260116090230 +0800" channel="cctv兵器科技">
-    <title lang="zh">軍火之源-2019-247</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116090230 +0800" stop="20260116090300 +0800" channel="cctv兵器科技">
-    <title lang="zh">兵器科技頻道包裝-2023-52</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116090300 +0800" stop="20260116093300 +0800" channel="cctv兵器科技">
-    <title lang="zh">武器裝備背後的故事-2019-151</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116093300 +0800" stop="20260116093330 +0800" channel="cctv兵器科技">
-    <title lang="zh">兵器科技頻道包裝-2023-51</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116093330 +0800" stop="20260116102330 +0800" channel="cctv兵器科技">
@@ -234377,22 +233849,6 @@
     <title lang="zh">軍營的味道-2025-46</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116065500 +0800" stop="20260116081500 +0800" channel="cctv風雲足球">
-    <title lang="zh">2024/2025西班牙足球甲級聯賽-第31輪(阿拉維斯—皇家馬德里)(4K)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116081500 +0800" stop="20260116082000 +0800" channel="cctv風雲足球">
-    <title lang="zh">風雲足球頻道包裝-2026-1</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116082000 +0800" stop="20260116094000 +0800" channel="cctv風雲足球">
-    <title lang="zh">2024/2025西班牙足球甲級聯賽-第31輪(皇家貝蒂斯—比利亞雷亞爾)(4K)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116094000 +0800" stop="20260116094500 +0800" channel="cctv風雲足球">
-    <title lang="zh">風雲足球頻道包裝-2026-1</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260116094500 +0800" stop="20260116110500 +0800" channel="cctv風雲足球">
     <title lang="zh">2025/2026西班牙足球甲級聯賽-第14輪(塞維利亞-皇家貝蒂斯)</title>
     <desc lang="zh"> </desc>
@@ -234773,10 +234229,6 @@
     <title lang="zh">國際足球賽場-25-26賽季法甲聯賽第15輪南特—朗斯(4K)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116070800 +0800" stop="20260116085300 +0800" channel="cctv高爾夫">
-    <title lang="zh">賽事集錦(高清體育)-2023-75-2023年英國女子高爾夫公開賽第三輪</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260116085300 +0800" stop="20260116101300 +0800" channel="cctv高爾夫">
     <title lang="zh">實況錄像(奧林匹克)-2025年溫布爾登網球賽4(4K)</title>
     <desc lang="zh"> </desc>
@@ -234947,22 +234399,6 @@
   </programme>
   <programme start="20260118230900 +0800" stop="20260119000000 +0800" channel="cctv高爾夫">
     <title lang="zh">實況錄像-2025年ATP1000男子網球大師賽辛辛那提站半決賽</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116080045 +0800" stop="20260116082245 +0800" channel="cctv女性時尚">
-    <title lang="zh">健身動起來-2024-3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116082245 +0800" stop="20260116082300 +0800" channel="cctv女性時尚">
-    <title lang="zh">女性時尚頻道字幕板-2020-1</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116082300 +0800" stop="20260116084830 +0800" channel="cctv女性時尚">
-    <title lang="zh">回家喫飯-2024-123</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116084830 +0800" stop="20260116094700 +0800" channel="cctv女性時尚">
-    <title lang="zh">歡樂大猜想-2024-21</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116094700 +0800" stop="20260116103700 +0800" channel="cctv女性時尚">
@@ -235299,22 +234735,6 @@
   </programme>
   <programme start="20260118232945 +0800" stop="20260119000000 +0800" channel="cctv女性時尚">
     <title lang="zh">健康之路-2024-208</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116080205 +0800" stop="20260116083205 +0800" channel="cctv文化精品">
-    <title lang="zh">味道-2025-132(精編)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116083205 +0800" stop="20260116091205 +0800" channel="cctv文化精品">
-    <title lang="zh">健康之路-2025-130</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116091205 +0800" stop="20260116092705 +0800" channel="cctv文化精品">
-    <title lang="zh">9視頻2025-206</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116092705 +0800" stop="20260116092835 +0800" channel="cctv文化精品">
-    <title lang="zh">2024央視文化精品頻道人名字幕-1</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116092835 +0800" stop="20260116102835 +0800" channel="cctv文化精品">
@@ -235693,18 +235113,6 @@
     <title lang="zh">健康之路-2024-77</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116062345 +0800" stop="20260116080645 +0800" channel="cctv檯球">
-    <title lang="zh">實況錄像-2013年斯諾克上海大師賽精選5</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116080645 +0800" stop="20260116094945 +0800" channel="cctv檯球">
-    <title lang="zh">實況錄像-2013年斯諾克上海大師賽精選6</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116094945 +0800" stop="20260116100000 +0800" channel="cctv檯球">
-    <title lang="zh">實況錄像-2023/2024賽季世界斯諾克巡迴賽威爾士公開賽加里·威爾遜的147</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260116100000 +0800" stop="20260116114300 +0800" channel="cctv檯球">
     <title lang="zh">實況錄像-2023/2024賽季世界斯諾克巡迴賽英國錦標賽3</title>
     <desc lang="zh"> </desc>
@@ -235951,62 +235359,6 @@
   </programme>
   <programme start="20260118231700 +0800" stop="20260119000000 +0800" channel="cctv檯球">
     <title lang="zh">賽場直擊-2023年世界斯諾克錦標賽半決賽(6)盧卡·佈雷切爾—斯佳輝</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116074400 +0800" stop="20260116080400 +0800" channel="cctv電視指南">
-    <title lang="zh">我喜歡我推薦-合唱先鋒2021-15</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116080400 +0800" stop="20260116080900 +0800" channel="cctv電視指南">
-    <title lang="zh">電視指南頻道包裝-2026-5</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116080900 +0800" stop="20260116082915 +0800" channel="cctv電視指南">
-    <title lang="zh">我喜歡我推薦-典故里的科學第二季-3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116082915 +0800" stop="20260116083815 +0800" channel="cctv電視指南">
-    <title lang="zh">我喜歡我推薦-2025年斯諾克大師賽-8</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116083815 +0800" stop="20260116083925 +0800" channel="cctv電視指南">
-    <title lang="zh">央視風雲2026宣傳片-歲啓宏圖</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116083925 +0800" stop="20260116084425 +0800" channel="cctv電視指南">
-    <title lang="zh">2026世界地理頻道精彩多看點-3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116084425 +0800" stop="20260116084925 +0800" channel="cctv電視指南">
-    <title lang="zh">電視指南頻道包裝-2026-5</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116084925 +0800" stop="20260116085533 +0800" channel="cctv電視指南">
-    <title lang="zh">科學健身-活血益腦操遠離腦卒中</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116085533 +0800" stop="20260116090000 +0800" channel="cctv電視指南">
-    <title lang="zh">墊播節目-美麗中國-長白山</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116090000 +0800" stop="20260116090125 +0800" channel="cctv電視指南">
-    <title lang="zh">央視風雲2026宣傳片-歲啓宏圖</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116090125 +0800" stop="20260116091625 +0800" channel="cctv電視指南">
-    <title lang="zh">我喜歡我推薦-跟着書本去旅行2024-21</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116091625 +0800" stop="20260116093125 +0800" channel="cctv電視指南">
-    <title lang="zh">我喜歡我推薦-跟着書本去旅行2024-22</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116093125 +0800" stop="20260116093625 +0800" channel="cctv電視指南">
-    <title lang="zh">電視指南頻道包裝-2026-5</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116093625 +0800" stop="20260116095625 +0800" channel="cctv電視指南">
-    <title lang="zh">我喜歡我推薦-我的家鄉菜-115</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116095625 +0800" stop="20260116101625 +0800" channel="cctv電視指南">
@@ -237489,22 +236841,6 @@
     <title lang="zh">我喜歡我推薦-原味鄉間-4</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116073020 +0800" stop="20260116081020 +0800" channel="cctv衛生健康">
-    <title lang="zh">健康之路-2023-201</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116081020 +0800" stop="20260116085035 +0800" channel="cctv衛生健康">
-    <title lang="zh">健康之路-2023-202</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116085035 +0800" stop="20260116091035 +0800" channel="cctv衛生健康">
-    <title lang="zh">人口-2025-1</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116091035 +0800" stop="20260116095035 +0800" channel="cctv衛生健康">
-    <title lang="zh">百家講壇-2024-211</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260116095035 +0800" stop="20260116101235 +0800" channel="cctv衛生健康">
     <title lang="zh">健身動起來-2024-5</title>
     <desc lang="zh"> </desc>
@@ -237989,22 +237325,6 @@
     <title lang="zh">健康中國-2025-21</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116080000 +0800" stop="20260116083000 +0800" channel="cgtn">
-    <title lang="zh">全球財經(美洲版)-20260116</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116083000 +0800" stop="20260116090000 +0800" channel="cgtn">
-    <title lang="zh">文化速遞重播-20260116</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116090000 +0800" stop="20260116091500 +0800" channel="cgtn">
-    <title lang="zh">今日世界-20260116(0900)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116091500 +0800" stop="20260116100000 +0800" channel="cgtn">
-    <title lang="zh">中國24小時(美洲版)-20260116</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260116100000 +0800" stop="20260116103000 +0800" channel="cgtn">
     <title lang="zh">今日世界-20260116(1000)</title>
     <desc lang="zh"> </desc>
@@ -238465,18 +237785,6 @@
     <title lang="zh">旅遊指南(英)-2026-3</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116080000 +0800" stop="20260116083000 +0800" channel="cgtn法語">
-    <title lang="zh">非洲面孔(法)-2026-2</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116083000 +0800" stop="20260116090000 +0800" channel="cgtn法語">
-    <title lang="zh">紀事東八區-2026-16</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116090000 +0800" stop="20260116100000 +0800" channel="cgtn法語">
-    <title lang="zh">中國全視角-2026-16</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260116100000 +0800" stop="20260116103000 +0800" channel="cgtn法語">
     <title lang="zh">時事青年說-2026-3</title>
     <desc lang="zh"> </desc>
@@ -238875,18 +238183,6 @@
   </programme>
   <programme start="20260118233000 +0800" stop="20260119000000 +0800" channel="cgtn法語">
     <title lang="zh">魅力東方-2026-18</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116080000 +0800" stop="20260116083000 +0800" channel="cgtn俄語">
-    <title lang="zh">歐亞時間(俄)-2026-16</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116083000 +0800" stop="20260116084500 +0800" channel="cgtn俄語">
-    <title lang="zh">中國廚藝(俄)-2026-16</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116084500 +0800" stop="20260116093000 +0800" channel="cgtn俄語">
-    <title lang="zh">放映廳(俄)-日光之城(俄)-4/21</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116093000 +0800" stop="20260116101500 +0800" channel="cgtn俄語">
@@ -239365,22 +238661,6 @@
     <title lang="zh">生財有道(俄)-2026-18</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116080000 +0800" stop="20260116083000 +0800" channel="cgtn阿拉伯語">
-    <title lang="zh">綜合新聞(阿)-20260115(2000)(重播)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116083000 +0800" stop="20260116090000 +0800" channel="cgtn阿拉伯語">
-    <title lang="zh">活力中國(阿)-2026-15</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116090000 +0800" stop="20260116093000 +0800" channel="cgtn阿拉伯語">
-    <title lang="zh">中國文藝(阿)-2026-16</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116093000 +0800" stop="20260116100000 +0800" channel="cgtn阿拉伯語">
-    <title lang="zh">中國之旅(阿)-2026-16</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260116100000 +0800" stop="20260116103000 +0800" channel="cgtn阿拉伯語">
     <title lang="zh">綜合新聞(阿)-20260116(1000)</title>
     <desc lang="zh"> </desc>
@@ -239835,22 +239115,6 @@
   </programme>
   <programme start="20260118233000 +0800" stop="20260119000000 +0800" channel="cgtn阿拉伯語">
     <title lang="zh">電視劇(阿)-加油媽媽(阿)-35/40</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116080000 +0800" stop="20260116084500 +0800" channel="cgtn西班牙語">
-    <title lang="zh">非凡的領航(西)-精編1</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116084500 +0800" stop="20260116090000 +0800" channel="cgtn西班牙語">
-    <title lang="zh">尋味中國(西)-2026-16</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116090000 +0800" stop="20260116093000 +0800" channel="cgtn西班牙語">
-    <title lang="zh">綜合新聞(西)-20260116(0900)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116093000 +0800" stop="20260116100000 +0800" channel="cgtn西班牙語">
-    <title lang="zh">中華藝苑(西)-2026-16</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116100000 +0800" stop="20260116103000 +0800" channel="cgtn西班牙語">
@@ -240337,18 +239601,6 @@
     <title lang="zh">紀錄片(西)-2026-35</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116080000 +0800" stop="20260116090000 +0800" channel="cgtn英文記錄片">
-    <title lang="zh">味道王國2026-14</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116090000 +0800" stop="20260116093000 +0800" channel="cgtn英文記錄片">
-    <title lang="zh">今天我C位2026-14</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116093000 +0800" stop="20260116100000 +0800" channel="cgtn英文記錄片">
-    <title lang="zh">青萍微覽2026-14</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260116100000 +0800" stop="20260116110000 +0800" channel="cgtn英文記錄片">
     <title lang="zh">精彩放送(英)2026-26</title>
     <desc lang="zh"> </desc>
@@ -240681,14 +239933,6 @@
     <title lang="zh">精彩放送(英)2026-29</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116070100 +0800" stop="20260116090300 +0800" channel="北京衛視">
-    <title lang="zh">北京您早</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116090300 +0800" stop="20260116093700 +0800" channel="北京衛視">
-    <title lang="zh">一師亦友</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260116093700 +0800" stop="20260116102500 +0800" channel="北京衛視">
     <title lang="zh">上午劇場父母愛情(19)</title>
     <desc lang="zh"> </desc>
@@ -240881,11 +240125,11 @@
     <title lang="zh">預告</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117202200 +0800" stop="20260117212800 +0800" channel="北京衛視">
+  <programme start="20260117202200 +0800" stop="20260117213000 +0800" channel="北京衛視">
     <title lang="zh">鄉約食光(5)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117212800 +0800" stop="20260117221300 +0800" channel="北京衛視">
+  <programme start="20260117213000 +0800" stop="20260117221300 +0800" channel="北京衛視">
     <title lang="zh">蠻好的人生(24)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -241043,18 +240287,6 @@
   </programme>
   <programme start="20260118225000 +0800" stop="20260119000000 +0800" channel="北京衛視">
     <title lang="zh">聲鳴遠揚2025總決賽(11)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116070100 +0800" stop="20260116085900 +0800" channel="東方衛視">
-    <title lang="zh">看東方</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116085900 +0800" stop="20260116090200 +0800" channel="東方衛視">
-    <title lang="zh">天氣預報</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116090200 +0800" stop="20260116094700 +0800" channel="東方衛視">
-    <title lang="zh">大生意人(8)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116094700 +0800" stop="20260116102900 +0800" channel="東方衛視">
@@ -241477,18 +240709,6 @@
     <title lang="zh">後浪(4)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116072200 +0800" stop="20260116080400 +0800" channel="江蘇衛視">
-    <title lang="zh">生活萬歲</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116080400 +0800" stop="20260116085800 +0800" channel="江蘇衛視">
-    <title lang="zh">我愛古詩詞3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116085800 +0800" stop="20260116094200 +0800" channel="江蘇衛視">
-    <title lang="zh">上午劇場叛逆者</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260116094200 +0800" stop="20260116102700 +0800" channel="江蘇衛視">
     <title lang="zh">上午劇場叛逆者</title>
     <desc lang="zh"> </desc>
@@ -241641,19 +240861,19 @@
     <title lang="zh">江蘇新時空</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117190000 +0800" stop="20260117193300 +0800" channel="江蘇衛視">
+  <programme start="20260117190000 +0800" stop="20260117193200 +0800" channel="江蘇衛視">
     <title lang="zh">轉播中央臺新聞聯播</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117193300 +0800" stop="20260117201900 +0800" channel="江蘇衛視">
+  <programme start="20260117193200 +0800" stop="20260117202100 +0800" channel="江蘇衛視">
     <title lang="zh">幸福劇場冬至(19)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117201900 +0800" stop="20260117214800 +0800" channel="江蘇衛視">
+  <programme start="20260117202100 +0800" stop="20260117214900 +0800" channel="江蘇衛視">
     <title lang="zh">非誠勿擾</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117214800 +0800" stop="20260117231600 +0800" channel="江蘇衛視">
+  <programme start="20260117214900 +0800" stop="20260117231600 +0800" channel="江蘇衛視">
     <title lang="zh">非誠勿擾</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -241787,18 +241007,6 @@
   </programme>
   <programme start="20260118233800 +0800" stop="20260119000000 +0800" channel="江蘇衛視">
     <title lang="zh">非來不可</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116073100 +0800" stop="20260116081400 +0800" channel="浙江衛視">
-    <title lang="zh">千萬工程(2)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116081400 +0800" stop="20260116090000 +0800" channel="浙江衛視">
-    <title lang="zh">幸福像花兒一樣(15)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116090000 +0800" stop="20260116094800 +0800" channel="浙江衛視">
-    <title lang="zh">幸福像花兒一樣(16)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116094800 +0800" stop="20260116103600 +0800" channel="浙江衛視">
@@ -241993,15 +241201,15 @@
     <title lang="zh">轉播中央電視臺新聞聯播</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117193300 +0800" stop="20260117200000 +0800" channel="浙江衛視">
+  <programme start="20260117193300 +0800" stop="20260117203000 +0800" channel="浙江衛視">
     <title lang="zh">中國藍劇場長河落日(28)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117200000 +0800" stop="20260117215000 +0800" channel="浙江衛視">
-    <title lang="zh">天聲一對</title>
+  <programme start="20260117203000 +0800" stop="20260117220200 +0800" channel="浙江衛視">
+    <title lang="zh">菜鳥與大魚</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117215000 +0800" stop="20260117234200 +0800" channel="浙江衛視">
+  <programme start="20260117220200 +0800" stop="20260117234200 +0800" channel="浙江衛視">
     <title lang="zh">炙熱遊戲-百廚大戰</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -242135,22 +241343,6 @@
   </programme>
   <programme start="20260118220000 +0800" stop="20260119000000 +0800" channel="浙江衛視">
     <title lang="zh">樂來樂快樂</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116073300 +0800" stop="20260116080300 +0800" channel="湖南衛視">
-    <title lang="zh">菩提樹下</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116080300 +0800" stop="20260116082100 +0800" channel="湖南衛視">
-    <title lang="zh">故宮裏的大怪獸之月光迷宮(9)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116082100 +0800" stop="20260116084100 +0800" channel="湖南衛視">
-    <title lang="zh">故宮裏的大怪獸之月光迷宮(10)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116084100 +0800" stop="20260116092700 +0800" channel="湖南衛視">
-    <title lang="zh">偶像獨播劇場菩提樹下</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116092700 +0800" stop="20260116102200 +0800" channel="湖南衛視">
@@ -242353,15 +241545,15 @@
     <title lang="zh">衛視氣象站</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117190000 +0800" stop="20260117193200 +0800" channel="湖南衛視">
+  <programme start="20260117190000 +0800" stop="20260117193700 +0800" channel="湖南衛視">
     <title lang="zh">轉播中央臺新聞聯播</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117193200 +0800" stop="20260117201000 +0800" channel="湖南衛視">
+  <programme start="20260117193700 +0800" stop="20260117202500 +0800" channel="湖南衛視">
     <title lang="zh">金鷹獨播劇場玉茗茶骨(28)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117201000 +0800" stop="20260117220000 +0800" channel="湖南衛視">
+  <programme start="20260117202500 +0800" stop="20260117220000 +0800" channel="湖南衛視">
     <title lang="zh">你好，星期六(3)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -242491,22 +241683,6 @@
   </programme>
   <programme start="20260118230000 +0800" stop="20260119000000 +0800" channel="湖南衛視">
     <title lang="zh">星辰大海(33)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116080000 +0800" stop="20260116083500 +0800" channel="湖北衛視">
-    <title lang="zh">天生我財</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116083500 +0800" stop="20260116084700 +0800" channel="湖北衛視">
-    <title lang="zh">奇奇和努娜2(14)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116084700 +0800" stop="20260116090200 +0800" channel="湖北衛視">
-    <title lang="zh">奇奇和努娜2(15)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116090200 +0800" stop="20260116095800 +0800" channel="湖北衛視">
-    <title lang="zh">早間劇場西遊記6</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116095800 +0800" stop="20260116105500 +0800" channel="湖北衛視">
@@ -242685,19 +241861,23 @@
     <title lang="zh">轉播中央臺新聞聯播</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117193500 +0800" stop="20260117202600 +0800" channel="湖北衛視">
+  <programme start="20260117193500 +0800" stop="20260117202100 +0800" channel="湖北衛視">
     <title lang="zh">長江劇場三叉戟2(23)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117202600 +0800" stop="20260117211000 +0800" channel="湖北衛視">
+  <programme start="20260117202100 +0800" stop="20260117211000 +0800" channel="湖北衛視">
     <title lang="zh">長江劇場三叉戟2(24)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117211000 +0800" stop="20260117212500 +0800" channel="湖北衛視">
+  <programme start="20260117211000 +0800" stop="20260117212100 +0800" channel="湖北衛視">
     <title lang="zh">湖北10分</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117212500 +0800" stop="20260117230000 +0800" channel="湖北衛視">
+  <programme start="20260117212100 +0800" stop="20260117214000 +0800" channel="湖北衛視">
+    <title lang="zh">AI進化論</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117214000 +0800" stop="20260117230000 +0800" channel="湖北衛視">
     <title lang="zh">非正式會談</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -242823,14 +242003,6 @@
   </programme>
   <programme start="20260118233000 +0800" stop="20260119000000 +0800" channel="湖北衛視">
     <title lang="zh">虎膽巍城</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116073200 +0800" stop="20260116083400 +0800" channel="廣東衛視">
-    <title lang="zh">上午劇場刀客家族的女人(13)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116083400 +0800" stop="20260116092500 +0800" channel="廣東衛視">
-    <title lang="zh">上午劇場刀客家族的女人(14)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116092500 +0800" stop="20260116101800 +0800" channel="廣東衛視">
@@ -243017,11 +242189,11 @@
     <title lang="zh">活力劇場雪迷宮(11)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117203300 +0800" stop="20260117212100 +0800" channel="廣東衛視">
+  <programme start="20260117203300 +0800" stop="20260117212300 +0800" channel="廣東衛視">
     <title lang="zh">活力劇場雪迷宮(12)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117212100 +0800" stop="20260117215800 +0800" channel="廣東衛視">
+  <programme start="20260117212300 +0800" stop="20260117215800 +0800" channel="廣東衛視">
     <title lang="zh">全球零距離(2)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -243155,14 +242327,6 @@
   </programme>
   <programme start="20260118234500 +0800" stop="20260119000000 +0800" channel="廣東衛視">
     <title lang="zh">航拍中國2</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116075800 +0800" stop="20260116081000 +0800" channel="廣西衛視">
-    <title lang="zh">超級飛俠16</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116081000 +0800" stop="20260116082900 +0800" channel="廣西衛視">
-    <title lang="zh">超級飛俠16</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116082900 +0800" stop="20260116105700 +0800" channel="廣西衛視">
@@ -243353,19 +242517,19 @@
     <title lang="zh">新聞聯播</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117193900 +0800" stop="20260117203300 +0800" channel="廣西衛視">
+  <programme start="20260117193900 +0800" stop="20260117203800 +0800" channel="廣西衛視">
     <title lang="zh">美麗劇場偵察英雄(13)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117203300 +0800" stop="20260117212500 +0800" channel="廣西衛視">
+  <programme start="20260117203800 +0800" stop="20260117213700 +0800" channel="廣西衛視">
     <title lang="zh">美麗劇場偵察英雄(14)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117212500 +0800" stop="20260117214900 +0800" channel="廣西衛視">
+  <programme start="20260117213700 +0800" stop="20260117215900 +0800" channel="廣西衛視">
     <title lang="zh">廣西故事</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117214900 +0800" stop="20260117222200 +0800" channel="廣西衛視">
+  <programme start="20260117215900 +0800" stop="20260117222200 +0800" channel="廣西衛視">
     <title lang="zh">百壽探祕</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -243511,14 +242675,6 @@
   </programme>
   <programme start="20260118230500 +0800" stop="20260119000000 +0800" channel="廣西衛視">
     <title lang="zh">傳奇劇場陣地</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116074600 +0800" stop="20260116082500 +0800" channel="黑龍江衛視">
-    <title lang="zh">獵殺</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116082500 +0800" stop="20260116090100 +0800" channel="黑龍江衛視">
-    <title lang="zh">海底小縱隊7</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116090100 +0800" stop="20260116103500 +0800" channel="黑龍江衛視">
@@ -243685,16 +242841,16 @@
     <title lang="zh">轉播中央臺新聞聯播</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117193300 +0800" stop="20260117202400 +0800" channel="黑龍江衛視">
+  <programme start="20260117193300 +0800" stop="20260117202600 +0800" channel="黑龍江衛視">
     <title lang="zh">中國龍劇場灼灼韶華(5)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117202400 +0800" stop="20260117211500 +0800" channel="黑龍江衛視">
+  <programme start="20260117202600 +0800" stop="20260117211800 +0800" channel="黑龍江衛視">
     <title lang="zh">中國龍劇場灼灼韶華(6)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117211500 +0800" stop="20260117220000 +0800" channel="黑龍江衛視">
-    <title lang="zh">一起傳承吧</title>
+  <programme start="20260117211800 +0800" stop="20260117220000 +0800" channel="黑龍江衛視">
+    <title lang="zh">愛上這座城</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260117220000 +0800" stop="20260117233300 +0800" channel="黑龍江衛視">
@@ -243835,18 +242991,6 @@
   </programme>
   <programme start="20260118233600 +0800" stop="20260119000000 +0800" channel="黑龍江衛視">
     <title lang="zh">活力劇場亮劍</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116073300 +0800" stop="20260116081100 +0800" channel="海南衛視">
-    <title lang="zh">陽光劇場穆桂英掛帥11</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116081100 +0800" stop="20260116084900 +0800" channel="海南衛視">
-    <title lang="zh">陽光劇場穆桂英掛帥12</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116084900 +0800" stop="20260116093800 +0800" channel="海南衛視">
-    <title lang="zh">陽光劇場穆桂英掛帥13</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116093800 +0800" stop="20260116102700 +0800" channel="海南衛視">
@@ -244221,14 +243365,6 @@
     <title lang="zh">紀錄中國</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116075800 +0800" stop="20260116082800 +0800" channel="重慶衛視">
-    <title lang="zh">加油!好少年</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116082800 +0800" stop="20260116092000 +0800" channel="重慶衛視">
-    <title lang="zh">英雄劇場蒼狼(19)</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260116092000 +0800" stop="20260116101200 +0800" channel="重慶衛視">
     <title lang="zh">英雄劇場蒼狼(20)</title>
     <desc lang="zh"> </desc>
@@ -244442,7 +243578,7 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260117203200 +0800" stop="20260117212000 +0800" channel="重慶衛視">
-    <title lang="zh">灼灼韶華(34)</title>
+    <title lang="zh">傳奇劇場灼灼韶華(34)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260117212000 +0800" stop="20260117213800 +0800" channel="重慶衛視">
@@ -244619,18 +243755,6 @@
   </programme>
   <programme start="20260118235500 +0800" stop="20260119000000 +0800" channel="重慶衛視">
     <title lang="zh">風景區氣象服務</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116075900 +0800" stop="20260116080400 +0800" channel="深圳衛視">
-    <title lang="zh">美好深圳</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116080400 +0800" stop="20260116085300 +0800" channel="深圳衛視">
-    <title lang="zh">精品劇場遊擊兵工廠35</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116085300 +0800" stop="20260116095000 +0800" channel="深圳衛視">
-    <title lang="zh">精品劇場尖刀出鞘1</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116095000 +0800" stop="20260116104800 +0800" channel="深圳衛視">
@@ -245105,14 +244229,6 @@
     <title lang="zh">科創最前沿</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116075900 +0800" stop="20260116083700 +0800" channel="四川衛視">
-    <title lang="zh">少年蘇東坡傳奇</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116083700 +0800" stop="20260116092300 +0800" channel="四川衛視">
-    <title lang="zh">真情劇場神槍(7)</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260116092300 +0800" stop="20260116100900 +0800" channel="四川衛視">
     <title lang="zh">真情劇場神槍(8)</title>
     <desc lang="zh"> </desc>
@@ -245449,26 +244565,6 @@
     <title lang="zh">烏雲之上(5)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116073800 +0800" stop="20260116084300 +0800" channel="河南衛視">
-    <title lang="zh">梨園春天天看</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116084300 +0800" stop="20260116091000 +0800" channel="河南衛視">
-    <title lang="zh">時尚麗人</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116091000 +0800" stop="20260116091700 +0800" channel="河南衛視">
-    <title lang="zh">趙琳的探險日記(42)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116091700 +0800" stop="20260116092800 +0800" channel="河南衛視">
-    <title lang="zh">趙琳的探險日記(43)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116092800 +0800" stop="20260116094100 +0800" channel="河南衛視">
-    <title lang="zh">趙琳的探險日記(44)</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260116094100 +0800" stop="20260116105300 +0800" channel="河南衛視">
     <title lang="zh">陽光劇場宰相劉羅鍋</title>
     <desc lang="zh"> </desc>
@@ -245669,11 +244765,11 @@
     <title lang="zh">轉播中央臺新聞聯播</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117193400 +0800" stop="20260117201500 +0800" channel="河南衛視">
+  <programme start="20260117193400 +0800" stop="20260117201800 +0800" channel="河南衛視">
     <title lang="zh">出彩劇場六姊妹(32)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117201500 +0800" stop="20260117210000 +0800" channel="河南衛視">
+  <programme start="20260117201800 +0800" stop="20260117210000 +0800" channel="河南衛視">
     <title lang="zh">出彩劇場六姊妹(33)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -245827,14 +244923,6 @@
   </programme>
   <programme start="20260118224000 +0800" stop="20260119000000 +0800" channel="河南衛視">
     <title lang="zh">梨園春</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116070100 +0800" stop="20260116084200 +0800" channel="東南衛視">
-    <title lang="zh">武松</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116084200 +0800" stop="20260116092100 +0800" channel="東南衛視">
-    <title lang="zh">上午劇場西遊記</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116092100 +0800" stop="20260116101400 +0800" channel="東南衛視">
@@ -246013,15 +245101,15 @@
     <title lang="zh">轉播中央臺新聞聯播</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117193800 +0800" stop="20260117203400 +0800" channel="東南衛視">
+  <programme start="20260117193800 +0800" stop="20260117203500 +0800" channel="東南衛視">
     <title lang="zh">東南劇苑書卷一夢(17)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117203400 +0800" stop="20260117212200 +0800" channel="東南衛視">
+  <programme start="20260117203500 +0800" stop="20260117212300 +0800" channel="東南衛視">
     <title lang="zh">東南劇苑書卷一夢(18)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117212200 +0800" stop="20260117221100 +0800" channel="東南衛視">
+  <programme start="20260117212300 +0800" stop="20260117221100 +0800" channel="東南衛視">
     <title lang="zh">東南軍情</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -246167,26 +245255,6 @@
   </programme>
   <programme start="20260118233900 +0800" stop="20260119000000 +0800" channel="東南衛視">
     <title lang="zh">夜間劇場</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116075400 +0800" stop="20260116080500 +0800" channel="貴州衛視">
-    <title lang="zh">舒克貝塔地下之謎(3)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116080500 +0800" stop="20260116081600 +0800" channel="貴州衛視">
-    <title lang="zh">舒克貝塔地下之謎(4)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116081600 +0800" stop="20260116082700 +0800" channel="貴州衛視">
-    <title lang="zh">舒克貝塔地下之謎(5)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116082700 +0800" stop="20260116084100 +0800" channel="貴州衛視">
-    <title lang="zh">舒克貝塔地下之謎(6)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116084100 +0800" stop="20260116093500 +0800" channel="貴州衛視">
-    <title lang="zh">白天劇場戰天狼(16)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116093500 +0800" stop="20260116102900 +0800" channel="貴州衛視">
@@ -246385,15 +245453,15 @@
     <title lang="zh">轉播中央臺新聞聯播</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117193400 +0800" stop="20260117202700 +0800" channel="貴州衛視">
+  <programme start="20260117193400 +0800" stop="20260117202300 +0800" channel="貴州衛視">
     <title lang="zh">黃金劇場潛淵(33)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117202700 +0800" stop="20260117212000 +0800" channel="貴州衛視">
+  <programme start="20260117202300 +0800" stop="20260117212900 +0800" channel="貴州衛視">
     <title lang="zh">黃金劇場潛淵(34)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117212000 +0800" stop="20260118000000 +0800" channel="貴州衛視">
+  <programme start="20260117212900 +0800" stop="20260118000000 +0800" channel="貴州衛視">
     <title lang="zh">這一站，貴州·記憶裏的味道</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -246515,18 +245583,6 @@
   </programme>
   <programme start="20260118232000 +0800" stop="20260119000000 +0800" channel="貴州衛視">
     <title lang="zh">醬香原產地</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116075700 +0800" stop="20260116080500 +0800" channel="江西衛視">
-    <title lang="zh">奇奇和努娜之美麗新世界(45)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116080500 +0800" stop="20260116083700 +0800" channel="江西衛視">
-    <title lang="zh">美味人生</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116083700 +0800" stop="20260116092700 +0800" channel="江西衛視">
-    <title lang="zh">白天劇場老酒館</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116092700 +0800" stop="20260116102000 +0800" channel="江西衛視">
@@ -246733,15 +245789,15 @@
     <title lang="zh">江西天氣預報</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117190000 +0800" stop="20260117193700 +0800" channel="江西衛視">
+  <programme start="20260117190000 +0800" stop="20260117193800 +0800" channel="江西衛視">
     <title lang="zh">轉播中央臺新聞聯播</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117193700 +0800" stop="20260117203000 +0800" channel="江西衛視">
+  <programme start="20260117193800 +0800" stop="20260117203100 +0800" channel="江西衛視">
     <title lang="zh">金牌劇場我是刑警(21)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117203000 +0800" stop="20260117213000 +0800" channel="江西衛視">
+  <programme start="20260117203100 +0800" stop="20260117213000 +0800" channel="江西衛視">
     <title lang="zh">金牌劇場我是刑警(22)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -246919,26 +245975,6 @@
   </programme>
   <programme start="20260118232400 +0800" stop="20260119000000 +0800" channel="江西衛視">
     <title lang="zh">激戰江南(3)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116073200 +0800" stop="20260116080300 +0800" channel="遼寧衛視">
-    <title lang="zh">歡樂集結號</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116080300 +0800" stop="20260116081400 +0800" channel="遼寧衛視">
-    <title lang="zh">心奇爆龍戰車之超鬥爆龍2(25)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116081400 +0800" stop="20260116082400 +0800" channel="遼寧衛視">
-    <title lang="zh">心奇爆龍戰車之超鬥爆龍2(26)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116082400 +0800" stop="20260116083600 +0800" channel="遼寧衛視">
-    <title lang="zh">心奇爆龍戰車之超鬥爆龍2(27)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116083600 +0800" stop="20260116093300 +0800" channel="遼寧衛視">
-    <title lang="zh">白天劇場父母愛情38</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116093300 +0800" stop="20260116102800 +0800" channel="遼寧衛視">
@@ -247149,16 +246185,20 @@
     <title lang="zh">轉播中央臺新聞聯播</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117193600 +0800" stop="20260117201900 +0800" channel="遼寧衛視">
+  <programme start="20260117193600 +0800" stop="20260117202100 +0800" channel="遼寧衛視">
     <title lang="zh">北方劇場畫眉(4)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117201900 +0800" stop="20260117211900 +0800" channel="遼寧衛視">
+  <programme start="20260117202100 +0800" stop="20260117210300 +0800" channel="遼寧衛視">
     <title lang="zh">北方劇場畫眉(5)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117211900 +0800" stop="20260117220000 +0800" channel="遼寧衛視">
+  <programme start="20260117210300 +0800" stop="20260117214500 +0800" channel="遼寧衛視">
     <title lang="zh">歡樂點點</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117214500 +0800" stop="20260117220000 +0800" channel="遼寧衛視">
+    <title lang="zh">遼寧晚新聞</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260117220000 +0800" stop="20260117221100 +0800" channel="遼寧衛視">
@@ -247315,18 +246355,6 @@
   </programme>
   <programme start="20260118232000 +0800" stop="20260119000000 +0800" channel="遼寧衛視">
     <title lang="zh">歡樂集結號</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116080000 +0800" stop="20260116081200 +0800" channel="安徽衛視">
-    <title lang="zh">海底小縱隊第八季(21)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116081200 +0800" stop="20260116085200 +0800" channel="安徽衛視">
-    <title lang="zh">早安向前衝(16)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116085200 +0800" stop="20260116094800 +0800" channel="安徽衛視">
-    <title lang="zh">海豚萬家劇場四喜精編版(9)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116094800 +0800" stop="20260116104800 +0800" channel="安徽衛視">
@@ -247513,16 +246541,16 @@
     <title lang="zh">海豚第一劇場四喜(32)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117202700 +0800" stop="20260117211500 +0800" channel="安徽衛視">
+  <programme start="20260117202700 +0800" stop="20260117211600 +0800" channel="安徽衛視">
     <title lang="zh">海豚第一劇場四喜(33)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117211500 +0800" stop="20260117212700 +0800" channel="安徽衛視">
+  <programme start="20260117211600 +0800" stop="20260117212700 +0800" channel="安徽衛視">
     <title lang="zh">國劇開放麥(2)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260117212700 +0800" stop="20260117224500 +0800" channel="安徽衛視">
-    <title lang="zh">精彩回顧</title>
+    <title lang="zh">男生女生向前衝</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260117224500 +0800" stop="20260117230500 +0800" channel="安徽衛視">
@@ -247693,18 +246721,6 @@
     <title lang="zh">興鄉計第二季(4)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116073000 +0800" stop="20260116080500 +0800" channel="河北衛視">
-    <title lang="zh">美麗河北慢直播</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116080500 +0800" stop="20260116084000 +0800" channel="河北衛視">
-    <title lang="zh">動畫片</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116084000 +0800" stop="20260116092900 +0800" channel="河北衛視">
-    <title lang="zh">經典劇場闖關東77</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260116092900 +0800" stop="20260116101500 +0800" channel="河北衛視">
     <title lang="zh">經典劇場闖關東78</title>
     <desc lang="zh"> </desc>
@@ -247869,12 +246885,12 @@
     <title lang="zh">民生劇場絕密較量(18)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117202500 +0800" stop="20260117211500 +0800" channel="河北衛視">
+  <programme start="20260117202500 +0800" stop="20260117211300 +0800" channel="河北衛視">
     <title lang="zh">民生劇場絕密較量(19)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117211500 +0800" stop="20260117230000 +0800" channel="河北衛視">
-    <title lang="zh">亮劍</title>
+  <programme start="20260117211300 +0800" stop="20260117230000 +0800" channel="河北衛視">
+    <title lang="zh">亮劍12</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260117230000 +0800" stop="20260117233500 +0800" channel="河北衛視">
@@ -248019,18 +247035,6 @@
   </programme>
   <programme start="20260118233300 +0800" stop="20260119000000 +0800" channel="河北衛視">
     <title lang="zh">午夜劇場</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116073600 +0800" stop="20260116080900 +0800" channel="山東衛視">
-    <title lang="zh">樂享食光</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116080900 +0800" stop="20260116085300 +0800" channel="山東衛視">
-    <title lang="zh">愛家劇場彭德懷元帥</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116085300 +0800" stop="20260116093800 +0800" channel="山東衛視">
-    <title lang="zh">愛家劇場彭德懷元帥</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116093800 +0800" stop="20260116102500 +0800" channel="山東衛視">
@@ -248225,11 +247229,11 @@
     <title lang="zh">轉播中央臺新聞聯播</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117193500 +0800" stop="20260117203000 +0800" channel="山東衛視">
+  <programme start="20260117193500 +0800" stop="20260117203100 +0800" channel="山東衛視">
     <title lang="zh">花漾劇場人世間(13)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117203000 +0800" stop="20260117212400 +0800" channel="山東衛視">
+  <programme start="20260117203100 +0800" stop="20260117212400 +0800" channel="山東衛視">
     <title lang="zh">玉鑑文明</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -248441,14 +247445,6 @@
     <title lang="zh">2025中華家庭詩詞擂臺賽</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116074000 +0800" stop="20260116084500 +0800" channel="天津衛視">
-    <title lang="zh">休閒劇場謊言背後(2)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116084500 +0800" stop="20260116095200 +0800" channel="天津衛視">
-    <title lang="zh">休閒劇場謊言背後(3)</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260116095200 +0800" stop="20260116105900 +0800" channel="天津衛視">
     <title lang="zh">休閒劇場謊言背後(4)</title>
     <desc lang="zh"> </desc>
@@ -248621,15 +247617,15 @@
     <title lang="zh">轉播中央臺新聞聯播</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117193300 +0800" stop="20260117202500 +0800" channel="天津衛視">
+  <programme start="20260117193300 +0800" stop="20260117203200 +0800" channel="天津衛視">
     <title lang="zh">快樂生活劇場大盛魁(48)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117202500 +0800" stop="20260117212000 +0800" channel="天津衛視">
+  <programme start="20260117203200 +0800" stop="20260117212800 +0800" channel="天津衛視">
     <title lang="zh">快樂生活劇場大盛魁(49)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117212000 +0800" stop="20260117220000 +0800" channel="天津衛視">
+  <programme start="20260117212800 +0800" stop="20260117220000 +0800" channel="天津衛視">
     <title lang="zh">非你莫屬</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -248755,14 +247751,6 @@
   </programme>
   <programme start="20260118232000 +0800" stop="20260119000000 +0800" channel="天津衛視">
     <title lang="zh">馬王堆歲月不朽(5)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116080100 +0800" stop="20260116085100 +0800" channel="吉林衛視">
-    <title lang="zh">上午劇場鐵道游擊隊(4)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116085100 +0800" stop="20260116094200 +0800" channel="吉林衛視">
-    <title lang="zh">上午劇場鐵道游擊隊(5)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116094200 +0800" stop="20260116103300 +0800" channel="吉林衛視">
@@ -248981,11 +247969,11 @@
     <title lang="zh">轉播中央臺新聞聯播</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117193300 +0800" stop="20260117201900 +0800" channel="吉林衛視">
+  <programme start="20260117193300 +0800" stop="20260117202100 +0800" channel="吉林衛視">
     <title lang="zh">黃金劇場黃雀(3)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117201900 +0800" stop="20260117210500 +0800" channel="吉林衛視">
+  <programme start="20260117202100 +0800" stop="20260117210500 +0800" channel="吉林衛視">
     <title lang="zh">黃金劇場黃雀(4)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -249143,14 +248131,6 @@
   </programme>
   <programme start="20260118233200 +0800" stop="20260119000000 +0800" channel="吉林衛視">
     <title lang="zh">凌晨劇場</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116075900 +0800" stop="20260116083500 +0800" channel="陝西衛視">
-    <title lang="zh">溫情劇場宰相劉羅鍋(38)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116083500 +0800" stop="20260116092200 +0800" channel="陝西衛視">
-    <title lang="zh">溫情劇場宰相劉羅鍋(39)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116092200 +0800" stop="20260116101100 +0800" channel="陝西衛視">
@@ -249329,11 +248309,11 @@
     <title lang="zh">轉播中央臺新聞聯播</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117193300 +0800" stop="20260117202400 +0800" channel="陝西衛視">
+  <programme start="20260117193300 +0800" stop="20260117202900 +0800" channel="陝西衛視">
     <title lang="zh">絲路長安劇場摧毀(33)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117202400 +0800" stop="20260117211500 +0800" channel="陝西衛視">
+  <programme start="20260117202900 +0800" stop="20260117211500 +0800" channel="陝西衛視">
     <title lang="zh">絲路長安劇場摧毀(34)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -249463,14 +248443,6 @@
   </programme>
   <programme start="20260118231000 +0800" stop="20260119000000 +0800" channel="陝西衛視">
     <title lang="zh">小兵張嘎</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116075100 +0800" stop="20260116085200 +0800" channel="甘肅衛視">
-    <title lang="zh">雄關劇場津門飛鷹(1)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116085200 +0800" stop="20260116094900 +0800" channel="甘肅衛視">
-    <title lang="zh">雄關劇場津門飛鷹(2)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116094900 +0800" stop="20260116104600 +0800" channel="甘肅衛視">
@@ -249953,14 +248925,6 @@
     <title lang="zh">月牙泉劇場飛虎神鷹(41)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116075200 +0800" stop="20260116083800 +0800" channel="寧夏衛視">
-    <title lang="zh">溫情劇場津門飛鷹(27)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116083800 +0800" stop="20260116093000 +0800" channel="寧夏衛視">
-    <title lang="zh">溫情劇場津門飛鷹(28)</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260116093000 +0800" stop="20260116102400 +0800" channel="寧夏衛視">
     <title lang="zh">溫情劇場津門飛鷹(29)</title>
     <desc lang="zh"> </desc>
@@ -250381,22 +249345,6 @@
     <title lang="zh">大西南剿匪記(34)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116075500 +0800" stop="20260116080700 +0800" channel="內蒙古衛視">
-    <title lang="zh">天氣預報</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116080700 +0800" stop="20260116083700 +0800" channel="內蒙古衛視">
-    <title lang="zh">經典劇場狼煙(34)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116083700 +0800" stop="20260116090900 +0800" channel="內蒙古衛視">
-    <title lang="zh">經典劇場狼煙(35)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116090900 +0800" stop="20260116095000 +0800" channel="內蒙古衛視">
-    <title lang="zh">經典劇場狼煙(36)</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260116095000 +0800" stop="20260116103100 +0800" channel="內蒙古衛視">
     <title lang="zh">經典劇場狼煙(37)</title>
     <desc lang="zh"> </desc>
@@ -250629,28 +249577,28 @@
     <title lang="zh">內蒙古新聞聯播</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117190000 +0800" stop="20260117193500 +0800" channel="內蒙古衛視">
+  <programme start="20260117190000 +0800" stop="20260117193400 +0800" channel="內蒙古衛視">
     <title lang="zh">轉播中央臺新聞聯播</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117193500 +0800" stop="20260117201200 +0800" channel="內蒙古衛視">
+  <programme start="20260117193400 +0800" stop="20260117201400 +0800" channel="內蒙古衛視">
     <title lang="zh">北方劇場我是刑警(5)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117201200 +0800" stop="20260117205000 +0800" channel="內蒙古衛視">
+  <programme start="20260117201400 +0800" stop="20260117210000 +0800" channel="內蒙古衛視">
     <title lang="zh">北方劇場我是刑警(6)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117205000 +0800" stop="20260117210000 +0800" channel="內蒙古衛視">
-    <title lang="zh">愛上內蒙古</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260117210000 +0800" stop="20260117212500 +0800" channel="內蒙古衛視">
+  <programme start="20260117210000 +0800" stop="20260117212100 +0800" channel="內蒙古衛視">
     <title lang="zh">行者</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117212500 +0800" stop="20260117214000 +0800" channel="內蒙古衛視">
-    <title lang="zh">開卷有理</title>
+  <programme start="20260117212100 +0800" stop="20260117212600 +0800" channel="內蒙古衛視">
+    <title lang="zh">愛上內蒙古</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117212600 +0800" stop="20260117214000 +0800" channel="內蒙古衛視">
+    <title lang="zh">北疆守望青春行紀</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260117214000 +0800" stop="20260117221000 +0800" channel="內蒙古衛視">
@@ -250791,14 +249739,6 @@
   </programme>
   <programme start="20260118235800 +0800" stop="20260119000000 +0800" channel="內蒙古衛視">
     <title lang="zh">星光劇場</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116080100 +0800" stop="20260116083600 +0800" channel="雲南衛視">
-    <title lang="zh">家有竈君</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116083600 +0800" stop="20260116093000 +0800" channel="雲南衛視">
-    <title lang="zh">雪豹(33)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116093000 +0800" stop="20260116102500 +0800" channel="雲南衛視">
@@ -250969,20 +249909,20 @@
     <title lang="zh">轉播中央臺新聞聯播</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117193300 +0800" stop="20260117201700 +0800" channel="雲南衛視">
+  <programme start="20260117193300 +0800" stop="20260117202100 +0800" channel="雲南衛視">
     <title lang="zh">炫美劇場信仰(31)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117201700 +0800" stop="20260117210400 +0800" channel="雲南衛視">
+  <programme start="20260117202100 +0800" stop="20260117211200 +0800" channel="雲南衛視">
     <title lang="zh">炫美劇場信仰(32)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117210400 +0800" stop="20260117212000 +0800" channel="雲南衛視">
+  <programme start="20260117211200 +0800" stop="20260117212500 +0800" channel="雲南衛視">
     <title lang="zh">好劇大放送</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117212000 +0800" stop="20260117215700 +0800" channel="雲南衛視">
-    <title lang="zh">雲嶺楷模發佈儀式</title>
+  <programme start="20260117212500 +0800" stop="20260117215700 +0800" channel="雲南衛視">
+    <title lang="zh">中國海南雨林祕境</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260117215700 +0800" stop="20260117223100 +0800" channel="雲南衛視">
@@ -251131,22 +250071,6 @@
   </programme>
   <programme start="20260118231600 +0800" stop="20260119000000 +0800" channel="雲南衛視">
     <title lang="zh">瞄準(49)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116072500 +0800" stop="20260116081700 +0800" channel="山西衛視">
-    <title lang="zh">等着我</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116081700 +0800" stop="20260116083300 +0800" channel="山西衛視">
-    <title lang="zh">走進大戲臺</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116083300 +0800" stop="20260116084500 +0800" channel="山西衛視">
-    <title lang="zh">寵物旅店(9)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116084500 +0800" stop="20260116085800 +0800" channel="山西衛視">
-    <title lang="zh">寵物旅店(10)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116085800 +0800" stop="20260116112000 +0800" channel="山西衛視">
@@ -251329,15 +250253,15 @@
     <title lang="zh">轉播中央新聞聯播</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117193700 +0800" stop="20260117202800 +0800" channel="山西衛視">
+  <programme start="20260117193700 +0800" stop="20260117203100 +0800" channel="山西衛視">
     <title lang="zh">黃金劇場沙塵暴(11)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117202800 +0800" stop="20260117212200 +0800" channel="山西衛視">
+  <programme start="20260117203100 +0800" stop="20260117212600 +0800" channel="山西衛視">
     <title lang="zh">黃金劇場沙塵暴(12)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117212200 +0800" stop="20260117222200 +0800" channel="山西衛視">
+  <programme start="20260117212600 +0800" stop="20260117222200 +0800" channel="山西衛視">
     <title lang="zh">歌從黃河來</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -251475,22 +250399,6 @@
   </programme>
   <programme start="20260118231000 +0800" stop="20260119000000 +0800" channel="山西衛視">
     <title lang="zh">熱血劇場山河同在</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116073700 +0800" stop="20260116081100 +0800" channel="青海衛視">
-    <title lang="zh">紀錄時間</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116081100 +0800" stop="20260116082400 +0800" channel="青海衛視">
-    <title lang="zh">寵物旅店(21)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116082400 +0800" stop="20260116084300 +0800" channel="青海衛視">
-    <title lang="zh">寵物旅店(22)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116084300 +0800" stop="20260116093300 +0800" channel="青海衛視">
-    <title lang="zh">崑崙劇場薛丁山24</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116093300 +0800" stop="20260116102000 +0800" channel="青海衛視">
@@ -251653,19 +250561,19 @@
     <title lang="zh">青海新聞聯播</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117190000 +0800" stop="20260117193500 +0800" channel="青海衛視">
+  <programme start="20260117190000 +0800" stop="20260117193700 +0800" channel="青海衛視">
     <title lang="zh">轉播中央臺新聞聯播</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117193500 +0800" stop="20260117202300 +0800" channel="青海衛視">
+  <programme start="20260117193700 +0800" stop="20260117203200 +0800" channel="青海衛視">
     <title lang="zh">第一挑戰劇場縣委大院(3)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117202300 +0800" stop="20260117213000 +0800" channel="青海衛視">
+  <programme start="20260117203200 +0800" stop="20260117212800 +0800" channel="青海衛視">
     <title lang="zh">第一挑戰劇場縣委大院(4)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117213000 +0800" stop="20260117220000 +0800" channel="青海衛視">
+  <programme start="20260117212800 +0800" stop="20260117220000 +0800" channel="青海衛視">
     <title lang="zh">崑崙風物4</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -251815,18 +250723,6 @@
   </programme>
   <programme start="20260118234000 +0800" stop="20260119000000 +0800" channel="青海衛視">
     <title lang="zh">午夜劇場</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116070700 +0800" stop="20260116081600 +0800" channel="西藏衛視">
-    <title lang="zh">神槍(23)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116081600 +0800" stop="20260116083000 +0800" channel="西藏衛視">
-    <title lang="zh">跟我學藏語</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116083000 +0800" stop="20260116090300 +0800" channel="西藏衛視">
-    <title lang="zh">西藏新聞聯播</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116090300 +0800" stop="20260116100300 +0800" channel="西藏衛視">
@@ -252057,15 +250953,15 @@
     <title lang="zh">西藏新聞聯播</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117200600 +0800" stop="20260117201600 +0800" channel="西藏衛視">
+  <programme start="20260117200600 +0800" stop="20260117201200 +0800" channel="西藏衛視">
     <title lang="zh">西藏天氣預報</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117201600 +0800" stop="20260117210700 +0800" channel="西藏衛視">
+  <programme start="20260117201200 +0800" stop="20260117210800 +0800" channel="西藏衛視">
     <title lang="zh">經典劇場六姊妹(14)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117210700 +0800" stop="20260117215700 +0800" channel="西藏衛視">
+  <programme start="20260117210800 +0800" stop="20260117215700 +0800" channel="西藏衛視">
     <title lang="zh">經典劇場六姊妹(15)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -252295,14 +251191,6 @@
   </programme>
   <programme start="20260118235200 +0800" stop="20260119000000 +0800" channel="西藏衛視">
     <title lang="zh">神槍(15)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116075500 +0800" stop="20260116084500 +0800" channel="中國教育電視臺-1">
-    <title lang="zh">神槍(17)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116084500 +0800" stop="20260116093500 +0800" channel="中國教育電視臺-1">
-    <title lang="zh">神槍(18)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116093500 +0800" stop="20260116102500 +0800" channel="中國教育電視臺-1">
@@ -253033,18 +251921,6 @@
     <title lang="zh">等着我(63)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116080000 +0800" stop="20260116083200 +0800" channel="新疆衛視">
-    <title lang="zh">新疆新聞聯播</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116083200 +0800" stop="20260116084500 +0800" channel="新疆衛視">
-    <title lang="zh">今日聚焦</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116084500 +0800" stop="20260116092500 +0800" channel="新疆衛視">
-    <title lang="zh">真實紀錄</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260116092500 +0800" stop="20260116103100 +0800" channel="新疆衛視">
     <title lang="zh">紅石榴劇場大決戰(43)</title>
     <desc lang="zh"> </desc>
@@ -253237,12 +252113,12 @@
     <title lang="zh">今日聚焦</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117201200 +0800" stop="20260117210600 +0800" channel="新疆衛視">
-    <title lang="zh">哈爾濱一九四四(31)</title>
+  <programme start="20260117201200 +0800" stop="20260117210200 +0800" channel="新疆衛視">
+    <title lang="zh">1001夜劇場哈爾濱一九四四(31)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117210600 +0800" stop="20260117220000 +0800" channel="新疆衛視">
-    <title lang="zh">哈爾濱一九四四(32)</title>
+  <programme start="20260117210200 +0800" stop="20260117220000 +0800" channel="新疆衛視">
+    <title lang="zh">1001夜劇場哈爾濱一九四四(32)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260117220000 +0800" stop="20260117223000 +0800" channel="新疆衛視">
@@ -253383,22 +252259,6 @@
   </programme>
   <programme start="20260118223500 +0800" stop="20260119000000 +0800" channel="新疆衛視">
     <title lang="zh">聲鳴遠揚2025總決賽</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116080000 +0800" stop="20260116083000 +0800" channel="兵團衛視">
-    <title lang="zh">科普兵團</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116083000 +0800" stop="20260116090000 +0800" channel="兵團衛視">
-    <title lang="zh">兵團新聞聯播</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116090000 +0800" stop="20260116090100 +0800" channel="兵團衛視">
-    <title lang="zh">中華人民共和國國歌</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116090100 +0800" stop="20260116090700 +0800" channel="兵團衛視">
-    <title lang="zh">國寶時刻(26)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116090700 +0800" stop="20260116101600 +0800" channel="兵團衛視">
@@ -253601,15 +252461,15 @@
     <title lang="zh">兵團新聞聯播</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117202500 +0800" stop="20260117202800 +0800" channel="兵團衛視">
+  <programme start="20260117202500 +0800" stop="20260117202900 +0800" channel="兵團衛視">
     <title lang="zh">天氣預報</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117202800 +0800" stop="20260117211400 +0800" channel="兵團衛視">
+  <programme start="20260117202900 +0800" stop="20260117211500 +0800" channel="兵團衛視">
     <title lang="zh">黃金劇場大宅門(21)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117211400 +0800" stop="20260117220000 +0800" channel="兵團衛視">
+  <programme start="20260117211500 +0800" stop="20260117220000 +0800" channel="兵團衛視">
     <title lang="zh">黃金劇場大宅門(22)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -253775,30 +252635,6 @@
   </programme>
   <programme start="20260118234900 +0800" stop="20260119000000 +0800" channel="兵團衛視">
     <title lang="zh">懸崖(23)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116073400 +0800" stop="20260116080400 +0800" channel="國學頻道">
-    <title lang="zh">書畫大講堂</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116080400 +0800" stop="20260116082200 +0800" channel="國學頻道">
-    <title lang="zh">國學18分</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116082200 +0800" stop="20260116085600 +0800" channel="國學頻道">
-    <title lang="zh">國學公開課</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116085600 +0800" stop="20260116090000 +0800" channel="國學頻道">
-    <title lang="zh">固定墊片</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116090000 +0800" stop="20260116093000 +0800" channel="國學頻道">
-    <title lang="zh">國學半小時</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116093000 +0800" stop="20260116095800 +0800" channel="國學頻道">
-    <title lang="zh">文化中國</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116095800 +0800" stop="20260116102600 +0800" channel="國學頻道">
@@ -481844,6 +480680,110 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <title lang="zh">麻辣燙</title>
     <desc lang="zh"/>
   </programme>
+  <programme start="20260118000000" stop="20260118000500" channel="四川文旅">
+    <title lang="zh">麻辣燙</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260118000500" stop="20260118012000" channel="四川文旅">
+    <title lang="zh">紀錄之窗</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260118012000" stop="20260118014500" channel="四川文旅">
+    <title lang="zh">龍門陣擺四川</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260118014500" stop="20260118022000" channel="四川文旅">
+    <title lang="zh">好戲連臺</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260118022000" stop="20260118031000" channel="四川文旅">
+    <title lang="zh">好戲天天看</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260118031000" stop="20260118034000" channel="四川文旅">
+    <title lang="zh">安逸的旅途</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260118034000" stop="20260118040000" channel="四川文旅">
+    <title lang="zh">龍門陣擺四川</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260118040000" stop="20260118044000" channel="四川文旅">
+    <title lang="zh">好戲連臺</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260118044000" stop="20260118053000" channel="四川文旅">
+    <title lang="zh">麻辣燙</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260118053000" stop="20260118091000" channel="四川文旅">
+    <title lang="zh">好戲天天看</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260118091000" stop="20260118101800" channel="四川文旅">
+    <title lang="zh">劇場</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260118101800" stop="20260118112700" channel="四川文旅">
+    <title lang="zh">劇場</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260118112700" stop="20260118123600" channel="四川文旅">
+    <title lang="zh">劇場</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260118123600" stop="20260118134500" channel="四川文旅">
+    <title lang="zh">劇場</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260118134500" stop="20260118144800" channel="四川文旅">
+    <title lang="zh">劇場</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260118144800" stop="20260118155200" channel="四川文旅">
+    <title lang="zh">劇場</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260118155200" stop="20260118165600" channel="四川文旅">
+    <title lang="zh">劇場</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260118165600" stop="20260118180000" channel="四川文旅">
+    <title lang="zh">劇場</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260118180000" stop="20260118183500" channel="四川文旅">
+    <title lang="zh">好戲連臺</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260118183500" stop="20260118190000" channel="四川文旅">
+    <title lang="zh">龍門陣擺四川</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260118190000" stop="20260118193000" channel="四川文旅">
+    <title lang="zh">安逸的旅途</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260118193000" stop="20260118202500" channel="四川文旅">
+    <title lang="zh">麻辣燙</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260118202500" stop="20260118212300" channel="四川文旅">
+    <title lang="zh">劇場</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260118212300" stop="20260118222100" channel="四川文旅">
+    <title lang="zh">劇場</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260118222100" stop="20260118232000" channel="四川文旅">
+    <title lang="zh">劇場</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260118232000" stop="20260119000000" channel="四川文旅">
+    <title lang="zh">麻辣燙</title>
+    <desc lang="zh"/>
+  </programme>
   <programme start="20260117000000" stop="20260117003000" channel="四川經濟">
     <title lang="zh">紀錄之窗</title>
     <desc lang="zh"/>
@@ -502144,10 +501084,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <title lang="zh">小山正在秀</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260117120000 +0000" stop="20260117140000 +0000" channel="中視">
-    <title lang="zh">綜藝一級棒</title>
-    <desc lang="zh">中視團隊再推歌唱綜藝新作《綜藝一級棒》超強主持陣容-康康、許志豪、陳隨意、陳孟賢、李子森、杜忻恬！希望在最美好的舞臺上給大家帶來滿滿兩個小時的金曲時光！</desc>
-  </programme>
   <programme start="20260117140000 +0000" stop="20260117160000 +0000" channel="中視">
     <title lang="zh">綜藝玩很大</title>
     <desc lang="zh">由本土天王吳宗憲主持，打造臺灣電視史上第一個最真實的外景實境秀。每趟旅程帶領8位藝人，挑戰時間內募集返家所需旅費。成功隊伍可以順利回家，失敗隊則直接被流放當地，露宿街頭。綜藝玩很大，要玩就玩大的！</desc>
@@ -502243,10 +501179,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
   <programme start="20260118220000 +0000" stop="20260118230000 +0000" channel="中視">
     <title lang="zh">中視新聞</title>
     <desc lang="zh">由最專業的中視新聞主播，為您播報最新、最即時的新聞。</desc>
-  </programme>
-  <programme start="20260117130000 +0000" stop="20260117140000 +0000" channel="華視">
-    <title lang="zh">國際線，出發！</title>
-    <desc lang="zh">華視新聞部製作新聞節目。由經驗豐富的劉姿麟擔任主播，在週末時段為大家深度報導國際間大小事。透過主播的國際和財經雙專業，外加上豐富的主播經驗，為華視新聞觀眾，帶來更多元及專業的國際經濟面向分析及財經領域資訊。</desc>
   </programme>
   <programme start="20260117140000 +0000" stop="20260117161500 +0000" channel="華視">
     <title lang="zh">天才衝衝衝</title>
@@ -502691,18 +501623,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
   <programme start="20260122073000 +0000" stop="20260122080000 +0000" channel="華視">
     <title lang="zh">健康早知道</title>
     <desc lang="zh">華視製播健康資訊節目，介紹全方位的健康知識、飲食健康、預防癌症，遠離三高、慢性病。由資深醫藥記者洪素卿主持，每週邀各領域專家，暢談日常生活會遇到的健康故事，並分享給長輩的健康保健的知識，介紹自我保健祕訣與養生方式。</desc>
-  </programme>
-  <programme start="20260117130000 +0000" stop="20260117133000 +0000" channel="好消息2臺">
-    <title lang="zh">寇住幸福</title>
-    <desc lang="zh">因現代人娛樂方式改變，媒體宣教更成為重要的傳福音管道。GOOD TV發現如今有更多人駐足在網路上，因此投入製作合乎網路媒體特性的節目，《寇住幸福》應運而生！由寇紹恩牧師主持，節目結合精彩的家庭生活短劇、動人的詩歌音樂與信息分享。</desc>
-  </programme>
-  <programme start="20260117133000 +0000" stop="20260117134500 +0000" channel="好消息2臺">
-    <title lang="zh">機智青年生活</title>
-    <desc lang="zh">這不是韓劇，而是正上演的一齣充滿血淚與美好友誼的熱血植堂連續劇 ！旌旗好生活邀請到三對青年牧師CP，來聊聊由上帝導演，引領青年教會及一羣青年團隊，經歷瘋狂又精彩的植堂人生！</desc>
-  </programme>
-  <programme start="20260117134500 +0000" stop="20260117140000 +0000" channel="好消息2臺">
-    <title lang="zh">機智青年生活</title>
-    <desc lang="zh">這不是韓劇，而是正上演的一齣充滿血淚與美好友誼的熱血植堂連續劇 ！旌旗好生活邀請到三對青年牧師CP，來聊聊由上帝導演，引領青年教會及一羣青年團隊，經歷瘋狂又精彩的植堂人生！</desc>
   </programme>
   <programme start="20260117140000 +0000" stop="20260117150000 +0000" channel="好消息2臺">
     <title lang="zh">空中禮拜堂</title>
@@ -503551,10 +502471,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
   <programme start="20260122073000 +0000" stop="20260122080000 +0000" channel="好消息2臺">
     <title lang="zh">福氣人生</title>
     <desc lang="zh">如何才能擁有福氣人生?看牧師們以臺語分享聖經的真理，讓你領受天國滿滿的福氣與祝福。</desc>
-  </programme>
-  <programme start="20260117130500 +0000" stop="20260117140000 +0000" channel="好消息">
-    <title lang="zh">真情部落格</title>
-    <desc lang="zh">廣受海內外觀眾歡迎的真情部落格，由知名主播夏嘉璐主持，莊信德牧師回應，透過每位來賓的生命見證幫助許多人走出低谷。相信神繼續透過真情部落格祝福這世代的華人。</desc>
   </programme>
   <programme start="20260117140000 +0000" stop="20260117143000 +0000" channel="好消息">
     <title lang="zh">生命的贏家</title>
@@ -504456,10 +503372,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <title lang="zh">新舊約縱覽</title>
     <desc lang="zh">大衛鮑森牧師《新舊約縱覽》系列，內容從舊約一直到新約，完整的播出一遍，剛好講完整本聖經所有的經卷。</desc>
   </programme>
-  <programme start="20260117130000 +0000" stop="20260117140000 +0000" channel="亞洲旅遊臺">
-    <title lang="zh">融融歷險記</title>
-    <desc lang="zh">《融融歷險記 Ben’s Adventure》的創辦人Ben，立志前往那些沒有人要去的地方。走過五大洲75餘國，喜歡拍影片更愛與當地人交流，因為這纔是旅行真正的意義。「旅行的意義是什麼？」旅行的意義，看不同的風景，認識不同的人，領略不同的美好，讓你覺得世界那麼大。</desc>
-  </programme>
   <programme start="20260117140000 +0000" stop="20260117150000 +0000" channel="亞洲旅遊臺">
     <title lang="zh">效廉出發吧</title>
     <desc lang="zh">東森超視全新外景旅遊實境綜藝節目，由跨世代人夫許效舜、威廉攜手主持。兩位私交甚篤的知己好友，將在節目中分享彼此人生故事，帶觀眾深入瞭解每個城鎮獨有的歷史人文，探索每個地方的特色美食生活。一段見證男人友誼的旅行，就此展開！</desc>
@@ -504915,18 +503827,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
   <programme start="20260122070000 +0000" stop="20260122080000 +0000" channel="亞洲旅遊臺">
     <title lang="zh">暴走兄弟朝聖趣</title>
     <desc lang="zh">透過主持人盧廣仲、李玉璽、美麗本人三兄弟挑戰世界唯二被聯合國列為世界文化遺產的參拜道：西班牙聖雅各之路與日本熊野古道的冒險實境節目，究竟其中有什麼魔力吸引著一波又一波不論國界不分年齡的朝聖者，湧入這條古老的朝聖之路？</desc>
-  </programme>
-  <programme start="20260117124000 +0000" stop="20260117132000 +0000" channel="東森購物1臺">
-    <title lang="zh">鎖定CH.43、CH.49選購</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
-  <programme start="20260117132000 +0000" stop="20260117140000 +0000" channel="東森購物1臺">
-    <title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
-  <programme start="20260117140000 +0000" stop="20260117144000 +0000" channel="東森購物1臺">
-    <title lang="zh">鎖定CH.43、CH.49選購</title>
-    <desc lang="zh">暫無描述</desc>
   </programme>
   <programme start="20260117144000 +0000" stop="20260117152000 +0000" channel="東森購物1臺">
     <title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title>
@@ -505605,18 +504505,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <desc lang="zh">暫無描述</desc>
   </programme>
   <programme start="20260122072000 +0000" stop="20260122080000 +0000" channel="東森購物1臺">
-    <title lang="zh">鎖定CH.43、CH.49選購</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
-  <programme start="20260117124000 +0000" stop="20260117132000 +0000" channel="東森購物2臺">
-    <title lang="zh">鎖定CH.43、CH.49選購</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
-  <programme start="20260117132000 +0000" stop="20260117140000 +0000" channel="東森購物2臺">
-    <title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
-  <programme start="20260117140000 +0000" stop="20260117144000 +0000" channel="東森購物2臺">
     <title lang="zh">鎖定CH.43、CH.49選購</title>
     <desc lang="zh">暫無描述</desc>
   </programme>
@@ -506300,10 +505188,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <title lang="zh">鎖定CH.43、CH.49選購</title>
     <desc lang="zh">暫無描述</desc>
   </programme>
-  <programme start="20260117130000 +0000" stop="20260117140000 +0000" channel="華視新聞">
-    <title lang="zh">國際線，出發！</title>
-    <desc lang="zh">華視新聞部製作新聞節目。由經驗豐富的劉姿麟擔任主播，在週末時段為大家深度報導國際間大小事。透過主播的國際和財經雙專業，外加上豐富的主播經驗，為華視新聞觀眾，帶來更多元及專業的國際經濟面向分析及財經領域資訊。</desc>
-  </programme>
   <programme start="20260117140000 +0000" stop="20260117143000 +0000" channel="華視新聞">
     <title lang="zh">華視2200夜間新聞</title>
     <desc lang="zh">每晚10點，由華視主播帶給你最即時、最完整、最專業的新聞報導。</desc>
@@ -506820,10 +505704,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <title lang="zh">節目未定</title>
     <desc lang="zh">節目資訊尚未公佈。</desc>
   </programme>
-  <programme start="20260117130000 +0000" stop="20260117140000 +0000" channel="三立新聞iNEWS">
-    <title lang="zh">Catch大錢潮</title>
-    <desc lang="zh">主播王志鬱帶您catch大錢潮！一個小時快速吸收當天國際大事，財經、產業脈動，掌握趨勢，擁抱財富。</desc>
-  </programme>
   <programme start="20260117140000 +0000" stop="20260117150000 +0000" channel="三立新聞iNEWS">
     <title lang="zh">MIT趨勢先知</title>
     <desc lang="zh">侯建州主持的財經新聞節目，深入剖析各種國內外財經新聞。</desc>
@@ -507203,10 +506083,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
   <programme start="20260121220000 +0000" stop="20260121230000 +0000" channel="三立新聞iNEWS">
     <title lang="zh">2300iNEWS財經夜世界</title>
     <desc lang="zh">三立iNEWS製播的財經新聞節目，由最專業的財經主播帶來國際時事、財經股匯市報導、深度新聞、時事評論…等內容。</desc>
-  </programme>
-  <programme start="20260117130000 +0000" stop="20260117140000 +0000" channel="寰宇財經臺">
-    <title lang="zh">巷弄美食家</title>
-    <desc lang="zh">暫無描述</desc>
   </programme>
   <programme start="20260117140000 +0000" stop="20260117150000 +0000" channel="寰宇財經臺">
     <title lang="zh">兆華艾綸說</title>
@@ -507632,10 +506508,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <title lang="zh">理財達人秀</title>
     <desc lang="zh">全臺灣最精采好懂的理財影片！保險、股市、房地產、基金、投資觀念，最實用的知識一看就通！投資新手到專家的討論園地。</desc>
   </programme>
-  <programme start="20260117130000 +0000" stop="20260117140000 +0000" channel="中視新聞">
-    <title lang="zh">中視整點新聞</title>
-    <desc lang="zh">以最客觀的角度，最專業的主播，為觀眾完整報導當日發生之重大國內外重要新聞。</desc>
-  </programme>
   <programme start="20260117140000 +0000" stop="20260117150000 +0000" channel="中視新聞">
     <title lang="zh">60分鐘</title>
     <desc lang="zh">新聞雜誌節目，深入探討新聞時事與議題，將帶給你全方位的報導。</desc>
@@ -507767,10 +506639,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
   <programme start="20260118220000 +0000" stop="20260118230000 +0000" channel="中視新聞">
     <title lang="zh">中視新聞全球報導</title>
     <desc lang="zh">中視每晚七點由主播哈遠儀為全國觀眾最專業、準確的新聞報導。</desc>
-  </programme>
-  <programme start="20260117130000 +0000" stop="20260117140000 +0000" channel="中天新聞臺">
-    <title lang="zh">前進戰略高地</title>
-    <desc lang="zh">世界，那麼遠又那麼近。地球上每個正在發生的事件，都如蝴蝶效應般，最終對你我產生若干影響。透過本節目，您將站上國際戰略高地，俯視中美大國間，博弈的棋譜；區域鄰國間，競合的套路。</desc>
   </programme>
   <programme start="20260117140000 +0000" stop="20260117150000 +0000" channel="中天新聞臺">
     <title lang="zh">前進戰略高地</title>
@@ -508228,10 +507096,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <title lang="zh">15大新聞大爆卦</title>
     <desc lang="zh">每週一到週五《大新聞大爆卦》中天主播陪你一起來解卦！！！</desc>
   </programme>
-  <programme start="20260117125500 +0000" stop="20260117135500 +0000" channel="寰宇新聞臺灣臺">
-    <title lang="zh">寰宇焦點新聞</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
   <programme start="20260117135500 +0000" stop="20260117145500 +0000" channel="寰宇新聞臺灣臺">
     <title lang="zh">寰宇焦點新聞</title>
     <desc lang="zh">暫無描述</desc>
@@ -508656,10 +507520,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <title lang="zh">寰宇早安新聞</title>
     <desc lang="zh">暫無描述</desc>
   </programme>
-  <programme start="20260117125500 +0000" stop="20260117135500 +0000" channel="寰宇新聞臺">
-    <title lang="zh">Linking 368 Taiwan</title>
-    <desc lang="zh">製作團隊改版後移師華視、東森超視和寰宇新聞，以國際觀眾的視覺水準製作，以走進臺灣368鄉鎮祕境為主題，除了要讓臺灣觀眾看見臺灣的美，更要讓節目成為推廣臺灣觀光的最強推銷員，吸引更多國際友人造訪臺灣，並且愛上這片土地。</desc>
-  </programme>
   <programme start="20260117135500 +0000" stop="20260117145500 +0000" channel="寰宇新聞臺">
     <title lang="zh">國際快易通</title>
     <desc lang="zh">國際快易通關注國際間科技的動向，瞭解最新的技術對未來生活上所造成的影響。</desc>
@@ -509082,14 +507942,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
   </programme>
   <programme start="20260121225500 +0000" stop="20260121235500 +0000" channel="寰宇新聞臺">
     <title lang="zh">寰宇全球早報</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
-  <programme start="20260117133000 +0000" stop="20260117140000 +0000" channel="第1商業臺">
-    <title lang="zh">股市吳限鑽-寶得富-吳曉松分析師</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
-  <programme start="20260117140000 +0000" stop="20260117143000 +0000" channel="第1商業臺">
-    <title lang="zh">啟發投顧精選</title>
     <desc lang="zh">暫無描述</desc>
   </programme>
   <programme start="20260117143000 +0000" stop="20260117150000 +0000" channel="第1商業臺">
