@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260119213000 +0800" stop="20260119223000 +0800" channel="mbc action">
-    <title lang="en">برنامج cars &amp; stars</title>
-  </programme>
   <programme start="20260119223000 +0800" stop="20260119230000 +0800" channel="mbc action">
     <title lang="en">One Piece</title>
   </programme>
@@ -189,6 +186,9 @@
   <programme start="20260122070000 +0800" stop="20260122080000 +0800" channel="mbc action">
     <title lang="en">برنامج action bodcast</title>
   </programme>
+  <programme start="20260122080000 +0800" stop="20260122090000 +0800" channel="mbc action">
+    <title lang="en">بودكاست ملح الدوري</title>
+  </programme>
   <programme start="20260119210000 +0800" stop="20260119230000 +0800" channel="mbc max">
     <title lang="en">Arthur</title>
   </programme>
@@ -330,9 +330,6 @@
   <programme start="20260122070000 +0800" stop="20260122090000 +0800" channel="mbc max">
     <title lang="en">Mr. Jones</title>
   </programme>
-  <programme start="20260119212500 +0800" stop="20260119220000 +0800" channel="mbc 2">
-    <title lang="en">برنامج 2026 Golden Globes Awards Special</title>
-  </programme>
   <programme start="20260119220000 +0800" stop="20260119234000 +0800" channel="mbc 2">
     <title lang="en">Limitless</title>
   </programme>
@@ -458,5 +455,8 @@
   </programme>
   <programme start="20260122060000 +0800" stop="20260122080000 +0800" channel="mbc 2">
     <title lang="en">Hot Fuzz</title>
+  </programme>
+  <programme start="20260122080000 +0800" stop="20260122100500 +0800" channel="mbc 2">
+    <title lang="en">Anna Karenina</title>
   </programme>
 </tv>
