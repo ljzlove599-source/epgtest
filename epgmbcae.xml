@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260120110000 +0800" stop="20260120120000 +0800" channel="mbc action">
-    <title lang="en">One Piece</title>
-  </programme>
   <programme start="20260120120000 +0800" stop="20260120130000 +0800" channel="mbc action">
     <title lang="en">ascend برنامج</title>
   </programme>
@@ -189,8 +186,8 @@
   <programme start="20260122210000 +0800" stop="20260122220000 +0800" channel="mbc action">
     <title lang="en">برنامج the inside line</title>
   </programme>
-  <programme start="20260120110000 +0800" stop="20260120123500 +0800" channel="mbc max">
-    <title lang="en">Venom</title>
+  <programme start="20260122220000 +0800" stop="20260122230000 +0800" channel="mbc action">
+    <title lang="en">Ridiculousness</title>
   </programme>
   <programme start="20260120123500 +0800" stop="20260120130000 +0800" channel="mbc max">
     <title lang="en">برنامج Planet Action</title>
@@ -315,9 +312,6 @@
   <programme start="20260122210000 +0800" stop="20260122230000 +0800" channel="mbc max">
     <title lang="en">Mirror Mirror</title>
   </programme>
-  <programme start="20260120102500 +0800" stop="20260120120500 +0800" channel="mbc 2">
-    <title lang="en">Legally Blonde 2</title>
-  </programme>
   <programme start="20260120120500 +0800" stop="20260120142000 +0800" channel="mbc 2">
     <title lang="en">Den of Thieves</title>
   </programme>
@@ -431,5 +425,8 @@
   </programme>
   <programme start="20260122193000 +0800" stop="20260122220000 +0800" channel="mbc 2">
     <title lang="en">Papillon</title>
+  </programme>
+  <programme start="20260122220000 +0800" stop="20260123000000 +0800" channel="mbc 2">
+    <title lang="en">The Bourne Identity</title>
   </programme>
 </tv>
