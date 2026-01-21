@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260121110000 +0800" stop="20260121120000 +0800" channel="mbc action">
-    <title lang="en">بودكاست ملح الدوري</title>
-  </programme>
   <programme start="20260121120000 +0800" stop="20260121130000 +0800" channel="mbc action">
     <title lang="en">برنامج action bodcast</title>
   </programme>
@@ -132,9 +129,6 @@
   <programme start="20260123043000 +0800" stop="20260123053000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
   </programme>
-  <programme start="20260121110000 +0800" stop="20260121123000 +0800" channel="mbc max">
-    <title lang="en">Fist Fight</title>
-  </programme>
   <programme start="20260121123000 +0800" stop="20260121143000 +0800" channel="mbc max">
     <title lang="en">Arthur</title>
   </programme>
@@ -233,9 +227,6 @@
   </programme>
   <programme start="20260123210000 +0800" stop="20260123230000 +0800" channel="mbc max">
     <title lang="en">Basic</title>
-  </programme>
-  <programme start="20260121110000 +0800" stop="20260121123500 +0800" channel="mbc 2">
-    <title lang="en">Watcher</title>
   </programme>
   <programme start="20260121123500 +0800" stop="20260121130000 +0800" channel="mbc 2">
     <title lang="en">برنامج Planet Action 6</title>
@@ -338,5 +329,8 @@
   </programme>
   <programme start="20260123193000 +0800" stop="20260123220000 +0800" channel="mbc 2">
     <title lang="en">Blackhat</title>
+  </programme>
+  <programme start="20260123220000 +0800" stop="20260124000000 +0800" channel="mbc 2">
+    <title lang="en">Line of Duty</title>
   </programme>
 </tv>
