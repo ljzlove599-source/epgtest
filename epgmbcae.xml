@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260121200000 +0800" stop="20260121210000 +0800" channel="mbc action">
-    <title lang="en">برنامجcar issuse</title>
-  </programme>
   <programme start="20260121210000 +0800" stop="20260121220000 +0800" channel="mbc action">
     <title lang="en">برنامج  Adrenaline</title>
   </programme>
@@ -198,8 +195,8 @@
   <programme start="20260124050000 +0800" stop="20260124070000 +0800" channel="mbc max">
     <title lang="en">Vengeance: A Love Story</title>
   </programme>
-  <programme start="20260121193500 +0800" stop="20260121213500 +0800" channel="mbc 2">
-    <title lang="en">Winter's Tale</title>
+  <programme start="20260124070000 +0800" stop="20260124090000 +0800" channel="mbc max">
+    <title lang="en">Mirror Mirror</title>
   </programme>
   <programme start="20260121213500 +0800" stop="20260121220000 +0800" channel="mbc 2">
     <title lang="en">Action Zone</title>
@@ -293,5 +290,8 @@
   </programme>
   <programme start="20260124043000 +0800" stop="20260124070000 +0800" channel="mbc 2">
     <title lang="en">Motherless Brooklyn</title>
+  </programme>
+  <programme start="20260124070000 +0800" stop="20260124090000 +0800" channel="mbc 2">
+    <title lang="en">Lucky Number Slevin</title>
   </programme>
 </tv>
