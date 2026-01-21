@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260121130000 +0800" stop="20260121143000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-  </programme>
   <programme start="20260121143000 +0800" stop="20260121153000 +0800" channel="mbc action">
     <title lang="en">برنامج Celebrity Car Wars</title>
   </programme>
@@ -126,9 +123,6 @@
   <programme start="20260123043000 +0800" stop="20260123053000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
   </programme>
-  <programme start="20260121123000 +0800" stop="20260121143000 +0800" channel="mbc max">
-    <title lang="en">Arthur</title>
-  </programme>
   <programme start="20260121143000 +0800" stop="20260121160000 +0800" channel="mbc max">
     <title lang="en">Safe</title>
   </programme>
@@ -228,9 +222,6 @@
   <programme start="20260123230000 +0800" stop="20260124010000 +0800" channel="mbc max">
     <title lang="en">The Brave One</title>
   </programme>
-  <programme start="20260121130000 +0800" stop="20260121144000 +0800" channel="mbc 2">
-    <title lang="en">Limitless</title>
-  </programme>
   <programme start="20260121144000 +0800" stop="20260121164000 +0800" channel="mbc 2">
     <title lang="en">Downton Abbey</title>
   </programme>
@@ -329,5 +320,8 @@
   </programme>
   <programme start="20260123220000 +0800" stop="20260124000000 +0800" channel="mbc 2">
     <title lang="en">Line of Duty</title>
+  </programme>
+  <programme start="20260124000000 +0800" stop="20260124020000 +0800" channel="mbc 2">
+    <title lang="en">Layer Cake</title>
   </programme>
 </tv>
