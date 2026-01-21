@@ -7092,10 +7092,6 @@
   <channel id="beinsports4">
     <display-name lang="zh">beinsports4</display-name>
   </channel>
-  <programme start="20260122030000 +0800" stop="20260122043000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-    <desc lang=""/>
-  </programme>
   <programme start="20260122043000 +0800" stop="20260122053000 +0800" channel="mbc action">
     <title lang="en">ابرز لقطات الدوري</title>
     <desc lang=""/>
@@ -7312,10 +7308,6 @@
     <title lang="en">فيلم</title>
     <desc lang=""/>
   </programme>
-  <programme start="20260122020500 +0800" stop="20260122040000 +0800" channel="mbc 2">
-    <title lang="en">Scott Pilgrim vs. the World</title>
-    <desc lang=""/>
-  </programme>
   <programme start="20260122040000 +0800" stop="20260122060000 +0800" channel="mbc 2">
     <title lang="en">The World's End</title>
     <desc lang=""/>
@@ -7426,6 +7418,10 @@
   </programme>
   <programme start="20260124120000 +0800" stop="20260124140000 +0800" channel="mbc 2">
     <title lang="en">The Girl in the Spider's Web</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260124140000 +0800" stop="20260124160000 +0800" channel="mbc 2">
+    <title lang="en">The Bourne Supremacy</title>
     <desc lang=""/>
   </programme>
   <programme start="20260121003000 +0400" stop="20260121023000 +0400" channel="Dubai One">
@@ -7701,11 +7697,11 @@
     <desc lang=""/>
   </programme>
   <programme start="20260122044500 +0900" stop="20260122060000 +0900" channel="KBSWorld">
-    <title lang="en">Love Track Ep.3 [LIVE]</title>
+    <title lang="en">Love Track Ep.3</title>
     <desc lang=""/>
   </programme>
   <programme start="20260122060000 +0900" stop="20260122071500 +0900" channel="KBSWorld">
-    <title lang="en">Problem Child in House Ep.36</title>
+    <title lang="en">Problem Child in House Ep.36 [LIVE]</title>
     <desc lang=""/>
   </programme>
   <programme start="20260122071500 +0900" stop="20260122073000 +0900" channel="KBSWorld">
@@ -44172,7 +44168,519 @@
     <title lang="zh">Heidi Klum splashes around with XXL Tom Kaulitz beach towel</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260122051800 +0800" stop="20260122235959 +0800" channel="spot on news">
+  <programme start="20260122051800 +0800" stop="20260122051900 +0800" channel="spot on news">
+    <title lang="zh">Dangerous rescue operation: Man risks his life for a small bird</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122051900 +0800" stop="20260122051900 +0800" channel="spot on news">
+    <title lang="zh">Taller than Cristo Redentor in Rio: new mega-statue breaks record</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122051900 +0800" stop="20260122052000 +0800" channel="spot on news">
+    <title lang="zh">Deer storms into classroom and devours exam papers</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122052000 +0800" stop="20260122052100 +0800" channel="spot on news">
+    <title lang="zh">Cat causes laughter during state visit</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122052100 +0800" stop="20260122052200 +0800" channel="spot on news">
+    <title lang="zh">These stars would have celebrated their 100th birthday in 2026</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122052200 +0800" stop="20260122052300 +0800" channel="spot on news">
+    <title lang="zh">Sarah Jessica Parker with black wings on the red carpet</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122052300 +0800" stop="20260122052400 +0800" channel="spot on news">
+    <title lang="zh">Until the handcuffs click: Escaped emu keeps police on their toes</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122052400 +0800" stop="20260122052600 +0800" channel="spot on news">
+    <title lang="zh">Auto-rickshaw crushed between two buses: one dead</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122052600 +0800" stop="20260122052700 +0800" channel="spot on news">
+    <title lang="zh">"Hacks" stars copy Kylie Jenner and Timothée Chalamet's look</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122052700 +0800" stop="20260122052800 +0800" channel="spot on news">
+    <title lang="zh">Gigantic fireball: Car explodes in the middle of New York</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122052800 +0800" stop="20260122052900 +0800" channel="spot on news">
+    <title lang="zh">Up to the ninth floor: Entire cities buried under masses of snow</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122052900 +0800" stop="20260122052900 +0800" channel="spot on news">
+    <title lang="zh">Fan attacks Ariana Grande: Cynthia Erivo intervenes</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122052900 +0800" stop="20260122053000 +0800" channel="spot on news">
+    <title lang="zh">Spectacular! Astronaut films northern lights from space</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122053000 +0800" stop="20260122053000 +0800" channel="spot on news">
+    <title lang="zh">Major fire causes dozens of gas cylinders to explode</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122053000 +0800" stop="20260122053100 +0800" channel="spot on news">
+    <title lang="zh">Zebra does somersault through fence</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122053100 +0800" stop="20260122053200 +0800" channel="spot on news">
+    <title lang="zh">Rescue fail: Helicopter drops another helicopter</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122053200 +0800" stop="20260122053200 +0800" channel="spot on news">
+    <title lang="zh">Utrecht: Explosion destroys several houses in the city center</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122053200 +0800" stop="20260122053500 +0800" channel="spot on news">
+    <title lang="zh">Diesel tanker overturns and leaves trail of fire on highway</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122053500 +0800" stop="20260122053600 +0800" channel="spot on news">
+    <title lang="zh">Man gets oil drum blown up in his face</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122053600 +0800" stop="20260122053600 +0800" channel="spot on news">
+    <title lang="zh">Kristen Stewart shines in a mini dress</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122053600 +0800" stop="20260122053700 +0800" channel="spot on news">
+    <title lang="zh">Muntjac vs. rhinoceros: Mini fighter provokes giant</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122053700 +0800" stop="20260122053700 +0800" channel="spot on news">
+    <title lang="zh">Giant icicles fall - tourists narrowly escape</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122053700 +0800" stop="20260122053800 +0800" channel="spot on news">
+    <title lang="zh">Moose Emil keeps Austria on its toes</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122053800 +0800" stop="20260122053900 +0800" channel="spot on news">
+    <title lang="zh">Near Los Angeles: Helicopter crashes on beach</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122053900 +0800" stop="20260122053900 +0800" channel="spot on news">
+    <title lang="zh">Sylvester Stallone thrills fans with fitness video</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122053900 +0800" stop="20260122054000 +0800" channel="spot on news">
+    <title lang="zh">Death certificate reveals gruesome details about Rob Reiner's death</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122054000 +0800" stop="20260122054100 +0800" channel="spot on news">
+    <title lang="zh">Fashion designer Valentino has died: How the stars are reacting</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122054100 +0800" stop="20260122054400 +0800" channel="spot on news">
+    <title lang="zh">Dog hears her name in "Stranger Things": reaction goes viral</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122054400 +0800" stop="20260122054400 +0800" channel="spot on news">
+    <title lang="zh">Casual instead of sexy: Jennifer Lawrence shows off an unusual look</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122054400 +0800" stop="20260122054500 +0800" channel="spot on news">
+    <title lang="zh">Girogio Armani dead at 91: celebs pay tribute</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122054500 +0800" stop="20260122054600 +0800" channel="spot on news">
+    <title lang="zh">Mexico City: Exploding tanker truck kills three people</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122054600 +0800" stop="20260122054700 +0800" channel="spot on news">
+    <title lang="zh">"The Smashing Machine": Dwayne Johnson and Emily Blunt in Berlin</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122054700 +0800" stop="20260122054800 +0800" channel="spot on news">
+    <title lang="zh">From head to toe: Jason Momoa shines in pink</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122054800 +0800" stop="20260122054900 +0800" channel="spot on news">
+    <title lang="zh">Mia Goth and Jacob Elordi at the Frankenstein premiere in Los Angeles</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122054900 +0800" stop="20260122054900 +0800" channel="spot on news">
+    <title lang="zh">Horse causes chaos at beauty salon</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122054900 +0800" stop="20260122055000 +0800" channel="spot on news">
+    <title lang="zh">Bold theft: Fox steals sled with fresh fish</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122055000 +0800" stop="20260122055200 +0800" channel="spot on news">
+    <title lang="zh">Golden Globes 2026: Stars take a stand against ICE</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122055200 +0800" stop="20260122055300 +0800" channel="spot on news">
+    <title lang="zh">On the cliff: Old nuclear bunker about to collapse</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122055300 +0800" stop="20260122055400 +0800" channel="spot on news">
+    <title lang="zh">Police arrests 500 people at London solidarity protest</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122055400 +0800" stop="20260122055500 +0800" channel="spot on news">
+    <title lang="zh">In snow chaos: Plane skids off runway</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122055500 +0800" stop="20260122055600 +0800" channel="spot on news">
+    <title lang="zh">Sweden: Historic church in Kiruna must be relocated</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122055600 +0800" stop="20260122055600 +0800" channel="spot on news">
+    <title lang="zh">Kate Winslet and her son shine in elegant matching outfits</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122055600 +0800" stop="20260122055800 +0800" channel="spot on news">
+    <title lang="zh">Do women really feel the cold more? Myths about cold weather explained</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122055800 +0800" stop="20260122060100 +0800" channel="spot on news">
+    <title lang="zh">Grenade explodes: Police exercise ends fatally</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122060100 +0800" stop="20260122060200 +0800" channel="spot on news">
+    <title lang="zh">Emmy Awards: These stars shine at the awards ceremony</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122060200 +0800" stop="20260122060300 +0800" channel="spot on news">
+    <title lang="zh">Golden Globes 2026: The best looks from the red carpet</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122060300 +0800" stop="20260122060400 +0800" channel="spot on news">
+    <title lang="zh">Thailand: One dead after tourist boat slams into trawler</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122060400 +0800" stop="20260122060500 +0800" channel="spot on news">
+    <title lang="zh">St. Petersburg: Massive fire erupts at historic market</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122060500 +0800" stop="20260122060500 +0800" channel="spot on news">
+    <title lang="zh">Scary moment: Lightning strikes car</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122060500 +0800" stop="20260122060600 +0800" channel="spot on news">
+    <title lang="zh">Vondelkerk church in Amsterdam on fire</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122060600 +0800" stop="20260122060600 +0800" channel="spot on news">
+    <title lang="zh">Secret wedding video divides the Beckham family</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122060600 +0800" stop="20260122060900 +0800" channel="spot on news">
+    <title lang="zh">Parking fail of the year: Smart battles giant gap</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122060900 +0800" stop="20260122061000 +0800" channel="spot on news">
+    <title lang="zh">Super cute: kittens build a human ladder</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122061000 +0800" stop="20260122061000 +0800" channel="spot on news">
+    <title lang="zh">Bus crashes into a house : Man jumps out of the way at the last second</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122061000 +0800" stop="20260122061100 +0800" channel="spot on news">
+    <title lang="zh">Italy under water: Storms hit vacation regions hard</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122061100 +0800" stop="20260122061200 +0800" channel="spot on news">
+    <title lang="zh">Channing Tatum appears on the red carpet with his daughter Everly</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122061200 +0800" stop="20260122061400 +0800" channel="spot on news">
+    <title lang="zh">Celebrity offspring: These stars had babies in 2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122061400 +0800" stop="20260122061400 +0800" channel="spot on news">
+    <title lang="zh">"Mothership": Monstrous storm cloud passes over Kansas</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122061400 +0800" stop="20260122061500 +0800" channel="spot on news">
+    <title lang="zh">Like a Christmas star: Meteor lights up the night sky above Mount Fuji</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122061500 +0800" stop="20260122061700 +0800" channel="spot on news">
+    <title lang="zh">In Beijing museum: Child knocks gold crown off pedestal</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122061700 +0800" stop="20260122061800 +0800" channel="spot on news">
+    <title lang="zh">Heartwarming! Child brushes calf's teeth</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122061800 +0800" stop="20260122061800 +0800" channel="spot on news">
+    <title lang="zh">Russia: Antonov military transport plane breaks apart in midair</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122061800 +0800" stop="20260122061900 +0800" channel="spot on news">
+    <title lang="zh">At air show: Plane crashes and bursts into flames</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122061900 +0800" stop="20260122062000 +0800" channel="spot on news">
+    <title lang="zh">Kylie Jenner and Timothée Chalamet in love on the red carpet</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122062000 +0800" stop="20260122062000 +0800" channel="spot on news">
+    <title lang="zh">Transparent with low neckline: Hailey Bieber gives revealing glimpse</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122062000 +0800" stop="20260122062100 +0800" channel="spot on news">
+    <title lang="zh">TV star Brad Everett Young dies at age 46 after car accident</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122062100 +0800" stop="20260122062200 +0800" channel="spot on news">
+    <title lang="zh">Cute! Golden Retriever wants to jump into television</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122062200 +0800" stop="20260122062200 +0800" channel="spot on news">
+    <title lang="zh">State of Indiana: Mass pile-up caused by winter storm</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122062200 +0800" stop="20260122062300 +0800" channel="spot on news">
+    <title lang="zh">Leonardo DiCaprio: "We lost an absolute legend"</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122062300 +0800" stop="20260122062600 +0800" channel="spot on news">
+    <title lang="zh">Ideas for last-minute costumes for Halloween</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122062600 +0800" stop="20260122062700 +0800" channel="spot on news">
+    <title lang="zh">Shock at the airport: machine catches fire shortly before takeoff</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122062700 +0800" stop="20260122062700 +0800" channel="spot on news">
+    <title lang="zh">Drone show ends in chaos: shower of sparks hits spectators</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122062700 +0800" stop="20260122062800 +0800" channel="spot on news">
+    <title lang="zh">Cable car tragedy in Lisbon: Father among the victims</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122062800 +0800" stop="20260122062900 +0800" channel="spot on news">
+    <title lang="zh">Adorable! Timothée Chalamet cuddles with cute puppy</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122062900 +0800" stop="20260122062900 +0800" channel="spot on news">
+    <title lang="zh">Pink sky: Soccer stadium lights up Birmingham</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122062900 +0800" stop="20260122063000 +0800" channel="spot on news">
+    <title lang="zh">Louvre thieves: New video of the escape emerges</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122063000 +0800" stop="20260122063000 +0800" channel="spot on news">
+    <title lang="zh">Hellfire: Violent forest fires ravage Argentina</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122063000 +0800" stop="20260122063100 +0800" channel="spot on news">
+    <title lang="zh">From the fifth floor! Man jumps into huge pile of snow</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122063100 +0800" stop="20260122063200 +0800" channel="spot on news">
+    <title lang="zh">"Dances with Wolves" actor Graham Greene is dead</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122063200 +0800" stop="20260122063500 +0800" channel="spot on news">
+    <title lang="zh">Ruby Rose defends Taylor Swift and rails against "Wackadoodles"</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122063500 +0800" stop="20260122063500 +0800" channel="spot on news">
+    <title lang="zh">Cat rolls around in glitter makeup goes viral</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122063500 +0800" stop="20260122063600 +0800" channel="spot on news">
+    <title lang="zh">Louvre robbery: German company goes viral with advertising post</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122063600 +0800" stop="20260122063700 +0800" channel="spot on news">
+    <title lang="zh">Huge statue topples from its pedestal</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122063700 +0800" stop="20260122063700 +0800" channel="spot on news">
+    <title lang="zh">Mega explosion in Sydney: 150-meter-high fireball</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122063700 +0800" stop="20260122063800 +0800" channel="spot on news">
+    <title lang="zh">Escalator suddenly speeds up, causes panic at University</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122063800 +0800" stop="20260122064100 +0800" channel="spot on news">
+    <title lang="zh">These are the highest film salaries</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122064100 +0800" stop="20260122064300 +0800" channel="spot on news">
+    <title lang="zh">Halifax: Fire rips through large apartment complex</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122064300 +0800" stop="20260122064400 +0800" channel="spot on news">
+    <title lang="zh">Very motivated: Melania Trump receives Christmas tree for White House</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122064400 +0800" stop="20260122064500 +0800" channel="spot on news">
+    <title lang="zh">Taylor Swift's private words to Liam Payne are auctioned off</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122064500 +0800" stop="20260122064500 +0800" channel="spot on news">
+    <title lang="zh">Chaos in Cape Town: Chemical cloud forces mass evacuation</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122064500 +0800" stop="20260122064600 +0800" channel="spot on news">
+    <title lang="zh">At least 39 people die in train accident in Spain</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122064600 +0800" stop="20260122064700 +0800" channel="spot on news">
+    <title lang="zh">Madonna and daughter Lourdes: Joint appearance at Fashion Week</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122064700 +0800" stop="20260122064700 +0800" channel="spot on news">
+    <title lang="zh">Storm "Harry": Giant waves devastate Sicily</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122064700 +0800" stop="20260122064800 +0800" channel="spot on news">
+    <title lang="zh">Several stars gather at german media award</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122064800 +0800" stop="20260122064900 +0800" channel="spot on news">
+    <title lang="zh">Including a chocolate turkey: Heidi Klum's Thanksgiving delights fans</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122064900 +0800" stop="20260122065200 +0800" channel="spot on news">
+    <title lang="zh">Shock confession: Robbie Williams fears going blind</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122065200 +0800" stop="20260122065400 +0800" channel="spot on news">
+    <title lang="zh">Ten mistakes to avoid when baking cookies</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122065400 +0800" stop="20260122065500 +0800" channel="spot on news">
+    <title lang="zh">Crazy stunt: Duo rides horse through supermarket</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122065500 +0800" stop="20260122065500 +0800" channel="spot on news">
+    <title lang="zh">On the cliff: Old nuclear bunker about to collapse</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122065500 +0800" stop="20260122065600 +0800" channel="spot on news">
+    <title lang="zh">Colorado: Fire department rescues deer from ice</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122065600 +0800" stop="20260122065700 +0800" channel="spot on news">
+    <title lang="zh">Shock at animal show: Bear wrestles man to the ground</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122065700 +0800" stop="20260122065700 +0800" channel="spot on news">
+    <title lang="zh">Cologne Airport: Delayed passengers storm the runway</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122065700 +0800" stop="20260122070000 +0800" channel="spot on news">
+    <title lang="zh">Masked man shocks thousands of guests in Cologne Cathedral</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122070000 +0800" stop="20260122070000 +0800" channel="spot on news">
+    <title lang="zh">Burning minibus crashes into gas station</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122070000 +0800" stop="20260122070100 +0800" channel="spot on news">
+    <title lang="zh">Stolen car flies spectacularly over intersection</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122070100 +0800" stop="20260122070100 +0800" channel="spot on news">
+    <title lang="zh">Due to too much snow: shopping center collapses</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122070100 +0800" stop="20260122070200 +0800" channel="spot on news">
+    <title lang="zh">Not enough dessert: Wedding ends in chaotic brawl</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122070200 +0800" stop="20260122070300 +0800" channel="spot on news">
+    <title lang="zh">Jenna Ortega turns heads in a sheer dress</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122070300 +0800" stop="20260122070300 +0800" channel="spot on news">
+    <title lang="zh">Reception at Windsor Castle: Royals welcome the Trumps</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122070300 +0800" stop="20260122070400 +0800" channel="spot on news">
+    <title lang="zh">Colombian pop star Yeison Jiménez dies in plane crash</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122070400 +0800" stop="20260122070400 +0800" channel="spot on news">
+    <title lang="zh">Liam Hemsworth and Gabriella Brooks: Newly engaged on the red carpet</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122070400 +0800" stop="20260122070500 +0800" channel="spot on news">
+    <title lang="zh">Paraglider plunges 500 feet into the sea</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122070500 +0800" stop="20260122070500 +0800" channel="spot on news">
+    <title lang="zh">Terrifying crash in Fort Oglethorpe sends four to hospital</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122070500 +0800" stop="20260122070800 +0800" channel="spot on news">
+    <title lang="zh">Car drives into group: Deadly attack outside synagogue in Manchester</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122070800 +0800" stop="20260122070900 +0800" channel="spot on news">
+    <title lang="zh">Call of Duty creator Vince Zampella dies in Ferrari crash</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122070900 +0800" stop="20260122070900 +0800" channel="spot on news">
+    <title lang="zh">Construction crane collapses onto highway: Two people killed</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122070900 +0800" stop="20260122070900 +0800" channel="spot on news">
+    <title lang="zh">Plane crashes into the sea during air show</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122070900 +0800" stop="20260122071000 +0800" channel="spot on news">
+    <title lang="zh">Diane Keaton has died: Insiders open up about her health</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122071000 +0800" stop="20260122071100 +0800" channel="spot on news">
+    <title lang="zh">Two helicopters collide: one person dead and one injured</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122071100 +0800" stop="20260122071100 +0800" channel="spot on news">
+    <title lang="zh">Pamela Anderson surprises with a new look</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122071100 +0800" stop="20260122071200 +0800" channel="spot on news">
+    <title lang="zh">Naomi Watts receives star on the Walk of Fame</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122071200 +0800" stop="20260122071300 +0800" channel="spot on news">
+    <title lang="zh">Rachel McAdams surprises with rare appearance on the Walk of Fame</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122071300 +0800" stop="20260122071400 +0800" channel="spot on news">
+    <title lang="zh">Self-built: Man camps on rotating ice floe</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122071400 +0800" stop="20260122071600 +0800" channel="spot on news">
+    <title lang="zh">Truck catches fire and cannot brake</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122071600 +0800" stop="20260122071700 +0800" channel="spot on news">
+    <title lang="zh">New footage shows the development of the inferno in Hong Kong</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122071700 +0800" stop="20260122071800 +0800" channel="spot on news">
+    <title lang="zh">Data protection disaster! Ikea films thousands of customers paying</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122071800 +0800" stop="20260122071800 +0800" channel="spot on news">
+    <title lang="zh">Man gets stuck on giant American flag at NFL game</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122071800 +0800" stop="20260122071900 +0800" channel="spot on news">
+    <title lang="zh">Drone show ends in chaos: shower of sparks hits spectators</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260122071900 +0800" stop="20260122235959 +0800" channel="spot on news">
     <title lang="zh">節目未能提供</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -510564,10 +511072,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <title lang="zh">小山正在秀</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260121200000 +0000" stop="20260121210000 +0000" channel="中視">
-    <title lang="zh">MIT臺灣誌</title>
-    <desc lang="zh">「MIT臺灣誌」以發現臺灣、寫真臺灣、紀錄臺灣為主旨，走遍臺灣的每寸土地，介紹臺灣的人文環境、大自然地理等…</desc>
-  </programme>
   <programme start="20260121210000 +0000" stop="20260121220000 +0000" channel="中視">
     <title lang="zh">大陸尋奇</title>
     <desc lang="zh">您不必跋山涉水就可以將奇峯峻嶺壯闊山河盡收眼底，「大陸尋奇」不惜巨資的大製作足跡踏遍各現代城市，窮鄉僻壤，深入各民族村落，記錄了外人難得一見的生活情況，以準確的地理、歷史定位、用現代化思維，把中華文化忠實的呈現。</desc>
@@ -510947,10 +511451,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
   <programme start="20260125220000 +0000" stop="20260125230000 +0000" channel="中視">
     <title lang="zh">中視新聞</title>
     <desc lang="zh">由最專業的中視新聞主播，為您播報最新、最即時的新聞。</desc>
-  </programme>
-  <programme start="20260121200000 +0000" stop="20260121210000 +0000" channel="華視">
-    <title lang="zh">歡喜來逗陣</title>
-    <desc lang="zh">當石珊怡和黃輝宏帶著三個兒子和三個女兒們搬進新居時，他們就知道，身上流著黃、石傳人的宿命之血，要開始隨著這場戰爭沸騰了，黃、石兩家人居然住在一起，百年冤家重新聚首，新仇舊恨會為兩家人帶來什麼重大衝突呢？</desc>
   </programme>
   <programme start="20260121210000 +0000" stop="20260121220000 +0000" channel="華視">
     <title lang="zh">九如一家人</title>
@@ -511335,42 +511835,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
   <programme start="20260125220000 +0000" stop="20260125230000 +0000" channel="華視">
     <title lang="zh">三國演議</title>
     <desc lang="zh">華視新聞部製播新聞專題節目。由國際政經專家汪浩、日本產經新聞臺北支局長矢板明夫搭檔主持，深度講評最新國際政經重大事件，跳脫傳統政論談話節目的框架屬性。</desc>
-  </programme>
-  <programme start="20260121200000 +0000" stop="20260121210000 +0000" channel="好消息2臺">
-    <title lang="zh">大衛鮑森講座</title>
-    <desc lang="zh">聖經權威大衛鮑森牧師，帶你以宏觀的神學角度，觀看神偉大的神性與恩典，並從其中明白救恩計畫的重要。</desc>
-  </programme>
-  <programme start="20260121210000 +0000" stop="20260121210500 +0000" channel="好消息2臺">
-    <title lang="zh">恩典365</title>
-    <desc lang="zh">跟著寇紹恩牧師，每天五分鐘，領受上帝的話語，在實際生活中行出來，讓我們天天浸泡在上帝的愛和恩典裡面。</desc>
-  </programme>
-  <programme start="20260121210500 +0000" stop="20260121213000 +0000" channel="好消息2臺">
-    <title lang="zh">經典音樂河</title>
-    <desc lang="zh">古典聖詩具有歷久彌新、感人至深的迷人特質。即使經過百年，這些詩歌所蘊含的生命力，仍繼續向人們訴說上帝的榮耀作為和救贖恩典。</desc>
-  </programme>
-  <programme start="20260121213000 +0000" stop="20260121220000 +0000" channel="好消息2臺">
-    <title lang="zh">敬拜樂章</title>
-    <desc lang="zh">節目中的讚美詩歌，包括Praise，Integrity，Maranatha等現代詩歌及古典聖詩。讓觀眾在恬靜動人的歌聲中，進入美不勝收的世外桃源，默想神甘甜寶貴的話語。每個清晨，歡迎觀眾跟著本節目，展開一天的敬拜人生。</desc>
-  </programme>
-  <programme start="20260121220000 +0000" stop="20260121223000 +0000" channel="好消息2臺">
-    <title lang="zh">禱告大軍迎接復興</title>
-    <desc lang="zh">好消息電視臺為全球信徒提供一個大家共同禱告的園地，由來自各地的牧師帶領觀眾進行禱告，節選聖經中切合人生際遇的章節，為各位教友傳達神的旨意，灌溉心靈園地。</desc>
-  </programme>
-  <programme start="20260121223000 +0000" stop="20260121230000 +0000" channel="好消息2臺">
-    <title lang="zh">天堂敬拜</title>
-    <desc lang="zh">敬拜與禱告是基督徒生命中不可少的兩件事。新的一年，讓我們用敬拜與禱告翻開得勝的新篇章。</desc>
-  </programme>
-  <programme start="20260121230000 +0000" stop="20260121233000 +0000" channel="好消息2臺">
-    <title lang="zh">共享觀點</title>
-    <desc lang="zh">連結社羣、分享、行動的特色，藉著媒體平臺將聖經教導、基要真理落實在生活中。兩位主持人將在節目中以輕鬆對談的方式，討論年輕人關注的話題。</desc>
-  </programme>
-  <programme start="20260121233000 +0000" stop="20260122000000 +0000" channel="好消息2臺">
-    <title lang="zh">禱告大軍迎接復興</title>
-    <desc lang="zh">好消息電視臺為全球信徒提供一個大家共同禱告的園地，由來自各地的牧師帶領觀眾進行禱告，節選聖經中切合人生際遇的章節，為各位教友傳達神的旨意，灌溉心靈園地。</desc>
-  </programme>
-  <programme start="20260122000000 +0000" stop="20260122003000 +0000" channel="好消息2臺">
-    <title lang="zh">經典音樂河</title>
-    <desc lang="zh">古典聖詩具有歷久彌新、感人至深的迷人特質。即使經過百年，這些詩歌所蘊含的生命力，仍繼續向人們訴說上帝的榮耀作為和救贖恩典。</desc>
   </programme>
   <programme start="20260122003000 +0000" stop="20260122010000 +0000" channel="好消息2臺">
     <title lang="zh">空中聖經學院</title>
@@ -512144,45 +512608,181 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <title lang="zh">奔向標竿</title>
     <desc lang="zh">美國最具影響力的屬靈領袖之一，華理克(Rick Warren)牧師與馬鞍峯教會牧者團隊，與您一起攜手直奔屬天標竿，得著屬天獎賞！</desc>
   </programme>
-  <programme start="20260121200000 +0000" stop="20260121210000 +0000" channel="好消息">
-    <title lang="zh">真情部落格</title>
-    <desc lang="zh">廣受海內外觀眾歡迎的真情部落格，由知名主播夏嘉璐主持，莊信德牧師回應，透過每位來賓的生命見證幫助許多人走出低谷。相信神繼續透過真情部落格祝福這世代的華人。</desc>
+  <programme start="20260126080000 +0000" stop="20260126083000 +0000" channel="好消息2臺">
+    <title lang="zh">蟲蟲歷險記</title>
+    <desc lang="zh">這是一部寓教於樂的卡通，為聖經故事增添些許趣味。聖經故事的主角是人類，但人類腳下是一片迷你世界，住著許多和善的蟲蟲。本系列卡通不僅有各種可愛的蟲蟲角色，還有許多有趣，富教育意義的歷險故事。蟲蟲的小小社會與聖經人物的世界偶爾交錯邂逅，產生刺激、驚險、意想不到的效果。</desc>
   </programme>
-  <programme start="20260121210000 +0000" stop="20260121213000 +0000" channel="好消息">
-    <title lang="zh">禱告大軍迎接復興</title>
-    <desc lang="zh">好消息電視臺為全球信徒提供一個大家共同禱告的園地，由來自各地的牧師帶領觀眾進行禱告，節選聖經中切合人生際遇的章節，為各位教友傳達神的旨意，灌溉心靈園地。</desc>
-  </programme>
-  <programme start="20260121213000 +0000" stop="20260121220000 +0000" channel="好消息">
+  <programme start="20260126083000 +0000" stop="20260126090000 +0000" channel="好消息2臺">
     <title lang="zh">空中聖經學院</title>
     <desc lang="zh">由GOOD TV和中華福音神學院共同製作推出。這是歷史性的一刻，神的話語要透過衛星傳送至全世界，實現平信徒神學教育之夢。</desc>
   </programme>
-  <programme start="20260121220000 +0000" stop="20260121221200 +0000" channel="好消息">
-    <title lang="zh">來 跳讚美操</title>
-    <desc lang="zh">從原本兩位近70歲的退休長輩，在榮星公園，以聖經經文搭配音樂旋律及肢體動作，讓聖經變成舞蹈，這項由國際讚美操董事長吳美雲老師自創的體操運動，20年後跳到全臺，也跳到亞洲、跳到全世界二十幾個國家。</desc>
+  <programme start="20260126090000 +0000" stop="20260126100000 +0000" channel="好消息2臺">
+    <title lang="zh">大衛鮑森講座</title>
+    <desc lang="zh">聖經權威大衛鮑森牧師，帶你以宏觀的神學角度，觀看神偉大的神性與恩典，並從其中明白救恩計畫的重要。</desc>
   </programme>
-  <programme start="20260121221200 +0000" stop="20260121222500 +0000" channel="好消息">
-    <title lang="zh">來 跳讚美操</title>
-    <desc lang="zh">從原本兩位近70歲的退休長輩，在榮星公園，以聖經經文搭配音樂旋律及肢體動作，讓聖經變成舞蹈，這項由國際讚美操董事長吳美雲老師自創的體操運動，20年後跳到全臺，也跳到亞洲、跳到全世界二十幾個國家。</desc>
+  <programme start="20260126100000 +0000" stop="20260126103000 +0000" channel="好消息2臺">
+    <title lang="zh">共享觀點</title>
+    <desc lang="zh">連結社羣、分享、行動的特色，藉著媒體平臺將聖經教導、基要真理落實在生活中。兩位主持人將在節目中以輕鬆對談的方式，討論年輕人關注的話題。</desc>
   </programme>
-  <programme start="20260121222500 +0000" stop="20260121223000 +0000" channel="好消息">
+  <programme start="20260126103000 +0000" stop="20260126110000 +0000" channel="好消息2臺">
+    <title lang="zh">寇住幸福</title>
+    <desc lang="zh">因現代人娛樂方式改變，媒體宣教更成為重要的傳福音管道。GOOD TV發現如今有更多人駐足在網路上，因此投入製作合乎網路媒體特性的節目，《寇住幸福》應運而生！由寇紹恩牧師主持，節目結合精彩的家庭生活短劇、動人的詩歌音樂與信息分享。</desc>
+  </programme>
+  <programme start="20260126110000 +0000" stop="20260126115000 +0000" channel="好消息2臺">
+    <title lang="zh">家庭８點檔轉轉發現愛</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126115000 +0000" stop="20260126120000 +0000" channel="好消息2臺">
+    <title lang="zh">機智青年生活</title>
+    <desc lang="zh">這不是韓劇，而是正上演的一齣充滿血淚與美好友誼的熱血植堂連續劇 ！旌旗好生活邀請到三對青年牧師CP，來聊聊由上帝導演，引領青年教會及一羣青年團隊，經歷瘋狂又精彩的植堂人生！</desc>
+  </programme>
+  <programme start="20260126120000 +0000" stop="20260126120500 +0000" channel="好消息2臺">
+    <title lang="zh">遇見祝福</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126120500 +0000" stop="20260126130000 +0000" channel="好消息2臺">
+    <title lang="zh">真情部落格</title>
+    <desc lang="zh">廣受海內外觀眾歡迎的真情部落格，由知名主播夏嘉璐主持，莊信德牧師回應，透過每位來賓的生命見證幫助許多人走出低谷。相信神繼續透過真情部落格祝福這世代的華人。</desc>
+  </programme>
+  <programme start="20260126130000 +0000" stop="20260126140000 +0000" channel="好消息2臺">
+    <title lang="zh">道在人間(國)</title>
+    <desc lang="zh">節目中邀請趙鏞基、葉光明、傑克海福德、喬依絲邁爾等，國內外知名牧長，以豐富的服事經歷與紮實的神學裝備，教導、傳講聖經真道，堅固信徒並警醒人心。</desc>
+  </programme>
+  <programme start="20260126140000 +0000" stop="20260126150000 +0000" channel="好消息2臺">
+    <title lang="zh">奔向標竿</title>
+    <desc lang="zh">美國最具影響力的屬靈領袖之一，華理克(Rick Warren)牧師與馬鞍峯教會牧者團隊，與您一起攜手直奔屬天標竿，得著屬天獎賞！</desc>
+  </programme>
+  <programme start="20260126150000 +0000" stop="20260126152000 +0000" channel="好消息2臺">
+    <title lang="zh">經典音樂河</title>
+    <desc lang="zh">古典聖詩具有歷久彌新、感人至深的迷人特質。即使經過百年，這些詩歌所蘊含的生命力，仍繼續向人們訴說上帝的榮耀作為和救贖恩典。</desc>
+  </programme>
+  <programme start="20260126152000 +0000" stop="20260126153000 +0000" channel="好消息2臺">
+    <title lang="zh">愛我們的家</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126153000 +0000" stop="20260126160000 +0000" channel="好消息2臺">
+    <title lang="zh">寇住幸福</title>
+    <desc lang="zh">因現代人娛樂方式改變，媒體宣教更成為重要的傳福音管道。GOOD TV發現如今有更多人駐足在網路上，因此投入製作合乎網路媒體特性的節目，《寇住幸福》應運而生！由寇紹恩牧師主持，節目結合精彩的家庭生活短劇、動人的詩歌音樂與信息分享。</desc>
+  </programme>
+  <programme start="20260126160000 +0000" stop="20260126161500 +0000" channel="好消息2臺">
+    <title lang="zh">經典音樂河</title>
+    <desc lang="zh">古典聖詩具有歷久彌新、感人至深的迷人特質。即使經過百年，這些詩歌所蘊含的生命力，仍繼續向人們訴說上帝的榮耀作為和救贖恩典。</desc>
+  </programme>
+  <programme start="20260126161500 +0000" stop="20260126164500 +0000" channel="好消息2臺">
+    <title lang="zh">禱告大軍迎接復興</title>
+    <desc lang="zh">好消息電視臺為全球信徒提供一個大家共同禱告的園地，由來自各地的牧師帶領觀眾進行禱告，節選聖經中切合人生際遇的章節，為各位教友傳達神的旨意，灌溉心靈園地。</desc>
+  </programme>
+  <programme start="20260126164500 +0000" stop="20260126165500 +0000" channel="好消息2臺">
     <title lang="zh">恩典365</title>
     <desc lang="zh">跟著寇紹恩牧師，每天五分鐘，領受上帝的話語，在實際生活中行出來，讓我們天天浸泡在上帝的愛和恩典裡面。</desc>
   </programme>
-  <programme start="20260121223000 +0000" stop="20260121230000 +0000" channel="好消息">
-    <title lang="zh">陸可鐸時間</title>
+  <programme start="20260126165500 +0000" stop="20260126170000 +0000" channel="好消息2臺">
+    <title lang="zh">遇見祝福</title>
     <desc lang="zh">暫無描述</desc>
   </programme>
-  <programme start="20260121230000 +0000" stop="20260121233000 +0000" channel="好消息">
+  <programme start="20260126170000 +0000" stop="20260126175000 +0000" channel="好消息2臺">
+    <title lang="zh">家庭８點檔轉轉發現愛</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126175000 +0000" stop="20260126180000 +0000" channel="好消息2臺">
+    <title lang="zh">機智青年生活</title>
+    <desc lang="zh">這不是韓劇，而是正上演的一齣充滿血淚與美好友誼的熱血植堂連續劇 ！旌旗好生活邀請到三對青年牧師CP，來聊聊由上帝導演，引領青年教會及一羣青年團隊，經歷瘋狂又精彩的植堂人生！</desc>
+  </programme>
+  <programme start="20260126180000 +0000" stop="20260126190000 +0000" channel="好消息2臺">
+    <title lang="zh">道在人間(國)</title>
+    <desc lang="zh">節目中邀請趙鏞基、葉光明、傑克海福德、喬依絲邁爾等，國內外知名牧長，以豐富的服事經歷與紮實的神學裝備，教導、傳講聖經真道，堅固信徒並警醒人心。</desc>
+  </programme>
+  <programme start="20260126190000 +0000" stop="20260126193000 +0000" channel="好消息2臺">
+    <title lang="zh">空中聖經學院</title>
+    <desc lang="zh">由GOOD TV和中華福音神學院共同製作推出。這是歷史性的一刻，神的話語要透過衛星傳送至全世界，實現平信徒神學教育之夢。</desc>
+  </programme>
+  <programme start="20260126193000 +0000" stop="20260126200000 +0000" channel="好消息2臺">
+    <title lang="zh">生命的觸動</title>
+    <desc lang="zh">在像是查爾斯史丹利牧師等知名事工或牧師引領下，帶領教友導讀聖經，以深入淺出的話語，引用聖經中的智慧，宣揚上帝啟示。</desc>
+  </programme>
+  <programme start="20260126200000 +0000" stop="20260126210000 +0000" channel="好消息2臺">
+    <title lang="zh">大衛鮑森講座</title>
+    <desc lang="zh">聖經權威大衛鮑森牧師，帶你以宏觀的神學角度，觀看神偉大的神性與恩典，並從其中明白救恩計畫的重要。</desc>
+  </programme>
+  <programme start="20260126210000 +0000" stop="20260126210500 +0000" channel="好消息2臺">
+    <title lang="zh">恩典365</title>
+    <desc lang="zh">跟著寇紹恩牧師，每天五分鐘，領受上帝的話語，在實際生活中行出來，讓我們天天浸泡在上帝的愛和恩典裡面。</desc>
+  </programme>
+  <programme start="20260126210500 +0000" stop="20260126213000 +0000" channel="好消息2臺">
+    <title lang="zh">經典音樂河</title>
+    <desc lang="zh">古典聖詩具有歷久彌新、感人至深的迷人特質。即使經過百年，這些詩歌所蘊含的生命力，仍繼續向人們訴說上帝的榮耀作為和救贖恩典。</desc>
+  </programme>
+  <programme start="20260126213000 +0000" stop="20260126220000 +0000" channel="好消息2臺">
+    <title lang="zh">敬拜樂章</title>
+    <desc lang="zh">節目中的讚美詩歌，包括Praise，Integrity，Maranatha等現代詩歌及古典聖詩。讓觀眾在恬靜動人的歌聲中，進入美不勝收的世外桃源，默想神甘甜寶貴的話語。每個清晨，歡迎觀眾跟著本節目，展開一天的敬拜人生。</desc>
+  </programme>
+  <programme start="20260126220000 +0000" stop="20260126223000 +0000" channel="好消息2臺">
     <title lang="zh">禱告大軍迎接復興</title>
     <desc lang="zh">好消息電視臺為全球信徒提供一個大家共同禱告的園地，由來自各地的牧師帶領觀眾進行禱告，節選聖經中切合人生際遇的章節，為各位教友傳達神的旨意，灌溉心靈園地。</desc>
   </programme>
-  <programme start="20260121233000 +0000" stop="20260122000000 +0000" channel="好消息">
-    <title lang="zh">空中主日學</title>
-    <desc lang="zh">暫無描述</desc>
+  <programme start="20260126223000 +0000" stop="20260126230000 +0000" channel="好消息2臺">
+    <title lang="zh">天堂敬拜</title>
+    <desc lang="zh">敬拜與禱告是基督徒生命中不可少的兩件事。新的一年，讓我們用敬拜與禱告翻開得勝的新篇章。</desc>
   </programme>
-  <programme start="20260122000000 +0000" stop="20260122003000 +0000" channel="好消息">
+  <programme start="20260126230000 +0000" stop="20260126233000 +0000" channel="好消息2臺">
+    <title lang="zh">共享觀點</title>
+    <desc lang="zh">連結社羣、分享、行動的特色，藉著媒體平臺將聖經教導、基要真理落實在生活中。兩位主持人將在節目中以輕鬆對談的方式，討論年輕人關注的話題。</desc>
+  </programme>
+  <programme start="20260126233000 +0000" stop="20260127000000 +0000" channel="好消息2臺">
     <title lang="zh">禱告大軍迎接復興</title>
     <desc lang="zh">好消息電視臺為全球信徒提供一個大家共同禱告的園地，由來自各地的牧師帶領觀眾進行禱告，節選聖經中切合人生際遇的章節，為各位教友傳達神的旨意，灌溉心靈園地。</desc>
+  </programme>
+  <programme start="20260127000000 +0000" stop="20260127003000 +0000" channel="好消息2臺">
+    <title lang="zh">經典音樂河</title>
+    <desc lang="zh">古典聖詩具有歷久彌新、感人至深的迷人特質。即使經過百年，這些詩歌所蘊含的生命力，仍繼續向人們訴說上帝的榮耀作為和救贖恩典。</desc>
+  </programme>
+  <programme start="20260127003000 +0000" stop="20260127010000 +0000" channel="好消息2臺">
+    <title lang="zh">空中聖經學院</title>
+    <desc lang="zh">由GOOD TV和中華福音神學院共同製作推出。這是歷史性的一刻，神的話語要透過衛星傳送至全世界，實現平信徒神學教育之夢。</desc>
+  </programme>
+  <programme start="20260127010000 +0000" stop="20260127020000 +0000" channel="好消息2臺">
+    <title lang="zh">大衛鮑森講座</title>
+    <desc lang="zh">聖經權威大衛鮑森牧師，帶你以宏觀的神學角度，觀看神偉大的神性與恩典，並從其中明白救恩計畫的重要。</desc>
+  </programme>
+  <programme start="20260127020000 +0000" stop="20260127023000 +0000" channel="好消息2臺">
+    <title lang="zh">生命轉折點</title>
+    <desc lang="zh">大衛耶利米牧師以其精闢、嚴謹、深入淺出的證道內容為基礎，傳遞上帝永不改變的真理。</desc>
+  </programme>
+  <programme start="20260127023000 +0000" stop="20260127030000 +0000" channel="好消息2臺">
+    <title lang="zh">生命導航</title>
+    <desc lang="zh">GOOD TV中英雙語講道節目，由美國生命教會創辦人暨主任牧師克雷葛羅雪主講。集集精彩，分秒扎心！</desc>
+  </programme>
+  <programme start="20260127030000 +0000" stop="20260127040000 +0000" channel="好消息2臺">
+    <title lang="zh">道在人間(國)</title>
+    <desc lang="zh">節目中邀請趙鏞基、葉光明、傑克海福德、喬依絲邁爾等，國內外知名牧長，以豐富的服事經歷與紮實的神學裝備，教導、傳講聖經真道，堅固信徒並警醒人心。</desc>
+  </programme>
+  <programme start="20260127040000 +0000" stop="20260127040500 +0000" channel="好消息2臺">
+    <title lang="zh">遇見祝福</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260127040500 +0000" stop="20260127050000 +0000" channel="好消息2臺">
+    <title lang="zh">真情部落格</title>
+    <desc lang="zh">廣受海內外觀眾歡迎的真情部落格，由知名主播夏嘉璐主持，莊信德牧師回應，透過每位來賓的生命見證幫助許多人走出低谷。相信神繼續透過真情部落格祝福這世代的華人。</desc>
+  </programme>
+  <programme start="20260127050000 +0000" stop="20260127055000 +0000" channel="好消息2臺">
+    <title lang="zh">家庭８點檔轉轉發現愛</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260127055000 +0000" stop="20260127060000 +0000" channel="好消息2臺">
+    <title lang="zh">機智青年生活</title>
+    <desc lang="zh">這不是韓劇，而是正上演的一齣充滿血淚與美好友誼的熱血植堂連續劇 ！旌旗好生活邀請到三對青年牧師CP，來聊聊由上帝導演，引領青年教會及一羣青年團隊，經歷瘋狂又精彩的植堂人生！</desc>
+  </programme>
+  <programme start="20260127060000 +0000" stop="20260127070000 +0000" channel="好消息2臺">
+    <title lang="zh">特會</title>
+    <desc lang="zh">以造就、培靈與更新為宗旨，邀請來自世界各國的知名佈道牧師，為信徒傳遞神國信息，挑望靈火，奮興眾人！為信徒提供一個提升性靈的園地。(資料來源：GOOD TV)</desc>
+  </programme>
+  <programme start="20260127070000 +0000" stop="20260127073000 +0000" channel="好消息2臺">
+    <title lang="zh">生命導航</title>
+    <desc lang="zh">GOOD TV中英雙語講道節目，由美國生命教會創辦人暨主任牧師克雷葛羅雪主講。集集精彩，分秒扎心！</desc>
+  </programme>
+  <programme start="20260127073000 +0000" stop="20260127080000 +0000" channel="好消息2臺">
+    <title lang="zh">福氣人生</title>
+    <desc lang="zh">如何才能擁有福氣人生?看牧師們以臺語分享聖經的真理，讓你領受天國滿滿的福氣與祝福。</desc>
   </programme>
   <programme start="20260122003000 +0000" stop="20260122010000 +0000" channel="好消息">
     <title lang="zh">救恩之光</title>
@@ -512932,9 +513532,217 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <title lang="zh">道在人間(國)</title>
     <desc lang="zh">節目中邀請趙鏞基、葉光明、傑克海福德、喬依絲邁爾等，國內外知名牧長，以豐富的服事經歷與紮實的神學裝備，教導、傳講聖經真道，堅固信徒並警醒人心。</desc>
   </programme>
-  <programme start="20260121200000 +0000" stop="20260121210000 +0000" channel="亞洲旅遊臺">
-    <title lang="zh">效廉出發吧</title>
-    <desc lang="zh">東森超視全新外景旅遊實境綜藝節目，由跨世代人夫許效舜、威廉攜手主持。兩位私交甚篤的知己好友，將在節目中分享彼此人生故事，帶觀眾深入瞭解每個城鎮獨有的歷史人文，探索每個地方的特色美食生活。一段見證男人友誼的旅行，就此展開！</desc>
+  <programme start="20260126080000 +0000" stop="20260126083000 +0000" channel="好消息">
+    <title lang="zh">健康新煮流</title>
+    <desc lang="zh">開創夫妻同廚同煮潮流的KC夫婦，繼《健康醫食代》後，走出攝影棚，帶大家全臺走透透，發掘上帝賞賜的美味食材，內容融合新加坡南洋風和客家純樸味，加上臺灣獨特的閩南風情，互相激盪交織出的火花，打造出獨一無二的美食節目。</desc>
+  </programme>
+  <programme start="20260126083000 +0000" stop="20260126090000 +0000" channel="好消息">
+    <title lang="zh">愛＋好醫生</title>
+    <desc lang="zh">結合醫療專業及全人關懷的新型態節目，主持人黃瑽寧醫師親訪家庭，跨領域醫療顧問團全方位檢視，提供最完整、實用和正確的資訊來守護孩子的健康。</desc>
+  </programme>
+  <programme start="20260126090000 +0000" stop="20260126093000 +0000" channel="好消息">
+    <title lang="zh">大家說英語</title>
+    <desc lang="zh">將最受歡迎的美語生活會話雜誌《大家說英語》內容製作成電視教學節目，教學輕鬆活潑，以生活實用會話為單元主題，是新聞局推薦的優質節目。不僅能幫助您輕鬆開口說英語，更提供許多實用的英語語彙與技巧，讓您用簡單的單字，就能說一口漂亮英語。</desc>
+  </programme>
+  <programme start="20260126093000 +0000" stop="20260126093700 +0000" channel="好消息">
+    <title lang="zh">山姆與茱莉亞</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126093700 +0000" stop="20260126094500 +0000" channel="好消息">
+    <title lang="zh">山姆與茱莉亞</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126094500 +0000" stop="20260126100000 +0000" channel="好消息">
+    <title lang="zh">派特森與芬達貓</title>
+    <desc lang="zh">派特森是一位頑固的老頭，他不喜歡和人相處，直到小貓芬達斯的出現；芬達貓是隻淘氣又自以為是的小貓，不過這卻為派森的生活及農場帶來了更多的歡樂...</desc>
+  </programme>
+  <programme start="20260126100000 +0000" stop="20260126103000 +0000" channel="好消息">
+    <title lang="zh">福氣人生</title>
+    <desc lang="zh">如何才能擁有福氣人生?看牧師們以臺語分享聖經的真理，讓你領受天國滿滿的福氣與祝福。</desc>
+  </programme>
+  <programme start="20260126103000 +0000" stop="20260126110000 +0000" channel="好消息">
+    <title lang="zh">健康新煮流</title>
+    <desc lang="zh">開創夫妻同廚同煮潮流的KC夫婦，繼《健康醫食代》後，走出攝影棚，帶大家全臺走透透，發掘上帝賞賜的美味食材，內容融合新加坡南洋風和客家純樸味，加上臺灣獨特的閩南風情，互相激盪交織出的火花，打造出獨一無二的美食節目。</desc>
+  </programme>
+  <programme start="20260126110000 +0000" stop="20260126111500 +0000" channel="好消息">
+    <title lang="zh">今天不講理</title>
+    <desc lang="zh">在有理說不清的世代，我們今天用「不講理」的方式，卻能在生活裡大大小小的事情中，透過體驗與學習找到真理。每集節目由主持人柳子駿牧師，經由參與各式各樣的生活體驗，及與形形色色的來賓互動，讓大家看到牧師不一樣的一面。今天，他走下講臺、走上街頭，走出教會、走入社會；以牧師的眼光看世界！</desc>
+  </programme>
+  <programme start="20260126111500 +0000" stop="20260126113000 +0000" channel="好消息">
+    <title lang="zh">今天不講理</title>
+    <desc lang="zh">在有理說不清的世代，我們今天用「不講理」的方式，卻能在生活裡大大小小的事情中，透過體驗與學習找到真理。每集節目由主持人柳子駿牧師，經由參與各式各樣的生活體驗，及與形形色色的來賓互動，讓大家看到牧師不一樣的一面。今天，他走下講臺、走上街頭，走出教會、走入社會；以牧師的眼光看世界！</desc>
+  </programme>
+  <programme start="20260126113000 +0000" stop="20260126120000 +0000" channel="好消息">
+    <title lang="zh">愛＋好醫生</title>
+    <desc lang="zh">結合醫療專業及全人關懷的新型態節目，主持人黃瑽寧醫師親訪家庭，跨領域醫療顧問團全方位檢視，提供最完整、實用和正確的資訊來守護孩子的健康。</desc>
+  </programme>
+  <programme start="20260126120000 +0000" stop="20260126125000 +0000" channel="好消息">
+    <title lang="zh">家庭８點檔轉轉發現愛</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126125000 +0000" stop="20260126130000 +0000" channel="好消息">
+    <title lang="zh">愛我們的家</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126130000 +0000" stop="20260126130500 +0000" channel="好消息">
+    <title lang="zh">維他命施</title>
+    <desc lang="zh">出版超過二十多本暢銷書的作家施以諾，擅長傳遞激勵人心的小故事。《維他命施》針對年輕人，職場青年所設計的節目，短短三分鐘，帶給您滿滿的正能量。</desc>
+  </programme>
+  <programme start="20260126130500 +0000" stop="20260126140000 +0000" channel="好消息">
+    <title lang="zh">真情部落格</title>
+    <desc lang="zh">廣受海內外觀眾歡迎的真情部落格，由知名主播夏嘉璐主持，莊信德牧師回應，透過每位來賓的生命見證幫助許多人走出低谷。相信神繼續透過真情部落格祝福這世代的華人。</desc>
+  </programme>
+  <programme start="20260126140000 +0000" stop="20260126143000 +0000" channel="好消息">
+    <title lang="zh">豐盛人生</title>
+    <desc lang="zh">基督徒必看節目，特邀國內外講員，為教友帶來精闢信息，傳達神的信息。</desc>
+  </programme>
+  <programme start="20260126143000 +0000" stop="20260126150000 +0000" channel="好消息">
+    <title lang="zh">生命的觸動</title>
+    <desc lang="zh">在像是查爾斯史丹利牧師等知名事工或牧師引領下，帶領教友導讀聖經，以深入淺出的話語，引用聖經中的智慧，宣揚上帝啟示。</desc>
+  </programme>
+  <programme start="20260126150000 +0000" stop="20260126160000 +0000" channel="好消息">
+    <title lang="zh">神選之人</title>
+    <desc lang="zh">改編自耶穌生平。以聖經故事為根基，背景設定於西元一世紀的以色列，在猶太人受到羅馬政府壓迫的環境下，讓觀眾看見一個有別於過往以耶穌為主軸的信仰影集，透過那些「遇見耶穌之人的雙眼」來描繪耶穌的生活和行事。</desc>
+  </programme>
+  <programme start="20260126160000 +0000" stop="20260126163000 +0000" channel="好消息">
+    <title lang="zh">寇住幸福</title>
+    <desc lang="zh">因現代人娛樂方式改變，媒體宣教更成為重要的傳福音管道。GOOD TV發現如今有更多人駐足在網路上，因此投入製作合乎網路媒體特性的節目，《寇住幸福》應運而生！由寇紹恩牧師主持，節目結合精彩的家庭生活短劇、動人的詩歌音樂與信息分享。</desc>
+  </programme>
+  <programme start="20260126163000 +0000" stop="20260126163500 +0000" channel="好消息">
+    <title lang="zh">遇見祝福</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126163500 +0000" stop="20260126173000 +0000" channel="好消息">
+    <title lang="zh">真情部落格</title>
+    <desc lang="zh">廣受海內外觀眾歡迎的真情部落格，由知名主播夏嘉璐主持，莊信德牧師回應，透過每位來賓的生命見證幫助許多人走出低谷。相信神繼續透過真情部落格祝福這世代的華人。</desc>
+  </programme>
+  <programme start="20260126173000 +0000" stop="20260126180000 +0000" channel="好消息">
+    <title lang="zh">福氣人生</title>
+    <desc lang="zh">如何才能擁有福氣人生?看牧師們以臺語分享聖經的真理，讓你領受天國滿滿的福氣與祝福。</desc>
+  </programme>
+  <programme start="20260126180000 +0000" stop="20260126180500 +0000" channel="好消息">
+    <title lang="zh">恩典365</title>
+    <desc lang="zh">跟著寇紹恩牧師，每天五分鐘，領受上帝的話語，在實際生活中行出來，讓我們天天浸泡在上帝的愛和恩典裡面。</desc>
+  </programme>
+  <programme start="20260126180500 +0000" stop="20260126183000 +0000" channel="好消息">
+    <title lang="zh">經典音樂河</title>
+    <desc lang="zh">古典聖詩具有歷久彌新、感人至深的迷人特質。即使經過百年，這些詩歌所蘊含的生命力，仍繼續向人們訴說上帝的榮耀作為和救贖恩典。</desc>
+  </programme>
+  <programme start="20260126183000 +0000" stop="20260126190000 +0000" channel="好消息">
+    <title lang="zh">恩雨之聲</title>
+    <desc lang="zh">由梁燕城博士和譚品立牧師共同主持，帶領觀眾走訪世界各地，廣覽基督教遺跡，深度探討文化根源，浩瀚風光，令人眼界大開。（GOODTV提供）</desc>
+  </programme>
+  <programme start="20260126190000 +0000" stop="20260126193000 +0000" channel="好消息">
+    <title lang="zh">豐盛人生</title>
+    <desc lang="zh">基督徒必看節目，特邀國內外講員，為教友帶來精闢信息，傳達神的信息。</desc>
+  </programme>
+  <programme start="20260126193000 +0000" stop="20260126200000 +0000" channel="好消息">
+    <title lang="zh">生命轉折點</title>
+    <desc lang="zh">大衛耶利米牧師以其精闢、嚴謹、深入淺出的證道內容為基礎，傳遞上帝永不改變的真理。</desc>
+  </programme>
+  <programme start="20260126200000 +0000" stop="20260126210000 +0000" channel="好消息">
+    <title lang="zh">真情部落格</title>
+    <desc lang="zh">廣受海內外觀眾歡迎的真情部落格，由知名主播夏嘉璐主持，莊信德牧師回應，透過每位來賓的生命見證幫助許多人走出低谷。相信神繼續透過真情部落格祝福這世代的華人。</desc>
+  </programme>
+  <programme start="20260126210000 +0000" stop="20260126213000 +0000" channel="好消息">
+    <title lang="zh">禱告大軍迎接復興</title>
+    <desc lang="zh">好消息電視臺為全球信徒提供一個大家共同禱告的園地，由來自各地的牧師帶領觀眾進行禱告，節選聖經中切合人生際遇的章節，為各位教友傳達神的旨意，灌溉心靈園地。</desc>
+  </programme>
+  <programme start="20260126213000 +0000" stop="20260126220000 +0000" channel="好消息">
+    <title lang="zh">空中聖經學院</title>
+    <desc lang="zh">由GOOD TV和中華福音神學院共同製作推出。這是歷史性的一刻，神的話語要透過衛星傳送至全世界，實現平信徒神學教育之夢。</desc>
+  </programme>
+  <programme start="20260126220000 +0000" stop="20260126221200 +0000" channel="好消息">
+    <title lang="zh">來 跳讚美操</title>
+    <desc lang="zh">從原本兩位近70歲的退休長輩，在榮星公園，以聖經經文搭配音樂旋律及肢體動作，讓聖經變成舞蹈，這項由國際讚美操董事長吳美雲老師自創的體操運動，20年後跳到全臺，也跳到亞洲、跳到全世界二十幾個國家。</desc>
+  </programme>
+  <programme start="20260126221200 +0000" stop="20260126222500 +0000" channel="好消息">
+    <title lang="zh">來 跳讚美操</title>
+    <desc lang="zh">從原本兩位近70歲的退休長輩，在榮星公園，以聖經經文搭配音樂旋律及肢體動作，讓聖經變成舞蹈，這項由國際讚美操董事長吳美雲老師自創的體操運動，20年後跳到全臺，也跳到亞洲、跳到全世界二十幾個國家。</desc>
+  </programme>
+  <programme start="20260126222500 +0000" stop="20260126223000 +0000" channel="好消息">
+    <title lang="zh">恩典365</title>
+    <desc lang="zh">跟著寇紹恩牧師，每天五分鐘，領受上帝的話語，在實際生活中行出來，讓我們天天浸泡在上帝的愛和恩典裡面。</desc>
+  </programme>
+  <programme start="20260126223000 +0000" stop="20260126230000 +0000" channel="好消息">
+    <title lang="zh">生命導航</title>
+    <desc lang="zh">GOOD TV中英雙語講道節目，由美國生命教會創辦人暨主任牧師克雷葛羅雪主講。集集精彩，分秒扎心！</desc>
+  </programme>
+  <programme start="20260126230000 +0000" stop="20260126233000 +0000" channel="好消息">
+    <title lang="zh">禱告大軍迎接復興</title>
+    <desc lang="zh">好消息電視臺為全球信徒提供一個大家共同禱告的園地，由來自各地的牧師帶領觀眾進行禱告，節選聖經中切合人生際遇的章節，為各位教友傳達神的旨意，灌溉心靈園地。</desc>
+  </programme>
+  <programme start="20260126233000 +0000" stop="20260127000000 +0000" channel="好消息">
+    <title lang="zh">空中主日學</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260127000000 +0000" stop="20260127003000 +0000" channel="好消息">
+    <title lang="zh">禱告大軍迎接復興</title>
+    <desc lang="zh">好消息電視臺為全球信徒提供一個大家共同禱告的園地，由來自各地的牧師帶領觀眾進行禱告，節選聖經中切合人生際遇的章節，為各位教友傳達神的旨意，灌溉心靈園地。</desc>
+  </programme>
+  <programme start="20260127003000 +0000" stop="20260127010000 +0000" channel="好消息">
+    <title lang="zh">豐盛人生</title>
+    <desc lang="zh">基督徒必看節目，特邀國內外講員，為教友帶來精闢信息，傳達神的信息。</desc>
+  </programme>
+  <programme start="20260127010000 +0000" stop="20260127010500 +0000" channel="好消息">
+    <title lang="zh">遇見祝福</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260127010500 +0000" stop="20260127020000 +0000" channel="好消息">
+    <title lang="zh">真情部落格</title>
+    <desc lang="zh">廣受海內外觀眾歡迎的真情部落格，由知名主播夏嘉璐主持，莊信德牧師回應，透過每位來賓的生命見證幫助許多人走出低谷。相信神繼續透過真情部落格祝福這世代的華人。</desc>
+  </programme>
+  <programme start="20260127020000 +0000" stop="20260127025000 +0000" channel="好消息">
+    <title lang="zh">家庭８點檔轉轉發現愛</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260127025000 +0000" stop="20260127030000 +0000" channel="好消息">
+    <title lang="zh">愛我們的家</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260127030000 +0000" stop="20260127033000 +0000" channel="好消息">
+    <title lang="zh">愛＋好醫生</title>
+    <desc lang="zh">結合醫療專業及全人關懷的新型態節目，主持人黃瑽寧醫師親訪家庭，跨領域醫療顧問團全方位檢視，提供最完整、實用和正確的資訊來守護孩子的健康。</desc>
+  </programme>
+  <programme start="20260127033000 +0000" stop="20260127034500 +0000" channel="好消息">
+    <title lang="zh">經典音樂河</title>
+    <desc lang="zh">古典聖詩具有歷久彌新、感人至深的迷人特質。即使經過百年，這些詩歌所蘊含的生命力，仍繼續向人們訴說上帝的榮耀作為和救贖恩典。</desc>
+  </programme>
+  <programme start="20260127034500 +0000" stop="20260127040000 +0000" channel="好消息">
+    <title lang="zh">經典音樂河</title>
+    <desc lang="zh">古典聖詩具有歷久彌新、感人至深的迷人特質。即使經過百年，這些詩歌所蘊含的生命力，仍繼續向人們訴說上帝的榮耀作為和救贖恩典。</desc>
+  </programme>
+  <programme start="20260127040000 +0000" stop="20260127043000 +0000" channel="好消息">
+    <title lang="zh">福氣人生</title>
+    <desc lang="zh">如何才能擁有福氣人生?看牧師們以臺語分享聖經的真理，讓你領受天國滿滿的福氣與祝福。</desc>
+  </programme>
+  <programme start="20260127043000 +0000" stop="20260127044500 +0000" channel="好消息">
+    <title lang="zh">今天不講理</title>
+    <desc lang="zh">在有理說不清的世代，我們今天用「不講理」的方式，卻能在生活裡大大小小的事情中，透過體驗與學習找到真理。每集節目由主持人柳子駿牧師，經由參與各式各樣的生活體驗，及與形形色色的來賓互動，讓大家看到牧師不一樣的一面。今天，他走下講臺、走上街頭，走出教會、走入社會；以牧師的眼光看世界！</desc>
+  </programme>
+  <programme start="20260127044500 +0000" stop="20260127050000 +0000" channel="好消息">
+    <title lang="zh">今天不講理</title>
+    <desc lang="zh">在有理說不清的世代，我們今天用「不講理」的方式，卻能在生活裡大大小小的事情中，透過體驗與學習找到真理。每集節目由主持人柳子駿牧師，經由參與各式各樣的生活體驗，及與形形色色的來賓互動，讓大家看到牧師不一樣的一面。今天，他走下講臺、走上街頭，走出教會、走入社會；以牧師的眼光看世界！</desc>
+  </programme>
+  <programme start="20260127050000 +0000" stop="20260127050500 +0000" channel="好消息">
+    <title lang="zh">維他命施</title>
+    <desc lang="zh">出版超過二十多本暢銷書的作家施以諾，擅長傳遞激勵人心的小故事。《維他命施》針對年輕人，職場青年所設計的節目，短短三分鐘，帶給您滿滿的正能量。</desc>
+  </programme>
+  <programme start="20260127050500 +0000" stop="20260127060000 +0000" channel="好消息">
+    <title lang="zh">真情部落格</title>
+    <desc lang="zh">廣受海內外觀眾歡迎的真情部落格，由知名主播夏嘉璐主持，莊信德牧師回應，透過每位來賓的生命見證幫助許多人走出低谷。相信神繼續透過真情部落格祝福這世代的華人。</desc>
+  </programme>
+  <programme start="20260127060000 +0000" stop="20260127065000 +0000" channel="好消息">
+    <title lang="zh">家庭８點檔轉轉發現愛</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260127065000 +0000" stop="20260127070000 +0000" channel="好消息">
+    <title lang="zh">愛我們的家</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260127070000 +0000" stop="20260127080000 +0000" channel="好消息">
+    <title lang="zh">道在人間(國)</title>
+    <desc lang="zh">節目中邀請趙鏞基、葉光明、傑克海福德、喬依絲邁爾等，國內外知名牧長，以豐富的服事經歷與紮實的神學裝備，教導、傳講聖經真道，堅固信徒並警醒人心。</desc>
   </programme>
   <programme start="20260121210000 +0000" stop="20260121220000 +0000" channel="亞洲旅遊臺">
     <title lang="zh">效廉出發吧</title>
@@ -513363,10 +514171,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
   <programme start="20260126070000 +0000" stop="20260126080000 +0000" channel="亞洲旅遊臺">
     <title lang="zh">暴走兄弟朝聖趣</title>
     <desc lang="zh">透過主持人盧廣仲、李玉璽、美麗本人三兄弟挑戰世界唯二被聯合國列為世界文化遺產的參拜道：西班牙聖雅各之路與日本熊野古道的冒險實境節目，究竟其中有什麼魔力吸引著一波又一波不論國界不分年齡的朝聖者，湧入這條古老的朝聖之路？</desc>
-  </programme>
-  <programme start="20260121200000 +0000" stop="20260121204000 +0000" channel="東森購物1臺">
-    <title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title>
-    <desc lang="zh">暫無描述</desc>
   </programme>
   <programme start="20260121204000 +0000" stop="20260121212000 +0000" channel="東森購物1臺">
     <title lang="zh">鎖定CH.43、CH.49選購</title>
@@ -514012,30 +514816,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <title lang="zh">鎖定CH.43、CH.49選購</title>
     <desc lang="zh">暫無描述</desc>
   </programme>
-  <programme start="20260121204000 +0000" stop="20260121212000 +0000" channel="東森購物2臺">
-    <title lang="zh">鎖定CH.43、CH.49選購</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
-  <programme start="20260121212000 +0000" stop="20260121220000 +0000" channel="東森購物2臺">
-    <title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
-  <programme start="20260121220000 +0000" stop="20260121224000 +0000" channel="東森購物2臺">
-    <title lang="zh">鎖定CH.43、CH.49選購</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
-  <programme start="20260121224000 +0000" stop="20260121232000 +0000" channel="東森購物2臺">
-    <title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
-  <programme start="20260121232000 +0000" stop="20260122000000 +0000" channel="東森購物2臺">
-    <title lang="zh">鎖定CH.43、CH.49選購</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
-  <programme start="20260122000000 +0000" stop="20260122004000 +0000" channel="東森購物2臺">
-    <title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
   <programme start="20260122004000 +0000" stop="20260122012000 +0000" channel="東森購物2臺">
     <title lang="zh">鎖定CH.43、CH.49選購</title>
     <desc lang="zh">暫無描述</desc>
@@ -514656,21 +515436,149 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <title lang="zh">鎖定CH.43、CH.49選購</title>
     <desc lang="zh">暫無描述</desc>
   </programme>
-  <programme start="20260121200000 +0000" stop="20260121210000 +0000" channel="華視新聞">
-    <title lang="zh">華視2400夜間新聞</title>
-    <desc lang="zh">由專業華視主播帶來最即時、最完整、最專業的新聞報導。</desc>
+  <programme start="20260126080000 +0000" stop="20260126084000 +0000" channel="東森購物2臺">
+    <title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title>
+    <desc lang="zh">暫無描述</desc>
   </programme>
-  <programme start="20260121210000 +0000" stop="20260121220000 +0000" channel="華視新聞">
-    <title lang="zh">World News 9</title>
-    <desc lang="zh">華視新聞製作，帶給觀眾最公正客觀的新聞視野，由優質主播與新聞團隊聯手打造，每日提供最新最即時的各種國際新聞。</desc>
+  <programme start="20260126084000 +0000" stop="20260126092000 +0000" channel="東森購物2臺">
+    <title lang="zh">鎖定CH.43、CH.49選購</title>
+    <desc lang="zh">暫無描述</desc>
   </programme>
-  <programme start="20260121220000 +0000" stop="20260121230000 +0000" channel="華視新聞">
-    <title lang="zh">華視2400夜間新聞</title>
-    <desc lang="zh">由專業華視主播帶來最即時、最完整、最專業的新聞報導。</desc>
+  <programme start="20260126092000 +0000" stop="20260126100000 +0000" channel="東森購物2臺">
+    <title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title>
+    <desc lang="zh">暫無描述</desc>
   </programme>
-  <programme start="20260121230000 +0000" stop="20260122000000 +0000" channel="華視新聞">
-    <title lang="zh">GOOD Morning臺灣</title>
-    <desc lang="zh">每天早上七點、八點，為觀眾報導最新國內外大事件。</desc>
+  <programme start="20260126100000 +0000" stop="20260126104000 +0000" channel="東森購物2臺">
+    <title lang="zh">鎖定CH.43、CH.49選購</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126104000 +0000" stop="20260126112000 +0000" channel="東森購物2臺">
+    <title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126112000 +0000" stop="20260126120000 +0000" channel="東森購物2臺">
+    <title lang="zh">鎖定CH.43、CH.49選購</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126120000 +0000" stop="20260126124000 +0000" channel="東森購物2臺">
+    <title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126124000 +0000" stop="20260126132000 +0000" channel="東森購物2臺">
+    <title lang="zh">鎖定CH.43、CH.49選購</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126132000 +0000" stop="20260126140000 +0000" channel="東森購物2臺">
+    <title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126140000 +0000" stop="20260126144000 +0000" channel="東森購物2臺">
+    <title lang="zh">鎖定CH.43、CH.49選購</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126144000 +0000" stop="20260126152000 +0000" channel="東森購物2臺">
+    <title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126152000 +0000" stop="20260126160000 +0000" channel="東森購物2臺">
+    <title lang="zh">鎖定CH.43、CH.49選購</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126160000 +0000" stop="20260126164000 +0000" channel="東森購物2臺">
+    <title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126164000 +0000" stop="20260126172000 +0000" channel="東森購物2臺">
+    <title lang="zh">鎖定CH.43、CH.49選購</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126172000 +0000" stop="20260126180000 +0000" channel="東森購物2臺">
+    <title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126180000 +0000" stop="20260126184000 +0000" channel="東森購物2臺">
+    <title lang="zh">鎖定CH.43、CH.49選購</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126184000 +0000" stop="20260126192000 +0000" channel="東森購物2臺">
+    <title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126192000 +0000" stop="20260126200000 +0000" channel="東森購物2臺">
+    <title lang="zh">鎖定CH.43、CH.49選購</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126200000 +0000" stop="20260126204000 +0000" channel="東森購物2臺">
+    <title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126204000 +0000" stop="20260126212000 +0000" channel="東森購物2臺">
+    <title lang="zh">鎖定CH.43、CH.49選購</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126212000 +0000" stop="20260126220000 +0000" channel="東森購物2臺">
+    <title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126220000 +0000" stop="20260126224000 +0000" channel="東森購物2臺">
+    <title lang="zh">鎖定CH.43、CH.49選購</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126224000 +0000" stop="20260126232000 +0000" channel="東森購物2臺">
+    <title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126232000 +0000" stop="20260127000000 +0000" channel="東森購物2臺">
+    <title lang="zh">鎖定CH.43、CH.49選購</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260127000000 +0000" stop="20260127004000 +0000" channel="東森購物2臺">
+    <title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260127004000 +0000" stop="20260127012000 +0000" channel="東森購物2臺">
+    <title lang="zh">鎖定CH.43、CH.49選購</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260127012000 +0000" stop="20260127020000 +0000" channel="東森購物2臺">
+    <title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260127020000 +0000" stop="20260127024000 +0000" channel="東森購物2臺">
+    <title lang="zh">鎖定CH.43、CH.49選購</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260127024000 +0000" stop="20260127032000 +0000" channel="東森購物2臺">
+    <title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260127032000 +0000" stop="20260127040000 +0000" channel="東森購物2臺">
+    <title lang="zh">鎖定CH.43、CH.49選購</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260127040000 +0000" stop="20260127044000 +0000" channel="東森購物2臺">
+    <title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260127044000 +0000" stop="20260127052000 +0000" channel="東森購物2臺">
+    <title lang="zh">鎖定CH.43、CH.49選購</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260127052000 +0000" stop="20260127060000 +0000" channel="東森購物2臺">
+    <title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260127060000 +0000" stop="20260127064000 +0000" channel="東森購物2臺">
+    <title lang="zh">鎖定CH.43、CH.49選購</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260127064000 +0000" stop="20260127072000 +0000" channel="東森購物2臺">
+    <title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260127072000 +0000" stop="20260127080000 +0000" channel="東森購物2臺">
+    <title lang="zh">鎖定CH.43、CH.49選購</title>
+    <desc lang="zh">暫無描述</desc>
   </programme>
   <programme start="20260122000000 +0000" stop="20260122010000 +0000" channel="華視新聞">
     <title lang="zh">GOOD Morning臺灣</title>
@@ -515036,10 +515944,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <title lang="zh">華視2400夜間新聞</title>
     <desc lang="zh">由專業華視主播帶來最即時、最完整、最專業的新聞報導。</desc>
   </programme>
-  <programme start="20260121160000 +0000" stop="20260121220000 +0000" channel="倪珍播新聞">
-    <title lang="zh">晚安新聞</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
   <programme start="20260121220000 +0000" stop="20260122040000 +0000" channel="倪珍播新聞">
     <title lang="zh">早安新聞</title>
     <desc lang="zh">暫無描述</desc>
@@ -515112,9 +516016,17 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <title lang="zh">節目未定</title>
     <desc lang="zh">節目資訊尚未公佈。</desc>
   </programme>
-  <programme start="20260121190000 +0000" stop="20260121210000 +0000" channel="三立新聞iNEWS">
-    <title lang="zh">1819錢進大頭條</title>
-    <desc lang="zh">三立iNEWS製播的財經新聞節目，由最專業的財經主播帶來國際時事、財經股匯市報導、深度新聞及時事評論…等內容。</desc>
+  <programme start="20260126080000 +0000" stop="20260126120000 +0000" channel="倪珍播新聞">
+    <title lang="zh">節目未定</title>
+    <desc lang="zh">節目資訊尚未公佈。</desc>
+  </programme>
+  <programme start="20260126120000 +0000" stop="20260126160000 +0000" channel="倪珍播新聞">
+    <title lang="zh">節目未定</title>
+    <desc lang="zh">節目資訊尚未公佈。</desc>
+  </programme>
+  <programme start="20260126160000 +0000" stop="20260126200000 +0000" channel="倪珍播新聞">
+    <title lang="zh">節目未定</title>
+    <desc lang="zh">節目資訊尚未公佈。</desc>
   </programme>
   <programme start="20260121210000 +0000" stop="20260121220000 +0000" channel="三立新聞iNEWS">
     <title lang="zh">iNEWS1600整點新聞</title>
@@ -515471,22 +516383,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
   <programme start="20260125220000 +0000" stop="20260125230000 +0000" channel="三立新聞iNEWS">
     <title lang="zh">360大世界</title>
     <desc lang="zh">帶你360度看世界，介紹世界各地奇聞軼事，每個故事都令人嘖嘖稱奇！</desc>
-  </programme>
-  <programme start="20260121200000 +0000" stop="20260121210000 +0000" channel="寰宇財經臺">
-    <title lang="zh">銅板美食呷透透</title>
-    <desc lang="zh">東森新聞製播的美食特輯，記者深入臺灣各地，尋找令人回味無窮的美食記憶，介紹各種好喫又便宜的店家。</desc>
-  </programme>
-  <programme start="20260121210000 +0000" stop="20260121220000 +0000" channel="寰宇財經臺">
-    <title lang="zh">巷弄美食家</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
-  <programme start="20260121220000 +0000" stop="20260121230000 +0000" channel="寰宇財經臺">
-    <title lang="zh">理財達人秀</title>
-    <desc lang="zh">全臺灣最精采好懂的理財影片！保險、股市、房地產、基金、投資觀念，最實用的知識一看就通！投資新手到專家的討論園地。</desc>
-  </programme>
-  <programme start="20260121230000 +0000" stop="20260122000000 +0000" channel="寰宇財經臺">
-    <title lang="zh">理財達人秀</title>
-    <desc lang="zh">全臺灣最精采好懂的理財影片！保險、股市、房地產、基金、投資觀念，最實用的知識一看就通！投資新手到專家的討論園地。</desc>
   </programme>
   <programme start="20260122000000 +0000" stop="20260122010000 +0000" channel="寰宇財經臺">
     <title lang="zh">財經透視線</title>
@@ -515872,22 +516768,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <title lang="zh">銅板美食呷透透</title>
     <desc lang="zh">東森新聞製播的美食特輯，記者深入臺灣各地，尋找令人回味無窮的美食記憶，介紹各種好喫又便宜的店家。</desc>
   </programme>
-  <programme start="20260121200000 +0000" stop="20260121210000 +0000" channel="中視新聞">
-    <title lang="zh">中視新聞即時現場</title>
-    <desc lang="zh">由主播蕭惠文播報，以SNG車讓觀眾看到最即時的新聞報導，並以最客觀的角度，為觀眾完整報導上午發生之重要新聞。</desc>
-  </programme>
-  <programme start="20260121210000 +0000" stop="20260121220000 +0000" channel="中視新聞">
-    <title lang="zh">中視新聞全球報導</title>
-    <desc lang="zh">中視每晚七點由主播哈遠儀為全國觀眾最專業、準確的新聞報導。</desc>
-  </programme>
-  <programme start="20260121220000 +0000" stop="20260121230000 +0000" channel="中視新聞">
-    <title lang="zh">中視新聞全球報導</title>
-    <desc lang="zh">中視每晚七點由主播哈遠儀為全國觀眾最專業、準確的新聞報導。</desc>
-  </programme>
-  <programme start="20260121230000 +0000" stop="20260122000000 +0000" channel="中視新聞">
-    <title lang="zh">中視早安新聞</title>
-    <desc lang="zh">「中視早安新聞」每天早上以最客觀的角度，最專業的主播，為觀眾報導充分且詳實的新聞、氣象和交通路況資訊。</desc>
-  </programme>
   <programme start="20260122000000 +0000" stop="20260122010000 +0000" channel="中視新聞">
     <title lang="zh">中視整點新聞</title>
     <desc lang="zh">以最客觀的角度，最專業的主播，為觀眾完整報導當日發生之重大國內外重要新聞。</desc>
@@ -516267,22 +517147,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
   <programme start="20260125220000 +0000" stop="20260125230000 +0000" channel="中視新聞">
     <title lang="zh">中視新聞全球報導</title>
     <desc lang="zh">中視每晚七點由主播哈遠儀為全國觀眾最專業、準確的新聞報導。</desc>
-  </programme>
-  <programme start="20260121200000 +0000" stop="20260121210000 +0000" channel="中天新聞臺">
-    <title lang="zh">中天SUPER夜線</title>
-    <desc lang="zh">由中天新聞專業主播帶來最新的晚間新聞特報。</desc>
-  </programme>
-  <programme start="20260121210000 +0000" stop="20260121220000 +0000" channel="中天新聞臺">
-    <title lang="zh">全球大視野</title>
-    <desc lang="zh">美中，印太，到兩岸。全球新聞不漏接</desc>
-  </programme>
-  <programme start="20260121220000 +0000" stop="20260121230000 +0000" channel="中天新聞臺">
-    <title lang="zh">中天新聞 中天晨報</title>
-    <desc lang="zh">每天早晨時段，由早報主播與您一起讀報，看遍天下事。</desc>
-  </programme>
-  <programme start="20260121230000 +0000" stop="20260122000000 +0000" channel="中天新聞臺">
-    <title lang="zh">中天新聞 中天晨報</title>
-    <desc lang="zh">每天早晨時段，由早報主播與您一起讀報，看遍天下事。</desc>
   </programme>
   <programme start="20260122000000 +0000" stop="20260122010000 +0000" channel="中天新聞臺">
     <title lang="zh">中天新聞 中天晨報</title>
@@ -516700,9 +517564,101 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <title lang="zh">15大新聞大爆卦</title>
     <desc lang="zh">每週一到週五《大新聞大爆卦》中天主播陪你一起來解卦！！！</desc>
   </programme>
-  <programme start="20260121195500 +0000" stop="20260121205500 +0000" channel="寰宇新聞臺灣臺">
-    <title lang="zh">寰宇焦點新聞</title>
-    <desc lang="zh">暫無描述</desc>
+  <programme start="20260126080000 +0000" stop="20260126090000 +0000" channel="中天新聞臺">
+    <title lang="zh">中天新聞 1600整點新聞</title>
+    <desc lang="zh">收看中天新聞帶給你最即時、最完整、最專業的新聞報導。</desc>
+  </programme>
+  <programme start="20260126090000 +0000" stop="20260126100000 +0000" channel="中天新聞臺">
+    <title lang="zh">中天新聞 1700整點新聞</title>
+    <desc lang="zh">收看中天新聞帶給你最即時、最完整、最專業的新聞報導。</desc>
+  </programme>
+  <programme start="20260126100000 +0000" stop="20260126110000 +0000" channel="中天新聞臺">
+    <title lang="zh">中天辣晚報</title>
+    <desc lang="zh">提供國內、兩岸、國際頭條焦點，掌握時事脈動，觀察新聞背後的真正意義，帶領觀眾知曉天下事。有最深度的內容、最專業的追蹤、最需要的資訊，收視率領先各臺，具有高度影響力！</desc>
+  </programme>
+  <programme start="20260126110000 +0000" stop="20260126120000 +0000" channel="中天新聞臺">
+    <title lang="zh">中天辣晚報</title>
+    <desc lang="zh">提供國內、兩岸、國際頭條焦點，掌握時事脈動，觀察新聞背後的真正意義，帶領觀眾知曉天下事。有最深度的內容、最專業的追蹤、最需要的資訊，收視率領先各臺，具有高度影響力！</desc>
+  </programme>
+  <programme start="20260126120000 +0000" stop="20260126130000 +0000" channel="中天新聞臺">
+    <title lang="zh">頭條開講</title>
+    <desc lang="zh">中天新聞為服務廣大觀眾，提供多元論述平臺，發揮媒體第四權的社會責任，於十月五日起，週一至週五晚間八點同一時段，接檔推出《頭條開講》談話節目，由主播周玉琴及政治中心主任林嘉源共同主持，敬請支持中天的觀眾朋友準時鎖定！</desc>
+  </programme>
+  <programme start="20260126130000 +0000" stop="20260126140000 +0000" channel="中天新聞臺">
+    <title lang="zh">頭條開講</title>
+    <desc lang="zh">中天新聞為服務廣大觀眾，提供多元論述平臺，發揮媒體第四權的社會責任，於十月五日起，週一至週五晚間八點同一時段，接檔推出《頭條開講》談話節目，由主播周玉琴及政治中心主任林嘉源共同主持，敬請支持中天的觀眾朋友準時鎖定！</desc>
+  </programme>
+  <programme start="20260126140000 +0000" stop="20260126150000 +0000" channel="中天新聞臺">
+    <title lang="zh">中天SUPER夜線</title>
+    <desc lang="zh">由中天新聞專業主播帶來最新的晚間新聞特報。</desc>
+  </programme>
+  <programme start="20260126150000 +0000" stop="20260126160000 +0000" channel="中天新聞臺">
+    <title lang="zh">全球大視野</title>
+    <desc lang="zh">美中，印太，到兩岸。全球新聞不漏接</desc>
+  </programme>
+  <programme start="20260126160000 +0000" stop="20260126170000 +0000" channel="中天新聞臺">
+    <title lang="zh">中天辣晚報</title>
+    <desc lang="zh">提供國內、兩岸、國際頭條焦點，掌握時事脈動，觀察新聞背後的真正意義，帶領觀眾知曉天下事。有最深度的內容、最專業的追蹤、最需要的資訊，收視率領先各臺，具有高度影響力！</desc>
+  </programme>
+  <programme start="20260126170000 +0000" stop="20260126180000 +0000" channel="中天新聞臺">
+    <title lang="zh">中天辣晚報</title>
+    <desc lang="zh">提供國內、兩岸、國際頭條焦點，掌握時事脈動，觀察新聞背後的真正意義，帶領觀眾知曉天下事。有最深度的內容、最專業的追蹤、最需要的資訊，收視率領先各臺，具有高度影響力！</desc>
+  </programme>
+  <programme start="20260126180000 +0000" stop="20260126190000 +0000" channel="中天新聞臺">
+    <title lang="zh">頭條開講</title>
+    <desc lang="zh">中天新聞為服務廣大觀眾，提供多元論述平臺，發揮媒體第四權的社會責任，於十月五日起，週一至週五晚間八點同一時段，接檔推出《頭條開講》談話節目，由主播周玉琴及政治中心主任林嘉源共同主持，敬請支持中天的觀眾朋友準時鎖定！</desc>
+  </programme>
+  <programme start="20260126190000 +0000" stop="20260126200000 +0000" channel="中天新聞臺">
+    <title lang="zh">頭條開講</title>
+    <desc lang="zh">中天新聞為服務廣大觀眾，提供多元論述平臺，發揮媒體第四權的社會責任，於十月五日起，週一至週五晚間八點同一時段，接檔推出《頭條開講》談話節目，由主播周玉琴及政治中心主任林嘉源共同主持，敬請支持中天的觀眾朋友準時鎖定！</desc>
+  </programme>
+  <programme start="20260126200000 +0000" stop="20260126210000 +0000" channel="中天新聞臺">
+    <title lang="zh">中天SUPER夜線</title>
+    <desc lang="zh">由中天新聞專業主播帶來最新的晚間新聞特報。</desc>
+  </programme>
+  <programme start="20260126210000 +0000" stop="20260126220000 +0000" channel="中天新聞臺">
+    <title lang="zh">全球大視野</title>
+    <desc lang="zh">美中，印太，到兩岸。全球新聞不漏接</desc>
+  </programme>
+  <programme start="20260126220000 +0000" stop="20260126230000 +0000" channel="中天新聞臺">
+    <title lang="zh">中天新聞 中天晨報</title>
+    <desc lang="zh">每天早晨時段，由早報主播與您一起讀報，看遍天下事。</desc>
+  </programme>
+  <programme start="20260126230000 +0000" stop="20260127000000 +0000" channel="中天新聞臺">
+    <title lang="zh">中天新聞 中天晨報</title>
+    <desc lang="zh">每天早晨時段，由早報主播與您一起讀報，看遍天下事。</desc>
+  </programme>
+  <programme start="20260127000000 +0000" stop="20260127010000 +0000" channel="中天新聞臺">
+    <title lang="zh">中天新聞 中天晨報</title>
+    <desc lang="zh">每天早晨時段，由早報主播與您一起讀報，看遍天下事。</desc>
+  </programme>
+  <programme start="20260127010000 +0000" stop="20260127020000 +0000" channel="中天新聞臺">
+    <title lang="zh">中天新聞 0900整點新聞</title>
+    <desc lang="zh">每日上午九點，中天新聞帶給你最即時、最完整、最專業的新聞報導，以及最新疫情新聞消息、疫情指揮中心直播、今日確診人數統計等重大新聞轉播報導。</desc>
+  </programme>
+  <programme start="20260127020000 +0000" stop="20260127030000 +0000" channel="中天新聞臺">
+    <title lang="zh">中天新聞 1000整點新聞</title>
+    <desc lang="zh">每日上午十點，中天新聞帶給你最即時、最完整、最專業的新聞報導。</desc>
+  </programme>
+  <programme start="20260127030000 +0000" stop="20260127040000 +0000" channel="中天新聞臺">
+    <title lang="zh">中天新聞 1100午前新聞</title>
+    <desc lang="zh">每日上午十一點，中天新聞將帶給你上午的最新消息報導，快速掌握午前新聞，以及最新疫情新聞消息、疫情指揮中心直播、今日確診人數統計等重大新聞轉播報導。</desc>
+  </programme>
+  <programme start="20260127040000 +0000" stop="20260127050000 +0000" channel="中天新聞臺">
+    <title lang="zh">中天新聞 1200正午新聞</title>
+    <desc lang="zh">中天正午新聞帶給您最新的國內外大事，掌握天下，以及最新疫情新聞消息、疫情指揮中心直播、今日確診人數統計等重大新聞轉播報導。</desc>
+  </programme>
+  <programme start="20260127050000 +0000" stop="20260127060000 +0000" channel="中天新聞臺">
+    <title lang="zh">中天新聞 1300午間新聞</title>
+    <desc lang="zh">中天午間新聞帶給您最新的國內外大事，掌握天下。</desc>
+  </programme>
+  <programme start="20260127060000 +0000" stop="20260127070000 +0000" channel="中天新聞臺">
+    <title lang="zh">14大新聞大爆卦</title>
+    <desc lang="zh">每週一到週五《大新聞大爆卦》中天主播馬千惠陪你一起來解卦！！！</desc>
+  </programme>
+  <programme start="20260127070000 +0000" stop="20260127080000 +0000" channel="中天新聞臺">
+    <title lang="zh">15大新聞大爆卦</title>
+    <desc lang="zh">每週一到週五《大新聞大爆卦》中天主播陪你一起來解卦！！！</desc>
   </programme>
   <programme start="20260121205500 +0000" stop="20260121215500 +0000" channel="寰宇新聞臺灣臺">
     <title lang="zh">寰宇晚間新聞</title>
@@ -517111,10 +518067,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
   <programme start="20260126040000 +0000" stop="20260126080000 +0000" channel="寰宇新聞臺灣臺">
     <title lang="zh">節目未定</title>
     <desc lang="zh">節目資訊尚未公佈。</desc>
-  </programme>
-  <programme start="20260121195500 +0000" stop="20260121205500 +0000" channel="寰宇新聞臺">
-    <title lang="zh">寰宇世界通</title>
-    <desc lang="zh">暫無描述</desc>
   </programme>
   <programme start="20260121205500 +0000" stop="20260121215500 +0000" channel="寰宇新聞臺">
     <title lang="zh">寰宇全球新聞</title>
@@ -517527,38 +518479,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
   <programme start="20260126040000 +0000" stop="20260126080000 +0000" channel="寰宇新聞臺">
     <title lang="zh">節目未定</title>
     <desc lang="zh">節目資訊尚未公佈。</desc>
-  </programme>
-  <programme start="20260121203000 +0000" stop="20260121210000 +0000" channel="第1商業臺">
-    <title lang="zh">期股衝衝衝-寶得富-翁士峻分析師</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
-  <programme start="20260121210000 +0000" stop="20260121213000 +0000" channel="第1商業臺">
-    <title lang="zh">股市強強滾-亞洲投顧-鄭偉羣分析師</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
-  <programme start="20260121213000 +0000" stop="20260121220000 +0000" channel="第1商業臺">
-    <title lang="zh">臺股Lunchtime-亞洲投顧-王兆立分析師</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
-  <programme start="20260121220000 +0000" stop="20260121223000 +0000" channel="第1商業臺">
-    <title lang="zh">期股衝衝衝-寶得富-翁士俊分析師</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
-  <programme start="20260121223000 +0000" stop="20260121230000 +0000" channel="第1商業臺">
-    <title lang="zh">王博賺錢策略室-顧德投顧-王建文分析師</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
-  <programme start="20260121230000 +0000" stop="20260121233000 +0000" channel="第1商業臺">
-    <title lang="zh">阪田戰法-寶得富-顧奎國分析師</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
-  <programme start="20260121233000 +0000" stop="20260122000000 +0000" channel="第1商業臺">
-    <title lang="zh">股市全攻略-豐銀投顧-龔鴻彬分析師</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
-  <programme start="20260122000000 +0000" stop="20260122003000 +0000" channel="第1商業臺">
-    <title lang="zh">財經資訊</title>
-    <desc lang="zh">暫無描述</desc>
   </programme>
   <programme start="20260122003000 +0000" stop="20260122013000 +0000" channel="第1商業臺">
     <title lang="zh">財經資訊</title>
@@ -518308,12 +519228,180 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <title lang="zh">期股衝衝衝-寶得富-翁士峻分析師</title>
     <desc lang="zh">暫無描述</desc>
   </programme>
-  <programme start="20260121160000 +0000" stop="20260121210000 +0000" channel="國會頻道1臺">
-    <title lang="zh">前日立法院會議轉播</title>
+  <programme start="20260126080000 +0000" stop="20260126083000 +0000" channel="第1商業臺">
+    <title lang="zh">股市全攻略-豐銀投顧-龔鴻彬分析師</title>
     <desc lang="zh">暫無描述</desc>
   </programme>
-  <programme start="20260121210000 +0000" stop="20260122004700 +0000" channel="國會頻道1臺">
-    <title lang="zh">前日立法院會議轉播</title>
+  <programme start="20260126083000 +0000" stop="20260126090000 +0000" channel="第1商業臺">
+    <title lang="zh">汪海華_操盤的智慧</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126090000 +0000" stop="20260126093000 +0000" channel="第1商業臺">
+    <title lang="zh">股市第一線-顧德投顧-李冠嶔分析師</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126093000 +0000" stop="20260126100000 +0000" channel="第1商業臺">
+    <title lang="zh">贏家應對-顧德投顧-林泓橡分析師</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126100000 +0000" stop="20260126103000 +0000" channel="第1商業臺">
+    <title lang="zh">阪田戰法-寶得富-顧奎國分析師</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126103000 +0000" stop="20260126110000 +0000" channel="第1商業臺">
+    <title lang="zh">股市強強滾-亞洲投顧-鄭偉羣分析師</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126110000 +0000" stop="20260126113000 +0000" channel="第1商業臺">
+    <title lang="zh">旗開得勝-顧德投顧-張家豪分析師</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126113000 +0000" stop="20260126120000 +0000" channel="第1商業臺">
+    <title lang="zh">期股衝衝衝-寶得富-翁士峻分析師</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126120000 +0000" stop="20260126123000 +0000" channel="第1商業臺">
+    <title lang="zh">國家寶藏-啟發投顧-林國寶分析師</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126123000 +0000" stop="20260126130000 +0000" channel="第1商業臺">
+    <title lang="zh">股市強強滾-亞洲投顧-鄭偉羣分析師</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126130000 +0000" stop="20260126133000 +0000" channel="第1商業臺">
+    <title lang="zh">臺股Lunchtime-亞洲投顧-王兆立分析師</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126133000 +0000" stop="20260126140000 +0000" channel="第1商業臺">
+    <title lang="zh">股市吳限鑽-寶得富-吳曉松分析師</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126140000 +0000" stop="20260126143000 +0000" channel="第1商業臺">
+    <title lang="zh">啟發投顧精選</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126143000 +0000" stop="20260126150000 +0000" channel="第1商業臺">
+    <title lang="zh">王博賺錢策略室-顧德投顧-王建文分析師</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126150000 +0000" stop="20260126153000 +0000" channel="第1商業臺">
+    <title lang="zh">阪田戰法-寶得富-顧奎國分析師</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126153000 +0000" stop="20260126160000 +0000" channel="第1商業臺">
+    <title lang="zh">期股衝衝衝-寶得富-翁士俊分析師</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126160000 +0000" stop="20260126163000 +0000" channel="第1商業臺">
+    <title lang="zh">股市吳限鑽-寶得富-吳曉松分析師</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126163000 +0000" stop="20260126170000 +0000" channel="第1商業臺">
+    <title lang="zh">阪田戰法-寶得富-顧奎國分析師</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126170000 +0000" stop="20260126173000 +0000" channel="第1商業臺">
+    <title lang="zh">期股衝衝衝-寶得富-翁士峻分析師</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126173000 +0000" stop="20260126180000 +0000" channel="第1商業臺">
+    <title lang="zh">股市吳限鑽-寶得富-吳曉松分析師</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126180000 +0000" stop="20260126183000 +0000" channel="第1商業臺">
+    <title lang="zh">股市第一線-顧德投顧-李冠嶔分析師</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126183000 +0000" stop="20260126190000 +0000" channel="第1商業臺">
+    <title lang="zh">贏家應對-顧德投顧-林泓橡分析師</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126190000 +0000" stop="20260126193000 +0000" channel="第1商業臺">
+    <title lang="zh">阪田戰法-寶得富-顧奎國分析師</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126193000 +0000" stop="20260126200000 +0000" channel="第1商業臺">
+    <title lang="zh">股市強強滾-亞洲投顧-鄭偉羣分析師</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126200000 +0000" stop="20260126203000 +0000" channel="第1商業臺">
+    <title lang="zh">旗開得勝-顧德投顧-張家豪分析師</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126203000 +0000" stop="20260126210000 +0000" channel="第1商業臺">
+    <title lang="zh">期股衝衝衝-寶得富-翁士峻分析師</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126210000 +0000" stop="20260126213000 +0000" channel="第1商業臺">
+    <title lang="zh">股市強強滾-亞洲投顧-鄭偉羣分析師</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126213000 +0000" stop="20260126220000 +0000" channel="第1商業臺">
+    <title lang="zh">臺股Lunchtime-亞洲投顧-王兆立分析師</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126220000 +0000" stop="20260126223000 +0000" channel="第1商業臺">
+    <title lang="zh">期股衝衝衝-寶得富-翁士俊分析師</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126223000 +0000" stop="20260126230000 +0000" channel="第1商業臺">
+    <title lang="zh">王博賺錢策略室-顧德投顧-王建文分析師</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126230000 +0000" stop="20260126233000 +0000" channel="第1商業臺">
+    <title lang="zh">阪田戰法-寶得富-顧奎國分析師</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260126233000 +0000" stop="20260127000000 +0000" channel="第1商業臺">
+    <title lang="zh">股市全攻略-豐銀投顧-龔鴻彬分析師</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260127000000 +0000" stop="20260127003000 +0000" channel="第1商業臺">
+    <title lang="zh">財經資訊</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260127003000 +0000" stop="20260127013000 +0000" channel="第1商業臺">
+    <title lang="zh">財經資訊</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260127013000 +0000" stop="20260127020000 +0000" channel="第1商業臺">
+    <title lang="zh">財經資訊</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260127020000 +0000" stop="20260127023000 +0000" channel="第1商業臺">
+    <title lang="zh">財經資訊</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260127023000 +0000" stop="20260127030000 +0000" channel="第1商業臺">
+    <title lang="zh">財經資訊</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260127030000 +0000" stop="20260127040000 +0000" channel="第1商業臺">
+    <title lang="zh">財經資訊</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260127040000 +0000" stop="20260127050000 +0000" channel="第1商業臺">
+    <title lang="zh">財經資訊</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260127050000 +0000" stop="20260127060000 +0000" channel="第1商業臺">
+    <title lang="zh">財經資訊</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260127060000 +0000" stop="20260127063000 +0000" channel="第1商業臺">
+    <title lang="zh">股市吳限鑽-寶得富-吳曉松分析師</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260127063000 +0000" stop="20260127070000 +0000" channel="第1商業臺">
+    <title lang="zh">啟發投顧精選</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260127070000 +0000" stop="20260127073000 +0000" channel="第1商業臺">
+    <title lang="zh">阪田戰法-寶得富-顧奎國分析師</title>
+    <desc lang="zh">暫無描述</desc>
+  </programme>
+  <programme start="20260127073000 +0000" stop="20260127080000 +0000" channel="第1商業臺">
+    <title lang="zh">期股衝衝衝-寶得富-翁士峻分析師</title>
     <desc lang="zh">暫無描述</desc>
   </programme>
   <programme start="20260122004700 +0000" stop="20260122010000 +0000" channel="國會頻道1臺">
@@ -518468,13 +519556,17 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <title lang="zh">節目未定</title>
     <desc lang="zh">節目資訊尚未公佈。</desc>
   </programme>
-  <programme start="20260121160000 +0000" stop="20260121210000 +0000" channel="國會頻道2臺">
-    <title lang="zh">前日立法院會議轉播</title>
-    <desc lang="zh">暫無描述</desc>
+  <programme start="20260126080000 +0000" stop="20260126120000 +0000" channel="國會頻道1臺">
+    <title lang="zh">節目未定</title>
+    <desc lang="zh">節目資訊尚未公佈。</desc>
   </programme>
-  <programme start="20260121210000 +0000" stop="20260122004700 +0000" channel="國會頻道2臺">
-    <title lang="zh">前日立法院會議轉播</title>
-    <desc lang="zh">暫無描述</desc>
+  <programme start="20260126120000 +0000" stop="20260126160000 +0000" channel="國會頻道1臺">
+    <title lang="zh">節目未定</title>
+    <desc lang="zh">節目資訊尚未公佈。</desc>
+  </programme>
+  <programme start="20260126160000 +0000" stop="20260126200000 +0000" channel="國會頻道1臺">
+    <title lang="zh">節目未定</title>
+    <desc lang="zh">節目資訊尚未公佈。</desc>
   </programme>
   <programme start="20260122004700 +0000" stop="20260122010000 +0000" channel="國會頻道2臺">
     <title lang="zh">週四會議預報</title>
@@ -518605,6 +519697,18 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <desc lang="zh">節目資訊尚未公佈。</desc>
   </programme>
   <programme start="20260126040000 +0000" stop="20260126080000 +0000" channel="國會頻道2臺">
+    <title lang="zh">節目未定</title>
+    <desc lang="zh">節目資訊尚未公佈。</desc>
+  </programme>
+  <programme start="20260126080000 +0000" stop="20260126120000 +0000" channel="國會頻道2臺">
+    <title lang="zh">節目未定</title>
+    <desc lang="zh">節目資訊尚未公佈。</desc>
+  </programme>
+  <programme start="20260126120000 +0000" stop="20260126160000 +0000" channel="國會頻道2臺">
+    <title lang="zh">節目未定</title>
+    <desc lang="zh">節目資訊尚未公佈。</desc>
+  </programme>
+  <programme start="20260126160000 +0000" stop="20260126200000 +0000" channel="國會頻道2臺">
     <title lang="zh">節目未定</title>
     <desc lang="zh">節目資訊尚未公佈。</desc>
   </programme>
@@ -523325,134 +524429,6 @@ Romeo看到偶像的表情也太可愛
     <title lang="zh">金晨直播笑談未接春晚邀約：“是我不夠喜慶嗎？”引網友熱議</title>
     <desc lang="zh">金晨直播笑談未接春晚邀約：“是我不夠喜慶嗎？”引網友熱議</desc>
   </programme>
-  <programme start="20260121000000 +0000" stop="20260121003500 +0000" channel="Focus風采戲劇臺">
-    <title lang="zh">錦月令</title>
-    <desc lang="zh">講述了特務機構雪衣衛首領鳳作人奉嘉帝之命，潛入定遠侯府尋找前朝太子，意圖斬草除根。然而在這個過程中，鳳作人卻發現嘉帝的背後有人正在佈局更大的陰謀...</desc>
-  </programme>
-  <programme start="20260121003500 +0000" stop="20260121010800 +0000" channel="Focus風采戲劇臺">
-    <title lang="zh">錦月令</title>
-    <desc lang="zh">講述了特務機構雪衣衛首領鳳作人奉嘉帝之命，潛入定遠侯府尋找前朝太子，意圖斬草除根。然而在這個過程中，鳳作人卻發現嘉帝的背後有人正在佈局更大的陰謀...</desc>
-  </programme>
-  <programme start="20260121010800 +0000" stop="20260121014000 +0000" channel="Focus風采戲劇臺">
-    <title lang="zh">雲赫謠(30分鐘版)</title>
-    <desc lang="zh">大未年間，山河未定，寧王趙赫帶兵出征，命懸一線。太卜署奉旨，獻上珍貴藥奴替他解毒。藥奴壹九隱藏月族聖女身份，以己為餌深陷迷局。最終，趙赫與雲瑤攜手釐清月族被屠真相，跨越生死，不忘初心，守護天下安寧。</desc>
-  </programme>
-  <programme start="20260121014000 +0000" stop="20260121020000 +0000" channel="Focus風采戲劇臺">
-    <title lang="zh">公主變形記</title>
-    <desc lang="zh">本是富庶肥沃、製衣文化聞名遐邇的青城縣，隨着青壯年逐漸外出務工，只留下老人和孩子獨守家園，高超的製衣技巧便因此逐漸失傳。公主盛桃桃天生愛美，來到青城縣後決心發揚製衣手藝。在盛桃桃的運作後，朝廷頒佈了養老令，重振了青城的商貿事業，吸引了很多年輕人回來工作，令青城再創繁榮。</desc>
-  </programme>
-  <programme start="20260121020000 +0000" stop="20260121030000 +0000" channel="Focus風采戲劇臺">
-    <title lang="zh">長樂曲</title>
-    <desc lang="zh">顏幸和潘馳驗屍，發現屍體上有威脅性的隱藏字跡，顏幸感到自己和家人受到威脅。雖沈渡願意讓他回去，但顏幸選擇留下。紀大福前來詢問案件進展，潘馳懷疑兇手是半面鬼，並告訴莫謙之關於許己則的供詞。許己則哀嘆自己寒門出身無法當官，潘馳感同身受，顏幸鼓勵他努力改變現狀。</desc>
-  </programme>
-  <programme start="20260121030000 +0000" stop="20260121040000 +0000" channel="Focus風采戲劇臺">
-    <title lang="zh">長樂曲</title>
-    <desc lang="zh">顏幸與沈渡談起藤編小豬的往事，揭示出兩人童年時的情感牽絆。隨後，潘馳發現無頭鬼案的重要線索，指出鄰居劉宗遠有嫌疑。沈渡協助下令搜查，而顏幸和潘馳審問李楷瑞，揭露他隱瞞的真相。劉宗遠後來被發現死亡，身上有火蛾門的訊息，顏幸懷疑紀大福另有隱情。</desc>
-  </programme>
-  <programme start="20260121040000 +0000" stop="20260121050000 +0000" channel="Focus風采戲劇臺">
-    <title lang="zh">錦繡安寧</title>
-    <desc lang="zh">陳蘭為宜玉求與程琅賜婚，老夫人拒絕，擔憂程家複雜。宜寧擔心程琅來羅府的目的，忙著燒掉剪紙。宜玉因程琅親近宜寧喫醋，暗送情詩卻被宜寧發現，宜寧勸她放棄，避免牽累羅府。慎遠策劃一心齋火災，燒毀李應龍與證詞，讓羅府免於陸嘉學威脅。葉嚴誤以為李應龍奪證失敗，羅府危機暫解。</desc>
-  </programme>
-  <programme start="20260121050000 +0000" stop="20260121060000 +0000" channel="Focus風采戲劇臺">
-    <title lang="zh">錦繡安寧</title>
-    <desc lang="zh">羅老夫人為程琅辦送行宴。伶人連卿陷害宜寧，聲稱羅帶為定情信物，慎遠解救卻受傷。對峙中，連卿謊言被揭，羅帶實為小娘之物，宜寧找來證人陳四揭露真相，小娘指使喬五設局害宜寧，靜堂審問後罪證確立。孟大夫出現助力，小娘終認罪，成章悲痛萬分。葉嚴懷疑慎遠為黑衣人，程琅決定稟報進一步行動。</desc>
-  </programme>
-  <programme start="20260121060000 +0000" stop="20260121063500 +0000" channel="Focus風采戲劇臺">
-    <title lang="zh">錦月令</title>
-    <desc lang="zh">講述了特務機構雪衣衛首領鳳作人奉嘉帝之命，潛入定遠侯府尋找前朝太子，意圖斬草除根。然而在這個過程中，鳳作人卻發現嘉帝的背後有人正在佈局更大的陰謀...</desc>
-  </programme>
-  <programme start="20260121063500 +0000" stop="20260121070800 +0000" channel="Focus風采戲劇臺">
-    <title lang="zh">錦月令</title>
-    <desc lang="zh">講述了特務機構雪衣衛首領鳳作人奉嘉帝之命，潛入定遠侯府尋找前朝太子，意圖斬草除根。然而在這個過程中，鳳作人卻發現嘉帝的背後有人正在佈局更大的陰謀...</desc>
-  </programme>
-  <programme start="20260121070800 +0000" stop="20260121074000 +0000" channel="Focus風采戲劇臺">
-    <title lang="zh">雲赫謠(30分鐘版)</title>
-    <desc lang="zh">大未年間，山河未定，寧王趙赫帶兵出征，命懸一線。太卜署奉旨，獻上珍貴藥奴替他解毒。藥奴壹九隱藏月族聖女身份，以己為餌深陷迷局。最終，趙赫與雲瑤攜手釐清月族被屠真相，跨越生死，不忘初心，守護天下安寧。</desc>
-  </programme>
-  <programme start="20260121074000 +0000" stop="20260121080000 +0000" channel="Focus風采戲劇臺">
-    <title lang="zh">公主變形記</title>
-    <desc lang="zh">本是富庶肥沃、製衣文化聞名遐邇的青城縣，隨着青壯年逐漸外出務工，只留下老人和孩子獨守家園，高超的製衣技巧便因此逐漸失傳。公主盛桃桃天生愛美，來到青城縣後決心發揚製衣手藝。在盛桃桃的運作後，朝廷頒佈了養老令，重振了青城的商貿事業，吸引了很多年輕人回來工作，令青城再創繁榮。</desc>
-  </programme>
-  <programme start="20260121080000 +0000" stop="20260121090000 +0000" channel="Focus風采戲劇臺">
-    <title lang="zh">長樂曲</title>
-    <desc lang="zh">顏幸和潘馳驗屍，發現屍體上有威脅性的隱藏字跡，顏幸感到自己和家人受到威脅。雖沈渡願意讓他回去，但顏幸選擇留下。紀大福前來詢問案件進展，潘馳懷疑兇手是半面鬼，並告訴莫謙之關於許己則的供詞。許己則哀嘆自己寒門出身無法當官，潘馳感同身受，顏幸鼓勵他努力改變現狀。</desc>
-  </programme>
-  <programme start="20260121090000 +0000" stop="20260121100000 +0000" channel="Focus風采戲劇臺">
-    <title lang="zh">長樂曲</title>
-    <desc lang="zh">顏幸與沈渡談起藤編小豬的往事，揭示出兩人童年時的情感牽絆。隨後，潘馳發現無頭鬼案的重要線索，指出鄰居劉宗遠有嫌疑。沈渡協助下令搜查，而顏幸和潘馳審問李楷瑞，揭露他隱瞞的真相。劉宗遠後來被發現死亡，身上有火蛾門的訊息，顏幸懷疑紀大福另有隱情。</desc>
-  </programme>
-  <programme start="20260121100000 +0000" stop="20260121110000 +0000" channel="Focus風采戲劇臺">
-    <title lang="zh">錦繡安寧</title>
-    <desc lang="zh">陳蘭為宜玉求與程琅賜婚，老夫人拒絕，擔憂程家複雜。宜寧擔心程琅來羅府的目的，忙著燒掉剪紙。宜玉因程琅親近宜寧喫醋，暗送情詩卻被宜寧發現，宜寧勸她放棄，避免牽累羅府。慎遠策劃一心齋火災，燒毀李應龍與證詞，讓羅府免於陸嘉學威脅。葉嚴誤以為李應龍奪證失敗，羅府危機暫解。</desc>
-  </programme>
-  <programme start="20260121110000 +0000" stop="20260121120000 +0000" channel="Focus風采戲劇臺">
-    <title lang="zh">錦繡安寧</title>
-    <desc lang="zh">羅老夫人為程琅辦送行宴。伶人連卿陷害宜寧，聲稱羅帶為定情信物，慎遠解救卻受傷。對峙中，連卿謊言被揭，羅帶實為小娘之物，宜寧找來證人陳四揭露真相，小娘指使喬五設局害宜寧，靜堂審問後罪證確立。孟大夫出現助力，小娘終認罪，成章悲痛萬分。葉嚴懷疑慎遠為黑衣人，程琅決定稟報進一步行動。</desc>
-  </programme>
-  <programme start="20260121120000 +0000" stop="20260121123500 +0000" channel="Focus風采戲劇臺">
-    <title lang="zh">錦月令</title>
-    <desc lang="zh">講述了特務機構雪衣衛首領鳳作人奉嘉帝之命，潛入定遠侯府尋找前朝太子，意圖斬草除根。然而在這個過程中，鳳作人卻發現嘉帝的背後有人正在佈局更大的陰謀...</desc>
-  </programme>
-  <programme start="20260121123500 +0000" stop="20260121130800 +0000" channel="Focus風采戲劇臺">
-    <title lang="zh">錦月令</title>
-    <desc lang="zh">講述了特務機構雪衣衛首領鳳作人奉嘉帝之命，潛入定遠侯府尋找前朝太子，意圖斬草除根。然而在這個過程中，鳳作人卻發現嘉帝的背後有人正在佈局更大的陰謀...</desc>
-  </programme>
-  <programme start="20260121130800 +0000" stop="20260121134000 +0000" channel="Focus風采戲劇臺">
-    <title lang="zh">雲赫謠(30分鐘版)</title>
-    <desc lang="zh">大未年間，山河未定，寧王趙赫帶兵出征，命懸一線。太卜署奉旨，獻上珍貴藥奴替他解毒。藥奴壹九隱藏月族聖女身份，以己為餌深陷迷局。最終，趙赫與雲瑤攜手釐清月族被屠真相，跨越生死，不忘初心，守護天下安寧。</desc>
-  </programme>
-  <programme start="20260121134000 +0000" stop="20260121140000 +0000" channel="Focus風采戲劇臺">
-    <title lang="zh">公主變形記</title>
-    <desc lang="zh">本是富庶肥沃、製衣文化聞名遐邇的青城縣，隨着青壯年逐漸外出務工，只留下老人和孩子獨守家園，高超的製衣技巧便因此逐漸失傳。公主盛桃桃天生愛美，來到青城縣後決心發揚製衣手藝。在盛桃桃的運作後，朝廷頒佈了養老令，重振了青城的商貿事業，吸引了很多年輕人回來工作，令青城再創繁榮。</desc>
-  </programme>
-  <programme start="20260121140000 +0000" stop="20260121150000 +0000" channel="Focus風采戲劇臺">
-    <title lang="zh">長樂曲</title>
-    <desc lang="zh">顏幸和潘馳驗屍，發現屍體上有威脅性的隱藏字跡，顏幸感到自己和家人受到威脅。雖沈渡願意讓他回去，但顏幸選擇留下。紀大福前來詢問案件進展，潘馳懷疑兇手是半面鬼，並告訴莫謙之關於許己則的供詞。許己則哀嘆自己寒門出身無法當官，潘馳感同身受，顏幸鼓勵他努力改變現狀。</desc>
-  </programme>
-  <programme start="20260121150000 +0000" stop="20260121160000 +0000" channel="Focus風采戲劇臺">
-    <title lang="zh">長樂曲</title>
-    <desc lang="zh">顏幸與沈渡談起藤編小豬的往事，揭示出兩人童年時的情感牽絆。隨後，潘馳發現無頭鬼案的重要線索，指出鄰居劉宗遠有嫌疑。沈渡協助下令搜查，而顏幸和潘馳審問李楷瑞，揭露他隱瞞的真相。劉宗遠後來被發現死亡，身上有火蛾門的訊息，顏幸懷疑紀大福另有隱情。</desc>
-  </programme>
-  <programme start="20260121160000 +0000" stop="20260121170000 +0000" channel="Focus風采戲劇臺">
-    <title lang="zh">錦繡安寧</title>
-    <desc lang="zh">陳蘭為宜玉求與程琅賜婚，老夫人拒絕，擔憂程家複雜。宜寧擔心程琅來羅府的目的，忙著燒掉剪紙。宜玉因程琅親近宜寧喫醋，暗送情詩卻被宜寧發現，宜寧勸她放棄，避免牽累羅府。慎遠策劃一心齋火災，燒毀李應龍與證詞，讓羅府免於陸嘉學威脅。葉嚴誤以為李應龍奪證失敗，羅府危機暫解。</desc>
-  </programme>
-  <programme start="20260121170000 +0000" stop="20260121180000 +0000" channel="Focus風采戲劇臺">
-    <title lang="zh">錦繡安寧</title>
-    <desc lang="zh">羅老夫人為程琅辦送行宴。伶人連卿陷害宜寧，聲稱羅帶為定情信物，慎遠解救卻受傷。對峙中，連卿謊言被揭，羅帶實為小娘之物，宜寧找來證人陳四揭露真相，小娘指使喬五設局害宜寧，靜堂審問後罪證確立。孟大夫出現助力，小娘終認罪，成章悲痛萬分。葉嚴懷疑慎遠為黑衣人，程琅決定稟報進一步行動。</desc>
-  </programme>
-  <programme start="20260121180000 +0000" stop="20260121183500 +0000" channel="Focus風采戲劇臺">
-    <title lang="zh">借寧安(30分鐘版)</title>
-    <desc lang="zh">患有怪病的貴嬪蘇芩入宮後，遭遇黑衣人劫持，以成婚為交換條件，被迫與寧安王陸寰達成「弒君」的約定。在經歷生死風波中，二人感情逐漸升溫…</desc>
-  </programme>
-  <programme start="20260121183500 +0000" stop="20260121191000 +0000" channel="Focus風采戲劇臺">
-    <title lang="zh">借寧安(30分鐘版)</title>
-    <desc lang="zh">患有怪病的貴嬪蘇芩入宮後，遭遇黑衣人劫持，以成婚為交換條件，被迫與寧安王陸寰達成「弒君」的約定。在經歷生死風波中，二人感情逐漸升溫…</desc>
-  </programme>
-  <programme start="20260121191000 +0000" stop="20260121194000 +0000" channel="Focus風采戲劇臺">
-    <title lang="zh">雙面贅婿第一季</title>
-    <desc lang="zh">《雙面贅婿》陸劇線上看。市井小郎君路小白陰差陽錯惹上霸道女捕快沈君夜，被迫簽下“賣身契”入贅沈府，兩人在探案中由敵對到相互欣賞，愛情事業雙豐收的故事。</desc>
-  </programme>
-  <programme start="20260121194000 +0000" stop="20260121200000 +0000" channel="Focus風采戲劇臺">
-    <title lang="zh">公主變形記</title>
-    <desc lang="zh">本是富庶肥沃、製衣文化聞名遐邇的青城縣，隨着青壯年逐漸外出務工，只留下老人和孩子獨守家園，高超的製衣技巧便因此逐漸失傳。公主盛桃桃天生愛美，來到青城縣後決心發揚製衣手藝。在盛桃桃的運作後，朝廷頒佈了養老令，重振了青城的商貿事業，吸引了很多年輕人回來工作，令青城再創繁榮。</desc>
-  </programme>
-  <programme start="20260121200000 +0000" stop="20260121210000 +0000" channel="Focus風采戲劇臺">
-    <title lang="zh">長樂曲</title>
-    <desc lang="zh">顏幸與沈渡發現半面鬼的傳說是用來掩飾被折磨的受害者。司馬比丘受重傷，希望沈渡給他一個痛快，沈渡答應了。顏幸懷疑司馬比丘是太后的探子，並推測莫謙之可能涉入其中。隨後，半面鬼劫持了五名女子，紀大福被揭露為半面鬼，他因妻子被李楷祥的債務牽連而復仇。</desc>
-  </programme>
-  <programme start="20260121210000 +0000" stop="20260121220000 +0000" channel="Focus風采戲劇臺">
-    <title lang="zh">長樂曲</title>
-    <desc lang="zh">沈渡勸莫謙之放棄復活潘馳的執念，但莫謙之不願意，堅持儀式。最終儀式失敗，莫謙之被揭穿與火蛾門勾結，仍不願認錯。沈渡利用假援軍聲勢迫使莫謙之開城門，並揭示世上根本沒有復活的手段。</desc>
-  </programme>
-  <programme start="20260121220000 +0000" stop="20260121230000 +0000" channel="Focus風采戲劇臺">
-    <title lang="zh">錦繡安寧</title>
-    <desc lang="zh">羅成章杖責喬小娘並趕至田莊。宜寧因冒險謀劃受罰後病重，慎遠用杜大夫法救她。宜寧病癒後向祖母請罪並為慎遠辯護。海如清查小娘帳目整治宜憐。宜寧提議為母親昭雪，成章答應。慎遠警覺陸嘉學的懷疑，送丹露給宜寧卻被察覺。宜寧求三哥勿生氣並承諾謹慎，祖母提黃芪牡丹湯或涉母親舊事，宜寧心生疑惑。</desc>
-  </programme>
-  <programme start="20260121230000 +0000" stop="20260122000000 +0000" channel="Focus風采戲劇臺">
-    <title lang="zh">錦繡安寧</title>
-    <desc lang="zh">陳四認罪輕判，宜寧心灰意冷，打算查清真相後離開羅府。慎遠帶宜寧訪孤兒所，二人互吐心願。慎遠想科考，宜寧欲幫其入族譜。宜寧調查生母病逝，懷疑藥方有蹊蹺，求證大夫，得知病情本好轉卻猝死。宜秀減肥無效，責問林茂並抱走富貴。陸嘉學與宜寧偶遇，險些暴露身份，慎遠提醒他已盯上羅府。</desc>
-  </programme>
   <programme start="20260122000000 +0000" stop="20260122003500 +0000" channel="Focus風采戲劇臺">
     <title lang="zh">借寧安(30分鐘版)</title>
     <desc lang="zh">患有怪病的貴嬪蘇芩入宮後，遭遇黑衣人劫持，以成婚為交換條件，被迫與寧安王陸寰達成「弒君」的約定。在經歷生死風波中，二人感情逐漸升溫…</desc>
@@ -523966,6 +524942,134 @@ Romeo看到偶像的表情也太可愛
     <desc lang="zh">羅成章發現羅軒遠書箱內小抄，欲剝奪其科考資格，羅宜憐承認錯誤並懇求父親允許弟弟赴考，自己被罰跪祠堂。羅慎遠不負眾望中瞭解元，羅宜寧欣喜萬分，林海如也為其驕傲。眾人紛紛為慎遠提親，林海如攜子榮歸，羅成章聞訊神色複雜。陸嘉學根據羅宜寧線索，在別院發現無字碑與婢女眉眉屍體，悲痛下令厚葬。羅山遠落榜被陳蘭斥責，林茂裝哭逃罰被林海如識破。羅慎遠取得祖父證詞，揭陳九衡遭誣陷真相。師兄陳道衍欲敲登聞鼓鳴冤，慎遠勸其緩行，陸嘉學設伏欲引出慎遠，慎遠傳訊暗中保護師兄周全。</desc>
   </programme>
   <programme start="20260126000000 +0000" stop="20260126003800 +0000" channel="Focus風采戲劇臺">
+    <title lang="zh">權寵(30分鐘版)</title>
+    <desc lang="zh">在風雨飄搖的大寧王朝末年，野心勃勃的裴慎之膽大妄為地竄改了先帝的遺詔，扶植傀儡皇帝寧謹一登基。寧謹一表面順從，暗中積蓄力量，推動新政。裴慎之在暗中提供協助，並且逐漸被寧謹一的聰明才智所折服。寧謹一也步步踏上成為女帝的霸業之路…</desc>
+  </programme>
+  <programme start="20260126003800 +0000" stop="20260126011300 +0000" channel="Focus風采戲劇臺">
+    <title lang="zh">權寵(30分鐘版)</title>
+    <desc lang="zh">在風雨飄搖的大寧王朝末年，野心勃勃的裴慎之膽大妄為地竄改了先帝的遺詔，扶植傀儡皇帝寧謹一登基。寧謹一表面順從，暗中積蓄力量，推動新政。裴慎之在暗中提供協助，並且逐漸被寧謹一的聰明才智所折服。寧謹一也步步踏上成為女帝的霸業之路…</desc>
+  </programme>
+  <programme start="20260126011300 +0000" stop="20260126014100 +0000" channel="Focus風采戲劇臺">
+    <title lang="zh">雙面贅婿第一季</title>
+    <desc lang="zh">市井小郎君路小白陰差陽錯惹上霸道女捕快沈君夜，被迫簽下“賣身契”入贅沈府，兩人在探案中由敵對到相互欣賞，愛情事業雙豐收的故事。</desc>
+  </programme>
+  <programme start="20260126014100 +0000" stop="20260126020000 +0000" channel="Focus風采戲劇臺">
+    <title lang="zh">公主變形記</title>
+    <desc lang="zh">本是富庶肥沃、製衣文化聞名遐邇的青城縣，隨着青壯年逐漸外出務工，只留下老人和孩子獨守家園，高超的製衣技巧便因此逐漸失傳。公主盛桃桃天生愛美，來到青城縣後決心發揚製衣手藝。在盛桃桃的運作後，朝廷頒佈了養老令，重振了青城的商貿事業，吸引了很多年輕人回來工作，令青城再創繁榮。</desc>
+  </programme>
+  <programme start="20260126020000 +0000" stop="20260126030000 +0000" channel="Focus風采戲劇臺">
+    <title lang="zh">長樂曲</title>
+    <desc lang="zh">陸垂垂被來羅織強行帶走，來羅織意圖與她成婚，但陸垂垂已訂婚於江郎行，堅決拒絕。金藏因被誣陷而被公開示眾，並試圖向顏幸交代真相，最終選擇自殺。顏幸母親承受不住打擊暈倒，顏幸憤怒地質問來羅織。太皇太后對金藏的死感到震驚，決定不再審問金家。</desc>
+  </programme>
+  <programme start="20260126030000 +0000" stop="20260126040000 +0000" channel="Focus風采戲劇臺">
+    <title lang="zh">長樂曲</title>
+    <desc lang="zh">太皇太后因噩夢而醒，反思自己為國付出的努力。來羅織控制了官員，逼沈渡定罪，沈渡因缺乏證據拒絕。來羅織以太皇太后的權力威脅沈渡，並企圖聯手掌控天下，但沈渡拒絕。顏幸得知沈渡被抓，決心上宮求情，卻遭遇刺客襲擊。徐想仁和雲雀保護她，但最終受重傷，雲雀也被殺。</desc>
+  </programme>
+  <programme start="20260126040000 +0000" stop="20260126050000 +0000" channel="Focus風采戲劇臺">
+    <title lang="zh">錦繡安寧</title>
+    <desc lang="zh">陸嘉學懷疑宜寧是眉眉，宜寧謊稱眉眉已死，陸嘉學痛苦不已。醉酒的宜寧抱住慎遠訴心事，慎遠暗自無奈。宜秀得知韓炤是公主之子，陳蘭鼓勵她攀附高門。宜憐暗中破壞慎遠的考試用具，宜寧識破將慎遠物品移至海棠苑。考前檢查時，軒遠的盒子被發現藏有作弊用具，成章大怒，宜憐慌亂為軒遠辯解。</desc>
+  </programme>
+  <programme start="20260126050000 +0000" stop="20260126060000 +0000" channel="Focus風采戲劇臺">
+    <title lang="zh">錦繡安寧</title>
+    <desc lang="zh">羅成章發現羅軒遠書箱內小抄，欲剝奪其科考資格，羅宜憐承認錯誤並懇求父親允許弟弟赴考，自己被罰跪祠堂。羅慎遠不負眾望中瞭解元，羅宜寧欣喜萬分，林海如也為其驕傲。眾人紛紛為慎遠提親，林海如攜子榮歸，羅成章聞訊神色複雜。陸嘉學根據羅宜寧線索，在別院發現無字碑與婢女眉眉屍體，悲痛下令厚葬。羅山遠落榜被陳蘭斥責，林茂裝哭逃罰被林海如識破。羅慎遠取得祖父證詞，揭陳九衡遭誣陷真相。師兄陳道衍欲敲登聞鼓鳴冤，慎遠勸其緩行，陸嘉學設伏欲引出慎遠，慎遠傳訊暗中保護師兄周全。</desc>
+  </programme>
+  <programme start="20260126060000 +0000" stop="20260126063800 +0000" channel="Focus風采戲劇臺">
+    <title lang="zh">權寵(30分鐘版)</title>
+    <desc lang="zh">在風雨飄搖的大寧王朝末年，野心勃勃的裴慎之膽大妄為地竄改了先帝的遺詔，扶植傀儡皇帝寧謹一登基。寧謹一表面順從，暗中積蓄力量，推動新政。裴慎之在暗中提供協助，並且逐漸被寧謹一的聰明才智所折服。寧謹一也步步踏上成為女帝的霸業之路…</desc>
+  </programme>
+  <programme start="20260126063800 +0000" stop="20260126071300 +0000" channel="Focus風采戲劇臺">
+    <title lang="zh">權寵(30分鐘版)</title>
+    <desc lang="zh">在風雨飄搖的大寧王朝末年，野心勃勃的裴慎之膽大妄為地竄改了先帝的遺詔，扶植傀儡皇帝寧謹一登基。寧謹一表面順從，暗中積蓄力量，推動新政。裴慎之在暗中提供協助，並且逐漸被寧謹一的聰明才智所折服。寧謹一也步步踏上成為女帝的霸業之路…</desc>
+  </programme>
+  <programme start="20260126071300 +0000" stop="20260126074100 +0000" channel="Focus風采戲劇臺">
+    <title lang="zh">雙面贅婿第一季</title>
+    <desc lang="zh">市井小郎君路小白陰差陽錯惹上霸道女捕快沈君夜，被迫簽下“賣身契”入贅沈府，兩人在探案中由敵對到相互欣賞，愛情事業雙豐收的故事。</desc>
+  </programme>
+  <programme start="20260126074100 +0000" stop="20260126080000 +0000" channel="Focus風采戲劇臺">
+    <title lang="zh">公主變形記</title>
+    <desc lang="zh">本是富庶肥沃、製衣文化聞名遐邇的青城縣，隨着青壯年逐漸外出務工，只留下老人和孩子獨守家園，高超的製衣技巧便因此逐漸失傳。公主盛桃桃天生愛美，來到青城縣後決心發揚製衣手藝。在盛桃桃的運作後，朝廷頒佈了養老令，重振了青城的商貿事業，吸引了很多年輕人回來工作，令青城再創繁榮。</desc>
+  </programme>
+  <programme start="20260126080000 +0000" stop="20260126090000 +0000" channel="Focus風采戲劇臺">
+    <title lang="zh">長樂曲</title>
+    <desc lang="zh">陸垂垂被來羅織強行帶走，來羅織意圖與她成婚，但陸垂垂已訂婚於江郎行，堅決拒絕。金藏因被誣陷而被公開示眾，並試圖向顏幸交代真相，最終選擇自殺。顏幸母親承受不住打擊暈倒，顏幸憤怒地質問來羅織。太皇太后對金藏的死感到震驚，決定不再審問金家。</desc>
+  </programme>
+  <programme start="20260126090000 +0000" stop="20260126100000 +0000" channel="Focus風采戲劇臺">
+    <title lang="zh">長樂曲</title>
+    <desc lang="zh">太皇太后因噩夢而醒，反思自己為國付出的努力。來羅織控制了官員，逼沈渡定罪，沈渡因缺乏證據拒絕。來羅織以太皇太后的權力威脅沈渡，並企圖聯手掌控天下，但沈渡拒絕。顏幸得知沈渡被抓，決心上宮求情，卻遭遇刺客襲擊。徐想仁和雲雀保護她，但最終受重傷，雲雀也被殺。</desc>
+  </programme>
+  <programme start="20260126100000 +0000" stop="20260126110000 +0000" channel="Focus風采戲劇臺">
+    <title lang="zh">錦繡安寧</title>
+    <desc lang="zh">陸嘉學懷疑宜寧是眉眉，宜寧謊稱眉眉已死，陸嘉學痛苦不已。醉酒的宜寧抱住慎遠訴心事，慎遠暗自無奈。宜秀得知韓炤是公主之子，陳蘭鼓勵她攀附高門。宜憐暗中破壞慎遠的考試用具，宜寧識破將慎遠物品移至海棠苑。考前檢查時，軒遠的盒子被發現藏有作弊用具，成章大怒，宜憐慌亂為軒遠辯解。</desc>
+  </programme>
+  <programme start="20260126110000 +0000" stop="20260126120000 +0000" channel="Focus風采戲劇臺">
+    <title lang="zh">錦繡安寧</title>
+    <desc lang="zh">羅成章發現羅軒遠書箱內小抄，欲剝奪其科考資格，羅宜憐承認錯誤並懇求父親允許弟弟赴考，自己被罰跪祠堂。羅慎遠不負眾望中瞭解元，羅宜寧欣喜萬分，林海如也為其驕傲。眾人紛紛為慎遠提親，林海如攜子榮歸，羅成章聞訊神色複雜。陸嘉學根據羅宜寧線索，在別院發現無字碑與婢女眉眉屍體，悲痛下令厚葬。羅山遠落榜被陳蘭斥責，林茂裝哭逃罰被林海如識破。羅慎遠取得祖父證詞，揭陳九衡遭誣陷真相。師兄陳道衍欲敲登聞鼓鳴冤，慎遠勸其緩行，陸嘉學設伏欲引出慎遠，慎遠傳訊暗中保護師兄周全。</desc>
+  </programme>
+  <programme start="20260126120000 +0000" stop="20260126123800 +0000" channel="Focus風采戲劇臺">
+    <title lang="zh">權寵(30分鐘版)</title>
+    <desc lang="zh">在風雨飄搖的大寧王朝末年，野心勃勃的裴慎之膽大妄為地竄改了先帝的遺詔，扶植傀儡皇帝寧謹一登基。寧謹一表面順從，暗中積蓄力量，推動新政。裴慎之在暗中提供協助，並且逐漸被寧謹一的聰明才智所折服。寧謹一也步步踏上成為女帝的霸業之路…</desc>
+  </programme>
+  <programme start="20260126123800 +0000" stop="20260126131300 +0000" channel="Focus風采戲劇臺">
+    <title lang="zh">權寵(30分鐘版)</title>
+    <desc lang="zh">在風雨飄搖的大寧王朝末年，野心勃勃的裴慎之膽大妄為地竄改了先帝的遺詔，扶植傀儡皇帝寧謹一登基。寧謹一表面順從，暗中積蓄力量，推動新政。裴慎之在暗中提供協助，並且逐漸被寧謹一的聰明才智所折服。寧謹一也步步踏上成為女帝的霸業之路…</desc>
+  </programme>
+  <programme start="20260126131300 +0000" stop="20260126134100 +0000" channel="Focus風采戲劇臺">
+    <title lang="zh">雙面贅婿第一季</title>
+    <desc lang="zh">市井小郎君路小白陰差陽錯惹上霸道女捕快沈君夜，被迫簽下“賣身契”入贅沈府，兩人在探案中由敵對到相互欣賞，愛情事業雙豐收的故事。</desc>
+  </programme>
+  <programme start="20260126134100 +0000" stop="20260126140000 +0000" channel="Focus風采戲劇臺">
+    <title lang="zh">公主變形記</title>
+    <desc lang="zh">本是富庶肥沃、製衣文化聞名遐邇的青城縣，隨着青壯年逐漸外出務工，只留下老人和孩子獨守家園，高超的製衣技巧便因此逐漸失傳。公主盛桃桃天生愛美，來到青城縣後決心發揚製衣手藝。在盛桃桃的運作後，朝廷頒佈了養老令，重振了青城的商貿事業，吸引了很多年輕人回來工作，令青城再創繁榮。</desc>
+  </programme>
+  <programme start="20260126140000 +0000" stop="20260126150000 +0000" channel="Focus風采戲劇臺">
+    <title lang="zh">長樂曲</title>
+    <desc lang="zh">陸垂垂被來羅織強行帶走，來羅織意圖與她成婚，但陸垂垂已訂婚於江郎行，堅決拒絕。金藏因被誣陷而被公開示眾，並試圖向顏幸交代真相，最終選擇自殺。顏幸母親承受不住打擊暈倒，顏幸憤怒地質問來羅織。太皇太后對金藏的死感到震驚，決定不再審問金家。</desc>
+  </programme>
+  <programme start="20260126150000 +0000" stop="20260126160000 +0000" channel="Focus風采戲劇臺">
+    <title lang="zh">長樂曲</title>
+    <desc lang="zh">太皇太后因噩夢而醒，反思自己為國付出的努力。來羅織控制了官員，逼沈渡定罪，沈渡因缺乏證據拒絕。來羅織以太皇太后的權力威脅沈渡，並企圖聯手掌控天下，但沈渡拒絕。顏幸得知沈渡被抓，決心上宮求情，卻遭遇刺客襲擊。徐想仁和雲雀保護她，但最終受重傷，雲雀也被殺。</desc>
+  </programme>
+  <programme start="20260126160000 +0000" stop="20260126170000 +0000" channel="Focus風采戲劇臺">
+    <title lang="zh">錦繡安寧</title>
+    <desc lang="zh">陸嘉學懷疑宜寧是眉眉，宜寧謊稱眉眉已死，陸嘉學痛苦不已。醉酒的宜寧抱住慎遠訴心事，慎遠暗自無奈。宜秀得知韓炤是公主之子，陳蘭鼓勵她攀附高門。宜憐暗中破壞慎遠的考試用具，宜寧識破將慎遠物品移至海棠苑。考前檢查時，軒遠的盒子被發現藏有作弊用具，成章大怒，宜憐慌亂為軒遠辯解。</desc>
+  </programme>
+  <programme start="20260126170000 +0000" stop="20260126180000 +0000" channel="Focus風采戲劇臺">
+    <title lang="zh">錦繡安寧</title>
+    <desc lang="zh">羅成章發現羅軒遠書箱內小抄，欲剝奪其科考資格，羅宜憐承認錯誤並懇求父親允許弟弟赴考，自己被罰跪祠堂。羅慎遠不負眾望中瞭解元，羅宜寧欣喜萬分，林海如也為其驕傲。眾人紛紛為慎遠提親，林海如攜子榮歸，羅成章聞訊神色複雜。陸嘉學根據羅宜寧線索，在別院發現無字碑與婢女眉眉屍體，悲痛下令厚葬。羅山遠落榜被陳蘭斥責，林茂裝哭逃罰被林海如識破。羅慎遠取得祖父證詞，揭陳九衡遭誣陷真相。師兄陳道衍欲敲登聞鼓鳴冤，慎遠勸其緩行，陸嘉學設伏欲引出慎遠，慎遠傳訊暗中保護師兄周全。</desc>
+  </programme>
+  <programme start="20260126180000 +0000" stop="20260126183500 +0000" channel="Focus風采戲劇臺">
+    <title lang="zh">權寵(30分鐘版)</title>
+    <desc lang="zh">在風雨飄搖的大寧王朝末年，野心勃勃的裴慎之膽大妄為地竄改了先帝的遺詔，扶植傀儡皇帝寧謹一登基。寧謹一表面順從，暗中積蓄力量，推動新政。裴慎之在暗中提供協助，並且逐漸被寧謹一的聰明才智所折服。寧謹一也步步踏上成為女帝的霸業之路…</desc>
+  </programme>
+  <programme start="20260126183500 +0000" stop="20260126191000 +0000" channel="Focus風采戲劇臺">
+    <title lang="zh">權寵(30分鐘版)</title>
+    <desc lang="zh">在風雨飄搖的大寧王朝末年，野心勃勃的裴慎之膽大妄為地竄改了先帝的遺詔，扶植傀儡皇帝寧謹一登基。寧謹一表面順從，暗中積蓄力量，推動新政。裴慎之在暗中提供協助，並且逐漸被寧謹一的聰明才智所折服。寧謹一也步步踏上成為女帝的霸業之路…</desc>
+  </programme>
+  <programme start="20260126191000 +0000" stop="20260126194000 +0000" channel="Focus風采戲劇臺">
+    <title lang="zh">雙面贅婿第一季</title>
+    <desc lang="zh">市井小郎君路小白陰差陽錯惹上霸道女捕快沈君夜，被迫簽下“賣身契”入贅沈府，兩人在探案中由敵對到相互欣賞，愛情事業雙豐收的故事。</desc>
+  </programme>
+  <programme start="20260126194000 +0000" stop="20260126200000 +0000" channel="Focus風采戲劇臺">
+    <title lang="zh">公主變形記</title>
+    <desc lang="zh">本是富庶肥沃、製衣文化聞名遐邇的青城縣，隨着青壯年逐漸外出務工，只留下老人和孩子獨守家園，高超的製衣技巧便因此逐漸失傳。公主盛桃桃天生愛美，來到青城縣後決心發揚製衣手藝。在盛桃桃的運作後，朝廷頒佈了養老令，重振了青城的商貿事業，吸引了很多年輕人回來工作，令青城再創繁榮。</desc>
+  </programme>
+  <programme start="20260126200000 +0000" stop="20260126210000 +0000" channel="Focus風采戲劇臺">
+    <title lang="zh">長樂曲</title>
+    <desc lang="zh">顏幸對沈渡提出和離感到震驚，沈渡認為他們不適合共度一生，堅持要分開。顏幸認為自己可以與沈渡並肩行走，卻被拒絕，最後生氣離開。她因不滿和離書而昏倒，醒來後得知沈渡的決定，並驚訝於好友徐帥和雲雀的死。自責的顏幸在兩人墓前悔恨，沈渡鼓勵她不要攬下所有責任，並要求她簽署和離書。</desc>
+  </programme>
+  <programme start="20260126210000 +0000" stop="20260126220000 +0000" channel="Focus風采戲劇臺">
+    <title lang="zh">長樂曲</title>
+    <desc lang="zh">來羅織給陸垂垂三天的時間思考，陸垂垂因情緒失控抱著江郎行哭泣。顏幸因與家人爭執而心煩，與潘馳私會並在當鋪相遇，向陸垂垂傳遞信息。陸垂垂和江郎行決定暫時避風頭，假裝逃走。來羅織得知後大為震怒。潘馳向顏幸表白，兩人一起放天燈，卻遭來羅織威脅。</desc>
+  </programme>
+  <programme start="20260126220000 +0000" stop="20260126230000 +0000" channel="Focus風采戲劇臺">
+    <title lang="zh">錦繡安寧</title>
+    <desc lang="zh">陳道衍持冤屈橫幅跪於府衙前三日，師兄弟向行人散發冤情書，引發民眾議論。陸嘉學欲除陳道衍，羅慎遠暗中保護。輿論壓力下，朝廷命汪遠重審此案，慎遠深知汪遠乃主謀，若由其主導，冤案無法昭雪，遂策劃牽涉英國公介入調查。英國公收到調查紀錄後決定幹預。陸嘉學設局挑釁，謊稱已對陳道衍嚴刑逼供，慎遠忍怒不發，攜羅宜寧離去。宜寧詢問宜秀心儀之人，宜秀默想起林茂。涼亭中，醉酒羅成文誤認楊卿畫為舊人，引發誤會，幸陳蘭及時解圍。</desc>
+  </programme>
+  <programme start="20260126230000 +0000" stop="20260127000000 +0000" channel="Focus風采戲劇臺">
+    <title lang="zh">錦繡安寧</title>
+    <desc lang="zh">陳蘭目睹夫君與楊卿畫親暱互動，心生妒火，卻因對方為羅府賓客暫且隱忍。楊卿畫心生去意，羅成文贈予盤纏，羅宜寧安排她去明瀾堂。楊卿畫兄長現身難民區，宜寧代其前往卻遭綁匪誤綁，慎遠救她時中毒昏迷。陳蘭知綁匪失手，提醒手下謹慎。楊卿畫透露羅成文曾誤認她為明瀾，宜寧推測綁錯目標。慎遠從綁匪處得知買兇者乃老婦人，將證詞交英國公製衡汪遠，獲羅老太太讚許。林海如廟中遇劫匪，機智應對保全眾人。林茂帶回香料，宜秀安慰，兩人約定烤肉。林茂立志拯救百姓，慎遠與宜寧說服林海如支持，成章對林海如漸生情愫。</desc>
+  </programme>
+  <programme start="20260127000000 +0000" stop="20260127003500 +0000" channel="Focus風采戲劇臺">
     <title lang="zh">權寵(30分鐘版)</title>
     <desc lang="zh">在風雨飄搖的大寧王朝末年，野心勃勃的裴慎之膽大妄為地竄改了先帝的遺詔，扶植傀儡皇帝寧謹一登基。寧謹一表面順從，暗中積蓄力量，推動新政。裴慎之在暗中提供協助，並且逐漸被寧謹一的聰明才智所折服。寧謹一也步步踏上成為女帝的霸業之路…</desc>
   </programme>
@@ -622534,11 +623638,11 @@ Romeo看到偶像的表情也太可愛
     <title lang="zh">Super Singer S11</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260122045200 +0800" stop="20260122053000 +0800" channel="Star_Vijay_HD">
+  <programme start="20260122045200 +0800" stop="20260122052000 +0800" channel="Star_Vijay_HD">
     <title lang="zh">Chinna Marumagal</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260122053000 +0800" stop="20260122060000 +0800" channel="Star_Vijay_HD">
+  <programme start="20260122052000 +0800" stop="20260122060000 +0800" channel="Star_Vijay_HD">
     <title lang="zh">Sindhu Bairavi</title>
     <desc lang="zh"> </desc>
   </programme>
