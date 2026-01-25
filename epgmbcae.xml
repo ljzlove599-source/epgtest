@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260126013000 +0800" stop="20260126030000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-  </programme>
   <programme start="20260126030000 +0800" stop="20260126040000 +0800" channel="mbc action">
     <title lang="en">برنامج action bodcast </title>
   </programme>
@@ -20,9 +17,6 @@
   </programme>
   <programme start="20260126043000 +0800" stop="20260126063000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
-  </programme>
-  <programme start="20260126010000 +0800" stop="20260126030000 +0800" channel="mbc max">
-    <title lang="en">London Fields</title>
   </programme>
   <programme start="20260126030000 +0800" stop="20260126050000 +0800" channel="mbc max">
     <title lang="en">The Boy</title>
@@ -245,5 +239,8 @@
   </programme>
   <programme start="20260128112500 +0800" stop="20260128125500 +0800" channel="mbc 2">
     <title lang="en">The Rental</title>
+  </programme>
+  <programme start="20260128125500 +0800" stop="20260128143000 +0800" channel="mbc 2">
+    <title lang="en">The Words</title>
   </programme>
 </tv>
