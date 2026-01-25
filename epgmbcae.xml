@@ -9,12 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260125203000 +0800" stop="20260125213000 +0800" channel="mbc action">
-    <title lang="en">برنامج The Ride Life With Sung Kang</title>
-  </programme>
-  <programme start="20260125213000 +0800" stop="20260125223000 +0800" channel="mbc action">
-    <title lang="en">برنامج cars &amp; stars </title>
-  </programme>
   <programme start="20260125223000 +0800" stop="20260125230000 +0800" channel="mbc action">
     <title lang="en">One Piece</title>
   </programme>
@@ -38,9 +32,6 @@
   </programme>
   <programme start="20260126043000 +0800" stop="20260126063000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
-  </programme>
-  <programme start="20260125200000 +0800" stop="20260125220000 +0800" channel="mbc max">
-    <title lang="en">The Black Dahlia</title>
   </programme>
   <programme start="20260125220000 +0800" stop="20260126010000 +0800" channel="mbc max">
     <title lang="en">Zodiac</title>
@@ -144,8 +135,8 @@
   <programme start="20260128053000 +0800" stop="20260128080000 +0800" channel="mbc max">
     <title lang="en">Prisoners</title>
   </programme>
-  <programme start="20260125183000 +0800" stop="20260125210000 +0800" channel="mbc 2">
-    <title lang="en">RED 2</title>
+  <programme start="20260128080000 +0800" stop="20260128100000 +0800" channel="mbc max">
+    <title lang="en">Foster Boy</title>
   </programme>
   <programme start="20260125210000 +0800" stop="20260125233000 +0800" channel="mbc 2">
     <title lang="en">Now You See Me 2</title>
@@ -260,5 +251,8 @@
   </programme>
   <programme start="20260128040000 +0800" stop="20260128070000 +0800" channel="mbc 2">
     <title lang="en">Django Unchained</title>
+  </programme>
+  <programme start="20260128070000 +0800" stop="20260128095000 +0800" channel="mbc 2">
+    <title lang="en">The Hateful Eight</title>
   </programme>
 </tv>
