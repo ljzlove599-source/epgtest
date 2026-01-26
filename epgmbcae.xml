@@ -9,12 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260126073000 +0800" stop="20260126083000 +0800" channel="mbc action">
-    <title lang="en">Ridiculousness</title>
-  </programme>
-  <programme start="20260126083000 +0800" stop="20260126093000 +0800" channel="mbc action">
-    <title lang="en">One Piece</title>
-  </programme>
   <programme start="20260126093000 +0800" stop="20260126110000 +0800" channel="mbc action">
     <title lang="en">برنامج adernline</title>
   </programme>
@@ -180,8 +174,14 @@
   <programme start="20260128163000 +0800" stop="20260128180000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
-  <programme start="20260126070000 +0800" stop="20260126090000 +0800" channel="mbc max">
-    <title lang="en">Inkheart</title>
+  <programme start="20260128180000 +0800" stop="20260128190000 +0800" channel="mbc action">
+    <title lang="en">برنامج وثائقيات موتورشو</title>
+  </programme>
+  <programme start="20260128190000 +0800" stop="20260128200000 +0800" channel="mbc action">
+    <title lang="en">One Piece</title>
+  </programme>
+  <programme start="20260128200000 +0800" stop="20260128210000 +0800" channel="mbc action">
+    <title lang="en">برنامجcar issuse</title>
   </programme>
   <programme start="20260126090000 +0800" stop="20260126112000 +0800" channel="mbc max">
     <title lang="en">The Mask of Zorro</title>
@@ -285,8 +285,8 @@
   <programme start="20260128163000 +0800" stop="20260128190000 +0800" channel="mbc max">
     <title lang="en">The Place Beyond the Pines</title>
   </programme>
-  <programme start="20260126070000 +0800" stop="20260126090000 +0800" channel="mbc 2">
-    <title lang="en">Halloween</title>
+  <programme start="20260128190000 +0800" stop="20260128210000 +0800" channel="mbc max">
+    <title lang="en">Hell or High Water</title>
   </programme>
   <programme start="20260126090000 +0800" stop="20260126110000 +0800" channel="mbc 2">
     <title lang="en">The Hitman's Bodyguard</title>
@@ -407,5 +407,8 @@
   </programme>
   <programme start="20260128170000 +0800" stop="20260128192500 +0800" channel="mbc 2">
     <title lang="en">Public Enemies</title>
+  </programme>
+  <programme start="20260128192500 +0800" stop="20260128213000 +0800" channel="mbc 2">
+    <title lang="en">Creed II</title>
   </programme>
 </tv>
