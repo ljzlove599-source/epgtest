@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260126143000 +0800" stop="20260126153000 +0800" channel="mbc action">
-    <title lang="en">برنامج bear grylls</title>
-  </programme>
   <programme start="20260126153000 +0800" stop="20260126163000 +0800" channel="mbc action">
     <title lang="en">One Piece</title>
   </programme>
@@ -186,6 +183,9 @@
   <programme start="20260129000000 +0800" stop="20260129010000 +0800" channel="mbc action">
     <title lang="en">One Piece</title>
   </programme>
+  <programme start="20260129010000 +0800" stop="20260129020000 +0800" channel="mbc action">
+    <title lang="en">برنامج action bodcast</title>
+  </programme>
   <programme start="20260126140000 +0800" stop="20260126160000 +0800" channel="mbc max">
     <title lang="en">My Best Friend's Wedding</title>
   </programme>
@@ -290,6 +290,12 @@
   </programme>
   <programme start="20260128230000 +0800" stop="20260129003000 +0800" channel="mbc max">
     <title lang="en">The Dark Tower</title>
+  </programme>
+  <programme start="20260129003000 +0800" stop="20260129010000 +0800" channel="mbc max">
+    <title lang="en">برنامج Planet Action</title>
+  </programme>
+  <programme start="20260129010000 +0800" stop="20260129030000 +0800" channel="mbc max">
+    <title lang="en">Warcraft</title>
   </programme>
   <programme start="20260126140500 +0800" stop="20260126162500 +0800" channel="mbc 2">
     <title lang="en">Molly's Game</title>
