@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260126153000 +0800" stop="20260126163000 +0800" channel="mbc action">
-    <title lang="en">One Piece</title>
-  </programme>
   <programme start="20260126163000 +0800" stop="20260126180000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
@@ -186,8 +183,8 @@
   <programme start="20260129010000 +0800" stop="20260129020000 +0800" channel="mbc action">
     <title lang="en">برنامج action bodcast</title>
   </programme>
-  <programme start="20260126140000 +0800" stop="20260126160000 +0800" channel="mbc max">
-    <title lang="en">My Best Friend's Wedding</title>
+  <programme start="20260129020000 +0800" stop="20260129030000 +0800" channel="mbc action">
+    <title lang="en">بودكاست ملح الدوري</title>
   </programme>
   <programme start="20260126160000 +0800" stop="20260126183000 +0800" channel="mbc max">
     <title lang="en">Zodiac</title>
@@ -296,12 +293,6 @@
   </programme>
   <programme start="20260129010000 +0800" stop="20260129030000 +0800" channel="mbc max">
     <title lang="en">Warcraft</title>
-  </programme>
-  <programme start="20260126140500 +0800" stop="20260126162500 +0800" channel="mbc 2">
-    <title lang="en">Molly's Game</title>
-  </programme>
-  <programme start="20260126162500 +0800" stop="20260126165500 +0800" channel="mbc 2">
-    <title lang="en">Films &amp; Stars</title>
   </programme>
   <programme start="20260126165500 +0800" stop="20260126190000 +0800" channel="mbc 2">
     <title lang="en">Wasp Network</title>
@@ -419,5 +410,11 @@
   </programme>
   <programme start="20260129000000 +0800" stop="20260129013000 +0800" channel="mbc 2">
     <title lang="en">The Grinch</title>
+  </programme>
+  <programme start="20260129013000 +0800" stop="20260129020000 +0800" channel="mbc 2">
+    <title lang="en">برنامج World Of Movies 3</title>
+  </programme>
+  <programme start="20260129020000 +0800" stop="20260129033500 +0800" channel="mbc 2">
+    <title lang="en">Paddington</title>
   </programme>
 </tv>

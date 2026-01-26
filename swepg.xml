@@ -7029,10 +7029,6 @@
   <channel id="beinsports4">
     <display-name lang="zh">beinsports4</display-name>
   </channel>
-  <programme start="20260126153000 +0800" stop="20260126163000 +0800" channel="mbc action">
-    <title lang="en">One Piece</title>
-    <desc lang=""/>
-  </programme>
   <programme start="20260126163000 +0800" stop="20260126180000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
     <desc lang=""/>
@@ -7265,8 +7261,8 @@
     <title lang="en">برنامج action bodcast</title>
     <desc lang=""/>
   </programme>
-  <programme start="20260126140000 +0800" stop="20260126160000 +0800" channel="mbc max">
-    <title lang="en">My Best Friend's Wedding</title>
+  <programme start="20260129020000 +0800" stop="20260129030000 +0800" channel="mbc action">
+    <title lang="en">بودكاست ملح الدوري</title>
     <desc lang=""/>
   </programme>
   <programme start="20260126160000 +0800" stop="20260126183000 +0800" channel="mbc max">
@@ -7411,14 +7407,6 @@
   </programme>
   <programme start="20260129010000 +0800" stop="20260129030000 +0800" channel="mbc max">
     <title lang="en">Warcraft</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260126140500 +0800" stop="20260126162500 +0800" channel="mbc 2">
-    <title lang="en">Molly's Game</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260126162500 +0800" stop="20260126165500 +0800" channel="mbc 2">
-    <title lang="en">Films &amp; Stars</title>
     <desc lang=""/>
   </programme>
   <programme start="20260126165500 +0800" stop="20260126190000 +0800" channel="mbc 2">
@@ -7575,6 +7563,14 @@
   </programme>
   <programme start="20260129000000 +0800" stop="20260129013000 +0800" channel="mbc 2">
     <title lang="en">The Grinch</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260129013000 +0800" stop="20260129020000 +0800" channel="mbc 2">
+    <title lang="en">برنامج World Of Movies 3</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260129020000 +0800" stop="20260129033500 +0800" channel="mbc 2">
+    <title lang="en">Paddington</title>
     <desc lang=""/>
   </programme>
   <programme start="20260125000000 +0400" stop="20260125020000 +0400" channel="Dubai One">
@@ -7906,11 +7902,11 @@
     <desc lang=""/>
   </programme>
   <programme start="20260126170000 +0900" stop="20260126175500 +0900" channel="KBSWorld">
-    <title lang="en">My Neighbor, Charles Ep.514 [LIVE]</title>
+    <title lang="en">My Neighbor, Charles Ep.514</title>
     <desc lang=""/>
   </programme>
   <programme start="20260126175500 +0900" stop="20260126192000 +0900" channel="KBSWorld">
-    <title lang="en">Music Bank Ep.1277</title>
+    <title lang="en">Music Bank Ep.1277 [LIVE]</title>
     <desc lang=""/>
   </programme>
   <programme start="20260126192000 +0900" stop="20260126203500 +0900" channel="KBSWorld">
@@ -32009,100 +32005,64 @@
     <title lang="zh">东亚超级篮球联赛 - 澳门黑熊 对 琉球黄金帝王</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260129060000 +0800" stop="20260129065959 +0800" channel="HOY体育台">
-    <title lang="zh">节目未能提供</title>
+  <programme start="20260129060000 +0800" stop="20260129091000 +0800" channel="HOY体育台">
+    <title lang="zh">U23 亚洲杯足球赛半准决赛 - 日本 对 约旦</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260129070000 +0800" stop="20260129075959 +0800" channel="HOY体育台">
-    <title lang="zh">节目未能提供</title>
+  <programme start="20260129091000 +0800" stop="20260129111500 +0800" channel="HOY体育台">
+    <title lang="zh">阿根廷甲组足球联赛 - 学生队 对 小保加 (直播)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260129080000 +0800" stop="20260129085959 +0800" channel="HOY体育台">
-    <title lang="zh">节目未能提供</title>
+  <programme start="20260129111500 +0800" stop="20260129120000 +0800" channel="HOY体育台">
+    <title lang="zh">AFC Champions League Two 2025/26 Knockout Stage Draw</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260129090000 +0800" stop="20260129095959 +0800" channel="HOY体育台">
-    <title lang="zh">节目未能提供</title>
+  <programme start="20260129120000 +0800" stop="20260129140000 +0800" channel="HOY体育台">
+    <title lang="zh">阿联酋职业足球联赛 - 阿吉曼会 对 艾迪哈夫拉</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260129100000 +0800" stop="20260129105959 +0800" channel="HOY体育台">
-    <title lang="zh">节目未能提供</title>
+  <programme start="20260129140000 +0800" stop="20260129170000 +0800" channel="HOY体育台">
+    <title lang="zh">U23 亚洲杯足球赛半准决赛 - 日本 对 约旦</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260129110000 +0800" stop="20260129115959 +0800" channel="HOY体育台">
-    <title lang="zh">节目未能提供</title>
+  <programme start="20260129170000 +0800" stop="20260129180000 +0800" channel="HOY体育台">
+    <title lang="zh">大众参与 2025 第6集</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260129120000 +0800" stop="20260129125959 +0800" channel="HOY体育台">
-    <title lang="zh">节目未能提供</title>
+  <programme start="20260129180000 +0800" stop="20260129200000 +0800" channel="HOY体育台">
+    <title lang="zh">澳洲女子职业足球联赛 - 中岸水手 对 西悉尼流浪者</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260129130000 +0800" stop="20260129135959 +0800" channel="HOY体育台">
-    <title lang="zh">节目未能提供</title>
+  <programme start="20260129200000 +0800" stop="20260129211000 +0800" channel="HOY体育台">
+    <title lang="zh">大众参与 2025 第10集</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260129140000 +0800" stop="20260129145959 +0800" channel="HOY体育台">
-    <title lang="zh">节目未能提供</title>
+  <programme start="20260129211000 +0800" stop="20260129231500 +0800" channel="HOY体育台">
+    <title lang="zh">阿联酋职业足球联赛 - 艾巴塔 对 艾查捷拉 (直播)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260129150000 +0800" stop="20260129155959 +0800" channel="HOY体育台">
-    <title lang="zh">节目未能提供</title>
+  <programme start="20260129231500 +0800" stop="20260130000000 +0800" channel="HOY体育台">
+    <title lang="zh">2025年个人赛车赛事 第1集</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260129160000 +0800" stop="20260129165959 +0800" channel="HOY体育台">
-    <title lang="zh">节目未能提供</title>
+  <programme start="20260130000000 +0800" stop="20260130020000 +0800" channel="HOY体育台">
+    <title lang="zh">阿根廷甲组足球联赛 - 联合队 对 沙士菲</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260129170000 +0800" stop="20260129175959 +0800" channel="HOY体育台">
-    <title lang="zh">节目未能提供</title>
+  <programme start="20260130020000 +0800" stop="20260130023000 +0800" channel="HOY体育台">
+    <title lang="zh">AFC Champions League Two 2025/26 Knockout Stage Draw</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260129180000 +0800" stop="20260129185959 +0800" channel="HOY体育台">
-    <title lang="zh">节目未能提供</title>
+  <programme start="20260130023000 +0800" stop="20260130033000 +0800" channel="HOY体育台">
+    <title lang="zh">大众参与 2025 第10集</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260129190000 +0800" stop="20260129195959 +0800" channel="HOY体育台">
-    <title lang="zh">节目未能提供</title>
+  <programme start="20260130033000 +0800" stop="20260130040000 +0800" channel="HOY体育台">
+    <title lang="zh">第45届黄金海岸马拉松精华 第1集</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260129200000 +0800" stop="20260129205959 +0800" channel="HOY体育台">
-    <title lang="zh">节目未能提供</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260129210000 +0800" stop="20260129215959 +0800" channel="HOY体育台">
-    <title lang="zh">节目未能提供</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260129220000 +0800" stop="20260129225959 +0800" channel="HOY体育台">
-    <title lang="zh">节目未能提供</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260129230000 +0800" stop="20260129235959 +0800" channel="HOY体育台">
-    <title lang="zh">节目未能提供</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260130000000 +0800" stop="20260130005959 +0800" channel="HOY体育台">
-    <title lang="zh">节目未能提供</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260130010000 +0800" stop="20260130015959 +0800" channel="HOY体育台">
-    <title lang="zh">节目未能提供</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260130020000 +0800" stop="20260130025959 +0800" channel="HOY体育台">
-    <title lang="zh">节目未能提供</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260130030000 +0800" stop="20260130035959 +0800" channel="HOY体育台">
-    <title lang="zh">节目未能提供</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260130040000 +0800" stop="20260130045959 +0800" channel="HOY体育台">
-    <title lang="zh">节目未能提供</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260130050000 +0800" stop="20260130055959 +0800" channel="HOY体育台">
-    <title lang="zh">节目未能提供</title>
+  <programme start="20260130040000 +0800" stop="20260130060000 +0800" channel="HOY体育台">
+    <title lang="zh">阿联酋职业足球联赛 - 阿吉曼会 对 艾迪哈夫拉</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260130060000 +0800" stop="20260130065959 +0800" channel="HOY体育台">
@@ -40106,11 +40066,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260125071900 +0800" stop="20260125071900 +0800" channel="spot on news">
-    <title lang="zh">Terrifying crash in Fort Oglethorpe sends four to hospital</title>
+    <title lang="zh">Scary moment: Lightning strikes car</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260125071900 +0800" stop="20260125071900 +0800" channel="spot on news">
-    <title lang="zh">Scary moment: Lightning strikes car</title>
+    <title lang="zh">Terrifying crash in Fort Oglethorpe sends four to hospital</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260125071900 +0800" stop="20260125072000 +0800" channel="spot on news">
@@ -42546,11 +42506,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260125162300 +0800" stop="20260125162300 +0800" channel="spot on news">
-    <title lang="zh">Escalator suddenly speeds up, causes panic at University</title>
+    <title lang="zh">Prince William delights with sweet baby moment</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260125162300 +0800" stop="20260125162300 +0800" channel="spot on news">
-    <title lang="zh">Prince William delights with sweet baby moment</title>
+    <title lang="zh">Escalator suddenly speeds up, causes panic at University</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260125162300 +0800" stop="20260125162400 +0800" channel="spot on news">
@@ -43290,11 +43250,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260125191500 +0800" stop="20260125191500 +0800" channel="spot on news">
-    <title lang="zh">"Mothership": Monstrous storm cloud passes over Kansas</title>
+    <title lang="zh">State of Indiana: Mass pile-up caused by winter storm</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260125191500 +0800" stop="20260125191500 +0800" channel="spot on news">
-    <title lang="zh">State of Indiana: Mass pile-up caused by winter storm</title>
+    <title lang="zh">"Mothership": Monstrous storm cloud passes over Kansas</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260125191500 +0800" stop="20260125191600 +0800" channel="spot on news">
@@ -44010,11 +43970,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260125220200 +0800" stop="20260125220200 +0800" channel="spot on news">
-    <title lang="zh">In Beijing museum: Child knocks gold crown off pedestal</title>
+    <title lang="zh">Deer rampages in bank branch</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260125220200 +0800" stop="20260125220200 +0800" channel="spot on news">
-    <title lang="zh">Deer rampages in bank branch</title>
+    <title lang="zh">In Beijing museum: Child knocks gold crown off pedestal</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260125220200 +0800" stop="20260125220300 +0800" channel="spot on news">
@@ -49489,15 +49449,563 @@
     <title lang="zh">Chemical fire rages in Newburgh manufacturing facility</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260126182800 +0800" stop="20260126185959 +0800" channel="spot on news">
-    <title lang="zh">节目未能提供</title>
+  <programme start="20260126182800 +0800" stop="20260126182900 +0800" channel="spot on news">
+    <title lang="zh">Major fire causes dozens of gas cylinders to explode</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260126190000 +0800" stop="20260126195959 +0800" channel="spot on news">
-    <title lang="zh">节目未能提供</title>
+  <programme start="20260126182900 +0800" stop="20260126182900 +0800" channel="spot on news">
+    <title lang="zh">Grateful Dead guitarist Bob Weir has passed away</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260126200000 +0800" stop="20260126205959 +0800" channel="spot on news">
+  <programme start="20260126182900 +0800" stop="20260126183000 +0800" channel="spot on news">
+    <title lang="zh">Mia Goth and Jacob Elordi at the Frankenstein premiere in Los Angeles</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126183000 +0800" stop="20260126183100 +0800" channel="spot on news">
+    <title lang="zh">Mega typhoon Kajiki devastates holiday island in China</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126183100 +0800" stop="20260126183100 +0800" channel="spot on news">
+    <title lang="zh">Heavy weather in Nebraska: massive storm tears off prison roof</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126183100 +0800" stop="20260126183200 +0800" channel="spot on news">
+    <title lang="zh">"O'zapft is!" Mayor Dieter Reiter opens Oktoberfest 2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126183200 +0800" stop="20260126183200 +0800" channel="spot on news">
+    <title lang="zh">At the railroad crossing: Freight train crashes into car transporter</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126183200 +0800" stop="20260126183300 +0800" channel="spot on news">
+    <title lang="zh">Ninth engagement: Katie Price and Lee Andrews celebrate in Dubai</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126183300 +0800" stop="20260126183400 +0800" channel="spot on news">
+    <title lang="zh">Several stars gather at german media award</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126183400 +0800" stop="20260126183700 +0800" channel="spot on news">
+    <title lang="zh">Russian helicopter crashes into beach house: Five dead</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126183700 +0800" stop="20260126183700 +0800" channel="spot on news">
+    <title lang="zh">Masked man shocks thousands of guests in Cologne Cathedral</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126183700 +0800" stop="20260126183800 +0800" channel="spot on news">
+    <title lang="zh">E-bike explodes and sets garden shed on fire</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126183800 +0800" stop="20260126183900 +0800" channel="spot on news">
+    <title lang="zh">Incredibly funny: these are the funniest animal photos of the year</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126183900 +0800" stop="20260126183900 +0800" channel="spot on news">
+    <title lang="zh">The Cure mourns Perry Bamonte: "He will be very greatly missed"</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126183900 +0800" stop="20260126184000 +0800" channel="spot on news">
+    <title lang="zh">Cow scratches itself with broomstick, puzzling scientists</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126184000 +0800" stop="20260126184100 +0800" channel="spot on news">
+    <title lang="zh">Almost like in the Netflix series: Here you can reenact "Squid Game"</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126184100 +0800" stop="20260126184100 +0800" channel="spot on news">
+    <title lang="zh">Typhoon Halong: House swept away by floodwaters</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126184100 +0800" stop="20260126184200 +0800" channel="spot on news">
+    <title lang="zh">Major fire rages in historic school</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126184200 +0800" stop="20260126184500 +0800" channel="spot on news">
+    <title lang="zh">Fashion designer Valentino has died: How the stars are reacting</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126184500 +0800" stop="20260126184600 +0800" channel="spot on news">
+    <title lang="zh">Meteor or UFO? Speculation surrounds mysterious light in the sky</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126184600 +0800" stop="20260126184600 +0800" channel="spot on news">
+    <title lang="zh">Cat mom adopts mouse - the internet celebrates her</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126184600 +0800" stop="20260126184700 +0800" channel="spot on news">
+    <title lang="zh">Deer storms into classroom and devours exam papers</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126184700 +0800" stop="20260126184800 +0800" channel="spot on news">
+    <title lang="zh">"The Wire" actor James Ransone has died</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126184800 +0800" stop="20260126184900 +0800" channel="spot on news">
+    <title lang="zh">How to get through the Christmas season stress-free</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126184900 +0800" stop="20260126185000 +0800" channel="spot on news">
+    <title lang="zh">Crash landing: Plane crashes onto golf course</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126185000 +0800" stop="20260126185300 +0800" channel="spot on news">
+    <title lang="zh">Norway: Landslide tears road and railway tracks into the depths</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126185300 +0800" stop="20260126185300 +0800" channel="spot on news">
+    <title lang="zh">Natural spectacle from space: Cosmonaut films aurora borealis</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126185300 +0800" stop="20260126185400 +0800" channel="spot on news">
+    <title lang="zh">Meteor or fireball? Mysterious ball of light illuminates night sky</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126185400 +0800" stop="20260126185400 +0800" channel="spot on news">
+    <title lang="zh">Reckless men set off fireworks in an elevator</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126185400 +0800" stop="20260126185500 +0800" channel="spot on news">
+    <title lang="zh">Donald Trump is furious about hairstyle scandal and photo manipulation</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126185500 +0800" stop="20260126185600 +0800" channel="spot on news">
+    <title lang="zh">Nightclub burns down: Owners flee to Thailand hours later</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126185600 +0800" stop="20260126185600 +0800" channel="spot on news">
+    <title lang="zh">Car crashes into house wall, narrowly missing pedestrians</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126185600 +0800" stop="20260126185700 +0800" channel="spot on news">
+    <title lang="zh">Stunning video shows the interior of Hurricane Melissa</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126185700 +0800" stop="20260126185700 +0800" channel="spot on news">
+    <title lang="zh">Crash on Mount Everest: Helicopter breaks into two pieces</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126185700 +0800" stop="20260126185800 +0800" channel="spot on news">
+    <title lang="zh">"The Smashing Machine": Dwayne Johnson and Emily Blunt in Berlin</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126185800 +0800" stop="20260126190100 +0800" channel="spot on news">
+    <title lang="zh">Until the handcuffs click: Escaped emu keeps police on their toes</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126190100 +0800" stop="20260126190200 +0800" channel="spot on news">
+    <title lang="zh">Parking fail of the year: Smart battles giant gap</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126190200 +0800" stop="20260126190300 +0800" channel="spot on news">
+    <title lang="zh">Robbie Williams accompanies daughter Teddy to her first film premiere</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126190300 +0800" stop="20260126190300 +0800" channel="spot on news">
+    <title lang="zh">Failed approach: Airbus scrapes runway</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126190300 +0800" stop="20260126190400 +0800" channel="spot on news">
+    <title lang="zh">Golden Retriever destroys sofa and puts himself in time out</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126190400 +0800" stop="20260126190400 +0800" channel="spot on news">
+    <title lang="zh">Sensation: Tourists spot albino dolphin on the east coast of the USA</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126190400 +0800" stop="20260126190500 +0800" channel="spot on news">
+    <title lang="zh">Terrifying crash in Fort Oglethorpe sends four to hospital</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126190500 +0800" stop="20260126190600 +0800" channel="spot on news">
+    <title lang="zh">"Hacks" stars copy Kylie Jenner and Timothée Chalamet's look</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126190600 +0800" stop="20260126190600 +0800" channel="spot on news">
+    <title lang="zh">Car races across ski slope: Horror in vacation resort</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126190600 +0800" stop="20260126190700 +0800" channel="spot on news">
+    <title lang="zh">The "Handmaids Army" on a protest march through New York</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126190700 +0800" stop="20260126191000 +0800" channel="spot on news">
+    <title lang="zh">Filming begins: The stars of "Scrubs" are back</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126191000 +0800" stop="20260126191000 +0800" channel="spot on news">
+    <title lang="zh">Researchers discover motionless orca calf-then the surprise</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126191000 +0800" stop="20260126191100 +0800" channel="spot on news">
+    <title lang="zh">Rihanna shines on the red carpet after her maternity leave</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126191100 +0800" stop="20260126191100 +0800" channel="spot on news">
+    <title lang="zh">Scary moment: Lightning strikes car</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126191100 +0800" stop="20260126191200 +0800" channel="spot on news">
+    <title lang="zh">Millie Bobby Brown and David Harbour: Laughing on the red carpet</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126191200 +0800" stop="20260126191300 +0800" channel="spot on news">
+    <title lang="zh">Fabergé egg cracks record with $30.2 million at auction</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126191300 +0800" stop="20260126191400 +0800" channel="spot on news">
+    <title lang="zh">Emmy Awards: These stars shine at the awards ceremony</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126191400 +0800" stop="20260126191500 +0800" channel="spot on news">
+    <title lang="zh">Super cute: kittens build a human ladder</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126191500 +0800" stop="20260126191600 +0800" channel="spot on news">
+    <title lang="zh">For a new ballroom: Trump has part of the White House demolished</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126191600 +0800" stop="20260126191800 +0800" channel="spot on news">
+    <title lang="zh">All in white: Elle Fanning shines at premiere</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126191800 +0800" stop="20260126191900 +0800" channel="spot on news">
+    <title lang="zh">Chaos at the airport: Man goes on rampage and starts fire</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126191900 +0800" stop="20260126191900 +0800" channel="spot on news">
+    <title lang="zh">Aircraft skids off runway and crashes into the sea</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126191900 +0800" stop="20260126192000 +0800" channel="spot on news">
+    <title lang="zh">Protests in Indonesia: Demonstrators set fire to parliament</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126192000 +0800" stop="20260126192100 +0800" channel="spot on news">
+    <title lang="zh">Escape from police: Car jumps over gap in drawbridge</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126192100 +0800" stop="20260126192100 +0800" channel="spot on news">
+    <title lang="zh">Driver loses control: Car crashes down stairs</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126192100 +0800" stop="20260126192200 +0800" channel="spot on news">
+    <title lang="zh">Wakakusa Yamayaki: Japan's fire ritual thrills thousands</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126192200 +0800" stop="20260126192300 +0800" channel="spot on news">
+    <title lang="zh">Wall collapses - woman narrowly escapes</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126192300 +0800" stop="20260126192300 +0800" channel="spot on news">
+    <title lang="zh">Man gets oil drum blown up in his face</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126192300 +0800" stop="20260126192400 +0800" channel="spot on news">
+    <title lang="zh">Jonathan Bailey: He is the "Sexiest Man Alive 2025"</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126192400 +0800" stop="20260126192600 +0800" channel="spot on news">
+    <title lang="zh">Crazy stunt: Duo rides horse through supermarket</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126192600 +0800" stop="20260126192700 +0800" channel="spot on news">
+    <title lang="zh">Roger Allers, director of "The Lion King", has passed away</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126192700 +0800" stop="20260126192800 +0800" channel="spot on news">
+    <title lang="zh">Excessive tailgating: Pickup truck crashes into bus</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126192800 +0800" stop="20260126192800 +0800" channel="spot on news">
+    <title lang="zh">Man builds larger-than-life Olaf snowman in his garden</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126192800 +0800" stop="20260126192900 +0800" channel="spot on news">
+    <title lang="zh">New species: Wild bee with devil horns discovered in Australia</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126192900 +0800" stop="20260126193000 +0800" channel="spot on news">
+    <title lang="zh">Amanda Seyfried copies Julia Roberts' look</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126193000 +0800" stop="20260126193000 +0800" channel="spot on news">
+    <title lang="zh">Violent gas explosion destroys retirement home</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126193000 +0800" stop="20260126193100 +0800" channel="spot on news">
+    <title lang="zh">Sensational discovery: Researchers uncover previously unknown dinosaur</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126193100 +0800" stop="20260126193200 +0800" channel="spot on news">
+    <title lang="zh">Girogio Armani dead at 91: celebs pay tribute</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126193200 +0800" stop="20260126193500 +0800" channel="spot on news">
+    <title lang="zh">Icy winter wonderland: Can Niagara Falls really freeze over?</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126193500 +0800" stop="20260126193600 +0800" channel="spot on news">
+    <title lang="zh">Giga traffic jam! Millions of travelers trapped on the freeway</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126193600 +0800" stop="20260126193600 +0800" channel="spot on news">
+    <title lang="zh">Handshake becomes a power play: Trump flexes his muscles at Macron</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126193600 +0800" stop="20260126193700 +0800" channel="spot on news">
+    <title lang="zh">Private jet overshoots runway and crashes into fence</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126193700 +0800" stop="20260126193800 +0800" channel="spot on news">
+    <title lang="zh">Researcher finds rare plant and bursts into tears</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126193800 +0800" stop="20260126193800 +0800" channel="spot on news">
+    <title lang="zh">St. Petersburg: Massive fire erupts at historic market</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126193800 +0800" stop="20260126193900 +0800" channel="spot on news">
+    <title lang="zh">Robot malfunction at Tesla: Actually a human with remote control?</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126193900 +0800" stop="20260126194000 +0800" channel="spot on news">
+    <title lang="zh">Keanu Reeves shows off his love on the red carpet</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126194000 +0800" stop="20260126194000 +0800" channel="spot on news">
+    <title lang="zh">Over 60 containers tumble from ship in Long Beach port</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126194000 +0800" stop="20260126194000 +0800" channel="spot on news">
+    <title lang="zh">Paramotor crashes into power line, pilot nearly survives</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126194000 +0800" stop="20260126194300 +0800" channel="spot on news">
+    <title lang="zh">Taylor Swift and Travis Kelce: A love note in a cornfield</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126194300 +0800" stop="20260126194400 +0800" channel="spot on news">
+    <title lang="zh">With Lego Trump: Christmas spirit in the White House</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126194400 +0800" stop="20260126194500 +0800" channel="spot on news">
+    <title lang="zh">Death certificate reveals gruesome details about Rob Reiner's death</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126194500 +0800" stop="20260126194500 +0800" channel="spot on news">
+    <title lang="zh">Wasp attacks darts world champion Luke Littler in the final</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126194500 +0800" stop="20260126194600 +0800" channel="spot on news">
+    <title lang="zh">Adorable! Timothée Chalamet cuddles with cute puppy</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126194600 +0800" stop="20260126194700 +0800" channel="spot on news">
+    <title lang="zh">Russia: Antonov military transport plane breaks apart in midair</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126194700 +0800" stop="20260126194700 +0800" channel="spot on news">
+    <title lang="zh">Hurricane Erin: heavy waves flood US coast</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126194700 +0800" stop="20260126194800 +0800" channel="spot on news">
+    <title lang="zh">Flock of sheep storms discount store</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126194800 +0800" stop="20260126194900 +0800" channel="spot on news">
+    <title lang="zh">Bus bursts into flames after colliding with motorcycle</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126194900 +0800" stop="20260126195100 +0800" channel="spot on news">
+    <title lang="zh">Ninth engagement: Katie Price and Lee Andrews celebrate in Dubai</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126195100 +0800" stop="20260126195200 +0800" channel="spot on news">
+    <title lang="zh">Shock at animal show: Bear wrestles man to the ground</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126195200 +0800" stop="20260126195300 +0800" channel="spot on news">
+    <title lang="zh">Huge wave in Argentina sweeps away beach guests</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126195300 +0800" stop="20260126195300 +0800" channel="spot on news">
+    <title lang="zh">Bus rolls backwards towards slope: passengers jump off</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126195300 +0800" stop="20260126195400 +0800" channel="spot on news">
+    <title lang="zh">Fans appalled: Tina Turner statue draws heavy criticism</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126195400 +0800" stop="20260126195400 +0800" channel="spot on news">
+    <title lang="zh">Huge sea foam engulfs roads and houses</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126195400 +0800" stop="20260126195500 +0800" channel="spot on news">
+    <title lang="zh">Gigantic fireball: Car explodes in the middle of New York</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126195500 +0800" stop="20260126195600 +0800" channel="spot on news">
+    <title lang="zh">Right on the nose: plane forced to land without landing gear</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126195600 +0800" stop="20260126195600 +0800" channel="spot on news">
+    <title lang="zh">Medical helicopter crashes on Sacramento highway</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126195600 +0800" stop="20260126195700 +0800" channel="spot on news">
+    <title lang="zh">Detroit Airport: Car crashes into Delta terminal</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126195700 +0800" stop="20260126195900 +0800" channel="spot on news">
+    <title lang="zh">Beyoncé wowed the crowd at the Formula 1 race with this outfit</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126195900 +0800" stop="20260126200000 +0800" channel="spot on news">
+    <title lang="zh">Actress Hailee Steinfeld is pregnant</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126200000 +0800" stop="20260126200100 +0800" channel="spot on news">
+    <title lang="zh">Sudden winter storm causes mass crash</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126200100 +0800" stop="20260126200100 +0800" channel="spot on news">
+    <title lang="zh">Horror accident: Giant dragon swing collapses during ride</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126200100 +0800" stop="20260126200200 +0800" channel="spot on news">
+    <title lang="zh">Hot air balloon makes emergency landing on UK street</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126200200 +0800" stop="20260126200200 +0800" channel="spot on news">
+    <title lang="zh">Kylie Jenner and Timothée Chalamet in love on the red carpet</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126200200 +0800" stop="20260126200300 +0800" channel="spot on news">
+    <title lang="zh">Force of nature: Giant avalanche engulfs cars and buses</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126200300 +0800" stop="20260126200400 +0800" channel="spot on news">
+    <title lang="zh">Police arrests 500 people at London solidarity protest</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126200400 +0800" stop="20260126200500 +0800" channel="spot on news">
+    <title lang="zh">Volcano erupts: Ash cloud shoots two kilometers into the air</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126200500 +0800" stop="20260126200500 +0800" channel="spot on news">
+    <title lang="zh">Collapse at opening: Multi-million dollar project in Congo fails</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126200500 +0800" stop="20260126200800 +0800" channel="spot on news">
+    <title lang="zh">Pursued by police: Man kicks windshield to pieces</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126200800 +0800" stop="20260126200900 +0800" channel="spot on news">
+    <title lang="zh">On the red carpet: Jason Momoa smashes movie logo</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126200900 +0800" stop="20260126200900 +0800" channel="spot on news">
+    <title lang="zh">Bold appearance in New York: Kristen Stewart shows a lot of skin</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126200900 +0800" stop="20260126201000 +0800" channel="spot on news">
+    <title lang="zh">Rare tornado topples construction cranes in Paris - one person dead</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126201000 +0800" stop="20260126201000 +0800" channel="spot on news">
+    <title lang="zh">Huge sinkhole swallows two cars</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126201000 +0800" stop="20260126201100 +0800" channel="spot on news">
+    <title lang="zh">Before bar exam: Kim Kardashian breaks down in tears</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126201100 +0800" stop="20260126201200 +0800" channel="spot on news">
+    <title lang="zh">Breathtaking images: Fuego volcano spews lava</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126201200 +0800" stop="20260126201200 +0800" channel="spot on news">
+    <title lang="zh">Stolen car flips three times in the air</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126201200 +0800" stop="20260126201200 +0800" channel="spot on news">
+    <title lang="zh">In Beijing museum: Child knocks gold crown off pedestal</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126201200 +0800" stop="20260126201300 +0800" channel="spot on news">
+    <title lang="zh">Trump orders attack: Explosions rock Caracas</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126201300 +0800" stop="20260126201600 +0800" channel="spot on news">
+    <title lang="zh">Sylvester Stallone thrills fans with fitness video</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126201600 +0800" stop="20260126201700 +0800" channel="spot on news">
+    <title lang="zh">Thin ice: Cars break through frozen lake</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126201700 +0800" stop="20260126201800 +0800" channel="spot on news">
+    <title lang="zh">Ultralight aircraft crashes into the sea off Copacabana</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126201800 +0800" stop="20260126201800 +0800" channel="spot on news">
+    <title lang="zh">Reckless men set off fireworks in an elevator</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126201800 +0800" stop="20260126201900 +0800" channel="spot on news">
+    <title lang="zh">Fishing boats collide: Captain arrested</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126201900 +0800" stop="20260126202000 +0800" channel="spot on news">
+    <title lang="zh">Water masses smash glass doors: Typhoon floods hotel lobby</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126202000 +0800" stop="20260126202000 +0800" channel="spot on news">
+    <title lang="zh">Sarah Jessica Parker with black wings on the red carpet</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126202000 +0800" stop="20260126202100 +0800" channel="spot on news">
+    <title lang="zh">Huge waves kills a woman, injures nine on Tenerife</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126202100 +0800" stop="20260126202100 +0800" channel="spot on news">
+    <title lang="zh">Utrecht: Explosion destroys several houses in the city center</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126202100 +0800" stop="20260126202400 +0800" channel="spot on news">
+    <title lang="zh">Rachel McAdams surprises with rare appearance on the Walk of Fame</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126202400 +0800" stop="20260126202500 +0800" channel="spot on news">
+    <title lang="zh">Fell off the pier: Mother jumps after her little daughter</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126202500 +0800" stop="20260126202500 +0800" channel="spot on news">
+    <title lang="zh">Plane crashes into the sea during air show</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126202500 +0800" stop="20260126202600 +0800" channel="spot on news">
+    <title lang="zh">Crane operator rescues worker from burning skyscraper</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126202600 +0800" stop="20260126202600 +0800" channel="spot on news">
+    <title lang="zh">New York: Timothée Chalamet stands out again in orange</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126202600 +0800" stop="20260126202700 +0800" channel="spot on news">
+    <title lang="zh">"Dances with Wolves" actor Graham Greene is dead</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126202700 +0800" stop="20260126202800 +0800" channel="spot on news">
+    <title lang="zh">Silent honor: The royals remember fallen heroes</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126202800 +0800" stop="20260126202900 +0800" channel="spot on news">
+    <title lang="zh">Passenger attacks stewardess and is dragged off plane</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126202900 +0800" stop="20260126205959 +0800" channel="spot on news">
     <title lang="zh">节目未能提供</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -499619,14 +500127,6 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <title lang="zh">小山正在秀</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260126080000 +0000" stop="20260126083000 +0000" channel="好消息2台">
-    <title lang="zh">虫虫历险记</title>
-    <desc lang="zh">这是一部寓教于乐的卡通，为圣经故事增添些许趣味。圣经故事的主角是人类，但人类脚下是一片迷你世界，住著许多和善的虫虫。本系列卡通不仅有各种可爱的虫虫角色，还有许多有趣，富教育意义的历险故事。虫虫的小小社会与圣经人物的世界偶尔交错邂逅，产生刺激、惊险、意想不到的效果。</desc>
-  </programme>
-  <programme start="20260126083000 +0000" stop="20260126090000 +0000" channel="好消息2台">
-    <title lang="zh">空中圣经学院</title>
-    <desc lang="zh">由GOOD TV和中华福音神学院共同制作推出。这是历史性的一刻，神的话语要透过卫星传送至全世界，实现平信徒神学教育之梦。</desc>
-  </programme>
   <programme start="20260126090000 +0000" stop="20260126100000 +0000" channel="好消息2台">
     <title lang="zh">大卫鲍森讲座</title>
     <desc lang="zh">圣经权威大卫鲍森牧师，带你以宏观的神学角度，观看神伟大的神性与恩典，并从其中明白救恩计划的重要。</desc>
@@ -500510,14 +501010,6 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
   <programme start="20260131070000 +0000" stop="20260131080000 +0000" channel="好消息2台">
     <title lang="zh">特会</title>
     <desc lang="zh">以造就、培灵与更新为宗旨，邀请来自世界各国的知名布道牧师，为信徒传递神国信息，挑望灵火，奋兴众人！为信徒提供一个提升性灵的园地。(资料来源：GOOD TV)</desc>
-  </programme>
-  <programme start="20260126080000 +0000" stop="20260126083000 +0000" channel="好消息">
-    <title lang="zh">健康新煮流</title>
-    <desc lang="zh">开创夫妻同厨同煮潮流的KC夫妇，继《健康医食代》后，走出摄影棚，带大家全台走透透，发掘上帝赏赐的美味食材，内容融合新加坡南洋风和客家纯朴味，加上台湾独特的闽南风情，互相激荡交织出的火花，打造出独一无二的美食节目。</desc>
-  </programme>
-  <programme start="20260126083000 +0000" stop="20260126090000 +0000" channel="好消息">
-    <title lang="zh">爱＋好医生</title>
-    <desc lang="zh">结合医疗专业及全人关怀的新型态节目，主持人黄𪻐宁医师亲访家庭，跨领域医疗顾问团全方位检视，提供最完整、实用和正确的资讯来守护孩子的健康。</desc>
   </programme>
   <programme start="20260126090000 +0000" stop="20260126093000 +0000" channel="好消息">
     <title lang="zh">大家说英语</title>
@@ -501499,14 +501991,6 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <title lang="zh">机智青年生活</title>
     <desc lang="zh">这不是韩剧，而是正上演的一出充满血泪与美好友谊的热血植堂连续剧 ！旌旗好生活邀请到三对青年牧师CP，来聊聊由上帝导演，引领青年教会及一群青年团队，经历疯狂又精彩的植堂人生！</desc>
   </programme>
-  <programme start="20260126083000 +0000" stop="20260126090000 +0000" channel="龙华卡通台">
-    <title lang="zh">钢铁麦斯</title>
-    <desc lang="zh">关于友谊、成长，关于正义战胜邪恶的故事。</desc>
-  </programme>
-  <programme start="20260126090000 +0000" stop="20260126100000 +0000" channel="龙华卡通台">
-    <title lang="zh">冲吧！小铁人</title>
-    <desc lang="zh">10位不同背景的孩子一起挑战小铁人比赛！经历90天长征、2160个小时的训练，彼此互相扶持与鼓励，用开阔与豁达突破自我、挑战极限，成为独立又自信的小大人。他们的目标不仅是完成这项超越大人的任务，更是向世界证明自己的实力与决心。</desc>
-  </programme>
   <programme start="20260126100000 +0000" stop="20260126103000 +0000" channel="龙华卡通台">
     <title lang="zh">欢唱小浣熊</title>
     <desc lang="zh">七只顽皮小浣熊在神奇音乐盒开启欢乐冒险！每集献上趣味充满想像力的歌曲，让孩子快乐学习！透过语言游戏激发创意、丰富词汇！快来加入这场音乐与知识的奇妙盛宴吧！</desc>
@@ -502315,10 +502799,6 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <title lang="zh">巴塔木特攻队</title>
     <desc lang="zh">英国Calm Island公司出品，知名少儿频道同时段收视冠军宝座！在宁静美丽的巴塔王国里，巴塔和小伙伴们一起守衞巴塔木世界的和平。在巴塔木之外的黑暗森林里，出现了新的对抗者，他们需要集结所有队员的勇气才能阻止黑暗势力。</desc>
   </programme>
-  <programme start="20260126080000 +0000" stop="20260126090000 +0000" channel="亚洲旅游台">
-    <title lang="zh">效廉出发吧</title>
-    <desc lang="zh">东森超视全新外景旅游实境综艺节目，由跨世代人夫许效舜、威廉携手主持。两位私交甚笃的知己好友，将在节目中分享彼此人生故事，带观众深入了解每个城镇独有的历史人文，探索每个地方的特色美食生活。一段见证男人友谊的旅行，就此展开！</desc>
-  </programme>
   <programme start="20260126090000 +0000" stop="20260126100000 +0000" channel="亚洲旅游台">
     <title lang="zh">效廉出发吧</title>
     <desc lang="zh">东森超视全新外景旅游实境综艺节目，由跨世代人夫许效舜、威廉携手主持。两位私交甚笃的知己好友，将在节目中分享彼此人生故事，带观众深入了解每个城镇独有的历史人文，探索每个地方的特色美食生活。一段见证男人友谊的旅行，就此展开！</desc>
@@ -502795,14 +503275,6 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <title lang="zh">融融历险记</title>
     <desc lang="zh">《融融历险记 Ben’s Adventure》的创办人Ben，立志前往那些没有人要去的地方。走过五大洲75余国，喜欢拍影片更爱与当地人交流，因为这才是旅行真正的意义。「旅行的意义是什么？」旅行的意义，看不同的风景，认识不同的人，领略不同的美好，让你觉得世界那么大。</desc>
   </programme>
-  <programme start="20260126080000 +0000" stop="20260126090000 +0000" channel="龙华戏剧台">
-    <title lang="zh">三国</title>
-    <desc lang="zh">距今一千八百多年前，汉帝国衰败积重难返，长安城内董卓荒淫无度、滥杀无辜，引起举国义愤，而以曹操为首歼灭董卓，造就了群雄割据，至赤壁之战后三国鼎立，再到司马氏篡魏，天下归晋为止，这个英雄辈出、波澜壮阔的大传奇时代终于结束。而其中的英雄人物和动人故事，仍被传颂至今。</desc>
-  </programme>
-  <programme start="20260126090000 +0000" stop="20260126100000 +0000" channel="龙华戏剧台">
-    <title lang="zh">三国</title>
-    <desc lang="zh">距今一千八百多年前，汉帝国衰败积重难返，长安城内董卓荒淫无度、滥杀无辜，引起举国义愤，而以曹操为首歼灭董卓，造就了群雄割据，至赤壁之战后三国鼎立，再到司马氏篡魏，天下归晋为止，这个英雄辈出、波澜壮阔的大传奇时代终于结束。而其中的英雄人物和动人故事，仍被传颂至今。</desc>
-  </programme>
   <programme start="20260126100000 +0000" stop="20260126110000 +0000" channel="龙华戏剧台">
     <title lang="zh">上阳赋</title>
     <desc lang="zh">郡主王儇（章子怡）与三皇子（杨祐宁）青梅竹马，却因被卷入朝堂争斗，在15岁时被父亲当作棋子，嫁给出身寒门的豫章王萧綦（周一围）。这段权力交易下的婚姻，却在历经种种考验后让两人先婚后爱，最后两人携手共定天下，守护家国百姓…</desc>
@@ -503274,14 +503746,6 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
   <programme start="20260131070000 +0000" stop="20260131080000 +0000" channel="龙华戏剧台">
     <title lang="zh">沉香</title>
     <desc lang="zh">沉香，将江南名城镇江作为场景主发生地，以镇江“醋文化”为背景，讲述了在一个动荡的年代里，一个传统商家的传奇经历，以及在这段经历背后所隐含的伤痛、国痛、时代之痛、民族之痛。</desc>
-  </programme>
-  <programme start="20260126080000 +0000" stop="20260126090000 +0000" channel="台湾戏剧台">
-    <title lang="zh">包青天</title>
-    <desc lang="zh">仁宗皇帝在位期间，包拯（金超群）升任开封府府尹执掌京畿，刚直耿介、铁面无私、明察秋毫、断案如神，百姓爱戴敬仰尊称为“包青天”。并有公孙策（范鸿轩）与南侠展昭（何家劲）一文一武两员大将，使得包拯屡破奇案屡建奇功。</desc>
-  </programme>
-  <programme start="20260126090000 +0000" stop="20260126093000 +0000" channel="台湾戏剧台">
-    <title lang="zh">亲戚不计较</title>
-    <desc lang="zh">由卓胜利、李锣等人主演，本剧虽以喜剧的方式呈现，但笑中有泪，泪中有悟，悟中有得，令人深思！</desc>
   </programme>
   <programme start="20260126093000 +0000" stop="20260126100000 +0000" channel="台湾戏剧台">
     <title lang="zh">亲戚不计较</title>
@@ -504483,14 +504947,6 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <title lang="zh">锁定CH.43、CH.49选购</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260126080000 +0000" stop="20260126090000 +0000" channel="龙华偶像台">
-    <title lang="zh">金装律师</title>
-    <desc lang="zh">崔江锡（张东健）是律师事务所的首席合伙人兼王牌律师，他偶然发现高延宇（朴炯植）虽没念过法学院，但却聪明绝顶并拥有照相般记忆，自小梦想成为律师的他却因负担不起学费而无法成为律师。江锡看中延宇的才能而雇用他，两人成为黄金搭档…</desc>
-  </programme>
-  <programme start="20260126090000 +0000" stop="20260126100000 +0000" channel="龙华偶像台">
-    <title lang="zh">金装律师</title>
-    <desc lang="zh">崔江锡（张东健）是律师事务所的首席合伙人兼王牌律师，他偶然发现高延宇（朴炯植）虽没念过法学院，但却聪明绝顶并拥有照相般记忆，自小梦想成为律师的他却因负担不起学费而无法成为律师。江锡看中延宇的才能而雇用他，两人成为黄金搭档…</desc>
-  </programme>
   <programme start="20260126100000 +0000" stop="20260126110000 +0000" channel="龙华偶像台">
     <title lang="zh">步步惊心</title>
     <desc lang="zh">张晓（刘诗诗）是一位熟知清代历史的现代社会白领，她却一脚踏入穿越时空的隧道，变身为16岁的清朝宫廷少女若曦。在这风云诡变的宫廷中，除了被卷入九子夺嫡的暗战，自己与胤禛（吴奇隆）的感情也夹杂在宫廷斗争中备受煎熬…</desc>
@@ -504967,10 +505423,6 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <title lang="zh">向风而行</title>
     <desc lang="zh">严苛自律的飞行部副部长顾南亭，因公司改制意外，与性格飒爽不羁的程霄成上下属和师徒关系。面对接踵而来的突发航空事件，两人携手绝地反击、化险为夷。在解决危机的途中，追求稳定秩序的顾南亭时常被不按常理出牌的程霄打乱计划，但仍然能够解决困难，并在过程中克服著自身的缺点，一路朝着梦想前进。</desc>
   </programme>
-  <programme start="20260126080000 +0000" stop="20260126090000 +0000" channel="龙华日韩台">
-    <title lang="zh">追踪者</title>
-    <desc lang="zh">聪明又狠毒、宛如恶棍般的黄东柱（任时完）曾是检查大企业贿赂的优秀会计师，却忽然辞去工作，转任大韩民国国税厅税收五局一组的组长，剧情讲述他如何带领拥有「垃圾回收场」之称的税收五局，来搅乱国税厅内部斗争的一池春水。</desc>
-  </programme>
   <programme start="20260126090000 +0000" stop="20260126100000 +0000" channel="龙华日韩台">
     <title lang="zh">欧若拉公主</title>
     <desc lang="zh">大企业天王食品会长家，晚来得到的独生女欧若拉竟对完美挑剔男的小说家黄马马一见钟情，而这两家族之间会因为这两人间所发生的事情，有何改变呢？</desc>
@@ -505410,10 +505862,6 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
   <programme start="20260130220000 +0000" stop="20260130230000 +0000" channel="龙华日韩台">
     <title lang="zh">男朋友</title>
     <desc lang="zh">首尔市长之女车秀贤（宋慧乔）从小因父母的关系，无法活得自在，就连婚姻都是迫于母亲的坚持，后来虽和集团二代离婚，仍与前夫的集团无法脱钩。勇于追求真爱的金振赫（朴宝剑）成为饭店CEO秀贤的下属，两人相恋后面临面包与爱情的抉择…</desc>
-  </programme>
-  <programme start="20260126080000 +0000" stop="20260126084000 +0000" channel="东森购物2台">
-    <title lang="zh">1/1-1/31全月消费实付满5,000元送【500元现金券】(每人限赠1次)。</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260126084000 +0000" stop="20260126092000 +0000" channel="东森购物2台">
     <title lang="zh">锁定CH.43、CH.49选购</title>
@@ -506143,10 +506591,6 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <title lang="zh">节目未定</title>
     <desc lang="zh">节目资讯尚未公布。</desc>
   </programme>
-  <programme start="20260126080000 +0000" stop="20260126090000 +0000" channel="中天新闻台">
-    <title lang="zh">中天新闻 1600整点新闻</title>
-    <desc lang="zh">收看中天新闻带给你最即时、最完整、最专业的新闻报导。</desc>
-  </programme>
   <programme start="20260126090000 +0000" stop="20260126100000 +0000" channel="中天新闻台">
     <title lang="zh">中天新闻 1700整点新闻</title>
     <desc lang="zh">收看中天新闻带给你最即时、最完整、最专业的新闻报导。</desc>
@@ -506646,10 +507090,6 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
   <programme start="20260126160000 +0000" stop="20260126200000 +0000" channel="寰宇新闻台">
     <title lang="zh">节目未定</title>
     <desc lang="zh">节目资讯尚未公布。</desc>
-  </programme>
-  <programme start="20260126083000 +0000" stop="20260126090000 +0000" channel="第1商业台">
-    <title lang="zh">汪海华_操盘的智慧</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260126090000 +0000" stop="20260126093000 +0000" channel="第1商业台">
     <title lang="zh">股市第一线-顾德投顾-李冠嵚分析师</title>
@@ -645952,7 +646392,7 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260127170000 +0700" stop="20260127173000 +0700" channel="Hanacaraka TV">
-    <title lang="zh">Harta Kirun</title>
+    <title lang="zh">Kentrung Humor</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260127173000 +0700" stop="20260127180000 +0700" channel="Hanacaraka TV">
@@ -656527,24 +656967,12 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <title lang="zh">European Qualifiers</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260126160000 +0700" stop="20260126163000 +0700" channel="Sportstars 4">
-    <title lang="zh">Top Goals</title>
+  <programme start="20260126160000 +0700" stop="20260126180000 +0700" channel="Sportstars 4">
+    <title lang="zh">Liga 2</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260126163000 +0700" stop="20260126170000 +0700" channel="Sportstars 4">
-    <title lang="zh">Planet Football</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260126170000 +0700" stop="20260126173000 +0700" channel="Sportstars 4">
-    <title lang="zh">The Ultimate Goals</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260126173000 +0700" stop="20260126193000 +0700" channel="Sportstars 4">
+  <programme start="20260126180000 +0700" stop="20260126200000 +0700" channel="Sportstars 4">
     <title lang="zh">ASEAN Para Games: Closing (L)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260126193000 +0700" stop="20260126200000 +0700" channel="Sportstars 4">
-    <title lang="zh">Top Goals</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260126200000 +0700" stop="20260126220000 +0700" channel="Sportstars 4">
@@ -656639,24 +657067,12 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <title lang="zh">European Qualifiers</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260126160000 +0700" stop="20260126163000 +0700" channel="Sportstars 4 HD">
-    <title lang="zh">Top Goals</title>
+  <programme start="20260126160000 +0700" stop="20260126180000 +0700" channel="Sportstars 4 HD">
+    <title lang="zh">Liga 2</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260126163000 +0700" stop="20260126170000 +0700" channel="Sportstars 4 HD">
-    <title lang="zh">Planet Football</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260126170000 +0700" stop="20260126173000 +0700" channel="Sportstars 4 HD">
-    <title lang="zh">The Ultimate Goals</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260126173000 +0700" stop="20260126193000 +0700" channel="Sportstars 4 HD">
+  <programme start="20260126180000 +0700" stop="20260126200000 +0700" channel="Sportstars 4 HD">
     <title lang="zh">ASEAN Para Games: Closing (L)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260126193000 +0700" stop="20260126200000 +0700" channel="Sportstars 4 HD">
-    <title lang="zh">Top Goals</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260126200000 +0700" stop="20260126220000 +0700" channel="Sportstars 4 HD">
@@ -656911,15 +657327,15 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <title lang="zh">ALM Mini Match: MAC Vs MCY</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127043000 +0700" stop="20260127074500 +0700" channel="SPOTV">
+  <programme start="20260127043000 +0700" stop="20260127074000 +0700" channel="SPOTV">
     <title lang="zh">Latin America Amateur C'ship</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127074500 +0700" stop="20260127093000 +0700" channel="SPOTV">
+  <programme start="20260127074000 +0700" stop="20260127092500 +0700" channel="SPOTV">
     <title lang="zh">FWC 2026 Exhibition Match</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127093000 +0700" stop="20260127113000 +0700" channel="SPOTV">
+  <programme start="20260127092500 +0700" stop="20260127113000 +0700" channel="SPOTV">
     <title lang="zh">25/26 Roshn Saudi League</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -657327,15 +657743,15 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <title lang="zh">ALM Mini Match: MAC Vs MCY</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127043000 +0700" stop="20260127074500 +0700" channel="SPOTV HD">
+  <programme start="20260127043000 +0700" stop="20260127074000 +0700" channel="SPOTV HD">
     <title lang="zh">Latin America Amateur C'ship</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127074500 +0700" stop="20260127093000 +0700" channel="SPOTV HD">
+  <programme start="20260127074000 +0700" stop="20260127092500 +0700" channel="SPOTV HD">
     <title lang="zh">FWC 2026 Exhibition Match</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127093000 +0700" stop="20260127113000 +0700" channel="SPOTV HD">
+  <programme start="20260127092500 +0700" stop="20260127113000 +0700" channel="SPOTV HD">
     <title lang="zh">25/26 Roshn Saudi League</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -693839,36 +694255,32 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <title lang="zh">Naane Varuvean-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260126000000 +0000" stop="20260126020000 +0000" channel="zeetamilhd">
-    <title lang="zh">Savarakathi-Season 1</title>
+  <programme start="20260126000000 +0000" stop="20260126003000 +0000" channel="zeetamilhd">
+    <title lang="zh">Lakshmi Kalyanam-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260126020000 +0000" stop="20260126023000 +0000" channel="zeetamilhd">
-    <title lang="zh">Varisu-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260126023000 +0000" stop="20260126030000 +0000" channel="zeetamilhd">
-    <title lang="zh">Varisu-Season 1</title>
+  <programme start="20260126003000 +0000" stop="20260126030000 +0000" channel="zeetamilhd">
+    <title lang="zh">Kamali From Nadukaveri-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126030000 +0000" stop="20260126033000 +0000" channel="zeetamilhd">
-    <title lang="zh">Varisu-Season 1</title>
+    <title lang="zh">Chinnanchiru Kiliye-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126033000 +0000" stop="20260126040000 +0000" channel="zeetamilhd">
-    <title lang="zh">Varisu-Season 1</title>
+    <title lang="zh">Chinnanchiru Kiliye-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126040000 +0000" stop="20260126043000 +0000" channel="zeetamilhd">
-    <title lang="zh">Varisu-Season 1</title>
+    <title lang="zh">Chinnanchiru Kiliye-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126043000 +0000" stop="20260126050000 +0000" channel="zeetamilhd">
-    <title lang="zh">Aval Varuvala-Season 1</title>
+    <title lang="zh">Chinnanchiru Kiliye-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126050000 +0000" stop="20260126053000 +0000" channel="zeetamilhd">
-    <title lang="zh">Aval Varuvala-Season 1</title>
+    <title lang="zh">Chinnanchiru Kiliye-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126053000 +0000" stop="20260126060000 +0000" channel="zeetamilhd">
@@ -693879,12 +694291,16 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <title lang="zh">Annamalai Kudumbam-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260126063000 +0000" stop="20260126093000 +0000" channel="zeetamilhd">
-    <title lang="zh">Kaari-Season 1</title>
+  <programme start="20260126063000 +0000" stop="20260126090000 +0000" channel="zeetamilhd">
+    <title lang="zh">Cold Case-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260126090000 +0000" stop="20260126093000 +0000" channel="zeetamilhd">
+    <title lang="zh">Zee Flix-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126093000 +0000" stop="20260126100000 +0000" channel="zeetamilhd">
-    <title lang="zh">KCKC - Kedi Billa Killadi Ranga-Season 1</title>
+    <title lang="zh">KCKC - Dhuruvangal Pathinaaru-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126100000 +0000" stop="20260126103000 +0000" channel="zeetamilhd">
@@ -693896,11 +694312,11 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <desc lang="zh"/>
   </programme>
   <programme start="20260126110000 +0000" stop="20260126113000 +0000" channel="zeetamilhd">
-    <title lang="zh">Mahasangamam Veera And Chinnanchiru Kiliye-Season 1</title>
+    <title lang="zh">Veera-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126113000 +0000" stop="20260126120000 +0000" channel="zeetamilhd">
-    <title lang="zh">KCKC - Nisabtham-Season 1</title>
+    <title lang="zh">Chinnanchiru Kiliye-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126120000 +0000" stop="20260126123000 +0000" channel="zeetamilhd">
@@ -693908,7 +694324,7 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <desc lang="zh"/>
   </programme>
   <programme start="20260126123000 +0000" stop="20260126130000 +0000" channel="zeetamilhd">
-    <title lang="zh">Anna-Season 1</title>
+    <title lang="zh">Parijatham-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126130000 +0000" stop="20260126133000 +0000" channel="zeetamilhd">
@@ -693919,12 +694335,8 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <title lang="zh">Karthigai Deepam-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260126140000 +0000" stop="20260126141500 +0000" channel="zeetamilhd">
-    <title lang="zh">Parijatham-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260126141500 +0000" stop="20260126143000 +0000" channel="zeetamilhd">
-    <title lang="zh">Parijatham-Season 1</title>
+  <programme start="20260126140000 +0000" stop="20260126143000 +0000" channel="zeetamilhd">
+    <title lang="zh">Karthigai Deepam-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126143000 +0000" stop="20260126150000 +0000" channel="zeetamilhd">
@@ -693936,7 +694348,7 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <desc lang="zh"/>
   </programme>
   <programme start="20260126153000 +0000" stop="20260126160000 +0000" channel="zeetamilhd">
-    <title lang="zh">Idhayam-Season 1</title>
+    <title lang="zh">Thirumangalyam-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126160000 +0000" stop="20260126163000 +0000" channel="zeetamilhd">
@@ -693944,11 +694356,11 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <desc lang="zh"/>
   </programme>
   <programme start="20260126163000 +0000" stop="20260126170000 +0000" channel="zeetamilhd">
-    <title lang="zh">Mahasangamam Veera And Chinnanchiru Kiliye-Season 1</title>
+    <title lang="zh">Veera-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126170000 +0000" stop="20260126173000 +0000" channel="zeetamilhd">
-    <title lang="zh">Zee Flix-Season 1</title>
+    <title lang="zh">Chinnanchiru Kiliye-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126173000 +0000" stop="20260126180000 +0000" channel="zeetamilhd">
@@ -693956,35 +694368,35 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <desc lang="zh"/>
   </programme>
   <programme start="20260126180000 +0000" stop="20260126183000 +0000" channel="zeetamilhd">
-    <title lang="zh">Idhayam-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260126183000 +0000" stop="20260126190000 +0000" channel="zeetamilhd">
-    <title lang="zh">Varisu-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260126190000 +0000" stop="20260126193000 +0000" channel="zeetamilhd">
-    <title lang="zh">Annamalai Kudumbam-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260126193000 +0000" stop="20260126200000 +0000" channel="zeetamilhd">
-    <title lang="zh">Lakshmi Kalyanam-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260126200000 +0000" stop="20260126203000 +0000" channel="zeetamilhd">
-    <title lang="zh">Gettimelam-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260126203000 +0000" stop="20260126210000 +0000" channel="zeetamilhd">
     <title lang="zh">Parijatham-Season 1</title>
     <desc lang="zh"/>
   </programme>
+  <programme start="20260126183000 +0000" stop="20260126190000 +0000" channel="zeetamilhd">
+    <title lang="zh">Idhayam-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260126190000 +0000" stop="20260126193000 +0000" channel="zeetamilhd">
+    <title lang="zh">Varisu-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260126193000 +0000" stop="20260126200000 +0000" channel="zeetamilhd">
+    <title lang="zh">Annamalai Kudumbam-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260126200000 +0000" stop="20260126203000 +0000" channel="zeetamilhd">
+    <title lang="zh">Lakshmi Kalyanam-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260126203000 +0000" stop="20260126210000 +0000" channel="zeetamilhd">
+    <title lang="zh">Gettimelam-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
   <programme start="20260126210000 +0000" stop="20260126213000 +0000" channel="zeetamilhd">
-    <title lang="zh">Sandhya Raagam-Season 1</title>
+    <title lang="zh">Varisu-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126213000 +0000" stop="20260126220000 +0000" channel="zeetamilhd">
-    <title lang="zh">Ayali-Season 1</title>
+    <title lang="zh">Sandhya Raagam-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126220000 +0000" stop="20260126223000 +0000" channel="zeetamilhd">
@@ -694016,7 +694428,7 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <desc lang="zh"/>
   </programme>
   <programme start="20260127003000 +0000" stop="20260127030000 +0000" channel="zeetamilhd">
-    <title lang="zh">Oonaigal Jakkiradhai-Season 1</title>
+    <title lang="zh">Marma Boomi-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260127030000 +0000" stop="20260127033000 +0000" channel="zeetamilhd">
@@ -694047,12 +694459,16 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <title lang="zh">Annamalai Kudumbam-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260127063000 +0000" stop="20260127093000 +0000" channel="zeetamilhd">
-    <title lang="zh">Thangaraja-Season 1</title>
+  <programme start="20260127063000 +0000" stop="20260127090000 +0000" channel="zeetamilhd">
+    <title lang="zh">Thank You-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260127090000 +0000" stop="20260127093000 +0000" channel="zeetamilhd">
+    <title lang="zh">Zee Flix-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260127093000 +0000" stop="20260127100000 +0000" channel="zeetamilhd">
-    <title lang="zh">KCKC - Enna Solla Pokirai-Season 1</title>
+    <title lang="zh">KCKC - Yaan-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260127100000 +0000" stop="20260127103000 +0000" channel="zeetamilhd">
@@ -694063,8 +694479,12 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <title lang="zh">Gettimelam-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260127110000 +0000" stop="20260127120000 +0000" channel="zeetamilhd">
-    <title lang="zh">Mahasangamam Veera And Chinnanchiru Kiliye-Season 1</title>
+  <programme start="20260127110000 +0000" stop="20260127113000 +0000" channel="zeetamilhd">
+    <title lang="zh">Veera-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260127113000 +0000" stop="20260127120000 +0000" channel="zeetamilhd">
+    <title lang="zh">Chinnanchiru Kiliye-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260127120000 +0000" stop="20260127123000 +0000" channel="zeetamilhd">
@@ -694072,7 +694492,7 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <desc lang="zh"/>
   </programme>
   <programme start="20260127123000 +0000" stop="20260127130000 +0000" channel="zeetamilhd">
-    <title lang="zh">Anna-Season 1</title>
+    <title lang="zh">Parijatham-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260127130000 +0000" stop="20260127133000 +0000" channel="zeetamilhd">
@@ -694084,7 +694504,7 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <desc lang="zh"/>
   </programme>
   <programme start="20260127140000 +0000" stop="20260127143000 +0000" channel="zeetamilhd">
-    <title lang="zh">Parijatham-Season 1</title>
+    <title lang="zh">Vaagai Sooda Vaa-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260127143000 +0000" stop="20260127150000 +0000" channel="zeetamilhd">
@@ -694103,44 +694523,48 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <title lang="zh">Varisu-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260127163000 +0000" stop="20260127173000 +0000" channel="zeetamilhd">
-    <title lang="zh">Mahasangamam Veera And Chinnanchiru Kiliye-Season 1</title>
+  <programme start="20260127163000 +0000" stop="20260127170000 +0000" channel="zeetamilhd">
+    <title lang="zh">Veera-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260127170000 +0000" stop="20260127173000 +0000" channel="zeetamilhd">
+    <title lang="zh">Chinnanchiru Kiliye-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260127173000 +0000" stop="20260127180000 +0000" channel="zeetamilhd">
-    <title lang="zh">Ayali-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260127180000 +0000" stop="20260127183000 +0000" channel="zeetamilhd">
-    <title lang="zh">Idhayam-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260127183000 +0000" stop="20260127190000 +0000" channel="zeetamilhd">
-    <title lang="zh">Varisu-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260127190000 +0000" stop="20260127193000 +0000" channel="zeetamilhd">
-    <title lang="zh">Annamalai Kudumbam-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260127193000 +0000" stop="20260127200000 +0000" channel="zeetamilhd">
-    <title lang="zh">Lakshmi Kalyanam-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260127200000 +0000" stop="20260127203000 +0000" channel="zeetamilhd">
-    <title lang="zh">Gettimelam-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260127203000 +0000" stop="20260127210000 +0000" channel="zeetamilhd">
     <title lang="zh">Parijatham-Season 1</title>
     <desc lang="zh"/>
   </programme>
+  <programme start="20260127180000 +0000" stop="20260127183000 +0000" channel="zeetamilhd">
+    <title lang="zh">Ayali-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260127183000 +0000" stop="20260127190000 +0000" channel="zeetamilhd">
+    <title lang="zh">Idhayam-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260127190000 +0000" stop="20260127193000 +0000" channel="zeetamilhd">
+    <title lang="zh">Varisu-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260127193000 +0000" stop="20260127200000 +0000" channel="zeetamilhd">
+    <title lang="zh">Annamalai Kudumbam-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260127200000 +0000" stop="20260127203000 +0000" channel="zeetamilhd">
+    <title lang="zh">Lakshmi Kalyanam-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260127203000 +0000" stop="20260127210000 +0000" channel="zeetamilhd">
+    <title lang="zh">Gettimelam-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
   <programme start="20260127210000 +0000" stop="20260127213000 +0000" channel="zeetamilhd">
-    <title lang="zh">Sandhya Raagam-Season 1</title>
+    <title lang="zh">Varisu-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260127213000 +0000" stop="20260127220000 +0000" channel="zeetamilhd">
-    <title lang="zh">Ayali-Season 1</title>
+    <title lang="zh">Sandhya Raagam-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260127220000 +0000" stop="20260127223000 +0000" channel="zeetamilhd">
@@ -695687,36 +696111,32 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <title lang="zh">Naane Varuvean-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260126000000 +0000" stop="20260126020000 +0000" channel="zeetamilhd">
-    <title lang="zh">Savarakathi-Season 1</title>
+  <programme start="20260126000000 +0000" stop="20260126003000 +0000" channel="zeetamilhd">
+    <title lang="zh">Lakshmi Kalyanam-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260126020000 +0000" stop="20260126023000 +0000" channel="zeetamilhd">
-    <title lang="zh">Varisu-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260126023000 +0000" stop="20260126030000 +0000" channel="zeetamilhd">
-    <title lang="zh">Varisu-Season 1</title>
+  <programme start="20260126003000 +0000" stop="20260126030000 +0000" channel="zeetamilhd">
+    <title lang="zh">Kamali From Nadukaveri-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126030000 +0000" stop="20260126033000 +0000" channel="zeetamilhd">
-    <title lang="zh">Varisu-Season 1</title>
+    <title lang="zh">Chinnanchiru Kiliye-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126033000 +0000" stop="20260126040000 +0000" channel="zeetamilhd">
-    <title lang="zh">Varisu-Season 1</title>
+    <title lang="zh">Chinnanchiru Kiliye-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126040000 +0000" stop="20260126043000 +0000" channel="zeetamilhd">
-    <title lang="zh">Varisu-Season 1</title>
+    <title lang="zh">Chinnanchiru Kiliye-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126043000 +0000" stop="20260126050000 +0000" channel="zeetamilhd">
-    <title lang="zh">Aval Varuvala-Season 1</title>
+    <title lang="zh">Chinnanchiru Kiliye-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126050000 +0000" stop="20260126053000 +0000" channel="zeetamilhd">
-    <title lang="zh">Aval Varuvala-Season 1</title>
+    <title lang="zh">Chinnanchiru Kiliye-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126053000 +0000" stop="20260126060000 +0000" channel="zeetamilhd">
@@ -695727,12 +696147,16 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <title lang="zh">Annamalai Kudumbam-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260126063000 +0000" stop="20260126093000 +0000" channel="zeetamilhd">
-    <title lang="zh">Kaari-Season 1</title>
+  <programme start="20260126063000 +0000" stop="20260126090000 +0000" channel="zeetamilhd">
+    <title lang="zh">Cold Case-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260126090000 +0000" stop="20260126093000 +0000" channel="zeetamilhd">
+    <title lang="zh">Zee Flix-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126093000 +0000" stop="20260126100000 +0000" channel="zeetamilhd">
-    <title lang="zh">KCKC - Kedi Billa Killadi Ranga-Season 1</title>
+    <title lang="zh">KCKC - Dhuruvangal Pathinaaru-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126100000 +0000" stop="20260126103000 +0000" channel="zeetamilhd">
@@ -695744,11 +696168,11 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <desc lang="zh"/>
   </programme>
   <programme start="20260126110000 +0000" stop="20260126113000 +0000" channel="zeetamilhd">
-    <title lang="zh">Mahasangamam Veera And Chinnanchiru Kiliye-Season 1</title>
+    <title lang="zh">Veera-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126113000 +0000" stop="20260126120000 +0000" channel="zeetamilhd">
-    <title lang="zh">KCKC - Nisabtham-Season 1</title>
+    <title lang="zh">Chinnanchiru Kiliye-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126120000 +0000" stop="20260126123000 +0000" channel="zeetamilhd">
@@ -695756,7 +696180,7 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <desc lang="zh"/>
   </programme>
   <programme start="20260126123000 +0000" stop="20260126130000 +0000" channel="zeetamilhd">
-    <title lang="zh">Anna-Season 1</title>
+    <title lang="zh">Parijatham-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126130000 +0000" stop="20260126133000 +0000" channel="zeetamilhd">
@@ -695767,12 +696191,8 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <title lang="zh">Karthigai Deepam-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260126140000 +0000" stop="20260126141500 +0000" channel="zeetamilhd">
-    <title lang="zh">Parijatham-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260126141500 +0000" stop="20260126143000 +0000" channel="zeetamilhd">
-    <title lang="zh">Parijatham-Season 1</title>
+  <programme start="20260126140000 +0000" stop="20260126143000 +0000" channel="zeetamilhd">
+    <title lang="zh">Karthigai Deepam-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126143000 +0000" stop="20260126150000 +0000" channel="zeetamilhd">
@@ -695784,7 +696204,7 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <desc lang="zh"/>
   </programme>
   <programme start="20260126153000 +0000" stop="20260126160000 +0000" channel="zeetamilhd">
-    <title lang="zh">Idhayam-Season 1</title>
+    <title lang="zh">Thirumangalyam-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126160000 +0000" stop="20260126163000 +0000" channel="zeetamilhd">
@@ -695792,11 +696212,11 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <desc lang="zh"/>
   </programme>
   <programme start="20260126163000 +0000" stop="20260126170000 +0000" channel="zeetamilhd">
-    <title lang="zh">Mahasangamam Veera And Chinnanchiru Kiliye-Season 1</title>
+    <title lang="zh">Veera-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126170000 +0000" stop="20260126173000 +0000" channel="zeetamilhd">
-    <title lang="zh">Zee Flix-Season 1</title>
+    <title lang="zh">Chinnanchiru Kiliye-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126173000 +0000" stop="20260126180000 +0000" channel="zeetamilhd">
@@ -695804,35 +696224,35 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <desc lang="zh"/>
   </programme>
   <programme start="20260126180000 +0000" stop="20260126183000 +0000" channel="zeetamilhd">
-    <title lang="zh">Idhayam-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260126183000 +0000" stop="20260126190000 +0000" channel="zeetamilhd">
-    <title lang="zh">Varisu-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260126190000 +0000" stop="20260126193000 +0000" channel="zeetamilhd">
-    <title lang="zh">Annamalai Kudumbam-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260126193000 +0000" stop="20260126200000 +0000" channel="zeetamilhd">
-    <title lang="zh">Lakshmi Kalyanam-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260126200000 +0000" stop="20260126203000 +0000" channel="zeetamilhd">
-    <title lang="zh">Gettimelam-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260126203000 +0000" stop="20260126210000 +0000" channel="zeetamilhd">
     <title lang="zh">Parijatham-Season 1</title>
     <desc lang="zh"/>
   </programme>
+  <programme start="20260126183000 +0000" stop="20260126190000 +0000" channel="zeetamilhd">
+    <title lang="zh">Idhayam-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260126190000 +0000" stop="20260126193000 +0000" channel="zeetamilhd">
+    <title lang="zh">Varisu-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260126193000 +0000" stop="20260126200000 +0000" channel="zeetamilhd">
+    <title lang="zh">Annamalai Kudumbam-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260126200000 +0000" stop="20260126203000 +0000" channel="zeetamilhd">
+    <title lang="zh">Lakshmi Kalyanam-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260126203000 +0000" stop="20260126210000 +0000" channel="zeetamilhd">
+    <title lang="zh">Gettimelam-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
   <programme start="20260126210000 +0000" stop="20260126213000 +0000" channel="zeetamilhd">
-    <title lang="zh">Sandhya Raagam-Season 1</title>
+    <title lang="zh">Varisu-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126213000 +0000" stop="20260126220000 +0000" channel="zeetamilhd">
-    <title lang="zh">Ayali-Season 1</title>
+    <title lang="zh">Sandhya Raagam-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126220000 +0000" stop="20260126223000 +0000" channel="zeetamilhd">
@@ -695864,7 +696284,7 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <desc lang="zh"/>
   </programme>
   <programme start="20260127003000 +0000" stop="20260127030000 +0000" channel="zeetamilhd">
-    <title lang="zh">Oonaigal Jakkiradhai-Season 1</title>
+    <title lang="zh">Marma Boomi-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260127030000 +0000" stop="20260127033000 +0000" channel="zeetamilhd">
@@ -695895,12 +696315,16 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <title lang="zh">Annamalai Kudumbam-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260127063000 +0000" stop="20260127093000 +0000" channel="zeetamilhd">
-    <title lang="zh">Thangaraja-Season 1</title>
+  <programme start="20260127063000 +0000" stop="20260127090000 +0000" channel="zeetamilhd">
+    <title lang="zh">Thank You-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260127090000 +0000" stop="20260127093000 +0000" channel="zeetamilhd">
+    <title lang="zh">Zee Flix-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260127093000 +0000" stop="20260127100000 +0000" channel="zeetamilhd">
-    <title lang="zh">KCKC - Enna Solla Pokirai-Season 1</title>
+    <title lang="zh">KCKC - Yaan-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260127100000 +0000" stop="20260127103000 +0000" channel="zeetamilhd">
@@ -695911,8 +696335,12 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <title lang="zh">Gettimelam-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260127110000 +0000" stop="20260127120000 +0000" channel="zeetamilhd">
-    <title lang="zh">Mahasangamam Veera And Chinnanchiru Kiliye-Season 1</title>
+  <programme start="20260127110000 +0000" stop="20260127113000 +0000" channel="zeetamilhd">
+    <title lang="zh">Veera-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260127113000 +0000" stop="20260127120000 +0000" channel="zeetamilhd">
+    <title lang="zh">Chinnanchiru Kiliye-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260127120000 +0000" stop="20260127123000 +0000" channel="zeetamilhd">
@@ -695920,7 +696348,7 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <desc lang="zh"/>
   </programme>
   <programme start="20260127123000 +0000" stop="20260127130000 +0000" channel="zeetamilhd">
-    <title lang="zh">Anna-Season 1</title>
+    <title lang="zh">Parijatham-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260127130000 +0000" stop="20260127133000 +0000" channel="zeetamilhd">
@@ -695932,7 +696360,7 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <desc lang="zh"/>
   </programme>
   <programme start="20260127140000 +0000" stop="20260127143000 +0000" channel="zeetamilhd">
-    <title lang="zh">Parijatham-Season 1</title>
+    <title lang="zh">Vaagai Sooda Vaa-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260127143000 +0000" stop="20260127150000 +0000" channel="zeetamilhd">
@@ -695951,44 +696379,48 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <title lang="zh">Varisu-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260127163000 +0000" stop="20260127173000 +0000" channel="zeetamilhd">
-    <title lang="zh">Mahasangamam Veera And Chinnanchiru Kiliye-Season 1</title>
+  <programme start="20260127163000 +0000" stop="20260127170000 +0000" channel="zeetamilhd">
+    <title lang="zh">Veera-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260127170000 +0000" stop="20260127173000 +0000" channel="zeetamilhd">
+    <title lang="zh">Chinnanchiru Kiliye-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260127173000 +0000" stop="20260127180000 +0000" channel="zeetamilhd">
-    <title lang="zh">Ayali-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260127180000 +0000" stop="20260127183000 +0000" channel="zeetamilhd">
-    <title lang="zh">Idhayam-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260127183000 +0000" stop="20260127190000 +0000" channel="zeetamilhd">
-    <title lang="zh">Varisu-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260127190000 +0000" stop="20260127193000 +0000" channel="zeetamilhd">
-    <title lang="zh">Annamalai Kudumbam-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260127193000 +0000" stop="20260127200000 +0000" channel="zeetamilhd">
-    <title lang="zh">Lakshmi Kalyanam-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260127200000 +0000" stop="20260127203000 +0000" channel="zeetamilhd">
-    <title lang="zh">Gettimelam-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260127203000 +0000" stop="20260127210000 +0000" channel="zeetamilhd">
     <title lang="zh">Parijatham-Season 1</title>
     <desc lang="zh"/>
   </programme>
+  <programme start="20260127180000 +0000" stop="20260127183000 +0000" channel="zeetamilhd">
+    <title lang="zh">Ayali-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260127183000 +0000" stop="20260127190000 +0000" channel="zeetamilhd">
+    <title lang="zh">Idhayam-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260127190000 +0000" stop="20260127193000 +0000" channel="zeetamilhd">
+    <title lang="zh">Varisu-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260127193000 +0000" stop="20260127200000 +0000" channel="zeetamilhd">
+    <title lang="zh">Annamalai Kudumbam-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260127200000 +0000" stop="20260127203000 +0000" channel="zeetamilhd">
+    <title lang="zh">Lakshmi Kalyanam-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260127203000 +0000" stop="20260127210000 +0000" channel="zeetamilhd">
+    <title lang="zh">Gettimelam-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
   <programme start="20260127210000 +0000" stop="20260127213000 +0000" channel="zeetamilhd">
-    <title lang="zh">Sandhya Raagam-Season 1</title>
+    <title lang="zh">Varisu-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260127213000 +0000" stop="20260127220000 +0000" channel="zeetamilhd">
-    <title lang="zh">Ayali-Season 1</title>
+    <title lang="zh">Sandhya Raagam-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260127220000 +0000" stop="20260127223000 +0000" channel="zeetamilhd">
@@ -697607,36 +698039,32 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <title lang="zh">Naane Varuvean-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260126000000 +0000" stop="20260126020000 +0000" channel="zeetamilhd">
-    <title lang="zh">Savarakathi-Season 1</title>
+  <programme start="20260126000000 +0000" stop="20260126003000 +0000" channel="zeetamilhd">
+    <title lang="zh">Lakshmi Kalyanam-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260126020000 +0000" stop="20260126023000 +0000" channel="zeetamilhd">
-    <title lang="zh">Varisu-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260126023000 +0000" stop="20260126030000 +0000" channel="zeetamilhd">
-    <title lang="zh">Varisu-Season 1</title>
+  <programme start="20260126003000 +0000" stop="20260126030000 +0000" channel="zeetamilhd">
+    <title lang="zh">Kamali From Nadukaveri-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126030000 +0000" stop="20260126033000 +0000" channel="zeetamilhd">
-    <title lang="zh">Varisu-Season 1</title>
+    <title lang="zh">Chinnanchiru Kiliye-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126033000 +0000" stop="20260126040000 +0000" channel="zeetamilhd">
-    <title lang="zh">Varisu-Season 1</title>
+    <title lang="zh">Chinnanchiru Kiliye-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126040000 +0000" stop="20260126043000 +0000" channel="zeetamilhd">
-    <title lang="zh">Varisu-Season 1</title>
+    <title lang="zh">Chinnanchiru Kiliye-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126043000 +0000" stop="20260126050000 +0000" channel="zeetamilhd">
-    <title lang="zh">Aval Varuvala-Season 1</title>
+    <title lang="zh">Chinnanchiru Kiliye-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126050000 +0000" stop="20260126053000 +0000" channel="zeetamilhd">
-    <title lang="zh">Aval Varuvala-Season 1</title>
+    <title lang="zh">Chinnanchiru Kiliye-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126053000 +0000" stop="20260126060000 +0000" channel="zeetamilhd">
@@ -697647,12 +698075,16 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <title lang="zh">Annamalai Kudumbam-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260126063000 +0000" stop="20260126093000 +0000" channel="zeetamilhd">
-    <title lang="zh">Kaari-Season 1</title>
+  <programme start="20260126063000 +0000" stop="20260126090000 +0000" channel="zeetamilhd">
+    <title lang="zh">Cold Case-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260126090000 +0000" stop="20260126093000 +0000" channel="zeetamilhd">
+    <title lang="zh">Zee Flix-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126093000 +0000" stop="20260126100000 +0000" channel="zeetamilhd">
-    <title lang="zh">KCKC - Kedi Billa Killadi Ranga-Season 1</title>
+    <title lang="zh">KCKC - Dhuruvangal Pathinaaru-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126100000 +0000" stop="20260126103000 +0000" channel="zeetamilhd">
@@ -697664,11 +698096,11 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <desc lang="zh"/>
   </programme>
   <programme start="20260126110000 +0000" stop="20260126113000 +0000" channel="zeetamilhd">
-    <title lang="zh">Mahasangamam Veera And Chinnanchiru Kiliye-Season 1</title>
+    <title lang="zh">Veera-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126113000 +0000" stop="20260126120000 +0000" channel="zeetamilhd">
-    <title lang="zh">KCKC - Nisabtham-Season 1</title>
+    <title lang="zh">Chinnanchiru Kiliye-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126120000 +0000" stop="20260126123000 +0000" channel="zeetamilhd">
@@ -697676,7 +698108,7 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <desc lang="zh"/>
   </programme>
   <programme start="20260126123000 +0000" stop="20260126130000 +0000" channel="zeetamilhd">
-    <title lang="zh">Anna-Season 1</title>
+    <title lang="zh">Parijatham-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126130000 +0000" stop="20260126133000 +0000" channel="zeetamilhd">
@@ -697687,12 +698119,8 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <title lang="zh">Karthigai Deepam-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260126140000 +0000" stop="20260126141500 +0000" channel="zeetamilhd">
-    <title lang="zh">Parijatham-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260126141500 +0000" stop="20260126143000 +0000" channel="zeetamilhd">
-    <title lang="zh">Parijatham-Season 1</title>
+  <programme start="20260126140000 +0000" stop="20260126143000 +0000" channel="zeetamilhd">
+    <title lang="zh">Karthigai Deepam-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126143000 +0000" stop="20260126150000 +0000" channel="zeetamilhd">
@@ -697704,7 +698132,7 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <desc lang="zh"/>
   </programme>
   <programme start="20260126153000 +0000" stop="20260126160000 +0000" channel="zeetamilhd">
-    <title lang="zh">Idhayam-Season 1</title>
+    <title lang="zh">Thirumangalyam-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126160000 +0000" stop="20260126163000 +0000" channel="zeetamilhd">
@@ -697712,11 +698140,11 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <desc lang="zh"/>
   </programme>
   <programme start="20260126163000 +0000" stop="20260126170000 +0000" channel="zeetamilhd">
-    <title lang="zh">Mahasangamam Veera And Chinnanchiru Kiliye-Season 1</title>
+    <title lang="zh">Veera-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126170000 +0000" stop="20260126173000 +0000" channel="zeetamilhd">
-    <title lang="zh">Zee Flix-Season 1</title>
+    <title lang="zh">Chinnanchiru Kiliye-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126173000 +0000" stop="20260126180000 +0000" channel="zeetamilhd">
@@ -697724,35 +698152,35 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <desc lang="zh"/>
   </programme>
   <programme start="20260126180000 +0000" stop="20260126183000 +0000" channel="zeetamilhd">
-    <title lang="zh">Idhayam-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260126183000 +0000" stop="20260126190000 +0000" channel="zeetamilhd">
-    <title lang="zh">Varisu-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260126190000 +0000" stop="20260126193000 +0000" channel="zeetamilhd">
-    <title lang="zh">Annamalai Kudumbam-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260126193000 +0000" stop="20260126200000 +0000" channel="zeetamilhd">
-    <title lang="zh">Lakshmi Kalyanam-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260126200000 +0000" stop="20260126203000 +0000" channel="zeetamilhd">
-    <title lang="zh">Gettimelam-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260126203000 +0000" stop="20260126210000 +0000" channel="zeetamilhd">
     <title lang="zh">Parijatham-Season 1</title>
     <desc lang="zh"/>
   </programme>
+  <programme start="20260126183000 +0000" stop="20260126190000 +0000" channel="zeetamilhd">
+    <title lang="zh">Idhayam-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260126190000 +0000" stop="20260126193000 +0000" channel="zeetamilhd">
+    <title lang="zh">Varisu-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260126193000 +0000" stop="20260126200000 +0000" channel="zeetamilhd">
+    <title lang="zh">Annamalai Kudumbam-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260126200000 +0000" stop="20260126203000 +0000" channel="zeetamilhd">
+    <title lang="zh">Lakshmi Kalyanam-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260126203000 +0000" stop="20260126210000 +0000" channel="zeetamilhd">
+    <title lang="zh">Gettimelam-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
   <programme start="20260126210000 +0000" stop="20260126213000 +0000" channel="zeetamilhd">
-    <title lang="zh">Sandhya Raagam-Season 1</title>
+    <title lang="zh">Varisu-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126213000 +0000" stop="20260126220000 +0000" channel="zeetamilhd">
-    <title lang="zh">Ayali-Season 1</title>
+    <title lang="zh">Sandhya Raagam-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126220000 +0000" stop="20260126223000 +0000" channel="zeetamilhd">
@@ -697784,7 +698212,7 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <desc lang="zh"/>
   </programme>
   <programme start="20260127003000 +0000" stop="20260127030000 +0000" channel="zeetamilhd">
-    <title lang="zh">Oonaigal Jakkiradhai-Season 1</title>
+    <title lang="zh">Marma Boomi-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260127030000 +0000" stop="20260127033000 +0000" channel="zeetamilhd">
@@ -697815,12 +698243,16 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <title lang="zh">Annamalai Kudumbam-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260127063000 +0000" stop="20260127093000 +0000" channel="zeetamilhd">
-    <title lang="zh">Thangaraja-Season 1</title>
+  <programme start="20260127063000 +0000" stop="20260127090000 +0000" channel="zeetamilhd">
+    <title lang="zh">Thank You-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260127090000 +0000" stop="20260127093000 +0000" channel="zeetamilhd">
+    <title lang="zh">Zee Flix-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260127093000 +0000" stop="20260127100000 +0000" channel="zeetamilhd">
-    <title lang="zh">KCKC - Enna Solla Pokirai-Season 1</title>
+    <title lang="zh">KCKC - Yaan-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260127100000 +0000" stop="20260127103000 +0000" channel="zeetamilhd">
@@ -697831,8 +698263,12 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <title lang="zh">Gettimelam-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260127110000 +0000" stop="20260127120000 +0000" channel="zeetamilhd">
-    <title lang="zh">Mahasangamam Veera And Chinnanchiru Kiliye-Season 1</title>
+  <programme start="20260127110000 +0000" stop="20260127113000 +0000" channel="zeetamilhd">
+    <title lang="zh">Veera-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260127113000 +0000" stop="20260127120000 +0000" channel="zeetamilhd">
+    <title lang="zh">Chinnanchiru Kiliye-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260127120000 +0000" stop="20260127123000 +0000" channel="zeetamilhd">
@@ -697840,7 +698276,7 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <desc lang="zh"/>
   </programme>
   <programme start="20260127123000 +0000" stop="20260127130000 +0000" channel="zeetamilhd">
-    <title lang="zh">Anna-Season 1</title>
+    <title lang="zh">Parijatham-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260127130000 +0000" stop="20260127133000 +0000" channel="zeetamilhd">
@@ -697852,7 +698288,7 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <desc lang="zh"/>
   </programme>
   <programme start="20260127140000 +0000" stop="20260127143000 +0000" channel="zeetamilhd">
-    <title lang="zh">Parijatham-Season 1</title>
+    <title lang="zh">Vaagai Sooda Vaa-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260127143000 +0000" stop="20260127150000 +0000" channel="zeetamilhd">
@@ -697871,44 +698307,48 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <title lang="zh">Varisu-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260127163000 +0000" stop="20260127173000 +0000" channel="zeetamilhd">
-    <title lang="zh">Mahasangamam Veera And Chinnanchiru Kiliye-Season 1</title>
+  <programme start="20260127163000 +0000" stop="20260127170000 +0000" channel="zeetamilhd">
+    <title lang="zh">Veera-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260127170000 +0000" stop="20260127173000 +0000" channel="zeetamilhd">
+    <title lang="zh">Chinnanchiru Kiliye-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260127173000 +0000" stop="20260127180000 +0000" channel="zeetamilhd">
-    <title lang="zh">Ayali-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260127180000 +0000" stop="20260127183000 +0000" channel="zeetamilhd">
-    <title lang="zh">Idhayam-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260127183000 +0000" stop="20260127190000 +0000" channel="zeetamilhd">
-    <title lang="zh">Varisu-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260127190000 +0000" stop="20260127193000 +0000" channel="zeetamilhd">
-    <title lang="zh">Annamalai Kudumbam-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260127193000 +0000" stop="20260127200000 +0000" channel="zeetamilhd">
-    <title lang="zh">Lakshmi Kalyanam-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260127200000 +0000" stop="20260127203000 +0000" channel="zeetamilhd">
-    <title lang="zh">Gettimelam-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260127203000 +0000" stop="20260127210000 +0000" channel="zeetamilhd">
     <title lang="zh">Parijatham-Season 1</title>
     <desc lang="zh"/>
   </programme>
+  <programme start="20260127180000 +0000" stop="20260127183000 +0000" channel="zeetamilhd">
+    <title lang="zh">Ayali-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260127183000 +0000" stop="20260127190000 +0000" channel="zeetamilhd">
+    <title lang="zh">Idhayam-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260127190000 +0000" stop="20260127193000 +0000" channel="zeetamilhd">
+    <title lang="zh">Varisu-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260127193000 +0000" stop="20260127200000 +0000" channel="zeetamilhd">
+    <title lang="zh">Annamalai Kudumbam-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260127200000 +0000" stop="20260127203000 +0000" channel="zeetamilhd">
+    <title lang="zh">Lakshmi Kalyanam-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260127203000 +0000" stop="20260127210000 +0000" channel="zeetamilhd">
+    <title lang="zh">Gettimelam-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
   <programme start="20260127210000 +0000" stop="20260127213000 +0000" channel="zeetamilhd">
-    <title lang="zh">Sandhya Raagam-Season 1</title>
+    <title lang="zh">Varisu-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260127213000 +0000" stop="20260127220000 +0000" channel="zeetamilhd">
-    <title lang="zh">Ayali-Season 1</title>
+    <title lang="zh">Sandhya Raagam-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260127220000 +0000" stop="20260127223000 +0000" channel="zeetamilhd">
@@ -699647,36 +700087,32 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <title lang="zh">Naane Varuvean-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260126000000 +0000" stop="20260126020000 +0000" channel="zeetamilhd">
-    <title lang="zh">Savarakathi-Season 1</title>
+  <programme start="20260126000000 +0000" stop="20260126003000 +0000" channel="zeetamilhd">
+    <title lang="zh">Lakshmi Kalyanam-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260126020000 +0000" stop="20260126023000 +0000" channel="zeetamilhd">
-    <title lang="zh">Varisu-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260126023000 +0000" stop="20260126030000 +0000" channel="zeetamilhd">
-    <title lang="zh">Varisu-Season 1</title>
+  <programme start="20260126003000 +0000" stop="20260126030000 +0000" channel="zeetamilhd">
+    <title lang="zh">Kamali From Nadukaveri-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126030000 +0000" stop="20260126033000 +0000" channel="zeetamilhd">
-    <title lang="zh">Varisu-Season 1</title>
+    <title lang="zh">Chinnanchiru Kiliye-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126033000 +0000" stop="20260126040000 +0000" channel="zeetamilhd">
-    <title lang="zh">Varisu-Season 1</title>
+    <title lang="zh">Chinnanchiru Kiliye-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126040000 +0000" stop="20260126043000 +0000" channel="zeetamilhd">
-    <title lang="zh">Varisu-Season 1</title>
+    <title lang="zh">Chinnanchiru Kiliye-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126043000 +0000" stop="20260126050000 +0000" channel="zeetamilhd">
-    <title lang="zh">Aval Varuvala-Season 1</title>
+    <title lang="zh">Chinnanchiru Kiliye-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126050000 +0000" stop="20260126053000 +0000" channel="zeetamilhd">
-    <title lang="zh">Aval Varuvala-Season 1</title>
+    <title lang="zh">Chinnanchiru Kiliye-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126053000 +0000" stop="20260126060000 +0000" channel="zeetamilhd">
@@ -699687,12 +700123,16 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <title lang="zh">Annamalai Kudumbam-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260126063000 +0000" stop="20260126093000 +0000" channel="zeetamilhd">
-    <title lang="zh">Kaari-Season 1</title>
+  <programme start="20260126063000 +0000" stop="20260126090000 +0000" channel="zeetamilhd">
+    <title lang="zh">Cold Case-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260126090000 +0000" stop="20260126093000 +0000" channel="zeetamilhd">
+    <title lang="zh">Zee Flix-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126093000 +0000" stop="20260126100000 +0000" channel="zeetamilhd">
-    <title lang="zh">KCKC - Kedi Billa Killadi Ranga-Season 1</title>
+    <title lang="zh">KCKC - Dhuruvangal Pathinaaru-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126100000 +0000" stop="20260126103000 +0000" channel="zeetamilhd">
@@ -699704,11 +700144,11 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <desc lang="zh"/>
   </programme>
   <programme start="20260126110000 +0000" stop="20260126113000 +0000" channel="zeetamilhd">
-    <title lang="zh">Mahasangamam Veera And Chinnanchiru Kiliye-Season 1</title>
+    <title lang="zh">Veera-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126113000 +0000" stop="20260126120000 +0000" channel="zeetamilhd">
-    <title lang="zh">KCKC - Nisabtham-Season 1</title>
+    <title lang="zh">Chinnanchiru Kiliye-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126120000 +0000" stop="20260126123000 +0000" channel="zeetamilhd">
@@ -699716,7 +700156,7 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <desc lang="zh"/>
   </programme>
   <programme start="20260126123000 +0000" stop="20260126130000 +0000" channel="zeetamilhd">
-    <title lang="zh">Anna-Season 1</title>
+    <title lang="zh">Parijatham-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126130000 +0000" stop="20260126133000 +0000" channel="zeetamilhd">
@@ -699727,12 +700167,8 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <title lang="zh">Karthigai Deepam-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260126140000 +0000" stop="20260126141500 +0000" channel="zeetamilhd">
-    <title lang="zh">Parijatham-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260126141500 +0000" stop="20260126143000 +0000" channel="zeetamilhd">
-    <title lang="zh">Parijatham-Season 1</title>
+  <programme start="20260126140000 +0000" stop="20260126143000 +0000" channel="zeetamilhd">
+    <title lang="zh">Karthigai Deepam-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126143000 +0000" stop="20260126150000 +0000" channel="zeetamilhd">
@@ -699744,7 +700180,7 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <desc lang="zh"/>
   </programme>
   <programme start="20260126153000 +0000" stop="20260126160000 +0000" channel="zeetamilhd">
-    <title lang="zh">Idhayam-Season 1</title>
+    <title lang="zh">Thirumangalyam-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126160000 +0000" stop="20260126163000 +0000" channel="zeetamilhd">
@@ -699752,11 +700188,11 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <desc lang="zh"/>
   </programme>
   <programme start="20260126163000 +0000" stop="20260126170000 +0000" channel="zeetamilhd">
-    <title lang="zh">Mahasangamam Veera And Chinnanchiru Kiliye-Season 1</title>
+    <title lang="zh">Veera-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126170000 +0000" stop="20260126173000 +0000" channel="zeetamilhd">
-    <title lang="zh">Zee Flix-Season 1</title>
+    <title lang="zh">Chinnanchiru Kiliye-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126173000 +0000" stop="20260126180000 +0000" channel="zeetamilhd">
@@ -699764,35 +700200,35 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <desc lang="zh"/>
   </programme>
   <programme start="20260126180000 +0000" stop="20260126183000 +0000" channel="zeetamilhd">
-    <title lang="zh">Idhayam-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260126183000 +0000" stop="20260126190000 +0000" channel="zeetamilhd">
-    <title lang="zh">Varisu-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260126190000 +0000" stop="20260126193000 +0000" channel="zeetamilhd">
-    <title lang="zh">Annamalai Kudumbam-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260126193000 +0000" stop="20260126200000 +0000" channel="zeetamilhd">
-    <title lang="zh">Lakshmi Kalyanam-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260126200000 +0000" stop="20260126203000 +0000" channel="zeetamilhd">
-    <title lang="zh">Gettimelam-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260126203000 +0000" stop="20260126210000 +0000" channel="zeetamilhd">
     <title lang="zh">Parijatham-Season 1</title>
     <desc lang="zh"/>
   </programme>
+  <programme start="20260126183000 +0000" stop="20260126190000 +0000" channel="zeetamilhd">
+    <title lang="zh">Idhayam-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260126190000 +0000" stop="20260126193000 +0000" channel="zeetamilhd">
+    <title lang="zh">Varisu-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260126193000 +0000" stop="20260126200000 +0000" channel="zeetamilhd">
+    <title lang="zh">Annamalai Kudumbam-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260126200000 +0000" stop="20260126203000 +0000" channel="zeetamilhd">
+    <title lang="zh">Lakshmi Kalyanam-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260126203000 +0000" stop="20260126210000 +0000" channel="zeetamilhd">
+    <title lang="zh">Gettimelam-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
   <programme start="20260126210000 +0000" stop="20260126213000 +0000" channel="zeetamilhd">
-    <title lang="zh">Sandhya Raagam-Season 1</title>
+    <title lang="zh">Varisu-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126213000 +0000" stop="20260126220000 +0000" channel="zeetamilhd">
-    <title lang="zh">Ayali-Season 1</title>
+    <title lang="zh">Sandhya Raagam-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260126220000 +0000" stop="20260126223000 +0000" channel="zeetamilhd">
@@ -699824,7 +700260,7 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <desc lang="zh"/>
   </programme>
   <programme start="20260127003000 +0000" stop="20260127030000 +0000" channel="zeetamilhd">
-    <title lang="zh">Oonaigal Jakkiradhai-Season 1</title>
+    <title lang="zh">Marma Boomi-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260127030000 +0000" stop="20260127033000 +0000" channel="zeetamilhd">
@@ -699855,12 +700291,16 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <title lang="zh">Annamalai Kudumbam-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260127063000 +0000" stop="20260127093000 +0000" channel="zeetamilhd">
-    <title lang="zh">Thangaraja-Season 1</title>
+  <programme start="20260127063000 +0000" stop="20260127090000 +0000" channel="zeetamilhd">
+    <title lang="zh">Thank You-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260127090000 +0000" stop="20260127093000 +0000" channel="zeetamilhd">
+    <title lang="zh">Zee Flix-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260127093000 +0000" stop="20260127100000 +0000" channel="zeetamilhd">
-    <title lang="zh">KCKC - Enna Solla Pokirai-Season 1</title>
+    <title lang="zh">KCKC - Yaan-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260127100000 +0000" stop="20260127103000 +0000" channel="zeetamilhd">
@@ -699871,8 +700311,12 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <title lang="zh">Gettimelam-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260127110000 +0000" stop="20260127120000 +0000" channel="zeetamilhd">
-    <title lang="zh">Mahasangamam Veera And Chinnanchiru Kiliye-Season 1</title>
+  <programme start="20260127110000 +0000" stop="20260127113000 +0000" channel="zeetamilhd">
+    <title lang="zh">Veera-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260127113000 +0000" stop="20260127120000 +0000" channel="zeetamilhd">
+    <title lang="zh">Chinnanchiru Kiliye-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260127120000 +0000" stop="20260127123000 +0000" channel="zeetamilhd">
@@ -699880,7 +700324,7 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <desc lang="zh"/>
   </programme>
   <programme start="20260127123000 +0000" stop="20260127130000 +0000" channel="zeetamilhd">
-    <title lang="zh">Anna-Season 1</title>
+    <title lang="zh">Parijatham-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260127130000 +0000" stop="20260127133000 +0000" channel="zeetamilhd">
@@ -699892,7 +700336,7 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <desc lang="zh"/>
   </programme>
   <programme start="20260127140000 +0000" stop="20260127143000 +0000" channel="zeetamilhd">
-    <title lang="zh">Parijatham-Season 1</title>
+    <title lang="zh">Vaagai Sooda Vaa-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260127143000 +0000" stop="20260127150000 +0000" channel="zeetamilhd">
@@ -699911,44 +700355,48 @@ Sandy挑战梦幻宠物零食-马卡龙DIY再度逼疯老师！
     <title lang="zh">Varisu-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260127163000 +0000" stop="20260127173000 +0000" channel="zeetamilhd">
-    <title lang="zh">Mahasangamam Veera And Chinnanchiru Kiliye-Season 1</title>
+  <programme start="20260127163000 +0000" stop="20260127170000 +0000" channel="zeetamilhd">
+    <title lang="zh">Veera-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260127170000 +0000" stop="20260127173000 +0000" channel="zeetamilhd">
+    <title lang="zh">Chinnanchiru Kiliye-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260127173000 +0000" stop="20260127180000 +0000" channel="zeetamilhd">
-    <title lang="zh">Ayali-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260127180000 +0000" stop="20260127183000 +0000" channel="zeetamilhd">
-    <title lang="zh">Idhayam-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260127183000 +0000" stop="20260127190000 +0000" channel="zeetamilhd">
-    <title lang="zh">Varisu-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260127190000 +0000" stop="20260127193000 +0000" channel="zeetamilhd">
-    <title lang="zh">Annamalai Kudumbam-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260127193000 +0000" stop="20260127200000 +0000" channel="zeetamilhd">
-    <title lang="zh">Lakshmi Kalyanam-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260127200000 +0000" stop="20260127203000 +0000" channel="zeetamilhd">
-    <title lang="zh">Gettimelam-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260127203000 +0000" stop="20260127210000 +0000" channel="zeetamilhd">
     <title lang="zh">Parijatham-Season 1</title>
     <desc lang="zh"/>
   </programme>
+  <programme start="20260127180000 +0000" stop="20260127183000 +0000" channel="zeetamilhd">
+    <title lang="zh">Ayali-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260127183000 +0000" stop="20260127190000 +0000" channel="zeetamilhd">
+    <title lang="zh">Idhayam-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260127190000 +0000" stop="20260127193000 +0000" channel="zeetamilhd">
+    <title lang="zh">Varisu-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260127193000 +0000" stop="20260127200000 +0000" channel="zeetamilhd">
+    <title lang="zh">Annamalai Kudumbam-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260127200000 +0000" stop="20260127203000 +0000" channel="zeetamilhd">
+    <title lang="zh">Lakshmi Kalyanam-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260127203000 +0000" stop="20260127210000 +0000" channel="zeetamilhd">
+    <title lang="zh">Gettimelam-Season 1</title>
+    <desc lang="zh"/>
+  </programme>
   <programme start="20260127210000 +0000" stop="20260127213000 +0000" channel="zeetamilhd">
-    <title lang="zh">Sandhya Raagam-Season 1</title>
+    <title lang="zh">Varisu-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260127213000 +0000" stop="20260127220000 +0000" channel="zeetamilhd">
-    <title lang="zh">Ayali-Season 1</title>
+    <title lang="zh">Sandhya Raagam-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260127220000 +0000" stop="20260127223000 +0000" channel="zeetamilhd">
