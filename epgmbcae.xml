@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260128043000 +0800" stop="20260128053000 +0800" channel="mbc action">
-    <title lang="en">برنامج Accelerate</title>
-  </programme>
   <programme start="20260128053000 +0800" stop="20260128063000 +0800" channel="mbc action">
     <title lang="en">برنامج american ninja warrior</title>
   </programme>
@@ -153,9 +150,6 @@
   <programme start="20260130043000 +0800" stop="20260130053000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
   </programme>
-  <programme start="20260128030000 +0800" stop="20260128053000 +0800" channel="mbc max">
-    <title lang="en">The Place Beyond the Pines</title>
-  </programme>
   <programme start="20260128053000 +0800" stop="20260128080000 +0800" channel="mbc max">
     <title lang="en">Prisoners</title>
   </programme>
@@ -248,6 +242,9 @@
   </programme>
   <programme start="20260130130000 +0800" stop="20260130143000 +0800" channel="mbc max">
     <title lang="en">The Dark Tower</title>
+  </programme>
+  <programme start="20260130143000 +0800" stop="20260130163000 +0800" channel="mbc max">
+    <title lang="en">16 Blocks</title>
   </programme>
   <programme start="20260128040000 +0800" stop="20260128070000 +0800" channel="mbc 2">
     <title lang="en">Django Unchained</title>
