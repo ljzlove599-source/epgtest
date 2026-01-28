@@ -9,12 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260128210000 +0800" stop="20260128220000 +0800" channel="mbc action">
-    <title lang="en">برنامج  Adrenaline</title>
-  </programme>
-  <programme start="20260128220000 +0800" stop="20260128223000 +0800" channel="mbc action">
-    <title lang="en">برنامج the inside line</title>
-  </programme>
   <programme start="20260128223000 +0800" stop="20260128230000 +0800" channel="mbc action">
     <title lang="en">برنامج the football review</title>
   </programme>
@@ -104,9 +98,6 @@
   </programme>
   <programme start="20260130043000 +0800" stop="20260130053000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
-  </programme>
-  <programme start="20260128210000 +0800" stop="20260128223500 +0800" channel="mbc max">
-    <title lang="en">Conan the Barbarian</title>
   </programme>
   <programme start="20260128223500 +0800" stop="20260128230000 +0800" channel="mbc max">
     <title lang="en">برنامج Making The Movies</title>
@@ -201,9 +192,6 @@
   <programme start="20260131070000 +0800" stop="20260131083000 +0800" channel="mbc max">
     <title lang="en">Flipped</title>
   </programme>
-  <programme start="20260128213000 +0800" stop="20260128220000 +0800" channel="mbc 2">
-    <title lang="en">برنامج Celebrity Scoop Season 9</title>
-  </programme>
   <programme start="20260128220000 +0800" stop="20260128233000 +0800" channel="mbc 2">
     <title lang="en">The Lorax</title>
   </programme>
@@ -296,5 +284,8 @@
   </programme>
   <programme start="20260131060000 +0800" stop="20260131080000 +0800" channel="mbc 2">
     <title lang="en">Ricki and the Flash</title>
+  </programme>
+  <programme start="20260131080000 +0800" stop="20260131100000 +0800" channel="mbc 2">
+    <title lang="en">Creed II</title>
   </programme>
 </tv>
