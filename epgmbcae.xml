@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260128153000 +0800" stop="20260128163000 +0800" channel="mbc action">
-    <title lang="en">One Piece</title>
-  </programme>
   <programme start="20260128163000 +0800" stop="20260128180000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
@@ -120,12 +117,6 @@
   <programme start="20260130043000 +0800" stop="20260130053000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
   </programme>
-  <programme start="20260128140000 +0800" stop="20260128160000 +0800" channel="mbc max">
-    <title lang="en">In the Line of Fire</title>
-  </programme>
-  <programme start="20260128160000 +0800" stop="20260128163000 +0800" channel="mbc max">
-    <title lang="en">Hollywood Buzz</title>
-  </programme>
   <programme start="20260128163000 +0800" stop="20260128190000 +0800" channel="mbc max">
     <title lang="en">The Place Beyond the Pines</title>
   </programme>
@@ -218,9 +209,6 @@
   </programme>
   <programme start="20260131010000 +0800" stop="20260131030000 +0800" channel="mbc max">
     <title lang="en">Sorry to Bother You</title>
-  </programme>
-  <programme start="20260128143000 +0800" stop="20260128161400 +0800" channel="mbc 2">
-    <title lang="en">Gangster Squad</title>
   </programme>
   <programme start="20260128161400 +0800" stop="20260128170000 +0800" channel="mbc 2">
     <title lang="en">Films &amp; Stars</title>
@@ -317,5 +305,8 @@
   </programme>
   <programme start="20260131000000 +0800" stop="20260131020000 +0800" channel="mbc 2">
     <title lang="en">Pitch Perfect 2</title>
+  </programme>
+  <programme start="20260131020000 +0800" stop="20260131040000 +0800" channel="mbc 2">
+    <title lang="en">Pitch Perfect 3</title>
   </programme>
 </tv>
