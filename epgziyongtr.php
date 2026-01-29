@@ -11,7 +11,7 @@ $xmlFiles = [
     './epgmbcae.xml',
     './epgdubaione.xml',
     './epgkbsworld.xml',
-   // './epgasia.xml',
+    './epgzhongtianam.xml',
     //'./epgdiyicaijing.xml',
    // './epgnewshanghai.xml',
    // './epgkai1.xml',
