@@ -35,7 +35,7 @@ $cid10 = array(
     array('福建体育频道', '福建体育频道'),
     array('福建少儿频道', '福建少儿频道'),
     array('福建综合频道', '福建综合频道'),
-    array('劲爆体育', '劲爆体育'),
+   // array('劲爆体育', '劲爆体育'),
     array('江苏城市频道', '江苏城市频道'),
     array('江苏综艺频道', '江苏综艺频道'),
     array('江苏影视频道', '江苏影视频道'),
@@ -130,9 +130,9 @@ foreach ($cid10 as $channel) {
         
         if (!empty($lastTime) && !empty($lastTitle)) {
             $lastTime = str_replace(['/', ' ', ':'], '', $lastTime) . '00 +0800';
-            $endTime = $dt3 . '235900 +0800';
+            //$endTime = $dt3 . '235900 +0800';
             
-            $chn .= "<programme start=\"" . $lastTime . "\" stop=\"" . $endTime . "\" channel=\"" . $channelName . "\">\n";
+            $chn .= "<programme start=\"" . $lastTime . "\" stop=\"" .substr($lastTime, 0, 8)  . "235900"\" channel=\"" . $channelName . "\">\n";
             $chn .= "<title lang=\"zh\">" . htmlspecialchars($lastTitle, ENT_XML1, 'UTF-8') . "</title>\n";
             $chn .= "<desc lang=\"zh\"> </desc>\n";
             $chn .= "</programme>\n";
