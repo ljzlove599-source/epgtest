@@ -1,11 +1,12 @@
-﻿<?php
+ ﻿<?php
 header('Content-Type: text/xml; charset=UTF-8');
 ini_set("max_execution_time", "300");
 ini_set('date.timezone', 'Asia/Shanghai');
 
 $dt1 = date('Ymd'); // 当前日期
 $dt2 = date('Ymd', time() + 24 * 3600); // 第二天日期
-$dt3 = date('Ymd', time() + 48 * 3600); // 第二天日期
+$dt3 = date('Ymd', time() + 48 * 3600); // 第三天日期
+
 function convert_gbk_to_utf8($str)
 {
     if (function_exists('iconv')) {
@@ -35,7 +36,7 @@ $cid10 = array(
     array('福建体育频道', '福建体育频道'),
     array('福建少儿频道', '福建少儿频道'),
     array('福建综合频道', '福建综合频道'),
-   // array('劲爆体育', '劲爆体育'),
+    // array('劲爆体育', '劲爆体育'), // 重复的行，已注释掉
     array('江苏城市频道', '江苏城市频道'),
     array('江苏综艺频道', '江苏综艺频道'),
     array('江苏影视频道', '江苏影视频道'),
@@ -44,7 +45,6 @@ $cid10 = array(
     array('江苏体育休闲频道', '江苏体育休闲频道'),
     array('江苏优漫卡通频道', '江苏优漫卡通频道'),
     array('江苏国际频道', '江苏国际频道'),
-
 );
 
 // 开始生成 XML
@@ -130,9 +130,10 @@ foreach ($cid10 as $channel) {
         
         if (!empty($lastTime) && !empty($lastTitle)) {
             $lastTime = str_replace(['/', ' ', ':'], '', $lastTime) . '00 +0800';
-            //$endTime = $dt3 . '235900 +0800';
+            $lastDate = substr($lastTime, 0, 8); // 获取日期部分
+            $endTime = $lastDate . "235900 +0800";
             
-            $chn .= "<programme start=\"" . $lastTime . "\" stop=\"" .substr($lastTime, 0, 8)  . "235900"\" channel=\"" . $channelName . "\">\n";
+            $chn .= "<programme start=\"" . $lastTime . "\" stop=\"" . $endTime . "\" channel=\"" . $channelName . "\">\n";
             $chn .= "<title lang=\"zh\">" . htmlspecialchars($lastTitle, ENT_XML1, 'UTF-8') . "</title>\n";
             $chn .= "<desc lang=\"zh\"> </desc>\n";
             $chn .= "</programme>\n";
@@ -144,6 +145,6 @@ $chn .= "</tv>\n";
 
 // 输出 XML
 echo $chn;
-   file_put_contents('epgbaidu.xml', $chn);
+file_put_contents('epgbaidu.xml', $chn);
 
 ?>
