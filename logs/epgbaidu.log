@@ -1,4 +1,4 @@
-﻿PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/runner/work/epgtest/epgtest/epgbaidu.php:1) in /home/runner/work/epgtest/epgtest/epgbaidu.php on line 2
+ ﻿PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/runner/work/epgtest/epgtest/epgbaidu.php:1) in /home/runner/work/epgtest/epgtest/epgbaidu.php on line 2
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "http://api.torrent-tv.ru/xmltv.dtd">
 <tv generator-info-name="mytvsuper" generator-info-url="https://www.tdm.com.mo/c_tv/?ch=Satellite">
@@ -52,9 +52,6 @@
 </channel>
 <channel id="福建综合频道">
 <display-name lang="zh">福建综合频道</display-name>
-</channel>
-<channel id="劲爆体育">
-<display-name lang="zh">劲爆体育</display-name>
 </channel>
 <channel id="江苏城市频道">
 <display-name lang="zh">江苏城市频道</display-name>
@@ -3016,7 +3013,7 @@
 <title lang="zh">剧场</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260201235900 +0800" stop="20260131235900 +0800" channel="福建少儿频道">
+<programme start="20260201235900 +0800" stop="20260201235900 +0800" channel="福建少儿频道">
 <title lang="zh">结束</title>
 <desc lang="zh"> </desc>
 </programme>
@@ -3174,166 +3171,6 @@
 </programme>
 <programme start="20260131232500 +0800" stop="20260131235900 +0800" channel="福建综合频道">
 <title lang="zh">精选剧场</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260129231900 +0800" stop="20260130000000 +0800" channel="劲爆体育">
-<title lang="zh">羽毛球日本公开赛女双决赛</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260130000000 +0800" stop="20260130004200 +0800" channel="劲爆体育">
-<title lang="zh">健身私享课1(15):钢铁手臂塑造</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260130004200 +0800" stop="20260130021400 +0800" channel="劲爆体育">
-<title lang="zh">欧冠14决赛:巴塞罗那-多特蒙德</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260130021400 +0800" stop="20260130034400 +0800" channel="劲爆体育">
-<title lang="zh">JJ斗地主冠军杯S5总决赛败区决赛</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260130034400 +0800" stop="20260130050900 +0800" channel="劲爆体育">
-<title lang="zh">NBA常规赛:勇士-雄鹿</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260130050900 +0800" stop="20260130053800 +0800" channel="劲爆体育">
-<title lang="zh">健身私享课1(14):哑铃手臂塑形</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260130053800 +0800" stop="20260130074700 +0800" channel="劲爆体育">
-<title lang="zh">MLB:休斯顿太空人-洛杉矶天使</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260130074700 +0800" stop="20260130082500 +0800" channel="劲爆体育">
-<title lang="zh">羽毛球日本公开赛女单决赛</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260130082500 +0800" stop="20260130085300 +0800" channel="劲爆体育">
-<title lang="zh">健身私享课1(16):哑铃手臂轰炸</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260130085300 +0800" stop="20260130103000 +0800" channel="劲爆体育">
-<title lang="zh">欧冠14决赛:多特蒙德-巴塞罗那</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260130103000 +0800" stop="20260130133000 +0800" channel="劲爆体育">
-<title lang="zh">2025-2026NBA常规赛:雷霆-森林狼</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260130133000 +0800" stop="20260130140700 +0800" channel="劲爆体育">
-<title lang="zh">JJ斗地主冠军杯S5总决赛败区决赛</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260130140700 +0800" stop="20260130150000 +0800" channel="劲爆体育">
-<title lang="zh">JJ斗地主冠军杯S5总决赛冠军之夜</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260130150000 +0800" stop="20260130154400 +0800" channel="劲爆体育">
-<title lang="zh">健身私享课1(17):哑铃肩部塑形</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260130154400 +0800" stop="20260130173400 +0800" channel="劲爆体育">
-<title lang="zh">欧冠14决赛:皇家马德里-阿森纳</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260130173400 +0800" stop="20260130182500 +0800" channel="劲爆体育">
-<title lang="zh">JJ斗地主冠军杯S5总决赛冠军之夜</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260130182500 +0800" stop="20260130191400 +0800" channel="劲爆体育">
-<title lang="zh">JJ斗地主冠军杯S5总决赛冠军之夜</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260130191400 +0800" stop="20260130203500 +0800" channel="劲爆体育">
-<title lang="zh">NBA常规赛:太阳-快船</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260130203500 +0800" stop="20260130231700 +0800" channel="劲爆体育">
-<title lang="zh">MLB:明尼苏达双城-洛杉矶道奇</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260130231700 +0800" stop="20260131000000 +0800" channel="劲爆体育">
-<title lang="zh">羽毛球中国澳门公开赛女单决赛</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260131000000 +0800" stop="20260131004200 +0800" channel="劲爆体育">
-<title lang="zh">健身私享课1(16):哑铃手臂轰炸</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260131004200 +0800" stop="20260131022800 +0800" channel="劲爆体育">
-<title lang="zh">欧冠14决赛:多特蒙德-巴塞罗那</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260131022800 +0800" stop="20260131030500 +0800" channel="劲爆体育">
-<title lang="zh">JJ斗地主冠军杯S5总决赛败区决赛</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260131030500 +0800" stop="20260131040300 +0800" channel="劲爆体育">
-<title lang="zh">JJ斗地主冠军杯S5总决赛冠军之夜</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260131040300 +0800" stop="20260131052700 +0800" channel="劲爆体育">
-<title lang="zh">NBA常规赛:雷霆-快船</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260131052700 +0800" stop="20260131055600 +0800" channel="劲爆体育">
-<title lang="zh">健身私享课1(15):钢铁手臂塑造</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260131055600 +0800" stop="20260131075400 +0800" channel="劲爆体育">
-<title lang="zh">MLB:旧金山巨人-亚利桑那响尾蛇</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260131075400 +0800" stop="20260131083400 +0800" channel="劲爆体育">
-<title lang="zh">羽毛球日本公开赛女双决赛</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260131083400 +0800" stop="20260131091900 +0800" channel="劲爆体育">
-<title lang="zh">健身私享课1(17):哑铃肩部塑形</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260131091900 +0800" stop="20260131110000 +0800" channel="劲爆体育">
-<title lang="zh">欧冠14决赛:皇家马德里-阿森纳</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260131110000 +0800" stop="20260131140000 +0800" channel="劲爆体育">
-<title lang="zh">2025-2026NBA常规赛:活塞-勇士</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260131140000 +0800" stop="20260131150000 +0800" channel="劲爆体育">
-<title lang="zh">JJ斗地主冠军杯S5总决赛冠军之夜</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260131150000 +0800" stop="20260131154400 +0800" channel="劲爆体育">
-<title lang="zh">健身私享课1(18):哑铃胸部塑形</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260131154400 +0800" stop="20260131172600 +0800" channel="劲爆体育">
-<title lang="zh">欧冠半决赛:巴塞罗那-国际米兰</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260131172600 +0800" stop="20260131182000 +0800" channel="劲爆体育">
-<title lang="zh">JJ斗地主冠军杯S5总决赛冠军之夜</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260131182000 +0800" stop="20260131192000 +0800" channel="劲爆体育">
-<title lang="zh">JJ斗地主冠军杯S5总决赛冠军之夜</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260131192000 +0800" stop="20260131204100 +0800" channel="劲爆体育">
-<title lang="zh">NBA常规赛:掘金-国王</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260131204100 +0800" stop="20260131211000 +0800" channel="劲爆体育">
-<title lang="zh">健身私享课1(17):哑铃肩部塑形</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260131211000 +0800" stop="20260131231100 +0800" channel="劲爆体育">
-<title lang="zh">MLB:波士顿红袜-圣迭戈教士</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260131231100 +0800" stop="20260131235900 +0800" channel="劲爆体育">
-<title lang="zh">羽毛球中国香港公开赛女单决赛</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260129134600 +0800" stop="20260129151400 +0800" channel="江苏城市频道">
