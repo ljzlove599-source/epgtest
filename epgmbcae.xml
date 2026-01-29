@@ -9,12 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260130043000 +0800" stop="20260130053000 +0800" channel="mbc action">
-    <title lang="en">برنامج ارض المليون</title>
-  </programme>
-  <programme start="20260130030000 +0800" stop="20260130053000 +0800" channel="mbc max">
-    <title lang="en">The Equalizer</title>
-  </programme>
   <programme start="20260130053000 +0800" stop="20260130073000 +0800" channel="mbc max">
     <title lang="en">The Equalizer 2</title>
   </programme>
@@ -102,6 +96,9 @@
   <programme start="20260201130000 +0800" stop="20260201143000 +0800" channel="mbc max">
     <title lang="en">Flipped</title>
   </programme>
+  <programme start="20260201143000 +0800" stop="20260201163000 +0800" channel="mbc max">
+    <title lang="en">Due Date</title>
+  </programme>
   <programme start="20260130040000 +0800" stop="20260130060000 +0800" channel="mbc 2">
     <title lang="en">Atomic Blonde</title>
   </programme>
@@ -185,5 +182,8 @@
   </programme>
   <programme start="20260201123000 +0800" stop="20260201143000 +0800" channel="mbc 2">
     <title lang="en">Ricki and the Flash</title>
+  </programme>
+  <programme start="20260201143000 +0800" stop="20260201163000 +0800" channel="mbc 2">
+    <title lang="en">Talladega Nights: The Ballad of Ricky Bobby</title>
   </programme>
 </tv>
