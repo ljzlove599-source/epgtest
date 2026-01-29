@@ -5,7 +5,7 @@ ini_set('date.timezone', 'Asia/Shanghai');
 
 $dt1 = date('Ymd'); // 当前日期
 $dt2 = date('Ymd', time() + 24 * 3600); // 第二天日期
-
+$dt3 = date('Ymd', time() + 48 * 3600); // 第二天日期
 function convert_gbk_to_utf8($str)
 {
     if (function_exists('iconv')) {
@@ -130,7 +130,7 @@ foreach ($cid10 as $channel) {
         
         if (!empty($lastTime) && !empty($lastTitle)) {
             $lastTime = str_replace(['/', ' ', ':'], '', $lastTime) . '00 +0800';
-            $endTime = $dt2 . '235900 +0800';
+            $endTime = $dt3 . '235900 +0800';
             
             $chn .= "<programme start=\"" . $lastTime . "\" stop=\"" . $endTime . "\" channel=\"" . $channelName . "\">\n";
             $chn .= "<title lang=\"zh\">" . htmlspecialchars($lastTitle, ENT_XML1, 'UTF-8') . "</title>\n";
