@@ -7,6 +7,7 @@ $xmlFiles = [
     './epgasia.xml',
     './epgdiyicaijing.xml',
     './epgnewshanghai.xml',
+     './epgbaidu.xml',
     './epgkai1.xml',
     './epglifetv.xml',
     './epgmytvsuper.xml',
