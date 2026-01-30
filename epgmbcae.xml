@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260130143000 +0800" stop="20260130153000 +0800" channel="mbc action">
-    <title lang="en">برنامجcar issuse</title>
-  </programme>
   <programme start="20260130153000 +0800" stop="20260130163500 +0800" channel="mbc action">
     <title lang="en">One Piece</title>
   </programme>
@@ -183,6 +180,9 @@
   <programme start="20260202000000 +0800" stop="20260202010000 +0800" channel="mbc action">
     <title lang="en">برنامج action bodcast </title>
   </programme>
+  <programme start="20260202010000 +0800" stop="20260202013000 +0800" channel="mbc action">
+    <title lang="en">One Piece</title>
+  </programme>
   <programme start="20260130143000 +0800" stop="20260130163000 +0800" channel="mbc max">
     <title lang="en">16 Blocks</title>
   </programme>
@@ -270,6 +270,9 @@
   <programme start="20260201230000 +0800" stop="20260202010000 +0800" channel="mbc max">
     <title lang="en">Edge of Darkness</title>
   </programme>
+  <programme start="20260202010000 +0800" stop="20260202030000 +0800" channel="mbc max">
+    <title lang="en">Kill the Messenger</title>
+  </programme>
   <programme start="20260130140000 +0800" stop="20260130163000 +0800" channel="mbc 2">
     <title lang="en">The Bourne Legacy</title>
   </programme>
@@ -353,5 +356,8 @@
   </programme>
   <programme start="20260201223000 +0800" stop="20260202003000 +0800" channel="mbc 2">
     <title lang="en">All I See Is You</title>
+  </programme>
+  <programme start="20260202003000 +0800" stop="20260202023000 +0800" channel="mbc 2">
+    <title lang="en">Thoroughbreds</title>
   </programme>
 </tv>
