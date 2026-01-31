@@ -85,7 +85,7 @@ function generate_xml($epg_data) {
         $programme = $xml->addChild('programme');
         $programme->addAttribute('start', $item['start']);
         $programme->addAttribute('stop', $item['stop']);
-        $programme->addAttribute('channel', 'LifeTV');
+        $programme->addAttribute('channel', '生命電視台');
         
         $title = $programme->addChild('title', htmlspecialchars($item['title']));
         $title->addAttribute('lang', 'zh');
