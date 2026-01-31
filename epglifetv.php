@@ -80,7 +80,12 @@ function parse_epg($html) {
 function generate_xml($epg_data) {
     $xml = new SimpleXMLElement('<?xml version="1.0" encoding="UTF-8"?><tv></tv>');
     $xml->addAttribute('generator-info-name', 'Manus EPG Extractor');
-
+    
+    // 添加 channel 元素
+    $channel = $xml->addChild('channel');
+    $channel->addAttribute('id', '生命電視台');
+    $channel->addChild('display-name', '生命電視台');
+    
     foreach ($epg_data as $item) {
         $programme = $xml->addChild('programme');
         $programme->addAttribute('start', $item['start']);
