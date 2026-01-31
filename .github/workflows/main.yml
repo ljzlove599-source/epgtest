@@ -1,0 +1,412 @@
+name: EPG Comprehensive Processing
+
+on:
+  schedule:
+    - cron: '1 */1 * * *'   # 每小时第1分钟开始执行
+  workflow_dispatch:
+
+jobs:
+  epg_comprehensive_processing:
+    runs-on: ubuntu-latest
+   
+    steps:
+      # 第一阶段：环境准备和代码检出
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up environments
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq libxml2-utils gzip
+      - name: Set up PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '7.4'
+          tools: composer
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: |
+          # PHP依赖
+          if [ -f "composer.json" ]; then
+            composer install --no-dev --no-progress --no-interaction --prefer-dist
+          fi
+          
+          # Python依赖
+          pip install opencc
+          
+          echo "所有依赖安装完成"
+      # 第二阶段：文件下载和解压
+      - name: Download and extract files from files.json
+        id: download_files
+        run: |
+          if [ -f "files.json" ]; then
+            echo "开始下载files.json中定义的文件..."
+            cat files.json | jq -r 'to_entries[] | "\(.key) \(.value)"' | while read -r filename url; do
+              echo "下载: $filename <- $url"
+              wget -O "$filename" "$url" --retry-connrefused --waitretry=5 --timeout=30 || echo "$filename 下载失败，跳过"
+              
+              # 如果是.gz文件，自动解压
+              if [[ "$filename" == *.gz ]] && [ -f "$filename" ]; then
+                echo "解压文件: $filename"
+                gunzip -f "$filename" || echo "解压失败或文件已解压: $filename"
+                
+                # 获取解压后的文件名（去掉.gz后缀）
+                extracted_file="${filename%.gz}"
+                if [ -f "$extracted_file" ]; then
+                  echo "✓ 解压成功: $extracted_file"
+                fi
+              fi
+            done
+            echo "文件下载和解压完成"
+          else
+            echo "files.json 不存在，跳过下载步骤"
+          fi
+      # 第三阶段：广东EPG处理
+      - name: Process Guangdong EPG
+        id: guangdong_epg
+        run: |
+          echo "开始处理广东EPG..."
+          
+          # 检查是否已通过files.json下载并解压
+          if [ -f "epgguangdong.xml" ]; then
+            echo "使用已下载的epgguangdong.xml文件"
+          else
+            # 如果没有，则下载广东EPG
+            echo "从GitHub下载广东EPG..."
+            curl -L -o epgguangdong.xml.gz https://raw.githubusercontent.com/litiande03/epg/refs/heads/master/pl.xml.gz || exit 1
+            
+            # 解压
+            if [ -f "epgguangdong.xml.gz" ]; then
+              gunzip -f epgguangdong.xml.gz
+              echo "广东EPG下载并解压完成"
+            else
+              echo "广东EPG下载失败"
+              echo "guangdong_processed=false" >> $GITHUB_OUTPUT
+              exit 0
+            fi
+          fi
+          
+          # 运行转换脚本
+          if [ -f "epgguangdong.xml" ] && [ -f "convert.py" ]; then
+            echo "运行转换脚本..."
+            python convert.py epgguangdong.xml
+            echo "广东EPG处理完成"
+            echo "guangdong_processed=true" >> $GITHUB_OUTPUT
+            
+            # 重新压缩处理后的文件以便上传
+            if [ -f "epgguangdong.xml" ]; then
+              gzip -k -f epgguangdong.xml
+              echo "重新生成epgguangdong.xml.gz用于上传"
+            fi
+          else
+            echo "广东EPG文件或转换脚本不存在，跳过"
+            echo "guangdong_processed=false" >> $GITHUB_OUTPUT
+          fi
+      # 第四阶段：PHP EPG生成
+      - name: Check PHP scripts exist
+        id: check_scripts
+        run: |
+          echo "检查PHP脚本文件..."
+          declare -a scripts=("epgbaidu.php" "epgzhongtianam.php" "youtubelivem3u.php" "youtubelivetxt.php" "epgdiyicaijing.php" "epgunifi.php" "epglifetv.php" "epgkbsworld.php" "epgmacocable.php" "epgtvsou.php" "epgdubaione.php" "epgasia.php" "epgmncvision.php" "epgastro.php" "epggen2.php" "epgofiii.php" "epgkai1.php" "epgnewshanghai.php" "epgnewhebei.php" "epgnewguangdong.php" "epgziyong.php")
+          existing_scripts=()
+          
+          for script in "${scripts[@]}"; do
+            if [ -f "$script" ]; then
+              echo "✓ 找到文件: $script"
+              existing_scripts+=("$script")
+            else
+              echo "✗ 文件不存在: $script"
+            fi
+          done
+          
+          if [ ${#existing_scripts[@]} -eq 0 ]; then
+            echo "警告: 没有找到任何PHP脚本文件，跳过EPG生成"
+            echo "existing_scripts=none" >> $GITHUB_OUTPUT
+          else
+            scripts_list=$(IFS=,; echo "${existing_scripts[*]}")
+            echo "existing_scripts=$scripts_list" >> $GITHUB_OUTPUT
+          fi
+      - name: Run PHP scripts to generate XML files
+        if: steps.check_scripts.outputs.existing_scripts != 'none'
+        run: |
+          IFS=',' read -ra scripts <<< "${{ steps.check_scripts.outputs.existing_scripts }}"
+          mkdir -p logs
+          
+          for script in "${scripts[@]}"; do
+            echo "========================================="
+            echo "正在运行: $script"
+            start_time=$(date +%s)
+            
+            if php "$script" > "logs/${script%.php}.log" 2>&1; then
+              end_time=$(date +%s)
+              duration=$((end_time - start_time))
+              echo "✓ $script 执行成功 (耗时: ${duration}秒)"
+            else
+              echo "✗ $script 执行失败！请查看日志"
+              exit 1
+            fi
+            echo "========================================="
+          done
+      - name: Check generated XML files
+        id: check_xml
+        run: |
+          declare -a expected_xml=("epgbaidu.xml" "epgzhongtianam.xml" "epgguangdong.xml.gz" "epgunifi.xml" "epgkbsworld.xml" "epglifetv.xml" "epgguangdong.xml" "epgmbcae.xml"  "epgmacocable.xml" "epgdubaione.xml" "epgasia.xml" "epgdiyicaijing.xml" "epgmncvision.xml" "epgtvsou.xml" "epgastro.xml" "epgyidong.xml" "epghebei.xml" "epgofiii.xml" "epgkai1.xml"  "epgnewshanghai.xml" "epghebeiiptv1.xml" "epgnewhebei.xml" "epgnewguangdong.xml" "epgziyong.xml")
+          generated_files=()
+          
+          echo "检查生成的XML文件..."
+          for xml_file in "${expected_xml[@]}"; do
+            if [ -f "$xml_file" ]; then
+              filesize=$(stat -c%s "$xml_file" 2>/dev/null || wc -c < "$xml_file" | awk '{print $1}')
+              echo "✓ 生成文件: $xml_file (大小: $filesize bytes)"
+              generated_files+=("$xml_file")
+              
+              # 对XML文件进行格式验证（跳过.gz文件）
+              if [[ "$xml_file" != *.gz ]]; then
+                if xmllint --noout "$xml_file" 2>/dev/null; then
+                  echo "  XML格式验证通过"
+                else
+                  echo "  XML格式验证失败！"
+                  exit 1
+                fi
+              fi
+            else
+              echo "✗ 未生成文件: $xml_file"
+            fi
+          done
+          
+          if [ ${#generated_files[@]} -eq 0 ]; then
+            echo "警告: 没有生成任何XML文件"
+            echo "generated_xml=none" >> $GITHUB_OUTPUT
+          else
+            xml_list=$(IFS=,; echo "${generated_files[*]}")
+            echo "generated_xml=$xml_list" >> $GITHUB_OUTPUT
+            echo "生成 ${#generated_files[@]} 个XML文件"
+          fi
+      # 第五阶段：繁简转换
+      - name: Convert to Simplified and Traditional Chinese
+        id: convert_chinese
+        run: |
+          if [ -f "epgziyong.xml" ]; then
+            echo "开始繁简转换..."
+            python - <<'EOF'
+          from opencc import OpenCC
+          import os, gzip
+          input_file = "epgziyong.xml"
+          if not os.path.exists(input_file):
+              raise FileNotFoundError(f"{input_file} 不存在")
+          # 初始化两个转换器
+          cc_t2s = OpenCC('t2s')  # 繁 → 简
+          cc_s2t = OpenCC('s2t')  # 简 → 繁
+          with open(input_file, "r", encoding="utf-8") as f:
+              text = f.read()
+          # --- 繁转简 ---
+          simplified = cc_t2s.convert(text)
+          with open("swepg.xml", "w", encoding="utf-8") as f:
+              f.write(simplified)
+          with open("swepg.xml", "rb") as f_in, gzip.open("swepg.xml.gz", "wb") as f_out:
+              f_out.writelines(f_in)
+          print("✅ 已生成 swepg.xml 和 swepg.xml.gz（繁→简）")
+          # --- 简转繁 ---
+          traditional = cc_s2t.convert(text)
+          with open("twepg.xml", "w", encoding="utf-8") as f:
+              f.write(traditional)
+          with open("twepg.xml", "rb") as f_in, gzip.open("twepg.xml.gz", "wb") as f_out:
+              f_out.writelines(f_in)
+          print("✅ 已生成 twepg.xml 和 twepg.xml.gz（简→繁）")
+          EOF
+            echo "converted_files=swepg.xml,swepg.xml.gz,twepg.xml,twepg.xml.gz" >> $GITHUB_OUTPUT
+          else
+            echo "epgziyong.xml 不存在，跳过繁简转换"
+            echo "converted_files=none" >> $GITHUB_OUTPUT
+          fi
+      # 第六阶段：提取电视台名称
+      - name: Extract channel names
+        id: extract_channels
+        run: |
+          echo "开始提取电视台名称..."
+          # 确保有文件可处理
+          if [ ! -f "twepg.xml" ] && [ ! -f "swepg.xml" ]; then
+            echo "没有找到繁简中文EPG文件，跳过提取"
+            echo "channels_extracted=false" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+          
+          # 如果文件不存在但转换步骤生成了，等待文件
+          if [ ! -f "twepg.xml" ] && [ "${{ steps.convert_chinese.outputs.converted_files }}" != "none" ]; then
+            sleep 5
+          fi
+          
+          python <<'EOF'
+          import xml.etree.ElementTree as ET
+          import os
+          def extract_names(xml_file, output_file):
+              try:
+                  tree = ET.parse(xml_file)
+                  root = tree.getroot()
+                  seen = set()
+                  channels = []
+                  for c in root.findall('channel'):
+                      name = c.get('display-name') or c.findtext('display-name') or c.get('id', '')
+                      if name and name.strip() and name not in seen:
+                          seen.add(name)
+                          channels.append(name.strip())
+                  with open(output_file, 'w', encoding='utf-8') as f:
+                      f.write('\n'.join(channels))
+                  print(f"✅ {xml_file}: 共提取 {len(channels)} 个频道，已保存到 {output_file}")
+                  return len(channels)
+              except Exception as e:
+                  print(f"❌ 解析 {xml_file} 出错: {e}")
+                  return 0
+          total_channels = 0
+          if os.path.exists('twepg.xml'):
+              total_channels += extract_names('twepg.xml', '繁體電視台目錄.txt')
+          if os.path.exists('swepg.xml'):
+              total_channels += extract_names('swepg.xml', '简体电视台目录.txt')
+              
+          print(f"总计提取频道数: {total_channels}")
+          EOF
+          
+          if [ -f "繁體電視台目錄.txt" ] || [ -f "简体电视台目录.txt" ]; then
+            echo "channels_extracted=true" >> $GITHUB_OUTPUT
+          else
+            echo "channels_extracted=false" >> $GITHUB_OUTPUT
+          fi
+      # 第七阶段：提交所有更改
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+      - name: Commit and push all changes
+        run: |
+          # 拉取最新更改并强制覆盖本地更改
+          git fetch origin
+          git reset --hard origin/${{ github.ref_name }}
+          
+          # 添加所有生成的文件
+          files_changed=0
+          
+          # 添加下载的文件（包括解压后的文件）
+          if [ -f "files.json" ]; then
+            cat files.json | jq -r 'keys[]' | while read -r filename; do
+              # 添加原始文件
+              if [ -f "$filename" ]; then
+                git add "$filename"
+                echo "添加下载文件: $filename"
+                files_changed=1
+              fi
+              
+              # 如果是.gz文件，也添加解压后的文件
+              if [[ "$filename" == *.gz ]]; then
+                extracted_file="${filename%.gz}"
+                if [ -f "$extracted_file" ]; then
+                  git add "$extracted_file"
+                  echo "添加解压文件: $extracted_file"
+                  files_changed=1
+                fi
+              fi
+            done
+          fi
+          
+          # 添加生成的XML文件（包括epgguangdong.xml和epgguangdong.xml.gz）
+          if [ "${{ steps.check_xml.outputs.generated_xml }}" != "none" ]; then
+            IFS=',' read -ra xml_files <<< "${{ steps.check_xml.outputs.generated_xml }}"
+            for xml_file in "${xml_files[@]}"; do
+              if [ -f "$xml_file" ]; then
+                git add "$xml_file"
+                echo "添加XML文件: $xml_file"
+                files_changed=1
+              fi
+            done
+          fi
+          
+          # 确保epgguangdong.xml和epgguangdong.xml.gz都被添加
+          if [ -f "epgguangdong.xml" ]; then
+            git add "epgguangdong.xml"
+            echo "添加epgguangdong.xml"
+            files_changed=1
+          fi
+          if [ -f "epgguangdong.xml.gz" ]; then
+            git add "epgguangdong.xml.gz"
+            echo "添加epgguangdong.xml.gz"
+            files_changed=1
+          fi
+          
+          # 添加转换文件
+          if [ "${{ steps.convert_chinese.outputs.converted_files }}" != "none" ]; then
+            IFS=',' read -ra converted_files <<< "${{ steps.convert_chinese.outputs.converted_files }}"
+            for converted_file in "${converted_files[@]}"; do
+              if [ -f "$converted_file" ]; then
+                git add "$converted_file"
+                echo "添加转换文件: $converted_file"
+                files_changed=1
+              fi
+            done
+          fi
+          
+          # 添加频道列表文件
+          if [ "${{ steps.extract_channels.outputs.channels_extracted }}" == "true" ]; then
+            git add "繁體電視台目錄.txt" "简体电视台目录.txt" 2>/dev/null || true
+            echo "添加频道列表文件"
+            files_changed=1
+          fi
+          
+          # 添加日志文件
+          git add logs/ 2>/dev/null || true
+          
+          # 检查是否有变化
+          if git diff --staged --quiet; then
+            echo "没有文件发生变化，跳过提交"
+            exit 0
+          fi
+          
+          # 提交并推送
+          echo "检测到文件变化，正在提交..."
+          commit_message="Auto update EPG $(date '+%Y-%m-%d %H:%M:%S')"
+          
+          if [ "${{ steps.check_xml.outputs.generated_xml }}" != "none" ]; then
+            commit_message+=" | Generated: ${{ steps.check_xml.outputs.generated_xml }}"
+          fi
+          
+          if [ "${{ steps.convert_chinese.outputs.converted_files }}" != "none" ]; then
+            commit_message+=" | Converted: ${{ steps.convert_chinese.outputs.converted_files }}"
+          fi
+          
+          if [ "${{ steps.extract_channels.outputs.channels_extracted }}" == "true" ]; then
+            commit_message+=" | Channels extracted"
+          fi
+          
+          git commit -m "$commit_message"
+          git push origin HEAD:${{ github.ref }}
+          
+          echo "已成功推送更新"
+      # 第八阶段：日志和总结
+      - name: Upload logs as artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: epg-comprehensive-logs-${{ github.run_number }}
+          path: |
+            logs/
+            *.log
+          retention-days: 7
+
+      - name: Workflow Summary
+        if: always()
+        run: |
+          echo "=== EPG 综合处理任务总结 ==="
+          echo "状态: ${{ job.status }}"
+          echo "执行的PHP脚本: ${{ steps.check_scripts.outputs.existing_scripts || '无' }}"
+          echo "广东EPG处理: ${{ steps.guangdong_epg.outputs.guangdong_processed || '未执行' }}"
+          echo "生成的XML文件: ${{ steps.check_xml.outputs.generated_xml || '无' }}"
+          echo "繁简转换文件: ${{ steps.convert_chinese.outputs.converted_files || '无' }}"
+          echo "频道名称提取: ${{ steps.extract_channels.outputs.channels_extracted || '未执行' }}"
+          echo "查看详细日志: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          echo "任务完成时间: $(date)"
