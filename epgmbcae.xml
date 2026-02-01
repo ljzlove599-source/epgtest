@@ -9,12 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260202030000 +0800" stop="20260202040000 +0800" channel="mbc action">
-    <title lang="en">برنامج action bodcast </title>
-  </programme>
-  <programme start="20260202040000 +0800" stop="20260202043000 +0800" channel="mbc action">
-    <title lang="en">برنامج cars &amp; stars </title>
-  </programme>
   <programme start="20260202043000 +0800" stop="20260202063000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
@@ -437,5 +431,8 @@
   </programme>
   <programme start="20260204120000 +0800" stop="20260204135000 +0800" channel="mbc 2">
     <title lang="en">Flatliners</title>
+  </programme>
+  <programme start="20260204135000 +0800" stop="20260204160000 +0800" channel="mbc 2">
+    <title lang="en">Green Book</title>
   </programme>
 </tv>
