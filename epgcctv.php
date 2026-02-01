@@ -57,8 +57,8 @@ foreach ($channels as $id => $defaultName) {
             // 只添加一次頻道資訊
             if (!$channelAdded) {
                 $channelNode = $xml->addChild('channel');
-                $channelNode->addAttribute('id', htmlspecialchars($actualName));
-                $channelNode->addChild('display-name', htmlspecialchars($actualName));
+                $channelNode->addAttribute('id', $actualName);
+                $channelNode->addChild('display-name', $actualName);
                 $channelAdded = true;
             }
 
