@@ -75,7 +75,7 @@ foreach ($channels as $id => $defaultName) {
 
                 $programme->addAttribute('start', $start);
                 $programme->addAttribute('stop', $end);
- $programme->addAttribute('channel', htmlspecialchars($actualName));
+                $programme->addAttribute('channel', htmlspecialchars($actualName));
 
                 $programme->addChild('title', htmlspecialchars($item['title']))->addAttribute('lang', 'zh');
 
