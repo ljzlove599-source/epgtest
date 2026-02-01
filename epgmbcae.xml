@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260202043000 +0800" stop="20260202063000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-  </programme>
   <programme start="20260202063000 +0800" stop="20260202073000 +0800" channel="mbc action">
     <title lang="en">One Piece</title>
   </programme>
@@ -180,8 +177,8 @@
   <programme start="20260204143000 +0800" stop="20260204153000 +0800" channel="mbc action">
     <title lang="en">برنامج Celebrity Car Wars</title>
   </programme>
-  <programme start="20260202050000 +0800" stop="20260202063000 +0800" channel="mbc max">
-    <title lang="en">Sleepless</title>
+  <programme start="20260204153000 +0800" stop="20260204163000 +0800" channel="mbc action">
+    <title lang="en">One Piece</title>
   </programme>
   <programme start="20260202063000 +0800" stop="20260202070000 +0800" channel="mbc max">
     <title lang="en">برنامج Planet Action</title>
@@ -309,9 +306,6 @@
   <programme start="20260204143000 +0800" stop="20260204163000 +0800" channel="mbc max">
     <title lang="en">10,000 B.C.</title>
   </programme>
-  <programme start="20260202050000 +0800" stop="20260202063000 +0800" channel="mbc 2">
-    <title lang="en">The Winter Lake</title>
-  </programme>
   <programme start="20260202063000 +0800" stop="20260202081000 +0800" channel="mbc 2">
     <title lang="en">The Purge</title>
   </programme>
@@ -434,5 +428,8 @@
   </programme>
   <programme start="20260204135000 +0800" stop="20260204160000 +0800" channel="mbc 2">
     <title lang="en">Green Book</title>
+  </programme>
+  <programme start="20260204160000 +0800" stop="20260204173500 +0800" channel="mbc 2">
+    <title lang="en">Seberg</title>
   </programme>
 </tv>
