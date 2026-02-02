@@ -45,9 +45,9 @@ $chn="<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<!DOCTYPE tv SYSTEM \"http://a
 $id1=100000;//起始节目编号
 $cid1=array(
     array('cctvamerica','CCTV-4美洲頻道'),
-/*
+
     array('cctveurope','CCTV-4歐洲頻道'),
-*/
+
 );
 
 $nid1=sizeof($cid1);
