@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260202143000 +0800" stop="20260202153000 +0800" channel="mbc action">
-    <title lang="en">برنامج bear grylls</title>
-  </programme>
   <programme start="20260202153000 +0800" stop="20260202163000 +0800" channel="mbc action">
     <title lang="en">One Piece</title>
   </programme>
@@ -186,6 +183,9 @@
   <programme start="20260205000000 +0800" stop="20260205010000 +0800" channel="mbc action">
     <title lang="en">One Piece</title>
   </programme>
+  <programme start="20260205010000 +0800" stop="20260205020000 +0800" channel="mbc action">
+    <title lang="en">برنامج action bodcast</title>
+  </programme>
   <programme start="20260202140000 +0800" stop="20260202160000 +0800" channel="mbc max">
     <title lang="en">Kill the Messenger</title>
   </programme>
@@ -317,6 +317,9 @@
   </programme>
   <programme start="20260204230500 +0800" stop="20260205010000 +0800" channel="mbc max">
     <title lang="en">Bad Samaritan</title>
+  </programme>
+  <programme start="20260205010000 +0800" stop="20260205023500 +0800" channel="mbc max">
+    <title lang="en">Colombiana</title>
   </programme>
   <programme start="20260202143000 +0800" stop="20260202163000 +0800" channel="mbc 2">
     <title lang="en">Parasite</title>
