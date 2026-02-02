@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260202093000 +0800" stop="20260202110000 +0800" channel="mbc action">
-    <title lang="en">برنامج adernline</title>
-  </programme>
   <programme start="20260202110000 +0800" stop="20260202120000 +0800" channel="mbc action">
     <title lang="en">One Piece</title>
   </programme>
@@ -180,8 +177,11 @@
   <programme start="20260204190000 +0800" stop="20260204200000 +0800" channel="mbc action">
     <title lang="en">One Piece</title>
   </programme>
-  <programme start="20260202083500 +0800" stop="20260202103000 +0800" channel="mbc max">
-    <title lang="en">Focus</title>
+  <programme start="20260204200000 +0800" stop="20260204210000 +0800" channel="mbc action">
+    <title lang="en">برنامجcar issuse</title>
+  </programme>
+  <programme start="20260204210000 +0800" stop="20260204220000 +0800" channel="mbc action">
+    <title lang="en">برنامج  Adrenaline</title>
   </programme>
   <programme start="20260202103000 +0800" stop="20260202120000 +0800" channel="mbc max">
     <title lang="en">Due Date</title>
@@ -309,8 +309,11 @@
   <programme start="20260204190000 +0800" stop="20260204203000 +0800" channel="mbc max">
     <title lang="en">Hotel Transylvania 2</title>
   </programme>
-  <programme start="20260202095500 +0800" stop="20260202102000 +0800" channel="mbc 2">
-    <title lang="en">برنامج Making The Movies 6</title>
+  <programme start="20260204203000 +0800" stop="20260204210000 +0800" channel="mbc max">
+    <title lang="en">برنامج World Of Movies</title>
+  </programme>
+  <programme start="20260204210000 +0800" stop="20260204223500 +0800" channel="mbc max">
+    <title lang="en">Above Suspicion</title>
   </programme>
   <programme start="20260202102000 +0800" stop="20260202120000 +0800" channel="mbc 2">
     <title lang="en">We're the Millers</title>
@@ -434,5 +437,8 @@
   </programme>
   <programme start="20260204180000 +0800" stop="20260204195500 +0800" channel="mbc 2">
     <title lang="en">The Informant</title>
+  </programme>
+  <programme start="20260204195500 +0800" stop="20260204220000 +0800" channel="mbc 2">
+    <title lang="en">Roman J Israel, Esq.</title>
   </programme>
 </tv>
