@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260202190000 +0800" stop="20260202203000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-  </programme>
   <programme start="20260202203000 +0800" stop="20260202213000 +0800" channel="mbc action">
     <title lang="en">برنامج The Ride Life With Sung Kang</title>
   </programme>
@@ -186,8 +183,8 @@
   <programme start="20260205043000 +0800" stop="20260205053000 +0800" channel="mbc action">
     <title lang="en">ابرز لقطات الدوري</title>
   </programme>
-  <programme start="20260202183000 +0800" stop="20260202203000 +0800" channel="mbc max">
-    <title lang="en">Taxi Driver</title>
+  <programme start="20260205053000 +0800" stop="20260205063000 +0800" channel="mbc action">
+    <title lang="en">الخميس</title>
   </programme>
   <programme start="20260202203000 +0800" stop="20260202210000 +0800" channel="mbc max">
     <title lang="en">برنامج World Of Movies</title>
@@ -440,5 +437,8 @@
   </programme>
   <programme start="20260205040000 +0800" stop="20260205060000 +0800" channel="mbc 2">
     <title lang="en">Mamma Mia! Here We Go Again</title>
+  </programme>
+  <programme start="20260205060000 +0800" stop="20260205075000 +0800" channel="mbc 2">
+    <title lang="en">Second Act</title>
   </programme>
 </tv>
