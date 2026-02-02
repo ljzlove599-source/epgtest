@@ -79,7 +79,7 @@ preg_match_all('|"endTime":(.*?),|i',$re1,$ul1,PREG_SET_ORDER);//播放結束時
 preg_match_all('|"title":"(.*?)",|i',$re1,$un1,PREG_SET_ORDER);//播放節目
 $trm1=count($um1);
   for ($k1 = 0; $k1 <=$trm1-1 ; $k1++) {  
-$chn.="<programme start=\"". date('YmdHis',$um1[$k1][1]).' +0800'."\" stop=\"". date('YmdHis',$ul1[$k1][1]).' +0800'."\" channel=\"".$cid1[$idm1-1][1]."\">\n<title lang=\"zh\">".trim($un1[$k1][1])."</title>\n<desc lang=\"zh\"> </desc>\n</programme>\n";
+$chn.="<programme start=\"".date('YmdHis',$um1[$k1][1]).' +0800'."\" stop=\"".date('YmdHis',$ul1[$k1][1]).' +0800'."\" channel=\"".$cid1[$idm1-1][1]."\">\n<title lang=\"zh\">".trim($un1[$k1][1])."</title>\n<desc lang=\"zh\"> </desc>\n</programme>\n";
  
                                                                                                                     }                                                                                                                                           
 
@@ -104,7 +104,7 @@ preg_match_all('|"endTime":(.*?),|i',$re2,$ul2,PREG_SET_ORDER);//播放結束時
 preg_match_all('|"title":"(.*?)",|i',$re2,$un2,PREG_SET_ORDER);//播放節目
 $trm2=count($um2);
   for ($k2 = 0; $k2<=$trm2-1 ; $k2++) {  
-$chn.="<programme start=\"". date('YmdHis',$um2[$k2][1]).' +0800'."\" stop=\"". date('YmdHis',$ul2[$k2][1]).' +0800'."\" channel=\"".$cid1[$idm1-1][1]."\">\n<title lang=\"zh\">".trim($un2[$k2][1])."</title>\n<desc lang=\"zh\"> </desc>\n</programme>\n";
+$chn.="<programme start=\"".date('YmdHis',$um2[$k2][1]).' +0800'."\" stop=\"".date('YmdHis',$ul2[$k2][1]).' +0800'."\" channel=\"".$cid1[$idm1-1][1]."\">\n<title lang=\"zh\">".trim($un2[$k2][1])."</title>\n<desc lang=\"zh\"> </desc>\n</programme>\n";
  
                                                                                                                     }                                                                                                                                           
 }
