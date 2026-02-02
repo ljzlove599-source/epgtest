@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260202180000 +0800" stop="20260202190000 +0800" channel="mbc action">
-    <title lang="en">Ridiculousness</title>
-  </programme>
   <programme start="20260202190000 +0800" stop="20260202203000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
@@ -186,6 +183,9 @@
   <programme start="20260205030000 +0800" stop="20260205043000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
+  <programme start="20260205043000 +0800" stop="20260205053000 +0800" channel="mbc action">
+    <title lang="en">ابرز لقطات الدوري</title>
+  </programme>
   <programme start="20260202183000 +0800" stop="20260202203000 +0800" channel="mbc max">
     <title lang="en">Taxi Driver</title>
   </programme>
@@ -318,11 +318,8 @@
   <programme start="20260205030500 +0800" stop="20260205050000 +0800" channel="mbc max">
     <title lang="en">Copshop</title>
   </programme>
-  <programme start="20260202172500 +0800" stop="20260202190000 +0800" channel="mbc 2">
-    <title lang="en">Thoroughbreds</title>
-  </programme>
-  <programme start="20260202190000 +0800" stop="20260202192500 +0800" channel="mbc 2">
-    <title lang="en">برنامج Celebrity Scoop Season 9</title>
+  <programme start="20260205050000 +0800" stop="20260205063500 +0800" channel="mbc max">
+    <title lang="en">Salt</title>
   </programme>
   <programme start="20260202192500 +0800" stop="20260202210000 +0800" channel="mbc 2">
     <title lang="en">The Winter Lake</title>
