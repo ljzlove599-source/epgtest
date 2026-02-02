@@ -9,8 +9,8 @@ date_default_timezone_set('Asia/Shanghai');
 
 // 1. 定義要提取的頻道列表
 $channels = [
-    'cctvamerica' => 'CCTV-4美洲頻道',
-    'cctveurope'  => 'CCTV-4歐洲頻道'
+     'cctvamerica' => 'CCTV-4美洲頻道',
+    'cctveurope' => 'CCTV-4歐洲頻道'
 ];
 $date = '20260201';
 
