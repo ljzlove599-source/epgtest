@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260204020000 +0800" stop="20260204030000 +0800" channel="mbc action">
-    <title lang="en">بودكاست ملح الدوري</title>
-  </programme>
   <programme start="20260204030000 +0800" stop="20260204043000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
@@ -159,9 +156,6 @@
   <programme start="20260206043000 +0800" stop="20260206053000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
   </programme>
-  <programme start="20260204010000 +0800" stop="20260204030000 +0800" channel="mbc max">
-    <title lang="en">Jurassic Park</title>
-  </programme>
   <programme start="20260204030000 +0800" stop="20260204050000 +0800" channel="mbc max">
     <title lang="en">The Lost World: Jurassic Park</title>
   </programme>
@@ -279,6 +273,9 @@
   <programme start="20260206110000 +0800" stop="20260206130000 +0800" channel="mbc max">
     <title lang="en">Colombiana</title>
   </programme>
+  <programme start="20260206130000 +0800" stop="20260206143000 +0800" channel="mbc max">
+    <title lang="en">Salt</title>
+  </programme>
   <programme start="20260204020000 +0800" stop="20260204040500 +0800" channel="mbc 2">
     <title lang="en">Green Book</title>
   </programme>
@@ -383,5 +380,8 @@
   </programme>
   <programme start="20260206103000 +0800" stop="20260206123000 +0800" channel="mbc 2">
     <title lang="en">The Emoji Movie</title>
+  </programme>
+  <programme start="20260206123000 +0800" stop="20260206140000 +0800" channel="mbc 2">
+    <title lang="en">Second Act</title>
   </programme>
 </tv>
