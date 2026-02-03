@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260203153000 +0800" stop="20260203163000 +0800" channel="mbc action">
-    <title lang="en">One Piece</title>
-  </programme>
   <programme start="20260203163000 +0800" stop="20260203180000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
@@ -183,11 +180,8 @@
   <programme start="20260206010000 +0800" stop="20260206013000 +0800" channel="mbc action">
     <title lang="en">برنامج action bodcast</title>
   </programme>
-  <programme start="20260203143000 +0800" stop="20260203160000 +0800" channel="mbc max">
-    <title lang="en">Goosebumps</title>
-  </programme>
-  <programme start="20260203160000 +0800" stop="20260203163000 +0800" channel="mbc max">
-    <title lang="en">Hollywood Buzz</title>
+  <programme start="20260206013000 +0800" stop="20260206030000 +0800" channel="mbc action">
+    <title lang="en">بودكاست ملح الدوري</title>
   </programme>
   <programme start="20260203163000 +0800" stop="20260203180500 +0800" channel="mbc max">
     <title lang="en">Pixels</title>
@@ -312,9 +306,6 @@
   <programme start="20260206010000 +0800" stop="20260206030000 +0800" channel="mbc max">
     <title lang="en">The Boss</title>
   </programme>
-  <programme start="20260203140500 +0800" stop="20260203162500 +0800" channel="mbc 2">
-    <title lang="en">The Island</title>
-  </programme>
   <programme start="20260203162500 +0800" stop="20260203180000 +0800" channel="mbc 2">
     <title lang="en">Abominable</title>
   </programme>
@@ -425,5 +416,8 @@
   </programme>
   <programme start="20260206000000 +0800" stop="20260206020000 +0800" channel="mbc 2">
     <title lang="en">Non-Stop</title>
+  </programme>
+  <programme start="20260206020000 +0800" stop="20260206040000 +0800" channel="mbc 2">
+    <title lang="en">Proud Mary</title>
   </programme>
 </tv>
