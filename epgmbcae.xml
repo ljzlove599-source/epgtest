@@ -9,15 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260204200000 +0800" stop="20260204210000 +0800" channel="mbc action">
-    <title lang="en">برنامجcar issuse</title>
-  </programme>
-  <programme start="20260204210000 +0800" stop="20260204220000 +0800" channel="mbc action">
-    <title lang="en">برنامج  Adrenaline</title>
-  </programme>
-  <programme start="20260204220000 +0800" stop="20260204223000 +0800" channel="mbc action">
-    <title lang="en">برنامج the inside line</title>
-  </programme>
   <programme start="20260204223000 +0800" stop="20260204230000 +0800" channel="mbc action">
     <title lang="en">برنامج the football review</title>
   </programme>
@@ -107,12 +98,6 @@
   </programme>
   <programme start="20260206043000 +0800" stop="20260206053000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
-  </programme>
-  <programme start="20260204203000 +0800" stop="20260204210000 +0800" channel="mbc max">
-    <title lang="en">برنامج World Of Movies</title>
-  </programme>
-  <programme start="20260204210000 +0800" stop="20260204223500 +0800" channel="mbc max">
-    <title lang="en">Above Suspicion</title>
   </programme>
   <programme start="20260204223500 +0800" stop="20260204230500 +0800" channel="mbc max">
     <title lang="en">برنامج Making The Movies</title>
@@ -210,8 +195,8 @@
   <programme start="20260207050000 +0800" stop="20260207063000 +0800" channel="mbc max">
     <title lang="en">Hancock</title>
   </programme>
-  <programme start="20260204195500 +0800" stop="20260204220000 +0800" channel="mbc 2">
-    <title lang="en">Roman J Israel, Esq.</title>
+  <programme start="20260207063000 +0800" stop="20260207083000 +0800" channel="mbc max">
+    <title lang="en">The Boss</title>
   </programme>
   <programme start="20260204220000 +0800" stop="20260204233500 +0800" channel="mbc 2">
     <title lang="en">The Emoji Movie</title>
@@ -305,5 +290,8 @@
   </programme>
   <programme start="20260207043000 +0800" stop="20260207070000 +0800" channel="mbc 2">
     <title lang="en">Battleship</title>
+  </programme>
+  <programme start="20260207070000 +0800" stop="20260207083000 +0800" channel="mbc 2">
+    <title lang="en">The Darkest Hour</title>
   </programme>
 </tv>
