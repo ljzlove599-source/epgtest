@@ -9,12 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260204063000 +0800" stop="20260204070000 +0800" channel="mbc action">
-    <title lang="en">One Piece</title>
-  </programme>
-  <programme start="20260204070000 +0800" stop="20260204080000 +0800" channel="mbc action">
-    <title lang="en">برنامج action bodcast</title>
-  </programme>
   <programme start="20260204080000 +0800" stop="20260204090000 +0800" channel="mbc action">
     <title lang="en">بودكاست ملح الدوري</title>
   </programme>
@@ -147,12 +141,6 @@
   <programme start="20260206043000 +0800" stop="20260206053000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
   </programme>
-  <programme start="20260204053000 +0800" stop="20260204070000 +0800" channel="mbc max">
-    <title lang="en">Jurassic Park III</title>
-  </programme>
-  <programme start="20260204070000 +0800" stop="20260204083000 +0800" channel="mbc max">
-    <title lang="en">Penguins of Madagascar</title>
-  </programme>
   <programme start="20260204083000 +0800" stop="20260204090000 +0800" channel="mbc max">
     <title lang="en">برنامج Planet Action</title>
   </programme>
@@ -264,8 +252,11 @@
   <programme start="20260206143000 +0800" stop="20260206163000 +0800" channel="mbc max">
     <title lang="en">Get Him to the Greek</title>
   </programme>
-  <programme start="20260204060500 +0800" stop="20260204080000 +0800" channel="mbc 2">
-    <title lang="en">The Informant</title>
+  <programme start="20260206163000 +0800" stop="20260206180000 +0800" channel="mbc max">
+    <title lang="en">Jurassic Park III</title>
+  </programme>
+  <programme start="20260206180000 +0800" stop="20260206200000 +0800" channel="mbc max">
+    <title lang="en">The Art of Self-Defense</title>
   </programme>
   <programme start="20260204080000 +0800" stop="20260204094500 +0800" channel="mbc 2">
     <title lang="en">Synchronic</title>
