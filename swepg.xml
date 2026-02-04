@@ -45,6 +45,12 @@
   <channel id="HOY体育台">
     <display-name lang="zh">HOY体育台</display-name>
   </channel>
+  <channel id="东亚超级篮球联赛 - 东京电击 对 新北国王 (下午6:00)">
+    <display-name lang="zh">东亚超级篮球联赛 - 东京电击 对 新北国王 (下午6:00)</display-name>
+  </channel>
+  <channel id="东亚超级篮球联赛 - 琉球黄金帝王 对 桃园领航猿 (下午6:30)">
+    <display-name lang="zh">东亚超级篮球联赛 - 琉球黄金帝王 对 桃园领航猿 (下午6:30)</display-name>
+  </channel>
   <channel id="澳洲女子职业足球联赛 - FC悉尼 对 布里斯班狮吼 (下午4:25)">
     <display-name lang="zh">澳洲女子职业足球联赛 - FC悉尼 对 布里斯班狮吼 (下午4:25)</display-name>
   </channel>
@@ -6705,9 +6711,6 @@
   <programme start="20260206070000 +0800" stop="20260206080000 +0800" channel="中天北美台">
     <title lang="zh">大新闻大爆卦(下) (Live)</title>
   </programme>
-  <programme start="20260204153000 +0800" stop="20260204163000 +0800" channel="mbc action">
-    <title lang="en">One Piece</title>
-  </programme>
   <programme start="20260204163000 +0800" stop="20260204180000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
@@ -6816,9 +6819,6 @@
   <programme start="20260206043000 +0800" stop="20260206053000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
   </programme>
-  <programme start="20260204143000 +0800" stop="20260204163000 +0800" channel="mbc max">
-    <title lang="en">10,000 B.C.</title>
-  </programme>
   <programme start="20260204163000 +0800" stop="20260204183000 +0800" channel="mbc max">
     <title lang="en">Jurassic Park</title>
   </programme>
@@ -6924,9 +6924,6 @@
   <programme start="20260207003000 +0800" stop="20260207030000 +0800" channel="mbc max">
     <title lang="en">The Hunger Games: Mockingjay - Part 2</title>
   </programme>
-  <programme start="20260204135000 +0800" stop="20260204160000 +0800" channel="mbc 2">
-    <title lang="en">Green Book</title>
-  </programme>
   <programme start="20260204160000 +0800" stop="20260204173500 +0800" channel="mbc 2">
     <title lang="en">Seberg</title>
   </programme>
@@ -7025,6 +7022,9 @@
   </programme>
   <programme start="20260206230000 +0800" stop="20260207020000 +0800" channel="mbc 2">
     <title lang="en">Cloud Atlas</title>
+  </programme>
+  <programme start="20260207020000 +0800" stop="20260207043000 +0800" channel="mbc 2">
+    <title lang="en">Dune</title>
   </programme>
   <programme start="20260204003000 +0400" stop="20260204023000 +0400" channel="Dubai One">
     <title lang="en">The Family</title>
@@ -7212,17 +7212,68 @@
     <title lang="en">Las hijas de la Señora García</title>
     <desc lang="en">Mrs. Garcia strives to achieve her dream at cost of her daughters' happiness.</desc>
   </programme>
-  <programme start="20260206223000 +0400" stop="20260207023000 +0400" channel="Dubai One">
+  <programme start="20260206223000 +0400" stop="20260207003000 +0400" channel="Dubai One">
     <title lang="en">Free Guy</title>
     <desc lang="en">The world needed a hero.</desc>
+  </programme>
+  <programme start="20260207003000 +0400" stop="20260207023000 +0400" channel="Dubai One">
+    <title lang="en">Good People</title>
+    <desc lang="en">Money changes everything.</desc>
   </programme>
   <programme start="20260207023000 +0400" stop="20260207030000 +0400" channel="Dubai One">
     <title lang="en">Emirates News Emirates News</title>
     <desc lang="en">Be the First to Know.</desc>
   </programme>
-  <programme start="20260207030000 +0400" stop="20260202000000 +0400" channel="Dubai One">
+  <programme start="20260207030000 +0400" stop="20260207040000 +0400" channel="Dubai One">
     <title lang="en">Las hijas de la Señora García</title>
     <desc lang="en">Mrs. Garcia strives to achieve her dream at cost of her daughters' happiness.</desc>
+  </programme>
+  <programme start="20260207040000 +0400" stop="20260207060000 +0400" channel="Dubai One">
+    <title lang="en">Free Guy</title>
+    <desc lang="en">The world needed a hero.</desc>
+  </programme>
+  <programme start="20260207060000 +0400" stop="20260207080000 +0400" channel="Dubai One">
+    <title lang="en">Acts Of Vengeance</title>
+    <desc lang="en">Action Speaks Louder Than Words</desc>
+  </programme>
+  <programme start="20260207080000 +0400" stop="20260207083000 +0400" channel="Dubai One">
+    <title lang="en">City of Summits</title>
+  </programme>
+  <programme start="20260207083000 +0400" stop="20260207123000 +0400" channel="Dubai One">
+    <title lang="en">Las hijas de la Señora García</title>
+    <desc lang="en">Mrs. Garcia strives to achieve her dream at cost of her daughters' happiness.</desc>
+  </programme>
+  <programme start="20260207123000 +0400" stop="20260207143000 +0400" channel="Dubai One">
+    <title lang="en">Free Guy</title>
+    <desc lang="en">The world needed a hero.</desc>
+  </programme>
+  <programme start="20260207143000 +0400" stop="20260207150000 +0400" channel="Dubai One">
+    <title lang="en">Hollywood News Feed</title>
+    <desc lang="en">Hottest entertainment news of the week!</desc>
+  </programme>
+  <programme start="20260207150000 +0400" stop="20260207160000 +0400" channel="Dubai One">
+    <title lang="en">Maxima</title>
+    <desc lang="en">Máxima Zorreguieta steps into the spotlight beside the Dutch crown prince.</desc>
+  </programme>
+  <programme start="20260207160000 +0400" stop="20260207180000 +0400" channel="Dubai One">
+    <title lang="en">Good People</title>
+    <desc lang="en">Money changes everything.</desc>
+  </programme>
+  <programme start="20260207180000 +0400" stop="20260207200000 +0400" channel="Dubai One">
+    <title lang="en">The Emoji Movie</title>
+    <desc lang="en">An adventure beyond words!</desc>
+  </programme>
+  <programme start="20260207200000 +0400" stop="20260207210000 +0400" channel="Dubai One">
+    <title lang="en">Homegrown DXB</title>
+    <desc lang="en">Home Grown Dubai will highlight the businesses and people who are not only making a difference in our country but across the world.</desc>
+  </programme>
+  <programme start="20260207210000 +0400" stop="20260207220000 +0400" channel="Dubai One">
+    <title lang="en">Maxima</title>
+    <desc lang="en">Máxima Zorreguieta steps into the spotlight beside the Dutch crown prince.</desc>
+  </programme>
+  <programme start="20260207220000 +0400" stop="20260202000000 +0400" channel="Dubai One">
+    <title lang="en">Annette</title>
+    <desc lang="en">As dangerous. As intense. As love.</desc>
   </programme>
   <programme start="20260204003500 +0900" stop="20260204013500 +0900" channel="KBSWorld">
     <title lang="en">The King of Tears, Lee Bangwon Ep.1</title>
@@ -7285,10 +7336,10 @@
     <title lang="en">KBS WORLD News Today</title>
   </programme>
   <programme start="20260204170000 +0900" stop="20260204181500 +0900" channel="KBSWorld">
-    <title lang="en">You Are The Best! Ep.43 [LIVE]</title>
+    <title lang="en">You Are The Best! Ep.43</title>
   </programme>
   <programme start="20260204181500 +0900" stop="20260204192500 +0900" channel="KBSWorld">
-    <title lang="en">You Are The Best! Ep.44</title>
+    <title lang="en">You Are The Best! Ep.44 [LIVE]</title>
   </programme>
   <programme start="20260204192500 +0900" stop="20260204203500 +0900" channel="KBSWorld">
     <title lang="en">The Return of Superman Ep.605</title>
@@ -7920,678 +7971,6 @@
   <programme start="20260209220000 +0800" stop="20260210000000 +0800" channel="亚洲卫视">
     <title>世界华语原创音乐金曲榜（重播）</title>
     <desc>节目描述</desc>
-  </programme>
-  <programme start="20260202060000 +0800" stop="20260202063000 +0800" channel="第一财经">
-    <title lang="zh">两说</title>
-    <desc lang="zh">两说</desc>
-  </programme>
-  <programme start="20260202063000 +0800" stop="20260202070000 +0800" channel="第一财经">
-    <title lang="zh">投资有看头</title>
-    <desc lang="zh">投资有看头</desc>
-  </programme>
-  <programme start="20260202070000 +0800" stop="20260202080000 +0800" channel="第一财经">
-    <title lang="zh">公司与行业(重播)</title>
-    <desc lang="zh">公司与行业(重播)</desc>
-  </programme>
-  <programme start="20260202080000 +0800" stop="20260202090000 +0800" channel="第一财经">
-    <title lang="zh">今日股市(重播)</title>
-    <desc lang="zh">今日股市(重播)</desc>
-  </programme>
-  <programme start="20260202090000 +0800" stop="20260202120000 +0800" channel="第一财经">
-    <title lang="zh">市场零距离</title>
-    <desc lang="zh">市场零距离</desc>
-  </programme>
-  <programme start="20260202120000 +0800" stop="20260202123000 +0800" channel="第一财经">
-    <title lang="zh">创时代</title>
-    <desc lang="zh">创时代</desc>
-  </programme>
-  <programme start="20260202123000 +0800" stop="20260202130000 +0800" channel="第一财经">
-    <title lang="zh">中国经营者</title>
-    <desc lang="zh">中国经营者</desc>
-  </programme>
-  <programme start="20260202130000 +0800" stop="20260202160500 +0800" channel="第一财经">
-    <title lang="zh">市场零距离</title>
-    <desc lang="zh">市场零距离</desc>
-  </programme>
-  <programme start="20260202160500 +0800" stop="20260202163500 +0800" channel="第一财经">
-    <title lang="zh">投资有看头</title>
-    <desc lang="zh">投资有看头</desc>
-  </programme>
-  <programme start="20260202163500 +0800" stop="20260202171600 +0800" channel="第一财经">
-    <title lang="zh">陆家嘴金融沙龙</title>
-    <desc lang="zh">陆家嘴金融沙龙</desc>
-  </programme>
-  <programme start="20260202171600 +0800" stop="20260202173000 +0800" channel="第一财经">
-    <title lang="zh">财经视频集萃</title>
-    <desc lang="zh">财经视频集萃</desc>
-  </programme>
-  <programme start="20260202173000 +0800" stop="20260202180000 +0800" channel="第一财经">
-    <title lang="zh">中国经营者</title>
-    <desc lang="zh">中国经营者</desc>
-  </programme>
-  <programme start="20260202180000 +0800" stop="20260202190000 +0800" channel="第一财经">
-    <title lang="zh">今日股市</title>
-    <desc lang="zh">今日股市</desc>
-  </programme>
-  <programme start="20260202190000 +0800" stop="20260202200000 +0800" channel="第一财经">
-    <title lang="zh">公司与行业</title>
-    <desc lang="zh">公司与行业</desc>
-  </programme>
-  <programme start="20260202200000 +0800" stop="20260202210000 +0800" channel="第一财经">
-    <title lang="zh">谈股论金</title>
-    <desc lang="zh">谈股论金</desc>
-  </programme>
-  <programme start="20260202210000 +0800" stop="20260202214100 +0800" channel="第一财经">
-    <title lang="zh">财经夜行线</title>
-    <desc lang="zh">财经夜行线</desc>
-  </programme>
-  <programme start="20260202214100 +0800" stop="20260202220400 +0800" channel="第一财经">
-    <title lang="zh">首席评论</title>
-    <desc lang="zh">首席评论</desc>
-  </programme>
-  <programme start="20260202220400 +0800" stop="20260202223000 +0800" channel="第一财经">
-    <title lang="zh">创时代</title>
-    <desc lang="zh">创时代</desc>
-  </programme>
-  <programme start="20260202223000 +0800" stop="20260202233000 +0800" channel="第一财经">
-    <title lang="zh">今日股市(重播)</title>
-    <desc lang="zh">今日股市(重播)</desc>
-  </programme>
-  <programme start="20260202233000 +0800" stop="20260203000000 +0800" channel="第一财经">
-    <title lang="zh">投资有看头</title>
-    <desc lang="zh">投资有看头</desc>
-  </programme>
-  <programme start="20260203000000 +0800" stop="20260203004000 +0800" channel="第一财经">
-    <title lang="zh">财经夜行线(重播)</title>
-    <desc lang="zh">财经夜行线(重播)</desc>
-  </programme>
-  <programme start="20260203004000 +0800" stop="20260203010000 +0800" channel="第一财经">
-    <title lang="zh">首席评论</title>
-    <desc lang="zh">首席评论</desc>
-  </programme>
-  <programme start="20260203010000 +0800" stop="20260203015500 +0800" channel="第一财经">
-    <title lang="zh">公司与行业(重播)</title>
-    <desc lang="zh">公司与行业(重播)</desc>
-  </programme>
-  <programme start="20260203060000 +0800" stop="20260203063000 +0800" channel="第一财经">
-    <title lang="zh">2026中国资产与宏观战略的共振起点</title>
-    <desc lang="zh">2026中国资产与宏观战略的共振起点</desc>
-  </programme>
-  <programme start="20260203063000 +0800" stop="20260203070000 +0800" channel="第一财经">
-    <title lang="zh">投资有看头</title>
-    <desc lang="zh">投资有看头</desc>
-  </programme>
-  <programme start="20260203070000 +0800" stop="20260203080000 +0800" channel="第一财经">
-    <title lang="zh">公司与行业(重播)</title>
-    <desc lang="zh">公司与行业(重播)</desc>
-  </programme>
-  <programme start="20260203080000 +0800" stop="20260203090000 +0800" channel="第一财经">
-    <title lang="zh">今日股市(重播)</title>
-    <desc lang="zh">今日股市(重播)</desc>
-  </programme>
-  <programme start="20260203090000 +0800" stop="20260203120500 +0800" channel="第一财经">
-    <title lang="zh">市场零距离</title>
-    <desc lang="zh">市场零距离</desc>
-  </programme>
-  <programme start="20260203120500 +0800" stop="20260203123500 +0800" channel="第一财经">
-    <title lang="zh">创时代</title>
-    <desc lang="zh">创时代</desc>
-  </programme>
-  <programme start="20260203123500 +0800" stop="20260203130000 +0800" channel="第一财经">
-    <title lang="zh">2026经济展望</title>
-    <desc lang="zh">2026经济展望</desc>
-  </programme>
-  <programme start="20260203130000 +0800" stop="20260203160500 +0800" channel="第一财经">
-    <title lang="zh">市场零距离</title>
-    <desc lang="zh">市场零距离</desc>
-  </programme>
-  <programme start="20260203160500 +0800" stop="20260203163500 +0800" channel="第一财经">
-    <title lang="zh">投资有看头</title>
-    <desc lang="zh">投资有看头</desc>
-  </programme>
-  <programme start="20260203163500 +0800" stop="20260203170500 +0800" channel="第一财经">
-    <title lang="zh">价值投研社</title>
-    <desc lang="zh">价值投研社</desc>
-  </programme>
-  <programme start="20260203170500 +0800" stop="20260203173500 +0800" channel="第一财经">
-    <title lang="zh">2026年电新行业触底反弹启新篇</title>
-    <desc lang="zh">2026年电新行业触底反弹启新篇</desc>
-  </programme>
-  <programme start="20260203173500 +0800" stop="20260203180000 +0800" channel="第一财经">
-    <title lang="zh">2026经济展望</title>
-    <desc lang="zh">2026经济展望</desc>
-  </programme>
-  <programme start="20260203180000 +0800" stop="20260203190000 +0800" channel="第一财经">
-    <title lang="zh">今日股市</title>
-    <desc lang="zh">今日股市</desc>
-  </programme>
-  <programme start="20260203190000 +0800" stop="20260203200000 +0800" channel="第一财经">
-    <title lang="zh">公司与行业</title>
-    <desc lang="zh">公司与行业</desc>
-  </programme>
-  <programme start="20260203200000 +0800" stop="20260203210000 +0800" channel="第一财经">
-    <title lang="zh">谈股论金</title>
-    <desc lang="zh">谈股论金</desc>
-  </programme>
-  <programme start="20260203210000 +0800" stop="20260203214100 +0800" channel="第一财经">
-    <title lang="zh">财经夜行线</title>
-    <desc lang="zh">财经夜行线</desc>
-  </programme>
-  <programme start="20260203214100 +0800" stop="20260203220500 +0800" channel="第一财经">
-    <title lang="zh">2026经济展望</title>
-    <desc lang="zh">2026经济展望</desc>
-  </programme>
-  <programme start="20260203220500 +0800" stop="20260203223000 +0800" channel="第一财经">
-    <title lang="zh">秒懂金融</title>
-    <desc lang="zh">秒懂金融</desc>
-  </programme>
-  <programme start="20260203223000 +0800" stop="20260203233000 +0800" channel="第一财经">
-    <title lang="zh">今日股市(重播)</title>
-    <desc lang="zh">今日股市(重播)</desc>
-  </programme>
-  <programme start="20260203233000 +0800" stop="20260204000000 +0800" channel="第一财经">
-    <title lang="zh">投资有看头</title>
-    <desc lang="zh">投资有看头</desc>
-  </programme>
-  <programme start="20260204000000 +0800" stop="20260204004000 +0800" channel="第一财经">
-    <title lang="zh">财经夜行线(重播)</title>
-    <desc lang="zh">财经夜行线(重播)</desc>
-  </programme>
-  <programme start="20260204004000 +0800" stop="20260204011500 +0800" channel="第一财经">
-    <title lang="zh">价值投研社</title>
-    <desc lang="zh">价值投研社</desc>
-  </programme>
-  <programme start="20260204011500 +0800" stop="20260204014000 +0800" channel="第一财经">
-    <title lang="zh">2026经济展望</title>
-    <desc lang="zh">2026经济展望</desc>
-  </programme>
-  <programme start="20260204014000 +0800" stop="20260204024100 +0800" channel="第一财经">
-    <title lang="zh">公司与行业(重播)</title>
-    <desc lang="zh">公司与行业(重播)</desc>
-  </programme>
-  <programme start="20260204060000 +0800" stop="20260204063000 +0800" channel="第一财经">
-    <title lang="zh">中国经营</title>
-    <desc lang="zh">中国经营</desc>
-  </programme>
-  <programme start="20260204063000 +0800" stop="20260204070000 +0800" channel="第一财经">
-    <title lang="zh">投资有看头</title>
-    <desc lang="zh">投资有看头</desc>
-  </programme>
-  <programme start="20260204070000 +0800" stop="20260204080000 +0800" channel="第一财经">
-    <title lang="zh">公司与行业(重播)</title>
-    <desc lang="zh">公司与行业(重播)</desc>
-  </programme>
-  <programme start="20260204080000 +0800" stop="20260204090000 +0800" channel="第一财经">
-    <title lang="zh">今日股市(重播)</title>
-    <desc lang="zh">今日股市(重播)</desc>
-  </programme>
-  <programme start="20260204090000 +0800" stop="20260204120500 +0800" channel="第一财经">
-    <title lang="zh">市场零距离</title>
-    <desc lang="zh">市场零距离</desc>
-  </programme>
-  <programme start="20260204120500 +0800" stop="20260204123000 +0800" channel="第一财经">
-    <title lang="zh">两说</title>
-    <desc lang="zh">两说</desc>
-  </programme>
-  <programme start="20260204123000 +0800" stop="20260204124500 +0800" channel="第一财经">
-    <title lang="zh">总编时刻</title>
-    <desc lang="zh">总编时刻</desc>
-  </programme>
-  <programme start="20260204124500 +0800" stop="20260204130000 +0800" channel="第一财经">
-    <title lang="zh">2026经济展望</title>
-    <desc lang="zh">2026经济展望</desc>
-  </programme>
-  <programme start="20260204130000 +0800" stop="20260204160500 +0800" channel="第一财经">
-    <title lang="zh">市场零距离</title>
-    <desc lang="zh">市场零距离</desc>
-  </programme>
-  <programme start="20260204160500 +0800" stop="20260204163500 +0800" channel="第一财经">
-    <title lang="zh">投资有看头</title>
-    <desc lang="zh">投资有看头</desc>
-  </programme>
-  <programme start="20260204163500 +0800" stop="20260204170000 +0800" channel="第一财经">
-    <title lang="zh">中国经营</title>
-    <desc lang="zh">中国经营</desc>
-  </programme>
-  <programme start="20260204170000 +0800" stop="20260204173000 +0800" channel="第一财经">
-    <title lang="zh">创时代</title>
-    <desc lang="zh">创时代</desc>
-  </programme>
-  <programme start="20260204173000 +0800" stop="20260204180000 +0800" channel="第一财经">
-    <title lang="zh">2026经济展望</title>
-    <desc lang="zh">2026经济展望</desc>
-  </programme>
-  <programme start="20260204180000 +0800" stop="20260204190000 +0800" channel="第一财经">
-    <title lang="zh">今日股市</title>
-    <desc lang="zh">今日股市</desc>
-  </programme>
-  <programme start="20260204190000 +0800" stop="20260204200000 +0800" channel="第一财经">
-    <title lang="zh">公司与行业</title>
-    <desc lang="zh">公司与行业</desc>
-  </programme>
-  <programme start="20260204200000 +0800" stop="20260204210000 +0800" channel="第一财经">
-    <title lang="zh">谈股论金</title>
-    <desc lang="zh">谈股论金</desc>
-  </programme>
-  <programme start="20260204210000 +0800" stop="20260204214100 +0800" channel="第一财经">
-    <title lang="zh">财经夜行线</title>
-    <desc lang="zh">财经夜行线</desc>
-  </programme>
-  <programme start="20260204214100 +0800" stop="20260204220400 +0800" channel="第一财经">
-    <title lang="zh">2026经济展望</title>
-    <desc lang="zh">2026经济展望</desc>
-  </programme>
-  <programme start="20260204220400 +0800" stop="20260204223000 +0800" channel="第一财经">
-    <title lang="zh">两说</title>
-    <desc lang="zh">两说</desc>
-  </programme>
-  <programme start="20260204223000 +0800" stop="20260204233000 +0800" channel="第一财经">
-    <title lang="zh">今日股市(重播)</title>
-    <desc lang="zh">今日股市(重播)</desc>
-  </programme>
-  <programme start="20260204233000 +0800" stop="20260205000000 +0800" channel="第一财经">
-    <title lang="zh">投资有看头</title>
-    <desc lang="zh">投资有看头</desc>
-  </programme>
-  <programme start="20260205000000 +0800" stop="20260205004500 +0800" channel="第一财经">
-    <title lang="zh">财经夜行线(重播)</title>
-    <desc lang="zh">财经夜行线(重播)</desc>
-  </programme>
-  <programme start="20260205004500 +0800" stop="20260205011500 +0800" channel="第一财经">
-    <title lang="zh">中国经营者</title>
-    <desc lang="zh">中国经营者</desc>
-  </programme>
-  <programme start="20260205011500 +0800" stop="20260205014000 +0800" channel="第一财经">
-    <title lang="zh">2026经济展望</title>
-    <desc lang="zh">2026经济展望</desc>
-  </programme>
-  <programme start="20260205014000 +0800" stop="20260205023600 +0800" channel="第一财经">
-    <title lang="zh">公司与行业(重播)</title>
-    <desc lang="zh">公司与行业(重播)</desc>
-  </programme>
-  <programme start="20260202060000 +0800" stop="20260202070000 +0800" channel="东方财经">
-    <title lang="zh">今日股市</title>
-    <desc lang="zh">今日股市</desc>
-  </programme>
-  <programme start="20260202070000 +0800" stop="20260202073000 +0800" channel="东方财经">
-    <title lang="zh">文化访谈录</title>
-    <desc lang="zh">文化访谈录</desc>
-  </programme>
-  <programme start="20260202073000 +0800" stop="20260202080000 +0800" channel="东方财经">
-    <title lang="zh">望江驿·遇见</title>
-    <desc lang="zh">望江驿·遇见</desc>
-  </programme>
-  <programme start="20260202080000 +0800" stop="20260202083000 +0800" channel="东方财经">
-    <title lang="zh">直击引领区</title>
-    <desc lang="zh">直击引领区</desc>
-  </programme>
-  <programme start="20260202083000 +0800" stop="20260202090000 +0800" channel="东方财经">
-    <title lang="zh">创时代</title>
-    <desc lang="zh">创时代</desc>
-  </programme>
-  <programme start="20260202090000 +0800" stop="20260202120000 +0800" channel="东方财经">
-    <title lang="zh">市场零距离</title>
-    <desc lang="zh">市场零距离</desc>
-  </programme>
-  <programme start="20260202120000 +0800" stop="20260202123000 +0800" channel="东方财经">
-    <title lang="zh">直击引领区</title>
-    <desc lang="zh">直击引领区</desc>
-  </programme>
-  <programme start="20260202123000 +0800" stop="20260202124500 +0800" channel="东方财经">
-    <title lang="zh">632观察</title>
-    <desc lang="zh">632观察</desc>
-  </programme>
-  <programme start="20260202124500 +0800" stop="20260202130000 +0800" channel="东方财经">
-    <title lang="zh">科创先行者</title>
-    <desc lang="zh">科创先行者</desc>
-  </programme>
-  <programme start="20260202130000 +0800" stop="20260202150000 +0800" channel="东方财经">
-    <title lang="zh">市场零距离</title>
-    <desc lang="zh">市场零距离</desc>
-  </programme>
-  <programme start="20260202150000 +0800" stop="20260202160000 +0800" channel="东方财经">
-    <title lang="zh">创赢未来</title>
-    <desc lang="zh">创赢未来</desc>
-  </programme>
-  <programme start="20260202160000 +0800" stop="20260202170000 +0800" channel="东方财经">
-    <title lang="zh">纪录片</title>
-    <desc lang="zh">纪录片</desc>
-  </programme>
-  <programme start="20260202170000 +0800" stop="20260202173000 +0800" channel="东方财经">
-    <title lang="zh">直击引领区</title>
-    <desc lang="zh">直击引领区</desc>
-  </programme>
-  <programme start="20260202173000 +0800" stop="20260202180000 +0800" channel="东方财经">
-    <title lang="zh">创时代</title>
-    <desc lang="zh">创时代</desc>
-  </programme>
-  <programme start="20260202180000 +0800" stop="20260202183000 +0800" channel="东方财经">
-    <title lang="zh">望江驿·遇见</title>
-    <desc lang="zh">望江驿·遇见</desc>
-  </programme>
-  <programme start="20260202183000 +0800" stop="20260202190000 +0800" channel="东方财经">
-    <title lang="zh">几何书房</title>
-    <desc lang="zh">几何书房</desc>
-  </programme>
-  <programme start="20260202190000 +0800" stop="20260202191500 +0800" channel="东方财经">
-    <title lang="zh">新闻制高点</title>
-    <desc lang="zh">新闻制高点</desc>
-  </programme>
-  <programme start="20260202191500 +0800" stop="20260202193000 +0800" channel="东方财经">
-    <title lang="zh">632观察</title>
-    <desc lang="zh">632观察</desc>
-  </programme>
-  <programme start="20260202193000 +0800" stop="20260202194500 +0800" channel="东方财经">
-    <title lang="zh">科创先行者</title>
-    <desc lang="zh">科创先行者</desc>
-  </programme>
-  <programme start="20260202194500 +0800" stop="20260202200000 +0800" channel="东方财经">
-    <title lang="zh">直击引领区</title>
-    <desc lang="zh">直击引领区</desc>
-  </programme>
-  <programme start="20260202200000 +0800" stop="20260202203000 +0800" channel="东方财经">
-    <title lang="zh">文化访谈录</title>
-    <desc lang="zh">文化访谈录</desc>
-  </programme>
-  <programme start="20260202203000 +0800" stop="20260202210000 +0800" channel="东方财经">
-    <title lang="zh">望江驿·遇见</title>
-    <desc lang="zh">望江驿·遇见</desc>
-  </programme>
-  <programme start="20260202210000 +0800" stop="20260202214000 +0800" channel="东方财经">
-    <title lang="zh">财经夜行线</title>
-    <desc lang="zh">财经夜行线</desc>
-  </programme>
-  <programme start="20260202214000 +0800" stop="20260202220000 +0800" channel="东方财经">
-    <title lang="zh">首席评论</title>
-    <desc lang="zh">首席评论</desc>
-  </programme>
-  <programme start="20260202220000 +0800" stop="20260202221500 +0800" channel="东方财经">
-    <title lang="zh">新闻制高点</title>
-    <desc lang="zh">新闻制高点</desc>
-  </programme>
-  <programme start="20260202221500 +0800" stop="20260202223000 +0800" channel="东方财经">
-    <title lang="zh">632观察</title>
-    <desc lang="zh">632观察</desc>
-  </programme>
-  <programme start="20260202223000 +0800" stop="20260202224500 +0800" channel="东方财经">
-    <title lang="zh">科创先行者</title>
-    <desc lang="zh">科创先行者</desc>
-  </programme>
-  <programme start="20260202224500 +0800" stop="20260202230000 +0800" channel="东方财经">
-    <title lang="zh">文化访谈录</title>
-    <desc lang="zh">文化访谈录</desc>
-  </programme>
-  <programme start="20260202230000 +0800" stop="20260202233000 +0800" channel="东方财经">
-    <title lang="zh">望江驿·遇见</title>
-    <desc lang="zh">望江驿·遇见</desc>
-  </programme>
-  <programme start="20260202233000 +0800" stop="20260203000000 +0800" channel="东方财经">
-    <title lang="zh">直击引领区</title>
-    <desc lang="zh">直击引领区</desc>
-  </programme>
-  <programme start="20260203000000 +0800" stop="20260203013000 +0800" channel="东方财经">
-    <title lang="zh">纪录片</title>
-    <desc lang="zh">纪录片</desc>
-  </programme>
-  <programme start="20260203013000 +0800" stop="20260203020000 +0800" channel="东方财经">
-    <title lang="zh">创时代</title>
-    <desc lang="zh">创时代</desc>
-  </programme>
-  <programme start="20260203060000 +0800" stop="20260203070000 +0800" channel="东方财经">
-    <title lang="zh">今日股市</title>
-    <desc lang="zh">今日股市</desc>
-  </programme>
-  <programme start="20260203070000 +0800" stop="20260203073000 +0800" channel="东方财经">
-    <title lang="zh">文化访谈录</title>
-    <desc lang="zh">文化访谈录</desc>
-  </programme>
-  <programme start="20260203073000 +0800" stop="20260203080000 +0800" channel="东方财经">
-    <title lang="zh">望江驿·遇见</title>
-    <desc lang="zh">望江驿·遇见</desc>
-  </programme>
-  <programme start="20260203080000 +0800" stop="20260203083000 +0800" channel="东方财经">
-    <title lang="zh">直击引领区</title>
-    <desc lang="zh">直击引领区</desc>
-  </programme>
-  <programme start="20260203083000 +0800" stop="20260203090000 +0800" channel="东方财经">
-    <title lang="zh">创时代</title>
-    <desc lang="zh">创时代</desc>
-  </programme>
-  <programme start="20260203090000 +0800" stop="20260203120000 +0800" channel="东方财经">
-    <title lang="zh">市场零距离</title>
-    <desc lang="zh">市场零距离</desc>
-  </programme>
-  <programme start="20260203120000 +0800" stop="20260203123000 +0800" channel="东方财经">
-    <title lang="zh">直击引领区</title>
-    <desc lang="zh">直击引领区</desc>
-  </programme>
-  <programme start="20260203123000 +0800" stop="20260203124500 +0800" channel="东方财经">
-    <title lang="zh">632观察</title>
-    <desc lang="zh">632观察</desc>
-  </programme>
-  <programme start="20260203124500 +0800" stop="20260203130000 +0800" channel="东方财经">
-    <title lang="zh">科创先行者</title>
-    <desc lang="zh">科创先行者</desc>
-  </programme>
-  <programme start="20260203130000 +0800" stop="20260203150000 +0800" channel="东方财经">
-    <title lang="zh">市场零距离</title>
-    <desc lang="zh">市场零距离</desc>
-  </programme>
-  <programme start="20260203150000 +0800" stop="20260203160000 +0800" channel="东方财经">
-    <title lang="zh">创赢未来</title>
-    <desc lang="zh">创赢未来</desc>
-  </programme>
-  <programme start="20260203160000 +0800" stop="20260203170000 +0800" channel="东方财经">
-    <title lang="zh">纪录片</title>
-    <desc lang="zh">纪录片</desc>
-  </programme>
-  <programme start="20260203170000 +0800" stop="20260203173000 +0800" channel="东方财经">
-    <title lang="zh">直击引领区</title>
-    <desc lang="zh">直击引领区</desc>
-  </programme>
-  <programme start="20260203173000 +0800" stop="20260203180000 +0800" channel="东方财经">
-    <title lang="zh">创时代</title>
-    <desc lang="zh">创时代</desc>
-  </programme>
-  <programme start="20260203180000 +0800" stop="20260203183000 +0800" channel="东方财经">
-    <title lang="zh">望江驿·遇见</title>
-    <desc lang="zh">望江驿·遇见</desc>
-  </programme>
-  <programme start="20260203183000 +0800" stop="20260203190000 +0800" channel="东方财经">
-    <title lang="zh">几何书房</title>
-    <desc lang="zh">几何书房</desc>
-  </programme>
-  <programme start="20260203190000 +0800" stop="20260203191500 +0800" channel="东方财经">
-    <title lang="zh">新闻制高点</title>
-    <desc lang="zh">新闻制高点</desc>
-  </programme>
-  <programme start="20260203191500 +0800" stop="20260203193000 +0800" channel="东方财经">
-    <title lang="zh">632观察</title>
-    <desc lang="zh">632观察</desc>
-  </programme>
-  <programme start="20260203193000 +0800" stop="20260203194500 +0800" channel="东方财经">
-    <title lang="zh">科创先行者</title>
-    <desc lang="zh">科创先行者</desc>
-  </programme>
-  <programme start="20260203194500 +0800" stop="20260203200000 +0800" channel="东方财经">
-    <title lang="zh">直击引领区</title>
-    <desc lang="zh">直击引领区</desc>
-  </programme>
-  <programme start="20260203200000 +0800" stop="20260203203000 +0800" channel="东方财经">
-    <title lang="zh">文化访谈录</title>
-    <desc lang="zh">文化访谈录</desc>
-  </programme>
-  <programme start="20260203203000 +0800" stop="20260203210000 +0800" channel="东方财经">
-    <title lang="zh">望江驿·遇见</title>
-    <desc lang="zh">望江驿·遇见</desc>
-  </programme>
-  <programme start="20260203210000 +0800" stop="20260203214000 +0800" channel="东方财经">
-    <title lang="zh">财经夜行线</title>
-    <desc lang="zh">财经夜行线</desc>
-  </programme>
-  <programme start="20260203214000 +0800" stop="20260203220000 +0800" channel="东方财经">
-    <title lang="zh">首席评论</title>
-    <desc lang="zh">首席评论</desc>
-  </programme>
-  <programme start="20260203220000 +0800" stop="20260203221500 +0800" channel="东方财经">
-    <title lang="zh">新闻制高点</title>
-    <desc lang="zh">新闻制高点</desc>
-  </programme>
-  <programme start="20260203221500 +0800" stop="20260203223000 +0800" channel="东方财经">
-    <title lang="zh">632观察</title>
-    <desc lang="zh">632观察</desc>
-  </programme>
-  <programme start="20260203223000 +0800" stop="20260203224500 +0800" channel="东方财经">
-    <title lang="zh">科创先行者</title>
-    <desc lang="zh">科创先行者</desc>
-  </programme>
-  <programme start="20260203224500 +0800" stop="20260203230000 +0800" channel="东方财经">
-    <title lang="zh">文化访谈录</title>
-    <desc lang="zh">文化访谈录</desc>
-  </programme>
-  <programme start="20260203230000 +0800" stop="20260203233000 +0800" channel="东方财经">
-    <title lang="zh">望江驿·遇见</title>
-    <desc lang="zh">望江驿·遇见</desc>
-  </programme>
-  <programme start="20260203233000 +0800" stop="20260204000000 +0800" channel="东方财经">
-    <title lang="zh">直击引领区</title>
-    <desc lang="zh">直击引领区</desc>
-  </programme>
-  <programme start="20260204000000 +0800" stop="20260204013000 +0800" channel="东方财经">
-    <title lang="zh">纪录片</title>
-    <desc lang="zh">纪录片</desc>
-  </programme>
-  <programme start="20260204013000 +0800" stop="20260204020000 +0800" channel="东方财经">
-    <title lang="zh">创时代</title>
-    <desc lang="zh">创时代</desc>
-  </programme>
-  <programme start="20260204060000 +0800" stop="20260204070000 +0800" channel="东方财经">
-    <title lang="zh">今日股市</title>
-    <desc lang="zh">今日股市</desc>
-  </programme>
-  <programme start="20260204070000 +0800" stop="20260204073000 +0800" channel="东方财经">
-    <title lang="zh">文化访谈录</title>
-    <desc lang="zh">文化访谈录</desc>
-  </programme>
-  <programme start="20260204073000 +0800" stop="20260204080000 +0800" channel="东方财经">
-    <title lang="zh">望江驿·遇见</title>
-    <desc lang="zh">望江驿·遇见</desc>
-  </programme>
-  <programme start="20260204080000 +0800" stop="20260204083000 +0800" channel="东方财经">
-    <title lang="zh">直击引领区</title>
-    <desc lang="zh">直击引领区</desc>
-  </programme>
-  <programme start="20260204083000 +0800" stop="20260204090000 +0800" channel="东方财经">
-    <title lang="zh">创时代</title>
-    <desc lang="zh">创时代</desc>
-  </programme>
-  <programme start="20260204090000 +0800" stop="20260204120000 +0800" channel="东方财经">
-    <title lang="zh">市场零距离</title>
-    <desc lang="zh">市场零距离</desc>
-  </programme>
-  <programme start="20260204120000 +0800" stop="20260204123000 +0800" channel="东方财经">
-    <title lang="zh">直击引领区</title>
-    <desc lang="zh">直击引领区</desc>
-  </programme>
-  <programme start="20260204123000 +0800" stop="20260204124500 +0800" channel="东方财经">
-    <title lang="zh">632观察</title>
-    <desc lang="zh">632观察</desc>
-  </programme>
-  <programme start="20260204124500 +0800" stop="20260204130000 +0800" channel="东方财经">
-    <title lang="zh">科创先行者</title>
-    <desc lang="zh">科创先行者</desc>
-  </programme>
-  <programme start="20260204130000 +0800" stop="20260204150000 +0800" channel="东方财经">
-    <title lang="zh">市场零距离</title>
-    <desc lang="zh">市场零距离</desc>
-  </programme>
-  <programme start="20260204150000 +0800" stop="20260204160000 +0800" channel="东方财经">
-    <title lang="zh">创赢未来</title>
-    <desc lang="zh">创赢未来</desc>
-  </programme>
-  <programme start="20260204160000 +0800" stop="20260204170000 +0800" channel="东方财经">
-    <title lang="zh">纪录片</title>
-    <desc lang="zh">纪录片</desc>
-  </programme>
-  <programme start="20260204170000 +0800" stop="20260204173000 +0800" channel="东方财经">
-    <title lang="zh">直击引领区</title>
-    <desc lang="zh">直击引领区</desc>
-  </programme>
-  <programme start="20260204173000 +0800" stop="20260204180000 +0800" channel="东方财经">
-    <title lang="zh">创时代</title>
-    <desc lang="zh">创时代</desc>
-  </programme>
-  <programme start="20260204180000 +0800" stop="20260204183000 +0800" channel="东方财经">
-    <title lang="zh">望江驿·遇见</title>
-    <desc lang="zh">望江驿·遇见</desc>
-  </programme>
-  <programme start="20260204183000 +0800" stop="20260204190000 +0800" channel="东方财经">
-    <title lang="zh">几何书房</title>
-    <desc lang="zh">几何书房</desc>
-  </programme>
-  <programme start="20260204190000 +0800" stop="20260204191500 +0800" channel="东方财经">
-    <title lang="zh">新闻制高点</title>
-    <desc lang="zh">新闻制高点</desc>
-  </programme>
-  <programme start="20260204191500 +0800" stop="20260204193000 +0800" channel="东方财经">
-    <title lang="zh">632观察</title>
-    <desc lang="zh">632观察</desc>
-  </programme>
-  <programme start="20260204193000 +0800" stop="20260204194500 +0800" channel="东方财经">
-    <title lang="zh">科创先行者</title>
-    <desc lang="zh">科创先行者</desc>
-  </programme>
-  <programme start="20260204194500 +0800" stop="20260204200000 +0800" channel="东方财经">
-    <title lang="zh">直击引领区</title>
-    <desc lang="zh">直击引领区</desc>
-  </programme>
-  <programme start="20260204200000 +0800" stop="20260204203000 +0800" channel="东方财经">
-    <title lang="zh">文化访谈录</title>
-    <desc lang="zh">文化访谈录</desc>
-  </programme>
-  <programme start="20260204203000 +0800" stop="20260204210000 +0800" channel="东方财经">
-    <title lang="zh">望江驿·遇见</title>
-    <desc lang="zh">望江驿·遇见</desc>
-  </programme>
-  <programme start="20260204210000 +0800" stop="20260204214000 +0800" channel="东方财经">
-    <title lang="zh">财经夜行线</title>
-    <desc lang="zh">财经夜行线</desc>
-  </programme>
-  <programme start="20260204214000 +0800" stop="20260204220000 +0800" channel="东方财经">
-    <title lang="zh">首席评论</title>
-    <desc lang="zh">首席评论</desc>
-  </programme>
-  <programme start="20260204220000 +0800" stop="20260204221500 +0800" channel="东方财经">
-    <title lang="zh">新闻制高点</title>
-    <desc lang="zh">新闻制高点</desc>
-  </programme>
-  <programme start="20260204221500 +0800" stop="20260204223000 +0800" channel="东方财经">
-    <title lang="zh">632观察</title>
-    <desc lang="zh">632观察</desc>
-  </programme>
-  <programme start="20260204223000 +0800" stop="20260204224500 +0800" channel="东方财经">
-    <title lang="zh">科创先行者</title>
-    <desc lang="zh">科创先行者</desc>
-  </programme>
-  <programme start="20260204224500 +0800" stop="20260204230000 +0800" channel="东方财经">
-    <title lang="zh">文化访谈录</title>
-    <desc lang="zh">文化访谈录</desc>
-  </programme>
-  <programme start="20260204230000 +0800" stop="20260204233000 +0800" channel="东方财经">
-    <title lang="zh">望江驿·遇见</title>
-    <desc lang="zh">望江驿·遇见</desc>
-  </programme>
-  <programme start="20260204233000 +0800" stop="20260205000000 +0800" channel="东方财经">
-    <title lang="zh">直击引领区</title>
-    <desc lang="zh">直击引领区</desc>
-  </programme>
-  <programme start="20260205000000 +0800" stop="20260205013000 +0800" channel="东方财经">
-    <title lang="zh">纪录片</title>
-    <desc lang="zh">纪录片</desc>
-  </programme>
-  <programme start="20260205013000 +0800" stop="20260205020000 +0800" channel="东方财经">
-    <title lang="zh">创时代</title>
-    <desc lang="zh">创时代</desc>
   </programme>
   <programme start="20260121003000 +0800" stop="20260121013000 +0800" channel="HOY 国际财经台">
     <title lang="zh">云襄传</title>
@@ -28690,11 +28069,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260203135900 +0800" stop="20260203135900 +0800" channel="spot on news">
-    <title lang="zh">At the last second: security guard saves woman from tram</title>
+    <title lang="zh">Over 60 containers tumble from ship in Long Beach port</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260203135900 +0800" stop="20260203135900 +0800" channel="spot on news">
-    <title lang="zh">Over 60 containers tumble from ship in Long Beach port</title>
+    <title lang="zh">At the last second: security guard saves woman from tram</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260203135900 +0800" stop="20260203140000 +0800" channel="spot on news">
@@ -30538,11 +29917,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260203205600 +0800" stop="20260203205600 +0800" channel="spot on news">
-    <title lang="zh">Shortly after take-off: aeroplane bursts into flames</title>
+    <title lang="zh">Woman pulls out machete in taxi - because of music request</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260203205600 +0800" stop="20260203205600 +0800" channel="spot on news">
-    <title lang="zh">Woman pulls out machete in taxi - because of music request</title>
+    <title lang="zh">Shortly after take-off: aeroplane bursts into flames</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260203205600 +0800" stop="20260203205700 +0800" channel="spot on news">
@@ -31202,11 +30581,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260203232500 +0800" stop="20260203232500 +0800" channel="spot on news">
-    <title lang="zh">Burst pipe: Huge fountain of water floods street</title>
+    <title lang="zh">Truck gets stuck on railroad tracks and is hit by freight train</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260203232500 +0800" stop="20260203232500 +0800" channel="spot on news">
-    <title lang="zh">Truck gets stuck on railroad tracks and is hit by freight train</title>
+    <title lang="zh">Burst pipe: Huge fountain of water floods street</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260203232500 +0800" stop="20260203232600 +0800" channel="spot on news">
@@ -503017,14 +502396,6 @@
     <title lang="zh">小山正在秀</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260204090000 +0000" stop="20260204092800 +0000" channel="中视">
-    <title lang="zh">中视新闻</title>
-    <desc lang="zh">由最专业的中视新闻主播，为您播报最新、最即时的新闻。</desc>
-  </programme>
-  <programme start="20260204092800 +0000" stop="20260204095800 +0000" channel="中视">
-    <title lang="zh">中视新闻</title>
-    <desc lang="zh">由最专业的中视新闻主播，为您播报最新、最即时的新闻。</desc>
-  </programme>
   <programme start="20260204095800 +0000" stop="20260204105800 +0000" channel="中视">
     <title lang="zh">中视新闻</title>
     <desc lang="zh">由最专业的中视新闻主播，为您播报最新、最即时的新闻。</desc>
@@ -503876,10 +503247,6 @@
   <programme start="20260208220000 +0000" stop="20260208230000 +0000" channel="华视">
     <title lang="zh">三国演议</title>
     <desc lang="zh">华视新闻部制播新闻专题节目。由国际政经专家汪浩、日本产经新闻台北支局长矢板明夫搭档主持，深度讲评最新国际政经重大事件，跳脱传统政论谈话节目的框架属性。</desc>
-  </programme>
-  <programme start="20260204090000 +0000" stop="20260204100000 +0000" channel="好消息2台">
-    <title lang="zh">大卫鲍森讲座</title>
-    <desc lang="zh">圣经权威大卫鲍森牧师，带你以宏观的神学角度，观看神伟大的神性与恩典，并从其中明白救恩计划的重要。</desc>
   </programme>
   <programme start="20260204100000 +0000" stop="20260204103000 +0000" channel="好消息2台">
     <title lang="zh">共享观点</title>
@@ -504769,18 +504136,6 @@
     <title lang="zh">奔向标竿</title>
     <desc lang="zh">美国最具影响力的属灵领袖之一，华理克(Rick Warren)牧师与马鞍峰教会牧者团队，与您一起携手直奔属天标竿，得著属天奖赏！</desc>
   </programme>
-  <programme start="20260204090000 +0000" stop="20260204093000 +0000" channel="好消息">
-    <title lang="zh">大家说英语</title>
-    <desc lang="zh">将最受欢迎的美语生活会话杂志《大家说英语》内容制作成电视教学节目，教学轻松活泼，以生活实用会话为单元主题，是新闻局推荐的优质节目。不仅能帮助您轻松开口说英语，更提供许多实用的英语语汇与技巧，让您用简单的单字，就能说一口漂亮英语。</desc>
-  </programme>
-  <programme start="20260204093000 +0000" stop="20260204094500 +0000" channel="好消息">
-    <title lang="zh">小珍珠与阿达叔叔</title>
-    <desc lang="zh">好消息电视台制播的儿少节目，由充满人生智慧的阿达叔叔刘清彦主持，精力十足又问题多多的的小珍珠每次都要来找阿达叔叔的麻烦…不，是请阿达叔叔帮她解决层出不穷的各种麻烦，透过两人的趣味互动，让小朋友轻松学习做人的道理。</desc>
-  </programme>
-  <programme start="20260204094500 +0000" stop="20260204100000 +0000" channel="好消息">
-    <title lang="zh">小珍珠与阿达叔叔</title>
-    <desc lang="zh">好消息电视台制播的儿少节目，由充满人生智慧的阿达叔叔刘清彦主持，精力十足又问题多多的的小珍珠每次都要来找阿达叔叔的麻烦…不，是请阿达叔叔帮她解决层出不穷的各种麻烦，透过两人的趣味互动，让小朋友轻松学习做人的道理。</desc>
-  </programme>
   <programme start="20260204100000 +0000" stop="20260204103000 +0000" channel="好消息">
     <title lang="zh">福气人生</title>
     <desc lang="zh">如何才能拥有福气人生?看牧师们以台语分享圣经的真理，让你领受天国满满的福气与祝福。</desc>
@@ -505649,10 +505004,6 @@
     <title lang="zh">道在人间(国)</title>
     <desc lang="zh">节目中邀请赵镛基、叶光明、杰克海福德、乔依丝迈尔等，国内外知名牧长，以丰富的服事经历与扎实的神学装备，教导、传讲圣经真道，坚固信徒并警醒人心。</desc>
   </programme>
-  <programme start="20260204090000 +0000" stop="20260204100000 +0000" channel="ELTV生活英语台">
-    <title lang="zh">PORORO</title>
-    <desc lang="zh">一只充满好奇心的小企鹅-Pororo，因为喜欢尝试新的事物，且用尽方法了解它们，进而惹来许多小麻烦，但在尝试新事物的过程中也为大家带来无限欢乐。</desc>
-  </programme>
   <programme start="20260204100000 +0000" stop="20260204110000 +0000" channel="ELTV生活英语台">
     <title lang="zh">森林侦探队</title>
     <desc lang="zh">南韩EBS与Bigstar Global共同制播的卡通，可轻松认识大自然的样貌。各个谜团揉合在森林的浩瀚中，期待观众跟著侦探队，细细品味在这森林的每个故事。</desc>
@@ -506184,10 +505535,6 @@
   <programme start="20260209070000 +0000" stop="20260209080000 +0000" channel="ELTV生活英语台">
     <title lang="zh">萌马吼吼</title>
     <desc lang="zh">主人公吼吼，是一只可爱的奶油独角兽，他生活在甜蜜镇上，这里的居民都是各种甜品，有著各自的职业。作为一名快乐的打工人，吼吼每天都在小镇的不同地方打工，当发型师助理时，用自己的奶油为甜品们打造时下最流行的发型，尤其是杯子蛋糕，对他的设计总是赞不绝口。</desc>
-  </programme>
-  <programme start="20260204090000 +0000" stop="20260204100000 +0000" channel="龙华卡通台">
-    <title lang="zh">冲吧！小铁人</title>
-    <desc lang="zh">10位不同背景的孩子一起挑战小铁人比赛！经历90天长征、2160个小时的训练，彼此互相扶持与鼓励，用开阔与豁达突破自我、挑战极限，成为独立又自信的小大人。他们的目标不仅是完成这项超越大人的任务，更是向世界证明自己的实力与决心。</desc>
   </programme>
   <programme start="20260204100000 +0000" stop="20260204103000 +0000" channel="龙华卡通台">
     <title lang="zh">欢唱小浣熊</title>
@@ -507041,10 +506388,6 @@
     <title lang="zh">欢唱小浣熊</title>
     <desc lang="zh">七只顽皮小浣熊在神奇音乐盒开启欢乐冒险！每集献上趣味充满想像力的歌曲，让孩子快乐学习！透过语言游戏激发创意、丰富词汇！快来加入这场音乐与知识的奇妙盛宴吧！</desc>
   </programme>
-  <programme start="20260204090000 +0000" stop="20260204100000 +0000" channel="亚洲旅游台">
-    <title lang="zh">效廉出发吧</title>
-    <desc lang="zh">东森超视全新外景旅游实境综艺节目，由跨世代人夫许效舜、威廉携手主持。两位私交甚笃的知己好友，将在节目中分享彼此人生故事，带观众深入了解每个城镇独有的历史人文，探索每个地方的特色美食生活。一段见证男人友谊的旅行，就此展开！</desc>
-  </programme>
   <programme start="20260204100000 +0000" stop="20260204110000 +0000" channel="亚洲旅游台">
     <title lang="zh">惊奇大冒险</title>
     <desc lang="zh">带您深入各国体验在地文化，贴近当地人民的生活，真实呈现秘境探险、 寻找奇景的过程，让您知道怎么玩才好玩，怎么玩才刺激！</desc>
@@ -507517,10 +506860,6 @@
     <title lang="zh">暴走兄弟朝圣趣</title>
     <desc lang="zh">透过主持人卢广仲、李玉玺、美丽本人三兄弟挑战世界唯二被联合国列为世界文化遗产的参拜道：西班牙圣雅各之路与日本熊野古道的冒险实境节目，究竟其中有什么魔力吸引著一波又一波不论国界不分年龄的朝圣者，涌入这条古老的朝圣之路？</desc>
   </programme>
-  <programme start="20260204090000 +0000" stop="20260204100000 +0000" channel="Smart知识台">
-    <title lang="zh">全民星攻略</title>
-    <desc lang="zh">东森综合台全新益智实境节目，「全民星攻略」，由馆长曾国城担任把关者，考验著每个来挑战九宫格益智游戏艺人明星。想要攻略九宫格关卡，透过创意联想、逻辑推理、理想分析，才有机会获取智慧星币，带走梦幻大奖。</desc>
-  </programme>
   <programme start="20260204100000 +0000" stop="20260204110000 +0000" channel="Smart知识台">
     <title lang="zh">健康2.0</title>
     <desc lang="zh">在节目中，将以各种深入浅出的方式，检测时下流行的健康产品的效用，示范健康烹调与运动方法，并与观众分享照顾家人的健康资讯与心得。</desc>
@@ -507952,10 +507291,6 @@
   <programme start="20260209070000 +0000" stop="20260209080000 +0000" channel="Smart知识台">
     <title lang="zh">全民星攻略</title>
     <desc lang="zh">东森综合台全新益智实境节目，「全民星攻略」，由馆长曾国城担任把关者，考验著每个来挑战九宫格益智游戏艺人明星。想要攻略九宫格关卡，透过创意联想、逻辑推理、理想分析，才有机会获取智慧星币，带走梦幻大奖。</desc>
-  </programme>
-  <programme start="20260204090000 +0000" stop="20260204100000 +0000" channel="龙华戏剧台">
-    <title lang="zh">开创盛世</title>
-    <desc lang="zh">隋朝末年，农民起义此起彼伏，但第二代帝王隋炀帝仍沉浸在一片盛世的赞歌中。后来隋炀帝北巡，被北胡始毕可汗的三十万铁骑围困在雁门，李渊的二子李世民用计迫使北胡退兵，隋炀帝对李渊一家感激万分，将重镇太原交给李渊…</desc>
   </programme>
   <programme start="20260204100000 +0000" stop="20260204110000 +0000" channel="龙华戏剧台">
     <title lang="zh">上阳赋</title>
@@ -508429,14 +507764,6 @@
     <title lang="zh">大汉天子3</title>
     <desc lang="zh">延续前两集的剧情《大汉3》主要讲述的是进入中年的汉武帝和汉室新一代之间的故事。永不满足的汉武帝，不断设计自己的人生蓝图。他联合西域，稳定北疆，再无后顾之忧；又将目光转向南越（今两广、西南）。意在建成最强大的大汉王朝，自己也要继三皇五帝之后，成为有史以来不朽的"六帝"。</desc>
   </programme>
-  <programme start="20260204090000 +0000" stop="20260204093000 +0000" channel="台湾戏剧台">
-    <title lang="zh">亲戚不计较</title>
-    <desc lang="zh">由卓胜利、李锣等人主演，本剧虽以喜剧的方式呈现，但笑中有泪，泪中有悟，悟中有得，令人深思！</desc>
-  </programme>
-  <programme start="20260204093000 +0000" stop="20260204100000 +0000" channel="台湾戏剧台">
-    <title lang="zh">亲戚不计较</title>
-    <desc lang="zh">由卓胜利、李锣等人主演，本剧虽以喜剧的方式呈现，但笑中有泪，泪中有悟，悟中有得，令人深思！</desc>
-  </programme>
   <programme start="20260204100000 +0000" stop="20260204103000 +0000" channel="台湾戏剧台">
     <title lang="zh">亲戚不计较</title>
     <desc lang="zh">由卓胜利、李锣等人主演，本剧虽以喜剧的方式呈现，但笑中有泪，泪中有悟，悟中有得，令人深思！</desc>
@@ -508908,14 +508235,6 @@
   <programme start="20260209070000 +0000" stop="20260209080000 +0000" channel="台湾戏剧台">
     <title lang="zh">包青天</title>
     <desc lang="zh">仁宗皇帝在位期间，包拯（金超群）升任开封府府尹执掌京畿，刚直耿介、铁面无私、明察秋毫、断案如神，百姓爱戴敬仰尊称为“包青天”。并有公孙策（范鸿轩）与南侠展昭（何家劲）一文一武两员大将，使得包拯屡破奇案屡建奇功。</desc>
-  </programme>
-  <programme start="20260204084000 +0000" stop="20260204092000 +0000" channel="东森购物1台">
-    <title lang="zh">锁定CH.43、CH.49选购</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260204092000 +0000" stop="20260204100000 +0000" channel="东森购物1台">
-    <title lang="zh">2/1-2/28全月消费实付满8,000元送【888元现金券】(每人限赠1次)</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260204100000 +0000" stop="20260204104000 +0000" channel="东森购物1台">
     <title lang="zh">锁定CH.43、CH.49选购</title>
@@ -509625,10 +508944,6 @@
     <title lang="zh">锁定CH.43、CH.49选购</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260204090000 +0000" stop="20260204100000 +0000" channel="龙华偶像台">
-    <title lang="zh">金装律师</title>
-    <desc lang="zh">崔江锡（张东健）是律师事务所的首席合伙人兼王牌律师，他偶然发现高延宇（朴炯植）虽没念过法学院，但却聪明绝顶并拥有照相般记忆，自小梦想成为律师的他却因负担不起学费而无法成为律师。江锡看中延宇的才能而雇用他，两人成为黄金搭档…</desc>
-  </programme>
   <programme start="20260204100000 +0000" stop="20260204110000 +0000" channel="龙华偶像台">
     <title lang="zh">步步惊心</title>
     <desc lang="zh">张晓（刘诗诗）是一位熟知清代历史的现代社会白领，她却一脚踏入穿越时空的隧道，变身为16岁的清朝宫廷少女若曦。在这风云诡变的宫廷中，除了被卷入九子夺嫡的暗战，自己与胤禛（吴奇隆）的感情也夹杂在宫廷斗争中备受煎熬…</desc>
@@ -510117,10 +509432,6 @@
     <title lang="zh">依法相爱吧</title>
     <desc lang="zh">金正浩（李升基）与金琉璃（李世荣）曾将是交往多年的校园情侣。多年后，琉璃忽然辞掉律师的工作，决定开一家提供法律咨询的咖啡厅，但没想到房东竟然是正浩！重逢后的琉璃发现自己对正浩余情未了，于是决定对他展开直球攻势…</desc>
   </programme>
-  <programme start="20260204090000 +0000" stop="20260204100000 +0000" channel="龙华日韩台">
-    <title lang="zh">只属于你</title>
-    <desc lang="zh">恩静（李敏英）嫁给律师姜胜宰（宋在熙），没想到婆家却拿她当佣人使唤，胜宰对此毫不在意，甚至根本没去登记结婚。恩静因此重回职场，努力成为知名设计师，当前男友俊夏再度出现在她面前，看到她遭遇不幸却仍默默守护，俊夏能为恩静带来幸福吗？</desc>
-  </programme>
   <programme start="20260204100000 +0000" stop="20260204110000 +0000" channel="龙华日韩台">
     <title lang="zh">只属于你</title>
     <desc lang="zh">恩静（李敏英）嫁给律师姜胜宰（宋在熙），没想到婆家却拿她当佣人使唤，胜宰对此毫不在意，甚至根本没去登记结婚。恩静因此重回职场，努力成为知名设计师，当前男友俊夏再度出现在她面前，看到她遭遇不幸却仍默默守护，俊夏能为恩静带来幸福吗？</desc>
@@ -510592,14 +509903,6 @@
   <programme start="20260209070000 +0000" stop="20260209080000 +0000" channel="龙华日韩台">
     <title lang="zh">母亲</title>
     <desc lang="zh">一位一直牺牲自己为子女付出全部的伟大母亲（车和娟），发现子女成为了自己的精神枷锁和负担，从而向子女展开报复行动的故事。</desc>
-  </programme>
-  <programme start="20260204084000 +0000" stop="20260204092000 +0000" channel="东森购物2台">
-    <title lang="zh">锁定CH.43、CH.49选购</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260204092000 +0000" stop="20260204100000 +0000" channel="东森购物2台">
-    <title lang="zh">2/1-2/28全月消费实付满8,000元送【888元现金券】(每人限赠1次)</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260204100000 +0000" stop="20260204104000 +0000" channel="东森购物2台">
     <title lang="zh">锁定CH.43、CH.49选购</title>
@@ -511725,10 +511028,6 @@
     <title lang="zh">华视2400夜间新闻</title>
     <desc lang="zh">由专业华视主播带来最即时、最完整、最专业的新闻报导。</desc>
   </programme>
-  <programme start="20260204040000 +0000" stop="20260204100000 +0000" channel="倪珍播新闻">
-    <title lang="zh">午安新闻</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
   <programme start="20260204100000 +0000" stop="20260204160000 +0000" channel="倪珍播新闻">
     <title lang="zh">晚安新闻</title>
     <desc lang="zh">暂无描述</desc>
@@ -511804,10 +511103,6 @@
   <programme start="20260208220000 +0000" stop="20260209040000 +0000" channel="倪珍播新闻">
     <title lang="zh">早安新闻</title>
     <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260204090000 +0000" stop="20260204100000 +0000" channel="三立新闻iNEWS">
-    <title lang="zh">iNEWS1700整点新闻</title>
-    <desc lang="zh">三立iNEWS制播的财经新闻节目，由最专业的财经主播带来国际时事、财经股汇市报导、深度新闻、时事评论…等内容。</desc>
   </programme>
   <programme start="20260204100000 +0000" stop="20260204115500 +0000" channel="三立新闻iNEWS">
     <title lang="zh">1819钱进大头条</title>
@@ -512228,10 +511523,6 @@
   <programme start="20260209070000 +0000" stop="20260209080000 +0000" channel="三立新闻iNEWS">
     <title lang="zh">智富食代</title>
     <desc lang="zh">颠覆传统旅游节目，而是以全新新闻性、知识性旅游资讯节目，呈现观众眼前。轻松有趣的内容中，将观光经济数字、各地房价、消费指数及各地风土民情融入结合。要学怎么赢、先学怎么玩！女汉子两条路线PK旅行大挑战。</desc>
-  </programme>
-  <programme start="20260204090000 +0000" stop="20260204100000 +0000" channel="寰宇财经台">
-    <title lang="zh">巷弄美食家</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260204100000 +0000" stop="20260204110000 +0000" channel="寰宇财经台">
     <title lang="zh">小食光台味志</title>
@@ -512705,10 +511996,6 @@
     <title lang="zh">古今风云</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260204090000 +0000" stop="20260204100000 +0000" channel="中视新闻">
-    <title lang="zh">新庶民大头家</title>
-    <desc lang="zh">中视新闻全新政论节目，每日带给你超劲爆话题讨论，欢迎庶民们一起来follow。</desc>
-  </programme>
   <programme start="20260204100000 +0000" stop="20260204105800 +0000" channel="中视新闻">
     <title lang="zh">中视新闻全球报导</title>
     <desc lang="zh">中视每晚七点由主播哈远仪为全国观众最专业、准确的新闻报导。</desc>
@@ -513144,10 +512431,6 @@
   <programme start="20260208220000 +0000" stop="20260208230000 +0000" channel="中视新闻">
     <title lang="zh">中视新闻全球报导</title>
     <desc lang="zh">中视每晚七点由主播哈远仪为全国观众最专业、准确的新闻报导。</desc>
-  </programme>
-  <programme start="20260204090000 +0000" stop="20260204100000 +0000" channel="中天新闻台">
-    <title lang="zh">中天新闻 1700整点新闻</title>
-    <desc lang="zh">收看中天新闻带给你最即时、最完整、最专业的新闻报导。</desc>
   </programme>
   <programme start="20260204100000 +0000" stop="20260204110000 +0000" channel="中天新闻台">
     <title lang="zh">中天辣晚报</title>
@@ -513621,10 +512904,6 @@
     <title lang="zh">15大新闻大爆卦</title>
     <desc lang="zh">每周一到周五《大新闻大爆卦》中天主播陪你一起来解卦！！！</desc>
   </programme>
-  <programme start="20260204085500 +0000" stop="20260204095500 +0000" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇晚间新闻</title>
-    <desc lang="zh">寰宇晚间新闻给你最在地的台湾新闻、最深入的两岸焦点，掌握国际情势带您了解社会脉动。</desc>
-  </programme>
   <programme start="20260204095500 +0000" stop="20260204105500 +0000" channel="寰宇新闻台湾台">
     <title lang="zh">寰宇晚间新闻</title>
     <desc lang="zh">寰宇晚间新闻给你最在地的台湾新闻、最深入的两岸焦点，掌握国际情势带您了解社会脉动。</desc>
@@ -514097,10 +513376,6 @@
     <title lang="zh">寰宇整点新闻</title>
     <desc lang="zh">来自路透的国际新闻、最在地的台湾新闻以及最深入的两岸焦点，带您掌握社会脉动。</desc>
   </programme>
-  <programme start="20260204085500 +0000" stop="20260204095500 +0000" channel="寰宇新闻台">
-    <title lang="zh">寰宇全球新闻</title>
-    <desc lang="zh">抢先揭露全球各地政经、社会、娱乐的第一手新闻讯息，让观众不漏接关键的世界大事。</desc>
-  </programme>
   <programme start="20260204095500 +0000" stop="20260204105500 +0000" channel="寰宇新闻台">
     <title lang="zh">寰宇全球新闻</title>
     <desc lang="zh">抢先揭露全球各地政经、社会、娱乐的第一手新闻讯息，让观众不漏接关键的世界大事。</desc>
@@ -514572,14 +513847,6 @@
   <programme start="20260209065500 +0000" stop="20260209075500 +0000" channel="寰宇新闻台">
     <title lang="zh">寰宇整点新闻</title>
     <desc lang="zh">来自路透的国际新闻、最在地的台湾新闻以及最深入的两岸焦点，带您掌握社会脉动。</desc>
-  </programme>
-  <programme start="20260204090000 +0000" stop="20260204093000 +0000" channel="第1商业台">
-    <title lang="zh">股市第一线-顾德投顾-李冠嵚分析师</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260204093000 +0000" stop="20260204100000 +0000" channel="第1商业台">
-    <title lang="zh">赢家应对-顾德投顾-林泓橡分析师</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260204100000 +0000" stop="20260204103000 +0000" channel="第1商业台">
     <title lang="zh">阪田战法-宝得富-顾奎国分析师</title>
@@ -515445,10 +514712,6 @@
     <title lang="zh">期股冲冲冲-宝得富-翁士峻分析师</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260204010000 +0000" stop="20260204100000 +0000" channel="国会频道1台">
-    <title lang="zh">立法院会议直播</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
   <programme start="20260204100000 +0000" stop="20260204160000 +0000" channel="国会频道1台">
     <title lang="zh">当日立法院会议转播</title>
     <desc lang="zh">暂无描述</desc>
@@ -515551,14 +514814,6 @@
   </programme>
   <programme start="20260209004700 +0000" stop="20260209010000 +0000" channel="国会频道1台">
     <title lang="zh">周一会议预报</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260204063500 +0000" stop="20260204093900 +0000" channel="国会频道2台">
-    <title lang="zh">社会福利及卫生环境委员会</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260204093900 +0000" stop="20260204100200 +0000" channel="国会频道2台">
-    <title lang="zh">立法院院会</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260204100200 +0000" stop="20260204113200 +0000" channel="国会频道2台">
@@ -536908,472 +536163,6 @@ HARUA「笑一笑就拿红包」王奕翔QQ了</desc>
   <programme start="20260205183000 +0000" stop="20260205193500 +0000" channel="月曜1起玩">
     <title lang="zh">木曜4超玩 下班去吃饭</title>
     <desc lang="zh">邰哥邀请各界名人一起吃饭聊天，与观众分享他们的故事。</desc>
-  </programme>
-  <programme start="20260202203000 +0000" stop="20260202212500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">你有书写障碍吗？你会提笔忘字吗？现在就和我们一起来领略中华文字之美！「一字千金」首集播出就邀请到八位高学历的艺人，分别是淡江法文系朱芯仪、北医药学系李宣榕、北艺大传统音乐系王尹平、景文会计系刘雨柔、世新广电系沈玉琳、文化企管系阿布、政大广电研究所硕士阿本、加州大学商学系阿Ben。</desc>
-  </programme>
-  <programme start="20260202212500 +0000" stop="20260202222000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">你有书写障碍吗？你会提笔忘字吗？现在就和我们一起来领略中华文字之美！「一字千金」首集播出就邀请到八位高学历的艺人，分别是淡江法文系朱芯仪、北医药学系李宣榕、北艺大传统音乐系王尹平、景文会计系刘雨柔、世新广电系沈玉琳、文化企管系阿布、政大广电研究所硕士阿本、加州大学商学系阿Ben。</desc>
-  </programme>
-  <programme start="20260202222000 +0000" stop="20260202231500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">过去开电视看新闻，记者稿子中对新闻事件的描述、形容，在用字遣词上都很讲究跟要求，而现在我们看到的新闻，连说带演样样来，活泼度增加，但用字遣词上却变得较口语化，这到底是记者的中文程度降低了？还是观众对文字语言的要求变低了呢？！</desc>
-  </programme>
-  <programme start="20260202231500 +0000" stop="20260203000500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">一字千金为了让大家重新重视中文书写的重要性，走访全国各地小学进行海选，挖掘各学校国语文高手！节目中，我们请到了十位同学，他们在校园海选中，击败其他同学脱颖而出。他们不管是在校内还是全国的国语文比赛中都是榜上有名，其中更有一对双胞胎兄弟一起来挑战。</desc>
-  </programme>
-  <programme start="20260203000500 +0000" stop="20260203010000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">人生是由一连串的十字路口串起来的，而在这条路上难免会遇到有迷惘困惑的时候，这时候有一种身分的人，刚好可以给陷入困境的人指点一条明路，安抚他们无助的心灵，帮他们开运、解惑！今天我们邀请的8位参赛者身分就是「铁口直断的命理师」。</desc>
-  </programme>
-  <programme start="20260203010000 +0000" stop="20260203015500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">节目中，我们请到了十位同学，他们在校园海选中，击败其他同学脱颖而出。他们不管是在校内还是全国的国语文比赛中都是榜上有名，更有许多才艺高手，其中两位小朋友第一次同台就以大提琴和直笛完美合奏，让主持人听得如痴如醉。这些高手们他们代表著各自的学校来节目中跟各路好手一决胜负！</desc>
-  </programme>
-  <programme start="20260203015500 +0000" stop="20260203025000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">根据调查台湾有两万名Show Girl，每25个大学生中，就有一位当过Show Girl，想要成为Show Girl，亮丽的外型与亲切的态度是不可少的，但是如果想要进一步，成为展场上的活动主持人，那就还要有流利的口条和机智的反应！</desc>
-  </programme>
-  <programme start="20260203025000 +0000" stop="20260203034500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">一字千金为了让大家重新重视中文书写的重要性，走访全国各地小学进行海选，挖掘各学校国语文高手！节目中，我们请到了十位同学，他们在校园海选中，击败其他同学脱颖而出。他们不管是在校内还是全国的国语文比赛中都是榜上有名，这些高手们他们代表著各自的学校来节目中跟各路好手一决胜负！
-　　</desc>
-  </programme>
-  <programme start="20260203034500 +0000" stop="20260203044000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">在企业里，公关人员扮演对外发声的角色，支援行销活动的举办，可以说是企业形象的化妆师，也是企业维系媒体关系的窗口。公关人员本身的EQ、情绪管理能力要非常好，对外要能屈能伸，抛弃个人的喜怒哀乐，也要懂得基本的商业礼仪。与当外界传出不利于公司的消息时，更要有危机处理的能力！</desc>
-  </programme>
-  <programme start="20260203044000 +0000" stop="20260203053500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">一字千金为了让大家重新重视中文书写的重要性，走访全国各地小学进行海选，挖掘各学校国语文高手！节目中，我们请到了十位同学，他们在校园海选中，击败其他同学脱颖而出。他们不管是在校内还是全国的国语文比赛中都是榜上有名，这些高手们他们代表著各自的学校来节目中跟各路好手一决胜负！</desc>
-  </programme>
-  <programme start="20260203053500 +0000" stop="20260203063000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">台湾谈话性节目正夯，话题性强，占据不少电视频道精华时段，更捧红一票上知天文，下知地理的「名嘴」，从批评时政、分析社会乱象、揭露名人八卦，甚至外星人、古文明无不通晓，形塑台湾另类文化特色！</desc>
-  </programme>
-  <programme start="20260203063000 +0000" stop="20260203072500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">一字千金为了让大家重新重视中文书写的重要性，走访全国各地小学进行海选，挖掘各学校国语文高手！节目中，我们请到了十位同学，他们在校园海选中，击败其他同学脱颖而出。他们不管是在校内还是全国的国语文比赛中都是榜上有名，这些高手们他们代表著各自的学校来节目中跟各路好手一决胜负！</desc>
-  </programme>
-  <programme start="20260203072500 +0000" stop="20260203082000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">根据统计在台湾每10个人之中，就有1个人在电视购物上买过东西，一分钟卖6颗钻石、一分钟卖4部车子、一小时卖5,000斤茶叶、一小时卖1,000张床，这是电视购物货真价实的惊人业绩。随著电视购物的庞大商机，萤光幕上亲和力十足的购物专家，各个活灵活现地介绍商品...</desc>
-  </programme>
-  <programme start="20260203082000 +0000" stop="20260203091500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">节目中，我们请到了十位同学，他们在校园海选中，击败其他同学脱颖而出。他们不管是在校内还是全国的国语文比赛中都是榜上有名，这些高手们他们代表著各自的学校来节目中跟各路好手一决胜负，而且各个身怀绝技，有的人会唱歌，有人会跳舞，更有人会吹唢呐吹直笛，一起演出当下最流行的〈小苹果〉！</desc>
-  </programme>
-  <programme start="20260203091500 +0000" stop="20260203101000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">今天来了八位百万业绩的超级业务员，来自不同的领域，推销不一样的商品，各个能言善辩、口若悬河，更有著过于常人的毅力与耐性，不过业绩上的表现会和书写功力画上等号吗？</desc>
-  </programme>
-  <programme start="20260203101000 +0000" stop="20260203110500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">一字千金为了让大家重新重视中文书写的重要性，走访全国各地小学进行海选，挖掘各学校国语文高手！节目中，我们请到了十位同学，他们在校园海选中，击败其他同学脱颖而出。他们不管是在校内还是全国的国语文比赛中都是榜上有名，这些高手们他们代表著各自的学校来节目中跟各路好手一决胜负！</desc>
-  </programme>
-  <programme start="20260203110500 +0000" stop="20260203115500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">台湾谚语：「第一卖冰，第二作医生。」当医生救人无数受人敬仰，而且从小到大ㄧ定都是念书一把罩，从小到大念书无往不利，打败天下无敌手才能考上医学院，当上医生，可以说是菁英中的菁英阿！不过理科一把罩 文科上的书写功力又会如何呢？</desc>
-  </programme>
-  <programme start="20260203115500 +0000" stop="20260203125000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">一字千金为了让大家重新重视中文书写的重要性，走访全国各地小学进行海选，挖掘各学校国语文高手！节目中，我们请到了十位同学，他们在校园海选中，击败其他同学脱颖而出。他们不管是在校内还是全国的国语文比赛中都是榜上有名，这些高手们他们代表著各自的学校来节目中跟各路好手一决胜负！</desc>
-  </programme>
-  <programme start="20260203125000 +0000" stop="20260203134500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">今天来了八位辩才无碍的金牌大律师，律师出入法庭，辩才无碍，走路有风，不仅是社会上的菁英份子，更是很多人羡慕的工作。要成为一名律师，不只口才要好，文采更是不能马虎，从小到大要经历各种不同的考试，通过重重考验，才能到达这个位置！想必文字能力必定是压倒群雄！</desc>
-  </programme>
-  <programme start="20260203134500 +0000" stop="20260203144000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">一字千金为了让大家重新重视中文书写的重要性，走访全国各地小学进行海选，挖掘各学校国语文高手！节目中，我们请到了十位同学，他们在校园海选中，击败其他同学脱颖而出。他们不管是在校内还是全国的国语文比赛中都是榜上有名，这些高手们他们代表著各自的学校来节目中跟各路好手一决胜负！</desc>
-  </programme>
-  <programme start="20260203144000 +0000" stop="20260203153500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">一字千金播出一季以来，引起了一股书写汉字的风潮，历经三个月的竞赛，每个礼拜都有一位冠军产生，但有更多人铩羽而归，面对即将来到的季冠军大赛，我们决定给曾经挑战失败的选手们一个机会，今天邀请到的就是九位曾经和冠军失之交臂的优秀选手。</desc>
-  </programme>
-  <programme start="20260203153500 +0000" stop="20260203163000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">一字千金为了让大家重新重视中文书写的重要性，走访全国各地小学进行海选，挖掘各学校国语文高手！经过了十周的棚内竞赛，纵使有十位厉害的冠军脱颖而出，但进到最后一个单元PK的选手，也让人眼睛一亮，本集节目中，我们邀请到了过去几周表现十分亮眼的亚军，回到一字千金的舞台。</desc>
-  </programme>
-  <programme start="20260203163000 +0000" stop="20260203172500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">一字千金播出一季以来，引起了一股书写汉字的风潮，历经三个月的厮杀，终于到了最令人期待的冠军赛了，这次的冠军赛，不只有每周的周冠军，还有两位从败部复活赛中打败群雄的高手，也将同台较劲，集结了众家高手，想必是最精采的一战！！</desc>
-  </programme>
-  <programme start="20260203172500 +0000" stop="20260203182000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">一字千金为了让大家重新重视中文书写的重要性，走访全国各地小学进行海选，挖掘各学校国语文高手！经过了12周的比拼，终于来到了总决赛，而这次除了有十位周冠军之外，还加上了两位败部复活赛强势回归的选手！</desc>
-  </programme>
-  <programme start="20260203182000 +0000" stop="20260203191000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">新一季的第一集，将邀请到八位来自台湾大学的同学们，台大是台湾大学中的A咖，是世界前100名大学声誉排名榜中台湾唯一一所进榜的国立大学，这些成绩优秀的学生今天有8位来节目中要来挑战跟证明自己的中文能力，到底，台大生的中文行不行呢？！</desc>
-  </programme>
-  <programme start="20260203191000 +0000" stop="20260203200500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">新一季的第二集，将邀请到八位穿著制服的花样高中少年少女，高中，正是人生最青涩、最美好的阶段，懵懂轻狂，拥有无限活力，但是到底中文能力如何呢？香味浓「ㄩˋ」的ㄩˋ是哪个字？莫使金ㄗㄨㄣ空对月，又该如何填出正确的字来？</desc>
-  </programme>
-  <programme start="20260203200500 +0000" stop="20260203210000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">本周将邀请到八位大学社团风云人物登场，有人说大学就是「由你玩四年」，但有三个必修学分可是非修不可的，那就是课业、爱情和社团，有许多人在参加社团活动时找到自己的兴趣与未来的方向，更有人在社团找到了人生的舞台，今天就有八位社团风云人物来到现场，原本是自信满满的接受考验，却...？</desc>
-  </programme>
-  <programme start="20260203210000 +0000" stop="20260203215500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">本周将邀请到八位国中语文高手登场，国中是开始进入青春期的时候,准备要告别童年，迈向成年。在这段过渡时期，有人青涩，有人叛逆，有人茫然，有人迷惘，今天现场来了八位正值青春期的国中生，到底他们的中文能力如何呢？</desc>
-  </programme>
-  <programme start="20260203215500 +0000" stop="20260203225000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">本周将邀请到八位大学系花系草登场，每个学校都会有风云人物，有的人是因为成绩优异，有人因为社团活跃，有人则是因为长相吸睛！而这次请来的八位选手，在男神女神的容貌下，中文程度到底如何呢？</desc>
-  </programme>
-  <programme start="20260203225000 +0000" stop="20260203234500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">竞技啦啦队是一种充满活力的运动，是结合体操、跳跃、特技、口号及舞蹈编排的有氧运动。以往，啦啦队只是替选手加油打气的配角，但随著啦啦队比赛兴起，竞技啦啦队已经反客为主，成为校园中最火红的一项运动！现场来了四所学校，八位同学，都是竞技啦啦队的队员，他们活力十足，身手不凡。</desc>
-  </programme>
-  <programme start="20260203234500 +0000" stop="20260204004000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">模范这个词语原本指的是木制的模型，是制作器物的母型。而后来引申为榜样的意思。而模范生，则是因为他的表现有值得大家学习的地方，所以被学校或班级推派成为模范生，今天我们在现场来了八位小小模范生，他们可是在德智体群美上都有过人的表现，不过中文能力到底如何呢？</desc>
-  </programme>
-  <programme start="20260204004000 +0000" stop="20260204013500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">大学学生会，系学会不只是一个学生组织，更是一个小型社会，来到了这里可以学习到更不多同的经验，认识更多不一样的人物，许多人也从参加学会的经验中学习到如何TEAM WORK，几乎就是未来职场的缩影。现场来了八位大学学会干部，不仅有服务的精神更有满满的活力，到底他们的中文程度如何呢？</desc>
-  </programme>
-  <programme start="20260204013500 +0000" stop="20260204022500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">这次我们邀请到国中的班级小老师来上节目，他们不仅是老师的好帮手，同学眼中的乖乖牌，国语文的能力更是一级棒，究竟谁能打败群雄，成为今天的冠军呢？</desc>
-  </programme>
-  <programme start="20260204022500 +0000" stop="20260204032000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">大家都喜欢得奖，得奖不只是一种肯定也是一种鼓励。今天来了八位从小就很乐爱参与各种比赛的国小得奖高手，到底他们都参加一些什么特别的比赛？又有什么样的战绩呢？</desc>
-  </programme>
-  <programme start="20260204032000 +0000" stop="20260204041500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">少年十五二十时，步行夺得胡马骑。在古代15岁到20岁这段年纪，正是意气风发，已经是可以成家立业的年纪，现在没那么早，在这个青春期即将迈向成年的阶段，大部分的人还是在校园里求学，不过他们在校园里也有杰出的表现，现场请来了八位高中的国语文高手。</desc>
-  </programme>
-  <programme start="20260204041500 +0000" stop="20260204051000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">文字的战场上，永远只有一位胜利者吗？有人只差一步就可以登上冠军宝座，曾经对他们来说那是世界上最遥远的距离，现在他们有机会再次靠近！本周复仇者重新回归，集合了九位在各周比赛中不幸败北的亚军，进行一场龙争虎斗，争取最后进入总决赛的两张门票，败部逆袭战现在登场？</desc>
-  </programme>
-  <programme start="20260204051000 +0000" stop="20260204060500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">经过三个月的厮杀，季冠军赛12位选手一一出炉，也将在本周决一死战，这次集合每一集的周冠军，进行一场龙争虎斗，而比赛中将有小学生、国中生、高中生，更有大学生，虽然年龄层囊括颇大，但到底会是大欺小，还是小欺大，那可不一定呢！</desc>
-  </programme>
-  <programme start="20260204060500 +0000" stop="20260204070000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">师者，所以传道授业解惑也！今天现场邀请到八位老师，不同年纪不同科目不同年纪，不过相同的是，他们对于自己的中文能力可是相当有自信的，到底老师会不会写错字呢？</desc>
-  </programme>
-  <programme start="20260204070000 +0000" stop="20260204075500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">台湾是个多元化的社会，根据内政部截至今年二月底的统计，新住民在台湾人数为四十九万九千七百四十六人，其中以中国的新住民最多；来自越南与印尼的新住民分占第二、第三名，今天现场来了八位来自不同国家的新住民，他们在台湾生活最短有五年，最长的也有十七年了！不过中文程度如何呢？</desc>
-  </programme>
-  <programme start="20260204075500 +0000" stop="20260204085000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">听到「乐仪队」的第一直觉反应，每年都在国庆日，或是在各大游街活动中，身穿笔挺制服边行进边吹奏的队伍。整齐的队伍，悠扬的乐声，根本就是力与美的结合，许多高中生都以能加入乐仪队为荣，不过想加入乐仪队可不简单，通常都会有一些基本要求，像是身高、体态、在校成绩等。</desc>
-  </programme>
-  <programme start="20260204085000 +0000" stop="20260204094500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">2011年开放陆生来台，很快的四年过去了，今年将会出现第一批的陆生毕业生，教育部开放陆生来台就学第二年，包含世新、辅大、文化等学校都发现，大陆学生用功程度相当惊人，除了平时上课踊跃提问，很少迟到或早退外，学业成绩更是优异，许多陆生来台三学期都拿书卷奖。</desc>
-  </programme>
-  <programme start="20260204094500 +0000" stop="20260204104000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">台湾真是什么都能补。从小学到研究所，从语文、数理到技术，考公务员，考空姐，就连作菜、美容、按摩、算命等，都能找到地方补！根据统计，过去十年补习班如倍数增加，从2001年的五千多家增加到2010年的近两万家，其中文理补习班有9989家，外语有5304家。</desc>
-  </programme>
-  <programme start="20260204104000 +0000" stop="20260204113500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">台湾学生喜欢到国外游学，体验不一样的生活，不过世界华语热，或许为了工作、进修，也可能因为兴趣，愈来愈多外国朋友也喜欢到台湾念书，今年总共有将近十万名外籍生在台湾求学，今天来自不同国家的朋友要来一场中文大考验，到底谁会拔得头筹呢？</desc>
-  </programme>
-  <programme start="20260204113500 +0000" stop="20260204123000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">有人说「父亲，是男人最温柔的名字」，也有人说「一个父亲胜过一百个老师」，父亲对孩子成长过程可是占有很重要的影响力！但很多父亲常常因为工作、应酬，牺牲了跟孩子的相处时间，跟孩子好好聊天或是陪著一起学习都是奢望。</desc>
-  </programme>
-  <programme start="20260204123000 +0000" stop="20260204132500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">在书店随便拿起一本书，洋洋洒洒起码也有上万字，身为作家一定是一位文字重度使用者，相信中文能力应该是不在话下，这次节目中广邀了各种类型的作家，有旅游作家、两性作家、美食作家、医药作家、甚至还有台语文学作家，这几位勇敢的作家，勇于接受文字的挑战。</desc>
-  </programme>
-  <programme start="20260204132500 +0000" stop="20260204142000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">大家都听过广播，开车的时候、坐公车时、或是买东西时店家播放的，不管现在电视媒体、网路媒体多么盛行，却还是替代不了广播，而一个出色的电台DJ必须反应快、口才了得、能言善道，可以将毫无趣味的话题说得生动有趣。今天来了八位不同电台不同特色的电台DJ，他们的口才当然没话说。</desc>
-  </programme>
-  <programme start="20260204142000 +0000" stop="20260204151500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">日本作家村上龙曾在书中提到，「十三岁，这个年龄的孩子，正站在成人世界的入口。」侯文咏在他的书《不乖》中也写到，「没有轻狂少年的经验，就不可能造就出一个深思熟虑的成人。」国中这个阶段的孩子，是人格发展很神奇的阶段，需要最大的自由，以向内和向外探索发展。</desc>
-  </programme>
-  <programme start="20260204151500 +0000" stop="20260204161000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">在资讯爆炸的年代，想要成为名人，多了一个管道就是网路，许多人在网路上分享自己的各种经验，不管是美食、旅游、育儿、两性等议题，只要你文章够犀利、照片够华丽，就有可能成为婉君们拥戴的人气部落客，节目中请来了八位人气部落客，他们分别在不同的领域称霸，他们很认真的在经营自己的部落格。</desc>
-  </programme>
-  <programme start="20260204161000 +0000" stop="20260204170500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">赛跑时最令人饮恨的就是，明明终点线就在你眼前，你只差一步，却眼睁睁的看著别人超越你，冲过了那条终点线！而文字的战场上，也是如此，总有一些人在惋惜失败那一刻有多么懊悔，这次有九位复仇者联盟，他们抱持著一份决胜的复仇心情，即将再次问鼎宝座，争取最后一章进入总决赛的宝座！</desc>
-  </programme>
-  <programme start="20260204170500 +0000" stop="20260204175500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">自从第二季冠军赛之后，主持人曾国城身为守关终极魔王，却在第二个成语就不幸败北，这件事不仅传遍演艺圈，更在网路上引起了一阵网友的讪笑和讨论，被封为最不称职的大魔王，而他本人也是痛定思痛，决定在本季来个终极大反攻。</desc>
-  </programme>
-  <programme start="20260204175500 +0000" stop="20260204185000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">你有书写障碍吗？你会提笔忘字吗？现在就和我们一起来领略中华文字之美！一字千金第四弹！国中校际赛正式登场！过去我们曾经以国小语文高手、校园风云榜、新新人类、成人赛为我们的比赛主题，这回，我们锁定全台国中生，要来看看中文最厉害的国中生在哪里？</desc>
-  </programme>
-  <programme start="20260204185000 +0000" stop="20260204194500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">你有书写障碍吗？你会提笔忘字吗？现在就和我们一起来领略中华文字之美！一字千金第四弹！国中校际赛正式登场！过去我们曾经以国小语文高手、校园风云榜、新新人类、成人赛为我们的比赛主题，这回，我们锁定全台国中生，要来看看中文最厉害的国中生在哪里？</desc>
-  </programme>
-  <programme start="20260204194500 +0000" stop="20260204204000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">你有书写障碍吗？你会提笔忘字吗？现在就和我们一起来领略中华文字之美！一字千金第四弹！国中校际赛正式登场！过去我们曾经以国小语文高手、校园风云榜、新新人类、成人赛为我们的比赛主题，这回，我们锁定全台国中生，要来看看中文最厉害的国中生在哪里？</desc>
-  </programme>
-  <programme start="20260204204000 +0000" stop="20260204213000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">你有书写障碍吗？你会提笔忘字吗？现在就和我们一起来领略中华文字之美！一字千金第四弹！国中校际赛正式登场！过去我们曾经以国小语文高手、校园风云榜、新新人类、成人赛为我们的比赛主题，这回，我们锁定全台国中生，要来看看中文最厉害的国中生在哪里？</desc>
-  </programme>
-  <programme start="20260204213000 +0000" stop="20260204222500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">你有书写障碍吗？你会提笔忘字吗？现在就和我们一起来领略中华文字之美！一字千金第四弹！国中校际赛正式登场！过去我们曾经以国小语文高手、校园风云榜、新新人类、成人赛为我们的比赛主题，这回，我们锁定全台国中生，要来看看中文最厉害的国中生在哪里？</desc>
-  </programme>
-  <programme start="20260204222500 +0000" stop="20260204232000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">你有书写障碍吗？你会提笔忘字吗？现在就和我们一起来领略中华文字之美！一字千金第四弹！国中校际赛正式登场！过去我们曾经以国小语文高手、校园风云榜、新新人类、成人赛为我们的比赛主题，这回，我们锁定全台国中生，要来看看中文最厉害的国中生在哪里？</desc>
-  </programme>
-  <programme start="20260204232000 +0000" stop="20260205001500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">你有书写障碍吗？你会提笔忘字吗？现在就和我们一起来领略中华文字之美！一字千金第四弹！国中校际赛正式登场！过去我们曾经以国小语文高手、校园风云榜、新新人类、成人赛为我们的比赛主题，这回，我们锁定全台国中生，要来看看中文最厉害的国中生在哪里？</desc>
-  </programme>
-  <programme start="20260205001500 +0000" stop="20260205011000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">你有书写障碍吗？你会提笔忘字吗？现在就和我们一起来领略中华文字之美！一字千金第四弹！国中校际赛正式登场！过去我们曾经以国小语文高手、校园风云榜、新新人类、成人赛为我们的比赛主题，这回，我们锁定全台国中生，要来看看中文最厉害的国中生在哪里？</desc>
-  </programme>
-  <programme start="20260205011000 +0000" stop="20260205020500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">你有书写障碍吗？你会提笔忘字吗？现在就和我们一起来领略中华文字之美！一字千金第四弹！国中校际赛正式登场！过去我们曾经以国小语文高手、校园风云榜、新新人类、成人赛为我们的比赛主题，这回，我们锁定全台国中生，要来看看中文最厉害的国中生在哪里？</desc>
-  </programme>
-  <programme start="20260205020500 +0000" stop="20260205030000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">你有书写障碍吗？你会提笔忘字吗？现在就和我们一起来领略中华文字之美！一字千金第四弹！国中校际赛正式登场！过去我们曾经以国小语文高手、校园风云榜、新新人类、成人赛为我们的比赛主题，这回，我们锁定全台国中生，要来看看中文最厉害的国中生在哪里？</desc>
-  </programme>
-  <programme start="20260205030000 +0000" stop="20260205035500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">你有书写障碍吗？你会提笔忘字吗？现在就和我们一起来领略中华文字之美！一字千金第四弹！国中校际赛正式登场！过去我们曾经以国小语文高手、校园风云榜、新新人类、成人赛为我们的比赛主题，这回，我们锁定全台国中生，要来看看中文最厉害的国中生在哪里？</desc>
-  </programme>
-  <programme start="20260205035500 +0000" stop="20260205045000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">你有书写障碍吗？你会提笔忘字吗？现在就和我们一起来领略中华文字之美！一字千金第四弹！国中校际赛正式登场！过去我们曾经以国小语文高手、校园风云榜、新新人类、成人赛为我们的比赛主题，这回，我们锁定全台国中生，要来看看中文最厉害的国中生在哪里？</desc>
-  </programme>
-  <programme start="20260205045000 +0000" stop="20260205054500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">你有书写障碍吗？你会提笔忘字吗？现在就和我们一起来领略中华文字之美！一字千金第四弹！国中校际赛正式登场！过去我们曾经以国小语文高手、校园风云榜、新新人类、成人赛为我们的比赛主题，这回，我们锁定全台国中生，要来看看中文最厉害的国中生在哪里？</desc>
-  </programme>
-  <programme start="20260205054500 +0000" stop="20260205064000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">每个人的心目中一定有一个难忘的老师，他可能是对你特别严格，可能是对你特别关心，或是他的教学方式扭转了你的成绩，让你对学业更有兴趣！这次我们邀请到八位老师，他们要成为同学的表率，接受最严格的考验！</desc>
-  </programme>
-  <programme start="20260205064000 +0000" stop="20260205073500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">台湾工时高居全球第三高，以劳基法规定，每日工时10小时以上，就属于疲劳族，其中又以大众传播业以每日工时10.66小时最长。以爆肝指数来看，其中餐饮业与大众传播业的员工，自认最爆肝，而健康状况则是大传与不动产从业人员，自认身体状况最差。看来看去，怎么每一个名单上都有大众传播业！</desc>
-  </programme>
-  <programme start="20260205073500 +0000" stop="20260205083000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">要了解某个文化，语言可以说是最好的工具。而翻译这项工作，可以说是开启两个文化中间那道门的钥匙。一个好的翻译，不只是两种语言之间单纯的转换，如果缺乏对文化的深切的理解，翻译难免会偏离原文所要传达的意思！今天就来了八位优秀的翻译工作者！要来挑战自己的中文能力！！</desc>
-  </programme>
-  <programme start="20260205083000 +0000" stop="20260205092500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">编剧是个消耗脑力的工作，更是个文字用量相当大的工作，创作本来就是一个孤独的工作，尽管许多戏的剧本都出自一个团体而不是一人编剧，但在写剧本时压力仍然很大，尤其遇到陌生的题材及角色时，要如何写的精准、掌握人物个性与心理更是一大挑战。最后当戏上演的时候，看到自己的文字真实的呈现，那种成就感是无法形容的！</desc>
-  </programme>
-  <programme start="20260205092500 +0000" stop="20260205101500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">一字千金播出以来，有好几百名的莘莘学子来到这个文字竞技场，更有数以万计的孩子们每个礼拜，都守在电视前面跟著我们一起体验中国文字之美，不过，在这背后还有一群关心孩子教育的家长，他们不仅陪著孩子一起看电视，甚至陪著孩子一起来参加比赛，当他们的啦啦队！</desc>
-  </programme>
-  <programme start="20260205101500 +0000" stop="20260205111000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">有一个广告是这样描述，一位盲人当街乞讨，旁边立一个牌子，上面写著「我看不见，请给我一点钱」，但发挥爱心的人很少，后来有一位女士经过，他重新写了几个字，结果经过的人纷纷慷慨解囊，上面到底写了什么呢？上面写著「这个世界多么美好，可惜我看不见！」所以说文字是可以打动人心的！</desc>
-  </programme>
-  <programme start="20260205111000 +0000" stop="20260205120000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">有一种人天天与文字为伍，但是他不是用写的，而是用打的！电视电影字幕需要听打人员、各种会议演讲纪录需要听打人员、许多听障服务也需要听打人员！一个优秀的听打人员，不只要听力好，打字要够快，更重要的是不能打错字！我们请来了八位听打人员！他们每天打字，应该是不太会打错字！</desc>
-  </programme>
-  <programme start="20260205120000 +0000" stop="20260205125500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">根据万事达卡国际组织调查显示，台湾人最爱吃！台湾民众最喜欢从事的休闲活动，排名第一的是吃美食，其次是上网及逛街购物。台湾人爱吃美食，当然会做美食的人更是不少！我们找来八位美食达人，有的是做中餐、有人擅长西餐、也有烘焙专家，不过这几位美食达人平常拿的是锅铲，可不是拿笔杆，相信今天绝对是一场严峻的考验！</desc>
-  </programme>
-  <programme start="20260205125500 +0000" stop="20260205135000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">电子时代来临，键盘几乎取代纸笔，不少人都快忘了如何写字。不过最近有一股「练字」的狂潮，网路上「晒字」的社团多不胜举，其中更有粉丝人数高达10万人，每天都有人将自己的「美字」拍照上网。今天我们找来十位写字高手，他们有人写毛笔、有人写硬笔、也有人写粉笔，但不知道等等的比赛，他们用触控笔写出来的字又会是甚么样子呢？</desc>
-  </programme>
-  <programme start="20260205135000 +0000" stop="20260205144000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">退休看起来像是一个阶段的结束，但更可以说是另一个人生的开始，大家都希望辛苦工作了大半辈子之后，可以过一个惬意又幸福的退休生活，有儿孙成群，有老友相伴！今天我们邀请到八位快乐的退休人员，本集平均年龄近60岁，年纪最高的长者已经75岁了！到底他们的中文能力如何呢？</desc>
-  </programme>
-  <programme start="20260205144000 +0000" stop="20260205153500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">有一句话说「有企划力，才有竞争力！」任何组织、商业模式一定都企划人员，企划的过程其实是不断的假设问题，然后解决问题，形成一个动态的循环。企划力就像是「企业行动的脑」，所以说培养企划人才是非常重要的。今天现场来了八位不同领域的企划人才！他们的行动力和执行力是不容置疑的。</desc>
-  </programme>
-  <programme start="20260205153500 +0000" stop="20260205163000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">人类历史告诉我们，许多伟大的人物往往是从败部中复活的。你看国父孙中山是经过十次革命才成功；司马迁在监狱中完成中国历史上极重要的《史记》。还有贾伯斯带领著苹果从谷底翻身！这些故事不仅激励我们，同时也告诉我们，一次的失败不算什么，只要我们努力，总有逆转胜的时候！</desc>
-  </programme>
-  <programme start="20260205163000 +0000" stop="20260205172500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">一字千金文字爱好者争霸战，经过了三个月赛程，近百位的选手中去芜存菁，最后有十一位周冠军与一位复活赛冠军，要来争夺荣耀的冠冕，这一季的选手来自四面八方，分别有老师、家长、翻译、自由撰稿人、编剧、电视人员、听打人员、 写字高手、 企划人员、退休人员、美食达人，相信他们已经做好了万全的准备！</desc>
-  </programme>
-  <programme start="20260205172500 +0000" stop="20260205182000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">每次节目播出，电视机前有很多的家长陪著孩子一起收看，跟著节目一起写字、做答，透过文字游戏增进感情！现在家长们要跟孩子一起站上这舞台迎接挑战！高手在民间，除了孩子们中文能力好之外，第一集邀请的亲子档，家长当年读书的时候也是个国语文高手，他们各个磨刀霍霍，准备大显身手了！</desc>
-  </programme>
-  <programme start="20260205182000 +0000" stop="20260205191500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">每次节目播出，电视机前有很多的家长陪著孩子一起收看，跟著节目一起写字、做答，透过文字游戏增进感情！现在家长们要跟孩子一起站上这舞台迎接挑战！今天的四组参赛者，他们的孩子都是文武双全的高手，不仅字音字形比赛拿下好成绩，在体育方面也有杰出表现！</desc>
-  </programme>
-  <programme start="20260205191500 +0000" stop="20260205200500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">铁粉亲子组来报到！每次节目播出，电视机前有很多的家长陪著孩子一起收看，跟著节目一起写字、做答，透过文字游戏增进感情！现在家长们要跟孩子一起站上这舞台迎接挑战！</desc>
-  </programme>
-  <programme start="20260205200500 +0000" stop="20260205205500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">前世情侣一起来挑战！每次节目播出，电视机前有很多的家长陪著孩子一起收看，跟著节目一起写字、做答，透过文字游戏增进感情！现在家长们要跟孩子一起站上这舞台迎接挑战！</desc>
-  </programme>
-  <programme start="20260205205500 +0000" stop="20260205214500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">一字千金是个益智类型的节目，考验大家对于传统汉字的认识，打从节目一开始，报名就相当踊跃，不管是学校还是家长，对于学生参加比赛都抱持鼓励的态度。参加各种比赛除了能证明自己的努力、跟厉害的对手切磋外，比赛赢了，可以获得实质的奖状奖金鼓励；即使输了，也是磨练自己面对失败挫折的免疫力。</desc>
-  </programme>
-  <programme start="20260205214500 +0000" stop="20260205223500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">现代社会中，口语表达和人际沟通是重要的能力之一。不管是面试、工作、和人沟通，似乎都和「说」脱不了关系。一个有表达能力与沟通技巧的人，较容易将自己推销出去，让更多人看到自己的长处优点，未来也具有较高的竞争力。</desc>
-  </programme>
-  <programme start="20260205223500 +0000" stop="20260205232500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">这场的参赛者组合跟之前不太一样，通常家长都是彬彬有礼、面带含蓄慈祥的笑容，但是！现场却显得有点吵杂、躁动不安….原来是有两组艺人亲子档组队来PK了！</desc>
-  </programme>
-  <programme start="20260205232500 +0000" stop="20260206001500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">不少人相信「学音乐的孩子不会变坏」！美国研究证实，学习音乐的孩子情绪比较稳定、专注力较高、焦虑感较低，出现犯罪行为的机率也相对较低。所以很多爸妈会让他们的孩子从小就接受音乐的薰陶。</desc>
-  </programme>
-  <programme start="20260206001500 +0000" stop="20260206010500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">在学校里走路有风、喊水会结冻、提起他的名字众所皆知的话，这人就叫做风云人物。想成为校园风云人物的方法有很多，有的人是学业成绩优异、有人是靠体育闯出名号、有人是社团表现活耀。现场来了四位「校园风云人物」跟他们的爸妈，到底谁能在这个文字的舞台上叱咤风云呢？</desc>
-  </programme>
-  <programme start="20260206010500 +0000" stop="20260206015500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">以前的年代，能在班上担任股长可是很威风的一件事，尤其是管理班级秩序的风纪股长，站上台眼神一瞄，同学们马上安静。现在国小里的干部有很多种，除了班长、副班长、风纪股长外，还衍生出了很多五花八门的股长，像是午餐长、门窗长等，如果一个班级学生人数不多，几乎可说是人人都是长。</desc>
-  </programme>
-  <programme start="20260206015500 +0000" stop="20260206024500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">第一场准决赛！经历了两个多月的比赛，今天要进行第一场的准决赛！经过抽签决定今天有5组参赛者先登上这文字竞技舞台，角逐2个总决赛的资格，强手过招！肯定好看！
-</desc>
-  </programme>
-  <programme start="20260206024500 +0000" stop="20260206033500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">这一季的亲子赛我们让孩子带著爸妈一起来挑战，有的爸妈是神助攻，有的爸妈是猪队友，共产生了10组周冠军要一起来角逐4个总决赛的资格。今天要进行第二场的准决赛，经过抽签决定今天有5组参赛者登上这文字竞技舞台！</desc>
-  </programme>
-  <programme start="20260206033500 +0000" stop="20260206042500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">经过三个月的角逐较劲，一字千金这一季亲子档比赛，在今天来到最终站，要进行最后的总决赛！经过前2集准决赛后，共有4组优秀的亲子档要来角逐最后的季冠军！到底谁会是最后的赢家呢？</desc>
-  </programme>
-  <programme start="20260206042500 +0000" stop="20260206052000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">又到毕业季求职潮的高峰期了！根据统计，今年有八成五大学毕业生打算投入职场，一成七已经找到工作，六成三打算出走海外。面对人生新的阶段，他们是充满期待？还是徬徨迷惘呢？这群刚抛开课本卸下学生身分的社会新鲜人，他们文字能力又是如何？</desc>
-  </programme>
-  <programme start="20260206052000 +0000" stop="20260206061500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">社群小编是近几年新兴的职业，一个厉害的小编，PO的文总能引起广大注意，让人愿意帮他转贴分享，他能利用逗趣简短的回复留言，打中粉丝的心，引起共鸣，这些在粉丝页上操作文字自如的藏镜人小编们，今天现原形了！他们不比按赞数，一起来比中文能力！</desc>
-  </programme>
-  <programme start="20260206061500 +0000" stop="20260206071000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">在过去「女神」指的是「女性神明」。在现在的网路用语中，女神指的是「喜欢却不见得可以追到手的美女」。今天我们就邀请了六位「女神」来到现场，上辈子烧好香，这辈子集三千宠爱于一身的她们，美貌与智慧是否同时兼具呢？让我们一起来见证她们的中文能力！</desc>
-  </programme>
-  <programme start="20260206071000 +0000" stop="20260206080500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">根据英国「外派探索调查」台湾是全球企业外派员工认为最佳的外派地点，感到满意的比例高达到 93%，荣登2017年的榜首！原因除了台湾人友善热情好客，日常生活便利外，医疗CP值根本爆表。在台湾看病是福气，但对医疗人员来说可就不是这么回事了。天天用英文写病历的他们，中文字还记得多少呢？</desc>
-  </programme>
-  <programme start="20260206080500 +0000" stop="20260206090000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">台湾大学是中华民国教育部遴选之11所顶尖国立研究型大学之一，为台湾第一所综合大学、也是台湾学生人数最多的高等教育学校，培养出众多学术界顶尖学者，包含台湾第一位诺贝尔奖得主李远哲博士，以及多位的正副元首、企业领导人，是台湾最具影响力的学校。身为台大人是不是真的特别有优越感？</desc>
-  </programme>
-  <programme start="20260206090000 +0000" stop="20260206095500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">梅竹赛是台湾的国立清华大学与交通大学之间，每年三月举办的校际竞赛，名称的由来是为了纪念清华前校长梅贻琦与交大前校长凌竹铭。民国58年举办至今已有49年历史。当初是因为两校校地位置相邻，学生人数相近，就读的科系性质亦相似，两校同学在生活、课业与活动的往来频繁，才促成的两校交流活动。</desc>
-  </programme>
-  <programme start="20260206095500 +0000" stop="20260206105000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">人，是怕危险的；但有一群人，他们的工作却是面对与化解危险。他们就是出生入死的打火英雄！根据网路温度计调查统计，让消防员最「心酸」的事第一名是人力不足(34.6%)，第二名是任务太杂(32.4%)，除了火灾外，车祸、溺水、自杀，山难、连救猫狗、捡钥匙、抓鬼、拍月历…都来！</desc>
-  </programme>
-  <programme start="20260206105000 +0000" stop="20260206114500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">俗话说：为母则强！女性在当上妈妈之后，就会从当初那位跟爸妈撒娇的娇滴滴女儿、被老公呵护的老婆，突然变身成为女超人！蟑螂？没在怕的！扛娃娃车上下楼梯？！一块小蛋糕！为了孩子，韧性超强、无所畏惧！中文对他们来说难道会是难题吗？！</desc>
-  </programme>
-  <programme start="20260206114500 +0000" stop="20260206124000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">随著国际地球村的时代来临，新住民人数已成为台湾地区的第五大族群，使得台湾文化呈现多元并立的面貌。根据教育部统计，国中、小新住民生的父母国籍，105学年比重最高的是越南籍占40.7%，排名第二的是中国大陆籍有39.3%，第三是印尼籍9.8%。移民台湾的生活开心吗？适应状况如何呢？</desc>
-  </programme>
-  <programme start="20260206124000 +0000" stop="20260206133500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">业务这个工作在职场上算是入门门槛比较低的职务，但要做的出色并不容易。一提到业务员，很多人直接联想就是西装笔挺、个性外向、舌灿莲花，但一个成功的业务员，只有这样可是不够的！今天现场来了6位金牌业务员，他们各个身经百战，没有无法达成的业绩。</desc>
-  </programme>
-  <programme start="20260206133500 +0000" stop="20260206143000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">早年，读中文系的女生气质空灵，男生浪漫多情！如果你在校园里看到有人捧著书在吟诗作对、谈古论今，几乎都是中文系的学生。但有人说现在中文系的学生，只有少数热爱中国文学，大多数抱著先入学再转系的打算。这究竟是事实还是谣言呢？今天现场来了6位中文系学生！</desc>
-  </programme>
-  <programme start="20260206143000 +0000" stop="20260206152500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">「长大后，你想做什么？」相信每个人小时候都曾经写过「我的志愿」这篇文章，而许多人的第一个志愿就是当老师！但是到底有多少人坚持到底，成为能传道、授业、解惑的老师呢？今天现场来了几位即将完成这个梦想的人，这六位未来老师即将在文字的舞台上一较高下！</desc>
-  </programme>
-  <programme start="20260206152500 +0000" stop="20260206162000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">第七季的一字千金主题设定为「全民中文总体检」，邀请了不同身份年纪的参赛者来参赛，每集节目让观众学到12个经常搞混的错字、联想同一个部首的字、借由16个不同部件拼出字的各种变化组合、练习15-20句四字成语跟词语，帮助很多人重温中文的记忆。经过了三个月的比赛，今天周冠军们齐聚一堂。</desc>
-  </programme>
-  <programme start="20260206162000 +0000" stop="20260206171500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">根据2015年一个调查统计指出，台湾人养狗比例达25%，而猫则为4%。也就是说，每三个人里面就有一个人有养狗或猫。宠物可爱的萌样与逗趣的行为，总是逗得饲主眉开眼笑，有不少饲主特别为宠物成立粉丝专页或是影音频道，吸引了众多粉丝。</desc>
-  </programme>
-  <programme start="20260206171500 +0000" stop="20260206181000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">在以前，你想要当歌手，唯一的方式就是唱片公司赏识你，为你出唱片，可是在现在这自媒体的时代，不管你是天生好歌喉、还是歌艺平平但自我感觉良好！不管你擅长抒情、摇滚、嘻哈、另类，想唱华语、英文、粤语、台语，都可以在网路世界高歌当歌手，只要有网友喜欢你，你就有机会一曲成名！</desc>
-  </programme>
-  <programme start="20260206181000 +0000" stop="20260206190500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">看电影最怕花了钱却挑到一部烂片，因此很多人看电影前都会上网爬爬文，听听影评人怎么说。近年来影评人如雨后春笋般冒出，过去的影评只有单纯的文字感想，现在的影评可说是五花八门，透过重新剪辑搭配具有个人特色的o.s，让网友们不只可以先睹为快，也可避免踩到地雷花了冤枉钱。</desc>
-  </programme>
-  <programme start="20260206190500 +0000" stop="20260206200000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">网路最受欢迎的影片除了开箱文、教学类的影片、游戏影片外，搞笑影片也是大家最爱浏览跟分享的。网路上有一票人他们有极高的表演欲，将生活中的经验趣事编写成搞笑的剧情演出，因为题材贴近生活，所以能引起广大的共鸣。</desc>
-  </programme>
-  <programme start="20260206200000 +0000" stop="20260206205500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">网路世界有一个新兴行业叫做「图文插画家」，他们发挥敏锐的观察力与想像力，用诙谐、嘲讽、有趣的图文来呈现日常琐事或时事，让网友们会心一笑，而这些让人产生共鸣的图文更是透过无远弗届的网路传送造成很大的效应。今天邀请了6位网路图文插画家用中文来一拚高下！</desc>
-  </programme>
-  <programme start="20260206205500 +0000" stop="20260206215000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">英国哲学家培根说过：「人有多少知识，就有多少力量。」一位优秀的主持人得有丰富的知识、敏锐的思维、准确的表达，才能在节目中表现得游刃有余。新媒体的窜起让很多人有机会一展身手，尤其直播平台更是进入战国时代，网路节目的主持人强调的是真实！是跟观众立即的互动！临场反应绝对要好！</desc>
-  </programme>
-  <programme start="20260206215000 +0000" stop="20260206224500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">老一辈的人想学做一道菜，除了打电话问人就是买食谱书回家自己研究；现在的人想学做一道菜，那可方便了，除了打开电视收看料理节目外，网路上一堆教人做菜的视频，让你随选随看，甚至还直播料理过程让你发问问题立即解答！</desc>
-  </programme>
-  <programme start="20260206224500 +0000" stop="20260206234000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">女性获取美妆、流行趋势的主要来源除了看杂志、浏览网站以外，还有「部落客」！举凡美妆、保养、发型、穿著打扮等，他们以神农尝百草的精神，替广大网友试用各种产品。你没时间逛街？你不知道该选甚么商品？跟著他们买就对了，任何跟时尚流行有关的疑难杂症通通可以交给他们解决！</desc>
-  </programme>
-  <programme start="20260206234000 +0000" stop="20260207003500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">自由行风气兴盛，很多人不喜欢跟团旅行，所以在规划旅游行程前就会做足功课，搜集各种情报，自己找便宜机票、爬文看网友旅游经验、参考他们的行程安排。不少旅游部落客根本就是另类导游！</desc>
-  </programme>
-  <programme start="20260207003500 +0000" stop="20260207013000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">以前所谓成功的演奏家，可能是要在国家音乐厅开场个人的演奏会，或是在一个公开的活动中演出，但是，现在在网路上，随时都可以举办你个人的演奏会，而且网路无远弗届，只要打开网路，就等于他参加了这场盛宴，你有可能只有一个听众，但也有可能同时有超过上万人在听你的演奏！</desc>
-  </programme>
-  <programme start="20260207013000 +0000" stop="20260207022500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">Youtuber是越来越多年轻人向往的行业，不仅可以得到知名度，还可以靠著点阅率赚钱，台湾现在当红的Youtuber，超过百万点阅的，大概都是25-35岁的七年级到八年级生，最近甚至还有几位超级年轻，还在念国中小学的Youtuber窜起！自媒体的时代人人都可以成名。</desc>
-  </programme>
-  <programme start="20260207022500 +0000" stop="20260207032000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">第八季的一字千金主题为「网路红人战」，邀请了很多在网路世界中的红人来参加比赛，有萌宠主人、有美妆部落客、有人气极高的直播主、有网路搞笑演员、网路主持人等。当时有人风光赢得冠军，有人就差那一步之遥，今天我们就让这些遗珠之憾，当时的第二名重新站上这舞台，争夺一个参与季冠军比赛的机会！</desc>
-  </programme>
-  <programme start="20260207032000 +0000" stop="20260207041500 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">经过了三个月的比赛，第八季「网路红人战」到今天进入最终战！借由这些在网路世界中的红人来参加比赛，透过他们粉丝页的分享推播，让更多网路族群有机会看到一字千金这个节目，让更多年轻人重新拾笔书写繁体中文，一起正视文字式微的问题。</desc>
-  </programme>
-  <programme start="20260207041500 +0000" stop="20260207051000 +0000" channel="一字千金">
-    <title lang="zh"/>
-    <desc lang="zh">一字千金自从2014年开播以来，历经了三年多的岁月，录制了130集总共产生了上百位的冠军，这些已经是文字高手的大魔王，到底谁强谁弱？很多人都很想看他们一较高下，这回我们特别安排了两场特别的魔王赛，集结了以往各集的好手，再次回到节目中一较高下。</desc>
   </programme>
   <programme start="20260131171500 +0000" stop="20260131185500 +0000" channel="11点热吵店">
     <title lang="zh"/>
@@ -602481,7 +601270,7 @@ HARUA「笑一笑就拿红包」王奕翔QQ了</desc>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260205080500 +0800" stop="20260205081500 +0800" channel="TV_Sarawak">
-    <title lang="zh">TVS Fillers</title>
+    <title lang="zh">Badminton Asia Team Championships Highlights</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260205081500 +0800" stop="20260205083000 +0800" channel="TV_Sarawak">
@@ -602509,7 +601298,7 @@ HARUA「笑一笑就拿红包」王奕翔QQ了</desc>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260205100500 +0800" stop="20260205101500 +0800" channel="TV_Sarawak">
-    <title lang="zh">TVS Music</title>
+    <title lang="zh">Badminton Asia Team Championships Highlights</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260205101500 +0800" stop="20260205104500 +0800" channel="TV_Sarawak">
@@ -609156,23 +607945,23 @@ HARUA「笑一笑就拿红包」王奕翔QQ了</desc>
     <title lang="zh">Updated Military Status Ep374</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205060300 +0800" stop="20260205063300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260205060300 +0800" stop="20260205063200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">The Great Era</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205063300 +0800" stop="20260205070300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260205063200 +0800" stop="20260205070200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Chief Editor's Time</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205070300 +0800" stop="20260205080000 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260205070200 +0800" stop="20260205075900 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Morning Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205080000 +0800" stop="20260205080300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260205075900 +0800" stop="20260205080200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205080300 +0800" stop="20260205090000 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260205080200 +0800" stop="20260205090000 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Morning Express</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -609180,19 +607969,19 @@ HARUA「笑一笑就拿红包」王奕翔QQ了</desc>
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205090300 +0800" stop="20260205093300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260205090300 +0800" stop="20260205093200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">From Phoenix to the World</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205093300 +0800" stop="20260205100300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260205093200 +0800" stop="20260205100200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Panorama</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205100300 +0800" stop="20260205110000 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260205100200 +0800" stop="20260205105900 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205110000 +0800" stop="20260205110300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260205105900 +0800" stop="20260205110300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -609204,19 +607993,19 @@ HARUA「笑一笑就拿红包」王奕翔QQ了</desc>
     <title lang="zh">Summary of Press</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205120300 +0800" stop="20260205125800 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260205120300 +0800" stop="20260205125700 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Midday Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205125800 +0800" stop="20260205130300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260205125700 +0800" stop="20260205130200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205130300 +0800" stop="20260205133300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260205130200 +0800" stop="20260205133200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Chief Editor's Time</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205133300 +0800" stop="20260205140300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260205133200 +0800" stop="20260205140300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">GBA Discovery Ep156</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -609228,11 +608017,11 @@ HARUA「笑一笑就拿红包」王奕翔QQ了</desc>
     <title lang="zh">Phoenix Panorama</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205150300 +0800" stop="20260205160000 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260205150300 +0800" stop="20260205155900 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205160000 +0800" stop="20260205160300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260205155900 +0800" stop="20260205160300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -609256,23 +608045,23 @@ HARUA「笑一笑就拿红包」王奕翔QQ了</desc>
     <title lang="zh">Summary of Press</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205180300 +0800" stop="20260205183000 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260205180300 +0800" stop="20260205182900 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Focus</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205183000 +0800" stop="20260205183300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260205182900 +0800" stop="20260205183200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205183300 +0800" stop="20260205190300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260205183200 +0800" stop="20260205190200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">News Talk</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205190300 +0800" stop="20260205193300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260205190200 +0800" stop="20260205193200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Asian Financial Insight</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205193300 +0800" stop="20260205200300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260205193200 +0800" stop="20260205200300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Chief Editor's Time</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -609284,19 +608073,19 @@ HARUA「笑一笑就拿红包」王奕翔QQ了</desc>
     <title lang="zh">Talk With World Leaders</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205210300 +0800" stop="20260205215800 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260205210300 +0800" stop="20260205215700 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Evening Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205215800 +0800" stop="20260205220300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260205215700 +0800" stop="20260205220200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205220300 +0800" stop="20260205223300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260205220200 +0800" stop="20260205223200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Zoom in</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205223300 +0800" stop="20260205230300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260205223200 +0800" stop="20260205230300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">From Phoenix to the World</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -609620,79 +608409,79 @@ HARUA「笑一笑就拿红包」王奕翔QQ了</desc>
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205053200 +0800" stop="20260205060300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260205053200 +0800" stop="20260205060200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News Talk</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205060300 +0800" stop="20260205063000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260205060200 +0800" stop="20260205063000 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205063000 +0800" stop="20260205063300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260205063000 +0800" stop="20260205063200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205063300 +0800" stop="20260205070300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260205063200 +0800" stop="20260205070200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Zoom in</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205070300 +0800" stop="20260205080000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260205070200 +0800" stop="20260205075900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Morning Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205080000 +0800" stop="20260205080300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260205075900 +0800" stop="20260205080200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205080300 +0800" stop="20260205090000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260205080200 +0800" stop="20260205085900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Morning Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205090000 +0800" stop="20260205090300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260205085900 +0800" stop="20260205090200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205090300 +0800" stop="20260205093000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260205090200 +0800" stop="20260205092900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205093000 +0800" stop="20260205093300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260205092900 +0800" stop="20260205093200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205093300 +0800" stop="20260205100300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260205093200 +0800" stop="20260205100200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Financial Journal</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205100300 +0800" stop="20260205110000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260205100200 +0800" stop="20260205105800 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205110000 +0800" stop="20260205110300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260205105800 +0800" stop="20260205110200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205110300 +0800" stop="20260205113000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260205110200 +0800" stop="20260205113000 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205113000 +0800" stop="20260205113300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260205113000 +0800" stop="20260205113200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205113300 +0800" stop="20260205120300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260205113200 +0800" stop="20260205120300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Chief Editor's Time</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205120300 +0800" stop="20260205125800 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260205120300 +0800" stop="20260205125700 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Midday Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205125800 +0800" stop="20260205130300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260205125700 +0800" stop="20260205130200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205130300 +0800" stop="20260205133000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260205130200 +0800" stop="20260205133000 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -609700,47 +608489,47 @@ HARUA「笑一笑就拿红包」王奕翔QQ了</desc>
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205133300 +0800" stop="20260205140300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260205133300 +0800" stop="20260205140200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Financial Journal</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205140300 +0800" stop="20260205143000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260205140200 +0800" stop="20260205142900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205143000 +0800" stop="20260205143300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260205142900 +0800" stop="20260205143200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205143300 +0800" stop="20260205150300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260205143200 +0800" stop="20260205150200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Chief Editor's Time</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205150300 +0800" stop="20260205160000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260205150200 +0800" stop="20260205155800 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205160000 +0800" stop="20260205160300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260205155800 +0800" stop="20260205160200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205160300 +0800" stop="20260205170000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260205160200 +0800" stop="20260205165900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205170000 +0800" stop="20260205170300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260205165900 +0800" stop="20260205170200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205170300 +0800" stop="20260205173000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260205170200 +0800" stop="20260205172900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205173000 +0800" stop="20260205173300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260205172900 +0800" stop="20260205173200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205173300 +0800" stop="20260205180300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260205173200 +0800" stop="20260205180300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Financial Journal</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -609748,19 +608537,19 @@ HARUA「笑一笑就拿红包」王奕翔QQ了</desc>
     <title lang="zh">Phoenix Focus</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205183000 +0800" stop="20260205183300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260205183000 +0800" stop="20260205183200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205183300 +0800" stop="20260205190300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260205183200 +0800" stop="20260205190300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News Talk</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205190300 +0800" stop="20260205200000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260205190300 +0800" stop="20260205195900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">China News Live</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205200000 +0800" stop="20260205200300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260205195900 +0800" stop="20260205200300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -609776,19 +608565,19 @@ HARUA「笑一笑就拿红包」王奕翔QQ了</desc>
     <title lang="zh">Phoenix Financial Daily Report</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205210300 +0800" stop="20260205215800 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260205210300 +0800" stop="20260205215700 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Evening Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205215800 +0800" stop="20260205220300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260205215700 +0800" stop="20260205220300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205220300 +0800" stop="20260205223300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260205220300 +0800" stop="20260205223200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Chief Editor's Time</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205223300 +0800" stop="20260205230300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260205223200 +0800" stop="20260205230300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News Talk</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -609796,7 +608585,7 @@ HARUA「笑一笑就拿红包」王奕翔QQ了</desc>
     <title lang="zh">Phoenix Focus</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205233000 +0800" stop="20260205233300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260205233000 +0800" stop="20260205233200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -627804,7 +626593,11 @@ HARUA「笑一笑就拿红包」王奕翔QQ了</desc>
     <title lang="zh">(L) ITTF ATTU Asian Cup: D2: Day Session</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260205143000 +0800" stop="20260205180000 +0800" channel="Astro_Sports_Plus">
+  <programme start="20260205143000 +0800" stop="20260205150000 +0800" channel="Astro_Sports_Plus">
+    <title lang="zh">WDSC: El Salvador: Open Skate</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260205150000 +0800" stop="20260205180000 +0800" channel="Astro_Sports_Plus">
     <title lang="zh">ITTF ATTU Asian Cup: D1: Day Session</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -669849,7 +668642,7 @@ HARUA「笑一笑就拿红包」王奕翔QQ了</desc>
     <desc lang="zh"/>
   </programme>
   <programme start="20260205000500 +0000" stop="20260205001500 +0000" channel="tvs">
-    <title lang="zh">TVS Fillers-Season 1</title>
+    <title lang="zh">Badminton Asia Team Championships Highlights-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260205001500 +0000" stop="20260205003000 +0000" channel="tvs">
@@ -669877,7 +668670,7 @@ HARUA「笑一笑就拿红包」王奕翔QQ了</desc>
     <desc lang="zh"/>
   </programme>
   <programme start="20260205020500 +0000" stop="20260205021500 +0000" channel="tvs">
-    <title lang="zh">TVS Music-Season 1</title>
+    <title lang="zh">Badminton Asia Team Championships Highlights-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260205021500 +0000" stop="20260205024500 +0000" channel="tvs">
@@ -670569,7 +669362,7 @@ HARUA「笑一笑就拿红包」王奕翔QQ了</desc>
     <desc lang="zh"/>
   </programme>
   <programme start="20260205000500 +0000" stop="20260205001500 +0000" channel="tvs">
-    <title lang="zh">TVS Fillers-Season 1</title>
+    <title lang="zh">Badminton Asia Team Championships Highlights-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260205001500 +0000" stop="20260205003000 +0000" channel="tvs">
@@ -670597,7 +669390,7 @@ HARUA「笑一笑就拿红包」王奕翔QQ了</desc>
     <desc lang="zh"/>
   </programme>
   <programme start="20260205020500 +0000" stop="20260205021500 +0000" channel="tvs">
-    <title lang="zh">TVS Music-Season 1</title>
+    <title lang="zh">Badminton Asia Team Championships Highlights-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260205021500 +0000" stop="20260205024500 +0000" channel="tvs">
@@ -671401,7 +670194,7 @@ HARUA「笑一笑就拿红包」王奕翔QQ了</desc>
     <desc lang="zh"/>
   </programme>
   <programme start="20260205000500 +0000" stop="20260205001500 +0000" channel="tvs">
-    <title lang="zh">TVS Fillers-Season 1</title>
+    <title lang="zh">Badminton Asia Team Championships Highlights-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260205001500 +0000" stop="20260205003000 +0000" channel="tvs">
@@ -671429,7 +670222,7 @@ HARUA「笑一笑就拿红包」王奕翔QQ了</desc>
     <desc lang="zh"/>
   </programme>
   <programme start="20260205020500 +0000" stop="20260205021500 +0000" channel="tvs">
-    <title lang="zh">TVS Music-Season 1</title>
+    <title lang="zh">Badminton Asia Team Championships Highlights-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260205021500 +0000" stop="20260205024500 +0000" channel="tvs">
@@ -672401,7 +671194,7 @@ HARUA「笑一笑就拿红包」王奕翔QQ了</desc>
     <desc lang="zh"/>
   </programme>
   <programme start="20260205000500 +0000" stop="20260205001500 +0000" channel="tvs">
-    <title lang="zh">TVS Fillers-Season 1</title>
+    <title lang="zh">Badminton Asia Team Championships Highlights-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260205001500 +0000" stop="20260205003000 +0000" channel="tvs">
@@ -672429,7 +671222,7 @@ HARUA「笑一笑就拿红包」王奕翔QQ了</desc>
     <desc lang="zh"/>
   </programme>
   <programme start="20260205020500 +0000" stop="20260205021500 +0000" channel="tvs">
-    <title lang="zh">TVS Music-Season 1</title>
+    <title lang="zh">Badminton Asia Team Championships Highlights-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260205021500 +0000" stop="20260205024500 +0000" channel="tvs">
@@ -673513,7 +672306,7 @@ HARUA「笑一笑就拿红包」王奕翔QQ了</desc>
     <desc lang="zh"/>
   </programme>
   <programme start="20260205000500 +0000" stop="20260205001500 +0000" channel="tvs">
-    <title lang="zh">TVS Fillers-Season 1</title>
+    <title lang="zh">Badminton Asia Team Championships Highlights-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260205001500 +0000" stop="20260205003000 +0000" channel="tvs">
@@ -673541,7 +672334,7 @@ HARUA「笑一笑就拿红包」王奕翔QQ了</desc>
     <desc lang="zh"/>
   </programme>
   <programme start="20260205020500 +0000" stop="20260205021500 +0000" channel="tvs">
-    <title lang="zh">TVS Music-Season 1</title>
+    <title lang="zh">Badminton Asia Team Championships Highlights-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260205021500 +0000" stop="20260205024500 +0000" channel="tvs">
@@ -674797,7 +673590,7 @@ HARUA「笑一笑就拿红包」王奕翔QQ了</desc>
     <desc lang="zh"/>
   </programme>
   <programme start="20260205000500 +0000" stop="20260205001500 +0000" channel="tvs">
-    <title lang="zh">TVS Fillers-Season 1</title>
+    <title lang="zh">Badminton Asia Team Championships Highlights-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260205001500 +0000" stop="20260205003000 +0000" channel="tvs">
@@ -674825,7 +673618,7 @@ HARUA「笑一笑就拿红包」王奕翔QQ了</desc>
     <desc lang="zh"/>
   </programme>
   <programme start="20260205020500 +0000" stop="20260205021500 +0000" channel="tvs">
-    <title lang="zh">TVS Music-Season 1</title>
+    <title lang="zh">Badminton Asia Team Championships Highlights-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260205021500 +0000" stop="20260205024500 +0000" channel="tvs">
@@ -676401,7 +675194,7 @@ HARUA「笑一笑就拿红包」王奕翔QQ了</desc>
     <desc lang="zh"/>
   </programme>
   <programme start="20260205000500 +0000" stop="20260205001500 +0000" channel="tvs">
-    <title lang="zh">TVS Fillers-Season 1</title>
+    <title lang="zh">Badminton Asia Team Championships Highlights-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260205001500 +0000" stop="20260205003000 +0000" channel="tvs">
@@ -676429,7 +675222,7 @@ HARUA「笑一笑就拿红包」王奕翔QQ了</desc>
     <desc lang="zh"/>
   </programme>
   <programme start="20260205020500 +0000" stop="20260205021500 +0000" channel="tvs">
-    <title lang="zh">TVS Music-Season 1</title>
+    <title lang="zh">Badminton Asia Team Championships Highlights-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260205021500 +0000" stop="20260205024500 +0000" channel="tvs">
@@ -678205,7 +676998,7 @@ HARUA「笑一笑就拿红包」王奕翔QQ了</desc>
     <desc lang="zh"/>
   </programme>
   <programme start="20260205000500 +0000" stop="20260205001500 +0000" channel="tvs">
-    <title lang="zh">TVS Fillers-Season 1</title>
+    <title lang="zh">Badminton Asia Team Championships Highlights-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260205001500 +0000" stop="20260205003000 +0000" channel="tvs">
@@ -678233,7 +677026,7 @@ HARUA「笑一笑就拿红包」王奕翔QQ了</desc>
     <desc lang="zh"/>
   </programme>
   <programme start="20260205020500 +0000" stop="20260205021500 +0000" channel="tvs">
-    <title lang="zh">TVS Music-Season 1</title>
+    <title lang="zh">Badminton Asia Team Championships Highlights-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260205021500 +0000" stop="20260205024500 +0000" channel="tvs">
