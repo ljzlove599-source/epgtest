@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260205020000 +0800" stop="20260205030000 +0800" channel="mbc action">
-    <title lang="en">بودكاست ملح الدوري</title>
-  </programme>
   <programme start="20260205030000 +0800" stop="20260205043000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
@@ -86,9 +83,6 @@
   </programme>
   <programme start="20260206043000 +0800" stop="20260206053000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
-  </programme>
-  <programme start="20260205023500 +0800" stop="20260205030500 +0800" channel="mbc max">
-    <title lang="en">برنامج Planet Action</title>
   </programme>
   <programme start="20260205030500 +0800" stop="20260205050000 +0800" channel="mbc max">
     <title lang="en">Copshop</title>
@@ -183,6 +177,9 @@
   <programme start="20260207103000 +0800" stop="20260207123000 +0800" channel="mbc max">
     <title lang="en">Mr. Right</title>
   </programme>
+  <programme start="20260207123000 +0800" stop="20260207140000 +0800" channel="mbc max">
+    <title lang="en">The Losers</title>
+  </programme>
   <programme start="20260205020000 +0800" stop="20260205040000 +0800" channel="mbc 2">
     <title lang="en">Mamma Mia!</title>
   </programme>
@@ -272,5 +269,8 @@
   </programme>
   <programme start="20260207103000 +0800" stop="20260207123000 +0800" channel="mbc 2">
     <title lang="en">Non-Stop</title>
+  </programme>
+  <programme start="20260207123000 +0800" stop="20260207143000 +0800" channel="mbc 2">
+    <title lang="en">Panic Room</title>
   </programme>
 </tv>
