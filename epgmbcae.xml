@@ -9,17 +9,11 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260206013000 +0800" stop="20260206030000 +0800" channel="mbc action">
-    <title lang="en">بودكاست ملح الدوري</title>
-  </programme>
   <programme start="20260206030000 +0800" stop="20260206043000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
   <programme start="20260206043000 +0800" stop="20260206053000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
-  </programme>
-  <programme start="20260206010000 +0800" stop="20260206030000 +0800" channel="mbc max">
-    <title lang="en">The Boss</title>
   </programme>
   <programme start="20260206030000 +0800" stop="20260206050000 +0800" channel="mbc max">
     <title lang="en">Mr. Right</title>
@@ -108,6 +102,9 @@
   <programme start="20260208110000 +0800" stop="20260208123000 +0800" channel="mbc max">
     <title lang="en">A Bad Moms Christmas</title>
   </programme>
+  <programme start="20260208123000 +0800" stop="20260208140000 +0800" channel="mbc max">
+    <title lang="en">Hancock</title>
+  </programme>
   <programme start="20260206020000 +0800" stop="20260206040000 +0800" channel="mbc 2">
     <title lang="en">Proud Mary</title>
   </programme>
@@ -188,5 +185,8 @@
   </programme>
   <programme start="20260208103000 +0800" stop="20260208123000 +0800" channel="mbc 2">
     <title lang="en">The Adjustment Bureau</title>
+  </programme>
+  <programme start="20260208123000 +0800" stop="20260208140000 +0800" channel="mbc 2">
+    <title lang="en">The Darkest Hour</title>
   </programme>
 </tv>
