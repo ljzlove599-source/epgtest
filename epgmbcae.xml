@@ -9,12 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260205190000 +0800" stop="20260205200000 +0800" channel="mbc action">
-    <title lang="en">One Piece</title>
-  </programme>
-  <programme start="20260205200000 +0800" stop="20260205210000 +0800" channel="mbc action">
-    <title lang="en">برنامج Accelerate</title>
-  </programme>
   <programme start="20260205210000 +0800" stop="20260205220000 +0800" channel="mbc action">
     <title lang="en">برنامج the inside line</title>
   </programme>
@@ -38,9 +32,6 @@
   </programme>
   <programme start="20260206043000 +0800" stop="20260206053000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
-  </programme>
-  <programme start="20260205190000 +0800" stop="20260205210000 +0800" channel="mbc max">
-    <title lang="en">Copshop</title>
   </programme>
   <programme start="20260205210000 +0800" stop="20260205230000 +0800" channel="mbc max">
     <title lang="en">The Losers</title>
@@ -129,9 +120,6 @@
   <programme start="20260208050000 +0800" stop="20260208073000 +0800" channel="mbc max">
     <title lang="en">Blade Runner 2049</title>
   </programme>
-  <programme start="20260205183000 +0800" stop="20260205203000 +0800" channel="mbc 2">
-    <title lang="en">Mamma Mia!</title>
-  </programme>
   <programme start="20260205203000 +0800" stop="20260205220000 +0800" channel="mbc 2">
     <title lang="en">Abominable</title>
   </programme>
@@ -212,5 +200,8 @@
   </programme>
   <programme start="20260208040000 +0800" stop="20260208060000 +0800" channel="mbc 2">
     <title lang="en">Night School</title>
+  </programme>
+  <programme start="20260208060000 +0800" stop="20260208083000 +0800" channel="mbc 2">
+    <title lang="en">The Upside</title>
   </programme>
 </tv>
