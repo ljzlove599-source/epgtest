@@ -9,12 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260205063000 +0800" stop="20260205070000 +0800" channel="mbc action">
-    <title lang="en">One Piece</title>
-  </programme>
-  <programme start="20260205070000 +0800" stop="20260205080000 +0800" channel="mbc action">
-    <title lang="en">برنامج action bodcast</title>
-  </programme>
   <programme start="20260205080000 +0800" stop="20260205090000 +0800" channel="mbc action">
     <title lang="en">بودكاست ملح الدوري</title>
   </programme>
@@ -74,12 +68,6 @@
   </programme>
   <programme start="20260206043000 +0800" stop="20260206053000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
-  </programme>
-  <programme start="20260205063500 +0800" stop="20260205070000 +0800" channel="mbc max">
-    <title lang="en">برنامج Celebrity Scoop Season 9</title>
-  </programme>
-  <programme start="20260205070000 +0800" stop="20260205083000 +0800" channel="mbc max">
-    <title lang="en">Hotel Transylvania 2</title>
   </programme>
   <programme start="20260205083000 +0800" stop="20260205100000 +0800" channel="mbc max">
     <title lang="en">Walk of Shame</title>
@@ -168,8 +156,8 @@
   <programme start="20260207140000 +0800" stop="20260207170000 +0800" channel="mbc max">
     <title lang="en">The Hunger Games: Catching Fire</title>
   </programme>
-  <programme start="20260205060000 +0800" stop="20260205075000 +0800" channel="mbc 2">
-    <title lang="en">Second Act</title>
+  <programme start="20260207170000 +0800" stop="20260207190000 +0800" channel="mbc max">
+    <title lang="en">Hancock</title>
   </programme>
   <programme start="20260205075000 +0800" stop="20260205095500 +0800" channel="mbc 2">
     <title lang="en">Roman J Israel, Esq.</title>
@@ -257,5 +245,8 @@
   </programme>
   <programme start="20260207143000 +0800" stop="20260207170000 +0800" channel="mbc 2">
     <title lang="en">Battleship</title>
+  </programme>
+  <programme start="20260207170000 +0800" stop="20260207200000 +0800" channel="mbc 2">
+    <title lang="en">Dune</title>
   </programme>
 </tv>
