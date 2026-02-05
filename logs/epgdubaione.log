@@ -1,77 +1,13 @@
-页面 1 日期: Feb 5, 2026, 节目数量: 16
-页面 2 日期: Feb 6, 2026, 节目数量: 16
-页面 3 日期: Feb 7, 2026, 节目数量: 15
-页面 4 日期: Feb 8, 2026, 节目数量: 18
+页面 1 日期: Feb 6, 2026, 节目数量: 16
+页面 2 日期: Feb 7, 2026, 节目数量: 15
+页面 3 日期: Feb 8, 2026, 节目数量: 18
+页面 4 日期: Feb 9, 2026, 节目数量: 18
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "http://api.torrent-tv.ru/xmltv.dtd">
 <tv generator-info-name="http://192.168.10.1/system/opt/" generator-info-url="QQ">
   <channel id="Dubai One">
     <display-name lang="en">Dubai One</display-name>
   </channel>
-  <programme start="20260205003000 +0400" stop="20260205023000 +0400" channel="Dubai One">
-    <title lang="en">High Crimes</title>
-    <desc lang="en">Everything you trust. Everything you know. May be a lie..</desc>
-  </programme>
-  <programme start="20260205023000 +0400" stop="20260205030000 +0400" channel="Dubai One">
-    <title lang="en">Emirates News Emirates News</title>
-    <desc lang="en">Be the First to Know.</desc>
-  </programme>
-  <programme start="20260205030000 +0400" stop="20260205040000 +0400" channel="Dubai One">
-    <title lang="en">Las hijas de la Señora García</title>
-    <desc lang="en">Mrs. Garcia strives to achieve her dream at cost of her daughters' happiness.</desc>
-  </programme>
-  <programme start="20260205040000 +0400" stop="20260205060000 +0400" channel="Dubai One">
-    <title lang="en">Bad Moms</title>
-    <desc lang="en">Party Like a Mother</desc>
-  </programme>
-  <programme start="20260205060000 +0400" stop="20260205100000 +0400" channel="Dubai One">
-    <title lang="en">Dubai Eye On Dubai One</title>
-    <desc lang="en">Magazine show featuring news and current affairs</desc>
-  </programme>
-  <programme start="20260205100000 +0400" stop="20260205110000 +0400" channel="Dubai One">
-    <title lang="en">Las hijas de la Señora García</title>
-    <desc lang="en">Mrs. Garcia strives to achieve her dream at cost of her daughters' happiness.</desc>
-  </programme>
-  <programme start="20260205110000 +0400" stop="20260205130000 +0400" channel="Dubai One">
-    <title lang="en">The Family</title>
-    <desc lang="en">Some call it organized crime. Others call it family.</desc>
-  </programme>
-  <programme start="20260205130000 +0400" stop="20260205150000 +0400" channel="Dubai One">
-    <title lang="en">Bad Moms</title>
-    <desc lang="en">Party Like a Mother</desc>
-  </programme>
-  <programme start="20260205150000 +0400" stop="20260205160000 +0400" channel="Dubai One">
-    <title lang="en">DXB Today</title>
-    <desc lang="en">Your guide to what's happening in Dubai!</desc>
-  </programme>
-  <programme start="20260205160000 +0400" stop="20260205170000 +0400" channel="Dubai One">
-    <title lang="en">Las hijas de la Señora García</title>
-    <desc lang="en">Mrs. Garcia strives to achieve her dream at cost of her daughters' happiness.</desc>
-  </programme>
-  <programme start="20260205170000 +0400" stop="20260205190000 +0400" channel="Dubai One">
-    <title lang="en">High Crimes</title>
-    <desc lang="en">Everything you trust. Everything you know. May be a lie..</desc>
-  </programme>
-  <programme start="20260205190000 +0400" stop="20260205200000 +0400" channel="Dubai One">
-    <title lang="en">Maxima</title>
-    <desc lang="en">Máxima Zorreguieta steps into the spotlight beside the Dutch crown prince.</desc>
-  </programme>
-  <programme start="20260205200000 +0400" stop="20260205203000 +0400" channel="Dubai One">
-    <title lang="en">Emirates News Emirates News</title>
-    <desc lang="en">Be the First to Know.</desc>
-  </programme>
-  <programme start="20260205203000 +0400" stop="20260205213000 +0400" channel="Dubai One">
-    <title lang="en">DXB Today</title>
-    <desc lang="en">Your guide to what's happening in Dubai!</desc>
-  </programme>
-  <programme start="20260205213000 +0400" stop="20260205223000 +0400" channel="Dubai One">
-    <title lang="en">Las hijas de la Señora García</title>
-    <desc lang="en">Mrs. Garcia strives to achieve her dream at cost of her daughters' happiness.</desc>
-  </programme>
-  <programme start="20260205223000 +0400" stop="20260206003000 +0400" channel="Dubai One">
-    <title lang="en">21 Bridges</title>
-    <desc lang="en">Chadwick Boseman</desc>
-  </programme>
   <programme start="20260206003000 +0400" stop="20260206023000 +0400" channel="Dubai One">
     <title lang="en">Acts Of Vengeance</title>
     <desc lang="en">Action Speaks Louder Than Words</desc>
@@ -263,8 +199,79 @@
     <title lang="en">Prelude of Revenge</title>
     <desc lang="en">Two friends bound by a traumatic past experience!</desc>
   </programme>
-  <programme start="20260208220000 +0400" stop="20260202000000 +0400" channel="Dubai One">
+  <programme start="20260208220000 +0400" stop="20260209000000 +0400" channel="Dubai One">
     <title lang="en">Made in Italy</title>
     <desc lang="en">The past is set in stone, but the future is a blank canvas.</desc>
+  </programme>
+  <programme start="20260209000000 +0400" stop="20260209020000 +0400" channel="Dubai One">
+    <title lang="en">Rocks</title>
+    <desc lang="en">Rocks is suddenly on her own with a child to take care of!</desc>
+  </programme>
+  <programme start="20260209020000 +0400" stop="20260209023000 +0400" channel="Dubai One">
+    <title lang="en">Hollywood News Feed</title>
+    <desc lang="en">Hottest entertainment news of the week!</desc>
+  </programme>
+  <programme start="20260209023000 +0400" stop="20260209030000 +0400" channel="Dubai One">
+    <title lang="en">Hollywood on Set</title>
+    <desc lang="en">The making of blockbuster movies</desc>
+  </programme>
+  <programme start="20260209030000 +0400" stop="20260209040000 +0400" channel="Dubai One">
+    <title lang="en">Prelude of Revenge</title>
+    <desc lang="en">Two friends bound by a traumatic past experience!</desc>
+  </programme>
+  <programme start="20260209040000 +0400" stop="20260209060000 +0400" channel="Dubai One">
+    <title lang="en">Made in Italy</title>
+    <desc lang="en">The past is set in stone, but the future is a blank canvas.</desc>
+  </programme>
+  <programme start="20260209060000 +0400" stop="20260209100000 +0400" channel="Dubai One">
+    <title lang="en">Dubai Eye On Dubai One</title>
+    <desc lang="en">Magazine show featuring news and current affairs</desc>
+  </programme>
+  <programme start="20260209100000 +0400" stop="20260209110000 +0400" channel="Dubai One">
+    <title lang="en">Las hijas de la Señora García</title>
+    <desc lang="en">Mrs. Garcia strives to achieve her dream at cost of her daughters' happiness.</desc>
+  </programme>
+  <programme start="20260209110000 +0400" stop="20260209130000 +0400" channel="Dubai One">
+    <title lang="en">Courted ( L'hermine )</title>
+    <desc lang="en">Follow his heart or rule with his head.</desc>
+  </programme>
+  <programme start="20260209130000 +0400" stop="20260209150000 +0400" channel="Dubai One">
+    <title lang="en">Made in Italy</title>
+    <desc lang="en">The past is set in stone, but the future is a blank canvas.</desc>
+  </programme>
+  <programme start="20260209150000 +0400" stop="20260209160000 +0400" channel="Dubai One">
+    <title lang="en">DXB Today</title>
+    <desc lang="en">Your guide to what's happening in Dubai!</desc>
+  </programme>
+  <programme start="20260209160000 +0400" stop="20260209170000 +0400" channel="Dubai One">
+    <title lang="en">Las hijas de la Señora García</title>
+    <desc lang="en">Mrs. Garcia strives to achieve her dream at cost of her daughters' happiness.</desc>
+  </programme>
+  <programme start="20260209170000 +0400" stop="20260209190000 +0400" channel="Dubai One">
+    <title lang="en">Rocks</title>
+    <desc lang="en">Rocks is suddenly on her own with a child to take care of!</desc>
+  </programme>
+  <programme start="20260209190000 +0400" stop="20260209193000 +0400" channel="Dubai One">
+    <title lang="en">Hollywood on Set</title>
+    <desc lang="en">The making of blockbuster movies</desc>
+  </programme>
+  <programme start="20260209193000 +0400" stop="20260209200000 +0400" channel="Dubai One">
+    <title lang="en">City of Summits</title>
+  </programme>
+  <programme start="20260209200000 +0400" stop="20260209203000 +0400" channel="Dubai One">
+    <title lang="en">Emirates News Emirates News</title>
+    <desc lang="en">Be the First to Know.</desc>
+  </programme>
+  <programme start="20260209203000 +0400" stop="20260209213000 +0400" channel="Dubai One">
+    <title lang="en">DXB Today</title>
+    <desc lang="en">Your guide to what's happening in Dubai!</desc>
+  </programme>
+  <programme start="20260209213000 +0400" stop="20260209223000 +0400" channel="Dubai One">
+    <title lang="en">Las hijas de la Señora García</title>
+    <desc lang="en">Mrs. Garcia strives to achieve her dream at cost of her daughters' happiness.</desc>
+  </programme>
+  <programme start="20260209223000 +0400" stop="20260202000000 +0400" channel="Dubai One">
+    <title lang="en">Benediction</title>
+    <desc lang="en">Love is never still</desc>
   </programme>
 </tv>
