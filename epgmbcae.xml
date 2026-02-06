@@ -9,12 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260206083000 +0800" stop="20260206093500 +0800" channel="mbc action">
-    <title lang="en">One Piece</title>
-  </programme>
-  <programme start="20260206093500 +0800" stop="20260206104000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-  </programme>
   <programme start="20260206104000 +0800" stop="20260206120000 +0800" channel="mbc action">
     <title lang="en">برنامج the clip show</title>
   </programme>
@@ -174,11 +168,17 @@
   <programme start="20260208173000 +0800" stop="20260208190000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
-  <programme start="20260206070000 +0800" stop="20260206090000 +0800" channel="mbc max">
-    <title lang="en">Bad Samaritan</title>
+  <programme start="20260208190000 +0800" stop="20260208193000 +0800" channel="mbc action">
+    <title lang="en">برنامج bricks&amp;brain</title>
   </programme>
-  <programme start="20260206090000 +0800" stop="20260206110000 +0800" channel="mbc max">
-    <title lang="en">Above Suspicion</title>
+  <programme start="20260208193000 +0800" stop="20260208200000 +0800" channel="mbc action">
+    <title lang="en">برنامج Sports Quest</title>
+  </programme>
+  <programme start="20260208200000 +0800" stop="20260208210000 +0800" channel="mbc action">
+    <title lang="en">One Piece</title>
+  </programme>
+  <programme start="20260208210000 +0800" stop="20260208213000 +0800" channel="mbc action">
+    <title lang="en">Action Ma' Waleed</title>
   </programme>
   <programme start="20260206110000 +0800" stop="20260206130000 +0800" channel="mbc max">
     <title lang="en">Colombiana</title>
@@ -264,8 +264,11 @@
   <programme start="20260208163000 +0800" stop="20260208183000 +0800" channel="mbc max">
     <title lang="en">Gold</title>
   </programme>
-  <programme start="20260206083000 +0800" stop="20260206103000 +0800" channel="mbc 2">
-    <title lang="en">The Conjuring: The Devil Made Me Do It</title>
+  <programme start="20260208183000 +0800" stop="20260208210000 +0800" channel="mbc max">
+    <title lang="en">The Girl in the Spider's Web</title>
+  </programme>
+  <programme start="20260208210000 +0800" stop="20260208230000 +0800" channel="mbc max">
+    <title lang="en">Winter's Bone</title>
   </programme>
   <programme start="20260206103000 +0800" stop="20260206123000 +0800" channel="mbc 2">
     <title lang="en">The Emoji Movie</title>
@@ -347,5 +350,8 @@
   </programme>
   <programme start="20260208180000 +0800" stop="20260208200000 +0800" channel="mbc 2">
     <title lang="en">Grown Ups</title>
+  </programme>
+  <programme start="20260208200000 +0800" stop="20260208223000 +0800" channel="mbc 2">
+    <title lang="en">The Upside</title>
   </programme>
 </tv>
