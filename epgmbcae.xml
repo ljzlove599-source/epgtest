@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260207082500 +0800" stop="20260207103000 +0800" channel="mbc action">
-    <title lang="en">الدوري الألماني</title>
-  </programme>
   <programme start="20260207103000 +0800" stop="20260207120000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
@@ -180,8 +177,11 @@
   <programme start="20260209173000 +0800" stop="20260209190000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
-  <programme start="20260207083000 +0800" stop="20260207103000 +0800" channel="mbc max">
-    <title lang="en">Get Him to the Greek</title>
+  <programme start="20260209190000 +0800" stop="20260209200000 +0800" channel="mbc action">
+    <title lang="en">Ridiculousness</title>
+  </programme>
+  <programme start="20260209200000 +0800" stop="20260209213000 +0800" channel="mbc action">
+    <title lang="en">Action Ma' Waleed</title>
   </programme>
   <programme start="20260207103000 +0800" stop="20260207123000 +0800" channel="mbc max">
     <title lang="en">Mr. Right</title>
@@ -248,9 +248,6 @@
   </programme>
   <programme start="20260209053000 +0800" stop="20260209073000 +0800" channel="mbc max">
     <title lang="en">Buried</title>
-  </programme>
-  <programme start="20260207083000 +0800" stop="20260207103000 +0800" channel="mbc 2">
-    <title lang="en">John Wick: Chapter 2</title>
   </programme>
   <programme start="20260207103000 +0800" stop="20260207123000 +0800" channel="mbc 2">
     <title lang="en">Non-Stop</title>
