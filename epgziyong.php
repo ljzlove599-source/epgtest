@@ -10,8 +10,8 @@ $xmlFiles = [
     './epgdiyicaijing.xml',
     './epgnewshanghai.xml',
     './epgkai1.xml',
+    './epganywhere.xml',  
     './epglifetv.xml',
-    './epganywhere.xml',  // 这个文件有XML格式问题
     './epgmytvsuper.xml',
     './epg4gtv2.xml', 
     './epgmacocable.xml',
