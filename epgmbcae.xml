@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260208193000 +0800" stop="20260208200000 +0800" channel="mbc action">
-    <title lang="en">برنامج Sports Quest</title>
-  </programme>
   <programme start="20260208200000 +0800" stop="20260208210000 +0800" channel="mbc action">
     <title lang="en">One Piece</title>
   </programme>
@@ -183,6 +180,9 @@
   <programme start="20260211040000 +0800" stop="20260211053000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
+  <programme start="20260211053000 +0800" stop="20260211063000 +0800" channel="mbc action">
+    <title lang="en">برنامج Accelerate</title>
+  </programme>
   <programme start="20260208183000 +0800" stop="20260208210000 +0800" channel="mbc max">
     <title lang="en">The Girl in the Spider's Web</title>
   </programme>
@@ -306,8 +306,8 @@
   <programme start="20260211050000 +0800" stop="20260211053000 +0800" channel="mbc max">
     <title lang="en">برنامج World Of Movies</title>
   </programme>
-  <programme start="20260208180000 +0800" stop="20260208200000 +0800" channel="mbc 2">
-    <title lang="en">Grown Ups</title>
+  <programme start="20260211053000 +0800" stop="20260211080000 +0800" channel="mbc max">
+    <title lang="en">Jurassic World: Dominion</title>
   </programme>
   <programme start="20260208200000 +0800" stop="20260208223000 +0800" channel="mbc 2">
     <title lang="en">The Upside</title>
@@ -425,5 +425,8 @@
   </programme>
   <programme start="20260211040000 +0800" stop="20260211060500 +0800" channel="mbc 2">
     <title lang="en">The Little Things</title>
+  </programme>
+  <programme start="20260211060500 +0800" stop="20260211063000 +0800" channel="mbc 2">
+    <title lang="en">برنامج Celebrity Scoop Season 9</title>
   </programme>
 </tv>
