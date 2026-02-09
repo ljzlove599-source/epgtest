@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260210023000 +0800" stop="20260210040000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-  </programme>
   <programme start="20260210040000 +0800" stop="20260210050000 +0800" channel="mbc action">
     <title lang="en">برنامج action bodcast</title>
   </programme>
@@ -186,8 +183,11 @@
   <programme start="20260212120000 +0800" stop="20260212130000 +0800" channel="mbc action">
     <title lang="en">بودكاست ملح الدوري</title>
   </programme>
-  <programme start="20260210025500 +0800" stop="20260210043000 +0800" channel="mbc max">
-    <title lang="en">Vacation</title>
+  <programme start="20260212130000 +0800" stop="20260212140000 +0800" channel="mbc action">
+    <title lang="en">برنامج action bodcast</title>
+  </programme>
+  <programme start="20260212140000 +0800" stop="20260212153000 +0800" channel="mbc action">
+    <title lang="en">Action Ma' Waleed</title>
   </programme>
   <programme start="20260210043000 +0800" stop="20260210050000 +0800" channel="mbc max">
     <title lang="en">Action Zone</title>
@@ -306,11 +306,8 @@
   <programme start="20260212113500 +0800" stop="20260212140000 +0800" channel="mbc max">
     <title lang="en">Hulk</title>
   </programme>
-  <programme start="20260210020000 +0800" stop="20260210034000 +0800" channel="mbc 2">
-    <title lang="en">Righteous Kill</title>
-  </programme>
-  <programme start="20260210034000 +0800" stop="20260210040500 +0800" channel="mbc 2">
-    <title lang="en">Action Zone</title>
+  <programme start="20260212140000 +0800" stop="20260212160000 +0800" channel="mbc max">
+    <title lang="en">Rescue Dawn</title>
   </programme>
   <programme start="20260210040500 +0800" stop="20260210060000 +0800" channel="mbc 2">
     <title lang="en">Memory</title>
@@ -425,5 +422,8 @@
   </programme>
   <programme start="20260212120000 +0800" stop="20260212135500 +0800" channel="mbc 2">
     <title lang="en">High Crimes</title>
+  </programme>
+  <programme start="20260212135500 +0800" stop="20260212153000 +0800" channel="mbc 2">
+    <title lang="en">Nerve</title>
   </programme>
 </tv>
