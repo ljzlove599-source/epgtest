@@ -129,7 +129,8 @@ function generate_xml($epg_data) {
 }
 
 // Main execution
-$url = 'https://lifetvprogramme.weebly.com/';
+//$url = 'https://lifetvprogramme.weebly.com/';
+$url = 'https://lifetvprogramme.weebly.com/2--9--2--15-316803044634920.html/';
 $html = fetch_html($url);
 if ($html) {
     $epg_data = parse_epg($html);
