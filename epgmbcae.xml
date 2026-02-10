@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260210050000 +0800" stop="20260210060000 +0800" channel="mbc action">
-    <title lang="en">برنامج cars &amp; stars</title>
-  </programme>
   <programme start="20260210060000 +0800" stop="20260210073000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
@@ -186,8 +183,8 @@
   <programme start="20260212140000 +0800" stop="20260212153000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
-  <programme start="20260210050000 +0800" stop="20260210062500 +0800" channel="mbc max">
-    <title lang="en">Neighbors</title>
+  <programme start="20260212153000 +0800" stop="20260212163000 +0800" channel="mbc action">
+    <title lang="en">برنامج Accelerate</title>
   </programme>
   <programme start="20260210062500 +0800" stop="20260210070000 +0800" channel="mbc max">
     <title lang="en">برنامج Making The Movies Season 6</title>
@@ -303,8 +300,8 @@
   <programme start="20260212140000 +0800" stop="20260212160000 +0800" channel="mbc max">
     <title lang="en">Rescue Dawn</title>
   </programme>
-  <programme start="20260210040500 +0800" stop="20260210060000 +0800" channel="mbc 2">
-    <title lang="en">Memory</title>
+  <programme start="20260212160000 +0800" stop="20260212180000 +0800" channel="mbc max">
+    <title lang="en">Jurassic World: Fallen Kingdom</title>
   </programme>
   <programme start="20260210060000 +0800" stop="20260210074000 +0800" channel="mbc 2">
     <title lang="en">The Doorman</title>
@@ -419,5 +416,8 @@
   </programme>
   <programme start="20260212135500 +0800" stop="20260212153000 +0800" channel="mbc 2">
     <title lang="en">Nerve</title>
+  </programme>
+  <programme start="20260212153000 +0800" stop="20260212170000 +0800" channel="mbc 2">
+    <title lang="en">Minions</title>
   </programme>
 </tv>
