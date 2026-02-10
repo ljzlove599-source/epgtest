@@ -9,15 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260210060000 +0800" stop="20260210073000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-  </programme>
-  <programme start="20260210073000 +0800" stop="20260210083000 +0800" channel="mbc action">
-    <title lang="en">برنامج get  out a life with bear gryls</title>
-  </programme>
-  <programme start="20260210083000 +0800" stop="20260210093000 +0800" channel="mbc action">
-    <title lang="en">One Piece</title>
-  </programme>
   <programme start="20260210093000 +0800" stop="20260210110000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
@@ -186,11 +177,14 @@
   <programme start="20260212153000 +0800" stop="20260212163000 +0800" channel="mbc action">
     <title lang="en">برنامج Accelerate</title>
   </programme>
-  <programme start="20260210062500 +0800" stop="20260210070000 +0800" channel="mbc max">
-    <title lang="en">برنامج Making The Movies Season 6</title>
+  <programme start="20260212163000 +0800" stop="20260212173000 +0800" channel="mbc action">
+    <title lang="en">One Piece</title>
   </programme>
-  <programme start="20260210070000 +0800" stop="20260210085500 +0800" channel="mbc max">
-    <title lang="en">Winter's Bone</title>
+  <programme start="20260212173000 +0800" stop="20260212190000 +0800" channel="mbc action">
+    <title lang="en">Action Ma' Waleed</title>
+  </programme>
+  <programme start="20260212190000 +0800" stop="20260212200000 +0800" channel="mbc action">
+    <title lang="en">برنامج american ninja warrior</title>
   </programme>
   <programme start="20260210085500 +0800" stop="20260210113000 +0800" channel="mbc max">
     <title lang="en">The Revenant</title>
@@ -303,11 +297,8 @@
   <programme start="20260212160000 +0800" stop="20260212180000 +0800" channel="mbc max">
     <title lang="en">Jurassic World: Fallen Kingdom</title>
   </programme>
-  <programme start="20260210060000 +0800" stop="20260210074000 +0800" channel="mbc 2">
-    <title lang="en">The Doorman</title>
-  </programme>
-  <programme start="20260210074000 +0800" stop="20260210080500 +0800" channel="mbc 2">
-    <title lang="en">برنامج Making The Movies 6</title>
+  <programme start="20260212180000 +0800" stop="20260212200000 +0800" channel="mbc max">
+    <title lang="en">12 Strong</title>
   </programme>
   <programme start="20260210080500 +0800" stop="20260210101000 +0800" channel="mbc 2">
     <title lang="en">فيلم وثائقي Roadrunner: A Film About Anthony Bourdain</title>
@@ -419,5 +410,8 @@
   </programme>
   <programme start="20260212153000 +0800" stop="20260212170000 +0800" channel="mbc 2">
     <title lang="en">Minions</title>
+  </programme>
+  <programme start="20260212170000 +0800" stop="20260212193000 +0800" channel="mbc 2">
+    <title lang="en">Captain Phillips</title>
   </programme>
 </tv>
