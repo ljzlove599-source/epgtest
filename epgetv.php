@@ -189,5 +189,8 @@ class EttvScraper {
 
 // --- 執行爬蟲 ---
 $scraper = new EttvScraper();
-$scraper->run();
+$xmlContent=$scraper->run();
+
+file_put_contents('epgetv.xml', $xmlContent);
+
 ?>
