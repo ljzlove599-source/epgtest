@@ -9,12 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260211103000 +0800" stop="20260211120000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-  </programme>
-  <programme start="20260211120000 +0800" stop="20260211130000 +0800" channel="mbc action">
-    <title lang="en">بودكاست ملح الدوري</title>
-  </programme>
   <programme start="20260211130000 +0800" stop="20260211140000 +0800" channel="mbc action">
     <title lang="en">برنامج action bodcast</title>
   </programme>
@@ -67,7 +61,7 @@
     <title lang="en">ابرز لقطات الدوري</title>
   </programme>
   <programme start="20260212063000 +0800" stop="20260212073000 +0800" channel="mbc action">
-    <title lang="en">الخميس</title>
+    <title lang="en">برنامج  Adrenaline</title>
   </programme>
   <programme start="20260212073000 +0800" stop="20260212080000 +0800" channel="mbc action">
     <title lang="en">One Piece</title>
@@ -134,12 +128,6 @@
   </programme>
   <programme start="20260213053000 +0800" stop="20260213063000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
-  </programme>
-  <programme start="20260211103000 +0800" stop="20260211120000 +0800" channel="mbc max">
-    <title lang="en">Neighbors</title>
-  </programme>
-  <programme start="20260211120000 +0800" stop="20260211123000 +0800" channel="mbc max">
-    <title lang="en">Action Zone</title>
   </programme>
   <programme start="20260211123000 +0800" stop="20260211140000 +0800" channel="mbc max">
     <title lang="en">Alvin and the Chipmunks</title>
@@ -240,8 +228,8 @@
   <programme start="20260213210000 +0800" stop="20260213230000 +0800" channel="mbc max">
     <title lang="en">Mortal Engines</title>
   </programme>
-  <programme start="20260211115500 +0800" stop="20260211135000 +0800" channel="mbc 2">
-    <title lang="en">Bad Lieutenant: Port of Call New Orleans</title>
+  <programme start="20260213230000 +0800" stop="20260214010000 +0800" channel="mbc max">
+    <title lang="en">Alpha</title>
   </programme>
   <programme start="20260211135000 +0800" stop="20260211154500 +0800" channel="mbc 2">
     <title lang="en">3 Days to Kill</title>
@@ -341,5 +329,8 @@
   </programme>
   <programme start="20260213200000 +0800" stop="20260213220000 +0800" channel="mbc 2">
     <title lang="en">One Day</title>
+  </programme>
+  <programme start="20260213220000 +0800" stop="20260213233000 +0800" channel="mbc 2">
+    <title lang="en">Taken 2</title>
   </programme>
 </tv>
