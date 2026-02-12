@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260212210000 +0800" stop="20260212220000 +0800" channel="mbc action">
-    <title lang="en">برنامج Accelerate</title>
-  </programme>
   <programme start="20260212220000 +0800" stop="20260212230000 +0800" channel="mbc action">
     <title lang="en">برنامج the inside line</title>
   </programme>
@@ -35,9 +32,6 @@
   </programme>
   <programme start="20260213053000 +0800" stop="20260213063000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
-  </programme>
-  <programme start="20260212200000 +0800" stop="20260212223000 +0800" channel="mbc max">
-    <title lang="en">Miss Sloane</title>
   </programme>
   <programme start="20260212223000 +0800" stop="20260213010000 +0800" channel="mbc max">
     <title lang="en">All the Money in the World</title>
@@ -236,5 +230,8 @@
   </programme>
   <programme start="20260215060000 +0800" stop="20260215080000 +0800" channel="mbc 2">
     <title lang="en">Blended</title>
+  </programme>
+  <programme start="20260215080000 +0800" stop="20260215083000 +0800" channel="mbc 2">
+    <title lang="en">برنامج Celebrity Scoop Season 9</title>
   </programme>
 </tv>
