@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260213120000 +0800" stop="20260213130000 +0800" channel="mbc action">
-    <title lang="en">One Piece</title>
-  </programme>
   <programme start="20260213130000 +0800" stop="20260213140000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
   </programme>
@@ -180,6 +177,9 @@
   <programme start="20260215213000 +0800" stop="20260215223000 +0800" channel="mbc action">
     <title lang="en">برنامج The Ride Life With Sung Kang</title>
   </programme>
+  <programme start="20260215223000 +0800" stop="20260215233000 +0800" channel="mbc action">
+    <title lang="en">برنامج cars &amp; stars </title>
+  </programme>
   <programme start="20260213120000 +0800" stop="20260213140000 +0800" channel="mbc max">
     <title lang="en">The Water Diviner</title>
   </programme>
@@ -279,8 +279,11 @@
   <programme start="20260215203000 +0800" stop="20260215223500 +0800" channel="mbc max">
     <title lang="en">Jerry Maguire</title>
   </programme>
-  <programme start="20260213120000 +0800" stop="20260213130000 +0800" channel="mbc 2">
-    <title lang="en">Space Jam: A New Legacy</title>
+  <programme start="20260215223500 +0800" stop="20260215230000 +0800" channel="mbc max">
+    <title lang="en">برنامج Planet Action</title>
+  </programme>
+  <programme start="20260215230000 +0800" stop="20260216003000 +0800" channel="mbc max">
+    <title lang="en">Boogie</title>
   </programme>
   <programme start="20260213130000 +0800" stop="20260213153000 +0800" channel="mbc 2">
     <title lang="en">Moonrise Kingdom</title>
