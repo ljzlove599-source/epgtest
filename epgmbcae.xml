@@ -9,15 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260215200000 +0800" stop="20260215210000 +0800" channel="mbc action">
-    <title lang="en">One Piece</title>
-  </programme>
-  <programme start="20260215210000 +0800" stop="20260215213000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-  </programme>
-  <programme start="20260215213000 +0800" stop="20260215223000 +0800" channel="mbc action">
-    <title lang="en">برنامج The Ride Life With Sung Kang</title>
-  </programme>
   <programme start="20260215223000 +0800" stop="20260215233000 +0800" channel="mbc action">
     <title lang="en">برنامج cars &amp; stars </title>
   </programme>
@@ -183,8 +174,14 @@
   <programme start="20260218053000 +0800" stop="20260218063000 +0800" channel="mbc action">
     <title lang="en">برنامج Accelerate</title>
   </programme>
-  <programme start="20260215203000 +0800" stop="20260215223500 +0800" channel="mbc max">
-    <title lang="en">Jerry Maguire</title>
+  <programme start="20260218063000 +0800" stop="20260218073000 +0800" channel="mbc action">
+    <title lang="en">برنامج american ninja warrior</title>
+  </programme>
+  <programme start="20260218073000 +0800" stop="20260218080000 +0800" channel="mbc action">
+    <title lang="en">One Piece</title>
+  </programme>
+  <programme start="20260218080000 +0800" stop="20260218090000 +0800" channel="mbc action">
+    <title lang="en">برنامج action bodcast</title>
   </programme>
   <programme start="20260215223500 +0800" stop="20260215230000 +0800" channel="mbc max">
     <title lang="en">برنامج Planet Action</title>
@@ -291,8 +288,8 @@
   <programme start="20260218053000 +0800" stop="20260218073000 +0800" channel="mbc max">
     <title lang="en">Baby Driver</title>
   </programme>
-  <programme start="20260215200000 +0800" stop="20260215220000 +0800" channel="mbc 2">
-    <title lang="en">Blended</title>
+  <programme start="20260218073000 +0800" stop="20260218093000 +0800" channel="mbc max">
+    <title lang="en">Ender's Game</title>
   </programme>
   <programme start="20260215220000 +0800" stop="20260215233000 +0800" channel="mbc 2">
     <title lang="en">Alice, Darling</title>
@@ -416,5 +413,8 @@
   </programme>
   <programme start="20260218062500 +0800" stop="20260218080500 +0800" channel="mbc 2">
     <title lang="en">Vengeance: A Love Story</title>
+  </programme>
+  <programme start="20260218080500 +0800" stop="20260218083000 +0800" channel="mbc 2">
+    <title lang="en">Films &amp; Stars</title>
   </programme>
 </tv>
