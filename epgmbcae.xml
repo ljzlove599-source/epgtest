@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260216213000 +0800" stop="20260216223000 +0800" channel="mbc action">
-    <title lang="en">برنامج The Ride Life With Sung Kang</title>
-  </programme>
   <programme start="20260216223000 +0800" stop="20260216233000 +0800" channel="mbc action">
     <title lang="en">برنامج cars &amp; stars</title>
   </programme>
@@ -186,8 +183,11 @@
   <programme start="20260219063000 +0800" stop="20260219073000 +0800" channel="mbc action">
     <title lang="en">الخميس</title>
   </programme>
-  <programme start="20260216203000 +0800" stop="20260216222500 +0800" channel="mbc max">
-    <title lang="en">The Green Hornet</title>
+  <programme start="20260219073000 +0800" stop="20260219080000 +0800" channel="mbc action">
+    <title lang="en">One Piece</title>
+  </programme>
+  <programme start="20260219080000 +0800" stop="20260219090000 +0800" channel="mbc action">
+    <title lang="en">برنامج action bodcast</title>
   </programme>
   <programme start="20260216222500 +0800" stop="20260217003500 +0800" channel="mbc max">
     <title lang="en">Ready Player One</title>
@@ -296,6 +296,9 @@
   </programme>
   <programme start="20260219050000 +0800" stop="20260219073000 +0800" channel="mbc max">
     <title lang="en">The Great Gatsby</title>
+  </programme>
+  <programme start="20260219073000 +0800" stop="20260219090500 +0800" channel="mbc max">
+    <title lang="en">Limitless</title>
   </programme>
   <programme start="20260216213500 +0800" stop="20260216233000 +0800" channel="mbc 2">
     <title lang="en">Charlie's Angels</title>
@@ -422,5 +425,8 @@
   </programme>
   <programme start="20260219063000 +0800" stop="20260219082500 +0800" channel="mbc 2">
     <title lang="en">47 Ronin</title>
+  </programme>
+  <programme start="20260219082500 +0800" stop="20260219103500 +0800" channel="mbc 2">
+    <title lang="en">The Equalizer</title>
   </programme>
 </tv>
