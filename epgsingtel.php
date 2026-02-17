@@ -339,7 +339,7 @@ if (empty($allPrograms)) {
 // 生成 XML
 header('Content-Type: application/xml; charset=utf-8');
  $chn='<?xml version="1.0" encoding="UTF-8"?>' . "\n";
-$chn.= '<tv generator-info-name="Singtel EPG ' . implode('-', $dates) . '">' . "\n";
+$chn.= '<tv generator-info-name="Singtel EPG ">' . "\n";
 
 // 先输出所有唯一频道
 foreach (array_keys($allChannels) as $channelId) {
@@ -388,5 +388,5 @@ foreach ($allPrograms as $channelId => $programs) {
 
 $chn.= '</tv>' . "\n";
 
-file_put_contents('epgstarhub.xml', $chn);
+file_put_contents('epgsingtel.xml', $chn);
 ?>
