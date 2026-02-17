@@ -9,15 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260217120000 +0800" stop="20260217130000 +0800" channel="mbc action">
-    <title lang="en">One Piece</title>
-  </programme>
-  <programme start="20260217130000 +0800" stop="20260217140000 +0800" channel="mbc action">
-    <title lang="en">ascend برنامج</title>
-  </programme>
-  <programme start="20260217140000 +0800" stop="20260217143000 +0800" channel="mbc action">
-    <title lang="en">برنامج the inside line</title>
-  </programme>
   <programme start="20260217143000 +0800" stop="20260217150000 +0800" channel="mbc action">
     <title lang="en">برنامج the football review</title>
   </programme>
@@ -189,8 +180,11 @@
   <programme start="20260219220000 +0800" stop="20260219230000 +0800" channel="mbc action">
     <title lang="en">برنامج the inside line</title>
   </programme>
-  <programme start="20260217110000 +0800" stop="20260217133000 +0800" channel="mbc max">
-    <title lang="en">King Richard</title>
+  <programme start="20260219230000 +0800" stop="20260220000000 +0800" channel="mbc action">
+    <title lang="en">Ridiculousness</title>
+  </programme>
+  <programme start="20260220000000 +0800" stop="20260220010000 +0800" channel="mbc action">
+    <title lang="en">برنامج american ninja warrior</title>
   </programme>
   <programme start="20260217133000 +0800" stop="20260217152500 +0800" channel="mbc max">
     <title lang="en">Ender's Game</title>
@@ -297,11 +291,8 @@
   <programme start="20260219203000 +0800" stop="20260219223000 +0800" channel="mbc max">
     <title lang="en">Reservation Road</title>
   </programme>
-  <programme start="20260217124500 +0800" stop="20260217131000 +0800" channel="mbc 2">
-    <title lang="en">Action Zone</title>
-  </programme>
-  <programme start="20260217131000 +0800" stop="20260217143500 +0800" channel="mbc 2">
-    <title lang="en">Alice, Darling</title>
+  <programme start="20260219223000 +0800" stop="20260220003000 +0800" channel="mbc max">
+    <title lang="en">Layer Cake</title>
   </programme>
   <programme start="20260217143500 +0800" stop="20260217161500 +0800" channel="mbc 2">
     <title lang="en">Charlie's Angels</title>
@@ -425,5 +416,8 @@
   </programme>
   <programme start="20260219213000 +0800" stop="20260220000000 +0800" channel="mbc 2">
     <title lang="en">Speed</title>
+  </programme>
+  <programme start="20260220000000 +0800" stop="20260220020000 +0800" channel="mbc 2">
+    <title lang="en">Wanted</title>
   </programme>
 </tv>
