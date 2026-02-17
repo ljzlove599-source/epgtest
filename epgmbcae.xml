@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260217050000 +0800" stop="20260217060000 +0800" channel="mbc action">
-    <title lang="en">برنامج cars &amp; stars</title>
-  </programme>
   <programme start="20260217060000 +0800" stop="20260217073000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
@@ -186,6 +183,9 @@
   <programme start="20260219140000 +0800" stop="20260219153000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
+  <programme start="20260219153000 +0800" stop="20260219163000 +0800" channel="mbc action">
+    <title lang="en">برنامج Accelerate</title>
+  </programme>
   <programme start="20260217050000 +0800" stop="20260217070000 +0800" channel="mbc max">
     <title lang="en">Resident Evil: Welcome to Raccoon City</title>
   </programme>
@@ -296,9 +296,6 @@
   </programme>
   <programme start="20260219140000 +0800" stop="20260219163000 +0800" channel="mbc max">
     <title lang="en">Downton Abbey</title>
-  </programme>
-  <programme start="20260217040000 +0800" stop="20260217063000 +0800" channel="mbc 2">
-    <title lang="en">Spider-Man: No Way Home</title>
   </programme>
   <programme start="20260217063000 +0800" stop="20260217083500 +0800" channel="mbc 2">
     <title lang="en">Jupiter Ascending</title>
@@ -425,5 +422,8 @@
   </programme>
   <programme start="20260219133500 +0800" stop="20260219153000 +0800" channel="mbc 2">
     <title lang="en">The Huntsman: Winter's War</title>
+  </programme>
+  <programme start="20260219153000 +0800" stop="20260219170000 +0800" channel="mbc 2">
+    <title lang="en">The Addams Family</title>
   </programme>
 </tv>
