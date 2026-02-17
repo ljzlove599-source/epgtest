@@ -21,6 +21,7 @@ $xmlFiles = [
     './epgnewguangdong.xml',
      './epgastro.xml',
      './epgmncvision.xml',
+    './epgsingtel.xml',
      './epgunifi.xml'
  ];
 
