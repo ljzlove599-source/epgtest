@@ -344,7 +344,7 @@ echo '<tv generator-info-name="Singtel EPG ' . implode('-', $dates) . '">' . "\n
 // 先输出所有唯一频道
 foreach (array_keys($allChannels) as $channelId) {
     $displayName = $channelMap[$channelId] ?? $channelId;
-    echo '  <channel id="' . htmlspecialchars($channelId) . '">' . "\n";
+    echo '  <channel id="' . htmlspecialchars($displayName) . '">' . "\n";
     echo '    <display-name lang="en">' . htmlspecialchars($displayName) . '</display-name>' . "\n";
     echo '  </channel>' . "\n";
 }
