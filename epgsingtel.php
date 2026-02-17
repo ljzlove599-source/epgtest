@@ -377,10 +377,10 @@ foreach ($allPrograms as $channelId => $programs) {
              $chn.='<desc lang="en">' . htmlspecialchars($desc) . '</desc>' . "\n";
         }
         if (!empty($category)) {
-            $chn. '<category lang="en">' . htmlspecialchars($category) . '</category>' . "\n";
+            $chn.= '<category lang="en">' . htmlspecialchars($category) . '</category>' . "\n";
         }
         if (!empty($subCategory)) {
-            $chn. '<category lang="en">' . htmlspecialchars($subCategory) . '</category>' . "\n";
+            $chn.= '<category lang="en">' . htmlspecialchars($subCategory) . '</category>' . "\n";
         }
         $chn.= '</programme>'. "\n";
     }
