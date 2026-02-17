@@ -338,15 +338,15 @@ if (empty($allPrograms)) {
 
 // 生成 XML
 header('Content-Type: application/xml; charset=utf-8');
-echo '<?xml version="1.0" encoding="UTF-8"?>' . "\n";
-echo '<tv generator-info-name="Singtel EPG ' . implode('-', $dates) . '">' . "\n";
+ $chn='<?xml version="1.0" encoding="UTF-8"?>' . "\n";
+$chn.= '<tv generator-info-name="Singtel EPG ' . implode('-', $dates) . '">' . "\n";
 
 // 先输出所有唯一频道
 foreach (array_keys($allChannels) as $channelId) {
     $displayName = $channelMap[$channelId] ?? $channelId;
-    echo '  <channel id="' . htmlspecialchars($displayName) . '">' . "\n";
-    echo '    <display-name lang="en">' . htmlspecialchars($displayName) . '</display-name>' . "\n";
-    echo '  </channel>' . "\n";
+    $chn.= '<channel id="' . htmlspecialchars($displayName) . '">' . "\n";
+    $chn.= '<display-name lang="en">' . htmlspecialchars($displayName) . '</display-name>' . "\n";
+    $chn.= '</channel>' . "\n";
 }
 
 // 然后输出所有节目（按频道和起始时间排序）
@@ -371,20 +371,22 @@ foreach ($allPrograms as $channelId => $programs) {
         $category = $program['program']['category'] ?? '';
         $subCategory = $program['program']['subCategory'] ?? '';
 
-        echo '  <programme start="' . $startXml . '" stop="' . $stopXml . '" channel="' . htmlspecialchars($displayName) . '">' . "\n";
-        echo '    <title lang="en">' . htmlspecialchars($title) . '</title>' . "\n";
+        $chn.= '  <programme start="' . $startXml . '" stop="' . $stopXml . '" channel="' . htmlspecialchars($displayName) . '">' . "\n";
+        $chn.= '    <title lang="en">' . htmlspecialchars($title) . '</title>' . "\n";
         if (!empty($desc)) {
-            echo '    <desc lang="en">' . htmlspecialchars($desc) . '</desc>' . "\n";
+             $chn.='<desc lang="en">' . htmlspecialchars($desc) . '</desc>' . "\n";
         }
         if (!empty($category)) {
-            echo '    <category lang="en">' . htmlspecialchars($category) . '</category>' . "\n";
+            $chn. '<category lang="en">' . htmlspecialchars($category) . '</category>' . "\n";
         }
         if (!empty($subCategory)) {
-            echo '    <category lang="en">' . htmlspecialchars($subCategory) . '</category>' . "\n";
+            $chn. '<category lang="en">' . htmlspecialchars($subCategory) . '</category>' . "\n";
         }
-        echo '  </programme>' . "\n";
+        $chn.= '</programme>'. "\n";
     }
 }
 
-echo '</tv>' . "\n";
+$chn.= '</tv>' . "\n";
+
+file_put_contents('epgstarhub.xml', $chn);
 ?>
