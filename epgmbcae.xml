@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260219040000 +0800" stop="20260219053000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-  </programme>
   <programme start="20260219053000 +0800" stop="20260219063000 +0800" channel="mbc action">
     <title lang="en">ابرز لقطات الدوري</title>
   </programme>
@@ -83,9 +80,6 @@
   </programme>
   <programme start="20260220053000 +0800" stop="20260220063000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
-  </programme>
-  <programme start="20260219030000 +0800" stop="20260219050000 +0800" channel="mbc max">
-    <title lang="en">Winter's Tale</title>
   </programme>
   <programme start="20260219050000 +0800" stop="20260219073000 +0800" channel="mbc max">
     <title lang="en">The Great Gatsby</title>
@@ -167,6 +161,9 @@
   </programme>
   <programme start="20260221123000 +0800" stop="20260221143000 +0800" channel="mbc max">
     <title lang="en">Lucky Number Slevin</title>
+  </programme>
+  <programme start="20260221143000 +0800" stop="20260221163000 +0800" channel="mbc max">
+    <title lang="en">Despicable Me</title>
   </programme>
   <programme start="20260219040000 +0800" stop="20260219060500 +0800" channel="mbc 2">
     <title lang="en">King Arthur: Legend of the Sword</title>
@@ -254,5 +251,8 @@
   </programme>
   <programme start="20260221123000 +0800" stop="20260221143000 +0800" channel="mbc 2">
     <title lang="en">Speed</title>
+  </programme>
+  <programme start="20260221143000 +0800" stop="20260221163000 +0800" channel="mbc 2">
+    <title lang="en">xXx: State of the Union</title>
   </programme>
 </tv>
