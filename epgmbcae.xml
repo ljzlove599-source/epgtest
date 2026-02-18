@@ -9,12 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260218120000 +0800" stop="20260218130000 +0800" channel="mbc action">
-    <title lang="en">بودكاست ملح الدوري</title>
-  </programme>
-  <programme start="20260218130000 +0800" stop="20260218140000 +0800" channel="mbc action">
-    <title lang="en">برنامج action bodcast</title>
-  </programme>
   <programme start="20260218140000 +0800" stop="20260218153000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
@@ -132,9 +126,6 @@
   <programme start="20260220053000 +0800" stop="20260220063000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
   </programme>
-  <programme start="20260218120000 +0800" stop="20260218140000 +0800" channel="mbc max">
-    <title lang="en">The Green Hornet</title>
-  </programme>
   <programme start="20260218140000 +0800" stop="20260218155000 +0800" channel="mbc max">
     <title lang="en">The Commuter</title>
   </programme>
@@ -225,8 +216,8 @@
   <programme start="20260220213000 +0800" stop="20260220230000 +0800" channel="mbc max">
     <title lang="en">Despicable Me</title>
   </programme>
-  <programme start="20260218123000 +0800" stop="20260218143000 +0800" channel="mbc 2">
-    <title lang="en">Jupiter Ascending</title>
+  <programme start="20260220230000 +0800" stop="20260221010000 +0800" channel="mbc max">
+    <title lang="en">Despicable Me 2</title>
   </programme>
   <programme start="20260218143000 +0800" stop="20260218161500 +0800" channel="mbc 2">
     <title lang="en">Charlie's Angels: Full Throttle</title>
@@ -323,5 +314,8 @@
   </programme>
   <programme start="20260220213000 +0800" stop="20260221000000 +0800" channel="mbc 2">
     <title lang="en">Blade</title>
+  </programme>
+  <programme start="20260221000000 +0800" stop="20260221020000 +0800" channel="mbc 2">
+    <title lang="en">xXx: State of the Union</title>
   </programme>
 </tv>
