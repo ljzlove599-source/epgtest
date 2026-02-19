@@ -9,15 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260219080000 +0800" stop="20260219090000 +0800" channel="mbc action">
-    <title lang="en">برنامج action bodcast</title>
-  </programme>
-  <programme start="20260219090000 +0800" stop="20260219100000 +0800" channel="mbc action">
-    <title lang="en">بودكاست ملح الدوري</title>
-  </programme>
-  <programme start="20260219100000 +0800" stop="20260219103000 +0800" channel="mbc action">
-    <title lang="en">One Piece</title>
-  </programme>
   <programme start="20260219103000 +0800" stop="20260219120000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
@@ -71,15 +62,6 @@
   </programme>
   <programme start="20260220053000 +0800" stop="20260220063000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
-  </programme>
-  <programme start="20260219073000 +0800" stop="20260219090500 +0800" channel="mbc max">
-    <title lang="en">Limitless</title>
-  </programme>
-  <programme start="20260219090500 +0800" stop="20260219093000 +0800" channel="mbc max">
-    <title lang="en">برنامج World Of Movies</title>
-  </programme>
-  <programme start="20260219093000 +0800" stop="20260219115500 +0800" channel="mbc max">
-    <title lang="en">Den of Thieves</title>
   </programme>
   <programme start="20260219115500 +0800" stop="20260219140000 +0800" channel="mbc max">
     <title lang="en">White House Down</title>
@@ -156,8 +138,11 @@
   <programme start="20260221163000 +0800" stop="20260221183000 +0800" channel="mbc max">
     <title lang="en">Scott Pilgrim vs. the World</title>
   </programme>
-  <programme start="20260219082500 +0800" stop="20260219103500 +0800" channel="mbc 2">
-    <title lang="en">The Equalizer</title>
+  <programme start="20260221183000 +0800" stop="20260221200000 +0800" channel="mbc max">
+    <title lang="en">Holmes &amp; Watson</title>
+  </programme>
+  <programme start="20260221200000 +0800" stop="20260221223000 +0800" channel="mbc max">
+    <title lang="en">Blackhat</title>
   </programme>
   <programme start="20260219103500 +0800" stop="20260219120500 +0800" channel="mbc 2">
     <title lang="en">Safe</title>
@@ -239,5 +224,8 @@
   </programme>
   <programme start="20260221163000 +0800" stop="20260221183000 +0800" channel="mbc 2">
     <title lang="en">The Peanut Butter Falcon</title>
+  </programme>
+  <programme start="20260221183000 +0800" stop="20260221213000 +0800" channel="mbc 2">
+    <title lang="en">Batman v Superman: Dawn of Justice</title>
   </programme>
 </tv>
