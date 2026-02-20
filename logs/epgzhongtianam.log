@@ -1,3 +1,3 @@
-PHP Warning:  file_get_contents(https://asia-east1-ctitv-237901.cloudfunctions.net/ProgramList-Api2?chid=a1&start=2026-02-20&end=2026-02-21): failed to open stream: HTTP request failed! HTTP/1.0 503 Service Unavailable
+PHP Warning:  file_get_contents(https://asia-east1-ctitv-237901.cloudfunctions.net/ProgramList-Api2?chid=a1&start=2026-02-20&end=2026-02-21): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
  in /home/runner/work/epgtest/epgtest/epgzhongtianam.php on line 19
 無法從 API 獲取數據
