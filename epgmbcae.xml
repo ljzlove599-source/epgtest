@@ -9,12 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260220104000 +0800" stop="20260220120000 +0800" channel="mbc action">
-    <title lang="en">برنامج the clip show</title>
-  </programme>
-  <programme start="20260220120000 +0800" stop="20260220130000 +0800" channel="mbc action">
-    <title lang="en">One Piece</title>
-  </programme>
   <programme start="20260220130000 +0800" stop="20260220140000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
   </programme>
@@ -132,9 +126,6 @@
   <programme start="20260222053000 +0800" stop="20260222063000 +0800" channel="mbc action">
     <title lang="en">برنامج bear grylls</title>
   </programme>
-  <programme start="20260220100000 +0800" stop="20260220123000 +0800" channel="mbc max">
-    <title lang="en">The Great Gatsby</title>
-  </programme>
   <programme start="20260220123000 +0800" stop="20260220143000 +0800" channel="mbc max">
     <title lang="en">Jane Eyre</title>
   </programme>
@@ -219,8 +210,8 @@
   <programme start="20260222210000 +0800" stop="20260222230000 +0800" channel="mbc max">
     <title lang="en">The Other Guys</title>
   </programme>
-  <programme start="20260220100000 +0800" stop="20260220123000 +0800" channel="mbc 2">
-    <title lang="en">King Arthur: Legend of the Sword</title>
+  <programme start="20260222230000 +0800" stop="20260223010000 +0800" channel="mbc max">
+    <title lang="en">The Nice Guys</title>
   </programme>
   <programme start="20260220123000 +0800" stop="20260220143000 +0800" channel="mbc 2">
     <title lang="en">Hugo</title>
@@ -302,5 +293,8 @@
   </programme>
   <programme start="20260222193000 +0800" stop="20260222220000 +0800" channel="mbc 2">
     <title lang="en">Mr. Jones</title>
+  </programme>
+  <programme start="20260222220000 +0800" stop="20260223000000 +0800" channel="mbc 2">
+    <title lang="en">Room</title>
   </programme>
 </tv>
