@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260220153000 +0800" stop="20260220163000 +0800" channel="mbc action">
-    <title lang="en">برنامجcar issuse</title>
-  </programme>
   <programme start="20260220163000 +0800" stop="20260220173500 +0800" channel="mbc action">
     <title lang="en">One Piece</title>
   </programme>
@@ -290,5 +287,8 @@
   </programme>
   <programme start="20260223000000 +0800" stop="20260223020000 +0800" channel="mbc 2">
     <title lang="en">Searching</title>
+  </programme>
+  <programme start="20260223020000 +0800" stop="20260223040000 +0800" channel="mbc 2">
+    <title lang="en">Old</title>
   </programme>
 </tv>
