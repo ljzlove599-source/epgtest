@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260222193000 +0800" stop="20260222200000 +0800" channel="mbc action">
-    <title lang="en">برنامج Sports Quest</title>
-  </programme>
   <programme start="20260222200000 +0800" stop="20260222210000 +0800" channel="mbc action">
     <title lang="en">One Piece</title>
   </programme>
@@ -182,6 +179,9 @@
   </programme>
   <programme start="20260225040000 +0800" stop="20260225053000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
+  </programme>
+  <programme start="20260225053000 +0800" stop="20260225063000 +0800" channel="mbc action">
+    <title lang="en">برنامج Accelerate</title>
   </programme>
   <programme start="20260222183000 +0800" stop="20260222210000 +0800" channel="mbc max">
     <title lang="en">Wasp Network</title>
@@ -422,5 +422,8 @@
   </programme>
   <programme start="20260225040000 +0800" stop="20260225060500 +0800" channel="mbc 2">
     <title lang="en">The Equalizer 2</title>
+  </programme>
+  <programme start="20260225060500 +0800" stop="20260225075000 +0800" channel="mbc 2">
+    <title lang="en">Legacy of Lies</title>
   </programme>
 </tv>
