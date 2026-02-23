@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260223213000 +0800" stop="20260223223000 +0800" channel="mbc action">
-    <title lang="en">برنامج The Ride Life With Sung Kang</title>
-  </programme>
   <programme start="20260223223000 +0800" stop="20260223233000 +0800" channel="mbc action">
     <title lang="en">برنامج cars &amp; stars</title>
   </programme>
@@ -186,8 +183,11 @@
   <programme start="20260226063000 +0800" stop="20260226073000 +0800" channel="mbc action">
     <title lang="en">برنامج  Adrenaline</title>
   </programme>
-  <programme start="20260223210000 +0800" stop="20260223223000 +0800" channel="mbc max">
-    <title lang="en">The Words</title>
+  <programme start="20260226073000 +0800" stop="20260226080000 +0800" channel="mbc action">
+    <title lang="en">One Piece</title>
+  </programme>
+  <programme start="20260226080000 +0800" stop="20260226090000 +0800" channel="mbc action">
+    <title lang="en">برنامج action bodcast</title>
   </programme>
   <programme start="20260223223000 +0800" stop="20260223230500 +0800" channel="mbc max">
     <title lang="en">برنامج Celebrity Scoop Season 9</title>
@@ -306,9 +306,6 @@
   <programme start="20260226072500 +0800" stop="20260226090000 +0800" channel="mbc max">
     <title lang="en">Mad Money</title>
   </programme>
-  <programme start="20260223213500 +0800" stop="20260223220000 +0800" channel="mbc 2">
-    <title lang="en">برنامج Celebrity Scoop Season 9</title>
-  </programme>
   <programme start="20260223220000 +0800" stop="20260223235500 +0800" channel="mbc 2">
     <title lang="en">The Brave One</title>
   </programme>
@@ -425,5 +422,8 @@
   </programme>
   <programme start="20260226060500 +0800" stop="20260226080000 +0800" channel="mbc 2">
     <title lang="en">Robin Hood</title>
+  </programme>
+  <programme start="20260226080000 +0800" stop="20260226100000 +0800" channel="mbc 2">
+    <title lang="en">The Equalizer 2</title>
   </programme>
 </tv>
