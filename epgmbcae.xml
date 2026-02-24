@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260224050000 +0800" stop="20260224060000 +0800" channel="mbc action">
-    <title lang="en">برنامج cars &amp; stars</title>
-  </programme>
   <programme start="20260224060000 +0800" stop="20260224073000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
@@ -186,6 +183,9 @@
   <programme start="20260226140000 +0800" stop="20260226153000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
+  <programme start="20260226153000 +0800" stop="20260226163000 +0800" channel="mbc action">
+    <title lang="en">برنامج Accelerate</title>
+  </programme>
   <programme start="20260224050000 +0800" stop="20260224070000 +0800" channel="mbc max">
     <title lang="en">By the Sea</title>
   </programme>
@@ -299,9 +299,6 @@
   </programme>
   <programme start="20260226140000 +0800" stop="20260226163000 +0800" channel="mbc max">
     <title lang="en">The Bourne Identity</title>
-  </programme>
-  <programme start="20260224040000 +0800" stop="20260224060000 +0800" channel="mbc 2">
-    <title lang="en">Sicario</title>
   </programme>
   <programme start="20260224060000 +0800" stop="20260224080000 +0800" channel="mbc 2">
     <title lang="en">Sicario: Day of the Soldado</title>
@@ -419,5 +416,8 @@
   </programme>
   <programme start="20260226140000 +0800" stop="20260226160000 +0800" channel="mbc 2">
     <title lang="en">Howl's Moving Castle</title>
+  </programme>
+  <programme start="20260226160000 +0800" stop="20260226180000 +0800" channel="mbc 2">
+    <title lang="en">Warcraft</title>
   </programme>
 </tv>
