@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260225030000 +0800" stop="20260225040000 +0800" channel="mbc action">
-    <title lang="en">بودكاست ملح الدوري</title>
-  </programme>
   <programme start="20260225040000 +0800" stop="20260225053000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
@@ -255,8 +252,8 @@
   <programme start="20260227123000 +0800" stop="20260227140000 +0800" channel="mbc max">
     <title lang="en">Mr. Deeds</title>
   </programme>
-  <programme start="20260225033500 +0800" stop="20260225040000 +0800" channel="mbc 2">
-    <title lang="en">برنامج Making The Movies Season 6</title>
+  <programme start="20260227140000 +0800" stop="20260227163000 +0800" channel="mbc max">
+    <title lang="en">The Bourne Supremacy</title>
   </programme>
   <programme start="20260225040000 +0800" stop="20260225060500 +0800" channel="mbc 2">
     <title lang="en">The Equalizer 2</title>
@@ -362,5 +359,8 @@
   </programme>
   <programme start="20260227123000 +0800" stop="20260227140000 +0800" channel="mbc 2">
     <title lang="en">Hotel Transylvania</title>
+  </programme>
+  <programme start="20260227140000 +0800" stop="20260227160000 +0800" channel="mbc 2">
+    <title lang="en">Sleepless in Seattle</title>
   </programme>
 </tv>
