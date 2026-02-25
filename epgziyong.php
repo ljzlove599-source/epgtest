@@ -12,7 +12,7 @@ $xmlFiles = [
     './epgkai1.xml',
     './epganywhere.xml',  
     './epglifetv.xml',
-    './epgmytv.xml',
+    './epgmytvsuper.xml',
     './epg4gtv2.xml', 
     './epgmacocable.xml',
     './epgtvsou.xml',
