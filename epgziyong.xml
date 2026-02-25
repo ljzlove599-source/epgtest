@@ -6955,9 +6955,6 @@
   <programme start="20260227070000 +0800" stop="20260227080000 +0800" channel="中天北美台">
     <title lang="zh">大新聞大爆卦(下) (Live)</title>
   </programme>
-  <programme start="20260225163000 +0800" stop="20260225173000 +0800" channel="mbc action">
-    <title lang="en">One Piece</title>
-  </programme>
   <programme start="20260225173000 +0800" stop="20260225190000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
@@ -7152,6 +7149,9 @@
   </programme>
   <programme start="20260228010000 +0800" stop="20260228030000 +0800" channel="mbc max">
     <title lang="en">Fatherhood</title>
+  </programme>
+  <programme start="20260228030000 +0800" stop="20260228050000 +0800" channel="mbc max">
+    <title lang="en">Paddington</title>
   </programme>
   <programme start="20260225163500 +0800" stop="20260225183000 +0800" channel="mbc 2">
     <title lang="en">Hell or High Water</title>
@@ -7607,10 +7607,10 @@
     <title lang="en">You Are The Best! Ep.49</title>
   </programme>
   <programme start="20260225181500 +0900" stop="20260225192500 +0900" channel="KBSWorld">
-    <title lang="en">You Are The Best! Ep.50 [LIVE]</title>
+    <title lang="en">You Are The Best! Ep.50</title>
   </programme>
   <programme start="20260225192500 +0900" stop="20260225203500 +0900" channel="KBSWorld">
-    <title lang="en">The Return of Superman Ep.608</title>
+    <title lang="en">The Return of Superman Ep.608 [LIVE]</title>
   </programme>
   <programme start="20260225203500 +0900" stop="20260225211000 +0900" channel="KBSWorld">
     <title lang="en">Marie and Her Three Daddies Ep.93</title>
@@ -39338,11 +39338,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260224024600 +0800" stop="20260224024600 +0800" channel="spot on news">
-    <title lang="zh">Car crashes into school bus, gets wedged underneath</title>
+    <title lang="zh">Huge sinkhole swallows two cars</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260224024600 +0800" stop="20260224024600 +0800" channel="spot on news">
-    <title lang="zh">Huge sinkhole swallows two cars</title>
+    <title lang="zh">Car crashes into school bus, gets wedged underneath</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260224024600 +0800" stop="20260224024700 +0800" channel="spot on news">
@@ -41422,11 +41422,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260224102900 +0800" stop="20260224102900 +0800" channel="spot on news">
-    <title lang="zh">Overloaded truck overturns onto Jeep - one dead</title>
+    <title lang="zh">Jonathan Bailey: He is the "Sexiest Man Alive 2025"</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260224102900 +0800" stop="20260224102900 +0800" channel="spot on news">
-    <title lang="zh">Jonathan Bailey: He is the "Sexiest Man Alive 2025"</title>
+    <title lang="zh">Overloaded truck overturns onto Jeep - one dead</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260224102900 +0800" stop="20260224103000 +0800" channel="spot on news">
@@ -46398,11 +46398,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260225052300 +0800" stop="20260225052300 +0800" channel="spot on news">
-    <title lang="zh">Wasatch County helicopter crash leaves one critically injured</title>
+    <title lang="zh">Escalator suddenly speeds up, causes panic at University</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260225052300 +0800" stop="20260225052300 +0800" channel="spot on news">
-    <title lang="zh">Escalator suddenly speeds up, causes panic at University</title>
+    <title lang="zh">Wasatch County helicopter crash leaves one critically injured</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260225052300 +0800" stop="20260225052400 +0800" channel="spot on news">
@@ -46974,11 +46974,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260225073600 +0800" stop="20260225073600 +0800" channel="spot on news">
-    <title lang="zh">"Last Chance U" star John Beam dies after being shot in the head</title>
+    <title lang="zh">Fire rages in 45-story high-rise: tenants evacuated</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260225073600 +0800" stop="20260225073600 +0800" channel="spot on news">
-    <title lang="zh">Fire rages in 45-story high-rise: tenants evacuated</title>
+    <title lang="zh">"Last Chance U" star John Beam dies after being shot in the head</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260225073600 +0800" stop="20260225073700 +0800" channel="spot on news">
@@ -270969,28 +270969,56 @@
     <title lang="zh">立法院會議直播</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260225180000 +0800" stop="20260226000000 +0800" channel="國會頻道1HD">
-    <title lang="zh">當日立法院會議轉播</title>
+  <programme start="20260225131000 +0800" stop="20260225164200 +0800" channel="國會頻道1HD">
+    <title lang="zh">經濟委員會</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226000000 +0800" stop="20260226050000 +0800" channel="國會頻道1HD">
-    <title lang="zh">前日立法院會議轉播</title>
+  <programme start="20260225164200 +0800" stop="20260225210400 +0800" channel="國會頻道1HD">
+    <title lang="zh">外交及國防委員會</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226050000 +0800" stop="20260226084700 +0800" channel="國會頻道1HD">
-    <title lang="zh">前日立法院會議轉播</title>
+  <programme start="20260225210400 +0800" stop="20260225213400 +0800" channel="國會頻道1HD">
+    <title lang="zh">黨團協商</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226084700 +0800" stop="20260226090000 +0800" channel="國會頻道1HD">
-    <title lang="zh">週四會議預報</title>
+  <programme start="20260225213400 +0800" stop="20260226002700 +0800" channel="國會頻道1HD">
+    <title lang="zh">立法院院會</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226090000 +0800" stop="20260226180000 +0800" channel="國會頻道1HD">
-    <title lang="zh">立法院會議直播</title>
+  <programme start="20260226002700 +0800" stop="20260226044900 +0800" channel="國會頻道1HD">
+    <title lang="zh">外交及國防委員會</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226180000 +0800" stop="20260227000000 +0800" channel="國會頻道1HD">
-    <title lang="zh">當日立法院會議轉播</title>
+  <programme start="20260226044900 +0800" stop="20260226051900 +0800" channel="國會頻道1HD">
+    <title lang="zh">黨團協商</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226051900 +0800" stop="20260226081600 +0800" channel="國會頻道1HD">
+    <title lang="zh">經濟委員會</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226081600 +0800" stop="20260226112100 +0800" channel="國會頻道1HD">
+    <title lang="zh">財政委員會</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226112100 +0800" stop="20260226151000 +0800" channel="國會頻道1HD">
+    <title lang="zh">內政委員會</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226151000 +0800" stop="20260226172700 +0800" channel="國會頻道1HD">
+    <title lang="zh">內政委員會</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226172700 +0800" stop="20260226204500 +0800" channel="國會頻道1HD">
+    <title lang="zh">外交及國防委員會</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226204500 +0800" stop="20260226215400 +0800" channel="國會頻道1HD">
+    <title lang="zh">財政委員會</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226215400 +0800" stop="20260227002100 +0800" channel="國會頻道1HD">
+    <title lang="zh">黨團協商</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260225002200 +0800" stop="20260225013300 +0800" channel="國會頻道2HD">
@@ -271041,24 +271069,40 @@
     <title lang="zh">司法及法制委員會</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226012400 +0800" stop="20260226050000 +0800" channel="國會頻道2HD">
+  <programme start="20260226012400 +0800" stop="20260226045400 +0800" channel="國會頻道2HD">
     <title lang="zh">社會福利及衛生環境委員會</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226050000 +0800" stop="20260226084700 +0800" channel="國會頻道2HD">
-    <title lang="zh">前日立法院會議轉播</title>
+  <programme start="20260226045400 +0800" stop="20260226061900 +0800" channel="國會頻道2HD">
+    <title lang="zh">社會福利及衛生環境委員會</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226084700 +0800" stop="20260226090000 +0800" channel="國會頻道2HD">
-    <title lang="zh">週四會議預報</title>
+  <programme start="20260226061900 +0800" stop="20260226085300 +0800" channel="國會頻道2HD">
+    <title lang="zh">教育及文化委員會</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226090000 +0800" stop="20260226180000 +0800" channel="國會頻道2HD">
-    <title lang="zh">立法院會議直播</title>
+  <programme start="20260226085300 +0800" stop="20260226121600 +0800" channel="國會頻道2HD">
+    <title lang="zh">立法院院會</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226180000 +0800" stop="20260227000000 +0800" channel="國會頻道2HD">
-    <title lang="zh">當日立法院會議轉播</title>
+  <programme start="20260226121600 +0800" stop="20260226140900 +0800" channel="國會頻道2HD">
+    <title lang="zh">立法院院會</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226140900 +0800" stop="20260226144900 +0800" channel="國會頻道2HD">
+    <title lang="zh">黨團協商</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226144900 +0800" stop="20260226150200 +0800" channel="國會頻道2HD">
+    <title lang="zh">程序委員會</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226150200 +0800" stop="20260226192500 +0800" channel="國會頻道2HD">
+    <title lang="zh">司法及法制委員會</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226192500 +0800" stop="20260227000100 +0800" channel="國會頻道2HD">
+    <title lang="zh">社會福利及衛生環境委員會</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260225010600 +0800" stop="20260225014400 +0800" channel="Fun探索娛樂台 4K">
@@ -276350,7 +276394,7 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260225183000 +0800" stop="20260226000000 +0800" channel="博斯高球一台">
-    <title lang="zh">2025模里西斯公開賽 第四天</title>
+    <title lang="zh">2026模里西斯公開賽 第四天</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260226000000 +0800" stop="20260226053000 +0800" channel="博斯高球一台">
@@ -276358,7 +276402,7 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260226053000 +0800" stop="20260226060000 +0800" channel="博斯高球一台">
-    <title lang="zh">美巡焦點</title>
+    <title lang="zh">2026巴林錦標賽 精華</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260226060000 +0800" stop="20260226090000 +0800" channel="博斯高球一台">
@@ -311178,7 +311222,7 @@
     <desc lang="zh">2025當代生活講座</desc>
   </programme>
   <programme start="20260225050000 +0800" stop="20260225060000 +0800" channel="人間衛視">
-    <title lang="zh">生活智多星第1692集</title>
+    <title lang="zh">生活智多星第1693集</title>
     <desc lang="zh">人間衛視【生活智多星】邀請到「好門媳婦」－郁方擔任主持人，透過輕鬆活潑的訪談，讓您成為生活上「智多星」。本節目邀請不同領域的專家學者，從科學的觀點，深入淺出地剖析生活大小事。打破您心中的疑慮與似是而非的偽知識，了解事情的源由與真相，提供不一樣的想法與見解。【生活智多星】內容豐富多元，例如針對銀髮族的需求，邀請銀髮族運動專家，將因久坐而氣滯血瘀的沙發馬鈴薯大變身，強力打造出活力四射、充滿元氣的不老傳說。以及有關吃的大哉問：吃進嘴裡的是營養還是毒藥，吃的順序、吃的方法與吃的健康，從不吃壞肚子到吃到強身健體，【生活智多星】全面關心。</desc>
   </programme>
   <programme start="20260225060000 +0800" stop="20260225063000 +0800" channel="人間衛視">
@@ -311214,7 +311258,7 @@
     <desc lang="zh">世界上最正義的FOOD超人要來了！最厲害的FOOD超人和最愛搗蛋的蒼蠅王，會有什麼趣事發生？</desc>
   </programme>
   <programme start="20260225110000 +0800" stop="20260225120000 +0800" channel="人間衛視">
-    <title lang="zh">生活智多星第1692集</title>
+    <title lang="zh">生活智多星第1693集</title>
     <desc lang="zh">人間衛視【生活智多星】邀請到「好門媳婦」－郁方擔任主持人，透過輕鬆活潑的訪談，讓您成為生活上「智多星」。本節目邀請不同領域的專家學者，從科學的觀點，深入淺出地剖析生活大小事。打破您心中的疑慮與似是而非的偽知識，了解事情的源由與真相，提供不一樣的想法與見解。【生活智多星】內容豐富多元，例如針對銀髮族的需求，邀請銀髮族運動專家，將因久坐而氣滯血瘀的沙發馬鈴薯大變身，強力打造出活力四射、充滿元氣的不老傳說。以及有關吃的大哉問：吃進嘴裡的是營養還是毒藥，吃的順序、吃的方法與吃的健康，從不吃壞肚子到吃到強身健體，【生活智多星】全面關心。</desc>
   </programme>
   <programme start="20260225120000 +0800" stop="20260225130000 +0800" channel="人間衛視">
@@ -311314,7 +311358,7 @@
     <desc lang="zh">2025當代生活講座</desc>
   </programme>
   <programme start="20260226050000 +0800" stop="20260226060000 +0800" channel="人間衛視">
-    <title lang="zh">生活智多星第1693集</title>
+    <title lang="zh">生活智多星第1694集</title>
     <desc lang="zh">人間衛視【生活智多星】邀請到「好門媳婦」－郁方擔任主持人，透過輕鬆活潑的訪談，讓您成為生活上「智多星」。本節目邀請不同領域的專家學者，從科學的觀點，深入淺出地剖析生活大小事。打破您心中的疑慮與似是而非的偽知識，了解事情的源由與真相，提供不一樣的想法與見解。【生活智多星】內容豐富多元，例如針對銀髮族的需求，邀請銀髮族運動專家，將因久坐而氣滯血瘀的沙發馬鈴薯大變身，強力打造出活力四射、充滿元氣的不老傳說。以及有關吃的大哉問：吃進嘴裡的是營養還是毒藥，吃的順序、吃的方法與吃的健康，從不吃壞肚子到吃到強身健體，【生活智多星】全面關心。</desc>
   </programme>
   <programme start="20260226060000 +0800" stop="20260226063000 +0800" channel="人間衛視">
@@ -311350,7 +311394,7 @@
     <desc lang="zh">世界上最正義的FOOD超人要來了！最厲害的FOOD超人和最愛搗蛋的蒼蠅王，會有什麼趣事發生？</desc>
   </programme>
   <programme start="20260226110000 +0800" stop="20260226120000 +0800" channel="人間衛視">
-    <title lang="zh">生活智多星第1693集</title>
+    <title lang="zh">生活智多星第1694集</title>
     <desc lang="zh">人間衛視【生活智多星】邀請到「好門媳婦」－郁方擔任主持人，透過輕鬆活潑的訪談，讓您成為生活上「智多星」。本節目邀請不同領域的專家學者，從科學的觀點，深入淺出地剖析生活大小事。打破您心中的疑慮與似是而非的偽知識，了解事情的源由與真相，提供不一樣的想法與見解。【生活智多星】內容豐富多元，例如針對銀髮族的需求，邀請銀髮族運動專家，將因久坐而氣滯血瘀的沙發馬鈴薯大變身，強力打造出活力四射、充滿元氣的不老傳說。以及有關吃的大哉問：吃進嘴裡的是營養還是毒藥，吃的順序、吃的方法與吃的健康，從不吃壞肚子到吃到強身健體，【生活智多星】全面關心。</desc>
   </programme>
   <programme start="20260226120000 +0800" stop="20260226130000 +0800" channel="人間衛視">
@@ -329328,11 +329372,11 @@
   </programme>
   <programme start="20260226220000 +0800" stop="20260226230000 +0800" channel="八大娛樂台">
     <title lang="zh">謝幕第1集</title>
-    <desc lang="zh">謝幕</desc>
+    <desc lang="zh">講述了一個男人爲了實現來自朝鮮的奶奶的最後願望，而扮演她歸順的孫子。</desc>
   </programme>
   <programme start="20260226230000 +0800" stop="20260227000000 +0800" channel="八大娛樂台">
     <title lang="zh">謝幕第2集</title>
-    <desc lang="zh">謝幕</desc>
+    <desc lang="zh">講述了一個男人爲了實現來自朝鮮的奶奶的最後願望，而扮演她歸順的孫子。</desc>
   </programme>
   <programme start="20260225000000 +0800" stop="20260225003000 +0800" channel="運通財經綜合台">
     <title lang="zh">股市尊龍</title>
@@ -338650,11 +338694,11 @@
   </programme>
   <programme start="20260226070000 +0800" stop="20260226071500 +0800" channel="小公視">
     <title lang="zh">小恐龍大冒險第3季:第1集</title>
-    <desc lang="zh">小恐龍大冒險第3季</desc>
+    <desc lang="zh">洛奇、瑪珠、比爾和泰妮四隻小恐龍在它們生活的白堊紀世界探險，並和巨獸龍發生的故事。</desc>
   </programme>
   <programme start="20260226071500 +0800" stop="20260226073000 +0800" channel="小公視">
     <title lang="zh">小恐龍大冒險第3季:第2集</title>
-    <desc lang="zh">小恐龍大冒險第3季</desc>
+    <desc lang="zh">洛奇、瑪珠、比爾和泰妮四隻小恐龍在它們生活的白堊紀世界探險，並和巨獸龍發生的故事。</desc>
   </programme>
   <programme start="20260226073000 +0800" stop="20260226074500 +0800" channel="小公視">
     <title lang="zh">WAWA DADADA第4集</title>
@@ -338694,11 +338738,11 @@
   </programme>
   <programme start="20260226110000 +0800" stop="20260226111500 +0800" channel="小公視">
     <title lang="zh">小恐龍大冒險第3季:第1集</title>
-    <desc lang="zh">小恐龍大冒險第3季</desc>
+    <desc lang="zh">洛奇、瑪珠、比爾和泰妮四隻小恐龍在它們生活的白堊紀世界探險，並和巨獸龍發生的故事。</desc>
   </programme>
   <programme start="20260226111500 +0800" stop="20260226113000 +0800" channel="小公視">
     <title lang="zh">小恐龍大冒險第3季:第2集</title>
-    <desc lang="zh">小恐龍大冒險第3季</desc>
+    <desc lang="zh">洛奇、瑪珠、比爾和泰妮四隻小恐龍在它們生活的白堊紀世界探險，並和巨獸龍發生的故事。</desc>
   </programme>
   <programme start="20260226113000 +0800" stop="20260226114500 +0800" channel="小公視">
     <title lang="zh">WAWA DADADA第4集</title>
@@ -338758,11 +338802,11 @@
   </programme>
   <programme start="20260226173000 +0800" stop="20260226174500 +0800" channel="小公視">
     <title lang="zh">小恐龍大冒險第3季:第1集</title>
-    <desc lang="zh">小恐龍大冒險第3季</desc>
+    <desc lang="zh">洛奇、瑪珠、比爾和泰妮四隻小恐龍在它們生活的白堊紀世界探險，並和巨獸龍發生的故事。</desc>
   </programme>
   <programme start="20260226174500 +0800" stop="20260226180000 +0800" channel="小公視">
     <title lang="zh">小恐龍大冒險第3季:第2集</title>
-    <desc lang="zh">小恐龍大冒險第3季</desc>
+    <desc lang="zh">洛奇、瑪珠、比爾和泰妮四隻小恐龍在它們生活的白堊紀世界探險，並和巨獸龍發生的故事。</desc>
   </programme>
   <programme start="20260226180000 +0800" stop="20260226183000 +0800" channel="小公視">
     <title lang="zh">水果冰淇淋第2752集</title>
@@ -340188,6 +340232,198 @@
     <desc lang="zh">由人文真善美志工拍攝製作，運用微電影手法，將每一個人物的生命歷程，在鏡頭下呈現最真實的面像，觸動人們心裡底層的情感。
 影片由人物主角現身說法，在5-10分鐘的敘事裡，看見來自不同年齡層及多元族群的故事。</desc>
   </programme>
+  <programme start="20260225000000 +0800" stop="20260225010000 +0800" channel="中視新聞台">
+    <title lang="zh">即時新聞現場第24集</title>
+    <desc lang="zh">這個節目將提供觀眾全面且即時的新聞資訊。</desc>
+  </programme>
+  <programme start="20260225010000 +0800" stop="20260225020000 +0800" channel="中視新聞台">
+    <title lang="zh">新庶民大頭家第1630集</title>
+    <desc lang="zh">《新庶民大頭家》由中視當家主播帶大家一起來關心時事!</desc>
+  </programme>
+  <programme start="20260225020000 +0800" stop="20260225030000 +0800" channel="中視新聞台">
+    <title lang="zh">新庶民大頭家第1630集</title>
+    <desc lang="zh">《新庶民大頭家》由中視當家主播帶大家一起來關心時事!</desc>
+  </programme>
+  <programme start="20260225030000 +0800" stop="20260225040000 +0800" channel="中視新聞台">
+    <title lang="zh">中視新聞全球報導第24集</title>
+    <desc lang="zh">全球新聞為觀眾提供最新、全面且即時的新聞資訊，包括世界各地的新聞報導、時尚、健康資訊，以及有趣的軼事和娛樂八卦。觀眾可以輕鬆地在家中獲取這些資訊，不需外出即可了解天下大事。</desc>
+  </programme>
+  <programme start="20260225040000 +0800" stop="20260225050000 +0800" channel="中視新聞台">
+    <title lang="zh">即時新聞現場第24集</title>
+    <desc lang="zh">這個節目將提供觀眾全面且即時的新聞資訊。</desc>
+  </programme>
+  <programme start="20260225050000 +0800" stop="20260225060000 +0800" channel="中視新聞台">
+    <title lang="zh">中視新聞全球報導6點搶先報第24集</title>
+    <desc lang="zh">全球新聞為觀眾提供涵蓋世界各地最新新聞、時尚、健康資訊，以及圖片和趣聞軼事等內容，讓觀眾能夠獲得全面及時的資訊，並且不需要離開家門也能了解全球動態。</desc>
+  </programme>
+  <programme start="20260225060000 +0800" stop="20260225070000 +0800" channel="中視新聞台">
+    <title lang="zh">中視新聞全球報導第24集</title>
+    <desc lang="zh">全球新聞為觀眾提供最新、全面且即時的新聞資訊，包括世界各地的新聞報導、時尚、健康資訊，以及有趣的軼事和娛樂八卦。觀眾可以輕鬆地在家中獲取這些資訊，不需外出即可了解天下大事。</desc>
+  </programme>
+  <programme start="20260225070000 +0800" stop="20260225080000 +0800" channel="中視新聞台">
+    <title lang="zh">中視早安新聞第25集</title>
+    <desc lang="zh">「中視早安新聞」每天早上透過專業主播的客觀報導，向觀眾提供充足且詳盡的新聞、氣象和交通路況資訊。</desc>
+  </programme>
+  <programme start="20260225080000 +0800" stop="20260225090000 +0800" channel="中視新聞台">
+    <title lang="zh">整點新聞第25集</title>
+    <desc lang="zh">主播會以客觀和專業的方式，每天為觀眾提供上午發生的重大國內外新聞的完整報導。</desc>
+  </programme>
+  <programme start="20260225090000 +0800" stop="20260225100000 +0800" channel="中視新聞台">
+    <title lang="zh">即時新聞現場第25集</title>
+    <desc lang="zh">這個節目將提供觀眾全面且即時的新聞資訊。</desc>
+  </programme>
+  <programme start="20260225100000 +0800" stop="20260225110000 +0800" channel="中視新聞台">
+    <title lang="zh">新庶民大頭家第1630集</title>
+    <desc lang="zh">《新庶民大頭家》由中視當家主播帶大家一起來關心時事!</desc>
+  </programme>
+  <programme start="20260225110000 +0800" stop="20260225115800 +0800" channel="中視新聞台">
+    <title lang="zh">新庶民大頭家第1630集</title>
+    <desc lang="zh">《新庶民大頭家》由中視當家主播帶大家一起來關心時事!</desc>
+  </programme>
+  <programme start="20260225115800 +0800" stop="20260225130000 +0800" channel="中視新聞台">
+    <title lang="zh">中視午間新聞第25集</title>
+    <desc lang="zh">「中視午間新聞」以最客觀、專業的主播，為觀眾提供一個全面報導上午發生的重大國內外重要新聞的平台，同時也提供最新的股市收盤價格。</desc>
+  </programme>
+  <programme start="20260225130000 +0800" stop="20260225140000 +0800" channel="中視新聞台">
+    <title lang="zh">即時新聞現場第25集</title>
+    <desc lang="zh">這個節目將提供觀眾全面且即時的新聞資訊。</desc>
+  </programme>
+  <programme start="20260225140000 +0800" stop="20260225150000 +0800" channel="中視新聞台">
+    <title lang="zh">即時新聞現場第25集</title>
+    <desc lang="zh">這個節目將提供觀眾全面且即時的新聞資訊。</desc>
+  </programme>
+  <programme start="20260225150000 +0800" stop="20260225160000 +0800" channel="中視新聞台">
+    <title lang="zh">即時新聞現場第25集</title>
+    <desc lang="zh">這個節目將提供觀眾全面且即時的新聞資訊。</desc>
+  </programme>
+  <programme start="20260225160000 +0800" stop="20260225170000 +0800" channel="中視新聞台">
+    <title lang="zh">新庶民大頭家第1631集</title>
+    <desc lang="zh">《新庶民大頭家》由中視當家主播帶大家一起來關心時事!</desc>
+  </programme>
+  <programme start="20260225170000 +0800" stop="20260225180000 +0800" channel="中視新聞台">
+    <title lang="zh">新庶民大頭家第1631集</title>
+    <desc lang="zh">《新庶民大頭家》由中視當家主播帶大家一起來關心時事!</desc>
+  </programme>
+  <programme start="20260225180000 +0800" stop="20260225185800 +0800" channel="中視新聞台">
+    <title lang="zh">中視新聞全球報導6點搶先報第25集</title>
+    <desc lang="zh">全球新聞為觀眾提供涵蓋世界各地最新新聞、時尚、健康資訊，以及圖片和趣聞軼事等內容，讓觀眾能夠獲得全面及時的資訊，並且不需要離開家門也能了解全球動態。</desc>
+  </programme>
+  <programme start="20260225185800 +0800" stop="20260225200000 +0800" channel="中視新聞台">
+    <title lang="zh">中視新聞全球報導第25集</title>
+    <desc lang="zh">全球新聞為觀眾提供最新、全面且即時的新聞資訊，包括世界各地的新聞報導、時尚、健康資訊，以及有趣的軼事和娛樂八卦。觀眾可以輕鬆地在家中獲取這些資訊，不需外出即可了解天下大事。</desc>
+  </programme>
+  <programme start="20260225200000 +0800" stop="20260225210000 +0800" channel="中視新聞台">
+    <title lang="zh">新庶民大頭家第1631集</title>
+    <desc lang="zh">《新庶民大頭家》由中視當家主播帶大家一起來關心時事!</desc>
+  </programme>
+  <programme start="20260225210000 +0800" stop="20260225220000 +0800" channel="中視新聞台">
+    <title lang="zh">新庶民大頭家第1631集</title>
+    <desc lang="zh">《新庶民大頭家》由中視當家主播帶大家一起來關心時事!</desc>
+  </programme>
+  <programme start="20260225220000 +0800" stop="20260225230000 +0800" channel="中視新聞台">
+    <title lang="zh">即時新聞現場第25集</title>
+    <desc lang="zh">這個節目將提供觀眾全面且即時的新聞資訊。</desc>
+  </programme>
+  <programme start="20260225230000 +0800" stop="20260226000000 +0800" channel="中視新聞台">
+    <title lang="zh">中視新聞全球報導第25集</title>
+    <desc lang="zh">全球新聞為觀眾提供最新、全面且即時的新聞資訊，包括世界各地的新聞報導、時尚、健康資訊，以及有趣的軼事和娛樂八卦。觀眾可以輕鬆地在家中獲取這些資訊，不需外出即可了解天下大事。</desc>
+  </programme>
+  <programme start="20260226000000 +0800" stop="20260226010000 +0800" channel="中視新聞台">
+    <title lang="zh">即時新聞現場第25集</title>
+    <desc lang="zh">這個節目將提供觀眾全面且即時的新聞資訊。</desc>
+  </programme>
+  <programme start="20260226010000 +0800" stop="20260226020000 +0800" channel="中視新聞台">
+    <title lang="zh">新庶民大頭家第1631集</title>
+    <desc lang="zh">《新庶民大頭家》由中視當家主播帶大家一起來關心時事!</desc>
+  </programme>
+  <programme start="20260226020000 +0800" stop="20260226030000 +0800" channel="中視新聞台">
+    <title lang="zh">新庶民大頭家第1631集</title>
+    <desc lang="zh">《新庶民大頭家》由中視當家主播帶大家一起來關心時事!</desc>
+  </programme>
+  <programme start="20260226030000 +0800" stop="20260226040000 +0800" channel="中視新聞台">
+    <title lang="zh">中視新聞全球報導第25集</title>
+    <desc lang="zh">全球新聞為觀眾提供最新、全面且即時的新聞資訊，包括世界各地的新聞報導、時尚、健康資訊，以及有趣的軼事和娛樂八卦。觀眾可以輕鬆地在家中獲取這些資訊，不需外出即可了解天下大事。</desc>
+  </programme>
+  <programme start="20260226040000 +0800" stop="20260226050000 +0800" channel="中視新聞台">
+    <title lang="zh">即時新聞現場第25集</title>
+    <desc lang="zh">這個節目將提供觀眾全面且即時的新聞資訊。</desc>
+  </programme>
+  <programme start="20260226050000 +0800" stop="20260226060000 +0800" channel="中視新聞台">
+    <title lang="zh">中視新聞全球報導6點搶先報第25集</title>
+    <desc lang="zh">全球新聞為觀眾提供涵蓋世界各地最新新聞、時尚、健康資訊，以及圖片和趣聞軼事等內容，讓觀眾能夠獲得全面及時的資訊，並且不需要離開家門也能了解全球動態。</desc>
+  </programme>
+  <programme start="20260226060000 +0800" stop="20260226070000 +0800" channel="中視新聞台">
+    <title lang="zh">中視新聞全球報導第25集</title>
+    <desc lang="zh">全球新聞為觀眾提供最新、全面且即時的新聞資訊，包括世界各地的新聞報導、時尚、健康資訊，以及有趣的軼事和娛樂八卦。觀眾可以輕鬆地在家中獲取這些資訊，不需外出即可了解天下大事。</desc>
+  </programme>
+  <programme start="20260226070000 +0800" stop="20260226080000 +0800" channel="中視新聞台">
+    <title lang="zh">中視早安新聞第26集</title>
+    <desc lang="zh">「中視早安新聞」每天早上透過專業主播的客觀報導，向觀眾提供充足且詳盡的新聞、氣象和交通路況資訊。</desc>
+  </programme>
+  <programme start="20260226080000 +0800" stop="20260226090000 +0800" channel="中視新聞台">
+    <title lang="zh">整點新聞第26集</title>
+    <desc lang="zh">主播會以客觀和專業的方式，每天為觀眾提供上午發生的重大國內外新聞的完整報導。</desc>
+  </programme>
+  <programme start="20260226090000 +0800" stop="20260226100000 +0800" channel="中視新聞台">
+    <title lang="zh">即時新聞現場第26集</title>
+    <desc lang="zh">這個節目將提供觀眾全面且即時的新聞資訊。</desc>
+  </programme>
+  <programme start="20260226100000 +0800" stop="20260226110000 +0800" channel="中視新聞台">
+    <title lang="zh">新庶民大頭家第1631集</title>
+    <desc lang="zh">《新庶民大頭家》由中視當家主播帶大家一起來關心時事!</desc>
+  </programme>
+  <programme start="20260226110000 +0800" stop="20260226115800 +0800" channel="中視新聞台">
+    <title lang="zh">新庶民大頭家第1631集</title>
+    <desc lang="zh">《新庶民大頭家》由中視當家主播帶大家一起來關心時事!</desc>
+  </programme>
+  <programme start="20260226115800 +0800" stop="20260226130000 +0800" channel="中視新聞台">
+    <title lang="zh">中視午間新聞第26集</title>
+    <desc lang="zh">「中視午間新聞」以最客觀、專業的主播，為觀眾提供一個全面報導上午發生的重大國內外重要新聞的平台，同時也提供最新的股市收盤價格。</desc>
+  </programme>
+  <programme start="20260226130000 +0800" stop="20260226140000 +0800" channel="中視新聞台">
+    <title lang="zh">即時新聞現場第26集</title>
+    <desc lang="zh">這個節目將提供觀眾全面且即時的新聞資訊。</desc>
+  </programme>
+  <programme start="20260226140000 +0800" stop="20260226150000 +0800" channel="中視新聞台">
+    <title lang="zh">即時新聞現場第26集</title>
+    <desc lang="zh">這個節目將提供觀眾全面且即時的新聞資訊。</desc>
+  </programme>
+  <programme start="20260226150000 +0800" stop="20260226160000 +0800" channel="中視新聞台">
+    <title lang="zh">即時新聞現場第26集</title>
+    <desc lang="zh">這個節目將提供觀眾全面且即時的新聞資訊。</desc>
+  </programme>
+  <programme start="20260226160000 +0800" stop="20260226170000 +0800" channel="中視新聞台">
+    <title lang="zh">新庶民大頭家第1632集</title>
+    <desc lang="zh">《新庶民大頭家》由中視當家主播帶大家一起來關心時事!</desc>
+  </programme>
+  <programme start="20260226170000 +0800" stop="20260226180000 +0800" channel="中視新聞台">
+    <title lang="zh">新庶民大頭家第1632集</title>
+    <desc lang="zh">《新庶民大頭家》由中視當家主播帶大家一起來關心時事!</desc>
+  </programme>
+  <programme start="20260226180000 +0800" stop="20260226185800 +0800" channel="中視新聞台">
+    <title lang="zh">中視新聞全球報導6點搶先報第26集</title>
+    <desc lang="zh">全球新聞為觀眾提供涵蓋世界各地最新新聞、時尚、健康資訊，以及圖片和趣聞軼事等內容，讓觀眾能夠獲得全面及時的資訊，並且不需要離開家門也能了解全球動態。</desc>
+  </programme>
+  <programme start="20260226185800 +0800" stop="20260226200000 +0800" channel="中視新聞台">
+    <title lang="zh">中視新聞全球報導第26集</title>
+    <desc lang="zh">全球新聞為觀眾提供最新、全面且即時的新聞資訊，包括世界各地的新聞報導、時尚、健康資訊，以及有趣的軼事和娛樂八卦。觀眾可以輕鬆地在家中獲取這些資訊，不需外出即可了解天下大事。</desc>
+  </programme>
+  <programme start="20260226200000 +0800" stop="20260226210000 +0800" channel="中視新聞台">
+    <title lang="zh">新庶民大頭家第1632集</title>
+    <desc lang="zh">《新庶民大頭家》由中視當家主播帶大家一起來關心時事!</desc>
+  </programme>
+  <programme start="20260226210000 +0800" stop="20260226220000 +0800" channel="中視新聞台">
+    <title lang="zh">新庶民大頭家第1632集</title>
+    <desc lang="zh">《新庶民大頭家》由中視當家主播帶大家一起來關心時事!</desc>
+  </programme>
+  <programme start="20260226220000 +0800" stop="20260226230000 +0800" channel="中視新聞台">
+    <title lang="zh">即時新聞現場第26集</title>
+    <desc lang="zh">這個節目將提供觀眾全面且即時的新聞資訊。</desc>
+  </programme>
+  <programme start="20260226230000 +0800" stop="20260227000000 +0800" channel="中視新聞台">
+    <title lang="zh">中視新聞全球報導第26集</title>
+    <desc lang="zh">全球新聞為觀眾提供最新、全面且即時的新聞資訊，包括世界各地的新聞報導、時尚、健康資訊，以及有趣的軼事和娛樂八卦。觀眾可以輕鬆地在家中獲取這些資訊，不需外出即可了解天下大事。</desc>
+  </programme>
   <programme start="20260225000000 +0800" stop="20260225010000 +0800" channel="台視新聞台">
     <title lang="zh">晚安台灣第2891集</title>
     <desc lang="zh">該節目將台視新聞團隊的即時新聞整合，讓觀眾能夠快速了解時事的最新動態。</desc>
@@ -340546,7 +340782,7 @@
   </programme>
   <programme start="20260225003000 +0800" stop="20260225020000 +0800" channel="台視綜合台">
     <title lang="zh">金大花的華麗冒險第1集</title>
-    <desc lang="zh">崙莊市場的醜女金大花，牙齒暴暴的，講話漏風漏風，臉上還有顆凸痣，大家都戲稱她「水查某」！金大花活了二十八年，一次戀愛也沒談過，從小暗戀的冠軍哥，也總是只把她當成「妹妹」，她好希望冠軍哥有一天能喜歡她。 盛大集團的設計部經理杜亮妍，美麗大方，氣質優雅，一出生就是爸爸的掌上明珠。這一天，杜亮妍要和盛大集團總經理歐陽泰結婚了！他們是人人稱羨的一對，但卻有些人正暗地裡對他們的婚姻虎視眈眈.... 當歐陽泰和杜亮妍有一天來到金大花家的雜貨店，大花第一次遇見上流社會的亮妍，對她的美貌感到驚為天人，心中暗暗希望，要是有一天自己能變成她，該有多好？正當大花還沉浸在自己的幻想中時，卻沒想到，她與亮妍的一面之緣，已經開啟一場屬於她的華麗的冒險！</desc>
+    <desc lang="zh">崙莊市場的醜女金大花，牙齒暴暴的，講話漏風漏風，臉上還有顆凸痣，大家都戲稱她「水查某」！金大花活了二十八年，一次戀愛也沒談過，從小暗戀的冠軍哥，也總是只把她當成「妹妹」，她好希望冠軍哥有一天能喜歡她。 盛大集團的設計部經理杜亮妍，美麗大方，氣質優雅，一出生就是爸爸的掌上明珠。這一天，杜亮妍要和盛大集團總經理歐陽泰結婚了！他們是人人稱羨的一對，但卻有些人正暗地裡對他們的婚姻虎視眈眈.... 當歐陽泰和杜亮妍有一天來到金大花家的雜貨店，大花第一次遇見上流社會的亮妍，對她的美貌感到驚為天人，心中暗暗希望，要是有一天自己能變成她，該有多好？正當大花還沉浸在自己的幻想中時，卻沒想到，她與亮妍的一面之緣，</desc>
   </programme>
   <programme start="20260225020000 +0800" stop="20260225030000 +0800" channel="台視綜合台">
     <title lang="zh">飄洋過海來愛你第14集</title>
@@ -340638,7 +340874,7 @@
   </programme>
   <programme start="20260225220000 +0800" stop="20260225233000 +0800" channel="台視綜合台">
     <title lang="zh">金大花的華麗冒險第2集</title>
-    <desc lang="zh">崙莊市場的醜女金大花，牙齒暴暴的，講話漏風漏風，臉上還有顆凸痣，大家都戲稱她「水查某」！金大花活了二十八年，一次戀愛也沒談過，從小暗戀的冠軍哥，也總是只把她當成「妹妹」，她好希望冠軍哥有一天能喜歡她。 盛大集團的設計部經理杜亮妍，美麗大方，氣質優雅，一出生就是爸爸的掌上明珠。這一天，杜亮妍要和盛大集團總經理歐陽泰結婚了！他們是人人稱羨的一對，但卻有些人正暗地裡對他們的婚姻虎視眈眈.... 當歐陽泰和杜亮妍有一天來到金大花家的雜貨店，大花第一次遇見上流社會的亮妍，對她的美貌感到驚為天人，心中暗暗希望，要是有一天自己能變成她，該有多好？正當大花還沉浸在自己的幻想中時，卻沒想到，她與亮妍的一面之緣，已經開啟一場屬於她的華麗的冒險！</desc>
+    <desc lang="zh">崙莊市場的醜女金大花，牙齒暴暴的，講話漏風漏風，臉上還有顆凸痣，大家都戲稱她「水查某」！金大花活了二十八年，一次戀愛也沒談過，從小暗戀的冠軍哥，也總是只把她當成「妹妹」，她好希望冠軍哥有一天能喜歡她。 盛大集團的設計部經理杜亮妍，美麗大方，氣質優雅，一出生就是爸爸的掌上明珠。這一天，杜亮妍要和盛大集團總經理歐陽泰結婚了！他們是人人稱羨的一對，但卻有些人正暗地裡對他們的婚姻虎視眈眈.... 當歐陽泰和杜亮妍有一天來到金大花家的雜貨店，大花第一次遇見上流社會的亮妍，對她的美貌感到驚為天人，心中暗暗希望，要是有一天自己能變成她，該有多好？正當大花還沉浸在自己的幻想中時，卻沒想到，她與亮妍的一面之緣，</desc>
   </programme>
   <programme start="20260225233000 +0800" stop="20260226003000 +0800" channel="台視綜合台">
     <title lang="zh">飄洋過海來愛你第15集</title>
@@ -340646,7 +340882,7 @@
   </programme>
   <programme start="20260226003000 +0800" stop="20260226020000 +0800" channel="台視綜合台">
     <title lang="zh">金大花的華麗冒險第2集</title>
-    <desc lang="zh">崙莊市場的醜女金大花，牙齒暴暴的，講話漏風漏風，臉上還有顆凸痣，大家都戲稱她「水查某」！金大花活了二十八年，一次戀愛也沒談過，從小暗戀的冠軍哥，也總是只把她當成「妹妹」，她好希望冠軍哥有一天能喜歡她。 盛大集團的設計部經理杜亮妍，美麗大方，氣質優雅，一出生就是爸爸的掌上明珠。這一天，杜亮妍要和盛大集團總經理歐陽泰結婚了！他們是人人稱羨的一對，但卻有些人正暗地裡對他們的婚姻虎視眈眈.... 當歐陽泰和杜亮妍有一天來到金大花家的雜貨店，大花第一次遇見上流社會的亮妍，對她的美貌感到驚為天人，心中暗暗希望，要是有一天自己能變成她，該有多好？正當大花還沉浸在自己的幻想中時，卻沒想到，她與亮妍的一面之緣，已經開啟一場屬於她的華麗的冒險！</desc>
+    <desc lang="zh">崙莊市場的醜女金大花，牙齒暴暴的，講話漏風漏風，臉上還有顆凸痣，大家都戲稱她「水查某」！金大花活了二十八年，一次戀愛也沒談過，從小暗戀的冠軍哥，也總是只把她當成「妹妹」，她好希望冠軍哥有一天能喜歡她。 盛大集團的設計部經理杜亮妍，美麗大方，氣質優雅，一出生就是爸爸的掌上明珠。這一天，杜亮妍要和盛大集團總經理歐陽泰結婚了！他們是人人稱羨的一對，但卻有些人正暗地裡對他們的婚姻虎視眈眈.... 當歐陽泰和杜亮妍有一天來到金大花家的雜貨店，大花第一次遇見上流社會的亮妍，對她的美貌感到驚為天人，心中暗暗希望，要是有一天自己能變成她，該有多好？正當大花還沉浸在自己的幻想中時，卻沒想到，她與亮妍的一面之緣，</desc>
   </programme>
   <programme start="20260226020000 +0800" stop="20260226030000 +0800" channel="台視綜合台">
     <title lang="zh">飄洋過海來愛你第15集</title>
@@ -340738,7 +340974,7 @@
   </programme>
   <programme start="20260226220000 +0800" stop="20260226233000 +0800" channel="台視綜合台">
     <title lang="zh">金大花的華麗冒險第3集</title>
-    <desc lang="zh">崙莊市場的醜女金大花，牙齒暴暴的，講話漏風漏風，臉上還有顆凸痣，大家都戲稱她「水查某」！金大花活了二十八年，一次戀愛也沒談過，從小暗戀的冠軍哥，也總是只把她當成「妹妹」，她好希望冠軍哥有一天能喜歡她。 盛大集團的設計部經理杜亮妍，美麗大方，氣質優雅，一出生就是爸爸的掌上明珠。這一天，杜亮妍要和盛大集團總經理歐陽泰結婚了！他們是人人稱羨的一對，但卻有些人正暗地裡對他們的婚姻虎視眈眈.... 當歐陽泰和杜亮妍有一天來到金大花家的雜貨店，大花第一次遇見上流社會的亮妍，對她的美貌感到驚為天人，心中暗暗希望，要是有一天自己能變成她，該有多好？正當大花還沉浸在自己的幻想中時，卻沒想到，她與亮妍的一面之緣，已經開啟一場屬於她的華麗的冒險！</desc>
+    <desc lang="zh">崙莊市場的醜女金大花，牙齒暴暴的，講話漏風漏風，臉上還有顆凸痣，大家都戲稱她「水查某」！金大花活了二十八年，一次戀愛也沒談過，從小暗戀的冠軍哥，也總是只把她當成「妹妹」，她好希望冠軍哥有一天能喜歡她。 盛大集團的設計部經理杜亮妍，美麗大方，氣質優雅，一出生就是爸爸的掌上明珠。這一天，杜亮妍要和盛大集團總經理歐陽泰結婚了！他們是人人稱羨的一對，但卻有些人正暗地裡對他們的婚姻虎視眈眈.... 當歐陽泰和杜亮妍有一天來到金大花家的雜貨店，大花第一次遇見上流社會的亮妍，對她的美貌感到驚為天人，心中暗暗希望，要是有一天自己能變成她，該有多好？正當大花還沉浸在自己的幻想中時，卻沒想到，她與亮妍的一面之緣，</desc>
   </programme>
   <programme start="20260226233000 +0800" stop="20260227003000 +0800" channel="台視綜合台">
     <title lang="zh">飄洋過海來愛你第16集</title>
@@ -340748,17 +340984,9 @@
     <title lang="zh">Verified Live</title>
     <desc lang="zh">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
   </programme>
-  <programme start="20260225003000 +0800" stop="20260225004500 +0800" channel="BBC World News">
-    <title lang="zh">Business Today</title>
-    <desc lang="zh">The latest business news from London and around the world.</desc>
-  </programme>
-  <programme start="20260225004500 +0800" stop="20260225005500 +0800" channel="BBC World News">
-    <title lang="zh">Verified Live</title>
-    <desc lang="zh">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-  </programme>
-  <programme start="20260225005500 +0800" stop="20260225010000 +0800" channel="BBC World News">
-    <title lang="zh">Inside Museums</title>
-    <desc lang="zh">Art critic Alastair Sooke discovers how museums around the world are changing.</desc>
+  <programme start="20260225003000 +0800" stop="20260225010000 +0800" channel="BBC World News">
+    <title lang="zh">War in Ukraine-What Happens Next?</title>
+    <desc lang="zh">Lucy Hockings presents a special programme from Kyiv in Ukraine.</desc>
   </programme>
   <programme start="20260225010000 +0800" stop="20260225013000 +0800" channel="BBC World News">
     <title lang="zh">Verified Live</title>
@@ -341600,13 +341828,9 @@
     <title lang="zh">Singapore Tonight</title>
     <desc lang="zh">From business to politics, health to technology, the latest news from Singapore and analysis of the impact.</desc>
   </programme>
-  <programme start="20260225070000 +0800" stop="20260225100000 +0800" channel="Channel News Asia">
+  <programme start="20260225070000 +0800" stop="20260225110000 +0800" channel="Channel News Asia">
     <title lang="zh">Asia First</title>
     <desc lang="zh">Top stories, business news and market updates from across the region as Asia gears up for the day ahead.</desc>
-  </programme>
-  <programme start="20260225100000 +0800" stop="20260225110000 +0800" channel="Channel News Asia">
-    <title lang="zh">Who’s Driving Now?</title>
-    <desc lang="zh">From delivery vans to air taxis, hosts Justin Ang and Vernon Anthonisz explore how autonomous technology is reshaping cities in China, and what life could look like in a fully driverless world.</desc>
   </programme>
   <programme start="20260225110000 +0800" stop="20260225130000 +0800" channel="Channel News Asia">
     <title lang="zh">Asia Now</title>
@@ -341662,103 +341886,103 @@
   </programme>
   <programme start="20260226000000 +0800" stop="20260226000300 +0800" channel="Channel News Asia">
     <title lang="zh">Headline News</title>
-    <desc lang="zh">The latest top stories of the hour.</desc>
+    <desc lang="zh">最新頭條新聞本地和世界新聞的最新更新。</desc>
   </programme>
   <programme start="20260226000300 +0800" stop="20260226010000 +0800" channel="Channel News Asia">
     <title lang="zh">East Asia Tonight</title>
-    <desc lang="zh">Spotlight on East Asia, a region steeped in history and now helping to write the future of our world. We`ll break down the key stories and explain why they matter.</desc>
+    <desc lang="zh">East Asia Tonight</desc>
   </programme>
   <programme start="20260226010000 +0800" stop="20260226020000 +0800" channel="Channel News Asia">
     <title lang="zh">Besties</title>
-    <desc lang="zh">Singaporeans test AI companions in a loneliness epidemic. Can digital friends truly replace human connection?</desc>
+    <desc lang="zh">Besties</desc>
   </programme>
   <programme start="20260226020000 +0800" stop="20260226030000 +0800" channel="Channel News Asia">
     <title lang="zh">Singapore Tonight</title>
-    <desc lang="zh">From business to politics, health to technology, the latest news from Singapore and analysis of the impact.</desc>
+    <desc lang="zh">《新加坡今夜》是一個對新加坡當天的重大新聞進行彙總的節目。</desc>
   </programme>
   <programme start="20260226030000 +0800" stop="20260226040000 +0800" channel="Channel News Asia">
-    <title lang="zh">Love After 60 In India</title>
-    <desc lang="zh">These lonely seniors, all over 60, are searching for love. But in conservative Indian society, they must defy taboos and face judgmenteven from their own families.</desc>
+    <title lang="zh">Love After 60</title>
+    <desc lang="zh">Love After 60</desc>
   </programme>
   <programme start="20260226040000 +0800" stop="20260226050000 +0800" channel="Channel News Asia">
     <title lang="zh">Asia Tonight</title>
-    <desc lang="zh">CNA correspondents bring you the top stories of the day with `live` reports and interviews to keep you up-to-date on the day’s events.</desc>
+    <desc lang="zh">CNA`s correspondents bring you the top stories of the day with `live` reports and interviews to keep you up-to-date on what`s happening in one of the most dynamic regions of the world.</desc>
   </programme>
   <programme start="20260226050000 +0800" stop="20260226053000 +0800" channel="Channel News Asia">
     <title lang="zh">Money Mind</title>
-    <desc lang="zh">When online shopping is cheap, how does a family shop compete? From humble crop to premium experience, without borrowing a cent. How do you price a family recipe, when grandma wants to sell for RM5?</desc>
+    <desc lang="zh">Is the greenback on its way down, and what does it mean for you? Why dirty money is still circulating, and where it comes from. And how algorithms and venture capital help people grow old gracefully.</desc>
   </programme>
   <programme start="20260226053000 +0800" stop="20260226060000 +0800" channel="Channel News Asia">
     <title lang="zh">CNA Correspondent</title>
-    <desc lang="zh">From protests to polling booths, the youth of Bangladesh have been at the forefront of political transition. CNA Correspondent meets the generation that reset a nation.</desc>
+    <desc lang="zh">Bushfires in Australia. Deforestation in Amazon. Rising sea level in Mumbai. CNA Correspondent examines the combination of causes - human and nature.</desc>
   </programme>
   <programme start="20260226060000 +0800" stop="20260226070000 +0800" channel="Channel News Asia">
     <title lang="zh">Singapore Tonight</title>
-    <desc lang="zh">From business to politics, health to technology, the latest news from Singapore and analysis of the impact.</desc>
+    <desc lang="zh">《新加坡今夜》是一個對新加坡當天的重大新聞進行彙總的節目。</desc>
   </programme>
   <programme start="20260226070000 +0800" stop="20260226100000 +0800" channel="Channel News Asia">
     <title lang="zh">Asia First</title>
-    <desc lang="zh">Top stories, business news and market updates from across the region as Asia gears up for the day ahead.</desc>
+    <desc lang="zh">You`ll wake up to understanding how developments in news and business across the globe overnight impacts you and affects your work day ahead in the Asia Pacific.</desc>
   </programme>
   <programme start="20260226100000 +0800" stop="20260226103000 +0800" channel="Channel News Asia">
     <title lang="zh">Money Mind</title>
-    <desc lang="zh">When online shopping is cheap, how does a family shop compete? From humble crop to premium experience, without borrowing a cent. How do you price a family recipe, when grandma wants to sell for RM5?</desc>
+    <desc lang="zh">Is the greenback on its way down, and what does it mean for you? Why dirty money is still circulating, and where it comes from. And how algorithms and venture capital help people grow old gracefully.</desc>
   </programme>
   <programme start="20260226103000 +0800" stop="20260226110000 +0800" channel="Channel News Asia">
     <title lang="zh">CNA Correspondent</title>
-    <desc lang="zh">From protests to polling booths, the youth of Bangladesh have been at the forefront of political transition. CNA Correspondent meets the generation that reset a nation.</desc>
+    <desc lang="zh">Bushfires in Australia. Deforestation in Amazon. Rising sea level in Mumbai. CNA Correspondent examines the combination of causes - human and nature.</desc>
   </programme>
   <programme start="20260226110000 +0800" stop="20260226130000 +0800" channel="Channel News Asia">
     <title lang="zh">Asia Now</title>
-    <desc lang="zh">Non-stop breaking stories, expert analysis and extensive news coverage every hour.</desc>
+    <desc lang="zh">Catch `live` breaking news as it happens in Asia with in-depth analysis and expert opinions to the day`s events.</desc>
   </programme>
   <programme start="20260226130000 +0800" stop="20260226140000 +0800" channel="Channel News Asia">
     <title lang="zh">Who’s Driving Now?</title>
-    <desc lang="zh">From delivery vans to air taxis, hosts Justin Ang and Vernon Anthonisz explore how autonomous technology is reshaping cities in China, and what life could look like in a fully driverless world.</desc>
+    <desc lang="zh">Who’s Driving Now?</desc>
   </programme>
   <programme start="20260226140000 +0800" stop="20260226160000 +0800" channel="Channel News Asia">
     <title lang="zh">Asia Now</title>
-    <desc lang="zh">Non-stop breaking stories, expert analysis and extensive news coverage every hour.</desc>
+    <desc lang="zh">Catch `live` breaking news as it happens in Asia with in-depth analysis and expert opinions to the day`s events.</desc>
   </programme>
   <programme start="20260226160000 +0800" stop="20260226170000 +0800" channel="Channel News Asia">
     <title lang="zh">Singapore Hour</title>
-    <desc lang="zh">Edible art, epic floats, solo fun and farm-fresh love - from Singapore’s brightest parade to Taiwan’s quiet fields, four stories of carving life out your own way.</desc>
+    <desc lang="zh">Singapore Hour</desc>
   </programme>
   <programme start="20260226170000 +0800" stop="20260226170200 +0800" channel="Channel News Asia">
     <title lang="zh">Headline News</title>
-    <desc lang="zh">The latest top stories of the hour.</desc>
+    <desc lang="zh">最新頭條新聞本地和世界新聞的最新更新。</desc>
   </programme>
   <programme start="20260226170200 +0800" stop="20260226180000 +0800" channel="Channel News Asia">
     <title lang="zh">Besties</title>
-    <desc lang="zh">Singaporeans test AI companions in a loneliness epidemic. Can digital friends truly replace human connection?</desc>
+    <desc lang="zh">Besties</desc>
   </programme>
   <programme start="20260226180000 +0800" stop="20260226190000 +0800" channel="Channel News Asia">
     <title lang="zh">East Asia Tonight</title>
-    <desc lang="zh">Spotlight on East Asia, a region steeped in history and now helping to write the future of our world. We`ll break down the key stories and explain why they matter.</desc>
+    <desc lang="zh">East Asia Tonight</desc>
   </programme>
   <programme start="20260226190000 +0800" stop="20260226200000 +0800" channel="Channel News Asia">
     <title lang="zh">Besties</title>
-    <desc lang="zh">Singaporeans test AI companions in a loneliness epidemic. Can digital friends truly replace human connection?</desc>
+    <desc lang="zh">Besties</desc>
   </programme>
   <programme start="20260226200000 +0800" stop="20260226210000 +0800" channel="Channel News Asia">
     <title lang="zh">Asia Tonight</title>
-    <desc lang="zh">CNA correspondents bring you the top stories of the day with `live` reports and interviews to keep you up-to-date on the day’s events.</desc>
+    <desc lang="zh">CNA`s correspondents bring you the top stories of the day with `live` reports and interviews to keep you up-to-date on what`s happening in one of the most dynamic regions of the world.</desc>
   </programme>
   <programme start="20260226210000 +0800" stop="20260226220000 +0800" channel="Channel News Asia">
     <title lang="zh">Insight</title>
-    <desc lang="zh">How does overpopulation intersect with poverty, climate change, youth unemployment and political constraints to put pressure on Pakistan`s ability to sustain its people?</desc>
+    <desc lang="zh">Can the new poor in Malaysia cope and survive the challenges in the new post-pandemic era?</desc>
   </programme>
   <programme start="20260226220000 +0800" stop="20260226230000 +0800" channel="Channel News Asia">
     <title lang="zh">Singapore Tonight</title>
-    <desc lang="zh">From business to politics, health to technology, the latest news from Singapore and analysis of the impact.</desc>
+    <desc lang="zh">《新加坡今夜》是一個對新加坡當天的重大新聞進行彙總的節目。</desc>
   </programme>
   <programme start="20260226230000 +0800" stop="20260226233000 +0800" channel="Channel News Asia">
     <title lang="zh">Money Mind</title>
-    <desc lang="zh">When online shopping is cheap, how does a family shop compete? From humble crop to premium experience, without borrowing a cent. How do you price a family recipe, when grandma wants to sell for RM5?</desc>
+    <desc lang="zh">Is the greenback on its way down, and what does it mean for you? Why dirty money is still circulating, and where it comes from. And how algorithms and venture capital help people grow old gracefully.</desc>
   </programme>
   <programme start="20260226233000 +0800" stop="20260227000000 +0800" channel="Channel News Asia">
     <title lang="zh">CNA Correspondent</title>
-    <desc lang="zh">From protests to polling booths, the youth of Bangladesh have been at the forefront of political transition. CNA Correspondent meets the generation that reset a nation.</desc>
+    <desc lang="zh">Bushfires in Australia. Deforestation in Amazon. Rising sea level in Mumbai. CNA Correspondent examines the combination of causes - human and nature.</desc>
   </programme>
   <programme start="20260225000000 +0800" stop="20260225003000 +0800" channel="TaiwanPlus有線">
     <title lang="zh">Taiwan＋ News第39集</title>
@@ -355247,40 +355471,40 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <desc lang="zh">辣椒決定變成一位叫做辣椒超人的超級英雄！邪惡豆豆把馬鈴薯超人淋滿黏黏的蜂蜜之後，就是考驗辣椒超人的超級英雄能力的時候了。辣椒的熱度拯救了大家。</desc>
   </programme>
   <programme start="20260225003000 +0800" stop="20260225013000 +0800" channel="Eurosport">
-    <title lang="zh">自行車-職業系列</title>
-    <desc lang="zh">自行車-職業系列</desc>
+    <title lang="zh">阿爾加維之旅 第1站</title>
+    <desc lang="zh">阿爾加維之旅 第1站</desc>
   </programme>
   <programme start="20260225013000 +0800" stop="20260225023000 +0800" channel="Eurosport">
-    <title lang="zh">自行車-職業系列</title>
-    <desc lang="zh">自行車-職業系列</desc>
+    <title lang="zh">阿爾加維環線 第二階段</title>
+    <desc lang="zh">阿爾加維環線 第二階段</desc>
   </programme>
-  <programme start="20260225023000 +0800" stop="20260225030000 +0800" channel="Eurosport">
-    <title lang="zh">自行車-職業系列</title>
-    <desc lang="zh">自行車-職業系列</desc>
+  <programme start="20260225023000 +0800" stop="20260225033000 +0800" channel="Eurosport">
+    <title lang="zh">阿爾加維之旅 第三階段</title>
+    <desc lang="zh">阿爾加維之旅 第三階段</desc>
   </programme>
-  <programme start="20260225030000 +0800" stop="20260225040000 +0800" channel="Eurosport">
-    <title lang="zh">馬術大賽</title>
-    <desc lang="zh">馬術大賽</desc>
-  </programme>
-  <programme start="20260225040000 +0800" stop="20260225043000 +0800" channel="Eurosport">
-    <title lang="zh">自行車-職業系列</title>
-    <desc lang="zh">自行車-職業系列</desc>
+  <programme start="20260225033000 +0800" stop="20260225043000 +0800" channel="Eurosport">
+    <title lang="zh">阿爾加維之旅 第四階段</title>
+    <desc lang="zh">阿爾加維之旅 第四階段</desc>
   </programme>
   <programme start="20260225043000 +0800" stop="20260225053000 +0800" channel="Eurosport">
-    <title lang="zh">自行車-職業系列</title>
-    <desc lang="zh">自行車-職業系列</desc>
+    <title lang="zh">阿爾加維之旅 第五站</title>
+    <desc lang="zh">阿爾加維之旅 第五站</desc>
   </programme>
   <programme start="20260225053000 +0800" stop="20260225070000 +0800" channel="Eurosport">
     <title lang="zh">克朗斯莫爾塔男子高山滑雪速降賽</title>
     <desc lang="zh">克朗斯莫爾塔男子高山滑雪速降賽</desc>
   </programme>
   <programme start="20260225070000 +0800" stop="20260225080000 +0800" channel="Eurosport">
-    <title lang="zh">自行車-職業系列</title>
-    <desc lang="zh">自行車-職業系列</desc>
+    <title lang="zh">安達盧西亞之 vuelta 第三階段</title>
+    <desc lang="zh">安達盧西亞之 vuelta 第三階段</desc>
   </programme>
-  <programme start="20260225080000 +0800" stop="20260225103000 +0800" channel="Eurosport">
-    <title lang="zh">自行車-職業系列</title>
-    <desc lang="zh">自行車-職業系列</desc>
+  <programme start="20260225080000 +0800" stop="20260225090000 +0800" channel="Eurosport">
+    <title lang="zh">阿爾加維之旅 第三階段</title>
+    <desc lang="zh">阿爾加維之旅 第三階段</desc>
+  </programme>
+  <programme start="20260225090000 +0800" stop="20260225103000 +0800" channel="Eurosport">
+    <title lang="zh">阿聯酋環迴賽 第三階段</title>
+    <desc lang="zh">阿聯酋環迴賽 第三階段</desc>
   </programme>
   <programme start="20260225103000 +0800" stop="20260225120000 +0800" channel="Eurosport">
     <title lang="zh">克朗斯蒙塔納女子超級大回轉賽</title>
@@ -355295,36 +355519,36 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <desc lang="zh">大獎賽回顧</desc>
   </programme>
   <programme start="20260225140000 +0800" stop="20260225150000 +0800" channel="Eurosport">
-    <title lang="zh">自行車-職業系列</title>
-    <desc lang="zh">自行車-職業系列</desc>
+    <title lang="zh">安達盧西亞之 vuelta 第三階段</title>
+    <desc lang="zh">安達盧西亞之 vuelta 第三階段</desc>
   </programme>
-  <programme start="20260225150000 +0800" stop="20260225170000 +0800" channel="Eurosport">
-    <title lang="zh">自行車-職業系列</title>
-    <desc lang="zh">自行車-職業系列</desc>
+  <programme start="20260225150000 +0800" stop="20260225160000 +0800" channel="Eurosport">
+    <title lang="zh">阿爾加維之旅 第三階段</title>
+    <desc lang="zh">阿爾加維之旅 第三階段</desc>
+  </programme>
+  <programme start="20260225160000 +0800" stop="20260225170000 +0800" channel="Eurosport">
+    <title lang="zh">阿聯酋環迴賽 第三階段</title>
+    <desc lang="zh">阿聯酋環迴賽 第三階段</desc>
   </programme>
   <programme start="20260225170000 +0800" stop="20260225180000 +0800" channel="Eurosport">
     <title lang="zh">克朗斯蒙塔納女子超級大回轉賽</title>
     <desc lang="zh">克朗斯蒙塔納女子超級大回轉賽</desc>
   </programme>
-  <programme start="20260225180000 +0800" stop="20260225190000 +0800" channel="Eurosport">
-    <title lang="zh">馬術大賽</title>
-    <desc lang="zh">馬術大賽</desc>
-  </programme>
-  <programme start="20260225190000 +0800" stop="20260225193000 +0800" channel="Eurosport">
-    <title lang="zh">法爾迪法薩滑雪越野賽</title>
-    <desc lang="zh">法爾迪法薩滑雪越野賽</desc>
+  <programme start="20260225180000 +0800" stop="20260225193000 +0800" channel="Eurosport">
+    <title lang="zh">克朗斯蒙塔納男子速降賽</title>
+    <desc lang="zh">克朗斯蒙塔納男子速降賽</desc>
   </programme>
   <programme start="20260225193000 +0800" stop="20260225203000 +0800" channel="Eurosport">
     <title lang="zh">跳躍普埃布拉</title>
     <desc lang="zh">跳躍普埃布拉</desc>
   </programme>
   <programme start="20260225203000 +0800" stop="20260225213000 +0800" channel="Eurosport">
-    <title lang="zh">自行車-職業系列</title>
-    <desc lang="zh">自行車-職業系列</desc>
+    <title lang="zh">安達盧西亞之 vuelta 第三階段</title>
+    <desc lang="zh">安達盧西亞之 vuelta 第三階段</desc>
   </programme>
   <programme start="20260225213000 +0800" stop="20260225223000 +0800" channel="Eurosport">
-    <title lang="zh">自行車-職業系列</title>
-    <desc lang="zh">自行車-職業系列</desc>
+    <title lang="zh">阿爾加維之旅 第三階段</title>
+    <desc lang="zh">阿爾加維之旅 第三階段</desc>
   </programme>
   <programme start="20260225223000 +0800" stop="20260226000000 +0800" channel="Eurosport">
     <title lang="zh">克朗斯蒙塔納女子超級大回轉賽</title>
@@ -355335,12 +355559,12 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <desc lang="zh">法爾迪法薩滑雪越野賽</desc>
   </programme>
   <programme start="20260226010000 +0800" stop="20260226020000 +0800" channel="Eurosport">
-    <title lang="zh">馬術-世界盃</title>
-    <desc lang="zh">馬術-世界盃</desc>
+    <title lang="zh">跳躍奧卡拉</title>
+    <desc lang="zh">跳躍奧卡拉</desc>
   </programme>
   <programme start="20260226020000 +0800" stop="20260226030000 +0800" channel="Eurosport">
-    <title lang="zh">馬術-世界盃</title>
-    <desc lang="zh">馬術-世界盃</desc>
+    <title lang="zh">跳躍哥德堡</title>
+    <desc lang="zh">跳躍哥德堡</desc>
   </programme>
   <programme start="20260226030000 +0800" stop="20260226040000 +0800" channel="Eurosport">
     <title lang="zh">威林根男子HS 147</title>
@@ -355355,16 +355579,20 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <desc lang="zh">克朗斯莫爾塔男子高山滑雪速降賽</desc>
   </programme>
   <programme start="20260226060000 +0800" stop="20260226070000 +0800" channel="Eurosport">
-    <title lang="zh">馬術-世界盃</title>
-    <desc lang="zh">馬術-世界盃</desc>
+    <title lang="zh">跳躍奧卡拉</title>
+    <desc lang="zh">跳躍奧卡拉</desc>
   </programme>
   <programme start="20260226070000 +0800" stop="20260226080000 +0800" channel="Eurosport">
-    <title lang="zh">自行車-職業系列</title>
-    <desc lang="zh">自行車-職業系列</desc>
+    <title lang="zh">安達盧西亞回歸賽 第四階段</title>
+    <desc lang="zh">安達盧西亞回歸賽 第四階段</desc>
   </programme>
-  <programme start="20260226080000 +0800" stop="20260226103000 +0800" channel="Eurosport">
-    <title lang="zh">自行車-職業系列</title>
-    <desc lang="zh">自行車-職業系列</desc>
+  <programme start="20260226080000 +0800" stop="20260226090000 +0800" channel="Eurosport">
+    <title lang="zh">阿爾加維之旅 第四階段</title>
+    <desc lang="zh">阿爾加維之旅 第四階段</desc>
+  </programme>
+  <programme start="20260226090000 +0800" stop="20260226103000 +0800" channel="Eurosport">
+    <title lang="zh">阿聯酋巡迴賽 第四階段</title>
+    <desc lang="zh">阿聯酋巡迴賽 第四階段</desc>
   </programme>
   <programme start="20260226103000 +0800" stop="20260226113000 +0800" channel="Eurosport">
     <title lang="zh">威林根男子HS 147</title>
@@ -355379,44 +355607,48 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <desc lang="zh">威林根男子HS 147</desc>
   </programme>
   <programme start="20260226130000 +0800" stop="20260226140000 +0800" channel="Eurosport">
+    <title lang="zh">阿聯酋巡迴賽 第五站</title>
+    <desc lang="zh">阿聯酋巡迴賽 第五站</desc>
+  </programme>
+  <programme start="20260226140000 +0800" stop="20260226150000 +0800" channel="Eurosport">
+    <title lang="zh">安達盧西亞回歸賽 第四階段</title>
+    <desc lang="zh">安達盧西亞回歸賽 第四階段</desc>
+  </programme>
+  <programme start="20260226150000 +0800" stop="20260226160000 +0800" channel="Eurosport">
+    <title lang="zh">阿爾加維之旅 第四階段</title>
+    <desc lang="zh">阿爾加維之旅 第四階段</desc>
+  </programme>
+  <programme start="20260226160000 +0800" stop="20260226170000 +0800" channel="Eurosport">
+    <title lang="zh">阿聯酋巡迴賽 第四階段</title>
+    <desc lang="zh">阿聯酋巡迴賽 第四階段</desc>
+  </programme>
+  <programme start="20260226170000 +0800" stop="20260226180000 +0800" channel="Eurosport">
+    <title lang="zh">威林根男子HS 147</title>
+    <desc lang="zh">威林根男子HS 147</desc>
+  </programme>
+  <programme start="20260226180000 +0800" stop="20260226190000 +0800" channel="Eurosport">
+    <title lang="zh">克朗斯莫爾塔男子高山滑雪速降賽</title>
+    <desc lang="zh">克朗斯莫爾塔男子高山滑雪速降賽</desc>
+  </programme>
+  <programme start="20260226190000 +0800" stop="20260226200000 +0800" channel="Eurosport">
     <title lang="zh">阿曼之旅回顧</title>
     <desc lang="zh">阿曼之旅回顧</desc>
   </programme>
-  <programme start="20260226140000 +0800" stop="20260226150000 +0800" channel="Eurosport">
-    <title lang="zh">自行車-職業系列</title>
-    <desc lang="zh">自行車-職業系列</desc>
+  <programme start="20260226200000 +0800" stop="20260226210000 +0800" channel="Eurosport">
+    <title lang="zh">跳躍哥德堡</title>
+    <desc lang="zh">跳躍哥德堡</desc>
   </programme>
-  <programme start="20260226150000 +0800" stop="20260226173000 +0800" channel="Eurosport">
-    <title lang="zh">自行車-職業系列</title>
-    <desc lang="zh">自行車-職業系列</desc>
+  <programme start="20260226210000 +0800" stop="20260226220000 +0800" channel="Eurosport">
+    <title lang="zh">安達盧西亞回歸賽 第四階段</title>
+    <desc lang="zh">安達盧西亞回歸賽 第四階段</desc>
   </programme>
-  <programme start="20260226173000 +0800" stop="20260226183000 +0800" channel="Eurosport">
+  <programme start="20260226220000 +0800" stop="20260226230000 +0800" channel="Eurosport">
+    <title lang="zh">阿爾加維之旅 第四階段</title>
+    <desc lang="zh">阿爾加維之旅 第四階段</desc>
+  </programme>
+  <programme start="20260226230000 +0800" stop="20260227000000 +0800" channel="Eurosport">
     <title lang="zh">威林根男子HS 147</title>
     <desc lang="zh">威林根男子HS 147</desc>
-  </programme>
-  <programme start="20260226183000 +0800" stop="20260226193000 +0800" channel="Eurosport">
-    <title lang="zh">克朗斯莫爾塔男子高山滑雪速降賽</title>
-    <desc lang="zh">克朗斯莫爾塔男子高山滑雪速降賽</desc>
-  </programme>
-  <programme start="20260226193000 +0800" stop="20260226203000 +0800" channel="Eurosport">
-    <title lang="zh">馬術-世界盃</title>
-    <desc lang="zh">馬術-世界盃</desc>
-  </programme>
-  <programme start="20260226203000 +0800" stop="20260226213000 +0800" channel="Eurosport">
-    <title lang="zh">自行車-職業系列</title>
-    <desc lang="zh">自行車-職業系列</desc>
-  </programme>
-  <programme start="20260226213000 +0800" stop="20260226223000 +0800" channel="Eurosport">
-    <title lang="zh">自行車-職業系列</title>
-    <desc lang="zh">自行車-職業系列</desc>
-  </programme>
-  <programme start="20260226223000 +0800" stop="20260226233000 +0800" channel="Eurosport">
-    <title lang="zh">威林根男子HS 147</title>
-    <desc lang="zh">威林根男子HS 147</desc>
-  </programme>
-  <programme start="20260226233000 +0800" stop="20260227003000 +0800" channel="Eurosport">
-    <title lang="zh">克朗斯莫爾塔男子高山滑雪速降賽</title>
-    <desc lang="zh">克朗斯莫爾塔男子高山滑雪速降賽</desc>
   </programme>
   <programme start="20260225000000 +0800" stop="20260225020000 +0800" channel="博斯運動二台有線">
     <title lang="zh">2025-26亞足聯女子冠軍聯賽A組預賽(5)公馬內湖vs獅城水手</title>
@@ -355733,6 +355965,62 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
   <programme start="20260226230000 +0800" stop="20260227030000 +0800" channel="博斯網球台有線">
     <title lang="zh">LIVE2026杜拜男網賽八強2300-0300</title>
     <desc lang="zh">博斯網球台獨家直播13場ATP 500分級賽事、9場ATP 1000分級賽事與一場ATP世界年終錦標賽，全年超過25場的精采網球賽事，超過1350小時的HD高畫質精采網球對抗，讓你掌握第一手網球戰況與資訊。想知道四大天王的最新消息？想知道90後球王接班人選？想知道各球星的最新動態？全部都在最具人氣的網球頻道「博斯網球台」。</desc>
+  </programme>
+  <programme start="20260225060000 +0800" stop="20260225073000 +0800" channel="博斯無限台有線">
+    <title lang="zh">2025-26司諾克賽季 德國名人賽 第一輪(2)WIL vs LAM</title>
+    <desc lang="zh">博斯無限台獨家掌握度世界司諾克撞球賽事、LFL職業女子美式足球、世界房車系列賽事…等賽事。讓觀眾一整年不間斷地欣賞場上各國選手的競技。除此之外，博斯無限台也提供不同內容的運動賽事，滿足觀眾想要收看多元賽事的渴望，無論是拳拳到肉的格鬥、拳擊、跆拳道比賽；急速飛馳的德國國際房車大賽(DTM)、美國賽車系列(NASCAR)；鬥智鬥力的紫色羽球聯盟與國際桌球賽事…等，博斯無限台就是要帶大家最刺激、最緊張的運動饗宴。</desc>
+  </programme>
+  <programme start="20260225073000 +0800" stop="20260225090000 +0800" channel="博斯無限台有線">
+    <title lang="zh">2025-26司諾克賽季 德國名人賽 第一輪(3)OSUL vs ZEH</title>
+    <desc lang="zh">博斯無限台獨家掌握度世界司諾克撞球賽事、LFL職業女子美式足球、世界房車系列賽事…等賽事。讓觀眾一整年不間斷地欣賞場上各國選手的競技。除此之外，博斯無限台也提供不同內容的運動賽事，滿足觀眾想要收看多元賽事的渴望，無論是拳拳到肉的格鬥、拳擊、跆拳道比賽；急速飛馳的德國國際房車大賽(DTM)、美國賽車系列(NASCAR)；鬥智鬥力的紫色羽球聯盟與國際桌球賽事…等，博斯無限台就是要帶大家最刺激、最緊張的運動饗宴。</desc>
+  </programme>
+  <programme start="20260225090000 +0800" stop="20260225120000 +0800" channel="博斯無限台有線">
+    <title lang="zh">2024-25司諾克賽季 世界公開賽 16強(1)HIG vs ZHO</title>
+    <desc lang="zh">博斯無限台獨家掌握度世界司諾克撞球賽事、LFL職業女子美式足球、世界房車系列賽事…等賽事。讓觀眾一整年不間斷地欣賞場上各國選手的競技。除此之外，博斯無限台也提供不同內容的運動賽事，滿足觀眾想要收看多元賽事的渴望，無論是拳拳到肉的格鬥、拳擊、跆拳道比賽；急速飛馳的德國國際房車大賽(DTM)、美國賽車系列(NASCAR)；鬥智鬥力的紫色羽球聯盟與國際桌球賽事…等，博斯無限台就是要帶大家最刺激、最緊張的運動饗宴。</desc>
+  </programme>
+  <programme start="20260225120000 +0800" stop="20260225133000 +0800" channel="博斯無限台有線">
+    <title lang="zh">2024-25司諾克賽季 德國名人賽 第一輪 ALL vs LIL</title>
+    <desc lang="zh">博斯無限台獨家掌握度世界司諾克撞球賽事、LFL職業女子美式足球、世界房車系列賽事…等賽事。讓觀眾一整年不間斷地欣賞場上各國選手的競技。除此之外，博斯無限台也提供不同內容的運動賽事，滿足觀眾想要收看多元賽事的渴望，無論是拳拳到肉的格鬥、拳擊、跆拳道比賽；急速飛馳的德國國際房車大賽(DTM)、美國賽車系列(NASCAR)；鬥智鬥力的紫色羽球聯盟與國際桌球賽事…等，博斯無限台就是要帶大家最刺激、最緊張的運動饗宴。</desc>
+  </programme>
+  <programme start="20260225133000 +0800" stop="20260225150000 +0800" channel="博斯無限台有線">
+    <title lang="zh">2024-25司諾克賽季 德國名人賽 第一輪 WIL vs CHE</title>
+    <desc lang="zh">博斯無限台獨家掌握度世界司諾克撞球賽事、LFL職業女子美式足球、世界房車系列賽事…等賽事。讓觀眾一整年不間斷地欣賞場上各國選手的競技。除此之外，博斯無限台也提供不同內容的運動賽事，滿足觀眾想要收看多元賽事的渴望，無論是拳拳到肉的格鬥、拳擊、跆拳道比賽；急速飛馳的德國國際房車大賽(DTM)、美國賽車系列(NASCAR)；鬥智鬥力的紫色羽球聯盟與國際桌球賽事…等，博斯無限台就是要帶大家最刺激、最緊張的運動饗宴。</desc>
+  </programme>
+  <programme start="20260225150000 +0800" stop="20260225180000 +0800" channel="博斯無限台有線">
+    <title lang="zh">首播 2025-26司諾克賽季 威爾斯公開賽 第一輪</title>
+    <desc lang="zh">博斯無限台獨家掌握度世界司諾克撞球賽事、LFL職業女子美式足球、世界房車系列賽事…等賽事。讓觀眾一整年不間斷地欣賞場上各國選手的競技。除此之外，博斯無限台也提供不同內容的運動賽事，滿足觀眾想要收看多元賽事的渴望，無論是拳拳到肉的格鬥、拳擊、跆拳道比賽；急速飛馳的德國國際房車大賽(DTM)、美國賽車系列(NASCAR)；鬥智鬥力的紫色羽球聯盟與國際桌球賽事…等，博斯無限台就是要帶大家最刺激、最緊張的運動饗宴。</desc>
+  </programme>
+  <programme start="20260225180000 +0800" stop="20260226060000 +0800" channel="博斯無限台有線">
+    <title lang="zh">LIVE 2025-26司諾克賽季 威爾斯公開賽 第二輪 1800-0600</title>
+    <desc lang="zh">博斯無限台獨家掌握度世界司諾克撞球賽事、LFL職業女子美式足球、世界房車系列賽事…等賽事。讓觀眾一整年不間斷地欣賞場上各國選手的競技。除此之外，博斯無限台也提供不同內容的運動賽事，滿足觀眾想要收看多元賽事的渴望，無論是拳拳到肉的格鬥、拳擊、跆拳道比賽；急速飛馳的德國國際房車大賽(DTM)、美國賽車系列(NASCAR)；鬥智鬥力的紫色羽球聯盟與國際桌球賽事…等，博斯無限台就是要帶大家最刺激、最緊張的運動饗宴。</desc>
+  </programme>
+  <programme start="20260226060000 +0800" stop="20260226073000 +0800" channel="博斯無限台有線">
+    <title lang="zh">2025-26司諾克賽季 德國名人賽 第二輪(1)WIL vs MC</title>
+    <desc lang="zh">博斯無限台獨家掌握度世界司諾克撞球賽事、LFL職業女子美式足球、世界房車系列賽事…等賽事。讓觀眾一整年不間斷地欣賞場上各國選手的競技。除此之外，博斯無限台也提供不同內容的運動賽事，滿足觀眾想要收看多元賽事的渴望，無論是拳拳到肉的格鬥、拳擊、跆拳道比賽；急速飛馳的德國國際房車大賽(DTM)、美國賽車系列(NASCAR)；鬥智鬥力的紫色羽球聯盟與國際桌球賽事…等，博斯無限台就是要帶大家最刺激、最緊張的運動饗宴。</desc>
+  </programme>
+  <programme start="20260226073000 +0800" stop="20260226090000 +0800" channel="博斯無限台有線">
+    <title lang="zh">2025-26司諾克賽季 德國名人賽 第二輪(2)TRU vs DAY</title>
+    <desc lang="zh">博斯無限台獨家掌握度世界司諾克撞球賽事、LFL職業女子美式足球、世界房車系列賽事…等賽事。讓觀眾一整年不間斷地欣賞場上各國選手的競技。除此之外，博斯無限台也提供不同內容的運動賽事，滿足觀眾想要收看多元賽事的渴望，無論是拳拳到肉的格鬥、拳擊、跆拳道比賽；急速飛馳的德國國際房車大賽(DTM)、美國賽車系列(NASCAR)；鬥智鬥力的紫色羽球聯盟與國際桌球賽事…等，博斯無限台就是要帶大家最刺激、最緊張的運動饗宴。</desc>
+  </programme>
+  <programme start="20260226090000 +0800" stop="20260226103000 +0800" channel="博斯無限台有線">
+    <title lang="zh">2024-25司諾克賽季 世界公開賽 16強(2)MUR vs DIN</title>
+    <desc lang="zh">博斯無限台獨家掌握度世界司諾克撞球賽事、LFL職業女子美式足球、世界房車系列賽事…等賽事。讓觀眾一整年不間斷地欣賞場上各國選手的競技。除此之外，博斯無限台也提供不同內容的運動賽事，滿足觀眾想要收看多元賽事的渴望，無論是拳拳到肉的格鬥、拳擊、跆拳道比賽；急速飛馳的德國國際房車大賽(DTM)、美國賽車系列(NASCAR)；鬥智鬥力的紫色羽球聯盟與國際桌球賽事…等，博斯無限台就是要帶大家最刺激、最緊張的運動饗宴。</desc>
+  </programme>
+  <programme start="20260226103000 +0800" stop="20260226120000 +0800" channel="博斯無限台有線">
+    <title lang="zh">2024-25司諾克賽季 世界公開賽 8強(1)HIG vs PAN</title>
+    <desc lang="zh">博斯無限台獨家掌握度世界司諾克撞球賽事、LFL職業女子美式足球、世界房車系列賽事…等賽事。讓觀眾一整年不間斷地欣賞場上各國選手的競技。除此之外，博斯無限台也提供不同內容的運動賽事，滿足觀眾想要收看多元賽事的渴望，無論是拳拳到肉的格鬥、拳擊、跆拳道比賽；急速飛馳的德國國際房車大賽(DTM)、美國賽車系列(NASCAR)；鬥智鬥力的紫色羽球聯盟與國際桌球賽事…等，博斯無限台就是要帶大家最刺激、最緊張的運動饗宴。</desc>
+  </programme>
+  <programme start="20260226120000 +0800" stop="20260226150000 +0800" channel="博斯無限台有線">
+    <title lang="zh">2024-25司諾克賽季 德國名人賽 第一輪 TRU vs GRA</title>
+    <desc lang="zh">博斯無限台獨家掌握度世界司諾克撞球賽事、LFL職業女子美式足球、世界房車系列賽事…等賽事。讓觀眾一整年不間斷地欣賞場上各國選手的競技。除此之外，博斯無限台也提供不同內容的運動賽事，滿足觀眾想要收看多元賽事的渴望，無論是拳拳到肉的格鬥、拳擊、跆拳道比賽；急速飛馳的德國國際房車大賽(DTM)、美國賽車系列(NASCAR)；鬥智鬥力的紫色羽球聯盟與國際桌球賽事…等，博斯無限台就是要帶大家最刺激、最緊張的運動饗宴。</desc>
+  </programme>
+  <programme start="20260226150000 +0800" stop="20260226210000 +0800" channel="博斯無限台有線">
+    <title lang="zh">首播 2025-26司諾克賽季 威爾斯公開賽 第二輪</title>
+    <desc lang="zh">博斯無限台獨家掌握度世界司諾克撞球賽事、LFL職業女子美式足球、世界房車系列賽事…等賽事。讓觀眾一整年不間斷地欣賞場上各國選手的競技。除此之外，博斯無限台也提供不同內容的運動賽事，滿足觀眾想要收看多元賽事的渴望，無論是拳拳到肉的格鬥、拳擊、跆拳道比賽；急速飛馳的德國國際房車大賽(DTM)、美國賽車系列(NASCAR)；鬥智鬥力的紫色羽球聯盟與國際桌球賽事…等，博斯無限台就是要帶大家最刺激、最緊張的運動饗宴。</desc>
+  </programme>
+  <programme start="20260226210000 +0800" stop="20260227000000 +0800" channel="博斯無限台有線">
+    <title lang="zh">LIVE 2025-26司諾克賽季 威爾斯公開賽 十六強 2100-0000</title>
+    <desc lang="zh">博斯無限台獨家掌握度世界司諾克撞球賽事、LFL職業女子美式足球、世界房車系列賽事…等賽事。讓觀眾一整年不間斷地欣賞場上各國選手的競技。除此之外，博斯無限台也提供不同內容的運動賽事，滿足觀眾想要收看多元賽事的渴望，無論是拳拳到肉的格鬥、拳擊、跆拳道比賽；急速飛馳的德國國際房車大賽(DTM)、美國賽車系列(NASCAR)；鬥智鬥力的紫色羽球聯盟與國際桌球賽事…等，博斯無限台就是要帶大家最刺激、最緊張的運動饗宴。</desc>
   </programme>
   <programme start="20260225000000 +0800" stop="20260225013000 +0800" channel="博斯無限二台有線">
     <title lang="zh">2024世界盃9號球 第四天(4) FIL vs DOM</title>
@@ -356192,6 +356480,102 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
   </programme>
   <programme start="20260226223000 +0800" stop="20260227000000 +0800" channel="松視4台">
     <title lang="zh">旅館老闆娘是抖M</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260225000000 +0800" stop="20260225020000 +0800" channel="Pandora潘朵啦高畫質玩美台">
+    <title lang="zh">翹成這樣怎能不撞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260225020000 +0800" stop="20260225040000 +0800" channel="Pandora潘朵啦高畫質玩美台">
+    <title lang="zh">淫亂空姐下班後的羞恥挑戰</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260225040000 +0800" stop="20260225060000 +0800" channel="Pandora潘朵啦高畫質玩美台">
+    <title lang="zh">求饒還是插到天亮</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260225060000 +0800" stop="20260225080000 +0800" channel="Pandora潘朵啦高畫質玩美台">
+    <title lang="zh">絕對懷孕連續中出</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260225080000 +0800" stop="20260225100000 +0800" channel="Pandora潘朵啦高畫質玩美台">
+    <title lang="zh">職場裡的強迫羞恥</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260225100000 +0800" stop="20260225120000 +0800" channel="Pandora潘朵啦高畫質玩美台">
+    <title lang="zh">巨乳洗車妹加碼還能睡</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260225120000 +0800" stop="20260225140000 +0800" channel="Pandora潘朵啦高畫質玩美台">
+    <title lang="zh">沒脫就很誘人無敵豐滿J罩杯</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260225140000 +0800" stop="20260225160000 +0800" channel="Pandora潘朵啦高畫質玩美台">
+    <title lang="zh">包養包射好情婦</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260225160000 +0800" stop="20260225180000 +0800" channel="Pandora潘朵啦高畫質玩美台">
+    <title lang="zh">吃了壯陽藥與女友的姊姊獨處</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260225180000 +0800" stop="20260225200000 +0800" channel="Pandora潘朵啦高畫質玩美台">
+    <title lang="zh">慾火挑戰之肉棒猜猜樂</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260225200000 +0800" stop="20260225220000 +0800" channel="Pandora潘朵啦高畫質玩美台">
+    <title lang="zh">好友的炮友是我媽</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260225220000 +0800" stop="20260226000000 +0800" channel="Pandora潘朵啦高畫質玩美台">
+    <title lang="zh">熟人外送茶熟悉最好插</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226000000 +0800" stop="20260226020000 +0800" channel="Pandora潘朵啦高畫質玩美台">
+    <title lang="zh">是妳勾引別怪我硬</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226020000 +0800" stop="20260226040000 +0800" channel="Pandora潘朵啦高畫質玩美台">
+    <title lang="zh">看著妻子被人操</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226040000 +0800" stop="20260226060000 +0800" channel="Pandora潘朵啦高畫質玩美台">
+    <title lang="zh">絲襪還沒脫就被插了</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226060000 +0800" stop="20260226080000 +0800" channel="Pandora潘朵啦高畫質玩美台">
+    <title lang="zh">射三次員工就乖了</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226080000 +0800" stop="20260226100000 +0800" channel="Pandora潘朵啦高畫質玩美台">
+    <title lang="zh">乾姊怕黑要我陪洗澡</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226100000 +0800" stop="20260226120000 +0800" channel="Pandora潘朵啦高畫質玩美台">
+    <title lang="zh">小隻馬忍耐高潮大挑戰</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226120000 +0800" stop="20260226140000 +0800" channel="Pandora潘朵啦高畫質玩美台">
+    <title lang="zh">妻子來到變態聚集的公共澡堂</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226140000 +0800" stop="20260226160000 +0800" channel="Pandora潘朵啦高畫質玩美台">
+    <title lang="zh">硬起來勾引按摩小姐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226160000 +0800" stop="20260226180000 +0800" channel="Pandora潘朵啦高畫質玩美台">
+    <title lang="zh">妻子手機裡的秘密</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226180000 +0800" stop="20260226200000 +0800" channel="Pandora潘朵啦高畫質玩美台">
+    <title lang="zh">魔鏡號之老公在旁也發情</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226200000 +0800" stop="20260226220000 +0800" channel="Pandora潘朵啦高畫質玩美台">
+    <title lang="zh">被傲慢上司奪走的妻子</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226220000 +0800" stop="20260227000000 +0800" channel="Pandora潘朵啦高畫質玩美台">
+    <title lang="zh">超能幹高分家教</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260225001000 +0800" stop="20260225021000 +0800" channel="Pandora潘朵啦高畫質粉紅台">
@@ -356748,6 +357132,102 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
   </programme>
   <programme start="20260226214000 +0800" stop="20260227000000 +0800" channel="彩虹Movie台">
     <title lang="zh">沉溺於羞恥的人妻裸拍</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260225000000 +0800" stop="20260225025000 +0800" channel="K頻道">
+    <title lang="zh">已經去了啊!去不停</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260225025000 +0800" stop="20260225070000 +0800" channel="K頻道">
+    <title lang="zh">偷看大姊姊的內褲</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260225070000 +0800" stop="20260225093000 +0800" channel="K頻道">
+    <title lang="zh">人夫淪陷愛情賓館</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260225093000 +0800" stop="20260225104000 +0800" channel="K頻道">
+    <title lang="zh">請噴在我的臉上</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260225104000 +0800" stop="20260225124000 +0800" channel="K頻道">
+    <title lang="zh">下指令三連發性愛</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260225124000 +0800" stop="20260225142000 +0800" channel="K頻道">
+    <title lang="zh">一男兩女三人行</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260225142000 +0800" stop="20260225175000 +0800" channel="K頻道">
+    <title lang="zh">愛愛就要受委屈</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260225175000 +0800" stop="20260225190000 +0800" channel="K頻道">
+    <title lang="zh">游泳教室寢取巨乳妻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260225190000 +0800" stop="20260225214000 +0800" channel="K頻道">
+    <title lang="zh">她的下體好球帶</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260225214000 +0800" stop="20260225230000 +0800" channel="K頻道">
+    <title lang="zh">完美女神正到爆</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260225230000 +0800" stop="20260226000000 +0800" channel="K頻道">
+    <title lang="zh">用性交治療來懲罰你</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226000000 +0800" stop="20260226041000 +0800" channel="K頻道">
+    <title lang="zh">需要男人的溫暖擁抱</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226041000 +0800" stop="20260226043000 +0800" channel="K頻道">
+    <title lang="zh">醉酒女友色誘我兄弟</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226043000 +0800" stop="20260226054000 +0800" channel="K頻道">
+    <title lang="zh">師傅不停玩弄敏感乳</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226054000 +0800" stop="20260226081000 +0800" channel="K頻道">
+    <title lang="zh">初次的過夜約會</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226081000 +0800" stop="20260226092000 +0800" channel="K頻道">
+    <title lang="zh">不倫對象讓人沉迷</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226092000 +0800" stop="20260226103000 +0800" channel="K頻道">
+    <title lang="zh">女熱大陸</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226103000 +0800" stop="20260226114000 +0800" channel="K頻道">
+    <title lang="zh">與巨乳太太的秘密</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226114000 +0800" stop="20260226134000 +0800" channel="K頻道">
+    <title lang="zh">女主播爽到高潮發抖</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226134000 +0800" stop="20260226163000 +0800" channel="K頻道">
+    <title lang="zh">愛的蕾絲邊解禁</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226163000 +0800" stop="20260226183000 +0800" channel="K頻道">
+    <title lang="zh">交友軟體把到絕美人妻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226183000 +0800" stop="20260226202000 +0800" channel="K頻道">
+    <title lang="zh">泳池野外約炮真棒</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226202000 +0800" stop="20260226222000 +0800" channel="K頻道">
+    <title lang="zh">民宿女郎暴露接待</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226222000 +0800" stop="20260227000000 +0800" channel="K頻道">
+    <title lang="zh">俊男美女的寵愛沙龍</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260225000000 +0800" stop="20260225010000 +0800" channel="HOT頻道">
@@ -364663,11 +365143,11 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260226100000 +0800" stop="20260226125959 +0800" channel="Hami體育3台">
-    <title lang="zh">LIVE 高中硬式木棒聯賽 八強賽｜114學生聯賽</title>
+    <title lang="zh">LIVE 高中硬式木棒聯賽 八強賽 美和中學 VS 平鎮高中 (嘉義棒球場)｜114學生聯賽</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260226130000 +0800" stop="20260226155959 +0800" channel="Hami體育3台">
-    <title lang="zh">LIVE 高中硬式木棒聯賽 八強賽｜114學生聯賽</title>
+    <title lang="zh">LIVE 高中硬式木棒聯賽 八強賽 台東體中 VS 普門中學 (嘉義棒球場)｜114學生聯賽</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260226160000 +0800" stop="20260226175959 +0800" channel="Hami體育3台">
@@ -364687,11 +365167,11 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260226100000 +0800" stop="20260226125959 +0800" channel="Hami體育3台(免費)">
-    <title lang="zh">LIVE 高中硬式木棒聯賽 八強賽｜114學生聯賽</title>
+    <title lang="zh">LIVE 高中硬式木棒聯賽 八強賽 美和中學 VS 平鎮高中 (嘉義棒球場)｜114學生聯賽</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260226130000 +0800" stop="20260226155959 +0800" channel="Hami體育3台(免費)">
-    <title lang="zh">LIVE 高中硬式木棒聯賽 八強賽｜114學生聯賽</title>
+    <title lang="zh">LIVE 高中硬式木棒聯賽 八強賽 台東體中 VS 普門中學 (嘉義棒球場)｜114學生聯賽</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260226160000 +0800" stop="20260226175959 +0800" channel="Hami體育3台(免費)">
@@ -375211,7 +375691,7 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260225183000 +0800" stop="20260226000000 +0800" channel="博斯高球一台">
-    <title lang="zh">2025模里西斯公開賽 第四天(普)</title>
+    <title lang="zh">2026模里西斯公開賽 第四天(普)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260226000000 +0800" stop="20260226053000 +0800" channel="博斯高球一台">
@@ -375219,7 +375699,7 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260226053000 +0800" stop="20260226060000 +0800" channel="博斯高球一台">
-    <title lang="zh">美巡焦點(普)</title>
+    <title lang="zh">2026巴林錦標賽 精華(普)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260226060000 +0800" stop="20260226090000 +0800" channel="博斯高球一台">
@@ -376318,32 +376798,60 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <title lang="zh">週三會議預報(普)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260225090000 +0800" stop="20260225180000 +0800" channel="國會頻道1">
-    <title lang="zh">立法院會議直播(普)</title>
+  <programme start="20260225131000 +0800" stop="20260225164200 +0800" channel="國會頻道1">
+    <title lang="zh">經濟委員會(普)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260225180000 +0800" stop="20260226000000 +0800" channel="國會頻道1">
-    <title lang="zh">當日立法院會議轉播(普)</title>
+  <programme start="20260225164200 +0800" stop="20260225210400 +0800" channel="國會頻道1">
+    <title lang="zh">外交及國防委員會(普)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226000000 +0800" stop="20260226050000 +0800" channel="國會頻道1">
-    <title lang="zh">前日立法院會議轉播(普)</title>
+  <programme start="20260225210400 +0800" stop="20260225213400 +0800" channel="國會頻道1">
+    <title lang="zh">黨團協商(普)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226050000 +0800" stop="20260226084700 +0800" channel="國會頻道1">
-    <title lang="zh">前日立法院會議轉播(普)</title>
+  <programme start="20260225213400 +0800" stop="20260226002700 +0800" channel="國會頻道1">
+    <title lang="zh">立法院院會(普)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226084700 +0800" stop="20260226090000 +0800" channel="國會頻道1">
-    <title lang="zh">週四會議預報(普)</title>
+  <programme start="20260225213400 +0800" stop="20260226002700 +0800" channel="國會頻道1">
+    <title lang="zh">立法院院會(普)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226090000 +0800" stop="20260226180000 +0800" channel="國會頻道1">
-    <title lang="zh">立法院會議直播(普)</title>
+  <programme start="20260226002700 +0800" stop="20260226044900 +0800" channel="國會頻道1">
+    <title lang="zh">外交及國防委員會(普)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226180000 +0800" stop="20260227000000 +0800" channel="國會頻道1">
-    <title lang="zh">當日立法院會議轉播(普)</title>
+  <programme start="20260226044900 +0800" stop="20260226051900 +0800" channel="國會頻道1">
+    <title lang="zh">黨團協商(普)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226051900 +0800" stop="20260226081600 +0800" channel="國會頻道1">
+    <title lang="zh">經濟委員會(普)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226081600 +0800" stop="20260226112100 +0800" channel="國會頻道1">
+    <title lang="zh">財政委員會(普)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226112100 +0800" stop="20260226151000 +0800" channel="國會頻道1">
+    <title lang="zh">內政委員會(普)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226151000 +0800" stop="20260226172700 +0800" channel="國會頻道1">
+    <title lang="zh">內政委員會(普)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226172700 +0800" stop="20260226204500 +0800" channel="國會頻道1">
+    <title lang="zh">外交及國防委員會(普)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226204500 +0800" stop="20260226215400 +0800" channel="國會頻道1">
+    <title lang="zh">財政委員會(普)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226215400 +0800" stop="20260227002100 +0800" channel="國會頻道1">
+    <title lang="zh">黨團協商(普)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260224213600 +0800" stop="20260225002200 +0800" channel="國會頻道2">
@@ -376402,24 +376910,40 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <title lang="zh">司法及法制委員會(普)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226012400 +0800" stop="20260226050000 +0800" channel="國會頻道2">
+  <programme start="20260226012400 +0800" stop="20260226045400 +0800" channel="國會頻道2">
     <title lang="zh">社會福利及衛生環境委員會(普)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226050000 +0800" stop="20260226084700 +0800" channel="國會頻道2">
-    <title lang="zh">前日立法院會議轉播(普)</title>
+  <programme start="20260226045400 +0800" stop="20260226061900 +0800" channel="國會頻道2">
+    <title lang="zh">社會福利及衛生環境委員會(普)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226084700 +0800" stop="20260226090000 +0800" channel="國會頻道2">
-    <title lang="zh">週四會議預報(普)</title>
+  <programme start="20260226061900 +0800" stop="20260226085300 +0800" channel="國會頻道2">
+    <title lang="zh">教育及文化委員會(普)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226090000 +0800" stop="20260226180000 +0800" channel="國會頻道2">
-    <title lang="zh">立法院會議直播(普)</title>
+  <programme start="20260226085300 +0800" stop="20260226121600 +0800" channel="國會頻道2">
+    <title lang="zh">立法院院會(普)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226180000 +0800" stop="20260227000000 +0800" channel="國會頻道2">
-    <title lang="zh">當日立法院會議轉播(普)</title>
+  <programme start="20260226121600 +0800" stop="20260226140900 +0800" channel="國會頻道2">
+    <title lang="zh">立法院院會(普)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226140900 +0800" stop="20260226144900 +0800" channel="國會頻道2">
+    <title lang="zh">黨團協商(普)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226144900 +0800" stop="20260226150200 +0800" channel="國會頻道2">
+    <title lang="zh">程序委員會(普)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226150200 +0800" stop="20260226192500 +0800" channel="國會頻道2">
+    <title lang="zh">司法及法制委員會(普)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226192500 +0800" stop="20260227000100 +0800" channel="國會頻道2">
+    <title lang="zh">社會福利及衛生環境委員會(普)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260225000000 +0800" stop="20260225005000 +0800" channel="大愛電視">
@@ -396538,6 +397062,98 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <title lang="zh">原視晚安報新聞</title>
     <desc lang="zh"> </desc>
   </programme>
+  <programme start="20260226000000 +0800" stop="20260226010000 +0800" channel="原住民族電視台">
+    <title lang="zh">藝術二分之一：Art kak’I’iyaeh</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226010000 +0800" stop="20260226020000 +0800" channel="原住民族電視台">
+    <title lang="zh">看見族語</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226020000 +0800" stop="20260226030000 +0800" channel="原住民族電視台">
+    <title lang="zh">看見族語</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226030000 +0800" stop="20260226040000 +0800" channel="原住民族電視台">
+    <title lang="zh">看見族語</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226040000 +0800" stop="20260226050000 +0800" channel="原住民族電視台">
+    <title lang="zh">看見族語</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226050000 +0800" stop="20260226060000 +0800" channel="原住民族電視台">
+    <title lang="zh">藝術二分之一：Art kak’I’iyaeh</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226060000 +0800" stop="20260226063000 +0800" channel="原住民族電視台">
+    <title lang="zh">senay345</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226063000 +0800" stop="20260226070000 +0800" channel="原住民族電視台">
+    <title lang="zh">pito pitju mpitu’ 7個為什麼?</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226070000 +0800" stop="20260226080000 +0800" channel="原住民族電視台">
+    <title lang="zh">來去部落 kivala</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226080000 +0800" stop="20260226090000 +0800" channel="原住民族電視台">
+    <title lang="zh">看見族語</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226090000 +0800" stop="20260226100000 +0800" channel="原住民族電視台">
+    <title lang="zh">Mathariri說說話</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226100000 +0800" stop="20260226110000 +0800" channel="原住民族電視台">
+    <title lang="zh">藝術二分之一：Art kak’I’iyaeh</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226110000 +0800" stop="20260226120000 +0800" channel="原住民族電視台">
+    <title lang="zh">看見族語</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226120000 +0800" stop="20260226130000 +0800" channel="原住民族電視台">
+    <title lang="zh">原視午安報新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226130000 +0800" stop="20260226140000 +0800" channel="原住民族電視台">
+    <title lang="zh">Mathariri說說話</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226140000 +0800" stop="20260226150000 +0800" channel="原住民族電視台">
+    <title lang="zh">看見族語</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226150000 +0800" stop="20260226160000 +0800" channel="原住民族電視台">
+    <title lang="zh">看見族語</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226160000 +0800" stop="20260226170000 +0800" channel="原住民族電視台">
+    <title lang="zh">來去部落 kivala</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226170000 +0800" stop="20260226173000 +0800" channel="原住民族電視台">
+    <title lang="zh">族語E樂園繪本平台</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226173000 +0800" stop="20260226180000 +0800" channel="原住民族電視台">
+    <title lang="zh">senay345</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226180000 +0800" stop="20260226183000 +0800" channel="原住民族電視台">
+    <title lang="zh">pito pitju mpitu’ 7個為什麼?</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226183000 +0800" stop="20260226190000 +0800" channel="原住民族電視台">
+    <title lang="zh">樹人大冒險</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226190000 +0800" stop="20260226200000 +0800" channel="原住民族電視台">
+    <title lang="zh">原視晚安報新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
   <programme start="20260226200000 +0800" stop="20260226210000 +0800" channel="原住民族電視台">
     <title lang="zh">看見族語</title>
     <desc lang="zh"> </desc>
@@ -404427,7 +405043,7 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260227220000 +0800" stop="20260228000000 +0800" channel="東森新聞台">
-    <title lang="zh">關鍵時刻</title>
+    <title lang="zh">東森夜線新聞</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260225010000 +0800" stop="20260225020000 +0800" channel="華視新聞">
@@ -447222,6 +447838,98 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <title lang="zh">原視晚安報新聞</title>
     <desc lang="zh"> </desc>
   </programme>
+  <programme start="20260226000000 +0800" stop="20260226010000 +0800" channel="原住民族電視台">
+    <title lang="zh">藝術二分之一：Art kak’I’iyaeh</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226010000 +0800" stop="20260226020000 +0800" channel="原住民族電視台">
+    <title lang="zh">看見族語</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226020000 +0800" stop="20260226030000 +0800" channel="原住民族電視台">
+    <title lang="zh">看見族語</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226030000 +0800" stop="20260226040000 +0800" channel="原住民族電視台">
+    <title lang="zh">看見族語</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226040000 +0800" stop="20260226050000 +0800" channel="原住民族電視台">
+    <title lang="zh">看見族語</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226050000 +0800" stop="20260226060000 +0800" channel="原住民族電視台">
+    <title lang="zh">藝術二分之一：Art kak’I’iyaeh</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226060000 +0800" stop="20260226063000 +0800" channel="原住民族電視台">
+    <title lang="zh">senay345</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226063000 +0800" stop="20260226070000 +0800" channel="原住民族電視台">
+    <title lang="zh">pito pitju mpitu’ 7個為什麼?</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226070000 +0800" stop="20260226080000 +0800" channel="原住民族電視台">
+    <title lang="zh">來去部落 kivala</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226080000 +0800" stop="20260226090000 +0800" channel="原住民族電視台">
+    <title lang="zh">看見族語</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226090000 +0800" stop="20260226100000 +0800" channel="原住民族電視台">
+    <title lang="zh">Mathariri說說話</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226100000 +0800" stop="20260226110000 +0800" channel="原住民族電視台">
+    <title lang="zh">藝術二分之一：Art kak’I’iyaeh</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226110000 +0800" stop="20260226120000 +0800" channel="原住民族電視台">
+    <title lang="zh">看見族語</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226120000 +0800" stop="20260226130000 +0800" channel="原住民族電視台">
+    <title lang="zh">原視午安報新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226130000 +0800" stop="20260226140000 +0800" channel="原住民族電視台">
+    <title lang="zh">Mathariri說說話</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226140000 +0800" stop="20260226150000 +0800" channel="原住民族電視台">
+    <title lang="zh">看見族語</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226150000 +0800" stop="20260226160000 +0800" channel="原住民族電視台">
+    <title lang="zh">看見族語</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226160000 +0800" stop="20260226170000 +0800" channel="原住民族電視台">
+    <title lang="zh">來去部落 kivala</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226170000 +0800" stop="20260226173000 +0800" channel="原住民族電視台">
+    <title lang="zh">族語E樂園繪本平台</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226173000 +0800" stop="20260226180000 +0800" channel="原住民族電視台">
+    <title lang="zh">senay345</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226180000 +0800" stop="20260226183000 +0800" channel="原住民族電視台">
+    <title lang="zh">pito pitju mpitu’ 7個為什麼?</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226183000 +0800" stop="20260226190000 +0800" channel="原住民族電視台">
+    <title lang="zh">樹人大冒險</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226190000 +0800" stop="20260226200000 +0800" channel="原住民族電視台">
+    <title lang="zh">原視晚安報新聞</title>
+    <desc lang="zh"> </desc>
+  </programme>
   <programme start="20260226200000 +0800" stop="20260226210000 +0800" channel="原住民族電視台">
     <title lang="zh">看見族語</title>
     <desc lang="zh"> </desc>
@@ -451131,7 +451839,7 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260227220000 +0800" stop="20260228000000 +0800" channel="東森新聞台">
-    <title lang="zh">關鍵時刻</title>
+    <title lang="zh">東森夜線新聞</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260225010000 +0800" stop="20260225020000 +0800" channel="華視新聞">
@@ -526870,42 +527578,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <title lang="zh">動物大明星 S4(E11)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260225035800 +0000" stop="20260225050000 +0000" channel="中視">
-    <title lang="zh">中視午間新聞</title>
-    <desc lang="zh">「中視午間新聞」每天以最客觀的角度，最專業的主播，為觀眾完整報導上午發生之重大國內外重要新聞，並提供最新股市收盤價格。</desc>
-  </programme>
-  <programme start="20260225050000 +0000" stop="20260225060000 +0000" channel="中視">
-    <title lang="zh">MIT台灣誌</title>
-    <desc lang="zh">「MIT台灣誌」以發現台灣、寫真台灣、紀錄台灣為主旨，走遍台灣的每寸土地，介紹台灣的人文環境、大自然地理等…</desc>
-  </programme>
-  <programme start="20260225060000 +0000" stop="20260225063000 +0000" channel="中視">
-    <title lang="zh">股林高手</title>
-    <desc lang="zh">邀請最專業的財經專家為觀眾解析股市，提供投資參考。</desc>
-  </programme>
-  <programme start="20260225063000 +0000" stop="20260225070000 +0000" channel="中視">
-    <title lang="zh">股市米琪林</title>
-    <desc lang="zh">由永誠國際投顧分析師主講，介紹四大分析視角，實現穩健的投資回報，股市米琪林，文琪通通有辦法！</desc>
-  </programme>
-  <programme start="20260225070000 +0000" stop="20260225073000 +0000" channel="中視">
-    <title lang="zh">價值型投資</title>
-    <desc lang="zh">當行情出現震盪、盤勢不明時，相信投資人一定會開始轉向價值型投資，節目中將推薦適合的標的，提供投資人參考。</desc>
-  </programme>
-  <programme start="20260225073000 +0000" stop="20260225080000 +0000" channel="中視">
-    <title lang="zh">中視新聞</title>
-    <desc lang="zh">由最專業的中視新聞主播，為您播報最新、最即時的新聞。</desc>
-  </programme>
-  <programme start="20260225080000 +0000" stop="20260225090000 +0000" channel="中視">
-    <title lang="zh">愛情急整室</title>
-    <desc lang="zh">韓天宇是親切友善的離島醫師，因父親突然中風，卻因被童琳激怒了的他接下這個「爛攤子」，才發現診所的問題堆積如山，面對嚴峻的挑戰，韓天宇身邊只有童琳和一票落魄、失意，快被社會淘汰的「爛咖」員工，但同時也醞釀出一段段有趣又浪漫的愛情故事！</desc>
-  </programme>
-  <programme start="20260225090000 +0000" stop="20260225092800 +0000" channel="中視">
-    <title lang="zh">中視新聞</title>
-    <desc lang="zh">由最專業的中視新聞主播，為您播報最新、最即時的新聞。</desc>
-  </programme>
-  <programme start="20260225092800 +0000" stop="20260225095800 +0000" channel="中視">
-    <title lang="zh">中視新聞</title>
-    <desc lang="zh">由最專業的中視新聞主播，為您播報最新、最即時的新聞。</desc>
-  </programme>
   <programme start="20260225095800 +0000" stop="20260225105800 +0000" channel="中視">
     <title lang="zh">中視新聞</title>
     <desc lang="zh">由最專業的中視新聞主播，為您播報最新、最即時的新聞。</desc>
@@ -527245,26 +527917,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
   <programme start="20260228220000 +0000" stop="20260228230000 +0000" channel="中視">
     <title lang="zh">中視新聞</title>
     <desc lang="zh">由最專業的中視新聞主播，為您播報最新、最即時的新聞。</desc>
-  </programme>
-  <programme start="20260225035800 +0000" stop="20260225050000 +0000" channel="華視">
-    <title lang="zh">華視午間新聞</title>
-    <desc lang="zh">華視午間新聞由最專業的華視主播，帶給觀眾朋友更多元化的新聞。</desc>
-  </programme>
-  <programme start="20260225050000 +0000" stop="20260225060000 +0000" channel="華視">
-    <title lang="zh">天之蕉子</title>
-    <desc lang="zh">蕉農第三代高志鴻（楊子儀）與青果大盤商千金江秀蓮（吳怡霈）因誤會而相戀，秀蓮的妹妹秀玉（楊小黎）因志鴻英雄救美而暗戀他，但志鴻的死黨忠義也暗中愛慕秀蓮，命運的捉弄與有心人惡意撩撥，擾亂一池春水，讓這五個人的情感走向難明…</desc>
-  </programme>
-  <programme start="20260225060000 +0000" stop="20260225070000 +0000" channel="華視">
-    <title lang="zh">華視1400整點新聞</title>
-    <desc lang="zh">以最客觀的角度，最專業的主播，為觀眾完整報導國內外重要新聞。</desc>
-  </programme>
-  <programme start="20260225070000 +0000" stop="20260225080000 +0000" channel="華視">
-    <title lang="zh">華視1500整點新聞</title>
-    <desc lang="zh">以最客觀的角度，最專業的主播，為觀眾完整報導上午發生之重大國內外重要新聞。</desc>
-  </programme>
-  <programme start="20260225080000 +0000" stop="20260225085800 +0000" channel="華視">
-    <title lang="zh">華視在地新聞</title>
-    <desc lang="zh">以台語發音，提供觀眾朋友不一樣的國內外新聞。</desc>
   </programme>
   <programme start="20260225085800 +0000" stop="20260225105800 +0000" channel="華視">
     <title lang="zh">華視新聞晚報</title>
@@ -527685,46 +528337,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
   <programme start="20260301220000 +0000" stop="20260301230000 +0000" channel="華視">
     <title lang="zh">三國演議</title>
     <desc lang="zh">華視新聞部製播新聞專題節目。由國際政經專家汪浩、日本產經新聞台北支局長矢板明夫搭檔主持，深度講評最新國際政經重大事件，跳脫傳統政論談話節目的框架屬性。</desc>
-  </programme>
-  <programme start="20260225040500 +0000" stop="20260225050000 +0000" channel="好消息2台">
-    <title lang="zh">真情部落格</title>
-    <desc lang="zh">廣受海內外觀眾歡迎的真情部落格，由知名主播夏嘉璐主持，莊信德牧師回應，透過每位來賓的生命見證幫助許多人走出低谷。相信神繼續透過真情部落格祝福這世代的華人。</desc>
-  </programme>
-  <programme start="20260225050000 +0000" stop="20260225055000 +0000" channel="好消息2台">
-    <title lang="zh">家庭８點檔轉轉發現愛</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260225055000 +0000" stop="20260225060000 +0000" channel="好消息2台">
-    <title lang="zh">愛我們的家</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260225060000 +0000" stop="20260225070000 +0000" channel="好消息2台">
-    <title lang="zh">特會</title>
-    <desc lang="zh">以造就、培靈與更新為宗旨，邀請來自世界各國的知名佈道牧師，為信徒傳遞神國信息，挑望靈火，奮興眾人！為信徒提供一個提升性靈的園地。(資料來源：GOOD TV)</desc>
-  </programme>
-  <programme start="20260225070000 +0000" stop="20260225073000 +0000" channel="好消息2台">
-    <title lang="zh">豐盛人生</title>
-    <desc lang="zh">基督徒必看節目，特邀國內外講員，為教友帶來精闢信息，傳達神的信息。</desc>
-  </programme>
-  <programme start="20260225073000 +0000" stop="20260225080000 +0000" channel="好消息2台">
-    <title lang="zh">福氣人生</title>
-    <desc lang="zh">如何才能擁有福氣人生?看牧師們以台語分享聖經的真理，讓你領受天國滿滿的福氣與祝福。</desc>
-  </programme>
-  <programme start="20260225080000 +0000" stop="20260225083000 +0000" channel="好消息2台">
-    <title lang="zh">新約妙妙妙</title>
-    <desc lang="zh">這部卡通影集以精緻的動畫呈現，人物刻畫細膩，劇情轉折扣人心弦，每集都有一首主題歌，歌詞深刻的意境，配上超水準的演唱和樂團伴奏，很能撼動人心，使得真理信息的傳遞更加有力，它不但是優質的兒童節目，更是優質的福音節目。</desc>
-  </programme>
-  <programme start="20260225083000 +0000" stop="20260225090000 +0000" channel="好消息2台">
-    <title lang="zh">空中聖經學院</title>
-    <desc lang="zh">由GOOD TV和中華福音神學院共同製作推出。這是歷史性的一刻，神的話語要透過衛星傳送至全世界，實現平信徒神學教育之夢。</desc>
-  </programme>
-  <programme start="20260225090000 +0000" stop="20260225100000 +0000" channel="好消息2台">
-    <title lang="zh">大衛鮑森講座</title>
-    <desc lang="zh">聖經權威大衛鮑森牧師，帶你以宏觀的神學角度，觀看神偉大的神性與恩典，並從其中明白救恩計畫的重要。</desc>
-  </programme>
-  <programme start="20260225100000 +0000" stop="20260225103000 +0000" channel="好消息2台">
-    <title lang="zh">共享觀點</title>
-    <desc lang="zh">連結社群、分享、行動的特色，藉著媒體平台將聖經教導、基要真理落實在生活中。兩位主持人將在節目中以輕鬆對談的方式，討論年輕人關注的話題。</desc>
   </programme>
   <programme start="20260225103000 +0000" stop="20260225110000 +0000" channel="好消息2台">
     <title lang="zh">愛＋好醫生</title>
@@ -528610,58 +529222,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <title lang="zh">奔向標竿</title>
     <desc lang="zh">美國最具影響力的屬靈領袖之一，華理克(Rick Warren)牧師與馬鞍峰教會牧者團隊，與您一起攜手直奔屬天標竿，得著屬天獎賞！</desc>
   </programme>
-  <programme start="20260225043000 +0000" stop="20260225044500 +0000" channel="好消息">
-    <title lang="zh">共享觀點</title>
-    <desc lang="zh">連結社群、分享、行動的特色，藉著媒體平台將聖經教導、基要真理落實在生活中。兩位主持人將在節目中以輕鬆對談的方式，討論年輕人關注的話題。</desc>
-  </programme>
-  <programme start="20260225044500 +0000" stop="20260225050000 +0000" channel="好消息">
-    <title lang="zh">共享觀點</title>
-    <desc lang="zh">連結社群、分享、行動的特色，藉著媒體平台將聖經教導、基要真理落實在生活中。兩位主持人將在節目中以輕鬆對談的方式，討論年輕人關注的話題。</desc>
-  </programme>
-  <programme start="20260225050000 +0000" stop="20260225050500 +0000" channel="好消息">
-    <title lang="zh">遇見祝福</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260225050500 +0000" stop="20260225060000 +0000" channel="好消息">
-    <title lang="zh">真情部落格</title>
-    <desc lang="zh">廣受海內外觀眾歡迎的真情部落格，由知名主播夏嘉璐主持，莊信德牧師回應，透過每位來賓的生命見證幫助許多人走出低谷。相信神繼續透過真情部落格祝福這世代的華人。</desc>
-  </programme>
-  <programme start="20260225060000 +0000" stop="20260225065000 +0000" channel="好消息">
-    <title lang="zh">家庭８點檔轉轉發現愛</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260225065000 +0000" stop="20260225070000 +0000" channel="好消息">
-    <title lang="zh">愛我們的家</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260225070000 +0000" stop="20260225080000 +0000" channel="好消息">
-    <title lang="zh">道在人間(國)</title>
-    <desc lang="zh">節目中邀請趙鏞基、葉光明、傑克海福德、喬依絲邁爾等，國內外知名牧長，以豐富的服事經歷與紮實的神學裝備，教導、傳講聖經真道，堅固信徒並警醒人心。</desc>
-  </programme>
-  <programme start="20260225080000 +0000" stop="20260225083000 +0000" channel="好消息">
-    <title lang="zh">健康新煮流</title>
-    <desc lang="zh">開創夫妻同廚同煮潮流的KC夫婦，繼《健康醫食代》後，走出攝影棚，帶大家全台走透透，發掘上帝賞賜的美味食材，內容融合新加坡南洋風和客家純樸味，加上台灣獨特的閩南風情，互相激盪交織出的火花，打造出獨一無二的美食節目。</desc>
-  </programme>
-  <programme start="20260225083000 +0000" stop="20260225090000 +0000" channel="好消息">
-    <title lang="zh">愛＋好醫生</title>
-    <desc lang="zh">結合醫療專業及全人關懷的新型態節目，主持人黃瑽寧醫師親訪家庭，跨領域醫療顧問團全方位檢視，提供最完整、實用和正確的資訊來守護孩子的健康。</desc>
-  </programme>
-  <programme start="20260225090000 +0000" stop="20260225093000 +0000" channel="好消息">
-    <title lang="zh">大家說英語</title>
-    <desc lang="zh">將最受歡迎的美語生活會話雜誌《大家說英語》內容製作成電視教學節目，教學輕鬆活潑，以生活實用會話為單元主題，是新聞局推薦的優質節目。不僅能幫助您輕鬆開口說英語，更提供許多實用的英語語彙與技巧，讓您用簡單的單字，就能說一口漂亮英語。</desc>
-  </programme>
-  <programme start="20260225093000 +0000" stop="20260225094500 +0000" channel="好消息">
-    <title lang="zh">小珍珠與阿達叔叔</title>
-    <desc lang="zh">好消息電視台製播的兒少節目，由充滿人生智慧的阿達叔叔劉清彥主持，精力十足又問題多多的的小珍珠每次都要來找阿達叔叔的麻煩…不，是請阿達叔叔幫她解決層出不窮的各種麻煩，透過兩人的趣味互動，讓小朋友輕鬆學習做人的道理。</desc>
-  </programme>
-  <programme start="20260225094500 +0000" stop="20260225100000 +0000" channel="好消息">
-    <title lang="zh">小珍珠與阿達叔叔</title>
-    <desc lang="zh">好消息電視台製播的兒少節目，由充滿人生智慧的阿達叔叔劉清彥主持，精力十足又問題多多的的小珍珠每次都要來找阿達叔叔的麻煩…不，是請阿達叔叔幫她解決層出不窮的各種麻煩，透過兩人的趣味互動，讓小朋友輕鬆學習做人的道理。</desc>
-  </programme>
-  <programme start="20260225100000 +0000" stop="20260225103000 +0000" channel="好消息">
-    <title lang="zh">福氣人生</title>
-    <desc lang="zh">如何才能擁有福氣人生?看牧師們以台語分享聖經的真理，讓你領受天國滿滿的福氣與祝福。</desc>
-  </programme>
   <programme start="20260225103000 +0000" stop="20260225110000 +0000" channel="好消息">
     <title lang="zh">健康新煮流</title>
     <desc lang="zh">開創夫妻同廚同煮潮流的KC夫婦，繼《健康醫食代》後，走出攝影棚，帶大家全台走透透，發掘上帝賞賜的美味食材，內容融合新加坡南洋風和客家純樸味，加上台灣獨特的閩南風情，互相激盪交織出的火花，打造出獨一無二的美食節目。</desc>
@@ -529526,30 +530086,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <title lang="zh">道在人間(國)</title>
     <desc lang="zh">節目中邀請趙鏞基、葉光明、傑克海福德、喬依絲邁爾等，國內外知名牧長，以豐富的服事經歷與紮實的神學裝備，教導、傳講聖經真道，堅固信徒並警醒人心。</desc>
   </programme>
-  <programme start="20260225043000 +0000" stop="20260225050000 +0000" channel="ELTV生活英語台">
-    <title lang="zh">小巴士TAYO</title>
-    <desc lang="zh">韓國人氣玩具改編卡通，曾獲韓國內容獎第一名和亞洲電視大獎最佳兒童節目，小朋友們能和TAYO、妮妮、小吉及瑞瑞一桐學習玩耍！</desc>
-  </programme>
-  <programme start="20260225050000 +0000" stop="20260225060000 +0000" channel="ELTV生活英語台">
-    <title lang="zh">PORORO</title>
-    <desc lang="zh">一隻充滿好奇心的小企鵝-Pororo，因為喜歡嘗試新的事物，且用盡方法了解它們，進而惹來許多小麻煩，但在嘗試新事物的過程中也為大家帶來無限歡樂。</desc>
-  </programme>
-  <programme start="20260225060000 +0000" stop="20260225070000 +0000" channel="ELTV生活英語台">
-    <title lang="zh">小浣熊ABC</title>
-    <desc lang="zh">七隻頑皮又好奇的浣熊住在一個音樂盒裡，這個音樂盒是它們的遊樂場。在每一集中，他們一起遊戲、學習、探索世界各種有趣的事物，還教導新的英文單字。</desc>
-  </programme>
-  <programme start="20260225070000 +0000" stop="20260225080000 +0000" channel="ELTV生活英語台">
-    <title lang="zh">萌馬吼吼</title>
-    <desc lang="zh">主人公吼吼，是一隻可愛的奶油獨角獸，他生活在甜蜜鎮上，這裡的居民都是各種甜品，有著各自的職業。作為一名快樂的打工人，吼吼每天都在小鎮的不同地方打工，當髮型師助理時，用自己的奶油為甜品們打造時下最流行的髮型，尤其是杯子蛋糕，對他的設計總是讚不絕口。</desc>
-  </programme>
-  <programme start="20260225080000 +0000" stop="20260225090000 +0000" channel="ELTV生活英語台">
-    <title lang="zh">旗旗號巡洋艦</title>
-    <desc lang="zh">一天晚上，皮皮魯收到旗旗號模型的召喚，進入到了玩具世界。為了回家，必須尋找傳說中的童童港並蒐集碎片，在途中，收穫了五名船員夥伴，皮皮魯要如何和他們一起完成冒險呢？</desc>
-  </programme>
-  <programme start="20260225090000 +0000" stop="20260225100000 +0000" channel="ELTV生活英語台">
-    <title lang="zh">PORORO</title>
-    <desc lang="zh">一隻充滿好奇心的小企鵝-Pororo，因為喜歡嘗試新的事物，且用盡方法了解它們，進而惹來許多小麻煩，但在嘗試新事物的過程中也為大家帶來無限歡樂。</desc>
-  </programme>
   <programme start="20260225100000 +0000" stop="20260225110000 +0000" channel="ELTV生活英語台">
     <title lang="zh">森林偵探隊</title>
     <desc lang="zh">南韓EBS與Bigstar Global共同製播的卡通，可輕鬆認識大自然的樣貌。各個謎團揉合在森林的浩瀚中，期待觀眾跟著偵探隊，細細品味在這森林的每個故事。</desc>
@@ -530089,54 +530625,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
   <programme start="20260302073000 +0000" stop="20260302080000 +0000" channel="ELTV生活英語台">
     <title lang="zh">歡唱小精靈</title>
     <desc lang="zh"/>
-  </programme>
-  <programme start="20260225043000 +0000" stop="20260225050000 +0000" channel="龍華卡通台">
-    <title lang="zh">小浣熊ABC</title>
-    <desc lang="zh">七隻頑皮又好奇的浣熊住在一個音樂盒裡，這個音樂盒是它們的遊樂場。在每一集中，他們一起遊戲、學習、探索世界各種有趣的事物，還教導新的英文單字。</desc>
-  </programme>
-  <programme start="20260225050000 +0000" stop="20260225053000 +0000" channel="龍華卡通台">
-    <title lang="zh">豬豬俠</title>
-    <desc lang="zh">豬豬俠因科學實驗事故，穿越時空隧道到了2080年。在未來世界裡，能源危機即將爆發。強強科技集團得知破舊的望子成龍小學地下蘊藏豐富能源後，想將小學佔為己有。為了重振母校，豬豬俠接受強強科技一次又一次的挑戰。利用迷糊小發明的豬豬俠能與超人強先進的高科技產品對抗嗎？</desc>
-  </programme>
-  <programme start="20260225053000 +0000" stop="20260225060000 +0000" channel="龍華卡通台">
-    <title lang="zh">豬豬俠</title>
-    <desc lang="zh">豬豬俠因科學實驗事故，穿越時空隧道到了2080年。在未來世界裡，能源危機即將爆發。強強科技集團得知破舊的望子成龍小學地下蘊藏豐富能源後，想將小學佔為己有。為了重振母校，豬豬俠接受強強科技一次又一次的挑戰。利用迷糊小發明的豬豬俠能與超人強先進的高科技產品對抗嗎？</desc>
-  </programme>
-  <programme start="20260225060000 +0000" stop="20260225063000 +0000" channel="龍華卡通台">
-    <title lang="zh">泡泡灣大冒險</title>
-    <desc lang="zh">希希是一艘充滿勇氣的小帆船，夢想有一天能去探索廣大神秘的藍色海洋，但在那之前，要學的還有很多！看他如何運用智慧和工具箱，和夥伴們一起完成泡泡灣各式各樣的任務吧！</desc>
-  </programme>
-  <programme start="20260225063000 +0000" stop="20260225070000 +0000" channel="龍華卡通台">
-    <title lang="zh">泡泡灣大冒險</title>
-    <desc lang="zh">希希是一艘充滿勇氣的小帆船，夢想有一天能去探索廣大神秘的藍色海洋，但在那之前，要學的還有很多！看他如何運用智慧和工具箱，和夥伴們一起完成泡泡灣各式各樣的任務吧！</desc>
-  </programme>
-  <programme start="20260225070000 +0000" stop="20260225073000 +0000" channel="龍華卡通台">
-    <title lang="zh">小浣熊ABC</title>
-    <desc lang="zh">七隻頑皮又好奇的浣熊住在一個音樂盒裡，這個音樂盒是它們的遊樂場。在每一集中，他們一起遊戲、學習、探索世界各種有趣的事物，還教導新的英文單字。</desc>
-  </programme>
-  <programme start="20260225073000 +0000" stop="20260225080000 +0000" channel="龍華卡通台">
-    <title lang="zh">小浣熊ABC</title>
-    <desc lang="zh">七隻頑皮又好奇的浣熊住在一個音樂盒裡，這個音樂盒是它們的遊樂場。在每一集中，他們一起遊戲、學習、探索世界各種有趣的事物，還教導新的英文單字。</desc>
-  </programme>
-  <programme start="20260225080000 +0000" stop="20260225083000 +0000" channel="龍華卡通台">
-    <title lang="zh">豬豬俠</title>
-    <desc lang="zh">豬豬俠因科學實驗事故，穿越時空隧道到了2080年。在未來世界裡，能源危機即將爆發。強強科技集團得知破舊的望子成龍小學地下蘊藏豐富能源後，想將小學佔為己有。為了重振母校，豬豬俠接受強強科技一次又一次的挑戰。利用迷糊小發明的豬豬俠能與超人強先進的高科技產品對抗嗎？</desc>
-  </programme>
-  <programme start="20260225083000 +0000" stop="20260225090000 +0000" channel="龍華卡通台">
-    <title lang="zh">豬豬俠</title>
-    <desc lang="zh">豬豬俠因科學實驗事故，穿越時空隧道到了2080年。在未來世界裡，能源危機即將爆發。強強科技集團得知破舊的望子成龍小學地下蘊藏豐富能源後，想將小學佔為己有。為了重振母校，豬豬俠接受強強科技一次又一次的挑戰。利用迷糊小發明的豬豬俠能與超人強先進的高科技產品對抗嗎？</desc>
-  </programme>
-  <programme start="20260225090000 +0000" stop="20260225093000 +0000" channel="龍華卡通台">
-    <title lang="zh">泡泡灣大冒險</title>
-    <desc lang="zh">希希是一艘充滿勇氣的小帆船，夢想有一天能去探索廣大神秘的藍色海洋，但在那之前，要學的還有很多！看他如何運用智慧和工具箱，和夥伴們一起完成泡泡灣各式各樣的任務吧！</desc>
-  </programme>
-  <programme start="20260225093000 +0000" stop="20260225100000 +0000" channel="龍華卡通台">
-    <title lang="zh">泡泡灣大冒險</title>
-    <desc lang="zh">希希是一艘充滿勇氣的小帆船，夢想有一天能去探索廣大神秘的藍色海洋，但在那之前，要學的還有很多！看他如何運用智慧和工具箱，和夥伴們一起完成泡泡灣各式各樣的任務吧！</desc>
-  </programme>
-  <programme start="20260225100000 +0000" stop="20260225103000 +0000" channel="龍華卡通台">
-    <title lang="zh">小浣熊ABC</title>
-    <desc lang="zh">七隻頑皮又好奇的浣熊住在一個音樂盒裡，這個音樂盒是它們的遊樂場。在每一集中，他們一起遊戲、學習、探索世界各種有趣的事物，還教導新的英文單字。</desc>
   </programme>
   <programme start="20260225103000 +0000" stop="20260225110000 +0000" channel="龍華卡通台">
     <title lang="zh">小浣熊ABC</title>
@@ -530818,30 +531306,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <title lang="zh">豬豬俠</title>
     <desc lang="zh">豬豬俠因科學實驗事故，穿越時空隧道到了2080年。在未來世界裡，能源危機即將爆發。強強科技集團得知破舊的望子成龍小學地下蘊藏豐富能源後，想將小學佔為己有。為了重振母校，豬豬俠接受強強科技一次又一次的挑戰。利用迷糊小發明的豬豬俠能與超人強先進的高科技產品對抗嗎？</desc>
   </programme>
-  <programme start="20260225040000 +0000" stop="20260225050000 +0000" channel="亞洲旅遊台">
-    <title lang="zh">驚奇大冒險</title>
-    <desc lang="zh">帶您深入各國體驗在地文化，貼近當地人民的生活，真實呈現秘境探險、 尋找奇景的過程，讓您知道怎麼玩才好玩，怎麼玩才刺激！</desc>
-  </programme>
-  <programme start="20260225050000 +0000" stop="20260225060000 +0000" channel="亞洲旅遊台">
-    <title lang="zh">33廚房</title>
-    <desc lang="zh">電影圈的大明星林美秀首度跨足綜藝接主持棒，即將大展廚藝與觀眾們一起美味上菜！</desc>
-  </programme>
-  <programme start="20260225060000 +0000" stop="20260225070000 +0000" channel="亞洲旅遊台">
-    <title lang="zh">王子的移動城堡</title>
-    <desc lang="zh">以介紹露營車旅遊行程的節目，第二季將加入新的元素，還邀請混血名模Akemi與錦榮一同主持。帶觀眾深度了解當地文化，隨當地農民進入他們的生活，並體驗他們的日常工作，快跟著錦榮與Akemi一起開著露營車去旅行！</desc>
-  </programme>
-  <programme start="20260225070000 +0000" stop="20260225080000 +0000" channel="亞洲旅遊台">
-    <title lang="zh">城市的100個發現</title>
-    <desc lang="zh">《城市的100個發現》由主持人胡文華、謝哲青搭配不同類型的藝術家，挖掘鮮為人知的歷史印記，並以生活美學的角度展開一趟色彩探險之旅。</desc>
-  </programme>
-  <programme start="20260225080000 +0000" stop="20260225090000 +0000" channel="亞洲旅遊台">
-    <title lang="zh">效廉出發吧</title>
-    <desc lang="zh">東森超視全新外景旅遊實境綜藝節目，由跨世代人夫許效舜、威廉攜手主持。兩位私交甚篤的知己好友，將在節目中分享彼此人生故事，帶觀眾深入瞭解每個城鎮獨有的歷史人文，探索每個地方的特色美食生活。一段見證男人友誼的旅行，就此展開！</desc>
-  </programme>
-  <programme start="20260225090000 +0000" stop="20260225100000 +0000" channel="亞洲旅遊台">
-    <title lang="zh">效廉出發吧</title>
-    <desc lang="zh">東森超視全新外景旅遊實境綜藝節目，由跨世代人夫許效舜、威廉攜手主持。兩位私交甚篤的知己好友，將在節目中分享彼此人生故事，帶觀眾深入瞭解每個城鎮獨有的歷史人文，探索每個地方的特色美食生活。一段見證男人友誼的旅行，就此展開！</desc>
-  </programme>
   <programme start="20260225100000 +0000" stop="20260225110000 +0000" channel="亞洲旅遊台">
     <title lang="zh">驚奇大冒險</title>
     <desc lang="zh">帶您深入各國體驗在地文化，貼近當地人民的生活，真實呈現秘境探險、 尋找奇景的過程，讓您知道怎麼玩才好玩，怎麼玩才刺激！</desc>
@@ -531314,30 +531778,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <title lang="zh">城市的100個發現</title>
     <desc lang="zh">《城市的100個發現》由主持人胡文華、謝哲青搭配不同類型的藝術家，挖掘鮮為人知的歷史印記，並以生活美學的角度展開一趟色彩探險之旅。</desc>
   </programme>
-  <programme start="20260225040000 +0000" stop="20260225050000 +0000" channel="Smart知識台">
-    <title lang="zh">健康2.0</title>
-    <desc lang="zh">在節目中，將以各種深入淺出的方式，檢測時下流行的健康產品的效用，示範健康烹調與運動方法，並與觀眾分享照顧家人的健康資訊與心得。</desc>
-  </programme>
-  <programme start="20260225050000 +0000" stop="20260225060000 +0000" channel="Smart知識台">
-    <title lang="zh">全民星攻略</title>
-    <desc lang="zh">東森綜合台全新益智實境節目，「全民星攻略」，由館長曾國城擔任把關者，考驗著每個來挑戰九宮格益智遊戲藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理想分析，才有機會獲取智慧星幣，帶走夢幻大獎。</desc>
-  </programme>
-  <programme start="20260225060000 +0000" stop="20260225070000 +0000" channel="Smart知識台">
-    <title lang="zh">健康2.0</title>
-    <desc lang="zh">在節目中，將以各種深入淺出的方式，檢測時下流行的健康產品的效用，示範健康烹調與運動方法，並與觀眾分享照顧家人的健康資訊與心得。</desc>
-  </programme>
-  <programme start="20260225070000 +0000" stop="20260225080000 +0000" channel="Smart知識台">
-    <title lang="zh">全民星攻略</title>
-    <desc lang="zh">東森綜合台全新益智實境節目，「全民星攻略」，由館長曾國城擔任把關者，考驗著每個來挑戰九宮格益智遊戲藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理想分析，才有機會獲取智慧星幣，帶走夢幻大獎。</desc>
-  </programme>
-  <programme start="20260225080000 +0000" stop="20260225090000 +0000" channel="Smart知識台">
-    <title lang="zh">健康2.0</title>
-    <desc lang="zh">在節目中，將以各種深入淺出的方式，檢測時下流行的健康產品的效用，示範健康烹調與運動方法，並與觀眾分享照顧家人的健康資訊與心得。</desc>
-  </programme>
-  <programme start="20260225090000 +0000" stop="20260225100000 +0000" channel="Smart知識台">
-    <title lang="zh">全民星攻略</title>
-    <desc lang="zh">東森綜合台全新益智實境節目，「全民星攻略」，由館長曾國城擔任把關者，考驗著每個來挑戰九宮格益智遊戲藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理想分析，才有機會獲取智慧星幣，帶走夢幻大獎。</desc>
-  </programme>
   <programme start="20260225100000 +0000" stop="20260225110000 +0000" channel="Smart知識台">
     <title lang="zh">健康2.0</title>
     <desc lang="zh">在節目中，將以各種深入淺出的方式，檢測時下流行的健康產品的效用，示範健康烹調與運動方法，並與觀眾分享照顧家人的健康資訊與心得。</desc>
@@ -531770,30 +532210,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <title lang="zh">全民星攻略</title>
     <desc lang="zh">東森綜合台全新益智實境節目，「全民星攻略」，由館長曾國城擔任把關者，考驗著每個來挑戰九宮格益智遊戲藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理想分析，才有機會獲取智慧星幣，帶走夢幻大獎。</desc>
   </programme>
-  <programme start="20260225040000 +0000" stop="20260225050000 +0000" channel="龍華戲劇台">
-    <title lang="zh">軍師聯盟</title>
-    <desc lang="zh">年輕的司馬懿本是個謹小慎微的青年書生，因為有「鷹視狼顧」之相，回頭看了東漢的司空曹操（于和偉）一眼，從此和曹家結下了不解之緣。他被曹操強行徵辟為官，一腳踏入曹家暗流洶湧的奪嫡之爭。他運用謀略幫助曹丕（李晨）一次次通過曹操的考驗，將曹丕送上世子位。</desc>
-  </programme>
-  <programme start="20260225050000 +0000" stop="20260225060000 +0000" channel="龍華戲劇台">
-    <title lang="zh">軍師聯盟</title>
-    <desc lang="zh">年輕的司馬懿本是個謹小慎微的青年書生，因為有「鷹視狼顧」之相，回頭看了東漢的司空曹操（于和偉）一眼，從此和曹家結下了不解之緣。他被曹操強行徵辟為官，一腳踏入曹家暗流洶湧的奪嫡之爭。他運用謀略幫助曹丕（李晨）一次次通過曹操的考驗，將曹丕送上世子位。</desc>
-  </programme>
-  <programme start="20260225060000 +0000" stop="20260225070000 +0000" channel="龍華戲劇台">
-    <title lang="zh">雲襄傳</title>
-    <desc lang="zh">講述翩翩公子雲襄（陳曉）背負門中使命步入江湖，意外結識勁颯女俠舒亞男（毛曉彤）、世家公子蘇鳴玉（唐曉天）、快手刀客金彪（劉冠麟）等幾位好友，眾人在波詭雲譎的江湖紛爭中快意恩仇，成長蛻變，捍衛仁德與心中正義的故事。</desc>
-  </programme>
-  <programme start="20260225070000 +0000" stop="20260225080000 +0000" channel="龍華戲劇台">
-    <title lang="zh">雲襄傳</title>
-    <desc lang="zh">講述翩翩公子雲襄（陳曉）背負門中使命步入江湖，意外結識勁颯女俠舒亞男（毛曉彤）、世家公子蘇鳴玉（唐曉天）、快手刀客金彪（劉冠麟）等幾位好友，眾人在波詭雲譎的江湖紛爭中快意恩仇，成長蛻變，捍衛仁德與心中正義的故事。</desc>
-  </programme>
-  <programme start="20260225080000 +0000" stop="20260225090000 +0000" channel="龍華戲劇台">
-    <title lang="zh">開創盛世</title>
-    <desc lang="zh">隋朝末年，農民起義此起彼伏，但第二代帝王隋煬帝仍沉浸在一片盛世的讚歌中。後來隋煬帝北巡，被北胡始畢可汗的三十萬鐵騎圍困在雁門，李淵的二子李世民用計迫使北胡退兵，隋煬帝對李淵一家感激萬分，將重鎮太原交給李淵…</desc>
-  </programme>
-  <programme start="20260225090000 +0000" stop="20260225100000 +0000" channel="龍華戲劇台">
-    <title lang="zh">開創盛世</title>
-    <desc lang="zh">隋朝末年，農民起義此起彼伏，但第二代帝王隋煬帝仍沉浸在一片盛世的讚歌中。後來隋煬帝北巡，被北胡始畢可汗的三十萬鐵騎圍困在雁門，李淵的二子李世民用計迫使北胡退兵，隋煬帝對李淵一家感激萬分，將重鎮太原交給李淵…</desc>
-  </programme>
   <programme start="20260225100000 +0000" stop="20260225110000 +0000" channel="龍華戲劇台">
     <title lang="zh">軍師聯盟</title>
     <desc lang="zh">年輕的司馬懿本是個謹小慎微的青年書生，因為有「鷹視狼顧」之相，回頭看了東漢的司空曹操（于和偉）一眼，從此和曹家結下了不解之緣。他被曹操強行徵辟為官，一腳踏入曹家暗流洶湧的奪嫡之爭。他運用謀略幫助曹丕（李晨）一次次通過曹操的考驗，將曹丕送上世子位。</desc>
@@ -532133,38 +532549,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
   <programme start="20260228220000 +0000" stop="20260228230000 +0000" channel="龍華戲劇台">
     <title lang="zh">包青天</title>
     <desc lang="zh">北宋仁宗年間，開封府尹包拯，人稱包青天，為官清廉，為民伸冤，不畏強權，除惡務盡，較膾炙人口的單元有「秦香蓮」、「真假狀元」、「狸貓換太子」等。</desc>
-  </programme>
-  <programme start="20260225040000 +0000" stop="20260225050000 +0000" channel="台灣戲劇台">
-    <title lang="zh">關鍵時刻</title>
-    <desc lang="zh">行政院勞工委員會勞工安全衛生研究所製作的3D立體動畫「關鍵時刻」，於第十八屆世界職業安全衛生大會榮獲國際安全衛生影片首獎，大會並以「非常創新的手法」盛讚得獎單位-行政院勞委會勞工安全衛生研究所，對於職場安全衛生教育宣導所做出的貢獻。</desc>
-  </programme>
-  <programme start="20260225050000 +0000" stop="20260225060000 +0000" channel="台灣戲劇台">
-    <title lang="zh">台灣啟示錄</title>
-    <desc lang="zh">為您統整介紹台灣社會近年來重大案件與名人軼事的始末，以及相關的新聞分析與報導。</desc>
-  </programme>
-  <programme start="20260225060000 +0000" stop="20260225070000 +0000" channel="台灣戲劇台">
-    <title lang="zh">台灣啟示錄</title>
-    <desc lang="zh">為您統整介紹台灣社會近年來重大案件與名人軼事的始末，以及相關的新聞分析與報導。</desc>
-  </programme>
-  <programme start="20260225070000 +0000" stop="20260225080000 +0000" channel="台灣戲劇台">
-    <title lang="zh">包青天</title>
-    <desc lang="zh">仁宗皇帝在位期間，包拯（金超群）升任開封府府尹執掌京畿，剛直耿介、鐵面無私、明察秋毫、斷案如神，百姓愛戴敬仰尊稱為“包青天”。並有公孫策（范鴻軒）與南俠展昭（何家勁）一文一武兩員大將，使得包拯屢破奇案屢建奇功。</desc>
-  </programme>
-  <programme start="20260225080000 +0000" stop="20260225090000 +0000" channel="台灣戲劇台">
-    <title lang="zh">包青天</title>
-    <desc lang="zh">仁宗皇帝在位期間，包拯（金超群）升任開封府府尹執掌京畿，剛直耿介、鐵面無私、明察秋毫、斷案如神，百姓愛戴敬仰尊稱為“包青天”。並有公孫策（范鴻軒）與南俠展昭（何家勁）一文一武兩員大將，使得包拯屢破奇案屢建奇功。</desc>
-  </programme>
-  <programme start="20260225090000 +0000" stop="20260225093000 +0000" channel="台灣戲劇台">
-    <title lang="zh">親戚不計較</title>
-    <desc lang="zh">由卓勝利、李鑼等人主演，本劇雖以喜劇的方式呈現，但笑中有淚，淚中有悟，悟中有得，令人深思！</desc>
-  </programme>
-  <programme start="20260225093000 +0000" stop="20260225100000 +0000" channel="台灣戲劇台">
-    <title lang="zh">親戚不計較</title>
-    <desc lang="zh">由卓勝利、李鑼等人主演，本劇雖以喜劇的方式呈現，但笑中有淚，淚中有悟，悟中有得，令人深思！</desc>
-  </programme>
-  <programme start="20260225100000 +0000" stop="20260225103000 +0000" channel="台灣戲劇台">
-    <title lang="zh">親戚不計較</title>
-    <desc lang="zh">由卓勝利、李鑼等人主演，本劇雖以喜劇的方式呈現，但笑中有淚，淚中有悟，悟中有得，令人深思！</desc>
   </programme>
   <programme start="20260225103000 +0000" stop="20260225110000 +0000" channel="台灣戲劇台">
     <title lang="zh">親戚不計較</title>
@@ -532633,42 +533017,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
   <programme start="20260302070000 +0000" stop="20260302080000 +0000" channel="台灣戲劇台">
     <title lang="zh">包青天</title>
     <desc lang="zh">仁宗皇帝在位期間，包拯（金超群）升任開封府府尹執掌京畿，剛直耿介、鐵面無私、明察秋毫、斷案如神，百姓愛戴敬仰尊稱為“包青天”。並有公孫策（范鴻軒）與南俠展昭（何家勁）一文一武兩員大將，使得包拯屢破奇案屢建奇功。</desc>
-  </programme>
-  <programme start="20260225040000 +0000" stop="20260225044000 +0000" channel="東森購物1台">
-    <title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260225044000 +0000" stop="20260225052000 +0000" channel="東森購物1台">
-    <title lang="zh">鎖定CH.43、CH.49選購</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260225052000 +0000" stop="20260225060000 +0000" channel="東森購物1台">
-    <title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260225060000 +0000" stop="20260225064000 +0000" channel="東森購物1台">
-    <title lang="zh">鎖定CH.43、CH.49選購</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260225064000 +0000" stop="20260225072000 +0000" channel="東森購物1台">
-    <title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260225072000 +0000" stop="20260225080000 +0000" channel="東森購物1台">
-    <title lang="zh">鎖定CH.43、CH.49選購</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260225080000 +0000" stop="20260225084000 +0000" channel="東森購物1台">
-    <title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260225084000 +0000" stop="20260225092000 +0000" channel="東森購物1台">
-    <title lang="zh">鎖定CH.43、CH.49選購</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260225092000 +0000" stop="20260225100000 +0000" channel="東森購物1台">
-    <title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title>
-    <desc lang="zh"/>
   </programme>
   <programme start="20260225100000 +0000" stop="20260225104000 +0000" channel="東森購物1台">
     <title lang="zh">鎖定CH.43、CH.49選購</title>
@@ -533378,30 +533726,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <title lang="zh">鎖定CH.43、CH.49選購</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260225040000 +0000" stop="20260225050000 +0000" channel="龍華偶像台">
-    <title lang="zh">小歡喜</title>
-    <desc lang="zh">改編自魯引弓的同名小說，講述了方家、季家、喬家三個備戰高考的家庭，不僅面對著升學壓力，更面對著親子關係難題。人到中年的家長和剛剛迎來成年的孩子，在高三這場重要的試煉中，度過生活設置的重重難題，在愛與理解中學會成長，迎來屬於自己的「小歡喜」。</desc>
-  </programme>
-  <programme start="20260225050000 +0000" stop="20260225060000 +0000" channel="龍華偶像台">
-    <title lang="zh">小歡喜</title>
-    <desc lang="zh">改編自魯引弓的同名小說，講述了方家、季家、喬家三個備戰高考的家庭，不僅面對著升學壓力，更面對著親子關係難題。人到中年的家長和剛剛迎來成年的孩子，在高三這場重要的試煉中，度過生活設置的重重難題，在愛與理解中學會成長，迎來屬於自己的「小歡喜」。</desc>
-  </programme>
-  <programme start="20260225060000 +0000" stop="20260225070000 +0000" channel="龍華偶像台">
-    <title lang="zh">現在開始是Showtime！</title>
-    <desc lang="zh">毒舌、自私，但能使喚鬼魂的型男魔術師車次雄（朴海鎮），偶然遇到了具有神通力的熱血女警高瑟海（秦基周），兩人共同捲入神秘的殺人案，進而聯手與鬼、神一起追查真相的故事，是一齣輕鬆爆笑的搜查劇。</desc>
-  </programme>
-  <programme start="20260225070000 +0000" stop="20260225080000 +0000" channel="龍華偶像台">
-    <title lang="zh">現在開始是Showtime！</title>
-    <desc lang="zh">毒舌、自私，但能使喚鬼魂的型男魔術師車次雄（朴海鎮），偶然遇到了具有神通力的熱血女警高瑟海（秦基周），兩人共同捲入神秘的殺人案，進而聯手與鬼、神一起追查真相的故事，是一齣輕鬆爆笑的搜查劇。</desc>
-  </programme>
-  <programme start="20260225080000 +0000" stop="20260225090000 +0000" channel="龍華偶像台">
-    <title lang="zh">奔跑吧薔薇</title>
-    <desc lang="zh">出身富裕的白薔薇（李英雅）待人十分親切，最後透過相親和皮膚科醫生結婚。沒想到父親的意外身亡，讓她陷入經濟困境，就連丈夫也背叛了她。萬念俱灰下，薔薇失去生活的重心，甚至徘徊在生死的邊緣。直到對料理的熱情讓她重拾希望，進而進入SL食品公司工作，開啟了她和黃太子（高周元）的不解之緣…</desc>
-  </programme>
-  <programme start="20260225090000 +0000" stop="20260225100000 +0000" channel="龍華偶像台">
-    <title lang="zh">奔跑吧薔薇</title>
-    <desc lang="zh">出身富裕的白薔薇（李英雅）待人十分親切，最後透過相親和皮膚科醫生結婚。沒想到父親的意外身亡，讓她陷入經濟困境，就連丈夫也背叛了她。萬念俱灰下，薔薇失去生活的重心，甚至徘徊在生死的邊緣。直到對料理的熱情讓她重拾希望，進而進入SL食品公司工作，開啟了她和黃太子（高周元）的不解之緣…</desc>
-  </programme>
   <programme start="20260225100000 +0000" stop="20260225110000 +0000" channel="龍華偶像台">
     <title lang="zh">小歡喜</title>
     <desc lang="zh">改編自魯引弓的同名小說，講述了方家、季家、喬家三個備戰高考的家庭，不僅面對著升學壓力，更面對著親子關係難題。人到中年的家長和剛剛迎來成年的孩子，在高三這場重要的試煉中，度過生活設置的重重難題，在愛與理解中學會成長，迎來屬於自己的「小歡喜」。</desc>
@@ -533778,30 +534102,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <title lang="zh">節目未定</title>
     <desc lang="zh">節目資訊尚未公布。</desc>
   </programme>
-  <programme start="20260225040000 +0000" stop="20260225050000 +0000" channel="龍華日韓台">
-    <title lang="zh">奔跑吧薔薇</title>
-    <desc lang="zh">出身富裕的白薔薇（李英雅）待人十分親切，最後透過相親和皮膚科醫生結婚。沒想到父親的意外身亡，讓她陷入經濟困境，就連丈夫也背叛了她。萬念俱灰下，薔薇失去生活的重心，甚至徘徊在生死的邊緣。直到對料理的熱情讓她重拾希望，進而進入SL食品公司工作，開啟了她和黃太子（高周元）的不解之緣…</desc>
-  </programme>
-  <programme start="20260225050000 +0000" stop="20260225060000 +0000" channel="龍華日韓台">
-    <title lang="zh">奔跑吧薔薇</title>
-    <desc lang="zh">出身富裕的白薔薇（李英雅）待人十分親切，最後透過相親和皮膚科醫生結婚。沒想到父親的意外身亡，讓她陷入經濟困境，就連丈夫也背叛了她。萬念俱灰下，薔薇失去生活的重心，甚至徘徊在生死的邊緣。直到對料理的熱情讓她重拾希望，進而進入SL食品公司工作，開啟了她和黃太子（高周元）的不解之緣…</desc>
-  </programme>
-  <programme start="20260225060000 +0000" stop="20260225070000 +0000" channel="龍華日韓台">
-    <title lang="zh">為純情著迷</title>
-    <desc lang="zh">姜敏浩（鄭敬淏）是人們眼中的冷血企業家，為報叔叔謀奪家產之仇，成為叔叔公司最大債權人的主管，並指定曾助紂為虐的金秘書之女純情（金素妍）當他的個人秘書。原本互看不順眼的兩人，卻在敏浩接受心臟移植手術後，漸漸對彼此產生好感…</desc>
-  </programme>
-  <programme start="20260225070000 +0000" stop="20260225080000 +0000" channel="龍華日韓台">
-    <title lang="zh">為純情著迷</title>
-    <desc lang="zh">姜敏浩（鄭敬淏）是人們眼中的冷血企業家，為報叔叔謀奪家產之仇，成為叔叔公司最大債權人的主管，並指定曾助紂為虐的金秘書之女純情（金素妍）當他的個人秘書。原本互看不順眼的兩人，卻在敏浩接受心臟移植手術後，漸漸對彼此產生好感…</desc>
-  </programme>
-  <programme start="20260225080000 +0000" stop="20260225090000 +0000" channel="龍華日韓台">
-    <title lang="zh">韓國小姐</title>
-    <desc lang="zh">為了拯救陷入危機的化妝品公司，公司成員們將現在任職電梯小姐的高中校花改造成韓國小姐的故事。</desc>
-  </programme>
-  <programme start="20260225090000 +0000" stop="20260225100000 +0000" channel="龍華日韓台">
-    <title lang="zh">只屬於你</title>
-    <desc lang="zh">恩靜（李敏英）嫁給律師姜勝宰（宋在熙），沒想到婆家卻拿她當傭人使喚，勝宰對此毫不在意，甚至根本沒去登記結婚。恩靜因此重回職場，努力成為知名設計師，當前男友俊夏再度出現在她面前，看到她遭遇不幸卻仍默默守護，俊夏能為恩靜帶來幸福嗎？</desc>
-  </programme>
   <programme start="20260225100000 +0000" stop="20260225110000 +0000" channel="龍華日韓台">
     <title lang="zh">只屬於你</title>
     <desc lang="zh">恩靜（李敏英）嫁給律師姜勝宰（宋在熙），沒想到婆家卻拿她當傭人使喚，勝宰對此毫不在意，甚至根本沒去登記結婚。恩靜因此重回職場，努力成為知名設計師，當前男友俊夏再度出現在她面前，看到她遭遇不幸卻仍默默守護，俊夏能為恩靜帶來幸福嗎？</desc>
@@ -534141,42 +534441,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
   <programme start="20260228220000 +0000" stop="20260228230000 +0000" channel="龍華日韓台">
     <title lang="zh">生活家</title>
     <desc lang="zh">講述了經歷了同僚挖坑、領導算計、親媽邱曉霞（劉敏濤）造作等波折的失業女孩邱冬娜（文淇），跌跌撞撞還是進入人生導師顧飛（邱澤）與大學校友李楚寧（黃思瑞）任職之會計師審計公司。後來在職場遇上不走尋常路的老闆顧飛，二人一路化解工作、生活雙重難題，最後成為靈魂伴侶的故事。</desc>
-  </programme>
-  <programme start="20260225040000 +0000" stop="20260225044000 +0000" channel="東森購物2台">
-    <title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260225044000 +0000" stop="20260225052000 +0000" channel="東森購物2台">
-    <title lang="zh">鎖定CH.43、CH.49選購</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260225052000 +0000" stop="20260225060000 +0000" channel="東森購物2台">
-    <title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260225060000 +0000" stop="20260225064000 +0000" channel="東森購物2台">
-    <title lang="zh">鎖定CH.43、CH.49選購</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260225064000 +0000" stop="20260225072000 +0000" channel="東森購物2台">
-    <title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260225072000 +0000" stop="20260225080000 +0000" channel="東森購物2台">
-    <title lang="zh">鎖定CH.43、CH.49選購</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260225080000 +0000" stop="20260225084000 +0000" channel="東森購物2台">
-    <title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260225084000 +0000" stop="20260225092000 +0000" channel="東森購物2台">
-    <title lang="zh">鎖定CH.43、CH.49選購</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260225092000 +0000" stop="20260225100000 +0000" channel="東森購物2台">
-    <title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title>
-    <desc lang="zh"/>
   </programme>
   <programme start="20260225100000 +0000" stop="20260225104000 +0000" channel="東森購物2台">
     <title lang="zh">鎖定CH.43、CH.49選購</title>
@@ -534886,26 +535150,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <title lang="zh">鎖定CH.43、CH.49選購</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260225035800 +0000" stop="20260225050000 +0000" channel="華視新聞">
-    <title lang="zh">華視午間新聞</title>
-    <desc lang="zh">華視午間新聞由最專業的華視主播，帶給觀眾朋友更多元化的新聞。</desc>
-  </programme>
-  <programme start="20260225050000 +0000" stop="20260225060000 +0000" channel="華視新聞">
-    <title lang="zh">華視1300午間新聞</title>
-    <desc lang="zh">以最客觀的角度，最專業的主播，為觀眾完整報導國內外重要新聞。</desc>
-  </programme>
-  <programme start="20260225060000 +0000" stop="20260225070000 +0000" channel="華視新聞">
-    <title lang="zh">華視1400整點新聞</title>
-    <desc lang="zh">以最客觀的角度，最專業的主播，為觀眾完整報導國內外重要新聞。</desc>
-  </programme>
-  <programme start="20260225070000 +0000" stop="20260225080000 +0000" channel="華視新聞">
-    <title lang="zh">華視1500整點新聞</title>
-    <desc lang="zh">以最客觀的角度，最專業的主播，為觀眾完整報導上午發生之重大國內外重要新聞。</desc>
-  </programme>
-  <programme start="20260225080000 +0000" stop="20260225085800 +0000" channel="華視新聞">
-    <title lang="zh">華視在地新聞</title>
-    <desc lang="zh">以台語發音，提供觀眾朋友不一樣的國內外新聞。</desc>
-  </programme>
   <programme start="20260225085800 +0000" stop="20260225120000 +0000" channel="華視新聞">
     <title lang="zh">華視新聞晚報</title>
     <desc lang="zh">華視新聞部每天整理當天重大國內外新聞事件，為觀眾做最快、最即時的播報。</desc>
@@ -535322,10 +535566,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <title lang="zh">華視2400夜間新聞</title>
     <desc lang="zh">由專業華視主播帶來最即時、最完整、最專業的新聞報導。</desc>
   </programme>
-  <programme start="20260225040000 +0000" stop="20260225100000 +0000" channel="倪珍播新聞">
-    <title lang="zh">午安新聞</title>
-    <desc lang="zh"/>
-  </programme>
   <programme start="20260225100000 +0000" stop="20260225160000 +0000" channel="倪珍播新聞">
     <title lang="zh">晚安新聞</title>
     <desc lang="zh"/>
@@ -535401,26 +535641,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
   <programme start="20260301220000 +0000" stop="20260302040000 +0000" channel="倪珍播新聞">
     <title lang="zh">早安新聞</title>
     <desc lang="zh"/>
-  </programme>
-  <programme start="20260225035500 +0000" stop="20260225060000 +0000" channel="三立新聞iNEWS">
-    <title lang="zh">iNEWS財經午報</title>
-    <desc lang="zh">三立iNEWS製播的財經新聞節目，每天午間由最專業的主播帶來國際時事、財經股匯市報導、深度新聞、時事評論…等內容。</desc>
-  </programme>
-  <programme start="20260225060000 +0000" stop="20260225070000 +0000" channel="三立新聞iNEWS">
-    <title lang="zh">iNEWS1400整點新聞</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260225070000 +0000" stop="20260225080000 +0000" channel="三立新聞iNEWS">
-    <title lang="zh">智富食代</title>
-    <desc lang="zh">顛覆傳統旅遊節目，而是以全新新聞性、知識性旅遊資訊節目，呈現觀眾眼前。輕鬆有趣的內容中，將觀光經濟數字、各地房價、消費指數及各地風土民情融入結合。要學怎麼贏、先學怎麼玩！女漢子兩條路線PK旅行大挑戰。</desc>
-  </programme>
-  <programme start="20260225080000 +0000" stop="20260225090000 +0000" channel="三立新聞iNEWS">
-    <title lang="zh">iNEWS1600整點新聞</title>
-    <desc lang="zh">三立iNEWS製播的財經新聞節目，由最專業的財經主播帶來國際時事、財經股匯市報導、深度新聞、時事評論…等內容。</desc>
-  </programme>
-  <programme start="20260225090000 +0000" stop="20260225100000 +0000" channel="三立新聞iNEWS">
-    <title lang="zh">iNEWS1700整點新聞</title>
-    <desc lang="zh">三立iNEWS製播的財經新聞節目，由最專業的財經主播帶來國際時事、財經股匯市報導、深度新聞、時事評論…等內容。</desc>
   </programme>
   <programme start="20260225100000 +0000" stop="20260225115500 +0000" channel="三立新聞iNEWS">
     <title lang="zh">1819錢進大頭條</title>
@@ -535841,30 +536061,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
   <programme start="20260302070000 +0000" stop="20260302080000 +0000" channel="三立新聞iNEWS">
     <title lang="zh">智富食代</title>
     <desc lang="zh">顛覆傳統旅遊節目，而是以全新新聞性、知識性旅遊資訊節目，呈現觀眾眼前。輕鬆有趣的內容中，將觀光經濟數字、各地房價、消費指數及各地風土民情融入結合。要學怎麼贏、先學怎麼玩！女漢子兩條路線PK旅行大挑戰。</desc>
-  </programme>
-  <programme start="20260225040000 +0000" stop="20260225050000 +0000" channel="寰宇財經台">
-    <title lang="zh">台股線上</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260225050000 +0000" stop="20260225060000 +0000" channel="寰宇財經台">
-    <title lang="zh">台股線上</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260225060000 +0000" stop="20260225070000 +0000" channel="寰宇財經台">
-    <title lang="zh">美食打卡趣</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260225070000 +0000" stop="20260225080000 +0000" channel="寰宇財經台">
-    <title lang="zh">小食光台味誌</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260225080000 +0000" stop="20260225090000 +0000" channel="寰宇財經台">
-    <title lang="zh">巷弄美食家</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260225090000 +0000" stop="20260225100000 +0000" channel="寰宇財經台">
-    <title lang="zh">古今風雲</title>
-    <desc lang="zh"/>
   </programme>
   <programme start="20260225100000 +0000" stop="20260225110000 +0000" channel="寰宇財經台">
     <title lang="zh">美食打卡趣</title>
@@ -536338,30 +536534,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <title lang="zh">打卡吧!我的炫FOOD日記</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260225035800 +0000" stop="20260225050000 +0000" channel="中視新聞">
-    <title lang="zh">中視午間新聞</title>
-    <desc lang="zh">「中視午間新聞」每天以最客觀的角度，最專業的主播，為觀眾完整報導上午發生之重大國內外重要新聞，並提供最新股市收盤價格。</desc>
-  </programme>
-  <programme start="20260225050000 +0000" stop="20260225060000 +0000" channel="中視新聞">
-    <title lang="zh">中視新聞即時現場</title>
-    <desc lang="zh">由主播蕭惠文播報，以SNG車讓觀眾看到最即時的新聞報導，並以最客觀的角度，為觀眾完整報導上午發生之重要新聞。</desc>
-  </programme>
-  <programme start="20260225060000 +0000" stop="20260225070000 +0000" channel="中視新聞">
-    <title lang="zh">中視新聞即時現場</title>
-    <desc lang="zh">由主播蕭惠文播報，以SNG車讓觀眾看到最即時的新聞報導，並以最客觀的角度，為觀眾完整報導上午發生之重要新聞。</desc>
-  </programme>
-  <programme start="20260225070000 +0000" stop="20260225080000 +0000" channel="中視新聞">
-    <title lang="zh">中視新聞即時現場</title>
-    <desc lang="zh">由主播蕭惠文播報，以SNG車讓觀眾看到最即時的新聞報導，並以最客觀的角度，為觀眾完整報導上午發生之重要新聞。</desc>
-  </programme>
-  <programme start="20260225080000 +0000" stop="20260225090000 +0000" channel="中視新聞">
-    <title lang="zh">新庶民大頭家</title>
-    <desc lang="zh">中視新聞全新政論節目，每日帶給你超勁爆話題討論，歡迎庶民們一起來follow。</desc>
-  </programme>
-  <programme start="20260225090000 +0000" stop="20260225100000 +0000" channel="中視新聞">
-    <title lang="zh">新庶民大頭家</title>
-    <desc lang="zh">中視新聞全新政論節目，每日帶給你超勁爆話題討論，歡迎庶民們一起來follow。</desc>
-  </programme>
   <programme start="20260225100000 +0000" stop="20260225105800 +0000" channel="中視新聞">
     <title lang="zh">中視新聞全球報導</title>
     <desc lang="zh">中視每晚七點由主播哈遠儀為全國觀眾最專業、準確的新聞報導。</desc>
@@ -536798,30 +536970,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <title lang="zh">中視新聞全球報導</title>
     <desc lang="zh">中視每晚七點由主播哈遠儀為全國觀眾最專業、準確的新聞報導。</desc>
   </programme>
-  <programme start="20260225040000 +0000" stop="20260225050000 +0000" channel="中天新聞台">
-    <title lang="zh">中天新聞 1200正午新聞</title>
-    <desc lang="zh">中天正午新聞帶給您最新的國內外大事，掌握天下，以及最新疫情新聞消息、疫情指揮中心直播、今日確診人數統計等重大新聞轉播報導。</desc>
-  </programme>
-  <programme start="20260225050000 +0000" stop="20260225060000 +0000" channel="中天新聞台">
-    <title lang="zh">中天新聞 1300午間新聞</title>
-    <desc lang="zh">中天午間新聞帶給您最新的國內外大事，掌握天下。</desc>
-  </programme>
-  <programme start="20260225060000 +0000" stop="20260225070000 +0000" channel="中天新聞台">
-    <title lang="zh">14大新聞大爆卦</title>
-    <desc lang="zh">每周一到周五《大新聞大爆卦》中天主播馬千惠陪你一起來解卦！！！</desc>
-  </programme>
-  <programme start="20260225070000 +0000" stop="20260225080000 +0000" channel="中天新聞台">
-    <title lang="zh">15大新聞大爆卦</title>
-    <desc lang="zh">每周一到周五《大新聞大爆卦》中天主播陪你一起來解卦！！！</desc>
-  </programme>
-  <programme start="20260225080000 +0000" stop="20260225090000 +0000" channel="中天新聞台">
-    <title lang="zh">中天新聞 1600整點新聞</title>
-    <desc lang="zh">收看中天新聞帶給你最即時、最完整、最專業的新聞報導。</desc>
-  </programme>
-  <programme start="20260225090000 +0000" stop="20260225100000 +0000" channel="中天新聞台">
-    <title lang="zh">中天新聞 1700整點新聞</title>
-    <desc lang="zh">收看中天新聞帶給你最即時、最完整、最專業的新聞報導。</desc>
-  </programme>
   <programme start="20260225100000 +0000" stop="20260225110000 +0000" channel="中天新聞台">
     <title lang="zh">中天辣晚報</title>
     <desc lang="zh">提供國內、兩岸、國際頭條焦點，掌握時事脈動，觀察新聞背後的真正意義，帶領觀眾知曉天下事。有最深度的內容、最專業的追蹤、最需要的資訊，收視率領先各台，具有高度影響力！</desc>
@@ -537161,30 +537309,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
   <programme start="20260228220000 +0000" stop="20260228230000 +0000" channel="中天新聞台">
     <title lang="zh">中天新聞 中天晨報</title>
     <desc lang="zh">每天早晨時段，由早報主播與您一起讀報，看遍天下事。</desc>
-  </programme>
-  <programme start="20260225035500 +0000" stop="20260225045500 +0000" channel="寰宇新聞台灣台">
-    <title lang="zh">寰宇午間新聞</title>
-    <desc lang="zh">寰宇午間新聞給你最在地的台灣新聞、最深入的兩岸焦點，掌握國際情勢帶您了解社會脈動。</desc>
-  </programme>
-  <programme start="20260225045500 +0000" stop="20260225055500 +0000" channel="寰宇新聞台灣台">
-    <title lang="zh">寰宇午間新聞</title>
-    <desc lang="zh">寰宇午間新聞給你最在地的台灣新聞、最深入的兩岸焦點，掌握國際情勢帶您了解社會脈動。</desc>
-  </programme>
-  <programme start="20260225055500 +0000" stop="20260225065500 +0000" channel="寰宇新聞台灣台">
-    <title lang="zh">寰宇整點新聞</title>
-    <desc lang="zh">來自路透的國際新聞、最在地的台灣新聞以及最深入的兩岸焦點，帶您掌握社會脈動。</desc>
-  </programme>
-  <programme start="20260225065500 +0000" stop="20260225075500 +0000" channel="寰宇新聞台灣台">
-    <title lang="zh">寰宇整點新聞</title>
-    <desc lang="zh">來自路透的國際新聞、最在地的台灣新聞以及最深入的兩岸焦點，帶您掌握社會脈動。</desc>
-  </programme>
-  <programme start="20260225075500 +0000" stop="20260225085500 +0000" channel="寰宇新聞台灣台">
-    <title lang="zh">寰宇晚間新聞</title>
-    <desc lang="zh">寰宇晚間新聞給你最在地的台灣新聞、最深入的兩岸焦點，掌握國際情勢帶您了解社會脈動。</desc>
-  </programme>
-  <programme start="20260225085500 +0000" stop="20260225095500 +0000" channel="寰宇新聞台灣台">
-    <title lang="zh">寰宇晚間新聞</title>
-    <desc lang="zh">寰宇晚間新聞給你最在地的台灣新聞、最深入的兩岸焦點，掌握國際情勢帶您了解社會脈動。</desc>
   </programme>
   <programme start="20260225095500 +0000" stop="20260225105500 +0000" channel="寰宇新聞台灣台">
     <title lang="zh">寰宇晚間新聞</title>
@@ -537657,30 +537781,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
   <programme start="20260302065500 +0000" stop="20260302075500 +0000" channel="寰宇新聞台灣台">
     <title lang="zh">寰宇整點新聞</title>
     <desc lang="zh">來自路透的國際新聞、最在地的台灣新聞以及最深入的兩岸焦點，帶您掌握社會脈動。</desc>
-  </programme>
-  <programme start="20260225035500 +0000" stop="20260225045500 +0000" channel="寰宇新聞台">
-    <title lang="zh">寰宇全球現場</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260225045500 +0000" stop="20260225055500 +0000" channel="寰宇新聞台">
-    <title lang="zh">寰宇全球現場</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260225055500 +0000" stop="20260225065500 +0000" channel="寰宇新聞台">
-    <title lang="zh">寰宇整點新聞</title>
-    <desc lang="zh">來自路透的國際新聞、最在地的台灣新聞以及最深入的兩岸焦點，帶您掌握社會脈動。</desc>
-  </programme>
-  <programme start="20260225065500 +0000" stop="20260225075500 +0000" channel="寰宇新聞台">
-    <title lang="zh">寰宇整點新聞</title>
-    <desc lang="zh">來自路透的國際新聞、最在地的台灣新聞以及最深入的兩岸焦點，帶您掌握社會脈動。</desc>
-  </programme>
-  <programme start="20260225075500 +0000" stop="20260225085500 +0000" channel="寰宇新聞台">
-    <title lang="zh">寰宇全球新聞</title>
-    <desc lang="zh">搶先揭露全球各地政經、社會、娛樂的第一手新聞訊息，讓觀眾不漏接關鍵的世界大事。</desc>
-  </programme>
-  <programme start="20260225085500 +0000" stop="20260225095500 +0000" channel="寰宇新聞台">
-    <title lang="zh">寰宇全球新聞</title>
-    <desc lang="zh">搶先揭露全球各地政經、社會、娛樂的第一手新聞訊息，讓觀眾不漏接關鍵的世界大事。</desc>
   </programme>
   <programme start="20260225095500 +0000" stop="20260225105500 +0000" channel="寰宇新聞台">
     <title lang="zh">寰宇全球新聞</title>
@@ -538157,50 +538257,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
   <programme start="20260302065500 +0000" stop="20260302075500 +0000" channel="寰宇新聞台">
     <title lang="zh">寰宇整點新聞</title>
     <desc lang="zh">來自路透的國際新聞、最在地的台灣新聞以及最深入的兩岸焦點，帶您掌握社會脈動。</desc>
-  </programme>
-  <programme start="20260225040000 +0000" stop="20260225050000 +0000" channel="第1商業台">
-    <title lang="zh">財經資訊</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260225050000 +0000" stop="20260225060000 +0000" channel="第1商業台">
-    <title lang="zh">財經資訊</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260225060000 +0000" stop="20260225063000 +0000" channel="第1商業台">
-    <title lang="zh">股市吳限鑽-寶得富-吳曉松分析師</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260225063000 +0000" stop="20260225070000 +0000" channel="第1商業台">
-    <title lang="zh">啟發投顧精選</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260225070000 +0000" stop="20260225073000 +0000" channel="第1商業台">
-    <title lang="zh">阪田戰法-寶得富-顧奎國分析師</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260225073000 +0000" stop="20260225080000 +0000" channel="第1商業台">
-    <title lang="zh">期股衝衝衝-寶得富-翁士峻分析師</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260225080000 +0000" stop="20260225083000 +0000" channel="第1商業台">
-    <title lang="zh">股市全攻略-豐銀投顧-龔鴻彬分析師</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260225083000 +0000" stop="20260225090000 +0000" channel="第1商業台">
-    <title lang="zh">汪海華_操盤的智慧</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260225090000 +0000" stop="20260225093000 +0000" channel="第1商業台">
-    <title lang="zh">股市第一線-顧德投顧-李冠嶔分析師</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260225093000 +0000" stop="20260225100000 +0000" channel="第1商業台">
-    <title lang="zh">月薪翻倍計畫-顧德投顧-黃紫東分析師</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260225100000 +0000" stop="20260225103000 +0000" channel="第1商業台">
-    <title lang="zh">阪田戰法-寶得富-顧奎國分析師</title>
-    <desc lang="zh"/>
   </programme>
   <programme start="20260225103000 +0000" stop="20260225110000 +0000" channel="第1商業台">
     <title lang="zh">股市強強滾-亞洲投顧-鄭偉群分析師</title>
@@ -539062,10 +539118,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <title lang="zh">期股衝衝衝-寶得富-翁士峻分析師</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260225010000 +0000" stop="20260225100000 +0000" channel="國會頻道1台">
-    <title lang="zh">立法院會議直播</title>
-    <desc lang="zh"/>
-  </programme>
   <programme start="20260225100000 +0000" stop="20260225160000 +0000" channel="國會頻道1台">
     <title lang="zh">當日立法院會議轉播</title>
     <desc lang="zh"/>
@@ -539168,10 +539220,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
   </programme>
   <programme start="20260302004700 +0000" stop="20260302010000 +0000" channel="國會頻道1台">
     <title lang="zh">週一會議預報</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260225010000 +0000" stop="20260225100000 +0000" channel="國會頻道2台">
-    <title lang="zh">立法院會議直播</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260225100000 +0000" stop="20260225160000 +0000" channel="國會頻道2台">
@@ -539277,18 +539325,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
   <programme start="20260302004700 +0000" stop="20260302010000 +0000" channel="國會頻道2台">
     <title lang="zh">週一會議預報</title>
     <desc lang="zh"/>
-  </programme>
-  <programme start="20260225023000 +0000" stop="20260225045000 +0000" channel="龍華經典台">
-    <title lang="zh">極地先鋒</title>
-    <desc lang="zh">舉世聞名的極地探險家阿蒙森，致力於探索人類未知的世界。即使忍受飢餓、渾身凍瘡，他還是憑藉堅強的意志力，成為史上首位征服南極的人。璀璨的成就讓他留名千古，甚至連月球的山脈都以他來命名。不過作為一個男人，阿蒙森的故事卻不止於此，透過他的弟弟與妻子的不同視角，阿蒙森的爭議人生逐一揭曉…</desc>
-  </programme>
-  <programme start="20260225045000 +0000" stop="20260225070000 +0000" channel="龍華經典台">
-    <title lang="zh">吊人索</title>
-    <desc lang="zh">退休警官杰德庫柏來到西部購買一批牲口準備務農，卻被一群以退役上尉威爾遜為首、自稱為民除害的槍手，指控其謀殺及偷竊牛隻，而私下對他處以絞刑。庫柏瀕死之際被經過的法警救下，而真實的犯案者也在事後被逮，法官除還庫柏清白外，更力邀庫柏重回警職擔任警長，成為美國西部聯邦法警…</desc>
-  </programme>
-  <programme start="20260225070000 +0000" stop="20260225091000 +0000" channel="龍華經典台">
-    <title lang="zh">星際失控</title>
-    <desc lang="zh">在近地軌道運行的蘇聯無人太空站「禮炮七號」，突然和地面控制中心失聯。此太空站是蘇聯科學和太空產業的驕傲，它的墜落不僅會損害國家形象，甚至會帶來悲劇，以及人命傷亡。為了避免災難發生，政府派遣太空人駕駛太空船去修復「禮炮七號」。然而，沒人試過在太空與失控的太空站接合。</desc>
   </programme>
   <programme start="20260225091000 +0000" stop="20260225110000 +0000" channel="龍華經典台">
     <title lang="zh">聯合縮小軍</title>
@@ -539489,18 +539525,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
   <programme start="20260302040000 +0000" stop="20260302072000 +0000" channel="龍華經典台">
     <title lang="zh">聖保羅炮艇</title>
     <desc lang="zh">1926年的中國，時值軍閥割據與國共內鬥，一艘名為聖保羅的美國炮艇航行於長江流域，其任務是保護在中國動亂地區的美國人民，因而見證了大時代下的中國人民生活。本片拍攝於東西方冷戰時期，因政治因素而多於臺灣北部取景，留下不少彌足珍貴的影像。</desc>
-  </programme>
-  <programme start="20260225035500 +0000" stop="20260225055500 +0000" channel="龍華電影台">
-    <title lang="zh">殭屍先生</title>
-    <desc lang="zh">殭屍片的經典之作。任老爺的先父入土二十年但屍骨仍未腐爛，九叔（林正英）怕他變成殭屍，與徒秋生（錢小豪），文才（許冠英）把屍首抬回義莊處理，更建議任家小姐婷婷暫且迴避。但卻反被攻擊為迷信，被鎖進大牢內。但在夜裡村民一個個神秘死去…</desc>
-  </programme>
-  <programme start="20260225055500 +0000" stop="20260225074000 +0000" channel="龍華電影台">
-    <title lang="zh">御前夜巡使</title>
-    <desc lang="zh">相傳幾百年前，妖邪橫行襲擾宮廷，戍衞王城的夜巡使一職應運而生，名為夜巡實為捉妖！而後天下昇平日久，多年無妖可捉的夜巡使日漸衰敗，初出茅廬的少年燕離可謂血脈僅存。然而，突發的連環血案，再次戳破王城夜幕的寧靜。在不斷反轉的正反較量與愛恨糾結中，主人公燕離的命運車輪也隨之開始轉動…</desc>
-  </programme>
-  <programme start="20260225074000 +0000" stop="20260225084000 +0000" channel="龍華電影台">
-    <title lang="zh">豬豬俠之超星五靈俠</title>
-    <desc lang="zh">完成了九霄星的任務後，豬豬們乘坐著豬排號愉快地返回豬豬星。就在快到達時，他們接到了完美隊長的電話，告訴他們，只要接下來繼續完成一些指標來證明自己，就有機會加入宇宙英雄聯盟。掛斷電話後，豬豬們都十分興奮，然而就在這時，一個叫獨孤博士的壞蛋出現，還下令阻止他們繼續前進…</desc>
   </programme>
   <programme start="20260225084000 +0000" stop="20260225104500 +0000" channel="龍華電影台">
     <title lang="zh">唐伯虎點秋香</title>
@@ -539705,18 +539729,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
   <programme start="20260301160000 +0000" stop="20260301200000 +0000" channel="龍華電影台">
     <title lang="zh">節目未定</title>
     <desc lang="zh">節目資訊尚未公布。</desc>
-  </programme>
-  <programme start="20260225032000 +0000" stop="20260225053000 +0000" channel="龍華洋片台">
-    <title lang="zh">反恐行動：獨立日</title>
-    <desc lang="zh">12月6日獨立日是芬蘭的國慶日，但今年顯得特別不平靜，總統官邸遭到恐怖份子襲擊，連總統在內的大批貴賓遭挾持成為人質！安全情報局幹員麥克斯被指派為這場人質危機的談判專家，他必須採取大膽行動，找出幕後真凶。不僅人命關天，甚至整個歐洲的未來安危都肩負在麥克斯身上！</desc>
-  </programme>
-  <programme start="20260225053000 +0000" stop="20260225073000 +0000" channel="龍華洋片台">
-    <title lang="zh">逃出封鎖線</title>
-    <desc lang="zh">二戰期間，一支德國坦克軍隊正朝著莫斯科前進，兩架伊留申二型戰機奉命前往阻止德軍進犯。過程中，空軍隊長尼古拉康姆列夫的飛機被迫降落在敵軍領地，除了酷寒氣候帶來的考驗，他還得忍受飢餓，同時要躲避納粹軍隊追捕。歷經一番辛苦，他總算順利返回自己的國家，但也因為受傷而進了醫院，性命垂危…</desc>
-  </programme>
-  <programme start="20260225073000 +0000" stop="20260225091000 +0000" channel="龍華洋片台">
-    <title lang="zh">仙戒奇緣：神秘寶石</title>
-    <desc lang="zh">為了拯救瑞拉，艾雷王子不幸被壞女巫變成了老鼠。萬分焦急的瑞拉和夥伴們，在聽說森林女神的生命石可以破除魔咒後，一行人便動身前往尋找寶石。未料，當他們歷經一番波折終於見到森林女神時，才發現寶石竟然被法力高強的沙漠女王偷走了！瑞拉和夥伴們究竟有沒有辦法奪回寶石，恢復艾雷的容貌呢？</desc>
   </programme>
   <programme start="20260225091000 +0000" stop="20260225110000 +0000" channel="龍華洋片台">
     <title lang="zh">馬麻吉：馬戲團危機</title>
@@ -540022,7 +540034,7 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <title lang="zh">G联赛圣克鲁兹勇士VS撕裂之城混音</title>
     <desc lang="zh">/</desc>
   </programme>
-  <programme start="20260225104500 +0800" stop="20260225150000 +0800" channel="咪咕体育">
+  <programme start="20260225104500 +0800" stop="20260225134958 +0800" channel="咪咕体育">
     <title lang="zh">NBA常规赛森林狼VS开拓者</title>
     <desc lang="zh">/</desc>
   </programme>
@@ -540030,12 +540042,12 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <title lang="zh">第四比赛日热身区第四比赛日热身区</title>
     <desc lang="zh">/</desc>
   </programme>
-  <programme start="20260225111500 +0800" stop="20260225153000 +0800" channel="咪咕体育">
+  <programme start="20260225111500 +0800" stop="20260225140837 +0800" channel="咪咕体育">
     <title lang="zh">NBA常规赛魔术VS湖人</title>
     <desc lang="zh">/</desc>
   </programme>
-  <programme start="20260225110000 +0800" stop="20260226160000 +0800" channel="咪咕体育">
-    <title lang="zh">蒯曼/陈熠冲女双4强 黄友政vs向鹏蒯曼/陈熠冲女双4强 黄友政vs向鹏</title>
+  <programme start="20260225110000 +0800" stop="20260225163431 +0800" channel="咪咕体育">
+    <title lang="zh">蒯曼/陈熠3-1险胜  向鹏晋级16强蒯曼/陈熠3-1险胜  向鹏晋级16强</title>
     <desc lang="zh">/</desc>
   </programme>
   <programme start="20260225170000 +0800" stop="20260227210000 +0800" channel="咪咕体育">
@@ -540043,7 +540055,7 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <desc lang="zh">/</desc>
   </programme>
   <programme start="20260225170000 +0800" stop="20260226220000 +0800" channel="咪咕体育">
-    <title lang="zh">孙颖莎冲16强 黄友政/陈熠出战孙颖莎冲16强 黄友政/陈熠出战</title>
+    <title lang="zh">孙颖莎冲16强 黄友政/陈熠止步8强孙颖莎冲16强 黄友政/陈熠止步8强</title>
     <desc lang="zh">/</desc>
   </programme>
   <programme start="20260225180000 +0800" stop="20260226220000 +0800" channel="咪咕体育">
@@ -540095,10 +540107,10 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <desc lang="zh">/</desc>
   </programme>
   <programme start="20260226110000 +0800" stop="20260227160000 +0800" channel="咪咕体育">
-    <title lang="zh">男女单打1/8决赛、女双及混双半决赛男女单打1/8决赛、女双及混双半决赛</title>
+    <title lang="zh">长崎美柚/申裕斌冲决赛 张禹珍vs松岛辉空长崎美柚/申裕斌冲决赛 张禹珍vs松岛辉空</title>
     <desc lang="zh">/</desc>
   </programme>
-  <programme start="20260226170000 +0800" stop="20260226210000 +0800" channel="咪咕体育">
+  <programme start="20260226165000 +0800" stop="20260226210000 +0800" channel="咪咕体育">
     <title lang="zh">男篮世预赛亚洲赛区关岛vs澳大利亚</title>
     <desc lang="zh">/</desc>
   </programme>
@@ -540106,15 +540118,15 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <title lang="zh">男女单打1/8决赛、女双及混双半决赛男女单打1/8决赛、女双及混双半决赛</title>
     <desc lang="zh">/</desc>
   </programme>
-  <programme start="20260226180500 +0800" stop="20260226220500 +0800" channel="咪咕体育">
+  <programme start="20260226170000 +0800" stop="20260226220500 +0800" channel="咪咕体育">
     <title lang="zh">男篮世预赛亚洲赛区日本vs中国</title>
     <desc lang="zh">/</desc>
   </programme>
-  <programme start="20260226190000 +0800" stop="20260226230000 +0800" channel="咪咕体育">
+  <programme start="20260226185000 +0800" stop="20260226230000 +0800" channel="咪咕体育">
     <title lang="zh">男篮世预赛亚洲赛区中国台北vs韩国</title>
     <desc lang="zh">/</desc>
   </programme>
-  <programme start="20260226193000 +0800" stop="20260226233000 +0800" channel="咪咕体育">
+  <programme start="20260226192000 +0800" stop="20260226233000 +0800" channel="咪咕体育">
     <title lang="zh">男篮世预赛亚洲赛区菲律宾vs新西兰</title>
     <desc lang="zh">/</desc>
   </programme>
@@ -542559,55 +542571,51 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260225223000 +0900" stop="20260226002000 +0900" channel="SBS plus">
-    <title lang="zh">나는 SOLO </title>
+    <title lang="zh">나는 SOLO (자막)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260226002000 +0900" stop="20260226020000 +0900" channel="SBS plus">
-    <title lang="zh">나는 SOLO </title>
+    <title lang="zh">나는 SOLO (자막)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226040000 +0900" stop="20260226055000 +0900" channel="SBS plus">
-    <title lang="zh">나는 SOLO (자막해설수화)</title>
+  <programme start="20260226040000 +0900" stop="20260226050000 +0900" channel="SBS plus">
+    <title lang="zh">TV 동물농장 (해설)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226055000 +0900" stop="20260226061000 +0900" channel="SBS plus">
-    <title lang="zh">접속! 무비월드 스페셜 (해설)</title>
+  <programme start="20260226050000 +0900" stop="20260226062000 +0900" channel="SBS plus">
+    <title lang="zh">접속! 무비월드 (자막)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226061000 +0900" stop="20260226072000 +0900" channel="SBS plus">
-    <title lang="zh">오늘부터 인간입니다만 (자막해설)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260226072000 +0900" stop="20260226083000 +0900" channel="SBS plus">
-    <title lang="zh">오늘부터 인간입니다만 (자막해설)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260226083000 +0900" stop="20260226102000 +0900" channel="SBS plus">
-    <title lang="zh">런닝맨 (자막)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260226102000 +0900" stop="20260226121000 +0900" channel="SBS plus">
-    <title lang="zh">나는 SOLO </title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260226121000 +0900" stop="20260226142000 +0900" channel="SBS plus">
-    <title lang="zh">미운 우리 새끼 (자막)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260226142000 +0900" stop="20260226161000 +0900" channel="SBS plus">
-    <title lang="zh">틈만 나면 (자막)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260226161000 +0900" stop="20260226175000 +0900" channel="SBS plus">
+  <programme start="20260226062000 +0900" stop="20260226081000 +0900" channel="SBS plus">
     <title lang="zh">동상이몽 2 너는 내 운명 (자막)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226175000 +0900" stop="20260226192000 +0900" channel="SBS plus">
+  <programme start="20260226081000 +0900" stop="20260226100000 +0900" channel="SBS plus">
+    <title lang="zh">런닝맨 (자막)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226100000 +0900" stop="20260226115000 +0900" channel="SBS plus">
+    <title lang="zh">나는 SOLO (자막)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226115000 +0900" stop="20260226140000 +0900" channel="SBS plus">
+    <title lang="zh">미운 우리 새끼 (자막)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226140000 +0900" stop="20260226155000 +0900" channel="SBS plus">
+    <title lang="zh">틈만 나면 (자막)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226155000 +0900" stop="20260226173000 +0900" channel="SBS plus">
+    <title lang="zh">동상이몽 2 너는 내 운명 (자막)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226173000 +0900" stop="20260226192000 +0900" channel="SBS plus">
     <title lang="zh">지구마불 세계여행2 </title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260226192000 +0900" stop="20260226211000 +0900" channel="SBS plus">
-    <title lang="zh">나는 SOLO </title>
+    <title lang="zh">나는 SOLO (자막)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260226211000 +0900" stop="20260226223000 +0900" channel="SBS plus">
@@ -542623,7 +542631,7 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260227012000 +0900" stop="20260227030000 +0900" channel="SBS plus">
-    <title lang="zh">나는 SOLO </title>
+    <title lang="zh">나는 SOLO (자막)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260225040000 +0900" stop="20260225055000 +0900" channel="SBS funE">
@@ -542890,16 +542898,12 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <title lang="zh">2026 SBS배 전국 검도왕 대회 </title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260225132000 +0900" stop="20260225160000 +0900" channel="SBS sport">
-    <title lang="zh">2026 고교야구 최강전 광주일고:야탑고</title>
+  <programme start="20260225132000 +0900" stop="20260225171000 +0900" channel="SBS sport">
+    <title lang="zh">2026 고교야구 최강전 야탑고:광주일고</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260225160000 +0900" stop="20260225180000 +0900" channel="SBS sport">
+  <programme start="20260225171000 +0900" stop="20260225184500 +0900" channel="SBS sport">
     <title lang="zh">25~26 V-리그 여자부 현대건설:한국도로공사</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260225180000 +0900" stop="20260225184500 +0900" channel="SBS sport">
-    <title lang="zh">25~26 V-리그 최고의 세트 </title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260225184500 +0900" stop="20260225210000 +0900" channel="SBS sport">
@@ -542911,7 +542915,7 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260225230000 +0900" stop="20260226010000 +0900" channel="SBS sport">
-    <title lang="zh">2026 고교야구 최강전 광주일고:야탑고</title>
+    <title lang="zh">2026 고교야구 최강전 야탑고:광주일고</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260226030000 +0900" stop="20260226054000 +0900" channel="SBS sport">
@@ -542923,11 +542927,11 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260226074000 +0900" stop="20260226095000 +0900" channel="SBS sport">
-    <title lang="zh">2026 고교야구 최강전 광주일고:야탑고</title>
+    <title lang="zh">2026 고교야구 최강전 야탑고:광주일고</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260226095000 +0900" stop="20260226123000 +0900" channel="SBS sport">
-    <title lang="zh">2026 고교야구 최강전 준결승전</title>
+    <title lang="zh">2026 고교야구 최강전 준결승전 충암고:용마고</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260226123000 +0900" stop="20260226132000 +0900" channel="SBS sport">
@@ -542935,7 +542939,7 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260226132000 +0900" stop="20260226160000 +0900" channel="SBS sport">
-    <title lang="zh">2026 고교야구 최강전 준결승전</title>
+    <title lang="zh">2026 고교야구 최강전 준결승전 덕수고:광주일고</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260226160000 +0900" stop="20260226180000 +0900" channel="SBS sport">
@@ -543678,67 +543682,67 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <title lang="zh">오은영 리포트 가족지옥 157회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260225041800 +0900" stop="20260225050000 +0900" channel="MBC every1">
+  <programme start="20260225041800 +0900" stop="20260225050300 +0900" channel="MBC every1">
     <title lang="zh">히든 아이 라이브이슈 14회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226050000 +0900" stop="20260226053000 +0900" channel="MBC every1">
+  <programme start="20260226050300 +0900" stop="20260226053500 +0900" channel="MBC every1">
     <title lang="zh">히든 아이 라이브이슈 28회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226053000 +0900" stop="20260226070000 +0900" channel="MBC every1">
+  <programme start="20260226053500 +0900" stop="20260226065100 +0900" channel="MBC every1">
     <title lang="zh">오디션 끝장전 1등들 2회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226070000 +0900" stop="20260226084000 +0900" channel="MBC every1">
+  <programme start="20260226065100 +0900" stop="20260226083300 +0900" channel="MBC every1">
     <title lang="zh">히든 아이 73회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226084000 +0900" stop="20260226102000 +0900" channel="MBC every1">
+  <programme start="20260226083300 +0900" stop="20260226102100 +0900" channel="MBC every1">
     <title lang="zh">나 혼자 산다 635회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226102000 +0900" stop="20260226120000 +0900" channel="MBC every1">
+  <programme start="20260226102100 +0900" stop="20260226120300 +0900" channel="MBC every1">
     <title lang="zh">라디오스타 954회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226120000 +0900" stop="20260226132000 +0900" channel="MBC every1">
+  <programme start="20260226120300 +0900" stop="20260226130000 +0900" channel="MBC every1">
     <title lang="zh">전지적 참견 시점 386회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226132000 +0900" stop="20260226145000 +0900" channel="MBC every1">
+  <programme start="20260226130000 +0900" stop="20260226143800 +0900" channel="MBC every1">
     <title lang="zh">놀면 뭐하니? 318회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226145000 +0900" stop="20260226163000 +0900" channel="MBC every1">
+  <programme start="20260226143800 +0900" stop="20260226161900 +0900" channel="MBC every1">
     <title lang="zh">라디오스타 954회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226163000 +0900" stop="20260226174000 +0900" channel="MBC every1">
+  <programme start="20260226161900 +0900" stop="20260226171000 +0900" channel="MBC every1">
     <title lang="zh">나 혼자 산다 635회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226174000 +0900" stop="20260226185000 +0900" channel="MBC every1">
-    <title lang="zh">전지적 참견 시점 386회</title>
+  <programme start="20260226171000 +0900" stop="20260226183700 +0900" channel="MBC every1">
+    <title lang="zh">오디션 끝장전 1등들 2회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226185000 +0900" stop="20260226203000 +0900" channel="MBC every1">
+  <programme start="20260226183700 +0900" stop="20260226202100 +0900" channel="MBC every1">
     <title lang="zh">라디오스타 954회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226203000 +0900" stop="20260226221000 +0900" channel="MBC every1">
+  <programme start="20260226202100 +0900" stop="20260226220300 +0900" channel="MBC every1">
     <title lang="zh">히든 아이 73회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226221000 +0900" stop="20260226235000 +0900" channel="MBC every1">
+  <programme start="20260226220300 +0900" stop="20260226234800 +0900" channel="MBC every1">
     <title lang="zh">라디오스타 954회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226235000 +0900" stop="20260227013000 +0900" channel="MBC every1">
+  <programme start="20260226234800 +0900" stop="20260227013500 +0900" channel="MBC every1">
     <title lang="zh">나 혼자 산다 635회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226013000 +0900" stop="20260226031000 +0900" channel="MBC every1">
+  <programme start="20260226013500 +0900" stop="20260226031000 +0900" channel="MBC every1">
     <title lang="zh">마니또 클럽 4회</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -543830,35 +543834,35 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <title lang="zh">히든 아이 라이브이슈 35회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260225043000 +0900" stop="20260225050000 +0900" channel="MBC drama">
+  <programme start="20260225043000 +0900" stop="20260225050600 +0900" channel="MBC drama">
     <title lang="zh">피크닉 라이브 소풍 86회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226050000 +0900" stop="20260226060000 +0900" channel="MBC drama">
+  <programme start="20260226050600 +0900" stop="20260226061500 +0900" channel="MBC drama">
     <title lang="zh">쇼킹 받는 차트 16회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226060000 +0900" stop="20260226064000 +0900" channel="MBC drama">
+  <programme start="20260226061500 +0900" stop="20260226064900 +0900" channel="MBC drama">
     <title lang="zh">첫 번째 남자 48회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226064000 +0900" stop="20260226072000 +0900" channel="MBC drama">
+  <programme start="20260226064900 +0900" stop="20260226072500 +0900" channel="MBC drama">
     <title lang="zh">첫 번째 남자 49회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226072000 +0900" stop="20260226080000 +0900" channel="MBC drama">
+  <programme start="20260226072500 +0900" stop="20260226080200 +0900" channel="MBC drama">
     <title lang="zh">첫 번째 남자 50회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226080000 +0900" stop="20260226091000 +0900" channel="MBC drama">
+  <programme start="20260226080200 +0900" stop="20260226090000 +0900" channel="MBC drama">
     <title lang="zh">전지적 참견 시점 386회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226091000 +0900" stop="20260226103000 +0900" channel="MBC drama">
+  <programme start="20260226090000 +0900" stop="20260226102400 +0900" channel="MBC drama">
     <title lang="zh">찬란한 너의 계절에 1회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226103000 +0900" stop="20260226115000 +0900" channel="MBC drama">
+  <programme start="20260226102400 +0900" stop="20260226115000 +0900" channel="MBC drama">
     <title lang="zh">찬란한 너의 계절에 2회</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -543866,51 +543870,51 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <title lang="zh">라디오스타 954회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226133000 +0900" stop="20260226145000 +0900" channel="MBC drama">
+  <programme start="20260226133000 +0900" stop="20260226144900 +0900" channel="MBC drama">
     <title lang="zh">나 혼자 산다 635회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226145000 +0900" stop="20260226162000 +0900" channel="MBC drama">
+  <programme start="20260226144900 +0900" stop="20260226162100 +0900" channel="MBC drama">
     <title lang="zh">놀면 뭐하니? 318회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226162000 +0900" stop="20260226180000 +0900" channel="MBC drama">
+  <programme start="20260226162100 +0900" stop="20260226180400 +0900" channel="MBC drama">
     <title lang="zh">라디오스타 954회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226180000 +0900" stop="20260226195000 +0900" channel="MBC drama">
+  <programme start="20260226180400 +0900" stop="20260226195100 +0900" channel="MBC drama">
     <title lang="zh">나 혼자 산다 635회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226195000 +0900" stop="20260226213000 +0900" channel="MBC drama">
+  <programme start="20260226195100 +0900" stop="20260226213000 +0900" channel="MBC drama">
     <title lang="zh">라디오스타 954회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226213000 +0900" stop="20260226230000 +0900" channel="MBC drama">
+  <programme start="20260226213000 +0900" stop="20260226230300 +0900" channel="MBC drama">
     <title lang="zh">손석희의 질문들 4 2회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226230000 +0900" stop="20260227000000 +0900" channel="MBC drama">
+  <programme start="20260226230300 +0900" stop="20260227002000 +0900" channel="MBC drama">
     <title lang="zh">나 혼자 산다 635회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226000000 +0900" stop="20260226012000 +0900" channel="MBC drama">
+  <programme start="20260226002000 +0900" stop="20260226014100 +0900" channel="MBC drama">
     <title lang="zh">찬란한 너의 계절에 2회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226012000 +0900" stop="20260226030000 +0900" channel="MBC drama">
+  <programme start="20260226014100 +0900" stop="20260226031200 +0900" channel="MBC drama">
     <title lang="zh">히든 아이 73회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226030000 +0900" stop="20260226040000 +0900" channel="MBC drama">
+  <programme start="20260226031200 +0900" stop="20260226040500 +0900" channel="MBC drama">
     <title lang="zh">전지적 참견 시점 386회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226040000 +0900" stop="20260226043000 +0900" channel="MBC drama">
+  <programme start="20260226040500 +0900" stop="20260226043400 +0900" channel="MBC drama">
     <title lang="zh">피크닉 라이브 소풍 88회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226043000 +0900" stop="20260226050000 +0900" channel="MBC drama">
+  <programme start="20260226043400 +0900" stop="20260226050000 +0900" channel="MBC drama">
     <title lang="zh">피크닉 라이브 소풍 90회</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -543994,83 +543998,83 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <title lang="zh">나 혼자 산다 635회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260225040600 +0900" stop="20260225050000 +0900" channel="MBC music">
+  <programme start="20260225040600 +0900" stop="20260225050600 +0900" channel="MBC music">
     <title lang="zh">푹 쉬면 다행이야 9회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226050000 +0900" stop="20260226060000 +0900" channel="MBC music">
+  <programme start="20260226050600 +0900" stop="20260226060300 +0900" channel="MBC music">
     <title lang="zh">주간 아이돌 648회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226060000 +0900" stop="20260226074000 +0900" channel="MBC music">
+  <programme start="20260226060300 +0900" stop="20260226074300 +0900" channel="MBC music">
     <title lang="zh">살아보고서 1회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226074000 +0900" stop="20260226090000 +0900" channel="MBC music">
+  <programme start="20260226074300 +0900" stop="20260226090700 +0900" channel="MBC music">
     <title lang="zh">호텔 도깨비 5회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226090000 +0900" stop="20260226101000 +0900" channel="MBC music">
+  <programme start="20260226090700 +0900" stop="20260226101100 +0900" channel="MBC music">
     <title lang="zh">서프라이즈 미스터리 살롱 5회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226101000 +0900" stop="20260226105000 +0900" channel="MBC music">
+  <programme start="20260226101100 +0900" stop="20260226104600 +0900" channel="MBC music">
     <title lang="zh">첫 번째 남자 36회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226105000 +0900" stop="20260226113000 +0900" channel="MBC music">
+  <programme start="20260226104600 +0900" stop="20260226112200 +0900" channel="MBC music">
     <title lang="zh">첫 번째 남자 37회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226113000 +0900" stop="20260226121000 +0900" channel="MBC music">
+  <programme start="20260226112200 +0900" stop="20260226115700 +0900" channel="MBC music">
     <title lang="zh">첫 번째 남자 38회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226121000 +0900" stop="20260226125000 +0900" channel="MBC music">
+  <programme start="20260226115700 +0900" stop="20260226123300 +0900" channel="MBC music">
     <title lang="zh">첫 번째 남자 39회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226125000 +0900" stop="20260226133000 +0900" channel="MBC music">
+  <programme start="20260226123300 +0900" stop="20260226131300 +0900" channel="MBC music">
     <title lang="zh">첫 번째 남자 40회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226133000 +0900" stop="20260226144000 +0900" channel="MBC music">
+  <programme start="20260226131300 +0900" stop="20260226142700 +0900" channel="MBC music">
     <title lang="zh">마의 1회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226144000 +0900" stop="20260226155000 +0900" channel="MBC music">
+  <programme start="20260226142700 +0900" stop="20260226153900 +0900" channel="MBC music">
     <title lang="zh">마의 2회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226155000 +0900" stop="20260226171000 +0900" channel="MBC music">
+  <programme start="20260226153900 +0900" stop="20260226165900 +0900" channel="MBC music">
     <title lang="zh">찬란한 너의 계절에 1회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226171000 +0900" stop="20260226184000 +0900" channel="MBC music">
+  <programme start="20260226165900 +0900" stop="20260226183600 +0900" channel="MBC music">
     <title lang="zh">어서와 한국은 처음이지 376회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226184000 +0900" stop="20260226203000 +0900" channel="MBC music">
+  <programme start="20260226183600 +0900" stop="20260226203100 +0900" channel="MBC music">
     <title lang="zh">어서와 한국은 처음이지 377회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226203000 +0900" stop="20260226223000 +0900" channel="MBC music">
+  <programme start="20260226203100 +0900" stop="20260226223400 +0900" channel="MBC music">
     <title lang="zh">어서와 한국은 처음이지 378회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226223000 +0900" stop="20260227002000 +0900" channel="MBC music">
+  <programme start="20260226223400 +0900" stop="20260227002800 +0900" channel="MBC music">
     <title lang="zh">어서와 한국은 처음이지 379회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226002000 +0900" stop="20260226015000 +0900" channel="MBC music">
+  <programme start="20260226002800 +0900" stop="20260226014600 +0900" channel="MBC music">
     <title lang="zh">나 혼자 산다 635회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226015000 +0900" stop="20260226032000 +0900" channel="MBC music">
+  <programme start="20260226014600 +0900" stop="20260226032700 +0900" channel="MBC music">
     <title lang="zh">전지적 참견 시점 386회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226032000 +0900" stop="20260226050000 +0900" channel="MBC music">
+  <programme start="20260226032700 +0900" stop="20260226050000 +0900" channel="MBC music">
     <title lang="zh">푹 쉬면 다행이야 10회</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -544178,116 +544182,120 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <title lang="zh">60분 드라마 20회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260225043500 +0900" stop="20260225050000 +0900" channel="MBC on">
+  <programme start="20260225043500 +0900" stop="20260225050400 +0900" channel="MBC on">
     <title lang="zh">히든 아이 라이브이슈 20회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226050000 +0900" stop="20260226053000 +0900" channel="MBC on">
-    <title lang="zh">인생은 항구다 4회</title>
+  <programme start="20260226050400 +0900" stop="20260226054200 +0900" channel="MBC on">
+    <title lang="zh">인생은 항구다 7회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226053000 +0900" stop="20260226065000 +0900" channel="MBC on">
+  <programme start="20260226054200 +0900" stop="20260226064800 +0900" channel="MBC on">
     <title lang="zh">대장금 15회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226065000 +0900" stop="20260226080000 +0900" channel="MBC on">
+  <programme start="20260226064800 +0900" stop="20260226080000 +0900" channel="MBC on">
     <title lang="zh">대장금 16회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226080000 +0900" stop="20260226090000 +0900" channel="MBC on">
+  <programme start="20260226080000 +0900" stop="20260226085300 +0900" channel="MBC on">
     <title lang="zh">전원일기 449회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226090000 +0900" stop="20260226100000 +0900" channel="MBC on">
+  <programme start="20260226085300 +0900" stop="20260226094600 +0900" channel="MBC on">
     <title lang="zh">전원일기 450회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226100000 +0900" stop="20260226103500 +0900" channel="MBC on">
+  <programme start="20260226094600 +0900" stop="20260226101600 +0900" channel="MBC on">
     <title lang="zh">거침없이 하이킥 61회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226103500 +0900" stop="20260226111000 +0900" channel="MBC on">
+  <programme start="20260226101600 +0900" stop="20260226105600 +0900" channel="MBC on">
     <title lang="zh">거침없이 하이킥 62회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226111000 +0900" stop="20260226114500 +0900" channel="MBC on">
+  <programme start="20260226105600 +0900" stop="20260226112600 +0900" channel="MBC on">
     <title lang="zh">거침없이 하이킥 65회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226114500 +0900" stop="20260226122000 +0900" channel="MBC on">
+  <programme start="20260226112600 +0900" stop="20260226120600 +0900" channel="MBC on">
     <title lang="zh">거침없이 하이킥 66회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226122000 +0900" stop="20260226133000 +0900" channel="MBC on">
+  <programme start="20260226120600 +0900" stop="20260226130800 +0900" channel="MBC on">
     <title lang="zh">아들과 딸 27회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226133000 +0900" stop="20260226143000 +0900" channel="MBC on">
+  <programme start="20260226130800 +0900" stop="20260226141500 +0900" channel="MBC on">
     <title lang="zh">아들과 딸 28회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226143000 +0900" stop="20260226155000 +0900" channel="MBC on">
+  <programme start="20260226141500 +0900" stop="20260226153100 +0900" channel="MBC on">
     <title lang="zh">여자를 울려 7회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226155000 +0900" stop="20260226170000 +0900" channel="MBC on">
+  <programme start="20260226153100 +0900" stop="20260226164800 +0900" channel="MBC on">
     <title lang="zh">여자를 울려 8회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226170000 +0900" stop="20260226173000 +0900" channel="MBC on">
+  <programme start="20260226164800 +0900" stop="20260226171300 +0900" channel="MBC on">
     <title lang="zh">임현식의 장터사람들 43회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226173000 +0900" stop="20260226180000 +0900" channel="MBC on">
+  <programme start="20260226171300 +0900" stop="20260226174700 +0900" channel="MBC on">
     <title lang="zh">임현식의 장터사람들 44회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226180000 +0900" stop="20260226183000 +0900" channel="MBC on">
+  <programme start="20260226174700 +0900" stop="20260226181200 +0900" channel="MBC on">
     <title lang="zh">임현식의 장터사람들 45회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226183000 +0900" stop="20260226190000 +0900" channel="MBC on">
+  <programme start="20260226181200 +0900" stop="20260226185000 +0900" channel="MBC on">
     <title lang="zh">임현식의 장터사람들 46회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226190000 +0900" stop="20260226193000 +0900" channel="MBC on">
+  <programme start="20260226185000 +0900" stop="20260226192000 +0900" channel="MBC on">
     <title lang="zh">거침없이 하이킥 49회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226193000 +0900" stop="20260226200000 +0900" channel="MBC on">
+  <programme start="20260226192000 +0900" stop="20260226200000 +0900" channel="MBC on">
     <title lang="zh">거침없이 하이킥 94회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226200000 +0900" stop="20260226212000 +0900" channel="MBC on">
+  <programme start="20260226200000 +0900" stop="20260226211900 +0900" channel="MBC on">
     <title lang="zh">트롯 챔피언 79회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226212000 +0900" stop="20260226222000 +0900" channel="MBC on">
+  <programme start="20260226211900 +0900" stop="20260226221900 +0900" channel="MBC on">
     <title lang="zh">전원일기 963회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226222000 +0900" stop="20260226232000 +0900" channel="MBC on">
+  <programme start="20260226221900 +0900" stop="20260226231800 +0900" channel="MBC on">
     <title lang="zh">전원일기 964회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226232000 +0900" stop="20260227002000 +0900" channel="MBC on">
+  <programme start="20260226231800 +0900" stop="20260227001800 +0900" channel="MBC on">
     <title lang="zh">전원일기 965회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226002000 +0900" stop="20260226012000 +0900" channel="MBC on">
+  <programme start="20260226001800 +0900" stop="20260226011000 +0900" channel="MBC on">
     <title lang="zh">전원일기 966회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226012000 +0900" stop="20260226022000 +0900" channel="MBC on">
+  <programme start="20260226011000 +0900" stop="20260226020500 +0900" channel="MBC on">
     <title lang="zh">전원일기 967회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226022000 +0900" stop="20260226040000 +0900" channel="MBC on">
+  <programme start="20260226020500 +0900" stop="20260226033400 +0900" channel="MBC on">
     <title lang="zh">히든 아이 73회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260226040000 +0900" stop="20260226050000 +0900" channel="MBC on">
+  <programme start="20260226033400 +0900" stop="20260226044100 +0900" channel="MBC on">
     <title lang="zh">60분 드라마 2018 5회</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260226044100 +0900" stop="20260226053000 +0900" channel="MBC on">
+    <title lang="zh">히든 아이 라이브이슈 10회</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260225050000 +0900" stop="20260225060000 +0900" channel="MBC net">
@@ -567134,10 +567142,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <title lang="zh">The Seasons W</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260225095800 +0000" stop="20260225105800 +0000" channel="中視">
-    <title lang="zh">中視新聞</title>
-    <desc lang="zh">由最專業的中視新聞主播，為您播報最新、最即時的新聞。</desc>
-  </programme>
   <programme start="20260225105800 +0000" stop="20260225120000 +0000" channel="中視">
     <title lang="zh">中視新聞全球報導</title>
     <desc lang="zh">中視每晚七點由主播哈遠儀為全國觀眾最專業、準確的新聞報導。</desc>
@@ -567473,10 +567477,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
   <programme start="20260228220000 +0000" stop="20260228230000 +0000" channel="中視">
     <title lang="zh">中視新聞</title>
     <desc lang="zh">由最專業的中視新聞主播，為您播報最新、最即時的新聞。</desc>
-  </programme>
-  <programme start="20260225085800 +0000" stop="20260225105800 +0000" channel="華視">
-    <title lang="zh">華視新聞晚報</title>
-    <desc lang="zh">華視新聞部每天整理當天重大國內外新聞事件，為觀眾做最快、最即時的播報。</desc>
   </programme>
   <programme start="20260225105800 +0000" stop="20260225120000 +0000" channel="華視">
     <title lang="zh">華視晚間新聞</title>
@@ -567893,14 +567893,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
   <programme start="20260301220000 +0000" stop="20260301230000 +0000" channel="華視">
     <title lang="zh">三國演議</title>
     <desc lang="zh">華視新聞部製播新聞專題節目。由國際政經專家汪浩、日本產經新聞台北支局長矢板明夫搭檔主持，深度講評最新國際政經重大事件，跳脫傳統政論談話節目的框架屬性。</desc>
-  </programme>
-  <programme start="20260225100000 +0000" stop="20260225103000 +0000" channel="好消息2台">
-    <title lang="zh">共享觀點</title>
-    <desc lang="zh">連結社群、分享、行動的特色，藉著媒體平台將聖經教導、基要真理落實在生活中。兩位主持人將在節目中以輕鬆對談的方式，討論年輕人關注的話題。</desc>
-  </programme>
-  <programme start="20260225103000 +0000" stop="20260225110000 +0000" channel="好消息2台">
-    <title lang="zh">愛＋好醫生</title>
-    <desc lang="zh">結合醫療專業及全人關懷的新型態節目，主持人黃瑽寧醫師親訪家庭，跨領域醫療顧問團全方位檢視，提供最完整、實用和正確的資訊來守護孩子的健康。</desc>
   </programme>
   <programme start="20260225110000 +0000" stop="20260225115000 +0000" channel="好消息2台">
     <title lang="zh">家庭８點檔轉轉發現愛</title>
@@ -568782,14 +568774,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <title lang="zh">奔向標竿</title>
     <desc lang="zh">美國最具影響力的屬靈領袖之一，華理克(Rick Warren)牧師與馬鞍峰教會牧者團隊，與您一起攜手直奔屬天標竿，得著屬天獎賞！</desc>
   </programme>
-  <programme start="20260225103000 +0000" stop="20260225110000 +0000" channel="好消息">
-    <title lang="zh">健康新煮流</title>
-    <desc lang="zh">開創夫妻同廚同煮潮流的KC夫婦，繼《健康醫食代》後，走出攝影棚，帶大家全台走透透，發掘上帝賞賜的美味食材，內容融合新加坡南洋風和客家純樸味，加上台灣獨特的閩南風情，互相激盪交織出的火花，打造出獨一無二的美食節目。</desc>
-  </programme>
-  <programme start="20260225110000 +0000" stop="20260225111500 +0000" channel="好消息">
-    <title lang="zh">共享觀點</title>
-    <desc lang="zh">連結社群、分享、行動的特色，藉著媒體平台將聖經教導、基要真理落實在生活中。兩位主持人將在節目中以輕鬆對談的方式，討論年輕人關注的話題。</desc>
-  </programme>
   <programme start="20260225111500 +0000" stop="20260225113000 +0000" channel="好消息">
     <title lang="zh">共享觀點</title>
     <desc lang="zh">連結社群、分享、行動的特色，藉著媒體平台將聖經教導、基要真理落實在生活中。兩位主持人將在節目中以輕鬆對談的方式，討論年輕人關注的話題。</desc>
@@ -569646,10 +569630,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <title lang="zh">道在人間(國)</title>
     <desc lang="zh">節目中邀請趙鏞基、葉光明、傑克海福德、喬依絲邁爾等，國內外知名牧長，以豐富的服事經歷與紮實的神學裝備，教導、傳講聖經真道，堅固信徒並警醒人心。</desc>
   </programme>
-  <programme start="20260225100000 +0000" stop="20260225110000 +0000" channel="ELTV生活英語台">
-    <title lang="zh">森林偵探隊</title>
-    <desc lang="zh">南韓EBS與Bigstar Global共同製播的卡通，可輕鬆認識大自然的樣貌。各個謎團揉合在森林的浩瀚中，期待觀眾跟著偵探隊，細細品味在這森林的每個故事。</desc>
-  </programme>
   <programme start="20260225110000 +0000" stop="20260225120000 +0000" channel="ELTV生活英語台">
     <title lang="zh">萌馬吼吼</title>
     <desc lang="zh">主人公吼吼，是一隻可愛的奶油獨角獸，他生活在甜蜜鎮上，這裡的居民都是各種甜品，有著各自的職業。作為一名快樂的打工人，吼吼每天都在小鎮的不同地方打工，當髮型師助理時，用自己的奶油為甜品們打造時下最流行的髮型，尤其是杯子蛋糕，對他的設計總是讚不絕口。</desc>
@@ -570185,10 +570165,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
   <programme start="20260302073000 +0000" stop="20260302080000 +0000" channel="ELTV生活英語台">
     <title lang="zh">歡唱小精靈</title>
     <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260225103000 +0000" stop="20260225110000 +0000" channel="龍華卡通台">
-    <title lang="zh">小浣熊ABC</title>
-    <desc lang="zh">七隻頑皮又好奇的浣熊住在一個音樂盒裡，這個音樂盒是它們的遊樂場。在每一集中，他們一起遊戲、學習、探索世界各種有趣的事物，還教導新的英文單字。</desc>
   </programme>
   <programme start="20260225110000 +0000" stop="20260225113000 +0000" channel="龍華卡通台">
     <title lang="zh">豬豬俠</title>
@@ -570866,10 +570842,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <title lang="zh">豬豬俠</title>
     <desc lang="zh">豬豬俠因科學實驗事故，穿越時空隧道到了2080年。在未來世界裡，能源危機即將爆發。強強科技集團得知破舊的望子成龍小學地下蘊藏豐富能源後，想將小學佔為己有。為了重振母校，豬豬俠接受強強科技一次又一次的挑戰。利用迷糊小發明的豬豬俠能與超人強先進的高科技產品對抗嗎？</desc>
   </programme>
-  <programme start="20260225100000 +0000" stop="20260225110000 +0000" channel="亞洲旅遊台">
-    <title lang="zh">驚奇大冒險</title>
-    <desc lang="zh">帶您深入各國體驗在地文化，貼近當地人民的生活，真實呈現秘境探險、 尋找奇景的過程，讓您知道怎麼玩才好玩，怎麼玩才刺激！</desc>
-  </programme>
   <programme start="20260225110000 +0000" stop="20260225120000 +0000" channel="亞洲旅遊台">
     <title lang="zh">33廚房</title>
     <desc lang="zh">電影圈的大明星林美秀首度跨足綜藝接主持棒，即將大展廚藝與觀眾們一起美味上菜！</desc>
@@ -571338,10 +571310,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <title lang="zh">城市的100個發現</title>
     <desc lang="zh">《城市的100個發現》由主持人胡文華、謝哲青搭配不同類型的藝術家，挖掘鮮為人知的歷史印記，並以生活美學的角度展開一趟色彩探險之旅。</desc>
   </programme>
-  <programme start="20260225100000 +0000" stop="20260225110000 +0000" channel="Smart知識台">
-    <title lang="zh">健康2.0</title>
-    <desc lang="zh">在節目中，將以各種深入淺出的方式，檢測時下流行的健康產品的效用，示範健康烹調與運動方法，並與觀眾分享照顧家人的健康資訊與心得。</desc>
-  </programme>
   <programme start="20260225110000 +0000" stop="20260225120000 +0000" channel="Smart知識台">
     <title lang="zh">全民星攻略</title>
     <desc lang="zh">東森綜合台全新益智實境節目，「全民星攻略」，由館長曾國城擔任把關者，考驗著每個來挑戰九宮格益智遊戲藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理想分析，才有機會獲取智慧星幣，帶走夢幻大獎。</desc>
@@ -571770,10 +571738,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <title lang="zh">全民星攻略</title>
     <desc lang="zh">東森綜合台全新益智實境節目，「全民星攻略」，由館長曾國城擔任把關者，考驗著每個來挑戰九宮格益智遊戲藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理想分析，才有機會獲取智慧星幣，帶走夢幻大獎。</desc>
   </programme>
-  <programme start="20260225100000 +0000" stop="20260225110000 +0000" channel="龍華戲劇台">
-    <title lang="zh">軍師聯盟</title>
-    <desc lang="zh">年輕的司馬懿本是個謹小慎微的青年書生，因為有「鷹視狼顧」之相，回頭看了東漢的司空曹操（于和偉）一眼，從此和曹家結下了不解之緣。他被曹操強行徵辟為官，一腳踏入曹家暗流洶湧的奪嫡之爭。他運用謀略幫助曹丕（李晨）一次次通過曹操的考驗，將曹丕送上世子位。</desc>
-  </programme>
   <programme start="20260225110000 +0000" stop="20260225120000 +0000" channel="龍華戲劇台">
     <title lang="zh">軍師聯盟</title>
     <desc lang="zh">年輕的司馬懿本是個謹小慎微的青年書生，因為有「鷹視狼顧」之相，回頭看了東漢的司空曹操（于和偉）一眼，從此和曹家結下了不解之緣。他被曹操強行徵辟為官，一腳踏入曹家暗流洶湧的奪嫡之爭。他運用謀略幫助曹丕（李晨）一次次通過曹操的考驗，將曹丕送上世子位。</desc>
@@ -572109,14 +572073,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
   <programme start="20260228220000 +0000" stop="20260228230000 +0000" channel="龍華戲劇台">
     <title lang="zh">包青天</title>
     <desc lang="zh">北宋仁宗年間，開封府尹包拯，人稱包青天，為官清廉，為民伸冤，不畏強權，除惡務盡，較膾炙人口的單元有「秦香蓮」、「真假狀元」、「狸貓換太子」等。</desc>
-  </programme>
-  <programme start="20260225100000 +0000" stop="20260225103000 +0000" channel="台灣戲劇台">
-    <title lang="zh">親戚不計較</title>
-    <desc lang="zh">由卓勝利、李鑼等人主演，本劇雖以喜劇的方式呈現，但笑中有淚，淚中有悟，悟中有得，令人深思！</desc>
-  </programme>
-  <programme start="20260225103000 +0000" stop="20260225110000 +0000" channel="台灣戲劇台">
-    <title lang="zh">親戚不計較</title>
-    <desc lang="zh">由卓勝利、李鑼等人主演，本劇雖以喜劇的方式呈現，但笑中有淚，淚中有悟，悟中有得，令人深思！</desc>
   </programme>
   <programme start="20260225110000 +0000" stop="20260225120000 +0000" channel="台灣戲劇台">
     <title lang="zh">包青天</title>
@@ -572581,10 +572537,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
   <programme start="20260302070000 +0000" stop="20260302080000 +0000" channel="台灣戲劇台">
     <title lang="zh">包青天</title>
     <desc lang="zh">仁宗皇帝在位期間，包拯（金超群）升任開封府府尹執掌京畿，剛直耿介、鐵面無私、明察秋毫、斷案如神，百姓愛戴敬仰尊稱為“包青天”。並有公孫策（范鴻軒）與南俠展昭（何家勁）一文一武兩員大將，使得包拯屢破奇案屢建奇功。</desc>
-  </programme>
-  <programme start="20260225100000 +0000" stop="20260225104000 +0000" channel="東森購物1台">
-    <title lang="zh">鎖定CH.43、CH.49選購</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260225104000 +0000" stop="20260225112000 +0000" channel="東森購物1台">
     <title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title>
@@ -573290,10 +573242,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <title lang="zh">鎖定CH.43、CH.49選購</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260225100000 +0000" stop="20260225110000 +0000" channel="龍華偶像台">
-    <title lang="zh">小歡喜</title>
-    <desc lang="zh">改編自魯引弓的同名小說，講述了方家、季家、喬家三個備戰高考的家庭，不僅面對著升學壓力，更面對著親子關係難題。人到中年的家長和剛剛迎來成年的孩子，在高三這場重要的試煉中，度過生活設置的重重難題，在愛與理解中學會成長，迎來屬於自己的「小歡喜」。</desc>
-  </programme>
   <programme start="20260225110000 +0000" stop="20260225120000 +0000" channel="龍華偶像台">
     <title lang="zh">小歡喜</title>
     <desc lang="zh">改編自魯引弓的同名小說，講述了方家、季家、喬家三個備戰高考的家庭，不僅面對著升學壓力，更面對著親子關係難題。人到中年的家長和剛剛迎來成年的孩子，在高三這場重要的試煉中，度過生活設置的重重難題，在愛與理解中學會成長，迎來屬於自己的「小歡喜」。</desc>
@@ -573666,10 +573614,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <title lang="zh">節目未定</title>
     <desc lang="zh">節目資訊尚未公布。</desc>
   </programme>
-  <programme start="20260225100000 +0000" stop="20260225110000 +0000" channel="龍華日韓台">
-    <title lang="zh">只屬於你</title>
-    <desc lang="zh">恩靜（李敏英）嫁給律師姜勝宰（宋在熙），沒想到婆家卻拿她當傭人使喚，勝宰對此毫不在意，甚至根本沒去登記結婚。恩靜因此重回職場，努力成為知名設計師，當前男友俊夏再度出現在她面前，看到她遭遇不幸卻仍默默守護，俊夏能為恩靜帶來幸福嗎？</desc>
-  </programme>
   <programme start="20260225110000 +0000" stop="20260225120000 +0000" channel="龍華日韓台">
     <title lang="zh">奶酪陷阱</title>
     <desc lang="zh">漫畫改編。心思深沉的劉正（朴海鎮）因高顏值與和善的個性而擁有高人氣，但個性堅毅卻外表平凡的模範生洪雪（金高恩）卻看穿他完美的表象。劉正在了解洪雪的獨特後，漸漸喜歡上她，但對他懷恨在心的前好友仁浩（徐康俊）卻也喜歡洪雪…</desc>
@@ -574005,10 +573949,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
   <programme start="20260228220000 +0000" stop="20260228230000 +0000" channel="龍華日韓台">
     <title lang="zh">生活家</title>
     <desc lang="zh">講述了經歷了同僚挖坑、領導算計、親媽邱曉霞（劉敏濤）造作等波折的失業女孩邱冬娜（文淇），跌跌撞撞還是進入人生導師顧飛（邱澤）與大學校友李楚寧（黃思瑞）任職之會計師審計公司。後來在職場遇上不走尋常路的老闆顧飛，二人一路化解工作、生活雙重難題，最後成為靈魂伴侶的故事。</desc>
-  </programme>
-  <programme start="20260225100000 +0000" stop="20260225104000 +0000" channel="東森購物2台">
-    <title lang="zh">鎖定CH.43、CH.49選購</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260225104000 +0000" stop="20260225112000 +0000" channel="東森購物2台">
     <title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title>
@@ -575626,10 +575566,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <title lang="zh">智富食代</title>
     <desc lang="zh">顛覆傳統旅遊節目，而是以全新新聞性、知識性旅遊資訊節目，呈現觀眾眼前。輕鬆有趣的內容中，將觀光經濟數字、各地房價、消費指數及各地風土民情融入結合。要學怎麼贏、先學怎麼玩！女漢子兩條路線PK旅行大挑戰。</desc>
   </programme>
-  <programme start="20260225100000 +0000" stop="20260225110000 +0000" channel="寰宇財經台">
-    <title lang="zh">美食打卡趣</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
   <programme start="20260225110000 +0000" stop="20260225120000 +0000" channel="寰宇財經台">
     <title lang="zh">打卡吧!我的炫FOOD日記</title>
     <desc lang="zh">暂无描述</desc>
@@ -576098,10 +576034,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <title lang="zh">打卡吧!我的炫FOOD日記</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260225100000 +0000" stop="20260225105800 +0000" channel="中視新聞">
-    <title lang="zh">中視新聞全球報導</title>
-    <desc lang="zh">中視每晚七點由主播哈遠儀為全國觀眾最專業、準確的新聞報導。</desc>
-  </programme>
   <programme start="20260225105800 +0000" stop="20260225120000 +0000" channel="中視新聞">
     <title lang="zh">中視新聞全球報導</title>
     <desc lang="zh">中視每晚七點由主播哈遠儀為全國觀眾最專業、準確的新聞報導。</desc>
@@ -576534,10 +576466,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <title lang="zh">中視新聞全球報導</title>
     <desc lang="zh">中視每晚七點由主播哈遠儀為全國觀眾最專業、準確的新聞報導。</desc>
   </programme>
-  <programme start="20260225100000 +0000" stop="20260225110000 +0000" channel="中天新聞台">
-    <title lang="zh">中天辣晚報</title>
-    <desc lang="zh">提供國內、兩岸、國際頭條焦點，掌握時事脈動，觀察新聞背後的真正意義，帶領觀眾知曉天下事。有最深度的內容、最專業的追蹤、最需要的資訊，收視率領先各台，具有高度影響力！</desc>
-  </programme>
   <programme start="20260225110000 +0000" stop="20260225120000 +0000" channel="中天新聞台">
     <title lang="zh">中天辣晚報</title>
     <desc lang="zh">提供國內、兩岸、國際頭條焦點，掌握時事脈動，觀察新聞背後的真正意義，帶領觀眾知曉天下事。有最深度的內容、最專業的追蹤、最需要的資訊，收視率領先各台，具有高度影響力！</desc>
@@ -576873,10 +576801,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
   <programme start="20260228220000 +0000" stop="20260228230000 +0000" channel="中天新聞台">
     <title lang="zh">中天新聞 中天晨報</title>
     <desc lang="zh">每天早晨時段，由早報主播與您一起讀報，看遍天下事。</desc>
-  </programme>
-  <programme start="20260225095500 +0000" stop="20260225105500 +0000" channel="寰宇新聞台灣台">
-    <title lang="zh">寰宇晚間新聞</title>
-    <desc lang="zh">寰宇晚間新聞給你最在地的台灣新聞、最深入的兩岸焦點，掌握國際情勢帶您了解社會脈動。</desc>
   </programme>
   <programme start="20260225105500 +0000" stop="20260225115500 +0000" channel="寰宇新聞台灣台">
     <title lang="zh">寰宇晚間新聞</title>
@@ -577345,10 +577269,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
   <programme start="20260302065500 +0000" stop="20260302075500 +0000" channel="寰宇新聞台灣台">
     <title lang="zh">寰宇整點新聞</title>
     <desc lang="zh">來自路透的國際新聞、最在地的台灣新聞以及最深入的兩岸焦點，帶您掌握社會脈動。</desc>
-  </programme>
-  <programme start="20260225095500 +0000" stop="20260225105500 +0000" channel="寰宇新聞台">
-    <title lang="zh">寰宇全球新聞</title>
-    <desc lang="zh">搶先揭露全球各地政經、社會、娛樂的第一手新聞訊息，讓觀眾不漏接關鍵的世界大事。</desc>
   </programme>
   <programme start="20260225105500 +0000" stop="20260225115500 +0000" channel="寰宇新聞台">
     <title lang="zh">寰宇全球新聞</title>
@@ -577821,10 +577741,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
   <programme start="20260302065500 +0000" stop="20260302075500 +0000" channel="寰宇新聞台">
     <title lang="zh">寰宇整點新聞</title>
     <desc lang="zh">來自路透的國際新聞、最在地的台灣新聞以及最深入的兩岸焦點，帶您掌握社會脈動。</desc>
-  </programme>
-  <programme start="20260225103000 +0000" stop="20260225110000 +0000" channel="第1商業台">
-    <title lang="zh">股市強強滾-亞洲投顧-鄭偉群分析師</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260225110000 +0000" stop="20260225113000 +0000" channel="第1商業台">
     <title lang="zh">旗開得勝-顧德投顧-張家豪分析師</title>
@@ -578890,10 +578806,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <title lang="zh">週一會議預報</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260225091000 +0000" stop="20260225110000 +0000" channel="龍華經典台">
-    <title lang="zh">聯合縮小軍</title>
-    <desc lang="zh">冷戰時期蘇聯科學家班尼斯投誠美國，途中遭到蘇聯間諜暗殺而命在旦夕。於是美國軍方啟動「聯合縮小軍」實驗室，將網羅各方高手的五人醫療小組放入先進核潛艇中縮小，然後注射入班尼斯動脈，進入大腦以微型雷射槍消除腦部的凝血塊。但這項縮小技術只能維持60分鐘，時間一到便會恢復原狀…</desc>
-  </programme>
   <programme start="20260225110000 +0000" stop="20260225130000 +0000" channel="龍華經典台">
     <title lang="zh">蒼穹之昴</title>
     <desc lang="zh">本劇是根據日本作家淺田次郎的同名小說改編而成。清朝年間，貧民子弟李春雲家境貧寒，為了給母親治病，他自己淨身，後來出任慈禧太后的宦官。而後春兒的同鄉、義兄兼同母異父的哥哥梁文秀透過科舉考試成了狀元，在宮內劃分成黨派後，處於敵對兩方的春兒和文秀，在即將滅亡的清朝中艱難地生活。</desc>
@@ -579089,10 +579001,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
   <programme start="20260302040000 +0000" stop="20260302072000 +0000" channel="龍華經典台">
     <title lang="zh">聖保羅炮艇</title>
     <desc lang="zh">1926年的中國，時值軍閥割據與國共內鬥，一艘名為聖保羅的美國炮艇航行於長江流域，其任務是保護在中國動亂地區的美國人民，因而見證了大時代下的中國人民生活。本片拍攝於東西方冷戰時期，因政治因素而多於臺灣北部取景，留下不少彌足珍貴的影像。</desc>
-  </programme>
-  <programme start="20260225084000 +0000" stop="20260225104500 +0000" channel="龍華電影台">
-    <title lang="zh">唐伯虎點秋香</title>
-    <desc lang="zh">唐伯虎（周星馳）文名遠播，寧王欣賞其文采，派手下強行邀聘唐。唐不願應聘，要求好友祝枝山假扮自己，而他本人則為接近秋香（鞏俐），不惜化名華安，將自己賣入太師府為僕。但秋香不知華安就是憧憬已久的唐伯虎，加上太師夫人對唐家的痛恨和寧王的威脅，唐伯虎要如何才贏得秋香芳心呢?</desc>
   </programme>
   <programme start="20260225104500 +0000" stop="20260225130000 +0000" channel="龍華電影台">
     <title lang="zh">失孤</title>
@@ -579293,10 +579201,6 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
   <programme start="20260301160000 +0000" stop="20260301200000 +0000" channel="龍華電影台">
     <title lang="zh">節目未定</title>
     <desc lang="zh">節目資訊尚未公布。</desc>
-  </programme>
-  <programme start="20260225091000 +0000" stop="20260225110000 +0000" channel="龍華洋片台">
-    <title lang="zh">馬麻吉：馬戲團危機</title>
-    <desc lang="zh">一組巡迴馬戲團來到了亞希居住的凱登巴赫馬場，亞希與馬戲團男孩卡洛成為了朋友。不久，亞希發現馬戲團裡有一匹年老受傷、名為暴風的馬，仍然被殘忍的馬戲團團長伊里強迫表演。亞希和卡洛找來亞希的忠實黑馬颶風，打算聯手拯救暴風，但伊里卻暗中計劃傷害颶風。在緊要的關頭，他們需要米卡的協助…</desc>
   </programme>
   <programme start="20260225110000 +0000" stop="20260225130000 +0000" channel="龍華洋片台">
     <title lang="zh">獵空計畫</title>
@@ -670219,11 +670123,11 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <title lang="zh">Vaada</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260225052000 +0800" stop="20260225073000 +0800" channel="KTV">
+  <programme start="20260225052000 +0800" stop="20260225071500 +0800" channel="KTV">
     <title lang="zh">Vavval Pasanga</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260225073000 +0800" stop="20260225093000 +0800" channel="KTV">
+  <programme start="20260225071500 +0800" stop="20260225093000 +0800" channel="KTV">
     <title lang="zh">Vegam</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -670239,11 +670143,11 @@ Sandy挑戰夢幻寵物零食-馬卡龍DIY再度逼瘋老師！
     <title lang="zh">Sattam Oru Iruttarai</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260225163000 +0800" stop="20260225193000 +0800" channel="KTV">
+  <programme start="20260225163000 +0800" stop="20260225193800 +0800" channel="KTV">
     <title lang="zh">Inaindha Kaigal</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260225193000 +0800" stop="20260225223000 +0800" channel="KTV">
+  <programme start="20260225193800 +0800" stop="20260225223000 +0800" channel="KTV">
     <title lang="zh">Solla Marandha Kathai</title>
     <desc lang="zh"> </desc>
   </programme>
