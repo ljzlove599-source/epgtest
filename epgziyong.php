@@ -15,7 +15,7 @@ $xmlFiles = [
     './epgmytvsuper.xml',
     './epg4gtv2.xml', 
     './epgmacocable.xml',
-    './epgtvsou.xml',
+    //'./epgtvsou.xml',
     './epgofiii.xml', 
     './epgnewhebei.xml',
     './epgnewguangdong.xml',
