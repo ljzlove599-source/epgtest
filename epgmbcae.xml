@@ -9,12 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260225090000 +0800" stop="20260225100000 +0800" channel="mbc action">
-    <title lang="en">بودكاست ملح الدوري</title>
-  </programme>
-  <programme start="20260225100000 +0800" stop="20260225103000 +0800" channel="mbc action">
-    <title lang="en">One Piece</title>
-  </programme>
   <programme start="20260225103000 +0800" stop="20260225120000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
@@ -141,9 +135,6 @@
   <programme start="20260227053000 +0800" stop="20260227063000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
   </programme>
-  <programme start="20260225095500 +0800" stop="20260225113000 +0800" channel="mbc max">
-    <title lang="en">The Words</title>
-  </programme>
   <programme start="20260225113000 +0800" stop="20260225120000 +0800" channel="mbc max">
     <title lang="en">Films &amp; Stars</title>
   </programme>
@@ -234,8 +225,8 @@
   <programme start="20260227190000 +0800" stop="20260227210000 +0800" channel="mbc max">
     <title lang="en">A Million Ways to Die in the West</title>
   </programme>
-  <programme start="20260225095500 +0800" stop="20260225115500 +0800" channel="mbc 2">
-    <title lang="en">Sicario</title>
+  <programme start="20260227210000 +0800" stop="20260227230000 +0800" channel="mbc max">
+    <title lang="en">Jumanji</title>
   </programme>
   <programme start="20260225115500 +0800" stop="20260225135500 +0800" channel="mbc 2">
     <title lang="en">The Brave One</title>
@@ -335,5 +326,8 @@
   </programme>
   <programme start="20260227180000 +0800" stop="20260227200000 +0800" channel="mbc 2">
     <title lang="en">Forgetting Sarah Marshall</title>
+  </programme>
+  <programme start="20260227200000 +0800" stop="20260227220000 +0800" channel="mbc 2">
+    <title lang="en">All My Life</title>
   </programme>
 </tv>
