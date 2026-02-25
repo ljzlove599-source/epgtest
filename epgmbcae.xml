@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260225103000 +0800" stop="20260225120000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-  </programme>
   <programme start="20260225120000 +0800" stop="20260225130000 +0800" channel="mbc action">
     <title lang="en">بودكاست ملح الدوري</title>
   </programme>
@@ -134,9 +131,6 @@
   </programme>
   <programme start="20260227053000 +0800" stop="20260227063000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
-  </programme>
-  <programme start="20260225113000 +0800" stop="20260225120000 +0800" channel="mbc max">
-    <title lang="en">Films &amp; Stars</title>
   </programme>
   <programme start="20260225120000 +0800" stop="20260225140000 +0800" channel="mbc max">
     <title lang="en">Our Friend</title>
@@ -329,5 +323,8 @@
   </programme>
   <programme start="20260227200000 +0800" stop="20260227220000 +0800" channel="mbc 2">
     <title lang="en">All My Life</title>
+  </programme>
+  <programme start="20260227220000 +0800" stop="20260228000000 +0800" channel="mbc 2">
+    <title lang="en">Hellboy II: The Golden Army</title>
   </programme>
 </tv>
