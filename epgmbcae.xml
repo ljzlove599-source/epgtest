@@ -9,15 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260226080000 +0800" stop="20260226090000 +0800" channel="mbc action">
-    <title lang="en">برنامج action bodcast</title>
-  </programme>
-  <programme start="20260226090000 +0800" stop="20260226100000 +0800" channel="mbc action">
-    <title lang="en">بودكاست ملح الدوري</title>
-  </programme>
-  <programme start="20260226100000 +0800" stop="20260226103000 +0800" channel="mbc action">
-    <title lang="en">One Piece</title>
-  </programme>
   <programme start="20260226103000 +0800" stop="20260226120000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
@@ -71,15 +62,6 @@
   </programme>
   <programme start="20260227053000 +0800" stop="20260227063000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
-  </programme>
-  <programme start="20260226072500 +0800" stop="20260226090000 +0800" channel="mbc max">
-    <title lang="en">Mad Money</title>
-  </programme>
-  <programme start="20260226090000 +0800" stop="20260226093000 +0800" channel="mbc max">
-    <title lang="en">برنامج Celebrity Scoop Season 9</title>
-  </programme>
-  <programme start="20260226093000 +0800" stop="20260226113000 +0800" channel="mbc max">
-    <title lang="en">A Simple Favor</title>
   </programme>
   <programme start="20260226113000 +0800" stop="20260226140000 +0800" channel="mbc max">
     <title lang="en">Molly's Game</title>
@@ -159,8 +141,11 @@
   <programme start="20260228160000 +0800" stop="20260228183000 +0800" channel="mbc max">
     <title lang="en">The Bourne Legacy</title>
   </programme>
-  <programme start="20260226080000 +0800" stop="20260226100000 +0800" channel="mbc 2">
-    <title lang="en">The Equalizer 2</title>
+  <programme start="20260228183000 +0800" stop="20260228203000 +0800" channel="mbc max">
+    <title lang="en">Jason Bourne</title>
+  </programme>
+  <programme start="20260228203000 +0800" stop="20260228223000 +0800" channel="mbc max">
+    <title lang="en">The Good German</title>
   </programme>
   <programme start="20260226100000 +0800" stop="20260226120000 +0800" channel="mbc 2">
     <title lang="en">Sicario: Day of the Soldado</title>
@@ -251,5 +236,8 @@
   </programme>
   <programme start="20260228180000 +0800" stop="20260228200000 +0800" channel="mbc 2">
     <title lang="en">The Last Witch Hunter</title>
+  </programme>
+  <programme start="20260228200000 +0800" stop="20260228220000 +0800" channel="mbc 2">
+    <title lang="en">Venom: Let There Be Carnage</title>
   </programme>
 </tv>
