@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260226153000 +0800" stop="20260226163000 +0800" channel="mbc action">
-    <title lang="en">برنامج Accelerate</title>
-  </programme>
   <programme start="20260226163000 +0800" stop="20260226173000 +0800" channel="mbc action">
     <title lang="en">One Piece</title>
   </programme>
@@ -50,9 +47,6 @@
   </programme>
   <programme start="20260227053000 +0800" stop="20260227063000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
-  </programme>
-  <programme start="20260226140000 +0800" stop="20260226163000 +0800" channel="mbc max">
-    <title lang="en">The Bourne Identity</title>
   </programme>
   <programme start="20260226163000 +0800" stop="20260226190000 +0800" channel="mbc max">
     <title lang="en">Robin Hood: Prince of Thieves</title>
@@ -137,9 +131,6 @@
   </programme>
   <programme start="20260301003000 +0800" stop="20260301030000 +0800" channel="mbc max">
     <title lang="en">Public Enemies</title>
-  </programme>
-  <programme start="20260226140000 +0800" stop="20260226160000 +0800" channel="mbc 2">
-    <title lang="en">Howl's Moving Castle</title>
   </programme>
   <programme start="20260226160000 +0800" stop="20260226180000 +0800" channel="mbc 2">
     <title lang="en">Warcraft</title>
@@ -227,5 +218,8 @@
   </programme>
   <programme start="20260301000000 +0800" stop="20260301020000 +0800" channel="mbc 2">
     <title lang="en">Bad Teacher</title>
+  </programme>
+  <programme start="20260301020000 +0800" stop="20260301040000 +0800" channel="mbc 2">
+    <title lang="en">My Spy</title>
   </programme>
 </tv>
