@@ -9,12 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260226130000 +0800" stop="20260226140000 +0800" channel="mbc action">
-    <title lang="en">برنامج action bodcast</title>
-  </programme>
-  <programme start="20260226140000 +0800" stop="20260226153000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-  </programme>
   <programme start="20260226153000 +0800" stop="20260226163000 +0800" channel="mbc action">
     <title lang="en">برنامج Accelerate</title>
   </programme>
@@ -56,9 +50,6 @@
   </programme>
   <programme start="20260227053000 +0800" stop="20260227063000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
-  </programme>
-  <programme start="20260226113000 +0800" stop="20260226140000 +0800" channel="mbc max">
-    <title lang="en">Molly's Game</title>
   </programme>
   <programme start="20260226140000 +0800" stop="20260226163000 +0800" channel="mbc max">
     <title lang="en">The Bourne Identity</title>
@@ -144,8 +135,8 @@
   <programme start="20260228223000 +0800" stop="20260301003000 +0800" channel="mbc max">
     <title lang="en">Gangster Squad</title>
   </programme>
-  <programme start="20260226122500 +0800" stop="20260226140000 +0800" channel="mbc 2">
-    <title lang="en">Faster</title>
+  <programme start="20260301003000 +0800" stop="20260301030000 +0800" channel="mbc max">
+    <title lang="en">Public Enemies</title>
   </programme>
   <programme start="20260226140000 +0800" stop="20260226160000 +0800" channel="mbc 2">
     <title lang="en">Howl's Moving Castle</title>
@@ -233,5 +224,8 @@
   </programme>
   <programme start="20260228220000 +0800" stop="20260301000000 +0800" channel="mbc 2">
     <title lang="en">Arthur</title>
+  </programme>
+  <programme start="20260301000000 +0800" stop="20260301020000 +0800" channel="mbc 2">
+    <title lang="en">Bad Teacher</title>
   </programme>
 </tv>
