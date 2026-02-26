@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260226120000 +0800" stop="20260226130000 +0800" channel="mbc action">
-    <title lang="en">بودكاست ملح الدوري</title>
-  </programme>
   <programme start="20260226130000 +0800" stop="20260226140000 +0800" channel="mbc action">
     <title lang="en">برنامج action bodcast</title>
   </programme>
@@ -143,6 +140,9 @@
   </programme>
   <programme start="20260228203000 +0800" stop="20260228223000 +0800" channel="mbc max">
     <title lang="en">The Good German</title>
+  </programme>
+  <programme start="20260228223000 +0800" stop="20260301003000 +0800" channel="mbc max">
+    <title lang="en">Gangster Squad</title>
   </programme>
   <programme start="20260226122500 +0800" stop="20260226140000 +0800" channel="mbc 2">
     <title lang="en">Faster</title>
