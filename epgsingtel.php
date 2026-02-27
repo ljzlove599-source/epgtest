@@ -3,14 +3,13 @@
 // 用法：php this_script.php [起始日期 ddMMyyyy] [天数]，例如 php this_script.php 17022026 2
 // 如果未提供参数，使用当前日期（新加坡时间 UTC+8）作为起始，生成 2 天数据
 // 示例：生成 2026-02-17 和 2026-02-18 的 EPG
-// 注意：频道映射同前，覆盖所有频道；节目按时间排序输出
 
 // 获取参数，默认起始日期为当前，生成 2 天
 $startDateInput = isset($argv[1]) ? $argv[1] : date('dmY', strtotime('now +8 hours')); // ddMMyyyy
 $days = isset($argv[2]) ? (int) $argv[2] : 2;
 
 // 解析起始日期
-$startDateObj = DateTime::createFromFormat('dmY', $startDateInput);
+$startDateObj = DateTime::createFromFormat('dmY', $startDateInput, new DateTimeZone('Asia/Singapore'));
 if (!$startDateObj) {
     die("无效日期格式，请使用 ddMMyyyy（如 17022026）。\n");
 }
@@ -302,7 +301,7 @@ $channelMap = [
     '630' => 'Sony YAY!',
 ];
 
-// 收集所有节目数据（数组：日期 => 频道 => 节目数组）
+// 收集所有节目数据（数组：频道 => 节目数组）
 $allPrograms = [];
 $allChannels = [];
 foreach ($dates as $dateStr) {
@@ -325,7 +324,7 @@ foreach ($dates as $dateStr) {
             $allPrograms[$channelId] = [];
         }
         foreach ($programs as $program) {
-            // 添加日期标识到节目中（用于排序）
+            // 添加日期标识到节目中（可用于排序，但后续按时间排序即可）
             $program['date'] = $dateStr;
             $allPrograms[$channelId][] = $program;
         }
@@ -336,57 +335,60 @@ if (empty($allPrograms)) {
     die("无有效数据获取。\n");
 }
 
-// 生成 XML
-header('Content-Type: application/xml; charset=utf-8');
- $chn='<?xml version="1.0" encoding="UTF-8"?>' . "\n";
-$chn.= '<tv generator-info-name="Singtel EPG ">' . "\n";
+// 生成 XML 字符串
+$xml = '<?xml version="1.0" encoding="UTF-8"?>' . "\n";
+$xml .= '<tv generator-info-name="Singtel EPG">' . "\n";
 
-// 先输出所有唯一频道
+// 输出所有唯一频道，使用原始ID作为id，显示名称作为display-name
 foreach (array_keys($allChannels) as $channelId) {
     $displayName = $channelMap[$channelId] ?? $channelId;
-    $chn.= '<channel id="' . htmlspecialchars($displayName) . '">' . "\n";
-    $chn.= '<display-name lang="en">' . htmlspecialchars($displayName) . '</display-name>' . "\n";
-    $chn.= '</channel>' . "\n";
+    $xml .= '<channel id="' . htmlspecialchars($channelId) . '">' . "\n";
+    $xml .= '<display-name lang="en">' . htmlspecialchars($displayName) . '</display-name>' . "\n";
+    $xml .= '</channel>' . "\n";
 }
 
 // 然后输出所有节目（按频道和起始时间排序）
 foreach ($allPrograms as $channelId => $programs) {
-    // 按起始时间排序（strtotime）
+    // 按起始时间排序
     usort($programs, function($a, $b) {
         return strtotime($a['startDateTime']) <=> strtotime($b['startDateTime']);
     });
 
     foreach ($programs as $program) {
         $startStr = $program['startDateTime']; // 如 "2026-02-17T00:00:00"
-        $startTime = strtotime($startStr);
-        $duration = (int) $program['duration'];
-        $stopTime = $startTime + $duration;
+        $duration = (int) $program['duration']; // 秒
 
-        // 转换日期格式为 YYYYMMDDHHMMSS +0800
-        $startXml = date('YmdHis', $startTime) . ' +0800';
-        $stopXml = date('YmdHis', $stopTime) . ' +0800';
+        // 使用DateTime处理时间，确保时区正确（假设JSON时间已是新加坡时间）
+        $startDt = new DateTime($startStr, new DateTimeZone('Asia/Singapore'));
+        $stopDt = clone $startDt;
+        $stopDt->modify("+$duration seconds");
+
+        // 格式化为 XMLTV 要求的格式：YYYYMMDDHHMMSS +0800
+        $startXml = $startDt->format('YmdHis') . ' +0800';
+        $stopXml = $stopDt->format('YmdHis') . ' +0800';
 
         $title = $program['program']['title'] ?? '';
         $desc = $program['program']['description'] ?? '';
         $category = $program['program']['category'] ?? '';
         $subCategory = $program['program']['subCategory'] ?? '';
 
-        $chn.= '  <programme start="' . $startXml . '" stop="' . $stopXml . '" channel="' . htmlspecialchars($displayName) . '">' . "\n";
-        $chn.= '    <title lang="en">' . htmlspecialchars($title) . '</title>' . "\n";
+        $xml .= '  <programme start="' . $startXml . '" stop="' . $stopXml . '" channel="' . htmlspecialchars($channelId) . '">' . "\n";
+        $xml .= '    <title lang="en">' . htmlspecialchars($title) . '</title>' . "\n";
         if (!empty($desc)) {
-             $chn.='<desc lang="en">' . htmlspecialchars($desc) . '</desc>' . "\n";
+            $xml .= '    <desc lang="en">' . htmlspecialchars($desc) . '</desc>' . "\n";
         }
         if (!empty($category)) {
-            $chn.= '<category lang="en">' . htmlspecialchars($category) . '</category>' . "\n";
+            $xml .= '    <category lang="en">' . htmlspecialchars($category) . '</category>' . "\n";
         }
         if (!empty($subCategory)) {
-            $chn.= '<category lang="en">' . htmlspecialchars($subCategory) . '</category>' . "\n";
+            $xml .= '    <category lang="en">' . htmlspecialchars($subCategory) . '</category>' . "\n";
         }
-        $chn.= '</programme>'. "\n";
+        $xml .= '  </programme>' . "\n";
     }
 }
 
-$chn.= '</tv>' . "\n";
+$xml .= '</tv>' . "\n";
 
-file_put_contents('epgsingtel.xml', $chn);
-?>
+// 写入文件
+file_put_contents('epgsingtel.xml', $xml);
+echo "EPG 已生成至 epgsingtel.xml\n";
