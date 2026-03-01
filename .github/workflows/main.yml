@@ -289,7 +289,7 @@ jobs:
       - name: Update time.txt with latest commit timestamp (UTC+8)
         if: steps.check_xml.outputs.generated_xml != 'none'
         run: |
-          echo "Last XML update: $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S +08:00')" > time.txt
+          echo "Last XML update: $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')" > time.txt
           echo "已更新 time.txt 文件（东八区时间）"
 
       - name: Commit and push all changes
