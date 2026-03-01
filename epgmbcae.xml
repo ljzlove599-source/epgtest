@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260302023000 +0800" stop="20260302040000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-  </programme>
   <programme start="20260302040000 +0800" stop="20260302050000 +0800" channel="mbc action">
     <title lang="en">برنامج action bodcast </title>
   </programme>
@@ -180,8 +177,11 @@
   <programme start="20260304120000 +0800" stop="20260304130000 +0800" channel="mbc action">
     <title lang="en">بودكاست ملح الدوري</title>
   </programme>
-  <programme start="20260302010000 +0800" stop="20260302030000 +0800" channel="mbc max">
-    <title lang="en">Life as We Know It</title>
+  <programme start="20260304130000 +0800" stop="20260304140000 +0800" channel="mbc action">
+    <title lang="en">برنامج action bodcast</title>
+  </programme>
+  <programme start="20260304140000 +0800" stop="20260304153000 +0800" channel="mbc action">
+    <title lang="en">Action Ma' Waleed</title>
   </programme>
   <programme start="20260302030000 +0800" stop="20260302050000 +0800" channel="mbc max">
     <title lang="en">Finding You</title>
@@ -303,8 +303,8 @@
   <programme start="20260304110000 +0800" stop="20260304130000 +0800" channel="mbc max">
     <title lang="en">Nocturnal Animals</title>
   </programme>
-  <programme start="20260302023000 +0800" stop="20260302043000 +0800" channel="mbc 2">
-    <title lang="en">Gold</title>
+  <programme start="20260304130000 +0800" stop="20260304143000 +0800" channel="mbc max">
+    <title lang="en">All I See Is You</title>
   </programme>
   <programme start="20260302043000 +0800" stop="20260302060500 +0800" channel="mbc 2">
     <title lang="en">Escape Plan: The Extractors</title>
@@ -434,5 +434,8 @@
   </programme>
   <programme start="20260304121000 +0800" stop="20260304140000 +0800" channel="mbc 2">
     <title lang="en">88 Minutes</title>
+  </programme>
+  <programme start="20260304140000 +0800" stop="20260304155000 +0800" channel="mbc 2">
+    <title lang="en">A United Kingdom</title>
   </programme>
 </tv>
