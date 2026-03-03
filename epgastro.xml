@@ -310,6 +310,12 @@
 <channel id="Astro_Sports_UHD_805">
   <display-name lang="zh">Astro Sports UHD 805</display-name>
 </channel>
+<channel id="Astro_Premier_League_4">
+  <display-name lang="zh">Astro Premier League 4</display-name>
+</channel>
+<channel id="Astro_Premier_League_5">
+  <display-name lang="zh">Astro Premier League 5</display-name>
+</channel>
 <channel id="Astro_Grandstand">
   <display-name lang="zh">Astro Grandstand</display-name>
 </channel>
@@ -333,12 +339,6 @@
 </channel>
 <channel id="Astro_Sports_Plus">
   <display-name lang="zh">Astro Sports Plus</display-name>
-</channel>
-<channel id="Astro_Premier_League_4">
-  <display-name lang="zh">Astro Premier League 4</display-name>
-</channel>
-<channel id="Astro_Premier_League_5">
-  <display-name lang="zh">Astro Premier League 5</display-name>
 </channel>
 <channel id="beIN_SPORTS_1">
   <display-name lang="zh">beIN SPORTS 1</display-name>
@@ -27691,6 +27691,58 @@
   <title lang="zh">PL: Wolverhampton vs Liverpool</title>
   <desc lang="zh"> </desc>
 </programme>
+<programme start="20260303000000 +0800" stop="20260303060000 +0800" channel="Astro_Premier_League_4">
+  <title lang="zh">Astro Premier League 4</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260303060000 +0800" stop="20260303120000 +0800" channel="Astro_Premier_League_4">
+  <title lang="zh">Astro Premier League 4</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260303120000 +0800" stop="20260303180000 +0800" channel="Astro_Premier_League_4">
+  <title lang="zh">Astro Premier League 4</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260304000000 +0800" stop="20260304032000 +0800" channel="Astro_Premier_League_4">
+  <title lang="zh">Astro Premier League 4</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260304032000 +0800" stop="20260304053000 +0800" channel="Astro_Premier_League_4">
+  <title lang="zh">(L) PL: Leeds vs Sunderland</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260304053000 +0800" stop="20260304060000 +0800" channel="Astro_Premier_League_4">
+  <title lang="zh">Astro Premier League 4</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260304060000 +0800" stop="20260304120000 +0800" channel="Astro_Premier_League_4">
+  <title lang="zh">Astro Premier League 4</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260304120000 +0800" stop="20260304180000 +0800" channel="Astro_Premier_League_4">
+  <title lang="zh">Astro Premier League 4</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260303060000 +0800" stop="20260303120000 +0800" channel="Astro_Premier_League_5">
+  <title lang="zh">Astro Premier League 5</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260303120000 +0800" stop="20260303180000 +0800" channel="Astro_Premier_League_5">
+  <title lang="zh">Astro Premier League 5</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260304000000 +0800" stop="20260304060000 +0800" channel="Astro_Premier_League_5">
+  <title lang="zh">Astro Premier League 5</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260304060000 +0800" stop="20260304120000 +0800" channel="Astro_Premier_League_5">
+  <title lang="zh">Astro Premier League 5</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260304120000 +0800" stop="20260304180000 +0800" channel="Astro_Premier_League_5">
+  <title lang="zh">Astro Premier League 5</title>
+  <desc lang="zh"> </desc>
+</programme>
 <programme start="20260303015000 +0800" stop="20260303024500 +0800" channel="Astro_Grandstand">
   <title lang="zh">Tour Of Oman 2026 Final Program Hls</title>
   <desc lang="zh"> </desc>
@@ -28497,58 +28549,6 @@
 </programme>
 <programme start="20260304210000 +0800" stop="20260304220000 +0800" channel="Astro_Sports_Plus">
   <title lang="zh">WBC: Documentary 2023</title>
-  <desc lang="zh"> </desc>
-</programme>
-<programme start="20260303000000 +0800" stop="20260303060000 +0800" channel="Astro_Premier_League_4">
-  <title lang="zh">Astro Premier League 4</title>
-  <desc lang="zh"> </desc>
-</programme>
-<programme start="20260303060000 +0800" stop="20260303120000 +0800" channel="Astro_Premier_League_4">
-  <title lang="zh">Astro Premier League 4</title>
-  <desc lang="zh"> </desc>
-</programme>
-<programme start="20260303120000 +0800" stop="20260303180000 +0800" channel="Astro_Premier_League_4">
-  <title lang="zh">Astro Premier League 4</title>
-  <desc lang="zh"> </desc>
-</programme>
-<programme start="20260304000000 +0800" stop="20260304032000 +0800" channel="Astro_Premier_League_4">
-  <title lang="zh">Astro Premier League 4</title>
-  <desc lang="zh"> </desc>
-</programme>
-<programme start="20260304032000 +0800" stop="20260304053000 +0800" channel="Astro_Premier_League_4">
-  <title lang="zh">(L) PL: Leeds vs Sunderland</title>
-  <desc lang="zh"> </desc>
-</programme>
-<programme start="20260304053000 +0800" stop="20260304060000 +0800" channel="Astro_Premier_League_4">
-  <title lang="zh">Astro Premier League 4</title>
-  <desc lang="zh"> </desc>
-</programme>
-<programme start="20260304060000 +0800" stop="20260304120000 +0800" channel="Astro_Premier_League_4">
-  <title lang="zh">Astro Premier League 4</title>
-  <desc lang="zh"> </desc>
-</programme>
-<programme start="20260304120000 +0800" stop="20260304180000 +0800" channel="Astro_Premier_League_4">
-  <title lang="zh">Astro Premier League 4</title>
-  <desc lang="zh"> </desc>
-</programme>
-<programme start="20260303060000 +0800" stop="20260303120000 +0800" channel="Astro_Premier_League_5">
-  <title lang="zh">Astro Premier League 5</title>
-  <desc lang="zh"> </desc>
-</programme>
-<programme start="20260303120000 +0800" stop="20260303180000 +0800" channel="Astro_Premier_League_5">
-  <title lang="zh">Astro Premier League 5</title>
-  <desc lang="zh"> </desc>
-</programme>
-<programme start="20260304000000 +0800" stop="20260304060000 +0800" channel="Astro_Premier_League_5">
-  <title lang="zh">Astro Premier League 5</title>
-  <desc lang="zh"> </desc>
-</programme>
-<programme start="20260304060000 +0800" stop="20260304120000 +0800" channel="Astro_Premier_League_5">
-  <title lang="zh">Astro Premier League 5</title>
-  <desc lang="zh"> </desc>
-</programme>
-<programme start="20260304120000 +0800" stop="20260304180000 +0800" channel="Astro_Premier_League_5">
-  <title lang="zh">Astro Premier League 5</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260303000000 +0800" stop="20260303015000 +0800" channel="beIN_SPORTS_1">
