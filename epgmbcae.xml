@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260303050000 +0800" stop="20260303060000 +0800" channel="mbc action">
-    <title lang="en">برنامج cars &amp; stars</title>
-  </programme>
   <programme start="20260303060000 +0800" stop="20260303073000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
@@ -186,6 +183,9 @@
   <programme start="20260305140000 +0800" stop="20260305153000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
+  <programme start="20260305153000 +0800" stop="20260305163000 +0800" channel="mbc action">
+    <title lang="en">برنامج Accelerate</title>
+  </programme>
   <programme start="20260303050000 +0800" stop="20260303070000 +0800" channel="mbc max">
     <title lang="en">Antebellum</title>
   </programme>
@@ -308,9 +308,6 @@
   </programme>
   <programme start="20260305140000 +0800" stop="20260305163000 +0800" channel="mbc max">
     <title lang="en">Dumplin'</title>
-  </programme>
-  <programme start="20260303040000 +0800" stop="20260303060000 +0800" channel="mbc 2">
-    <title lang="en">The Ice Road</title>
   </programme>
   <programme start="20260303060000 +0800" stop="20260303074000 +0800" channel="mbc 2">
     <title lang="en">Sleepless</title>
@@ -446,5 +443,8 @@
   </programme>
   <programme start="20260305140000 +0800" stop="20260305160000 +0800" channel="mbc 2">
     <title lang="en">Penguins of Madagascar</title>
+  </programme>
+  <programme start="20260305160000 +0800" stop="20260305180000 +0800" channel="mbc 2">
+    <title lang="en">Pixels</title>
   </programme>
 </tv>
