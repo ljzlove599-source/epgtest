@@ -9,12 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260304000000 +0800" stop="20260304010000 +0800" channel="mbc action">
-    <title lang="en">برنامج  Adrenaline</title>
-  </programme>
-  <programme start="20260304010000 +0800" stop="20260304020000 +0800" channel="mbc action">
-    <title lang="en">Fate/Zero</title>
-  </programme>
   <programme start="20260304020000 +0800" stop="20260304030000 +0800" channel="mbc action">
     <title lang="en">برنامج action bodcast</title>
   </programme>
@@ -168,9 +162,6 @@
   <programme start="20260306053000 +0800" stop="20260306063000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
   </programme>
-  <programme start="20260304003000 +0800" stop="20260304023000 +0800" channel="mbc max">
-    <title lang="en">Battleship</title>
-  </programme>
   <programme start="20260304023000 +0800" stop="20260304030000 +0800" channel="mbc max">
     <title lang="en">برنامج Making The Movies</title>
   </programme>
@@ -273,8 +264,8 @@
   <programme start="20260306100000 +0800" stop="20260306120000 +0800" channel="mbc max">
     <title lang="en">Click</title>
   </programme>
-  <programme start="20260304000000 +0800" stop="20260304020000 +0800" channel="mbc 2">
-    <title lang="en">In Bruges</title>
+  <programme start="20260306120000 +0800" stop="20260306140000 +0800" channel="mbc max">
+    <title lang="en">Night School</title>
   </programme>
   <programme start="20260304020000 +0800" stop="20260304040000 +0800" channel="mbc 2">
     <title lang="en">The Art of Self-Defense</title>
@@ -392,5 +383,8 @@
   </programme>
   <programme start="20260306080000 +0800" stop="20260306103000 +0800" channel="mbc 2">
     <title lang="en">Space Jam: A New Legacy</title>
+  </programme>
+  <programme start="20260306103000 +0800" stop="20260306123000 +0800" channel="mbc 2">
+    <title lang="en">Penguins of Madagascar</title>
   </programme>
 </tv>
