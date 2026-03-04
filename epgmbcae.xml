@@ -9,15 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260304080000 +0800" stop="20260304090000 +0800" channel="mbc action">
-    <title lang="en">برنامج action bodcast</title>
-  </programme>
-  <programme start="20260304090000 +0800" stop="20260304100000 +0800" channel="mbc action">
-    <title lang="en">بودكاست ملح الدوري</title>
-  </programme>
-  <programme start="20260304100000 +0800" stop="20260304103000 +0800" channel="mbc action">
-    <title lang="en">Fate/Zero</title>
-  </programme>
   <programme start="20260304103000 +0800" stop="20260304120000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
@@ -144,12 +135,6 @@
   <programme start="20260306053000 +0800" stop="20260306063000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
   </programme>
-  <programme start="20260304070000 +0800" stop="20260304090000 +0800" channel="mbc max">
-    <title lang="en">SuperFly</title>
-  </programme>
-  <programme start="20260304090000 +0800" stop="20260304110000 +0800" channel="mbc max">
-    <title lang="en">Antebellum</title>
-  </programme>
   <programme start="20260304110000 +0800" stop="20260304130000 +0800" channel="mbc max">
     <title lang="en">Nocturnal Animals</title>
   </programme>
@@ -246,14 +231,11 @@
   <programme start="20260306163000 +0800" stop="20260306190000 +0800" channel="mbc max">
     <title lang="en">Erin Brockovich</title>
   </programme>
-  <programme start="20260304080000 +0800" stop="20260304093500 +0800" channel="mbc 2">
-    <title lang="en">Code Name Banshee</title>
+  <programme start="20260306190000 +0800" stop="20260306210000 +0800" channel="mbc max">
+    <title lang="en">Grown Ups 2</title>
   </programme>
-  <programme start="20260304093500 +0800" stop="20260304100000 +0800" channel="mbc 2">
-    <title lang="en">برنامج World Of Movies Season 3</title>
-  </programme>
-  <programme start="20260304100000 +0800" stop="20260304114000 +0800" channel="mbc 2">
-    <title lang="en">Sleepless</title>
+  <programme start="20260306210000 +0800" stop="20260306230000 +0800" channel="mbc max">
+    <title lang="en">Panic Room</title>
   </programme>
   <programme start="20260304114000 +0800" stop="20260304121000 +0800" channel="mbc 2">
     <title lang="en">برنامج Planet Action 6</title>
@@ -362,5 +344,8 @@
   </programme>
   <programme start="20260306180000 +0800" stop="20260306200000 +0800" channel="mbc 2">
     <title lang="en">The Legend of Tarzan</title>
+  </programme>
+  <programme start="20260306200000 +0800" stop="20260306220000 +0800" channel="mbc 2">
+    <title lang="en">Chaos Walking</title>
   </programme>
 </tv>
