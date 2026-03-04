@@ -358,12 +358,6 @@
 <channel id="Astro_Sports_UHD_805">
   <display-name lang="zh">Astro Sports UHD 805</display-name>
 </channel>
-<channel id="Astro_Premier_League_4">
-  <display-name lang="zh">Astro Premier League 4</display-name>
-</channel>
-<channel id="Astro_Premier_League_5">
-  <display-name lang="zh">Astro Premier League 5</display-name>
-</channel>
 <channel id="Astro_Grandstand">
   <display-name lang="zh">Astro Grandstand</display-name>
 </channel>
@@ -372,9 +366,6 @@
 </channel>
 <channel id="Astro_Premier_League_2">
   <display-name lang="zh">Astro Premier League 2</display-name>
-</channel>
-<channel id="Astro_Premier_League_3">
-  <display-name lang="zh">Astro Premier League 3</display-name>
 </channel>
 <channel id="Astro_Football">
   <display-name lang="zh">Astro Football</display-name>
@@ -29090,22 +29081,6 @@
   <title lang="zh">PL: Brighton vs Arsenal</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260305000000 +0800" stop="20260305032000 +0800" channel="Astro_Premier_League_4">
-  <title lang="zh">Astro Premier League 4</title>
-  <desc lang="zh"> </desc>
-</programme>
-<programme start="20260305032000 +0800" stop="20260305053000 +0800" channel="Astro_Premier_League_4">
-  <title lang="zh">(L) PL: Man City vs Nottm Forest</title>
-  <desc lang="zh"> </desc>
-</programme>
-<programme start="20260305000000 +0800" stop="20260305032000 +0800" channel="Astro_Premier_League_5">
-  <title lang="zh">Astro Premier League 5</title>
-  <desc lang="zh"> </desc>
-</programme>
-<programme start="20260305032000 +0800" stop="20260305053000 +0800" channel="Astro_Premier_League_5">
-  <title lang="zh">(L) PL: Fulham vs West Ham</title>
-  <desc lang="zh"> </desc>
-</programme>
 <programme start="20260305014300 +0800" stop="20260305034500 +0800" channel="Astro_Grandstand">
   <title lang="zh">PL: Bournemouth vs Sunderland</title>
   <desc lang="zh"> </desc>
@@ -29370,11 +29345,11 @@
   <title lang="zh">PLTV: PL Review 2025/26 (13/2)</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260305032000 +0800" stop="20260305053000 +0800" channel="Astro_Premier_League_2">
+<programme start="20260305032000 +0800" stop="20260305053500 +0800" channel="Astro_Premier_League_2">
   <title lang="zh">(L) PL: Aston Villa vs Chelsea</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260305053000 +0800" stop="20260305063000 +0800" channel="Astro_Premier_League_2">
+<programme start="20260305053500 +0800" stop="20260305063000 +0800" channel="Astro_Premier_League_2">
   <title lang="zh">PLTV: PL Review 2025/26 (8/2)</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -29622,14 +29597,6 @@
   <title lang="zh">Netbusters: Ep29</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260305000000 +0800" stop="20260305032000 +0800" channel="Astro_Premier_League_3">
-  <title lang="zh">Astro Premier League 3</title>
-  <desc lang="zh"> </desc>
-</programme>
-<programme start="20260305032000 +0800" stop="20260305053000 +0800" channel="Astro_Premier_League_3">
-  <title lang="zh">(L) PL: Brighton vs Arsenal</title>
-  <desc lang="zh"> </desc>
-</programme>
 <programme start="20260305000000 +0800" stop="20260305020000 +0800" channel="Astro_Football">
   <title lang="zh">(D) FA Cup: Port Vale vs Bristol</title>
   <desc lang="zh"> </desc>
@@ -29642,11 +29609,11 @@
   <title lang="zh">This Is Our Time: Ep04</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260305032000 +0800" stop="20260305053000 +0800" channel="Astro_Football">
+<programme start="20260305032000 +0800" stop="20260305053500 +0800" channel="Astro_Football">
   <title lang="zh">(L) EFL Vertu Cup: Luton Town vs Northampton</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260305053000 +0800" stop="20260305060000 +0800" channel="Astro_Football">
+<programme start="20260305053500 +0800" stop="20260305060000 +0800" channel="Astro_Football">
   <title lang="zh">EFL 2025/26 - Highlights Show 29</title>
   <desc lang="zh"> </desc>
 </programme>
