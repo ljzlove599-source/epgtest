@@ -9,12 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260304063000 +0800" stop="20260304073000 +0800" channel="mbc action">
-    <title lang="en">برنامج american ninja warrior</title>
-  </programme>
-  <programme start="20260304073000 +0800" stop="20260304080000 +0800" channel="mbc action">
-    <title lang="en">Fate/Zero</title>
-  </programme>
   <programme start="20260304080000 +0800" stop="20260304090000 +0800" channel="mbc action">
     <title lang="en">برنامج action bodcast</title>
   </programme>
@@ -150,9 +144,6 @@
   <programme start="20260306053000 +0800" stop="20260306063000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
   </programme>
-  <programme start="20260304050000 +0800" stop="20260304070000 +0800" channel="mbc max">
-    <title lang="en">Passengers</title>
-  </programme>
   <programme start="20260304070000 +0800" stop="20260304090000 +0800" channel="mbc max">
     <title lang="en">SuperFly</title>
   </programme>
@@ -252,11 +243,8 @@
   <programme start="20260306140000 +0800" stop="20260306163000 +0800" channel="mbc max">
     <title lang="en">Lion</title>
   </programme>
-  <programme start="20260304060000 +0800" stop="20260304073500 +0800" channel="mbc 2">
-    <title lang="en">Mr. Right</title>
-  </programme>
-  <programme start="20260304073500 +0800" stop="20260304080000 +0800" channel="mbc 2">
-    <title lang="en">برنامج Making The Movies</title>
+  <programme start="20260306163000 +0800" stop="20260306190000 +0800" channel="mbc max">
+    <title lang="en">Erin Brockovich</title>
   </programme>
   <programme start="20260304080000 +0800" stop="20260304093500 +0800" channel="mbc 2">
     <title lang="en">Code Name Banshee</title>
@@ -371,5 +359,8 @@
   </programme>
   <programme start="20260306160000 +0800" stop="20260306180000 +0800" channel="mbc 2">
     <title lang="en">Jupiter Ascending</title>
+  </programme>
+  <programme start="20260306180000 +0800" stop="20260306200000 +0800" channel="mbc 2">
+    <title lang="en">The Legend of Tarzan</title>
   </programme>
 </tv>
