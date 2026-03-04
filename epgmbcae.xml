@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260305020000 +0800" stop="20260305030000 +0800" channel="mbc action">
-    <title lang="en">برنامج action bodcast</title>
-  </programme>
   <programme start="20260305030000 +0800" stop="20260305040000 +0800" channel="mbc action">
     <title lang="en">بودكاست ملح الدوري</title>
   </programme>
@@ -89,9 +86,6 @@
   </programme>
   <programme start="20260306053000 +0800" stop="20260306063000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
-  </programme>
-  <programme start="20260305013000 +0800" stop="20260305030000 +0800" channel="mbc max">
-    <title lang="en">Grown Ups</title>
   </programme>
   <programme start="20260305030000 +0800" stop="20260305043000 +0800" channel="mbc max">
     <title lang="en">Grown Ups 2</title>
@@ -275,5 +269,8 @@
   </programme>
   <programme start="20260307104500 +0800" stop="20260307123000 +0800" channel="mbc 2">
     <title lang="en">Chaos Walking</title>
+  </programme>
+  <programme start="20260307123000 +0800" stop="20260307143000 +0800" channel="mbc 2">
+    <title lang="en">Jurassic Park</title>
   </programme>
 </tv>
