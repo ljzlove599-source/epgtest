@@ -343,7 +343,7 @@ $xml .= '<tv generator-info-name="Singtel EPG">' . "\n";
 foreach (array_keys($allChannels) as $channelId) {
     $displayName = $channelMap[$channelId] ?? $channelId;
     // 修改点1：id 使用原始 $channelId，保证唯一性
-    $xml .= '<channel id="' . htmlspecialchars($channelId) . '">' . "\n";
+    $xml .= '<channel id="' . htmlspecialchars($displayName) . '">' . "\n";
     $xml .= '<display-name lang="en">' . htmlspecialchars($displayName) . '</display-name>' . "\n";
     $xml .= '</channel>' . "\n";
 }
@@ -374,7 +374,7 @@ foreach ($allPrograms as $channelId => $programs) {
         $subCategory = $program['program']['subCategory'] ?? '';
 
         // 修改点2：channel 属性使用原始 $channelId，与 <channel> 标签的 id 一致
-        $xml .= '  <programme start="' . $startXml . '" stop="' . $stopXml . '" channel="' . htmlspecialchars($channelId) . '">' . "\n";
+        $xml .= '  <programme start="' . $startXml . '" stop="' . $stopXml . '" channel="' . htmlspecialchars($displayName) . '">' . "\n";
         $xml .= '    <title lang="en">' . htmlspecialchars($title) . '</title>' . "\n";
         if (!empty($desc)) {
             $xml .= '    <desc lang="en">' . htmlspecialchars($desc) . '</desc>' . "\n";
