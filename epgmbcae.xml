@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260305210000 +0800" stop="20260305220000 +0800" channel="mbc action">
-    <title lang="en">برنامج Accelerate</title>
-  </programme>
   <programme start="20260305220000 +0800" stop="20260305230000 +0800" channel="mbc action">
     <title lang="en">برنامج the inside line</title>
   </programme>
@@ -120,9 +117,6 @@
   <programme start="20260308070000 +0800" stop="20260308090000 +0800" channel="mbc max">
     <title lang="en">John Wick</title>
   </programme>
-  <programme start="20260305200000 +0800" stop="20260305220000 +0800" channel="mbc 2">
-    <title lang="en">Alpha</title>
-  </programme>
   <programme start="20260305220000 +0800" stop="20260306000000 +0800" channel="mbc 2">
     <title lang="en">Jurassic Park</title>
   </programme>
@@ -206,5 +200,8 @@
   </programme>
   <programme start="20260308060000 +0800" stop="20260308073000 +0800" channel="mbc 2">
     <title lang="en">Neighbors</title>
+  </programme>
+  <programme start="20260308073000 +0800" stop="20260308093000 +0800" channel="mbc 2">
+    <title lang="en">The Boy</title>
   </programme>
 </tv>
