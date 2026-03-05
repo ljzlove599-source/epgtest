@@ -9,12 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260305063000 +0800" stop="20260305073000 +0800" channel="mbc action">
-    <title lang="en">الخميس</title>
-  </programme>
-  <programme start="20260305073000 +0800" stop="20260305080000 +0800" channel="mbc action">
-    <title lang="en">Fate/Zero</title>
-  </programme>
   <programme start="20260305080000 +0800" stop="20260305090000 +0800" channel="mbc action">
     <title lang="en">برنامج action bodcast</title>
   </programme>
@@ -77,9 +71,6 @@
   </programme>
   <programme start="20260306053000 +0800" stop="20260306063000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
-  </programme>
-  <programme start="20260305065500 +0800" stop="20260305083000 +0800" channel="mbc max">
-    <title lang="en">Nerve</title>
   </programme>
   <programme start="20260305083000 +0800" stop="20260305102500 +0800" channel="mbc max">
     <title lang="en">Flatliners</title>
@@ -161,12 +152,6 @@
   </programme>
   <programme start="20260307160000 +0800" stop="20260307183000 +0800" channel="mbc max">
     <title lang="en">The Water Diviner</title>
-  </programme>
-  <programme start="20260305055500 +0800" stop="20260305074000 +0800" channel="mbc 2">
-    <title lang="en">Alpha</title>
-  </programme>
-  <programme start="20260305074000 +0800" stop="20260305080500 +0800" channel="mbc 2">
-    <title lang="en">برنامج World Of Movies Season 3</title>
   </programme>
   <programme start="20260305080500 +0800" stop="20260305095500 +0800" channel="mbc 2">
     <title lang="en">In Bruges</title>
@@ -257,5 +242,8 @@
   </programme>
   <programme start="20260307143000 +0800" stop="20260307173000 +0800" channel="mbc 2">
     <title lang="en">Concussion</title>
+  </programme>
+  <programme start="20260307173000 +0800" stop="20260307200000 +0800" channel="mbc 2">
+    <title lang="en">The Maze Runner</title>
   </programme>
 </tv>
