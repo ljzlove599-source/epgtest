@@ -186,15 +186,17 @@ jobs:
           EOF
       - name: Commit and push results
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add "繁體電視台目錄.txt" "简体电视台目录.txt" "*.json" "README.md"
-          if git diff --cached --quiet; then
-            echo "⚠️ 没有需要提交的变更"
-          else
-            git commit -m "Update EPG analysis and README (auto-generated)"
-            for i in {1..3}; do
+              git config user.name "github-actions[bot]"
+              git config user.email "github-actions[bot]@users.noreply.github.com"
+              git add "繁體電視台目錄.txt" "简体电视台目录.txt" "*.json" "README.md"
+              if git diff --cached --quiet; then
+              echo "⚠️ 没有需要提交的变更"
+              else
+              git commit -m "Update EPG analysis and README (auto-generated)"
+              # 丢弃对 XML 文件的修改，避免影响 git pull
+              git checkout -- twepg.xml swepg.xml 2>/dev/null || true
+              for i in {1..3}; do
               git pull --rebase && git push && exit 0 || sleep 5
-            done
-            exit 1
-          fi
+              done
+              exit 1
+              fi
