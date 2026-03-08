@@ -394,8 +394,8 @@
 <channel id="Astro_Golf">
   <display-name lang="zh">Astro Golf</display-name>
 </channel>
-<channel id="Astro_Cricket">
-  <display-name lang="zh">Astro Cricket</display-name>
+<channel id="CricBuzz">
+  <display-name lang="zh">CricBuzz</display-name>
 </channel>
 <channel id="Premier_Sports_Rugby">
   <display-name lang="zh">Premier Sports Rugby</display-name>
@@ -28717,11 +28717,11 @@
   <title lang="zh">The Great British Bake Off S16 Ep04</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260309013000 +0800" stop="20260309023000 +0800" channel="Astro_Arena">
+<programme start="20260309014600 +0800" stop="20260309024500 +0800" channel="Astro_Arena">
   <title lang="zh">Nadi Weekend</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260309023000 +0800" stop="20260309060000 +0800" channel="Astro_Arena">
+<programme start="20260309024500 +0800" stop="20260309060000 +0800" channel="Astro_Arena">
   <title lang="zh">BWF Terbuka All England 2026: R32</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -28985,11 +28985,11 @@
   <title lang="zh">Bola Dulu Baru Kamu!</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260309060000 +0800" stop="20260309080000 +0800" channel="Arena_Bola">
+<programme start="20260309060000 +0800" stop="20260309080400 +0800" channel="Arena_Bola">
   <title lang="zh">AFC Women&apos;s Asian Cup 2026: AUS lwn KOR</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260309080000 +0800" stop="20260309100000 +0800" channel="Arena_Bola">
+<programme start="20260309080400 +0800" stop="20260309100000 +0800" channel="Arena_Bola">
   <title lang="zh">MSL 2025/26: SEL lwn IFC</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -29345,11 +29345,7 @@
   <title lang="zh">PL: Newcastle Utd vs Man Utd</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260309013000 +0800" stop="20260309014000 +0800" channel="Astro_Grandstand">
-  <title lang="zh">PBR UTB 2026:</title>
-  <desc lang="zh"> </desc>
-</programme>
-<programme start="20260309014000 +0800" stop="20260309024000 +0800" channel="Astro_Grandstand">
+<programme start="20260309014500 +0800" stop="20260309024000 +0800" channel="Astro_Grandstand">
   <title lang="zh">Reaction Sports 2026: Feb Edition</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -29877,7 +29873,7 @@
   <title lang="zh">Serie A: Full Impact: Round 27</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260309013000 +0800" stop="20260309020000 +0800" channel="Astro_Badminton">
+<programme start="20260309014500 +0800" stop="20260309020000 +0800" channel="Astro_Badminton">
   <title lang="zh">BWF Malaysia Open: HL</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -29949,7 +29945,7 @@
   <title lang="zh">BWF Indonesia Masters: HL</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260309023000 +0800" stop="20260309030000 +0800" channel="Astro_Sports_Plus">
+<programme start="20260309024500 +0800" stop="20260309030000 +0800" channel="Astro_Sports_Plus">
   <title lang="zh">Total Combat 2025: Episode Number 47</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -30707,6 +30703,322 @@
 </programme>
 <programme start="20260310210000 +0800" stop="20260310220000 +0800" channel="Astro_Golf">
   <title lang="zh">Arnold Palmer Invitational Hls</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260309000000 +0800" stop="20260309003300 +0800" channel="CricBuzz">
+  <title lang="zh">New Zealand Tour of India Highlights: IND V NZ, 1st ODI</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260309003300 +0800" stop="20260309010000 +0800" channel="CricBuzz">
+  <title lang="zh">India Tour of Australia Highlights: AUS V IND, 3rd ODI</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260309010000 +0800" stop="20260309012200 +0800" channel="CricBuzz">
+  <title lang="zh">BBL 2025-26 Highlights: M40: BRH V SYS</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260309012200 +0800" stop="20260309014400 +0800" channel="CricBuzz">
+  <title lang="zh">SA20 2025-26 Highlights: M29: SEC V MICT</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260309014400 +0800" stop="20260309032100 +0800" channel="CricBuzz">
+  <title lang="zh">Ashes 2025-26 Highlights: AUS V ENG, 2nd Test</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260309032100 +0800" stop="20260309034600 +0800" channel="CricBuzz">
+  <title lang="zh">Asia Cup Rising Stars Highlights: BAN A V IND A, SF 1</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260309034600 +0800" stop="20260309040500 +0800" channel="CricBuzz">
+  <title lang="zh">BBL 2025-26 Highlights: M39: PRS V MLS</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260309040500 +0800" stop="20260309042900 +0800" channel="CricBuzz">
+  <title lang="zh">Pakistan Tour of Sri Lanka Highlights: SL V PAK, 3rd T20I</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260309042900 +0800" stop="20260309045100 +0800" channel="CricBuzz">
+  <title lang="zh">SA20 2025-26 Highlights: M28: JSK V PC</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260309045100 +0800" stop="20260309051000 +0800" channel="CricBuzz">
+  <title lang="zh">BBL 2025-26 Highlights: M35: HBH V BRH</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260309051000 +0800" stop="20260309053100 +0800" channel="CricBuzz">
+  <title lang="zh">ILT20 2025-26 Best of S</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260309053100 +0800" stop="20260309060800 +0800" channel="CricBuzz">
+  <title lang="zh">South Africa Tour of India Highlights: IND V SA, 2nd ODI</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260309060800 +0800" stop="20260309063100 +0800" channel="CricBuzz">
+  <title lang="zh">BBL 2025-26 Highlights: Challenger: SYS V HBH</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260309063100 +0800" stop="20260309065500 +0800" channel="CricBuzz">
+  <title lang="zh">SA20 2025-26 Highlights: M27: DSG V PR</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260309065500 +0800" stop="20260309071700 +0800" channel="CricBuzz">
+  <title lang="zh">England Tour of Sri Lanka Highlights: SL V ENG, 2nd ODI</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260309071700 +0800" stop="20260309074500 +0800" channel="CricBuzz">
+  <title lang="zh">BBL 2025-26 Highlights: M2: MLR V BRH</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260309074500 +0800" stop="20260309081700 +0800" channel="CricBuzz">
+  <title lang="zh">SA20 2025-26 Highlights: M1: MICT V DSG</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260309081700 +0800" stop="20260309084200 +0800" channel="CricBuzz">
+  <title lang="zh">SA20 2025-26 Best of S</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260309084200 +0800" stop="20260309090700 +0800" channel="CricBuzz">
+  <title lang="zh">New Zealand Tour of India Highlights: IND V NZ, 3rd T20I</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260309090700 +0800" stop="20260309101300 +0800" channel="CricBuzz">
+  <title lang="zh">India Women Tour of Australia Highlights: AUSW V INDW, Only Test</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260309101300 +0800" stop="20260309104500 +0800" channel="CricBuzz">
+  <title lang="zh">New Zealand Tour of India Highlights: IND V NZ, 1st ODI</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260309104500 +0800" stop="20260309111100 +0800" channel="CricBuzz">
+  <title lang="zh">SA20 2025-26 Highlights: M23: PR V DSG</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260309111100 +0800" stop="20260309113300 +0800" channel="CricBuzz">
+  <title lang="zh">India Women Tour of Australia Highlights: AUSW V INDW, 3rd T20I</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260309113300 +0800" stop="20260309115300 +0800" channel="CricBuzz">
+  <title lang="zh">West Indies Tour of South Africa Highlights: SA V WI, 3rd T20I</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260309115300 +0800" stop="20260309121900 +0800" channel="CricBuzz">
+  <title lang="zh">Australia Tour of Pakistan Highlights: PAK V AUS, 2nd T20I</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260309121900 +0800" stop="20260309132000 +0800" channel="CricBuzz">
+  <title lang="zh">India Women Tour of Australia Highlights: AUSW V INDW, Only Test</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260309132000 +0800" stop="20260309210000 +0800" channel="CricBuzz">
+  <title lang="zh">LIVE: India Women Tour of Australia AUS W V IND W, Test - Day 4</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260309210000 +0800" stop="20260309212600 +0800" channel="CricBuzz">
+  <title lang="zh">New Zealand Tour of India Best of IND V NZ, T20Is</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260309212600 +0800" stop="20260309215200 +0800" channel="CricBuzz">
+  <title lang="zh">New Zealand Tour of India Highlights: IND V NZ, 1st T20I</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260309215200 +0800" stop="20260309221900 +0800" channel="CricBuzz">
+  <title lang="zh">Australia Tour of Pakistan Highlights: PAK V AUS, 3rd T20I</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260309221900 +0800" stop="20260309224000 +0800" channel="CricBuzz">
+  <title lang="zh">India Women Tour of Australia Highlights: AUSW V INDW, 3rd T20I</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260309224000 +0800" stop="20260309225800 +0800" channel="CricBuzz">
+  <title lang="zh">BBL 2025-26 Highlights: Final: PRS V SYS</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260309225800 +0800" stop="20260309232400 +0800" channel="CricBuzz">
+  <title lang="zh">BBL 2025-26 Highlights: M32: ADS V PRS</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310000000 +0800" stop="20260310002400 +0800" channel="CricBuzz">
+  <title lang="zh">BBL 2025-26 Highlights: M18, MLR V SYS</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310002400 +0800" stop="20260310005100 +0800" channel="CricBuzz">
+  <title lang="zh">India Tour of Australia Highlights: AUS V IND, 3rd ODI</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310005100 +0800" stop="20260310011400 +0800" channel="CricBuzz">
+  <title lang="zh">BBL 2025-26 Highlights: M40: BRH V SYS</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310011400 +0800" stop="20260310013700 +0800" channel="CricBuzz">
+  <title lang="zh">SA20 2025-26 Highlights: M29: SEC V MICT</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310013700 +0800" stop="20260310031600 +0800" channel="CricBuzz">
+  <title lang="zh">Ashes 2025-26 Highlights: AUS V ENG, 3rd Test</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310031600 +0800" stop="20260310033500 +0800" channel="CricBuzz">
+  <title lang="zh">BBL 2025-26 Highlights: M39: PRS V MLS</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310033500 +0800" stop="20260310043500 +0800" channel="CricBuzz">
+  <title lang="zh">South Africa Tour of India Highlights: IND V SA, 2nd ODI</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310043500 +0800" stop="20260310045900 +0800" channel="CricBuzz">
+  <title lang="zh">SA20 2025-26 Highlights: M27: DSG V PR</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310045900 +0800" stop="20260310052200 +0800" channel="CricBuzz">
+  <title lang="zh">England Tour of Sri Lanka Highlights: SL V ENG, 2nd ODI</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310052200 +0800" stop="20260310054900 +0800" channel="CricBuzz">
+  <title lang="zh">BBL 2025-26 Highlights: M2: MLR V BRH</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310054900 +0800" stop="20260310061500 +0800" channel="CricBuzz">
+  <title lang="zh">SA20 2025-26 Best of S</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310061500 +0800" stop="20260310063900 +0800" channel="CricBuzz">
+  <title lang="zh">Pakistan Tour of Sri Lanka Highlights: SL V PAK, 3rd T20I</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310063900 +0800" stop="20260310070100 +0800" channel="CricBuzz">
+  <title lang="zh">SA20 2025-26 Highlights: M28: JSK V PC</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310070100 +0800" stop="20260310073200 +0800" channel="CricBuzz">
+  <title lang="zh">New Zealand Tour of India Highlights: IND V NZ, 1st ODI</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310073200 +0800" stop="20260310080400 +0800" channel="CricBuzz">
+  <title lang="zh">SA20 2025-26 Highlights: M1: MICT V DSG</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310080400 +0800" stop="20260310083000 +0800" channel="CricBuzz">
+  <title lang="zh">SA20 2025-26 Highlights: M23: PR V DSG</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310083000 +0800" stop="20260310085500 +0800" channel="CricBuzz">
+  <title lang="zh">New Zealand Tour of India Highlights: IND V NZ, 3rd T20I</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310085500 +0800" stop="20260310092100 +0800" channel="CricBuzz">
+  <title lang="zh">Australia Tour of Pakistan Highlights: PAK V AUS, 2nd T20I</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310092100 +0800" stop="20260310104900 +0800" channel="CricBuzz">
+  <title lang="zh">India Women Tour of Australia Highlights: AUSW V INDW, Only Test</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310104900 +0800" stop="20260310110900 +0800" channel="CricBuzz">
+  <title lang="zh">West Indies Tour of South Africa Highlights: SA V WI, 3rd T20I</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310110900 +0800" stop="20260310113600 +0800" channel="CricBuzz">
+  <title lang="zh">Australia Tour of Pakistan Highlights: PAK V AUS, 3rd T20I</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310113600 +0800" stop="20260310115900 +0800" channel="CricBuzz">
+  <title lang="zh">India Women Tour of Australia Highlights: AUSW V INDW, 3rd T20I</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310115900 +0800" stop="20260310122400 +0800" channel="CricBuzz">
+  <title lang="zh">New Zealand Tour of India Best of IND V NZ, T20Is</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310122400 +0800" stop="20260310124300 +0800" channel="CricBuzz">
+  <title lang="zh">BBL 2025-26 Highlights: Final: PRS V SYS</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310124300 +0800" stop="20260310131100 +0800" channel="CricBuzz">
+  <title lang="zh">New Zealand Tour of India Highlights: IND V NZ, 1st T20I</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310131100 +0800" stop="20260310135000 +0800" channel="CricBuzz">
+  <title lang="zh">England Tour of Sri Lanka Highlights: SL V ENG, 3rd ODI</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310135000 +0800" stop="20260310141400 +0800" channel="CricBuzz">
+  <title lang="zh">New Zealand Tour of India Highlights: IND V NZ, 2nd ODI</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310141400 +0800" stop="20260310143700 +0800" channel="CricBuzz">
+  <title lang="zh">England Tour of Sri Lanka Highlights: SL V ENG, 2nd T20I</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310143700 +0800" stop="20260310145700 +0800" channel="CricBuzz">
+  <title lang="zh">Women&apos;s Asia Cup Rising Stars Highlights: Final: IND A V BAN A</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310145700 +0800" stop="20260310152300 +0800" channel="CricBuzz">
+  <title lang="zh">BBL 2025-26 Highlights: M37: SYS V SYT</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310152300 +0800" stop="20260310154900 +0800" channel="CricBuzz">
+  <title lang="zh">SA20 2025-26 Best of S</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310154900 +0800" stop="20260310161300 +0800" channel="CricBuzz">
+  <title lang="zh">India Women Tour of Australia Highlights: AUS W V IND W, 2nd ODI</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310161300 +0800" stop="20260310164700 +0800" channel="CricBuzz">
+  <title lang="zh">New Zealand Tour of India Highlights: IND V NZ, 4th T20I</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310164700 +0800" stop="20260310171500 +0800" channel="CricBuzz">
+  <title lang="zh">BBL 2025-26 Highlights: M21: SYT V HBH</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310171500 +0800" stop="20260310174600 +0800" channel="CricBuzz">
+  <title lang="zh">South Africa Tour of India Highlights: IND V SA, 3rd ODI</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310174600 +0800" stop="20260310180800 +0800" channel="CricBuzz">
+  <title lang="zh">England Tour of Sri Lanka Highlights: SL V ENG, 1st T20I</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310180800 +0800" stop="20260310182900 +0800" channel="CricBuzz">
+  <title lang="zh">BBL 2025-26 Highlights: M35: HBH V BRH</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310182900 +0800" stop="20260310195700 +0800" channel="CricBuzz">
+  <title lang="zh">India Women Tour of Australia Highlights: AUSW V INDW, Only Test</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310195700 +0800" stop="20260310202800 +0800" channel="CricBuzz">
+  <title lang="zh">West Indies Tour of South Africa Highlights: SA V WI, 2nd T20I</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310202800 +0800" stop="20260310205600 +0800" channel="CricBuzz">
+  <title lang="zh">England Tour of Sri Lanka Highlights: SL V ENG, 1st ODI</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310205600 +0800" stop="20260310213400 +0800" channel="CricBuzz">
+  <title lang="zh">New Zealand Tour of India Highlights: IND V NZ, 5th T20I</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310213400 +0800" stop="20260310215600 +0800" channel="CricBuzz">
+  <title lang="zh">BBL 2025-26 Highlights: Challenger: SYS V HBH</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310215600 +0800" stop="20260310222000 +0800" channel="CricBuzz">
+  <title lang="zh">India Women Tour of Australia Highlights: AUS W V IND W, 3rd ODI</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310222000 +0800" stop="20260310225200 +0800" channel="CricBuzz">
+  <title lang="zh">BBL 2025-26 Best of S</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310225200 +0800" stop="20260310231300 +0800" channel="CricBuzz">
+  <title lang="zh">West Indies Tour of South Africa Highlights: SA V WI, 1st T20I</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310231300 +0800" stop="20260310234400 +0800" channel="CricBuzz">
+  <title lang="zh">SA20 2025-26 Highlights: M9: JSK V DSG</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260309005200 +0800" stop="20260309024200 +0800" channel="Premier_Sports_Rugby">
