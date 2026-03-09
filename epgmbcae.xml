@@ -9,12 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260309190000 +0800" stop="20260309200000 +0800" channel="mbc action">
-    <title lang="en">Ridiculousness</title>
-  </programme>
-  <programme start="20260309200000 +0800" stop="20260309213000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-  </programme>
   <programme start="20260309213000 +0800" stop="20260309223000 +0800" channel="mbc action">
     <title lang="en">برنامج The Ride Life With Sung Kang</title>
   </programme>
@@ -186,11 +180,11 @@
   <programme start="20260312040000 +0800" stop="20260312053000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
-  <programme start="20260309183000 +0800" stop="20260309203000 +0800" channel="mbc max">
-    <title lang="en">Blended</title>
+  <programme start="20260312053000 +0800" stop="20260312063000 +0800" channel="mbc action">
+    <title lang="en">ابرز لقطات الدوري</title>
   </programme>
-  <programme start="20260309203000 +0800" stop="20260309210000 +0800" channel="mbc max">
-    <title lang="en">برنامج planet action</title>
+  <programme start="20260312063000 +0800" stop="20260312073000 +0800" channel="mbc action">
+    <title lang="en">الخميس</title>
   </programme>
   <programme start="20260309210000 +0800" stop="20260309223000 +0800" channel="mbc max">
     <title lang="en">Charlie St. Cloud</title>
@@ -315,8 +309,8 @@
   <programme start="20260312050000 +0800" stop="20260312065500 +0800" channel="mbc max">
     <title lang="en">A Million Little Pieces</title>
   </programme>
-  <programme start="20260309195500 +0800" stop="20260309215500 +0800" channel="mbc 2">
-    <title lang="en">Concussion</title>
+  <programme start="20260312065500 +0800" stop="20260312090000 +0800" channel="mbc max">
+    <title lang="en">State of Play</title>
   </programme>
   <programme start="20260309215500 +0800" stop="20260309233500 +0800" channel="mbc 2">
     <title lang="en">Reservation Road</title>
@@ -440,5 +434,8 @@
   </programme>
   <programme start="20260312040500 +0800" stop="20260312060000 +0800" channel="mbc 2">
     <title lang="en">Jack the Giant Slayer</title>
+  </programme>
+  <programme start="20260312060000 +0800" stop="20260312074000 +0800" channel="mbc 2">
+    <title lang="en">Goosebumps</title>
   </programme>
 </tv>
