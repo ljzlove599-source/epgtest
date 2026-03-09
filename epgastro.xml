@@ -379,6 +379,9 @@
 <channel id="Astro_Sports_Plus">
   <display-name lang="zh">Astro Sports Plus</display-name>
 </channel>
+<channel id="Astro_Sports_Plus_2">
+  <display-name lang="zh">Astro Sports Plus 2</display-name>
+</channel>
 <channel id="beIN_SPORTS_1">
   <display-name lang="zh">beIN SPORTS 1</display-name>
 </channel>
@@ -933,24 +936,16 @@
   <title lang="zh">(L) Berita Tengah Hari</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260310133000 +0800" stop="20260310142500 +0800" channel="TV1_HD">
+<programme start="20260310133000 +0800" stop="20260310141500 +0800" channel="TV1_HD">
   <title lang="zh">Aku Disisimu Ep22</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260310142500 +0800" stop="20260310143000 +0800" channel="TV1_HD">
-  <title lang="zh">Pengumuman Waktu Berbuka &amp; Imsak</title>
+<programme start="20260310141500 +0800" stop="20260310154500 +0800" channel="TV1_HD">
+  <title lang="zh">(L) Sambutan Hari Wanita Antarabangsa 2026</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260310143000 +0800" stop="20260310150000 +0800" channel="TV1_HD">
-  <title lang="zh">Cinta Nasi Ambeng S1 Ep10</title>
-  <desc lang="zh"> </desc>
-</programme>
-<programme start="20260310150000 +0800" stop="20260310150500 +0800" channel="TV1_HD">
-  <title lang="zh">(L) Berita Semasa</title>
-  <desc lang="zh"> </desc>
-</programme>
-<programme start="20260310150500 +0800" stop="20260310160000 +0800" channel="TV1_HD">
-  <title lang="zh">Kuppa Kopi 2025</title>
+<programme start="20260310154500 +0800" stop="20260310160000 +0800" channel="TV1_HD">
+  <title lang="zh">Warisan Ep11</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260310160000 +0800" stop="20260310160500 +0800" channel="TV1_HD">
@@ -3337,12 +3332,8 @@
   <title lang="zh">Tadarus on the Go Ep28</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260310230000 +0800" stop="20260310233000 +0800" channel="Al-Hijrah">
+<programme start="20260310230000 +0800" stop="20260310235000 +0800" channel="Al-Hijrah">
   <title lang="zh">Malam Seribu Bulan Ep01</title>
-  <desc lang="zh"> </desc>
-</programme>
-<programme start="20260310233000 +0800" stop="20260310235000 +0800" channel="Al-Hijrah">
-  <title lang="zh">Sembang More Ep12</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260309013000 +0800" stop="20260309030000 +0800" channel="Colors_Hindi_HD">
@@ -5997,11 +5988,11 @@
   <title lang="zh">Sandamarutham</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260309180000 +0800" stop="20260309183000 +0800" channel="SUN_TV_HD">
+<programme start="20260309180000 +0800" stop="20260309183100 +0800" channel="SUN_TV_HD">
   <title lang="zh">News</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260309183000 +0800" stop="20260309190000 +0800" channel="SUN_TV_HD">
+<programme start="20260309183100 +0800" stop="20260309190000 +0800" channel="SUN_TV_HD">
   <title lang="zh">Chellame Chellame Ep66</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -9213,15 +9204,15 @@
   <title lang="zh">News Treasury 2025 Ep292</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260310064000 +0800" stop="20260310071000 +0800" channel="TVB_Jade">
+<programme start="20260310064000 +0800" stop="20260310070900 +0800" channel="TVB_Jade">
   <title lang="zh">Scoop 2026 Ep68</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260310071000 +0800" stop="20260310081000 +0800" channel="TVB_Jade">
+<programme start="20260310070900 +0800" stop="20260310081300 +0800" channel="TVB_Jade">
   <title lang="zh">Good Morning Hong Kong and Global View Ep10</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260310081000 +0800" stop="20260310091000 +0800" channel="TVB_Jade">
+<programme start="20260310081300 +0800" stop="20260310091000 +0800" channel="TVB_Jade">
   <title lang="zh">The Kwoks and What Ep09</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -9233,15 +9224,15 @@
   <title lang="zh">Hands up Ep1612</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260310101000 +0800" stop="20260310104000 +0800" channel="TVB_Jade">
+<programme start="20260310101000 +0800" stop="20260310103600 +0800" channel="TVB_Jade">
   <title lang="zh">Game of Scholars Ep16</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260310104000 +0800" stop="20260310104500 +0800" channel="TVB_Jade">
+<programme start="20260310103600 +0800" stop="20260310104100 +0800" channel="TVB_Jade">
   <title lang="zh">What&apos;s On Today</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260310104500 +0800" stop="20260310111000 +0800" channel="TVB_Jade">
+<programme start="20260310104100 +0800" stop="20260310111000 +0800" channel="TVB_Jade">
   <title lang="zh">Gourmet Express Ep172</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -9253,31 +9244,31 @@
   <title lang="zh">Scoop 2026 Ep68</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260310124000 +0800" stop="20260310130500 +0800" channel="TVB_Jade">
+<programme start="20260310124000 +0800" stop="20260310130800 +0800" channel="TVB_Jade">
   <title lang="zh">Big Boys Club Ep2086</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260310130500 +0800" stop="20260310133000 +0800" channel="TVB_Jade">
+<programme start="20260310130800 +0800" stop="20260310133500 +0800" channel="TVB_Jade">
   <title lang="zh">Hands up Ep1612</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260310133000 +0800" stop="20260310141500 +0800" channel="TVB_Jade">
+<programme start="20260310133500 +0800" stop="20260310141600 +0800" channel="TVB_Jade">
   <title lang="zh">Big City Shop 2026 Ep1932</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260310141500 +0800" stop="20260310144000 +0800" channel="TVB_Jade">
+<programme start="20260310141600 +0800" stop="20260310144400 +0800" channel="TVB_Jade">
   <title lang="zh">Lo and Behold Ep2759</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260310144000 +0800" stop="20260310154000 +0800" channel="TVB_Jade">
+<programme start="20260310144400 +0800" stop="20260310153900 +0800" channel="TVB_Jade">
   <title lang="zh">The Imperial Coroner 2 Ep03</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260310154000 +0800" stop="20260310154500 +0800" channel="TVB_Jade">
+<programme start="20260310153900 +0800" stop="20260310154400 +0800" channel="TVB_Jade">
   <title lang="zh">What&apos;s On Today</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260310154500 +0800" stop="20260310161000 +0800" channel="TVB_Jade">
+<programme start="20260310154400 +0800" stop="20260310161000 +0800" channel="TVB_Jade">
   <title lang="zh">Game of Scholars Ep16</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -9301,35 +9292,43 @@
   <title lang="zh">News at 18:30 Ep10</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260310191000 +0800" stop="20260310194000 +0800" channel="TVB_Jade">
+<programme start="20260310191000 +0800" stop="20260310193600 +0800" channel="TVB_Jade">
   <title lang="zh">Gourmet Express Ep173</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260310194000 +0800" stop="20260310194500 +0800" channel="TVB_Jade">
+<programme start="20260310193600 +0800" stop="20260310194400 +0800" channel="TVB_Jade">
   <title lang="zh">What&apos;s On Today</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260310194500 +0800" stop="20260310201000 +0800" channel="TVB_Jade">
+<programme start="20260310194400 +0800" stop="20260310201100 +0800" channel="TVB_Jade">
   <title lang="zh">Scoop 2026 Ep69</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260310201000 +0800" stop="20260310204000 +0800" channel="TVB_Jade">
+<programme start="20260310201100 +0800" stop="20260310201300 +0800" channel="TVB_Jade">
+  <title lang="zh">Trick or Cheat Ep09</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310201300 +0800" stop="20260310201700 +0800" channel="TVB_Jade">
+  <title lang="zh">Trick or Cheat Ep10</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310201700 +0800" stop="20260310204600 +0800" channel="TVB_Jade">
   <title lang="zh">Lo and Behold Ep2760</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260310204000 +0800" stop="20260310214000 +0800" channel="TVB_Jade">
+<programme start="20260310204600 +0800" stop="20260310214300 +0800" channel="TVB_Jade">
   <title lang="zh">Pretty Dangerous Ep12</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260310214000 +0800" stop="20260310224000 +0800" channel="TVB_Jade">
+<programme start="20260310214300 +0800" stop="20260310224200 +0800" channel="TVB_Jade">
   <title lang="zh">The Imperial Coroner 2 Ep04</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260310224000 +0800" stop="20260310231000 +0800" channel="TVB_Jade">
+<programme start="20260310224200 +0800" stop="20260310231300 +0800" channel="TVB_Jade">
   <title lang="zh">Game of Scholars Ep17</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260310231000 +0800" stop="20260310232500 +0800" channel="TVB_Jade">
+<programme start="20260310231300 +0800" stop="20260310232500 +0800" channel="TVB_Jade">
   <title lang="zh">EXTRA Ep3970</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -15662,7 +15661,7 @@
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260309203000 +0800" stop="20260309210000 +0800" channel="Bernama_TV">
-  <title lang="zh">(L) Darah Muda</title>
+  <title lang="zh">Darah Muda</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260309210000 +0800" stop="20260309220000 +0800" channel="Bernama_TV">
@@ -30005,6 +30004,42 @@
   <title lang="zh">2025 Giants Live - Ep02</title>
   <desc lang="zh"> </desc>
 </programme>
+<programme start="20260309060000 +0800" stop="20260309120000 +0800" channel="Astro_Sports_Plus_2">
+  <title lang="zh">ATP 1000&apos;s Season 2026</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260309120000 +0800" stop="20260309180000 +0800" channel="Astro_Sports_Plus_2">
+  <title lang="zh">ATP 1000&apos;s Season 2026</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310000000 +0800" stop="20260310020000 +0800" channel="Astro_Sports_Plus_2">
+  <title lang="zh">ATP 1000&apos;s Season 2026</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310020000 +0800" stop="20260310130000 +0800" channel="Astro_Sports_Plus_2">
+  <title lang="zh">(L) ATP: Indian Wells 2026: Day 6</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310130000 +0800" stop="20260310133000 +0800" channel="Astro_Sports_Plus_2">
+  <title lang="zh">ATP 1000&apos;s Season 2026</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310133000 +0800" stop="20260310143000 +0800" channel="Astro_Sports_Plus_2">
+  <title lang="zh">ALMS: Sepang International Circuit HL 1</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310143000 +0800" stop="20260310153000 +0800" channel="Astro_Sports_Plus_2">
+  <title lang="zh">ALMS: Sepang International Circuit HL 2</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310153000 +0800" stop="20260310182000 +0800" channel="Astro_Sports_Plus_2">
+  <title lang="zh">(D) UCI Track World Cup Perth 2026: Day 1</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310182000 +0800" stop="20260310221000 +0800" channel="Astro_Sports_Plus_2">
+  <title lang="zh">(D) UCI Track World Cup Perth 2026: Day 2</title>
+  <desc lang="zh"> </desc>
+</programme>
 <programme start="20260309012500 +0800" stop="20260309034000 +0800" channel="beIN_SPORTS_1">
   <title lang="zh">(L) LaLiga : Sevilla Vs Rayo Vallecano</title>
   <desc lang="zh"> </desc>
@@ -30117,52 +30152,52 @@
   <title lang="zh">LaLiga Goals Galore 2024/25</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260310110000 +0800" stop="20260310125000 +0800" channel="beIN_SPORTS_1">
+<programme start="20260310110000 +0800" stop="20260310130000 +0800" channel="beIN_SPORTS_1">
   <title lang="zh">LaLiga 2 : Malaga Vs Valladolid</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260310125000 +0800" stop="20260310135000 +0800" channel="beIN_SPORTS_1">
+<programme start="20260310130000 +0800" stop="20260310140000 +0800" channel="beIN_SPORTS_1">
   <title lang="zh">FIA World Rally Championship 2026</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260310135000 +0800" stop="20260310142000 +0800" channel="beIN_SPORTS_1">
+<programme start="20260310140000 +0800" stop="20260310143000 +0800" channel="beIN_SPORTS_1">
   <title lang="zh">Going Pro 2026</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260310142000 +0800" stop="20260310145000 +0800" channel="beIN_SPORTS_1">
+<programme start="20260310143000 +0800" stop="20260310150000 +0800" channel="beIN_SPORTS_1">
   <title lang="zh">Gearing up 2026</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260310145000 +0800" stop="20260310150500 +0800" channel="beIN_SPORTS_1">
-  <title lang="zh">LaLiga Goals Galore 2024/25</title>
-  <desc lang="zh"> </desc>
-</programme>
-<programme start="20260310150500 +0800" stop="20260310153500 +0800" channel="beIN_SPORTS_1">
+<programme start="20260310150000 +0800" stop="20260310153000 +0800" channel="beIN_SPORTS_1">
   <title lang="zh">Mini Match - LaLiga : Celta Vigo Vs Real Madrid</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260310153500 +0800" stop="20260310160500 +0800" channel="beIN_SPORTS_1">
+<programme start="20260310153000 +0800" stop="20260310160000 +0800" channel="beIN_SPORTS_1">
   <title lang="zh">Mini Match - LaLiga : Athletic Bilbao Vs Barcelona</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260310160500 +0800" stop="20260310175500 +0800" channel="beIN_SPORTS_1">
+<programme start="20260310160000 +0800" stop="20260310175000 +0800" channel="beIN_SPORTS_1">
   <title lang="zh">LaLiga : Villarreal Vs Elche</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260310175500 +0800" stop="20260310183000 +0800" channel="beIN_SPORTS_1">
+<programme start="20260310175000 +0800" stop="20260310182500 +0800" channel="beIN_SPORTS_1">
   <title lang="zh">Formula 1 Highlights 2026</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260310183000 +0800" stop="20260310202000 +0800" channel="beIN_SPORTS_1">
+<programme start="20260310182500 +0800" stop="20260310201500 +0800" channel="beIN_SPORTS_1">
   <title lang="zh">LaLiga : Sevilla Vs Rayo Vallecano</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260310202000 +0800" stop="20260310221000 +0800" channel="beIN_SPORTS_1">
+<programme start="20260310201500 +0800" stop="20260310220500 +0800" channel="beIN_SPORTS_1">
   <title lang="zh">LaLiga : Athletic Bilbao Vs Barcelona</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260310221000 +0800" stop="20260310230000 +0800" channel="beIN_SPORTS_1">
+<programme start="20260310220500 +0800" stop="20260310225500 +0800" channel="beIN_SPORTS_1">
   <title lang="zh">FIA Formula 3 Championship Feature Race 2026</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260310225500 +0800" stop="20260310235500 +0800" channel="beIN_SPORTS_1">
+  <title lang="zh">FIA Formula 2 Championship Feature Race 2026</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260309000000 +0800" stop="20260309012500 +0800" channel="beIN_SPORTS_2">
