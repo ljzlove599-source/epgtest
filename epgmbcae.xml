@@ -9,15 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260310000000 +0800" stop="20260310010000 +0800" channel="mbc action">
-    <title lang="en">برنامج Celebrity Car Wars</title>
-  </programme>
-  <programme start="20260310010000 +0800" stop="20260310020000 +0800" channel="mbc action">
-    <title lang="en">برنامج action bodcast</title>
-  </programme>
-  <programme start="20260310020000 +0800" stop="20260310023000 +0800" channel="mbc action">
-    <title lang="en">Fate/Zero</title>
-  </programme>
   <programme start="20260310023000 +0800" stop="20260310040000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
@@ -189,8 +180,11 @@
   <programme start="20260312100000 +0800" stop="20260312103000 +0800" channel="mbc action">
     <title lang="en">Fate/Zero</title>
   </programme>
-  <programme start="20260310001800 +0800" stop="20260310010000 +0800" channel="mbc max">
-    <title lang="en">برنامج making the movies</title>
+  <programme start="20260312103000 +0800" stop="20260312120000 +0800" channel="mbc action">
+    <title lang="en">Action Ma' Waleed</title>
+  </programme>
+  <programme start="20260312120000 +0800" stop="20260312130000 +0800" channel="mbc action">
+    <title lang="en">بودكاست ملح الدوري</title>
   </programme>
   <programme start="20260310010000 +0800" stop="20260310030000 +0800" channel="mbc max">
     <title lang="en">Welcome to Marwen</title>
@@ -309,11 +303,8 @@
   <programme start="20260312090000 +0800" stop="20260312103000 +0800" channel="mbc max">
     <title lang="en">Eastern Promises</title>
   </programme>
-  <programme start="20260310000000 +0800" stop="20260310014000 +0800" channel="mbc 2">
-    <title lang="en">Winter's Bone</title>
-  </programme>
-  <programme start="20260310014000 +0800" stop="20260310020500 +0800" channel="mbc 2">
-    <title lang="en">Action Zone</title>
+  <programme start="20260312103000 +0800" stop="20260312123000 +0800" channel="mbc max">
+    <title lang="en">Roman J Israel, Esq.</title>
   </programme>
   <programme start="20260310020500 +0800" stop="20260310033500 +0800" channel="mbc 2">
     <title lang="en">Into the Storm</title>
@@ -440,5 +431,8 @@
   </programme>
   <programme start="20260312100000 +0800" stop="20260312122500 +0800" channel="mbc 2">
     <title lang="en">The Revenant</title>
+  </programme>
+  <programme start="20260312122500 +0800" stop="20260312140000 +0800" channel="mbc 2">
+    <title lang="en">Adrift</title>
   </programme>
 </tv>
