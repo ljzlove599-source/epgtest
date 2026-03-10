@@ -9,12 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260310173000 +0800" stop="20260310190000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-  </programme>
-  <programme start="20260310190000 +0800" stop="20260310200000 +0800" channel="mbc action">
-    <title lang="en">برنامجcar issuse</title>
-  </programme>
   <programme start="20260310200000 +0800" stop="20260310210000 +0800" channel="mbc action">
     <title lang="en">Fate/Zero</title>
   </programme>
@@ -183,14 +177,11 @@
   <programme start="20260313023000 +0800" stop="20260313040000 +0800" channel="mbc action">
     <title lang="en">بودكاست ملح الدوري</title>
   </programme>
-  <programme start="20260310163000 +0800" stop="20260310183000 +0800" channel="mbc max">
-    <title lang="en">Welcome to Marwen</title>
+  <programme start="20260313040000 +0800" stop="20260313053000 +0800" channel="mbc action">
+    <title lang="en">Action Ma' Waleed</title>
   </programme>
-  <programme start="20260310183000 +0800" stop="20260310190000 +0800" channel="mbc max">
-    <title lang="en">برنامج planet action</title>
-  </programme>
-  <programme start="20260310190000 +0800" stop="20260310203000 +0800" channel="mbc max">
-    <title lang="en">Seberg</title>
+  <programme start="20260313053000 +0800" stop="20260313063000 +0800" channel="mbc action">
+    <title lang="en">برنامج ارض المليون</title>
   </programme>
   <programme start="20260310203000 +0800" stop="20260310210000 +0800" channel="mbc max">
     <title lang="en">برنامج world of movies</title>
@@ -294,11 +285,8 @@
   <programme start="20260313030000 +0800" stop="20260313050000 +0800" channel="mbc max">
     <title lang="en">In the Earth</title>
   </programme>
-  <programme start="20260310173500 +0800" stop="20260310180000 +0800" channel="mbc 2">
-    <title lang="en">Films &amp; Stars</title>
-  </programme>
-  <programme start="20260310180000 +0800" stop="20260310202500 +0800" channel="mbc 2">
-    <title lang="en">A Few Good Men</title>
+  <programme start="20260313050000 +0800" stop="20260313070000 +0800" channel="mbc max">
+    <title lang="en">47 Meters Down: Uncaged</title>
   </programme>
   <programme start="20260310202500 +0800" stop="20260310220000 +0800" channel="mbc 2">
     <title lang="en">Ace Ventura: When Nature Calls</title>
@@ -407,5 +395,8 @@
   </programme>
   <programme start="20260313023000 +0800" stop="20260313043000 +0800" channel="mbc 2">
     <title lang="en">Ender's Game</title>
+  </programme>
+  <programme start="20260313043000 +0800" stop="20260313070000 +0800" channel="mbc 2">
+    <title lang="en">Ready Player One</title>
   </programme>
 </tv>
