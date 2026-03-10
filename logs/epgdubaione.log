@@ -1,7 +1,7 @@
 页面 1 日期: Mar 10, 2026, 节目数量: 19
 页面 2 日期: Mar 11, 2026, 节目数量: 20
-页面 3 日期: Mar 12, 2026, 节目数量: 10
-页面 4 日期: Mar 13, 2026, 节目数量: 10
+页面 3 日期: Mar 12, 2026, 节目数量: 20
+页面 4 日期: Mar 13, 2026, 节目数量: 18
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "http://api.torrent-tv.ru/xmltv.dtd">
 <tv generator-info-name="http://192.168.10.1/system/opt/" generator-info-url="QQ">
@@ -152,17 +152,28 @@
     <title lang="en">2 Good 2 Be True</title>
     <desc lang="en">Car mechanic Eloy makes a terrible first impression on Ali, who works for a real estate magnate.</desc>
   </programme>
-  <programme start="20260311223000 +0400" stop="20260312023000 +0400" channel="Dubai One">
+  <programme start="20260311223000 +0400" stop="20260312003000 +0400" channel="Dubai One">
     <title lang="en">Second Act</title>
     <desc lang="en">Her talent was real. Her resume was not.</desc>
+  </programme>
+  <programme start="20260312003000 +0400" stop="20260312023000 +0400" channel="Dubai One">
+    <title lang="en">Edge of the World</title>
   </programme>
   <programme start="20260312023000 +0400" stop="20260312030000 +0400" channel="Dubai One">
     <title lang="en">Emirates News Emirates News</title>
     <desc lang="en">Be the First to Know.</desc>
   </programme>
-  <programme start="20260312030000 +0400" stop="20260312063000 +0400" channel="Dubai One">
+  <programme start="20260312030000 +0400" stop="20260312040000 +0400" channel="Dubai One">
     <title lang="en">2 Good 2 Be True</title>
     <desc lang="en">Car mechanic Eloy makes a terrible first impression on Ali, who works for a real estate magnate.</desc>
+  </programme>
+  <programme start="20260312040000 +0400" stop="20260312060000 +0400" channel="Dubai One">
+    <title lang="en">Second Act</title>
+    <desc lang="en">Her talent was real. Her resume was not.</desc>
+  </programme>
+  <programme start="20260312060000 +0400" stop="20260312063000 +0400" channel="Dubai One">
+    <title lang="en">Hollywood on Set</title>
+    <desc lang="en">The making of blockbuster movies</desc>
   </programme>
   <programme start="20260312063000 +0400" stop="20260312070000 +0400" channel="Dubai One">
     <title lang="en">Duroob S13</title>
@@ -171,35 +182,70 @@
     <title lang="en">Dubai Eye Live</title>
     <desc lang="en">Magazine show featuring news and current affairs</desc>
   </programme>
-  <programme start="20260312100000 +0400" stop="20260312153000 +0400" channel="Dubai One">
+  <programme start="20260312100000 +0400" stop="20260312110000 +0400" channel="Dubai One">
     <title lang="en">2 Good 2 Be True</title>
     <desc lang="en">Car mechanic Eloy makes a terrible first impression on Ali, who works for a real estate magnate.</desc>
+  </programme>
+  <programme start="20260312110000 +0400" stop="20260312130000 +0400" channel="Dubai One">
+    <title lang="en">Pawn Sacrifice</title>
+    <desc lang="en">In his mind he fought his madness.</desc>
+  </programme>
+  <programme start="20260312130000 +0400" stop="20260312150000 +0400" channel="Dubai One">
+    <title lang="en">Second Act</title>
+    <desc lang="en">Her talent was real. Her resume was not.</desc>
+  </programme>
+  <programme start="20260312150000 +0400" stop="20260312153000 +0400" channel="Dubai One">
+    <title lang="en">Hollywood on Set</title>
+    <desc lang="en">The making of blockbuster movies</desc>
   </programme>
   <programme start="20260312153000 +0400" stop="20260312160000 +0400" channel="Dubai One">
     <title lang="en">Duroob S13</title>
   </programme>
-  <programme start="20260312160000 +0400" stop="20260312200000 +0400" channel="Dubai One">
+  <programme start="20260312160000 +0400" stop="20260312170000 +0400" channel="Dubai One">
     <title lang="en">2 Good 2 Be True</title>
     <desc lang="en">Car mechanic Eloy makes a terrible first impression on Ali, who works for a real estate magnate.</desc>
   </programme>
-  <programme start="20260312200000 +0400" stop="20260312210000 +0400" channel="Dubai One">
+  <programme start="20260312170000 +0400" stop="20260312190000 +0400" channel="Dubai One">
+    <title lang="en">Edge of the World</title>
+  </programme>
+  <programme start="20260312190000 +0400" stop="20260312200000 +0400" channel="Dubai One">
+    <title lang="en">Prelude of Revenge</title>
+    <desc lang="en">Two friends bound by a traumatic past experience!</desc>
+  </programme>
+  <programme start="20260312200000 +0400" stop="20260312203000 +0400" channel="Dubai One">
     <title lang="en">Emirates News Emirates News</title>
     <desc lang="en">Be the First to Know.</desc>
+  </programme>
+  <programme start="20260312203000 +0400" stop="20260312210000 +0400" channel="Dubai One">
+    <title lang="en">Hollywood News Feed</title>
+    <desc lang="en">Hottest entertainment news of the week!</desc>
   </programme>
   <programme start="20260312210000 +0400" stop="20260312213000 +0400" channel="Dubai One">
     <title lang="en">Duroob S13</title>
   </programme>
-  <programme start="20260312213000 +0400" stop="20260313023000 +0400" channel="Dubai One">
+  <programme start="20260312213000 +0400" stop="20260312223000 +0400" channel="Dubai One">
     <title lang="en">2 Good 2 Be True</title>
     <desc lang="en">Car mechanic Eloy makes a terrible first impression on Ali, who works for a real estate magnate.</desc>
+  </programme>
+  <programme start="20260312223000 +0400" stop="20260313023000 +0400" channel="Dubai One">
+    <title lang="en">Prey</title>
+    <desc lang="en">The Hunt Begins</desc>
   </programme>
   <programme start="20260313023000 +0400" stop="20260313030000 +0400" channel="Dubai One">
     <title lang="en">Emirates News Emirates News</title>
     <desc lang="en">Be the First to Know.</desc>
   </programme>
-  <programme start="20260313030000 +0400" stop="20260313063000 +0400" channel="Dubai One">
+  <programme start="20260313030000 +0400" stop="20260313040000 +0400" channel="Dubai One">
     <title lang="en">2 Good 2 Be True</title>
     <desc lang="en">Car mechanic Eloy makes a terrible first impression on Ali, who works for a real estate magnate.</desc>
+  </programme>
+  <programme start="20260313040000 +0400" stop="20260313060000 +0400" channel="Dubai One">
+    <title lang="en">Prey</title>
+    <desc lang="en">The Hunt Begins</desc>
+  </programme>
+  <programme start="20260313060000 +0400" stop="20260313063000 +0400" channel="Dubai One">
+    <title lang="en">Hollywood News Feed</title>
+    <desc lang="en">Hottest entertainment news of the week!</desc>
   </programme>
   <programme start="20260313063000 +0400" stop="20260313070000 +0400" channel="Dubai One">
     <title lang="en">Duroob S13</title>
@@ -208,20 +254,42 @@
     <title lang="en">Dubai Eye Live</title>
     <desc lang="en">Magazine show featuring news and current affairs</desc>
   </programme>
-  <programme start="20260313100000 +0400" stop="20260313153000 +0400" channel="Dubai One">
+  <programme start="20260313100000 +0400" stop="20260313110000 +0400" channel="Dubai One">
     <title lang="en">2 Good 2 Be True</title>
     <desc lang="en">Car mechanic Eloy makes a terrible first impression on Ali, who works for a real estate magnate.</desc>
+  </programme>
+  <programme start="20260313110000 +0400" stop="20260313130000 +0400" channel="Dubai One">
+    <title lang="en">Edge of the World</title>
+  </programme>
+  <programme start="20260313130000 +0400" stop="20260313150000 +0400" channel="Dubai One">
+    <title lang="en">Prey</title>
+    <desc lang="en">The Hunt Begins</desc>
+  </programme>
+  <programme start="20260313150000 +0400" stop="20260313153000 +0400" channel="Dubai One">
+    <title lang="en">Hollywood News Feed</title>
+    <desc lang="en">Hottest entertainment news of the week!</desc>
   </programme>
   <programme start="20260313153000 +0400" stop="20260313160000 +0400" channel="Dubai One">
     <title lang="en">Duroob S13</title>
   </programme>
-  <programme start="20260313160000 +0400" stop="20260313200000 +0400" channel="Dubai One">
+  <programme start="20260313160000 +0400" stop="20260313170000 +0400" channel="Dubai One">
     <title lang="en">2 Good 2 Be True</title>
     <desc lang="en">Car mechanic Eloy makes a terrible first impression on Ali, who works for a real estate magnate.</desc>
   </programme>
-  <programme start="20260313200000 +0400" stop="20260313210000 +0400" channel="Dubai One">
+  <programme start="20260313170000 +0400" stop="20260313190000 +0400" channel="Dubai One">
+    <title lang="en">Vengeance: A Love Story</title>
+    <desc lang="en">Beyond good and evil is Justice.</desc>
+  </programme>
+  <programme start="20260313190000 +0400" stop="20260313200000 +0400" channel="Dubai One">
+    <title lang="en">Grand Designs</title>
+  </programme>
+  <programme start="20260313200000 +0400" stop="20260313203000 +0400" channel="Dubai One">
     <title lang="en">Emirates News Emirates News</title>
     <desc lang="en">Be the First to Know.</desc>
+  </programme>
+  <programme start="20260313203000 +0400" stop="20260313210000 +0400" channel="Dubai One">
+    <title lang="en">Hollywood News Feed</title>
+    <desc lang="en">Hottest entertainment news of the week!</desc>
   </programme>
   <programme start="20260313210000 +0400" stop="20260313213000 +0400" channel="Dubai One">
     <title lang="en">Duroob S13</title>
