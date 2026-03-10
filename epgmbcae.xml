@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260311020000 +0800" stop="20260311030000 +0800" channel="mbc action">
-    <title lang="en">برنامج action bodcast</title>
-  </programme>
   <programme start="20260311030000 +0800" stop="20260311040000 +0800" channel="mbc action">
     <title lang="en">بودكاست ملح الدوري</title>
   </programme>
@@ -162,9 +159,6 @@
   <programme start="20260313053000 +0800" stop="20260313063000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
   </programme>
-  <programme start="20260311010000 +0800" stop="20260311030000 +0800" channel="mbc max">
-    <title lang="en">Roman J Israel, Esq.</title>
-  </programme>
   <programme start="20260311030000 +0800" stop="20260311043000 +0800" channel="mbc max">
     <title lang="en">Eastern Promises</title>
   </programme>
@@ -266,6 +260,9 @@
   </programme>
   <programme start="20260313103000 +0800" stop="20260313123000 +0800" channel="mbc max">
     <title lang="en">The Girl on the Train</title>
+  </programme>
+  <programme start="20260313123000 +0800" stop="20260313143000 +0800" channel="mbc max">
+    <title lang="en">One Day</title>
   </programme>
   <programme start="20260311013500 +0800" stop="20260311040000 +0800" channel="mbc 2">
     <title lang="en">First Man</title>
@@ -374,5 +371,8 @@
   </programme>
   <programme start="20260313103000 +0800" stop="20260313123000 +0800" channel="mbc 2">
     <title lang="en">Jack the Giant Slayer</title>
+  </programme>
+  <programme start="20260313123000 +0800" stop="20260313140000 +0800" channel="mbc 2">
+    <title lang="en">The Flintstones</title>
   </programme>
 </tv>
