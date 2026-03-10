@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260310050000 +0800" stop="20260310060000 +0800" channel="mbc action">
-    <title lang="en">برنامج cars &amp; stars</title>
-  </programme>
   <programme start="20260310060000 +0800" stop="20260310073000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
@@ -186,8 +183,8 @@
   <programme start="20260312140000 +0800" stop="20260312153000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
-  <programme start="20260310050000 +0800" stop="20260310063000 +0800" channel="mbc max">
-    <title lang="en">Seberg</title>
+  <programme start="20260312153000 +0800" stop="20260312163000 +0800" channel="mbc action">
+    <title lang="en">برنامج Accelerate</title>
   </programme>
   <programme start="20260310063000 +0800" stop="20260310070000 +0800" channel="mbc max">
     <title lang="en">برنامج celebrity scoopy 9</title>
@@ -428,5 +425,8 @@
   </programme>
   <programme start="20260312140000 +0800" stop="20260312160000 +0800" channel="mbc 2">
     <title lang="en">Life of Pi</title>
+  </programme>
+  <programme start="20260312160000 +0800" stop="20260312173000 +0800" channel="mbc 2">
+    <title lang="en">The Croods: A New Age</title>
   </programme>
 </tv>
