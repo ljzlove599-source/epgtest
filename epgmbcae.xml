@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260311200000 +0800" stop="20260311210000 +0800" channel="mbc action">
-    <title lang="en">Fate/Zero</title>
-  </programme>
   <programme start="20260311210000 +0800" stop="20260311220000 +0800" channel="mbc action">
     <title lang="en">برنامجcar issuse</title>
   </programme>
@@ -207,8 +204,8 @@
   <programme start="20260314050000 +0800" stop="20260314070000 +0800" channel="mbc max">
     <title lang="en">Love Happens</title>
   </programme>
-  <programme start="20260311200000 +0800" stop="20260311213500 +0800" channel="mbc 2">
-    <title lang="en">Gravity</title>
+  <programme start="20260314070000 +0800" stop="20260314090000 +0800" channel="mbc max">
+    <title lang="en">Chasing Mavericks</title>
   </programme>
   <programme start="20260311213500 +0800" stop="20260311220000 +0800" channel="mbc 2">
     <title lang="en">برنامج celebrity scoop 9</title>
@@ -305,5 +302,8 @@
   </programme>
   <programme start="20260314040000 +0800" stop="20260314063000 +0800" channel="mbc 2">
     <title lang="en">The Suicide Squad</title>
+  </programme>
+  <programme start="20260314063000 +0800" stop="20260314083000 +0800" channel="mbc 2">
+    <title lang="en">The Green Hornet</title>
   </programme>
 </tv>
