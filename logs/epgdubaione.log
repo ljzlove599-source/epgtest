@@ -1,84 +1,13 @@
-页面 1 日期: Mar 10, 2026, 节目数量: 19
-页面 2 日期: Mar 11, 2026, 节目数量: 20
-页面 3 日期: Mar 12, 2026, 节目数量: 20
-页面 4 日期: Mar 13, 2026, 节目数量: 20
+页面 1 日期: Mar 11, 2026, 节目数量: 20
+页面 2 日期: Mar 12, 2026, 节目数量: 20
+页面 3 日期: Mar 13, 2026, 节目数量: 20
+页面 4 日期: Mar 14, 2026, 节目数量: 16
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "http://api.torrent-tv.ru/xmltv.dtd">
 <tv generator-info-name="http://192.168.10.1/system/opt/" generator-info-url="QQ">
   <channel id="Dubai One">
     <display-name lang="en">Dubai One</display-name>
   </channel>
-  <programme start="20260310003000 +0400" stop="20260310023000 +0400" channel="Dubai One">
-    <title lang="en">Die Hard</title>
-    <desc lang="en">A New York City cop gets trapped in a Los Angeles high-rise occupied by terrorists on Christmas Eve.</desc>
-  </programme>
-  <programme start="20260310023000 +0400" stop="20260310030000 +0400" channel="Dubai One">
-    <title lang="en">Emirates News Emirates News</title>
-    <desc lang="en">Be the First to Know.</desc>
-  </programme>
-  <programme start="20260310030000 +0400" stop="20260310040000 +0400" channel="Dubai One">
-    <title lang="en">2 Good 2 Be True</title>
-    <desc lang="en">Car mechanic Eloy makes a terrible first impression on Ali, who works for a real estate magnate.</desc>
-  </programme>
-  <programme start="20260310040000 +0400" stop="20260310060000 +0400" channel="Dubai One">
-    <title lang="en">The Infiltrator</title>
-    <desc lang="en">The true story of one man against the biggest drug cartel in history</desc>
-  </programme>
-  <programme start="20260310060000 +0400" stop="20260310063000 +0400" channel="Dubai One">
-    <title lang="en">Reaching For The Stars</title>
-  </programme>
-  <programme start="20260310063000 +0400" stop="20260310070000 +0400" channel="Dubai One">
-    <title lang="en">Duroob S13</title>
-  </programme>
-  <programme start="20260310070000 +0400" stop="20260310100000 +0400" channel="Dubai One">
-    <title lang="en">Dubai Eye Live</title>
-    <desc lang="en">Magazine show featuring news and current affairs</desc>
-  </programme>
-  <programme start="20260310100000 +0400" stop="20260310110000 +0400" channel="Dubai One">
-    <title lang="en">2 Good 2 Be True</title>
-    <desc lang="en">Car mechanic Eloy makes a terrible first impression on Ali, who works for a real estate magnate.</desc>
-  </programme>
-  <programme start="20260310110000 +0400" stop="20260310130000 +0400" channel="Dubai One">
-    <title lang="en">My Spy</title>
-    <desc lang="en">He's a Pro. She's a Natural.</desc>
-  </programme>
-  <programme start="20260310130000 +0400" stop="20260310150000 +0400" channel="Dubai One">
-    <title lang="en">The Infiltrator</title>
-    <desc lang="en">The true story of one man against the biggest drug cartel in history</desc>
-  </programme>
-  <programme start="20260310150000 +0400" stop="20260310153000 +0400" channel="Dubai One">
-    <title lang="en">Reaching For The Stars</title>
-  </programme>
-  <programme start="20260310153000 +0400" stop="20260310160000 +0400" channel="Dubai One">
-    <title lang="en">Duroob S13</title>
-  </programme>
-  <programme start="20260310160000 +0400" stop="20260310170000 +0400" channel="Dubai One">
-    <title lang="en">2 Good 2 Be True</title>
-    <desc lang="en">Car mechanic Eloy makes a terrible first impression on Ali, who works for a real estate magnate.</desc>
-  </programme>
-  <programme start="20260310170000 +0400" stop="20260310190000 +0400" channel="Dubai One">
-    <title lang="en">Die Hard</title>
-    <desc lang="en">A New York City cop gets trapped in a Los Angeles high-rise occupied by terrorists on Christmas Eve.</desc>
-  </programme>
-  <programme start="20260310190000 +0400" stop="20260310200000 +0400" channel="Dubai One">
-    <title lang="en">Homegrown DXB</title>
-    <desc lang="en">Home Grown Dubai will highlight the businesses and people who are not only making a difference in our country but across the world.</desc>
-  </programme>
-  <programme start="20260310200000 +0400" stop="20260310210000 +0400" channel="Dubai One">
-    <title lang="en">Emirates News Emirates News</title>
-    <desc lang="en">Be the First to Know.</desc>
-  </programme>
-  <programme start="20260310210000 +0400" stop="20260310213000 +0400" channel="Dubai One">
-    <title lang="en">Duroob S13</title>
-  </programme>
-  <programme start="20260310213000 +0400" stop="20260310223000 +0400" channel="Dubai One">
-    <title lang="en">2 Good 2 Be True</title>
-    <desc lang="en">Car mechanic Eloy makes a terrible first impression on Ali, who works for a real estate magnate.</desc>
-  </programme>
-  <programme start="20260310223000 +0400" stop="20260311003000 +0400" channel="Dubai One">
-    <title lang="en">The Man Who Knew Infinity</title>
-    <desc lang="en">Great knowledge comes from the humblest of origins</desc>
-  </programme>
   <programme start="20260311003000 +0400" stop="20260311023000 +0400" channel="Dubai One">
     <title lang="en">Pawn Sacrifice</title>
     <desc lang="en">In his mind he fought his madness.</desc>
@@ -302,8 +231,68 @@
     <title lang="en">2 Good 2 Be True</title>
     <desc lang="en">Car mechanic Eloy makes a terrible first impression on Ali, who works for a real estate magnate.</desc>
   </programme>
-  <programme start="20260313223000 +0400" stop="20260314000000 +0400" channel="Dubai One">
+  <programme start="20260313223000 +0400" stop="20260314003000 +0400" channel="Dubai One">
     <title lang="en">London Has Fallen</title>
     <desc lang="en">The world's leaders have assembled. So have their enemies.</desc>
+  </programme>
+  <programme start="20260314003000 +0400" stop="20260314023000 +0400" channel="Dubai One">
+    <title lang="en">The Divergent Series: Insurgent</title>
+    <desc lang="en">One Choice Can Destroy You</desc>
+  </programme>
+  <programme start="20260314023000 +0400" stop="20260314030000 +0400" channel="Dubai One">
+    <title lang="en">Emirates News Emirates News</title>
+    <desc lang="en">Be the First to Know.</desc>
+  </programme>
+  <programme start="20260314030000 +0400" stop="20260314040000 +0400" channel="Dubai One">
+    <title lang="en">2 Good 2 Be True</title>
+    <desc lang="en">Car mechanic Eloy makes a terrible first impression on Ali, who works for a real estate magnate.</desc>
+  </programme>
+  <programme start="20260314040000 +0400" stop="20260314060000 +0400" channel="Dubai One">
+    <title lang="en">London Has Fallen</title>
+    <desc lang="en">The world's leaders have assembled. So have their enemies.</desc>
+  </programme>
+  <programme start="20260314060000 +0400" stop="20260314080000 +0400" channel="Dubai One">
+    <title lang="en">Vengeance: A Love Story</title>
+    <desc lang="en">Beyond good and evil is Justice.</desc>
+  </programme>
+  <programme start="20260314080000 +0400" stop="20260314083000 +0400" channel="Dubai One">
+    <title lang="en">City of Summits</title>
+  </programme>
+  <programme start="20260314083000 +0400" stop="20260314123000 +0400" channel="Dubai One">
+    <title lang="en">2 Good 2 Be True</title>
+    <desc lang="en">Car mechanic Eloy makes a terrible first impression on Ali, who works for a real estate magnate.</desc>
+  </programme>
+  <programme start="20260314123000 +0400" stop="20260314143000 +0400" channel="Dubai One">
+    <title lang="en">London Has Fallen</title>
+    <desc lang="en">The world's leaders have assembled. So have their enemies.</desc>
+  </programme>
+  <programme start="20260314143000 +0400" stop="20260314153000 +0400" channel="Dubai One">
+    <title lang="en">Prelude of Revenge</title>
+    <desc lang="en">Two friends bound by a traumatic past experience!</desc>
+  </programme>
+  <programme start="20260314153000 +0400" stop="20260314160000 +0400" channel="Dubai One">
+    <title lang="en">Duroob S13</title>
+  </programme>
+  <programme start="20260314160000 +0400" stop="20260314180000 +0400" channel="Dubai One">
+    <title lang="en">The Divergent Series: Insurgent</title>
+    <desc lang="en">One Choice Can Destroy You</desc>
+  </programme>
+  <programme start="20260314180000 +0400" stop="20260314200000 +0400" channel="Dubai One">
+    <title lang="en">Smurfs: The Lost Village</title>
+    <desc lang="en">Small is big.</desc>
+  </programme>
+  <programme start="20260314200000 +0400" stop="20260314210000 +0400" channel="Dubai One">
+    <title lang="en">Homegrown DXB</title>
+    <desc lang="en">Home Grown Dubai will highlight the businesses and people who are not only making a difference in our country but across the world.</desc>
+  </programme>
+  <programme start="20260314210000 +0400" stop="20260314213000 +0400" channel="Dubai One">
+    <title lang="en">Duroob S13</title>
+  </programme>
+  <programme start="20260314213000 +0400" stop="20260314223000 +0400" channel="Dubai One">
+    <title lang="en">Prelude of Revenge</title>
+    <desc lang="en">Two friends bound by a traumatic past experience!</desc>
+  </programme>
+  <programme start="20260314223000 +0400" stop="20260315000000 +0400" channel="Dubai One">
+    <title lang="en">The Boy Behind the Door</title>
   </programme>
 </tv>
