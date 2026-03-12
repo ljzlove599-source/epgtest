@@ -6888,9 +6888,6 @@
   <programme start="20260314070000 +0800" stop="20260314080000 +0800" channel="中天北美臺">
     <title lang="zh">週末大爆卦(上) (Live)</title>
   </programme>
-  <programme start="20260312153000 +0800" stop="20260312163000 +0800" channel="mbc action">
-    <title lang="en">برنامج Accelerate</title>
-  </programme>
   <programme start="20260312163000 +0800" stop="20260312173000 +0800" channel="mbc action">
     <title lang="en">Fate/Zero</title>
   </programme>
@@ -6929,9 +6926,6 @@
   </programme>
   <programme start="20260313053000 +0800" stop="20260313063000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
-  </programme>
-  <programme start="20260312143000 +0800" stop="20260312163000 +0800" channel="mbc max">
-    <title lang="en">Thoroughbreds</title>
   </programme>
   <programme start="20260312163000 +0800" stop="20260312183000 +0800" channel="mbc max">
     <title lang="en">Alice, Darling</title>
@@ -7020,9 +7014,6 @@
   <programme start="20260315010000 +0800" stop="20260315030000 +0800" channel="mbc max">
     <title lang="en">Legacy of Lies</title>
   </programme>
-  <programme start="20260312140000 +0800" stop="20260312160000 +0800" channel="mbc 2">
-    <title lang="en">Life of Pi</title>
-  </programme>
   <programme start="20260312160000 +0800" stop="20260312173000 +0800" channel="mbc 2">
     <title lang="en">The Croods: A New Age</title>
   </programme>
@@ -7103,6 +7094,9 @@
   </programme>
   <programme start="20260315000000 +0800" stop="20260315020000 +0800" channel="mbc 2">
     <title lang="en">Paul Blart: Mall Cop</title>
+  </programme>
+  <programme start="20260315020000 +0800" stop="20260315040000 +0800" channel="mbc 2">
+    <title lang="en">Paul Blart: Mall Cop 2</title>
   </programme>
   <programme start="20260312003000 +0400" stop="20260312023000 +0400" channel="Dubai One">
     <title lang="en">Edge of the World</title>
@@ -7448,13 +7442,13 @@
     <title lang="en">The King of Tears, Lee Bangwon Ep.10</title>
   </programme>
   <programme start="20260312180000 +0900" stop="20260312185500 +0900" channel="KBSWorld">
-    <title lang="en">The King of Tears, Lee Bangwon Ep.11 [LIVE]</title>
+    <title lang="en">The King of Tears, Lee Bangwon Ep.11</title>
   </programme>
   <programme start="20260312185500 +0900" stop="20260312191000 +0900" channel="KBSWorld">
     <title lang="en">My Run, My Way Ep.12</title>
   </programme>
   <programme start="20260312191000 +0900" stop="20260312192500 +0900" channel="KBSWorld">
-    <title lang="en">The Seasons W</title>
+    <title lang="en">The Seasons W [LIVE]</title>
   </programme>
   <programme start="20260312192500 +0900" stop="20260312203500 +0900" channel="KBSWorld">
     <title lang="en">Problem Child in House Ep.43</title>
@@ -68646,13 +68640,25 @@
     <title lang="zh">電影《拼桌》首映禮映後互動</title>
     <desc lang="zh">電影《拼桌》首映禮映後互動 </desc>
   </programme>
-  <programme start="20260312160000 +0800" stop="20260312170000 +0800" channel="第一財經直播">
-    <title lang="zh">直播丨十四屆全國人大四次會議第三場“部長通道”集中採訪活動</title>
-    <desc lang="zh"> 2026年3月12日下午閉幕會後，在人民大會堂北大廳舉行十四屆全國人大四次會議第三場“部長通道”集中採訪活動，邀請部分列席會議的國務院有關部門主要負責人接受採訪。</desc>
+  <programme start="20260313100000 +0800" stop="20260313110000 +0800" channel="看看新聞直播">
+    <title lang="zh">上海市公安局新聞發佈會｜通報上海警方嚴厲打擊侵害金融消費者權益違法犯罪有關情況</title>
+    <desc lang="zh">上海市公安局新聞發佈會｜通報上海警方嚴厲打擊侵害金融消費者權益違法犯罪有關情況 </desc>
+  </programme>
+  <programme start="20260321140000 +0800" stop="20260321150000 +0800" channel="第一財經直播">
+    <title lang="zh">直播丨爲您·預見-寧波銀行2026年春季投策會</title>
+    <desc lang="zh"> 春風送暖，萬物向新，回望開年以來，中國經濟穩中有進，全國兩會定調高質量發展，資本市場機遇與波動並存，2026年後市又將如何展望？3月21日14點，寧波銀行財富管理與您準時相約春季投資策略報告會，將以專業視角解讀時局、以前瞻研判指引方向，爲您釐清思路、把握機遇，誠邀您撥冗蒞臨，共話財富新篇！</desc>
   </programme>
   <programme start="20260313083000 +0800" stop="20260313093000 +0800" channel="第一財經直播">
     <title lang="zh">每個交易日8:30直播丨從華爾街到陸家嘴</title>
     <desc lang="zh"> 第一財經十餘年經典節目《從華爾街到陸家嘴》重磅推出晨間直播！不可錯過的全球市場資訊，最新的全球科技突破，聚焦美股風雲變幻，把握A股買賣良機。用高效資訊與專業洞察，幫你避開認知偏差，快人一步，搶佔多市場投資風口！每個交易日8:30《從華爾街到陸家嘴》網絡直播版，敬請關注！</desc>
+  </programme>
+  <programme start="20260312200000 +0800" stop="20260312210000 +0800" channel="第一財經直播">
+    <title lang="zh">直擊業績會丨理想2025年第四季度及全年業績發佈會</title>
+    <desc lang="zh"> 2025年全年，公司汽車交付量爲40.6萬輛，較去年同期的50.1萬輛下降18.8%。2025年，公司車輛銷售收入爲1067億元，同比下降23%；車輛毛利率17.9%，2024年同期則爲19.8%；收入總額爲1123億元，同比下降22.3%；淨利潤爲11億元，同比下降85.8%。\r\n2025年第四季度，公司汽車總交付量爲10.9萬輛，同比下降31.2%。2025年第四季度，公司車輛銷售收入273億元，同比下降36.1%；車輛毛利率由2024年同期的19.7%降至16.8%；淨利潤爲2020萬元，而2024年同期則爲35億元。</desc>
+  </programme>
+  <programme start="20260312160000 +0800" stop="20260312170000 +0800" channel="第一財經直播">
+    <title lang="zh">直播丨十四屆全國人大四次會議第三場“部長通道”集中採訪活動</title>
+    <desc lang="zh"> 2026年3月12日下午閉幕會後，在人民大會堂北大廳舉行十四屆全國人大四次會議第三場“部長通道”集中採訪活動，邀請部分列席會議的國務院有關部門主要負責人接受採訪。</desc>
   </programme>
   <programme start="20260312140000 +0800" stop="20260312150000 +0800" channel="第一財經直播">
     <title lang="zh">直播丨十四屆全國人大四次會議第三場“代表通道”集中採訪活動</title>
@@ -69438,21 +69444,21 @@
     <title lang="zh">直擊業績會丨引力傳媒2025年第三季度業績說明會</title>
     <desc lang="zh"> 引力傳媒2025年第三季度業績說明會</desc>
   </programme>
-  <programme start="20251114150000 +0800" stop="20251114160000 +0800" channel="第一財經直播">
-    <title lang="zh">直擊業績會丨江南水務2025年第三季度業績說明會</title>
-    <desc lang="zh"> 江南水務2025年第三季度業績說明會</desc>
-  </programme>
-  <programme start="20251114150000 +0800" stop="20251114160000 +0800" channel="第一財經直播">
-    <title lang="zh">直擊業績會丨大智慧2025年第三季度業績說明會</title>
-    <desc lang="zh"> 大智慧2025年第三季度業績說明會</desc>
-  </programme>
-  <programme start="20260312160000 +0800" stop="20260312170000 +0800" channel="第一財經直播">
-    <title lang="zh">直播丨十四屆全國人大四次會議第三場“部長通道”集中採訪活動</title>
-    <desc lang="zh"> 2026年3月12日下午閉幕會後，在人民大會堂北大廳舉行十四屆全國人大四次會議第三場“部長通道”集中採訪活動，邀請部分列席會議的國務院有關部門主要負責人接受採訪。</desc>
+  <programme start="20260321140000 +0800" stop="20260321150000 +0800" channel="第一財經直播">
+    <title lang="zh">直播丨爲您·預見-寧波銀行2026年春季投策會</title>
+    <desc lang="zh"> 春風送暖，萬物向新，回望開年以來，中國經濟穩中有進，全國兩會定調高質量發展，資本市場機遇與波動並存，2026年後市又將如何展望？3月21日14點，寧波銀行財富管理與您準時相約春季投資策略報告會，將以專業視角解讀時局、以前瞻研判指引方向，爲您釐清思路、把握機遇，誠邀您撥冗蒞臨，共話財富新篇！</desc>
   </programme>
   <programme start="20260313083000 +0800" stop="20260313093000 +0800" channel="第一財經直播">
     <title lang="zh">每個交易日8:30直播丨從華爾街到陸家嘴</title>
     <desc lang="zh"> 第一財經十餘年經典節目《從華爾街到陸家嘴》重磅推出晨間直播！不可錯過的全球市場資訊，最新的全球科技突破，聚焦美股風雲變幻，把握A股買賣良機。用高效資訊與專業洞察，幫你避開認知偏差，快人一步，搶佔多市場投資風口！每個交易日8:30《從華爾街到陸家嘴》網絡直播版，敬請關注！</desc>
+  </programme>
+  <programme start="20260312200000 +0800" stop="20260312210000 +0800" channel="第一財經直播">
+    <title lang="zh">直擊業績會丨理想2025年第四季度及全年業績發佈會</title>
+    <desc lang="zh"> 2025年全年，公司汽車交付量爲40.6萬輛，較去年同期的50.1萬輛下降18.8%。2025年，公司車輛銷售收入爲1067億元，同比下降23%；車輛毛利率17.9%，2024年同期則爲19.8%；收入總額爲1123億元，同比下降22.3%；淨利潤爲11億元，同比下降85.8%。\r\n2025年第四季度，公司汽車總交付量爲10.9萬輛，同比下降31.2%。2025年第四季度，公司車輛銷售收入273億元，同比下降36.1%；車輛毛利率由2024年同期的19.7%降至16.8%；淨利潤爲2020萬元，而2024年同期則爲35億元。</desc>
+  </programme>
+  <programme start="20260312160000 +0800" stop="20260312170000 +0800" channel="第一財經直播">
+    <title lang="zh">直播丨十四屆全國人大四次會議第三場“部長通道”集中採訪活動</title>
+    <desc lang="zh"> 2026年3月12日下午閉幕會後，在人民大會堂北大廳舉行十四屆全國人大四次會議第三場“部長通道”集中採訪活動，邀請部分列席會議的國務院有關部門主要負責人接受採訪。</desc>
   </programme>
   <programme start="20260312140000 +0800" stop="20260312150000 +0800" channel="第一財經直播">
     <title lang="zh">直播丨十四屆全國人大四次會議第三場“代表通道”集中採訪活動</title>
@@ -70237,30 +70243,6 @@
   <programme start="20251114150000 +0800" stop="20251114160000 +0800" channel="第一財經直播">
     <title lang="zh">直擊業績會丨引力傳媒2025年第三季度業績說明會</title>
     <desc lang="zh"> 引力傳媒2025年第三季度業績說明會</desc>
-  </programme>
-  <programme start="20251114150000 +0800" stop="20251114160000 +0800" channel="第一財經直播">
-    <title lang="zh">直擊業績會丨江南水務2025年第三季度業績說明會</title>
-    <desc lang="zh"> 江南水務2025年第三季度業績說明會</desc>
-  </programme>
-  <programme start="20251114150000 +0800" stop="20251114160000 +0800" channel="第一財經直播">
-    <title lang="zh">直擊業績會丨大智慧2025年第三季度業績說明會</title>
-    <desc lang="zh"> 大智慧2025年第三季度業績說明會</desc>
-  </programme>
-  <programme start="20260311024500 +0800" stop="20260311041400 +0800" channel="cctv1">
-    <title lang="zh">中華考工記-7</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311041400 +0800" stop="20260311044500 +0800" channel="cctv1">
-    <title lang="zh">今日說法-2026-39</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311044500 +0800" stop="20260311052700 +0800" channel="cctv1">
-    <title lang="zh">新聞聯播</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311052700 +0800" stop="20260311060000 +0800" channel="cctv1">
-    <title lang="zh">農耕探文明-2025-4</title>
-    <desc lang="zh"> </desc>
   </programme>
   <programme start="20260311060000 +0800" stop="20260311074500 +0800" channel="cctv1">
     <title lang="zh">朝聞天下</title>
@@ -70434,36 +70416,24 @@
     <title lang="zh">農耕探文明-2025-7</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312134500 +0800" stop="20260312165740 +0800" channel="cctv1">
+  <programme start="20260312134500 +0800" stop="20260312165500 +0800" channel="cctv1">
     <title lang="zh">新聞直播間</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312165740 +0800" stop="20260312170000 +0800" channel="cctv1">
-    <title lang="zh">新聞直播間</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260312170000 +0800" stop="20260312171000 +0800" channel="cctv1">
+  <programme start="20260312165500 +0800" stop="20260312170500 +0800" channel="cctv1">
     <title lang="zh">中華古樹-綠色國寶(4K)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312171000 +0800" stop="20260312184700 +0800" channel="cctv1">
+  <programme start="20260312170500 +0800" stop="20260312184200 +0800" channel="cctv1">
     <title lang="zh">山水間的家(第四季)-12</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312184700 +0800" stop="20260312184800 +0800" channel="cctv1">
+  <programme start="20260312184200 +0800" stop="20260312184600 +0800" channel="cctv1">
     <title lang="zh">非遺裏的中國-MV</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312184800 +0800" stop="20260312184900 +0800" channel="cctv1">
-    <title lang="zh">歲月有情時第14集</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260312184900 +0800" stop="20260312185000 +0800" channel="cctv1">
-    <title lang="zh">尋味山海-溫州</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260312185000 +0800" stop="20260312185100 +0800" channel="cctv1">
-    <title lang="zh">中華古樹-黃山迎客松(4K)</title>
+  <programme start="20260312184600 +0800" stop="20260312185100 +0800" channel="cctv1">
+    <title lang="zh">三餐四季(第二季)-宣傳片</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260312185100 +0800" stop="20260312190000 +0800" channel="cctv1">
@@ -70614,27 +70584,27 @@
     <title lang="zh">新聞聯播</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313193840 +0800" stop="20260313195855 +0800" channel="cctv1">
+  <programme start="20260313193840 +0800" stop="20260313195920 +0800" channel="cctv1">
     <title lang="zh">焦點訪談</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313195855 +0800" stop="20260313200300 +0800" channel="cctv1">
+  <programme start="20260313195920 +0800" stop="20260313200300 +0800" channel="cctv1">
     <title lang="zh">前情提要-好好的時光-25/40（版權原因不可回看）</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313200300 +0800" stop="20260313205500 +0800" channel="cctv1">
+  <programme start="20260313200300 +0800" stop="20260313205420 +0800" channel="cctv1">
     <title lang="zh">好好的時光25/40（版權原因不可回看）</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313205500 +0800" stop="20260313205730 +0800" channel="cctv1">
+  <programme start="20260313205420 +0800" stop="20260313205700 +0800" channel="cctv1">
     <title lang="zh">前情提要-好好的時光-26/40（版權原因不可回看）</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313205730 +0800" stop="20260313215005 +0800" channel="cctv1">
+  <programme start="20260313205700 +0800" stop="20260313215140 +0800" channel="cctv1">
     <title lang="zh">好好的時光26/40（版權原因不可回看）</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313215005 +0800" stop="20260313220000 +0800" channel="cctv1">
+  <programme start="20260313215140 +0800" stop="20260313220000 +0800" channel="cctv1">
     <title lang="zh">三餐四季(第二季)-宣傳片</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -70648,22 +70618,6 @@
   </programme>
   <programme start="20260313232500 +0800" stop="20260313235900 +0800" channel="cctv1">
     <title lang="zh">中華考工記-8</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311033410 +0800" stop="20260311043210 +0800" channel="cctv2">
-    <title lang="zh">職場健康課-2026-10</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311043210 +0800" stop="20260311050040 +0800" channel="cctv2">
-    <title lang="zh">回家喫飯-2026-53</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311050040 +0800" stop="20260311053140 +0800" channel="cctv2">
-    <title lang="zh">消費主張</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311053140 +0800" stop="20260311055930 +0800" channel="cctv2">
-    <title lang="zh">生財有道-2026-3-10</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260311055930 +0800" stop="20260311070000 +0800" channel="cctv2">
@@ -71086,18 +71040,6 @@
     <title lang="zh">經濟半小時</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260311030855 +0800" stop="20260311050855 +0800" channel="cctv3">
-    <title lang="zh">星光大道-2026-2</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311050855 +0800" stop="20260311053355 +0800" channel="cctv3">
-    <title lang="zh">典藏-2025-59</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311053355 +0800" stop="20260311053825 +0800" channel="cctv3">
-    <title lang="zh">2026年春節聯歡晚會-歌曲-奔騰的海騮馬(4K)</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260311053825 +0800" stop="20260311064425 +0800" channel="cctv3">
     <title lang="zh">金聲玉振——中國器樂大會-精編三</title>
     <desc lang="zh"> </desc>
@@ -71358,22 +71300,6 @@
     <title lang="zh">綜藝喜樂匯-2026-171燦爛的風和海16/18</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260311040000 +0800" stop="20260311043000 +0800" channel="cctv4亞洲">
-    <title lang="zh">中國新聞</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311043000 +0800" stop="20260311051500 +0800" channel="cctv4亞洲">
-    <title lang="zh">遠方的家2025-生態中國15</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311051500 +0800" stop="20260311053000 +0800" channel="cctv4亞洲">
-    <title lang="zh">平凡匠心-2025-63</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311053000 +0800" stop="20260311060000 +0800" channel="cctv4亞洲">
-    <title lang="zh">中國文藝-2026-49</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260311060000 +0800" stop="20260311063000 +0800" channel="cctv4亞洲">
     <title lang="zh">走遍中國-2026-39</title>
     <desc lang="zh"> </desc>
@@ -71574,20 +71500,24 @@
     <title lang="zh">中國新聞</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312134500 +0800" stop="20260312170000 +0800" channel="cctv4亞洲">
+  <programme start="20260312134500 +0800" stop="20260312165500 +0800" channel="cctv4亞洲">
     <title lang="zh">新聞直播間</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312170000 +0800" stop="20260312172600 +0800" channel="cctv4亞洲">
+  <programme start="20260312165500 +0800" stop="20260312172100 +0800" channel="cctv4亞洲">
     <title lang="zh">走遍中國-2025-129</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312172600 +0800" stop="20260312175200 +0800" channel="cctv4亞洲">
+  <programme start="20260312172100 +0800" stop="20260312174700 +0800" channel="cctv4亞洲">
     <title lang="zh">走遍中國-2025-128</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312175200 +0800" stop="20260312180000 +0800" channel="cctv4亞洲">
+  <programme start="20260312174700 +0800" stop="20260312175500 +0800" channel="cctv4亞洲">
     <title lang="zh">記住鄉愁-片段展播-2024-18</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260312175500 +0800" stop="20260312180000 +0800" channel="cctv4亞洲">
+    <title lang="zh">遠方的家-傳世古建-6</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260312180000 +0800" stop="20260312190000 +0800" channel="cctv4亞洲">
@@ -71784,14 +71714,6 @@
   </programme>
   <programme start="20260313234830 +0800" stop="20260313235900 +0800" channel="cctv4亞洲">
     <title lang="zh">依依向北風第11集</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311040000 +0800" stop="20260311053000 +0800" channel="cctv5">
-    <title lang="zh">國際足球賽場-25-26賽季英超聯賽第29輪伍爾弗漢普頓-利物浦</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311053000 +0800" stop="20260311060000 +0800" channel="cctv5">
-    <title lang="zh">實況錄像(奧林匹克)-2026年米蘭科爾蒂納冬奧會鋼架雪車混合團體(4K)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260311060000 +0800" stop="20260311063000 +0800" channel="cctv5">
@@ -72082,10 +72004,6 @@
     <title lang="zh">實況錄像-2025/2026賽季斯諾克威爾士公開賽決賽</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260311040000 +0800" stop="20260311060000 +0800" channel="cctv5+">
-    <title lang="zh">實況錄像-2025/2026賽季斯諾克國際錦標賽決賽</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260311060000 +0800" stop="20260311073000 +0800" channel="cctv5+">
     <title lang="zh">實況錄像-2025年世界田聯鑽石聯賽尤金站</title>
     <desc lang="zh"> </desc>
@@ -72276,10 +72194,6 @@
   </programme>
   <programme start="20260313233500 +0800" stop="20260313235900 +0800" channel="cctv5+">
     <title lang="zh">實況錄像-2026年澳大利亞網球公開賽女雙決賽</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311035910 +0800" stop="20260311052754 +0800" channel="cctv6">
-    <title lang="zh">瑪格麗特(下)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260311052754 +0800" stop="20260311062955 +0800" channel="cctv6">
@@ -72930,22 +72844,6 @@
     <title lang="zh">軍事紀實-2026-52</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260311035645 +0800" stop="20260311044245 +0800" channel="cctv8">
-    <title lang="zh">淬火年代第15集</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311044245 +0800" stop="20260311044945 +0800" channel="cctv8">
-    <title lang="zh">插花-2022-3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311044945 +0800" stop="20260311045625 +0800" channel="cctv8">
-    <title lang="zh">星推薦-2026年3月-10</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311045625 +0800" stop="20260311054225 +0800" channel="cctv8">
-    <title lang="zh">大山的女兒第11集</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260311054225 +0800" stop="20260311062825 +0800" channel="cctv8">
     <title lang="zh">大山的女兒第12集</title>
     <desc lang="zh"> </desc>
@@ -73410,18 +73308,6 @@
     <title lang="zh">星推薦-2026年3月-13</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260311035400 +0800" stop="20260311041100 +0800" channel="cctv9">
-    <title lang="zh">9視頻2026-69</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311041100 +0800" stop="20260311044630 +0800" channel="cctv9">
-    <title lang="zh">活力·源2026-69</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311044630 +0800" stop="20260311054600 +0800" channel="cctv9">
-    <title lang="zh">故事中國2026-70</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260311054600 +0800" stop="20260311064700 +0800" channel="cctv9">
     <title lang="zh">全景自然2026-69</title>
     <desc lang="zh"> </desc>
@@ -73667,35 +73553,35 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260313092700 +0800" stop="20260313102600 +0800" channel="cctv9">
-    <title lang="zh">全景自然2026-33</title>
+    <title lang="zh">魅力萬象2026-32</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260313102600 +0800" stop="20260313112500 +0800" channel="cctv9">
-    <title lang="zh">魅力萬象2026-33</title>
+    <title lang="zh">魅力萬象2026-16</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260313112500 +0800" stop="20260313122700 +0800" channel="cctv9">
-    <title lang="zh">全景自然2026-34</title>
+    <title lang="zh">寰宇視野2026-48</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260313122700 +0800" stop="20260313133100 +0800" channel="cctv9">
-    <title lang="zh">故事中國2026-28</title>
+    <title lang="zh">寰宇視野2026-49</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260313133100 +0800" stop="20260313143000 +0800" channel="cctv9">
-    <title lang="zh">故事中國2026-29</title>
+    <title lang="zh">寰宇視野2026-50</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260313143000 +0800" stop="20260313153000 +0800" channel="cctv9">
-    <title lang="zh">故事中國2026-30</title>
+    <title lang="zh">寰宇視野2026-51</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260313153000 +0800" stop="20260313162900 +0800" channel="cctv9">
-    <title lang="zh">故事中國2026-31</title>
+    <title lang="zh">寰宇視野2026-52</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260313162900 +0800" stop="20260313172800 +0800" channel="cctv9">
-    <title lang="zh">故事中國2026-32</title>
+    <title lang="zh">寰宇視野2026-53</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260313172800 +0800" stop="20260313182700 +0800" channel="cctv9">
@@ -74638,26 +74524,6 @@
     <title lang="zh">2026社會與法電視劇精選-歲歲年年柿柿紅-39/39</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260311040000 +0800" stop="20260311043300 +0800" channel="cctv13">
-    <title lang="zh">新聞直播間</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311043300 +0800" stop="20260311050000 +0800" channel="cctv13">
-    <title lang="zh">新聞1+1</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311050000 +0800" stop="20260311051800 +0800" channel="cctv13">
-    <title lang="zh">新聞直播間</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311051800 +0800" stop="20260311053400 +0800" channel="cctv13">
-    <title lang="zh">焦點訪談</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311053400 +0800" stop="20260311060000 +0800" channel="cctv13">
-    <title lang="zh">法治在線</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260311060000 +0800" stop="20260311074500 +0800" channel="cctv13">
     <title lang="zh">朝聞天下</title>
     <desc lang="zh"> </desc>
@@ -75400,14 +75266,6 @@
   </programme>
   <programme start="20260313234930 +0800" stop="20260313235900 +0800" channel="cctv15">
     <title lang="zh">金聲玉振——中國器樂大會-精編八</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311040000 +0800" stop="20260311053000 +0800" channel="cctv16">
-    <title lang="zh">實況錄像(奧林匹克)-2025/2026賽季中國男子籃球職業聯賽第21輪廣東東陽光—長白山恩都裏</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311053000 +0800" stop="20260311060000 +0800" channel="cctv16">
-    <title lang="zh">實況錄像(奧林匹克)-2026年米蘭科爾蒂納冬奧會冬季兩項女子10公里追逐</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260311060000 +0800" stop="20260311061500 +0800" channel="cctv16">
@@ -76398,91 +76256,95 @@
     <title lang="zh">4K墊播節目-美麗中國2025-四季1</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312134500 +0800" stop="20260312170025 +0800" channel="cctv4k">
+  <programme start="20260312134500 +0800" stop="20260312165305 +0800" channel="cctv4k">
     <title lang="zh">4K直播-兩會260312</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312170025 +0800" stop="20260312174925 +0800" channel="cctv4k">
+  <programme start="20260312165305 +0800" stop="20260312174205 +0800" channel="cctv4k">
     <title lang="zh">舌尖上的中國第四季-2(4K)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312174925 +0800" stop="20260312175925 +0800" channel="cctv4k">
+  <programme start="20260312174205 +0800" stop="20260312175205 +0800" channel="cctv4k">
     <title lang="zh">中華古樹-峨眉山楠木古樹羣(4K)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312175925 +0800" stop="20260312175955 +0800" channel="cctv4k">
+  <programme start="20260312175205 +0800" stop="20260312180205 +0800" channel="cctv4k">
+    <title lang="zh">2024祕境之眼-雉舞貢嘎(4K)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260312180205 +0800" stop="20260312180235 +0800" channel="cctv4k">
     <title lang="zh">4K宣傳片-中華考工記</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312175955 +0800" stop="20260312180050 +0800" channel="cctv4k">
+  <programme start="20260312180235 +0800" stop="20260312180330 +0800" channel="cctv4k">
     <title lang="zh">4K宣傳片-花開中國</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312180050 +0800" stop="20260312182850 +0800" channel="cctv4k">
+  <programme start="20260312180330 +0800" stop="20260312183130 +0800" channel="cctv4k">
     <title lang="zh">記住鄉愁2026-1(4K)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312182850 +0800" stop="20260312183850 +0800" channel="cctv4k">
+  <programme start="20260312183130 +0800" stop="20260312184130 +0800" channel="cctv4k">
     <title lang="zh">中華古樹-陽朔古榕樹(4K)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312183850 +0800" stop="20260312190330 +0800" channel="cctv4k">
+  <programme start="20260312184130 +0800" stop="20260312190610 +0800" channel="cctv4k">
     <title lang="zh">青蘋之末-5(4K)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312190330 +0800" stop="20260312190820 +0800" channel="cctv4k">
+  <programme start="20260312190610 +0800" stop="20260312191100 +0800" channel="cctv4k">
     <title lang="zh">中國微名片·世界遺產(第二季)-16(4K)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312190820 +0800" stop="20260312191820 +0800" channel="cctv4k">
+  <programme start="20260312191100 +0800" stop="20260312192100 +0800" channel="cctv4k">
     <title lang="zh">2024祕境之眼-鶴舞祁連(4K)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312191820 +0800" stop="20260312200020 +0800" channel="cctv4k">
+  <programme start="20260312192100 +0800" stop="20260312200300 +0800" channel="cctv4k">
     <title lang="zh">遠方的家2024-109(4K)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312200020 +0800" stop="20260312200050 +0800" channel="cctv4k">
+  <programme start="20260312200300 +0800" stop="20260312200330 +0800" channel="cctv4k">
     <title lang="zh">4K宣傳片-城市風華錄</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312200050 +0800" stop="20260312200250 +0800" channel="cctv4k">
+  <programme start="20260312200330 +0800" stop="20260312200530 +0800" channel="cctv4k">
     <title lang="zh">4K宣傳片-三餐四季第三季</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312200250 +0800" stop="20260312204850 +0800" channel="cctv4k">
+  <programme start="20260312200530 +0800" stop="20260312205130 +0800" channel="cctv4k">
     <title lang="zh">楓橋警事-(4K)-5/30</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312204850 +0800" stop="20260312204925 +0800" channel="cctv4k">
+  <programme start="20260312205130 +0800" stop="20260312205205 +0800" channel="cctv4k">
     <title lang="zh">4K宣傳片-驚蟄2026</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312204925 +0800" stop="20260312204955 +0800" channel="cctv4k">
+  <programme start="20260312205205 +0800" stop="20260312205235 +0800" channel="cctv4k">
     <title lang="zh">4K宣傳片-金石探文明</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312204955 +0800" stop="20260312205025 +0800" channel="cctv4k">
+  <programme start="20260312205235 +0800" stop="20260312205305 +0800" channel="cctv4k">
     <title lang="zh">4K宣傳片-中華考工記</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312205025 +0800" stop="20260312213645 +0800" channel="cctv4k">
+  <programme start="20260312205305 +0800" stop="20260312213925 +0800" channel="cctv4k">
     <title lang="zh">楓橋警事-(4K)-6/30</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312213645 +0800" stop="20260312222615 +0800" channel="cctv4k">
+  <programme start="20260312213925 +0800" stop="20260312222855 +0800" channel="cctv4k">
     <title lang="zh">大地之上-5(4K)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312222615 +0800" stop="20260312231545 +0800" channel="cctv4k">
+  <programme start="20260312222855 +0800" stop="20260312231825 +0800" channel="cctv4k">
     <title lang="zh">舌尖上的中國第四季-3(4K)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312231545 +0800" stop="20260312235545 +0800" channel="cctv4k">
+  <programme start="20260312231825 +0800" stop="20260312235825 +0800" channel="cctv4k">
     <title lang="zh">探索·發現(4K)-2024-22</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312235545 +0800" stop="20260312235925 +0800" channel="cctv4k">
+  <programme start="20260312235825 +0800" stop="20260312235925 +0800" channel="cctv4k">
     <title lang="zh">4K墊播節目-絲綢之旅2025</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -84138,18 +84000,6 @@
     <title lang="zh">大家談-2024-54</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260311040000 +0800" stop="20260311040500 +0800" channel="cctv風雲足球">
-    <title lang="zh">風雲足球頻道包裝-2026-1</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311040500 +0800" stop="20260311052500 +0800" channel="cctv風雲足球">
-    <title lang="zh">國際足球賽場-25-26賽季法甲聯賽第12輪里昂—巴黎聖日耳曼</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311052500 +0800" stop="20260311053000 +0800" channel="cctv風雲足球">
-    <title lang="zh">風雲足球頻道包裝-2026-1</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260311053000 +0800" stop="20260311065000 +0800" channel="cctv風雲足球">
     <title lang="zh">國際足球賽場-25-26賽季法甲聯賽第13輪朗斯—斯特拉斯堡</title>
     <desc lang="zh"> </desc>
@@ -84552,10 +84402,6 @@
   </programme>
   <programme start="20260313235000 +0800" stop="20260314000000 +0800" channel="cctv風雲足球">
     <title lang="zh">國際足球賽場-2025南美解放者杯小組賽巴西福塔雷薩—智利科洛科洛</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311040000 +0800" stop="20260311052200 +0800" channel="cctv高爾夫">
-    <title lang="zh">實況錄像(奧林匹克)-2025年溫布爾登網球賽3(4K)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260311052200 +0800" stop="20260311070500 +0800" channel="cctv高爾夫">
@@ -85426,14 +85272,6 @@
     <title lang="zh">百家講壇-2025-170</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260311040000 +0800" stop="20260311040645 +0800" channel="cctv檯球">
-    <title lang="zh">實況錄像-2017年斯諾克中國公開賽特魯姆普的147</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311040645 +0800" stop="20260311052645 +0800" channel="cctv檯球">
-    <title lang="zh">實況錄像-2014年斯諾克上海大師賽精選3</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260311052645 +0800" stop="20260311064645 +0800" channel="cctv檯球">
     <title lang="zh">實況錄像-2015年斯諾克上海大師賽精選2</title>
     <desc lang="zh"> </desc>
@@ -85672,46 +85510,6 @@
   </programme>
   <programme start="20260313234800 +0800" stop="20260314000000 +0800" channel="cctv檯球">
     <title lang="zh">賽場直擊-2023年世界斯諾克錦標賽半決賽(4)盧卡·佈雷切爾—斯佳輝</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311040000 +0800" stop="20260311041015 +0800" channel="cctv電視指南">
-    <title lang="zh">整點衝擊播-2024-15</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311041015 +0800" stop="20260311043015 +0800" channel="cctv電視指南">
-    <title lang="zh">我喜歡我推薦-民歌·中國2026-3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311043015 +0800" stop="20260311043515 +0800" channel="cctv電視指南">
-    <title lang="zh">電視指南頻道包裝-2026-21</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311043515 +0800" stop="20260311044515 +0800" channel="cctv電視指南">
-    <title lang="zh">數字飆榜-2025-11</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311044515 +0800" stop="20260311044600 +0800" channel="cctv電視指南">
-    <title lang="zh">2025數字飆榜人名字幕-1</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311044600 +0800" stop="20260311050600 +0800" channel="cctv電視指南">
-    <title lang="zh">我喜歡我推薦-鮮生史第二季-5</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311050600 +0800" stop="20260311052600 +0800" channel="cctv電視指南">
-    <title lang="zh">我喜歡我推薦-鮮生史第二季-6</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311052600 +0800" stop="20260311053100 +0800" channel="cctv電視指南">
-    <title lang="zh">電視指南頻道包裝-2026-21</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311053100 +0800" stop="20260311055930 +0800" channel="cctv電視指南">
-    <title lang="zh">精選黃金檔-2023-8</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311055930 +0800" stop="20260311060000 +0800" channel="cctv電視指南">
-    <title lang="zh">2025精選黃金檔人名字幕-1</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260311060000 +0800" stop="20260311060515 +0800" channel="cctv電視指南">
@@ -87158,18 +86956,6 @@
     <title lang="zh">請您欣賞-海南風光</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260311040030 +0800" stop="20260311044030 +0800" channel="cctv衛生健康">
-    <title lang="zh">健康之路-2024-295</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311044030 +0800" stop="20260311050815 +0800" channel="cctv衛生健康">
-    <title lang="zh">衛健生活圈-精準防癌從“頭”開始</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311050815 +0800" stop="20260311054815 +0800" channel="cctv衛生健康">
-    <title lang="zh">百家講壇-2025-135</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260311054815 +0800" stop="20260311060815 +0800" channel="cctv衛生健康">
     <title lang="zh">人口-2023-8</title>
     <desc lang="zh"> </desc>
@@ -87674,22 +87460,6 @@
     <title lang="zh">百家講壇-2025-116</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260311040000 +0800" stop="20260311043000 +0800" channel="cgtn">
-    <title lang="zh">今日世界-20260311(0400)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311043000 +0800" stop="20260311050000 +0800" channel="cgtn">
-    <title lang="zh">對話(英)-(0310重播)-20260311(0430)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311050000 +0800" stop="20260311053000 +0800" channel="cgtn">
-    <title lang="zh">全球財經(30分鐘美洲版)-20260311</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311053000 +0800" stop="20260311060000 +0800" channel="cgtn">
-    <title lang="zh">輿論縱貫線-(0310重播)-20260311(0530)</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260311060000 +0800" stop="20260311063000 +0800" channel="cgtn">
     <title lang="zh">今日世界-20260311(0600)</title>
     <desc lang="zh"> </desc>
@@ -88150,18 +87920,6 @@
     <title lang="zh">文化速遞-(0313重播)-20260313(2330)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260311040000 +0800" stop="20260311043000 +0800" channel="cgtn法語">
-    <title lang="zh">五洲瞭望-2026-30</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311043000 +0800" stop="20260311051500 +0800" channel="cgtn法語">
-    <title lang="zh">電視劇(法)-幸福二重奏-30/31</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311051500 +0800" stop="20260311060000 +0800" channel="cgtn法語">
-    <title lang="zh">電視劇(法)-幸福二重奏-31/31</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260311060000 +0800" stop="20260311064500 +0800" channel="cgtn法語">
     <title lang="zh">魅力東方-2026-70</title>
     <desc lang="zh"> </desc>
@@ -88616,18 +88374,6 @@
   </programme>
   <programme start="20260313233000 +0800" stop="20260314000000 +0800" channel="cgtn法語">
     <title lang="zh">魅力東方-2026-62</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311040000 +0800" stop="20260311044500 +0800" channel="cgtn俄語">
-    <title lang="zh">放映廳(俄)-愛拼會贏(俄)(精編版)-10/35</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311044500 +0800" stop="20260311053000 +0800" channel="cgtn俄語">
-    <title lang="zh">放映廳(俄)-愛拼會贏(俄)(精編版)-11/35</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311053000 +0800" stop="20260311060000 +0800" channel="cgtn俄語">
-    <title lang="zh">生財有道(俄)-2026-69</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260311060000 +0800" stop="20260311063000 +0800" channel="cgtn俄語">
@@ -89146,18 +88892,6 @@
     <title lang="zh">習近平生態文明思想系列講讀(俄)-1</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260311040000 +0800" stop="20260311043000 +0800" channel="cgtn阿拉伯語">
-    <title lang="zh">綜合新聞(阿)-20260310(2000)(重播)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311043000 +0800" stop="20260311051500 +0800" channel="cgtn阿拉伯語">
-    <title lang="zh">電視劇(阿)-新居之約(阿)-13/39</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311051500 +0800" stop="20260311060000 +0800" channel="cgtn阿拉伯語">
-    <title lang="zh">電視劇(阿)-新居之約(阿)-14/39</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260311060000 +0800" stop="20260311063000 +0800" channel="cgtn阿拉伯語">
     <title lang="zh">綜合新聞(阿)-20260310(2000)(重播)</title>
     <desc lang="zh"> </desc>
@@ -89628,22 +89362,6 @@
   </programme>
   <programme start="20260313233000 +0800" stop="20260314000000 +0800" channel="cgtn阿拉伯語">
     <title lang="zh">電視劇(阿)-新居之約(阿)-19/39</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311040000 +0800" stop="20260311043000 +0800" channel="cgtn西班牙語">
-    <title lang="zh">中華藝苑(西)-2026-70</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311043000 +0800" stop="20260311050000 +0800" channel="cgtn西班牙語">
-    <title lang="zh">神州行(西)-2026-10</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311050000 +0800" stop="20260311053000 +0800" channel="cgtn西班牙語">
-    <title lang="zh">對話(西)-2026-40</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311053000 +0800" stop="20260311060000 +0800" channel="cgtn西班牙語">
-    <title lang="zh">紀錄片(西)-2026-139</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260311060000 +0800" stop="20260311064500 +0800" channel="cgtn西班牙語">
@@ -90166,18 +89884,6 @@
     <title lang="zh">紀錄片(西)-2026-143</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260311040000 +0800" stop="20260311050000 +0800" channel="cgtn英文記錄片">
-    <title lang="zh">精彩放送(英)2026-120</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311050000 +0800" stop="20260311053000 +0800" channel="cgtn英文記錄片">
-    <title lang="zh">人文地理(英)2026-60</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311053000 +0800" stop="20260311060000 +0800" channel="cgtn英文記錄片">
-    <title lang="zh">時代寫真(英)2026-60</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260311060000 +0800" stop="20260311070000 +0800" channel="cgtn英文記錄片">
     <title lang="zh">特別呈現(英)2026-60</title>
     <desc lang="zh"> </desc>
@@ -90574,38 +90280,6 @@
     <title lang="zh">時代寫真(英)2026-62</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260311033800 +0800" stop="20260311042400 +0800" channel="北京衛視">
-    <title lang="zh">鯤鵬擊浪(14)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311042400 +0800" stop="20260311050100 +0800" channel="北京衛視">
-    <title lang="zh">鯤鵬擊浪(15)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311050100 +0800" stop="20260311050500 +0800" channel="北京衛視">
-    <title lang="zh">2025最美北京我的家古都,新城</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311050500 +0800" stop="20260311050900 +0800" channel="北京衛視">
-    <title lang="zh">法治進行時</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311050900 +0800" stop="20260311051200 +0800" channel="北京衛視">
-    <title lang="zh">2025最美北京我的家古都,新城</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311051200 +0800" stop="20260311052500 +0800" channel="北京衛視">
-    <title lang="zh">風味原產地貴陽(8)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311052500 +0800" stop="20260311053300 +0800" channel="北京衛視">
-    <title lang="zh">2025最美北京我的家古都,新城</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311053300 +0800" stop="20260311055500 +0800" channel="北京衛視">
-    <title lang="zh">法治進行時</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260311055500 +0800" stop="20260311070000 +0800" channel="北京衛視">
     <title lang="zh">養生堂</title>
     <desc lang="zh"> </desc>
@@ -90798,8 +90472,12 @@
     <title lang="zh">午茶劇場正陽門下(5)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312161000 +0800" stop="20260312170800 +0800" channel="北京衛視">
+  <programme start="20260312161000 +0800" stop="20260312165200 +0800" channel="北京衛視">
     <title lang="zh">午茶劇場正陽門下(6)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260312165200 +0800" stop="20260312170800 +0800" channel="北京衛視">
+    <title lang="zh">大戲看北京-正陽門下預告版</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260312170800 +0800" stop="20260312172500 +0800" channel="北京衛視">
@@ -90859,7 +90537,7 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260313002400 +0800" stop="20260313011200 +0800" channel="北京衛視">
-    <title lang="zh">紅星劇場真心英雄(27)</title>
+    <title lang="zh">紅星劇場真心英雄(35)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260313011200 +0800" stop="20260313013900 +0800" channel="北京衛視">
@@ -90979,23 +90657,7 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260313233500 +0800" stop="20260314000000 +0800" channel="北京衛視">
-    <title lang="zh">紅星劇場真心英雄(28)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311033100 +0800" stop="20260311041400 +0800" channel="東方衛視">
-    <title lang="zh">六姊妹(1)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311041400 +0800" stop="20260311045500 +0800" channel="東方衛視">
-    <title lang="zh">六姊妹(2)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311045500 +0800" stop="20260311053700 +0800" channel="東方衛視">
-    <title lang="zh">六姊妹(3)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311053700 +0800" stop="20260311055400 +0800" channel="東方衛視">
-    <title lang="zh">六姊妹(4)</title>
+    <title lang="zh">紅星劇場真心英雄(36)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260311055400 +0800" stop="20260311070000 +0800" channel="東方衛視">
@@ -91246,23 +90908,23 @@
     <title lang="zh">慶餘年第二季(12)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312145500 +0800" stop="20260312153800 +0800" channel="東方衛視">
+  <programme start="20260312145500 +0800" stop="20260312153700 +0800" channel="東方衛視">
     <title lang="zh">慶餘年第二季(13)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312153800 +0800" stop="20260312162100 +0800" channel="東方衛視">
+  <programme start="20260312153700 +0800" stop="20260312162200 +0800" channel="東方衛視">
     <title lang="zh">慶餘年第二季(14)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312162100 +0800" stop="20260312170700 +0800" channel="東方衛視">
+  <programme start="20260312162200 +0800" stop="20260312170700 +0800" channel="東方衛視">
     <title lang="zh">慶餘年第二季(15)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312170700 +0800" stop="20260312173200 +0800" channel="東方衛視">
+  <programme start="20260312170700 +0800" stop="20260312173300 +0800" channel="東方衛視">
     <title lang="zh">東方新娛樂</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312173200 +0800" stop="20260312180000 +0800" channel="東方衛視">
+  <programme start="20260312173300 +0800" stop="20260312180000 +0800" channel="東方衛視">
     <title lang="zh">名醫話養生(92)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -91516,14 +91178,6 @@
   </programme>
   <programme start="20260313233000 +0800" stop="20260314000000 +0800" channel="東方衛視">
     <title lang="zh">孤舟(12)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311033800 +0800" stop="20260311043000 +0800" channel="江蘇衛視">
-    <title lang="zh">我在島嶼讀書2</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311043000 +0800" stop="20260311050000 +0800" channel="江蘇衛視">
-    <title lang="zh">紫金文化名家4</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260311050000 +0800" stop="20260311060300 +0800" channel="江蘇衛視">
@@ -91803,19 +91457,19 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260313085300 +0800" stop="20260313094100 +0800" channel="江蘇衛視">
-    <title lang="zh">上午劇場小巷人家</title>
+    <title lang="zh">上午劇場以法之名</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260313094100 +0800" stop="20260313102900 +0800" channel="江蘇衛視">
-    <title lang="zh">上午劇場小巷人家</title>
+    <title lang="zh">上午劇場以法之名</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260313102900 +0800" stop="20260313111300 +0800" channel="江蘇衛視">
-    <title lang="zh">上午劇場小巷人家</title>
+    <title lang="zh">上午劇場以法之名</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260313111300 +0800" stop="20260313120000 +0800" channel="江蘇衛視">
-    <title lang="zh">上午劇場小巷人家</title>
+    <title lang="zh">上午劇場以法之名</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260313120000 +0800" stop="20260313123400 +0800" channel="江蘇衛視">
@@ -91872,14 +91526,6 @@
   </programme>
   <programme start="20260313231700 +0800" stop="20260314000000 +0800" channel="江蘇衛視">
     <title lang="zh">非來不可</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311035600 +0800" stop="20260311043700 +0800" channel="浙江衛視">
-    <title lang="zh">刑警之海外行動(14)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311043700 +0800" stop="20260311052700 +0800" channel="浙江衛視">
-    <title lang="zh">中國海南雨林祕境(1)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260311052700 +0800" stop="20260311061100 +0800" channel="浙江衛視">
@@ -92126,11 +91772,11 @@
     <title lang="zh">百姓劇場父母愛情(29)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312144600 +0800" stop="20260312153300 +0800" channel="浙江衛視">
+  <programme start="20260312144600 +0800" stop="20260312153200 +0800" channel="浙江衛視">
     <title lang="zh">百姓劇場父母愛情(30)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312153300 +0800" stop="20260312161800 +0800" channel="浙江衛視">
+  <programme start="20260312153200 +0800" stop="20260312161800 +0800" channel="浙江衛視">
     <title lang="zh">百姓劇場父母愛情(31)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -92251,19 +91897,19 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260313092100 +0800" stop="20260313100300 +0800" channel="浙江衛視">
-    <title lang="zh">經典劇場南來北往(32)</title>
+    <title lang="zh">經典劇場南來北往(28)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260313100300 +0800" stop="20260313103900 +0800" channel="浙江衛視">
-    <title lang="zh">經典劇場南來北往(33)</title>
+    <title lang="zh">經典劇場南來北往(29)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260313103900 +0800" stop="20260313112100 +0800" channel="浙江衛視">
-    <title lang="zh">經典劇場南來北往(34)</title>
+    <title lang="zh">經典劇場南來北往(30)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260313112100 +0800" stop="20260313120000 +0800" channel="浙江衛視">
-    <title lang="zh">經典劇場南來北往(35)</title>
+    <title lang="zh">經典劇場南來北往(31)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260313120000 +0800" stop="20260313122900 +0800" channel="浙江衛視">
@@ -92328,22 +91974,6 @@
   </programme>
   <programme start="20260313234500 +0800" stop="20260314000000 +0800" channel="浙江衛視">
     <title lang="zh">王牌對王牌</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311032400 +0800" stop="20260311040300 +0800" channel="湖南衛視">
-    <title lang="zh">新聞大求真</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311040300 +0800" stop="20260311042800 +0800" channel="湖南衛視">
-    <title lang="zh">人生一萬年</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311042800 +0800" stop="20260311052800 +0800" channel="湖南衛視">
-    <title lang="zh">首發</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311052800 +0800" stop="20260311055600 +0800" channel="湖南衛視">
-    <title lang="zh">平民英雄</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260311055600 +0800" stop="20260311062500 +0800" channel="湖南衛視">
@@ -92554,23 +92184,23 @@
     <title lang="zh">偶像獨播劇場大唐榮耀2</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312145600 +0800" stop="20260312153800 +0800" channel="湖南衛視">
+  <programme start="20260312145600 +0800" stop="20260312153400 +0800" channel="湖南衛視">
     <title lang="zh">偶像獨播劇場大唐榮耀2</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312153800 +0800" stop="20260312162300 +0800" channel="湖南衛視">
-    <title lang="zh">青春獨播劇場烏蒙深處</title>
+  <programme start="20260312153400 +0800" stop="20260312162100 +0800" channel="湖南衛視">
+    <title lang="zh">青春獨播劇場烏蒙深處(21)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312162300 +0800" stop="20260312170900 +0800" channel="湖南衛視">
-    <title lang="zh">青春獨播劇場烏蒙深處</title>
+  <programme start="20260312162100 +0800" stop="20260312170900 +0800" channel="湖南衛視">
+    <title lang="zh">青春獨播劇場烏蒙深處(22)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312170900 +0800" stop="20260312175700 +0800" channel="湖南衛視">
-    <title lang="zh">青春獨播劇場烏蒙深處</title>
+  <programme start="20260312170900 +0800" stop="20260312175600 +0800" channel="湖南衛視">
+    <title lang="zh">青春獨播劇場烏蒙深處(23)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312175700 +0800" stop="20260312183000 +0800" channel="湖南衛視">
+  <programme start="20260312175600 +0800" stop="20260312183000 +0800" channel="湖南衛視">
     <title lang="zh">新聞大求真</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -92732,14 +92362,6 @@
   </programme>
   <programme start="20260313230000 +0800" stop="20260314000000 +0800" channel="湖南衛視">
     <title lang="zh">親愛的·客棧2026</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311032300 +0800" stop="20260311041800 +0800" channel="湖北衛視">
-    <title lang="zh">生死連(20)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311041800 +0800" stop="20260311051200 +0800" channel="湖北衛視">
-    <title lang="zh">生死連(21)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260311051200 +0800" stop="20260311061400 +0800" channel="湖北衛視">
@@ -92966,19 +92588,19 @@
     <title lang="zh">早間劇場毛澤東(33)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312150300 +0800" stop="20260312155000 +0800" channel="湖北衛視">
+  <programme start="20260312150300 +0800" stop="20260312155900 +0800" channel="湖北衛視">
     <title lang="zh">早間劇場毛澤東(34)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312155000 +0800" stop="20260312165500 +0800" channel="湖北衛視">
+  <programme start="20260312155900 +0800" stop="20260312165500 +0800" channel="湖北衛視">
     <title lang="zh">早間劇場毛澤東(35)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312165500 +0800" stop="20260312173900 +0800" channel="湖北衛視">
+  <programme start="20260312165500 +0800" stop="20260312174000 +0800" channel="湖北衛視">
     <title lang="zh">天生我財之吾股豐登</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312173900 +0800" stop="20260312182500 +0800" channel="湖北衛視">
+  <programme start="20260312174000 +0800" stop="20260312182500 +0800" channel="湖北衛視">
     <title lang="zh">早間劇場毛澤東(36)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -93152,18 +92774,6 @@
   </programme>
   <programme start="20260313235300 +0800" stop="20260314000000 +0800" channel="湖北衛視">
     <title lang="zh">深夜劇場</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311032500 +0800" stop="20260311041400 +0800" channel="廣東衛視">
-    <title lang="zh">澳門之味</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311041400 +0800" stop="20260311044800 +0800" channel="廣東衛視">
-    <title lang="zh">香港味道</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311044800 +0800" stop="20260311053500 +0800" channel="廣東衛視">
-    <title lang="zh">上甘嶺(22)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260311053500 +0800" stop="20260311063000 +0800" channel="廣東衛視">
@@ -93362,15 +92972,15 @@
     <title lang="zh">下午茶劇場長沙保衛戰(17)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312155700 +0800" stop="20260312165100 +0800" channel="廣東衛視">
+  <programme start="20260312155700 +0800" stop="20260312165000 +0800" channel="廣東衛視">
     <title lang="zh">下午茶劇場長沙保衛戰(18)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312165100 +0800" stop="20260312174500 +0800" channel="廣東衛視">
+  <programme start="20260312165000 +0800" stop="20260312174400 +0800" channel="廣東衛視">
     <title lang="zh">下午茶劇場長沙保衛戰(19)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312174500 +0800" stop="20260312183000 +0800" channel="廣東衛視">
+  <programme start="20260312174400 +0800" stop="20260312183000 +0800" channel="廣東衛視">
     <title lang="zh">下午茶劇場長沙保衛戰(20)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -93451,27 +93061,27 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260313084000 +0800" stop="20260313091400 +0800" channel="廣東衛視">
-    <title lang="zh">上午劇場祕殺名單(16)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260313091400 +0800" stop="20260313095600 +0800" channel="廣東衛視">
     <title lang="zh">上午劇場祕殺名單(17)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313095600 +0800" stop="20260313102300 +0800" channel="廣東衛視">
+  <programme start="20260313091400 +0800" stop="20260313095600 +0800" channel="廣東衛視">
     <title lang="zh">上午劇場祕殺名單(18)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313102300 +0800" stop="20260313111400 +0800" channel="廣東衛視">
+  <programme start="20260313095600 +0800" stop="20260313102300 +0800" channel="廣東衛視">
     <title lang="zh">上午劇場祕殺名單(19)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313111400 +0800" stop="20260313120400 +0800" channel="廣東衛視">
+  <programme start="20260313102300 +0800" stop="20260313111400 +0800" channel="廣東衛視">
     <title lang="zh">上午劇場祕殺名單(20)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313120400 +0800" stop="20260313124000 +0800" channel="廣東衛視">
+  <programme start="20260313111400 +0800" stop="20260313120400 +0800" channel="廣東衛視">
     <title lang="zh">上午劇場祕殺名單(21)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260313120400 +0800" stop="20260313124000 +0800" channel="廣東衛視">
+    <title lang="zh">上午劇場祕殺名單(22)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260313124000 +0800" stop="20260313142400 +0800" channel="廣東衛視">
@@ -93536,14 +93146,6 @@
   </programme>
   <programme start="20260313235000 +0800" stop="20260314000000 +0800" channel="廣東衛視">
     <title lang="zh">活力影院</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311033400 +0800" stop="20260311040300 +0800" channel="廣西衛視">
-    <title lang="zh">民族文化</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311040300 +0800" stop="20260311042300 +0800" channel="廣西衛視">
-    <title lang="zh">中國新智造</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260311042300 +0800" stop="20260311062400 +0800" channel="廣西衛視">
@@ -93738,19 +93340,19 @@
     <title lang="zh">經典劇場僞裝者(11)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312142500 +0800" stop="20260312153300 +0800" channel="廣西衛視">
+  <programme start="20260312142500 +0800" stop="20260312152300 +0800" channel="廣西衛視">
     <title lang="zh">經典劇場僞裝者(12)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312153300 +0800" stop="20260312161400 +0800" channel="廣西衛視">
+  <programme start="20260312152300 +0800" stop="20260312161500 +0800" channel="廣西衛視">
     <title lang="zh">經典劇場僞裝者(13)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312161400 +0800" stop="20260312170700 +0800" channel="廣西衛視">
+  <programme start="20260312161500 +0800" stop="20260312165700 +0800" channel="廣西衛視">
     <title lang="zh">經典劇場僞裝者(14)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312170700 +0800" stop="20260312180000 +0800" channel="廣西衛視">
+  <programme start="20260312165700 +0800" stop="20260312180000 +0800" channel="廣西衛視">
     <title lang="zh">經典劇場僞裝者(15)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -93932,14 +93534,6 @@
   </programme>
   <programme start="20260313234700 +0800" stop="20260314000000 +0800" channel="廣西衛視">
     <title lang="zh">傳奇劇場</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311031900 +0800" stop="20260311040300 +0800" channel="黑龍江衛視">
-    <title lang="zh">偵察英雄</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311040300 +0800" stop="20260311055900 +0800" channel="黑龍江衛視">
-    <title lang="zh">偵察英雄</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260311055900 +0800" stop="20260311063000 +0800" channel="黑龍江衛視">
@@ -94227,7 +93821,7 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260313070300 +0800" stop="20260313080000 +0800" channel="黑龍江衛視">
-    <title lang="zh">陽光劇場智者無敵</title>
+    <title lang="zh">陽光劇場戰火青春</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260313080000 +0800" stop="20260313084300 +0800" channel="黑龍江衛視">
@@ -94235,7 +93829,7 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260313084300 +0800" stop="20260313092000 +0800" channel="黑龍江衛視">
-    <title lang="zh">陽光劇場智者無敵</title>
+    <title lang="zh">陽光劇場戰火青春</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260313092000 +0800" stop="20260313100400 +0800" channel="黑龍江衛視">
@@ -94243,23 +93837,23 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260313100400 +0800" stop="20260313110700 +0800" channel="黑龍江衛視">
-    <title lang="zh">陽光劇場智者無敵</title>
+    <title lang="zh">陽光劇場戰火青春</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260313110700 +0800" stop="20260313121000 +0800" channel="黑龍江衛視">
-    <title lang="zh">陽光劇場智者無敵</title>
+    <title lang="zh">陽光劇場戰火青春</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260313121000 +0800" stop="20260313131200 +0800" channel="黑龍江衛視">
-    <title lang="zh">陽光劇場智者無敵</title>
+    <title lang="zh">陽光劇場戰火青春</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260313131200 +0800" stop="20260313141600 +0800" channel="黑龍江衛視">
-    <title lang="zh">陽光劇場智者無敵</title>
+    <title lang="zh">陽光劇場戰火青春</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260313141600 +0800" stop="20260313145400 +0800" channel="黑龍江衛視">
-    <title lang="zh">陽光劇場智者無敵</title>
+    <title lang="zh">陽光劇場戰火青春</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260313145400 +0800" stop="20260313153800 +0800" channel="黑龍江衛視">
@@ -94267,11 +93861,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260313153800 +0800" stop="20260313164000 +0800" channel="黑龍江衛視">
-    <title lang="zh">陽光劇場智者無敵</title>
+    <title lang="zh">陽光劇場戰火青春</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260313164000 +0800" stop="20260313174300 +0800" channel="黑龍江衛視">
-    <title lang="zh">陽光劇場智者無敵</title>
+    <title lang="zh">陽光劇場戰火青春</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260313174300 +0800" stop="20260313181800 +0800" channel="黑龍江衛視">
@@ -94291,11 +93885,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260313193400 +0800" stop="20260313202000 +0800" channel="黑龍江衛視">
-    <title lang="zh">中國龍劇場沉默的榮耀(39)</title>
+    <title lang="zh">中國龍劇場沉默的榮耀(37)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260313202000 +0800" stop="20260313212000 +0800" channel="黑龍江衛視">
-    <title lang="zh">中國龍劇場</title>
+    <title lang="zh">中國龍劇場沉默的榮耀(38)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260313212000 +0800" stop="20260313220000 +0800" channel="黑龍江衛視">
@@ -94308,18 +93902,6 @@
   </programme>
   <programme start="20260313233600 +0800" stop="20260314000000 +0800" channel="黑龍江衛視">
     <title lang="zh">活力劇場僞裝者</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311032200 +0800" stop="20260311041700 +0800" channel="海南衛視">
-    <title lang="zh">衛視高爾夫</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311041700 +0800" stop="20260311044400 +0800" channel="海南衛視">
-    <title lang="zh">視界</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311044400 +0800" stop="20260311052700 +0800" channel="海南衛視">
-    <title lang="zh">午夜劇場</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260311052700 +0800" stop="20260311062800 +0800" channel="海南衛視">
@@ -94714,14 +94296,6 @@
     <title lang="zh">衛視高爾夫</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260311035000 +0800" stop="20260311050500 +0800" channel="重慶衛視">
-    <title lang="zh">謝謝你來了</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311050500 +0800" stop="20260311055600 +0800" channel="重慶衛視">
-    <title lang="zh">鐵道游擊隊(22)</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260311055600 +0800" stop="20260311064400 +0800" channel="重慶衛視">
     <title lang="zh">鐵道游擊隊(23)</title>
     <desc lang="zh"> </desc>
@@ -94950,11 +94524,11 @@
     <title lang="zh">英雄劇場雪豹(48)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312164000 +0800" stop="20260312174400 +0800" channel="重慶衛視">
+  <programme start="20260312164000 +0800" stop="20260312174500 +0800" channel="重慶衛視">
     <title lang="zh">英雄劇場雪豹(49)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312174400 +0800" stop="20260312180500 +0800" channel="重慶衛視">
+  <programme start="20260312174500 +0800" stop="20260312180500 +0800" channel="重慶衛視">
     <title lang="zh">第1眼新聞</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -95144,22 +94718,6 @@
   </programme>
   <programme start="20260313233200 +0800" stop="20260314000000 +0800" channel="重慶衛視">
     <title lang="zh">午夜劇場蒼狼(24)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311032600 +0800" stop="20260311040700 +0800" channel="深圳衛視">
-    <title lang="zh">緊急行動(18)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311040700 +0800" stop="20260311045100 +0800" channel="深圳衛視">
-    <title lang="zh">緊急行動(19)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311045100 +0800" stop="20260311050700 +0800" channel="深圳衛視">
-    <title lang="zh">科創最前沿</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311050700 +0800" stop="20260311052100 +0800" channel="深圳衛視">
-    <title lang="zh">直財經</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260311052100 +0800" stop="20260311060300 +0800" channel="深圳衛視">
@@ -95442,15 +95000,15 @@
     <title lang="zh">熱播劇場白狼13</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312144200 +0800" stop="20260312154000 +0800" channel="深圳衛視">
+  <programme start="20260312144200 +0800" stop="20260312153800 +0800" channel="深圳衛視">
     <title lang="zh">熱播劇場白狼14</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312154000 +0800" stop="20260312163600 +0800" channel="深圳衛視">
+  <programme start="20260312153800 +0800" stop="20260312163400 +0800" channel="深圳衛視">
     <title lang="zh">熱播劇場白狼15</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312163600 +0800" stop="20260312173300 +0800" channel="深圳衛視">
+  <programme start="20260312163400 +0800" stop="20260312173300 +0800" channel="深圳衛視">
     <title lang="zh">熱播劇場白狼16</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -95686,18 +95244,6 @@
     <title lang="zh">科創最前沿</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260311031000 +0800" stop="20260311042800 +0800" channel="四川衛視">
-    <title lang="zh">百年巨匠</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311042800 +0800" stop="20260311050100 +0800" channel="四川衛視">
-    <title lang="zh">川菜開放日</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311050100 +0800" stop="20260311055500 +0800" channel="四川衛視">
-    <title lang="zh">五號特工組之偷天換月(19)</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260311055500 +0800" stop="20260311070000 +0800" channel="四川衛視">
     <title lang="zh">五號特工組之偷天換月(20)</title>
     <desc lang="zh"> </desc>
@@ -95894,11 +95440,11 @@
     <title lang="zh">真情劇場神槍(32)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312150200 +0800" stop="20260312160300 +0800" channel="四川衛視">
+  <programme start="20260312150200 +0800" stop="20260312160400 +0800" channel="四川衛視">
     <title lang="zh">真情劇場兄弟們上(1)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312160300 +0800" stop="20260312165800 +0800" channel="四川衛視">
+  <programme start="20260312160400 +0800" stop="20260312165800 +0800" channel="四川衛視">
     <title lang="zh">真情劇場兄弟們上(2)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -96056,18 +95602,6 @@
   </programme>
   <programme start="20260313223000 +0800" stop="20260314000000 +0800" channel="四川衛視">
     <title lang="zh">經典劇場</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311031800 +0800" stop="20260311041100 +0800" channel="河南衛視">
-    <title lang="zh">大決戰(35)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311041100 +0800" stop="20260311050400 +0800" channel="河南衛視">
-    <title lang="zh">大決戰(36)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311050400 +0800" stop="20260311055400 +0800" channel="河南衛視">
-    <title lang="zh">大決戰(37)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260311055400 +0800" stop="20260311064700 +0800" channel="河南衛視">
@@ -96278,15 +95812,15 @@
     <title lang="zh">陽光劇場西遊記續(11)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312150100 +0800" stop="20260312160200 +0800" channel="河南衛視">
+  <programme start="20260312150100 +0800" stop="20260312160800 +0800" channel="河南衛視">
     <title lang="zh">陽光劇場西遊記續(12)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312160200 +0800" stop="20260312170800 +0800" channel="河南衛視">
+  <programme start="20260312160800 +0800" stop="20260312171400 +0800" channel="河南衛視">
     <title lang="zh">陽光劇場西遊記續(13)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312170800 +0800" stop="20260312181500 +0800" channel="河南衛視">
+  <programme start="20260312171400 +0800" stop="20260312181500 +0800" channel="河南衛視">
     <title lang="zh">陽光劇場西遊記續(14)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -96502,18 +96036,6 @@
     <title lang="zh">晚間劇場亮劍(20)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260311031900 +0800" stop="20260311040900 +0800" channel="東南衛視">
-    <title lang="zh">海洋季風·原來是這樣</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311040900 +0800" stop="20260311044000 +0800" channel="東南衛視">
-    <title lang="zh">海洋季風·海好遇見你</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311044000 +0800" stop="20260311053800 +0800" channel="東南衛視">
-    <title lang="zh">玩轉海岸線</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260311053800 +0800" stop="20260311061100 +0800" channel="東南衛視">
     <title lang="zh">西遊記續集</title>
     <desc lang="zh"> </desc>
@@ -96694,15 +96216,15 @@
     <title lang="zh">偶像劇場武松</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312145400 +0800" stop="20260312154800 +0800" channel="東南衛視">
+  <programme start="20260312145400 +0800" stop="20260312154700 +0800" channel="東南衛視">
     <title lang="zh">偶像劇場武松</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312154800 +0800" stop="20260312164000 +0800" channel="東南衛視">
+  <programme start="20260312154700 +0800" stop="20260312164100 +0800" channel="東南衛視">
     <title lang="zh">偶像劇場武松</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312164000 +0800" stop="20260312173300 +0800" channel="東南衛視">
+  <programme start="20260312164100 +0800" stop="20260312173300 +0800" channel="東南衛視">
     <title lang="zh">偶像劇場武松</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -96888,14 +96410,6 @@
   </programme>
   <programme start="20260313235000 +0800" stop="20260314000000 +0800" channel="東南衛視">
     <title lang="zh">夜間劇場</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311031000 +0800" stop="20260311042900 +0800" channel="貴州衛視">
-    <title lang="zh">熟年(7)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311042900 +0800" stop="20260311052500 +0800" channel="貴州衛視">
-    <title lang="zh">這一站貴州節日篇(4)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260311052500 +0800" stop="20260311060500 +0800" channel="貴州衛視">
@@ -97098,19 +96612,19 @@
     <title lang="zh">白天劇場遊擊英雄(18)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312150500 +0800" stop="20260312155900 +0800" channel="貴州衛視">
+  <programme start="20260312150500 +0800" stop="20260312160000 +0800" channel="貴州衛視">
     <title lang="zh">白天劇場遊擊英雄(19)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312155900 +0800" stop="20260312165100 +0800" channel="貴州衛視">
+  <programme start="20260312160000 +0800" stop="20260312165200 +0800" channel="貴州衛視">
     <title lang="zh">白天劇場遊擊英雄(20)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312165100 +0800" stop="20260312175100 +0800" channel="貴州衛視">
+  <programme start="20260312165200 +0800" stop="20260312175200 +0800" channel="貴州衛視">
     <title lang="zh">白天劇場遊擊英雄(21)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312175100 +0800" stop="20260312180000 +0800" channel="貴州衛視">
+  <programme start="20260312175200 +0800" stop="20260312180000 +0800" channel="貴州衛視">
     <title lang="zh">花夢令</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -97268,18 +96782,6 @@
   </programme>
   <programme start="20260313233000 +0800" stop="20260314000000 +0800" channel="貴州衛視">
     <title lang="zh">我爲什麼住在這裏</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311032900 +0800" stop="20260311041000 +0800" channel="江西衛視">
-    <title lang="zh">正者無敵(17)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311041000 +0800" stop="20260311045100 +0800" channel="江西衛視">
-    <title lang="zh">正者無敵(18)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311045100 +0800" stop="20260311053200 +0800" channel="江西衛視">
-    <title lang="zh">正者無敵(19)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260311053200 +0800" stop="20260311064800 +0800" channel="江西衛視">
@@ -97642,18 +97144,6 @@
     <title lang="zh">精品劇場</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260311032200 +0800" stop="20260311040400 +0800" channel="遼寧衛視">
-    <title lang="zh">五號特工組(10)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311040400 +0800" stop="20260311044500 +0800" channel="遼寧衛視">
-    <title lang="zh">五號特工組(11)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311044500 +0800" stop="20260311054100 +0800" channel="遼寧衛視">
-    <title lang="zh">歡樂點點</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260311054100 +0800" stop="20260311063000 +0800" channel="遼寧衛視">
     <title lang="zh">黑土地</title>
     <desc lang="zh"> </desc>
@@ -97858,11 +97348,11 @@
     <title lang="zh">白天劇場父母愛情32</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312165600 +0800" stop="20260312175300 +0800" channel="遼寧衛視">
+  <programme start="20260312165600 +0800" stop="20260312174900 +0800" channel="遼寧衛視">
     <title lang="zh">歡樂集結號</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312175300 +0800" stop="20260312182500 +0800" channel="遼寧衛視">
+  <programme start="20260312174900 +0800" stop="20260312182500 +0800" channel="遼寧衛視">
     <title lang="zh">歡樂點點</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -98060,18 +97550,6 @@
   </programme>
   <programme start="20260313235200 +0800" stop="20260314000000 +0800" channel="遼寧衛視">
     <title lang="zh">紫禁城</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311025400 +0800" stop="20260311042800 +0800" channel="安徽衛視">
-    <title lang="zh">男生女生向前衝17</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311042800 +0800" stop="20260311050600 +0800" channel="安徽衛視">
-    <title lang="zh">健康大問診</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311050600 +0800" stop="20260311053500 +0800" channel="安徽衛視">
-    <title lang="zh">每日新聞報</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260311053500 +0800" stop="20260311063000 +0800" channel="安徽衛視">
@@ -98387,19 +97865,19 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260313144300 +0800" stop="20260313153000 +0800" channel="安徽衛視">
-    <title lang="zh">真情劇場烈火(11)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260313153000 +0800" stop="20260313162000 +0800" channel="安徽衛視">
     <title lang="zh">真情劇場烈火(12)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313162000 +0800" stop="20260313170800 +0800" channel="安徽衛視">
+  <programme start="20260313153000 +0800" stop="20260313162000 +0800" channel="安徽衛視">
     <title lang="zh">真情劇場烈火(13)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313170800 +0800" stop="20260313180000 +0800" channel="安徽衛視">
+  <programme start="20260313162000 +0800" stop="20260313170800 +0800" channel="安徽衛視">
     <title lang="zh">真情劇場烈火(14)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260313170800 +0800" stop="20260313180000 +0800" channel="安徽衛視">
+    <title lang="zh">真情劇場烈火(15)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260313180000 +0800" stop="20260313183000 +0800" channel="安徽衛視">
@@ -98436,18 +97914,6 @@
   </programme>
   <programme start="20260313234800 +0800" stop="20260314000000 +0800" channel="安徽衛視">
     <title lang="zh">創業中國人</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311032500 +0800" stop="20260311041000 +0800" channel="河北衛視">
-    <title lang="zh">羣星閃耀時(20)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311041000 +0800" stop="20260311050100 +0800" channel="河北衛視">
-    <title lang="zh">羣星閃耀時(21)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311050100 +0800" stop="20260311054400 +0800" channel="河北衛視">
-    <title lang="zh">羣星閃耀時(22)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260311054400 +0800" stop="20260311063000 +0800" channel="河北衛視">
@@ -98634,15 +98100,15 @@
     <title lang="zh">經典劇場朱元璋(55)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312150800 +0800" stop="20260312160500 +0800" channel="河北衛視">
+  <programme start="20260312150800 +0800" stop="20260312160700 +0800" channel="河北衛視">
     <title lang="zh">經典劇場朱元璋(56)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312160500 +0800" stop="20260312165900 +0800" channel="河北衛視">
+  <programme start="20260312160700 +0800" stop="20260312170000 +0800" channel="河北衛視">
     <title lang="zh">經典劇場朱元璋(57)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312165900 +0800" stop="20260312175500 +0800" channel="河北衛視">
+  <programme start="20260312170000 +0800" stop="20260312175500 +0800" channel="河北衛視">
     <title lang="zh">經典劇場朱元璋(58)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -98812,14 +98278,6 @@
   </programme>
   <programme start="20260313233400 +0800" stop="20260314000000 +0800" channel="河北衛視">
     <title lang="zh">三叉戟2(4)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311005700 +0800" stop="20260311045700 +0800" channel="山東衛視">
-    <title lang="zh">戲宇宙2</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311045700 +0800" stop="20260311053700 +0800" channel="山東衛視">
-    <title lang="zh">鐵道游擊隊(46)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260311053700 +0800" stop="20260311062200 +0800" channel="山東衛視">
@@ -99046,15 +98504,11 @@
     <title lang="zh">愛家劇場彭德懷元帥</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312155700 +0800" stop="20260312163100 +0800" channel="山東衛視">
+  <programme start="20260312155700 +0800" stop="20260312163000 +0800" channel="山東衛視">
     <title lang="zh">愛家劇場彭德懷元帥</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312163100 +0800" stop="20260312170300 +0800" channel="山東衛視">
-    <title lang="zh">愛家劇場彭德懷元帥</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260312170300 +0800" stop="20260312174700 +0800" channel="山東衛視">
+  <programme start="20260312163000 +0800" stop="20260312174700 +0800" channel="山東衛視">
     <title lang="zh">愛家劇場彭德懷元帥</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -99167,27 +98621,27 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260313130400 +0800" stop="20260313134900 +0800" channel="山東衛視">
-    <title lang="zh">愛家劇場大染坊</title>
+    <title lang="zh">愛家劇場彭德懷元帥</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260313134900 +0800" stop="20260313143300 +0800" channel="山東衛視">
-    <title lang="zh">愛家劇場大染坊</title>
+    <title lang="zh">愛家劇場彭德懷元帥</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260313143300 +0800" stop="20260313152200 +0800" channel="山東衛視">
-    <title lang="zh">愛家劇場大染坊</title>
+    <title lang="zh">愛家劇場彭德懷元帥</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260313152200 +0800" stop="20260313160600 +0800" channel="山東衛視">
-    <title lang="zh">愛家劇場大染坊</title>
+    <title lang="zh">愛家劇場彭德懷元帥</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260313160600 +0800" stop="20260313165100 +0800" channel="山東衛視">
-    <title lang="zh">愛家劇場大染坊</title>
+    <title lang="zh">愛家劇場彭德懷元帥</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260313165100 +0800" stop="20260313172700 +0800" channel="山東衛視">
-    <title lang="zh">愛家劇場大染坊</title>
+    <title lang="zh">愛家劇場彭德懷元帥</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260313172700 +0800" stop="20260313175800 +0800" channel="山東衛視">
@@ -99236,14 +98690,6 @@
   </programme>
   <programme start="20260313222600 +0800" stop="20260314000000 +0800" channel="山東衛視">
     <title lang="zh">精英劇場</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311035600 +0800" stop="20260311045600 +0800" channel="天津衛視">
-    <title lang="zh">津門飛鷹(29)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311045600 +0800" stop="20260311060100 +0800" channel="天津衛視">
-    <title lang="zh">津門飛鷹(30)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260311060100 +0800" stop="20260311070000 +0800" channel="天津衛視">
@@ -99406,15 +98852,15 @@
     <title lang="zh">休閒劇場鐵道游擊隊上部(23)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312144700 +0800" stop="20260312160000 +0800" channel="天津衛視">
+  <programme start="20260312144700 +0800" stop="20260312155900 +0800" channel="天津衛視">
     <title lang="zh">休閒劇場鐵道游擊隊上部(24)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312160000 +0800" stop="20260312171000 +0800" channel="天津衛視">
+  <programme start="20260312155900 +0800" stop="20260312171300 +0800" channel="天津衛視">
     <title lang="zh">休閒劇場鐵道游擊隊上部(25)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312171000 +0800" stop="20260312182000 +0800" channel="天津衛視">
+  <programme start="20260312171300 +0800" stop="20260312182000 +0800" channel="天津衛視">
     <title lang="zh">休閒劇場鐵道游擊隊上部(26)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -99568,22 +99014,6 @@
   </programme>
   <programme start="20260313233000 +0800" stop="20260314000000 +0800" channel="天津衛視">
     <title lang="zh">馬王堆歲月不朽(3)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311033600 +0800" stop="20260311040600 +0800" channel="吉林衛視">
-    <title lang="zh">跨過鴨綠江(39)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311040600 +0800" stop="20260311043600 +0800" channel="吉林衛視">
-    <title lang="zh">跨過鴨綠江(40)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311043600 +0800" stop="20260311050600 +0800" channel="吉林衛視">
-    <title lang="zh">跨過鴨綠江(41)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311050600 +0800" stop="20260311053600 +0800" channel="吉林衛視">
-    <title lang="zh">跨過鴨綠江(42)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260311053600 +0800" stop="20260311060900 +0800" channel="吉林衛視">
@@ -100018,10 +99448,6 @@
     <title lang="zh">凌晨劇場情滿九道彎(18)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260311010700 +0800" stop="20260311055800 +0800" channel="陝西衛視">
-    <title lang="zh">晚曲,彩圖</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260311055800 +0800" stop="20260311062900 +0800" channel="陝西衛視">
     <title lang="zh">彩圖,晨曲</title>
     <desc lang="zh"> </desc>
@@ -100202,11 +99628,11 @@
     <title lang="zh">溫情劇場薛平貴與王寶釧(17)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312153500 +0800" stop="20260312163600 +0800" channel="陝西衛視">
+  <programme start="20260312153500 +0800" stop="20260312163700 +0800" channel="陝西衛視">
     <title lang="zh">溫情劇場薛平貴與王寶釧(18)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312163600 +0800" stop="20260312174500 +0800" channel="陝西衛視">
+  <programme start="20260312163700 +0800" stop="20260312174500 +0800" channel="陝西衛視">
     <title lang="zh">溫情劇場薛平貴與王寶釧(19)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -100372,22 +99798,6 @@
   </programme>
   <programme start="20260313230000 +0800" stop="20260314000000 +0800" channel="陝西衛視">
     <title lang="zh">智取華山</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311035300 +0800" stop="20260311042600 +0800" channel="甘肅衛視">
-    <title lang="zh">信者無敵(14)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311042600 +0800" stop="20260311044900 +0800" channel="甘肅衛視">
-    <title lang="zh">新聞晚高峯</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311044900 +0800" stop="20260311052000 +0800" channel="甘肅衛視">
-    <title lang="zh">紀錄30分黃河從草原上流過(2)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311052000 +0800" stop="20260311055300 +0800" channel="甘肅衛視">
-    <title lang="zh">大漠槍神(13)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260311055300 +0800" stop="20260311062300 +0800" channel="甘肅衛視">
@@ -100886,18 +100296,6 @@
     <title lang="zh">月牙泉劇場大漠槍神(10)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260311040000 +0800" stop="20260311042500 +0800" channel="寧夏衛視">
-    <title lang="zh">馬王堆·歲月不朽</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311042500 +0800" stop="20260311044000 +0800" channel="寧夏衛視">
-    <title lang="zh">家園2</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311044000 +0800" stop="20260311045500 +0800" channel="寧夏衛視">
-    <title lang="zh">品牌寧夏</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260311045500 +0800" stop="20260311070000 +0800" channel="寧夏衛視">
     <title lang="zh">紅日</title>
     <desc lang="zh"> </desc>
@@ -101114,11 +100512,11 @@
     <title lang="zh">溫情劇場星星的故鄉(25)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312154600 +0800" stop="20260312163500 +0800" channel="寧夏衛視">
+  <programme start="20260312154600 +0800" stop="20260312163600 +0800" channel="寧夏衛視">
     <title lang="zh">溫情劇場父輩的榮耀(1)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312163500 +0800" stop="20260312172500 +0800" channel="寧夏衛視">
+  <programme start="20260312163600 +0800" stop="20260312172500 +0800" channel="寧夏衛視">
     <title lang="zh">溫情劇場父輩的榮耀(2)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -101344,18 +100742,6 @@
   </programme>
   <programme start="20260313234500 +0800" stop="20260314000000 +0800" channel="寧夏衛視">
     <title lang="zh">百年巨匠科技篇-鄧稼先</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311033900 +0800" stop="20260311042100 +0800" channel="內蒙古衛視">
-    <title lang="zh">狼毒花(17)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311042100 +0800" stop="20260311050000 +0800" channel="內蒙古衛視">
-    <title lang="zh">狼毒花(18)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311050000 +0800" stop="20260311054200 +0800" channel="內蒙古衛視">
-    <title lang="zh">狼毒花(19)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260311054200 +0800" stop="20260311062400 +0800" channel="內蒙古衛視">
@@ -101590,15 +100976,15 @@
     <title lang="zh">傳奇劇場戰火青春14</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312155100 +0800" stop="20260312163500 +0800" channel="內蒙古衛視">
+  <programme start="20260312155100 +0800" stop="20260312163200 +0800" channel="內蒙古衛視">
     <title lang="zh">傳奇劇場戰火青春15</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312163500 +0800" stop="20260312171900 +0800" channel="內蒙古衛視">
+  <programme start="20260312163200 +0800" stop="20260312171500 +0800" channel="內蒙古衛視">
     <title lang="zh">傳奇劇場戰火青春16</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312171900 +0800" stop="20260312180000 +0800" channel="內蒙古衛視">
+  <programme start="20260312171500 +0800" stop="20260312180000 +0800" channel="內蒙古衛視">
     <title lang="zh">傳奇劇場戰火青春17</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -101786,14 +101172,6 @@
     <title lang="zh">我們的日子</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260311021700 +0800" stop="20260311044600 +0800" channel="雲南衛視">
-    <title lang="zh">百年巨匠</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311044600 +0800" stop="20260311053500 +0800" channel="雲南衛視">
-    <title lang="zh">我們的新時代(29)</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260311053500 +0800" stop="20260311062000 +0800" channel="雲南衛視">
     <title lang="zh">我們的新時代(30)</title>
     <desc lang="zh"> </desc>
@@ -101978,15 +101356,15 @@
     <title lang="zh">薛平貴與王寶釧(17)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312150700 +0800" stop="20260312161200 +0800" channel="雲南衛視">
+  <programme start="20260312150700 +0800" stop="20260312161500 +0800" channel="雲南衛視">
     <title lang="zh">薛平貴與王寶釧(18)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312161200 +0800" stop="20260312171900 +0800" channel="雲南衛視">
+  <programme start="20260312161500 +0800" stop="20260312172100 +0800" channel="雲南衛視">
     <title lang="zh">薛平貴與王寶釧(19)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312171900 +0800" stop="20260312183000 +0800" channel="雲南衛視">
+  <programme start="20260312172100 +0800" stop="20260312183000 +0800" channel="雲南衛視">
     <title lang="zh">薛平貴與王寶釧(20)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -102184,10 +101562,6 @@
   </programme>
   <programme start="20260313235200 +0800" stop="20260314000000 +0800" channel="雲南衛視">
     <title lang="zh">我們的新時代(44)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311024000 +0800" stop="20260311041700 +0800" channel="山西衛視">
-    <title lang="zh">一江春水向東流</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260311041700 +0800" stop="20260311060700 +0800" channel="山西衛視">
@@ -102570,14 +101944,6 @@
     <title lang="zh">熱血劇場大宅門</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260311045900 +0800" stop="20260311052900 +0800" channel="青海衛視">
-    <title lang="zh">紀錄時間</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311052900 +0800" stop="20260311055800 +0800" channel="青海衛視">
-    <title lang="zh">紀錄時間</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260311055800 +0800" stop="20260311061300 +0800" channel="青海衛視">
     <title lang="zh">咖寶車神之燃獸風暴</title>
     <desc lang="zh"> </desc>
@@ -102774,11 +102140,11 @@
     <title lang="zh">崑崙劇場大宅門41</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312153600 +0800" stop="20260312162400 +0800" channel="青海衛視">
+  <programme start="20260312153600 +0800" stop="20260312162500 +0800" channel="青海衛視">
     <title lang="zh">崑崙劇場大宅門42</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312162400 +0800" stop="20260312172200 +0800" channel="青海衛視">
+  <programme start="20260312162500 +0800" stop="20260312172200 +0800" channel="青海衛視">
     <title lang="zh">崑崙劇場大宅門43</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -102928,18 +102294,6 @@
   </programme>
   <programme start="20260313233000 +0800" stop="20260314000000 +0800" channel="青海衛視">
     <title lang="zh">龍鬥天下</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311034400 +0800" stop="20260311043000 +0800" channel="西藏衛視">
-    <title lang="zh">夢中的那片海(38)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311043000 +0800" stop="20260311051900 +0800" channel="西藏衛視">
-    <title lang="zh">歸隊(1)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311051900 +0800" stop="20260311053200 +0800" channel="西藏衛視">
-    <title lang="zh">在西藏</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260311053200 +0800" stop="20260311061700 +0800" channel="西藏衛視">
@@ -103416,42 +102770,6 @@
   </programme>
   <programme start="20260313233300 +0800" stop="20260314000000 +0800" channel="西藏衛視">
     <title lang="zh">無間(7)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311033000 +0800" stop="20260311041500 +0800" channel="中國教育電視臺-1">
-    <title lang="zh">紀錄中國(9)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311041500 +0800" stop="20260311042000 +0800" channel="中國教育電視臺-1">
-    <title lang="zh">國寶時刻(45)青瓷盤口壺</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311042000 +0800" stop="20260311045000 +0800" channel="中國教育電視臺-1">
-    <title lang="zh">發現中國(114)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311045000 +0800" stop="20260311045300 +0800" channel="中國教育電視臺-1">
-    <title lang="zh">導視</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311045300 +0800" stop="20260311045900 +0800" channel="中國教育電視臺-1">
-    <title lang="zh">國寶時刻(37)雙體陶罐</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311045900 +0800" stop="20260311050000 +0800" channel="中國教育電視臺-1">
-    <title lang="zh">導視</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311050000 +0800" stop="20260311052000 +0800" channel="中國教育電視臺-1">
-    <title lang="zh">長安書院(4)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311052000 +0800" stop="20260311053000 +0800" channel="中國教育電視臺-1">
-    <title lang="zh">導視</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311053000 +0800" stop="20260311060000 +0800" channel="中國教育電視臺-1">
-    <title lang="zh">烽火鐵騎(8)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260311060000 +0800" stop="20260311060800 +0800" channel="中國教育電視臺-1">
@@ -104166,14 +103484,6 @@
     <title lang="zh">等着我(67)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260311033900 +0800" stop="20260311043600 +0800" channel="新疆衛視">
-    <title lang="zh">真實紀錄</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311043600 +0800" stop="20260311054300 +0800" channel="新疆衛視">
-    <title lang="zh">決勝零距離(17)</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260311054300 +0800" stop="20260311065100 +0800" channel="新疆衛視">
     <title lang="zh">決勝零距離(18)</title>
     <desc lang="zh"> </desc>
@@ -104358,11 +103668,11 @@
     <title lang="zh">天山劇場北平無戰事(46)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312155500 +0800" stop="20260312170100 +0800" channel="新疆衛視">
+  <programme start="20260312155500 +0800" stop="20260312165600 +0800" channel="新疆衛視">
     <title lang="zh">天山劇場北平無戰事(47)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312170100 +0800" stop="20260312180400 +0800" channel="新疆衛視">
+  <programme start="20260312165600 +0800" stop="20260312180400 +0800" channel="新疆衛視">
     <title lang="zh">天山劇場北平無戰事(48)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -104548,18 +103858,6 @@
   </programme>
   <programme start="20260313234800 +0800" stop="20260314000000 +0800" channel="新疆衛視">
     <title lang="zh">新聞夜班車</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311031800 +0800" stop="20260311041100 +0800" channel="兵團衛視">
-    <title lang="zh">縣委大院(17)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311041100 +0800" stop="20260311043700 +0800" channel="兵團衛視">
-    <title lang="zh">感動</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311043700 +0800" stop="20260311052600 +0800" channel="兵團衛視">
-    <title lang="zh">縣委大院(18)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260311052600 +0800" stop="20260311063500 +0800" channel="兵團衛視">
@@ -104968,26 +104266,6 @@
   </programme>
   <programme start="20260313235000 +0800" stop="20260314000000 +0800" channel="兵團衛視">
     <title lang="zh">劇場</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311035400 +0800" stop="20260311041200 +0800" channel="國學頻道">
-    <title lang="zh">國學18分</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311041200 +0800" stop="20260311044600 +0800" channel="國學頻道">
-    <title lang="zh">國學公開課</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311044600 +0800" stop="20260311051600 +0800" channel="國學頻道">
-    <title lang="zh">國學半小時</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311051600 +0800" stop="20260311052000 +0800" channel="國學頻道">
-    <title lang="zh">固定墊片</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260311052000 +0800" stop="20260311054800 +0800" channel="國學頻道">
-    <title lang="zh">文化中國</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260311054800 +0800" stop="20260311061600 +0800" channel="國學頻道">
@@ -105862,39 +105140,43 @@
     <title lang="zh">全國兩會2026</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312143000 +0800" stop="20260312143700 +0800" channel="香港電臺32">
+  <programme start="20260312143000 +0800" stop="20260312143300 +0800" channel="香港電臺32">
     <title lang="zh">全國兩會2026</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312143700 +0800" stop="20260312150000 +0800" channel="香港電臺32">
+  <programme start="20260312143300 +0800" stop="20260312143700 +0800" channel="香港電臺32">
     <title lang="zh">新聞簡報</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312150000 +0800" stop="20260312153000 +0800" channel="香港電臺32">
-    <title lang="zh">生活．健康．資訊．體育．港式速遞</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260312153000 +0800" stop="20260312153700 +0800" channel="香港電臺32">
+  <programme start="20260312143700 +0800" stop="20260312150000 +0800" channel="香港電臺32">
     <title lang="zh">全國兩會2026</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312153700 +0800" stop="20260312160000 +0800" channel="香港電臺32">
+  <programme start="20260312150000 +0800" stop="20260312154200 +0800" channel="香港電臺32">
+    <title lang="zh">新聞簡報</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260312154200 +0800" stop="20260312160000 +0800" channel="香港電臺32">
     <title lang="zh">生活．健康．資訊．體育．港式速遞</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260312160000 +0800" stop="20260312160700 +0800" channel="香港電臺32">
-    <title lang="zh">生活．健康．資訊．體育．港式速遞</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260312160700 +0800" stop="20260312163000 +0800" channel="香港電臺32">
-    <title lang="zh">新聞簡報</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260312163000 +0800" stop="20260312163700 +0800" channel="香港電臺32">
     <title lang="zh">全國兩會2026</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312163700 +0800" stop="20260312170000 +0800" channel="香港電臺32">
+  <programme start="20260312160700 +0800" stop="20260312163000 +0800" channel="香港電臺32">
+    <title lang="zh">生活．健康．資訊．體育．港式速遞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260312163000 +0800" stop="20260312163700 +0800" channel="香港電臺32">
+    <title lang="zh">新聞簡報</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260312163700 +0800" stop="20260312164400 +0800" channel="香港電臺32">
+    <title lang="zh">全國兩會2026</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260312164400 +0800" stop="20260312170000 +0800" channel="香港電臺32">
     <title lang="zh">全國兩會2026</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -105903,11 +105185,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260312170700 +0800" stop="20260312173000 +0800" channel="香港電臺32">
-    <title lang="zh">生活．健康．資訊．體育．港式速遞</title>
+    <title lang="zh">全國兩會2026</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260312173000 +0800" stop="20260312173700 +0800" channel="香港電臺32">
-    <title lang="zh">新聞簡報</title>
+    <title lang="zh">全國兩會2026</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260312173700 +0800" stop="20260312180000 +0800" channel="香港電臺32">
@@ -105923,7 +105205,7 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260312190000 +0800" stop="20260312190500 +0800" channel="香港電臺32">
-    <title lang="zh">新聞天地</title>
+    <title lang="zh">新聞簡報</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260312190500 +0800" stop="20260312191000 +0800" channel="香港電臺32">
@@ -105931,22 +105213,30 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260312191000 +0800" stop="20260312195500 +0800" channel="香港電臺32">
-    <title lang="zh">香港電臺天氣簡報</title>
+    <title lang="zh">新聞天地</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260312195500 +0800" stop="20260312221500 +0800" channel="香港電臺32">
-    <title lang="zh">盛事傳城</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260312221500 +0800" stop="20260312230000 +0800" channel="香港電臺32">
     <title lang="zh">生活．健康．資訊．體育．港式速遞</title>
     <desc lang="zh"> </desc>
   </programme>
+  <programme start="20260312221500 +0800" stop="20260312230000 +0800" channel="香港電臺32">
+    <title lang="zh">香港電臺天氣簡報</title>
+    <desc lang="zh"> </desc>
+  </programme>
   <programme start="20260312230000 +0800" stop="20260312233000 +0800" channel="香港電臺32">
-    <title lang="zh">2025年香港籃球聯賽</title>
+    <title lang="zh">盛事傳城</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260312233000 +0800" stop="20260312000000 +0800" channel="香港電臺32">
+    <title lang="zh">生活．健康．資訊．體育．港式速遞</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="2026031200 +0800" stop="2026031200 +0800" channel="香港電臺32">
+    <title lang="zh">2025年香港籃球聯賽</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="2026031200 +0800" stop="2026031200 +0800" channel="香港電臺32">
     <title lang="zh">生活．健康．資訊．體育．港式速遞</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -106882,8 +106172,12 @@
     <title lang="zh">非賽事直播時段2026WBC經典賽：202635起完整47場直播 </title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313160000 +0800" stop="20260313200000 +0800" channel="elta體育max 1">
+  <programme start="20260313160000 +0800" stop="20260313175000 +0800" channel="elta體育max 1">
     <title lang="zh">非賽事直播時段2026WBC經典賽：202635起完整47場直播 </title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260313175000 +0800" stop="20260313202500 +0800" channel="elta體育max 1">
+    <title lang="zh">FIS高山滑雪世界盃 法國站 男子下坡賽(原音) 313 LIVE</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260312200000 +0800" stop="20260313000000 +0800" channel="elta體育max 2">
@@ -570066,14 +569360,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <title lang="zh">The Seasons W</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260312090000 +0000" stop="20260312092800 +0000" channel="中視">
-    <title lang="zh">中視新聞</title>
-    <desc lang="zh">由最專業的中視新聞主播，為您播報最新、最即時的新聞。</desc>
-  </programme>
-  <programme start="20260312092800 +0000" stop="20260312095800 +0000" channel="中視">
-    <title lang="zh">中視新聞</title>
-    <desc lang="zh">由最專業的中視新聞主播，為您播報最新、最即時的新聞。</desc>
-  </programme>
   <programme start="20260312095800 +0000" stop="20260312105800 +0000" channel="中視">
     <title lang="zh">中視新聞</title>
     <desc lang="zh">由最專業的中視新聞主播，為您播報最新、最即時的新聞。</desc>
@@ -570825,10 +570111,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
   <programme start="20260317060000 +0000" stop="20260317080000 +0000" channel="華視">
     <title lang="zh">警世劇場</title>
     <desc lang="zh">社會寫實單元劇，劇情效法《X檔案》，以現代辦案的角度來切入鬼神之說，用以警惕世人。篤信科學辦案精神的刑警尚智（謝祖武）有心理學博士學位，他與先天具有陰陽眼的搭檔王玉芳（趙英華），共同調查各種無法用科學解釋的案件，為死者伸冤…</desc>
-  </programme>
-  <programme start="20260312090000 +0000" stop="20260312100000 +0000" channel="好消息2臺">
-    <title lang="zh">大衛鮑森講座</title>
-    <desc lang="zh">聖經權威大衛鮑森牧師，帶你以宏觀的神學角度，觀看神偉大的神性與恩典，並從其中明白救恩計畫的重要。</desc>
   </programme>
   <programme start="20260312100000 +0000" stop="20260312103000 +0000" channel="好消息2臺">
     <title lang="zh">共享觀點</title>
@@ -571718,14 +571000,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <title lang="zh">福氣人生</title>
     <desc lang="zh">如何才能擁有福氣人生?看牧師們以臺語分享聖經的真理，讓你領受天國滿滿的福氣與祝福。</desc>
   </programme>
-  <programme start="20260312090000 +0000" stop="20260312093000 +0000" channel="好消息">
-    <title lang="zh">大家說英語</title>
-    <desc lang="zh">將最受歡迎的美語生活會話雜誌《大家說英語》內容製作成電視教學節目，教學輕鬆活潑，以生活實用會話為單元主題，是新聞局推薦的優質節目。不僅能幫助您輕鬆開口說英語，更提供許多實用的英語語彙與技巧，讓您用簡單的單字，就能說一口漂亮英語。</desc>
-  </programme>
-  <programme start="20260312093000 +0000" stop="20260312100000 +0000" channel="好消息">
-    <title lang="zh">蔬菜舞臺秀</title>
-    <desc lang="zh">經過多年的休養生息，番茄小布與黃瓜賴瑞捲土重來，提案向尼撒老闆租借戲院，他們想要推出大手筆的現場表演歌舞劇，讓大小朋友嘆為觀止，並且一如初衷，要透過這齣曠世鉅作來改變世界！</desc>
-  </programme>
   <programme start="20260312100000 +0000" stop="20260312103000 +0000" channel="好消息">
     <title lang="zh">福氣人生</title>
     <desc lang="zh">如何才能擁有福氣人生?看牧師們以臺語分享聖經的真理，讓你領受天國滿滿的福氣與祝福。</desc>
@@ -572610,10 +571884,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <title lang="zh">道在人間(國)</title>
     <desc lang="zh">節目中邀請趙鏞基、葉光明、傑克海福德、喬依絲邁爾等，國內外知名牧長，以豐富的服事經歷與紮實的神學裝備，教導、傳講聖經真道，堅固信徒並警醒人心。</desc>
   </programme>
-  <programme start="20260312090000 +0000" stop="20260312100000 +0000" channel="ELTV生活英語臺">
-    <title lang="zh">PORORO</title>
-    <desc lang="zh">一隻充滿好奇心的小企鵝-Pororo，因為喜歡嘗試新的事物，且用盡方法瞭解它們，進而惹來許多小麻煩，但在嘗試新事物的過程中也為大家帶來無限歡樂。</desc>
-  </programme>
   <programme start="20260312100000 +0000" stop="20260312110000 +0000" channel="ELTV生活英語臺">
     <title lang="zh">森林偵探隊</title>
     <desc lang="zh">南韓EBS與Bigstar Global共同製播的卡通，可輕鬆認識大自然的樣貌。各個謎團揉合在森林的浩瀚中，期待觀眾跟著偵探隊，細細品味在這森林的每個故事。</desc>
@@ -573185,18 +572455,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
   <programme start="20260317073000 +0000" stop="20260317080000 +0000" channel="ELTV生活英語臺">
     <title lang="zh">歡唱小精靈</title>
     <desc lang="zh">暫無描述</desc>
-  </programme>
-  <programme start="20260312090000 +0000" stop="20260312093000 +0000" channel="龍華卡通臺">
-    <title lang="zh">海鸚歷險記</title>
-    <desc lang="zh">電影《北極戰隊》的衍生劇集，講述北極海鸚們執行任務的冒險故事，以及可愛有趣的北極日常。並透過輕鬆、搞笑的劇情，帶領小朋友認識環境汙染等社會議題。</desc>
-  </programme>
-  <programme start="20260312093000 +0000" stop="20260312100000 +0000" channel="龍華卡通臺">
-    <title lang="zh">海鸚歷險記</title>
-    <desc lang="zh">電影《北極戰隊》的衍生劇集，講述北極海鸚們執行任務的冒險故事，以及可愛有趣的北極日常。並透過輕鬆、搞笑的劇情，帶領小朋友認識環境汙染等社會議題。</desc>
-  </programme>
-  <programme start="20260312100000 +0000" stop="20260312103000 +0000" channel="龍華卡通臺">
-    <title lang="zh">淘氣鼠兄弟</title>
-    <desc lang="zh">小唐是一隻擬人化的粉紅色小狗，與莫圖、蘭布、喬圖三隻鼠兄弟合住一個房子。小唐時常被老鼠們惹惱，吵吵鬧鬧的生活讓相看兩厭的他們會產生什麼火花呢</desc>
   </programme>
   <programme start="20260312103000 +0000" stop="20260312110000 +0000" channel="龍華卡通臺">
     <title lang="zh">淘氣鼠兄弟</title>
@@ -574078,10 +573336,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <title lang="zh">淘氣鼠兄弟</title>
     <desc lang="zh">小唐是一隻擬人化的粉紅色小狗，與莫圖、蘭布、喬圖三隻鼠兄弟合住一個房子。小唐時常被老鼠們惹惱，吵吵鬧鬧的生活讓相看兩厭的他們會產生什麼火花呢</desc>
   </programme>
-  <programme start="20260312090000 +0000" stop="20260312100000 +0000" channel="亞洲旅遊臺">
-    <title lang="zh">效廉出發吧</title>
-    <desc lang="zh">東森超視全新外景旅遊實境綜藝節目，由跨世代人夫許效舜、威廉攜手主持。兩位私交甚篤的知己好友，將在節目中分享彼此人生故事，帶觀眾深入瞭解每個城鎮獨有的歷史人文，探索每個地方的特色美食生活。一段見證男人友誼的旅行，就此展開！</desc>
-  </programme>
   <programme start="20260312100000 +0000" stop="20260312110000 +0000" channel="亞洲旅遊臺">
     <title lang="zh">型男闖世界</title>
     <desc lang="zh">《型男闖世界》前往世界各地的特殊景點或深山祕境，挑戰極限運動，尋找奇人異事、踏尋隱身在叢林邊境的傳說、進行各種挑戰及探險。</desc>
@@ -574554,10 +573808,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <title lang="zh">嗨 Let’s Go</title>
     <desc lang="zh">旅行該怎麼玩呢？有人喜歡喫美食、看風景、體驗人文與歷史；也有人只想瘋血拼、追潮流、享奢華；更有人愛自然、愛冒險，當起揹包客最逍遙！其實，無論哪種旅遊方式和玩法，只要懂門道，都能玩出最精彩！</desc>
   </programme>
-  <programme start="20260312090000 +0000" stop="20260312100000 +0000" channel="Smart知識臺">
-    <title lang="zh">全民星攻略</title>
-    <desc lang="zh">東森綜合臺全新益智實境節目，「全民星攻略」，由館長曾國城擔任把關者，考驗著每個來挑戰九宮格益智遊戲藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理想分析，纔有機會獲取智慧星幣，帶走夢幻大獎。</desc>
-  </programme>
   <programme start="20260312100000 +0000" stop="20260312110000 +0000" channel="Smart知識臺">
     <title lang="zh">健康2.0</title>
     <desc lang="zh">在節目中，將以各種深入淺出的方式，檢測時下流行的健康產品的效用，示範健康烹調與運動方法，並與觀眾分享照顧家人的健康資訊與心得。</desc>
@@ -574989,10 +574239,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
   <programme start="20260317070000 +0000" stop="20260317080000 +0000" channel="Smart知識臺">
     <title lang="zh">全民星攻略</title>
     <desc lang="zh">東森綜合臺全新益智實境節目，「全民星攻略」，由館長曾國城擔任把關者，考驗著每個來挑戰九宮格益智遊戲藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理想分析，纔有機會獲取智慧星幣，帶走夢幻大獎。</desc>
-  </programme>
-  <programme start="20260312090000 +0000" stop="20260312100000 +0000" channel="龍華戲劇臺">
-    <title lang="zh">陸貞傳奇</title>
-    <desc lang="zh">陸貞原為千金小姐，但父親過世後，繼母狠心將其嫁給老商人。大婚之日，陸貞逃婚，幸得皇弟高湛所救，並獲得貼身玉佩而進宮。認真努力的陸貞遭人忌妒陷害，高湛屢屢營救；朱太后深怕高湛奪權，處心積慮想害死高湛。陸貞與高湛的命運究竟會如何呢？</desc>
   </programme>
   <programme start="20260312100000 +0000" stop="20260312110000 +0000" channel="龍華戲劇臺">
     <title lang="zh">軍師聯盟</title>
@@ -575466,14 +574712,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <title lang="zh">雲襄傳</title>
     <desc lang="zh">講述翩翩公子雲襄（陳曉）背負門中使命步入江湖，意外結識勁颯女俠舒亞男（毛曉彤）、世家公子蘇鳴玉（唐曉天）、快手刀客金彪（劉冠麟）等幾位好友，眾人在波詭雲譎的江湖紛爭中快意恩仇，成長蛻變，捍衛仁德與心中正義的故事。</desc>
   </programme>
-  <programme start="20260312093000 +0000" stop="20260312100000 +0000" channel="臺灣戲劇臺">
-    <title lang="zh">親戚不計較</title>
-    <desc lang="zh">由卓勝利、李鑼等人主演，本劇雖以喜劇的方式呈現，但笑中有淚，淚中有悟，悟中有得，令人深思！</desc>
-  </programme>
-  <programme start="20260312100000 +0000" stop="20260312103000 +0000" channel="臺灣戲劇臺">
-    <title lang="zh">親戚不計較</title>
-    <desc lang="zh">由卓勝利、李鑼等人主演，本劇雖以喜劇的方式呈現，但笑中有淚，淚中有悟，悟中有得，令人深思！</desc>
-  </programme>
   <programme start="20260312103000 +0000" stop="20260312110000 +0000" channel="臺灣戲劇臺">
     <title lang="zh">親戚不計較</title>
     <desc lang="zh">由卓勝利、李鑼等人主演，本劇雖以喜劇的方式呈現，但笑中有淚，淚中有悟，悟中有得，令人深思！</desc>
@@ -575941,14 +575179,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
   <programme start="20260317070000 +0000" stop="20260317080000 +0000" channel="臺灣戲劇臺">
     <title lang="zh">包青天</title>
     <desc lang="zh">仁宗皇帝在位期間，包拯（金超羣）升任開封府府尹執掌京畿，剛直耿介、鐵面無私、明察秋毫、斷案如神，百姓愛戴敬仰尊稱為“包青天”。並有公孫策（範鴻軒）與南俠展昭（何家勁）一文一武兩員大將，使得包拯屢破奇案屢建奇功。</desc>
-  </programme>
-  <programme start="20260312084000 +0000" stop="20260312092000 +0000" channel="東森購物1臺">
-    <title lang="zh">鎖定CH.43、CH.49選購</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
-  <programme start="20260312092000 +0000" stop="20260312100000 +0000" channel="東森購物1臺">
-    <title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title>
-    <desc lang="zh">暫無描述</desc>
   </programme>
   <programme start="20260312100000 +0000" stop="20260312104000 +0000" channel="東森購物1臺">
     <title lang="zh">鎖定CH.43、CH.49選購</title>
@@ -577614,14 +576844,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <title lang="zh">WWW檢索愛情</title>
     <desc lang="zh">在業界頂尖門戶網站公司Barro任職的裴朵美（林秀晶）、車賢（李多熙）與宋佳景（田慧振），是三個沒有選擇成為妻子或母親的當今職業婦女，劇情描述三人在業界激烈的競爭故事，與她們現實生活中遇到各自命中註定的那個男人…</desc>
   </programme>
-  <programme start="20260312084000 +0000" stop="20260312092000 +0000" channel="東森購物2臺">
-    <title lang="zh">鎖定CH.43、CH.49選購</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
-  <programme start="20260312092000 +0000" stop="20260312100000 +0000" channel="東森購物2臺">
-    <title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
   <programme start="20260312100000 +0000" stop="20260312104000 +0000" channel="東森購物2臺">
     <title lang="zh">鎖定CH.43、CH.49選購</title>
     <desc lang="zh">暫無描述</desc>
@@ -578782,10 +578004,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <title lang="zh">華視1500整點新聞</title>
     <desc lang="zh">以最客觀的角度，最專業的主播，為觀眾完整報導上午發生之重大國內外重要新聞。</desc>
   </programme>
-  <programme start="20260312040000 +0000" stop="20260312100000 +0000" channel="倪珍播新聞">
-    <title lang="zh">午安新聞</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
   <programme start="20260312100000 +0000" stop="20260312160000 +0000" channel="倪珍播新聞">
     <title lang="zh">晚安新聞</title>
     <desc lang="zh">暫無描述</desc>
@@ -578861,10 +578079,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
   <programme start="20260316220000 +0000" stop="20260317040000 +0000" channel="倪珍播新聞">
     <title lang="zh">早安新聞</title>
     <desc lang="zh">暫無描述</desc>
-  </programme>
-  <programme start="20260312090000 +0000" stop="20260312100000 +0000" channel="三立新聞iNEWS">
-    <title lang="zh">iNEWS1700整點新聞</title>
-    <desc lang="zh">三立iNEWS製播的財經新聞節目，由最專業的財經主播帶來國際時事、財經股匯市報導、深度新聞、時事評論…等內容。</desc>
   </programme>
   <programme start="20260312100000 +0000" stop="20260312115500 +0000" channel="三立新聞iNEWS">
     <title lang="zh">1819錢進大頭條</title>
@@ -579309,10 +578523,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
   <programme start="20260317070000 +0000" stop="20260317080000 +0000" channel="三立新聞iNEWS">
     <title lang="zh">智富食代</title>
     <desc lang="zh">顛覆傳統旅遊節目，而是以全新新聞性、知識性旅遊資訊節目，呈現觀眾眼前。輕鬆有趣的內容中，將觀光經濟數字、各地房價、消費指數及各地風土民情融入結合。要學怎麼贏、先學怎麼玩！女漢子兩條路線PK旅行大挑戰。</desc>
-  </programme>
-  <programme start="20260312090000 +0000" stop="20260312100000 +0000" channel="寰宇財經臺">
-    <title lang="zh">打卡吧!我的炫FOOD日記</title>
-    <desc lang="zh">暫無描述</desc>
   </programme>
   <programme start="20260312100000 +0000" stop="20260312110000 +0000" channel="寰宇財經臺">
     <title lang="zh">巷弄美食家</title>
@@ -579786,10 +578996,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <title lang="zh">美食打卡趣</title>
     <desc lang="zh">暫無描述</desc>
   </programme>
-  <programme start="20260312090000 +0000" stop="20260312100000 +0000" channel="中視新聞">
-    <title lang="zh">新庶民大頭家</title>
-    <desc lang="zh">中視新聞全新政論節目，每日帶給你超勁爆話題討論，歡迎庶民們一起來follow。</desc>
-  </programme>
   <programme start="20260312100000 +0000" stop="20260312105800 +0000" channel="中視新聞">
     <title lang="zh">中視新聞全球報導</title>
     <desc lang="zh">中視每晚七點由主播哈遠儀為全國觀眾最專業、準確的新聞報導。</desc>
@@ -580261,10 +579467,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
   <programme start="20260317070000 +0000" stop="20260317080000 +0000" channel="中視新聞">
     <title lang="zh">中視新聞即時現場</title>
     <desc lang="zh">由主播蕭惠文播報，以SNG車讓觀眾看到最即時的新聞報導，並以最客觀的角度，為觀眾完整報導上午發生之重要新聞。</desc>
-  </programme>
-  <programme start="20260312090000 +0000" stop="20260312100000 +0000" channel="中天新聞臺">
-    <title lang="zh">中天新聞 1700整點新聞</title>
-    <desc lang="zh">收看中天新聞帶給你最即時、最完整、最專業的新聞報導。</desc>
   </programme>
   <programme start="20260312100000 +0000" stop="20260312110000 +0000" channel="中天新聞臺">
     <title lang="zh">中天辣晚報</title>
@@ -580738,10 +579940,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <title lang="zh">15大新聞大爆卦</title>
     <desc lang="zh">每週一到週五《大新聞大爆卦》中天主播陪你一起來解卦！！！</desc>
   </programme>
-  <programme start="20260312085500 +0000" stop="20260312095500 +0000" channel="寰宇新聞臺灣臺">
-    <title lang="zh">寰宇晚間新聞</title>
-    <desc lang="zh">寰宇晚間新聞給你最在地的臺灣新聞、最深入的兩岸焦點，掌握國際情勢帶您瞭解社會脈動。</desc>
-  </programme>
   <programme start="20260312095500 +0000" stop="20260312105500 +0000" channel="寰宇新聞臺灣臺">
     <title lang="zh">寰宇晚間新聞</title>
     <desc lang="zh">寰宇晚間新聞給你最在地的臺灣新聞、最深入的兩岸焦點，掌握國際情勢帶您瞭解社會脈動。</desc>
@@ -581214,10 +580412,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <title lang="zh">寰宇整點新聞</title>
     <desc lang="zh">來自路透的國際新聞、最在地的臺灣新聞以及最深入的兩岸焦點，帶您掌握社會脈動。</desc>
   </programme>
-  <programme start="20260312085500 +0000" stop="20260312095500 +0000" channel="寰宇新聞臺">
-    <title lang="zh">寰宇全球新聞</title>
-    <desc lang="zh">搶先揭露全球各地政經、社會、娛樂的第一手新聞訊息，讓觀眾不漏接關鍵的世界大事。</desc>
-  </programme>
   <programme start="20260312095500 +0000" stop="20260312105500 +0000" channel="寰宇新聞臺">
     <title lang="zh">寰宇全球新聞</title>
     <desc lang="zh">搶先揭露全球各地政經、社會、娛樂的第一手新聞訊息，讓觀眾不漏接關鍵的世界大事。</desc>
@@ -581689,14 +580883,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
   <programme start="20260317065500 +0000" stop="20260317075500 +0000" channel="寰宇新聞臺">
     <title lang="zh">寰宇整點新聞</title>
     <desc lang="zh">來自路透的國際新聞、最在地的臺灣新聞以及最深入的兩岸焦點，帶您掌握社會脈動。</desc>
-  </programme>
-  <programme start="20260312090000 +0000" stop="20260312093000 +0000" channel="第1商業臺">
-    <title lang="zh">股市第一線-顧德投顧-李冠嶔分析師</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
-  <programme start="20260312093000 +0000" stop="20260312100000 +0000" channel="第1商業臺">
-    <title lang="zh">月薪翻倍計畫-顧德投顧-黃紫東分析師</title>
-    <desc lang="zh">暫無描述</desc>
   </programme>
   <programme start="20260312100000 +0000" stop="20260312103000 +0000" channel="第1商業臺">
     <title lang="zh">阪田戰法-寶得富-顧奎國分析師</title>
@@ -582562,10 +581748,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <title lang="zh">期股衝衝衝-寶得富-翁士峻分析師</title>
     <desc lang="zh">暫無描述</desc>
   </programme>
-  <programme start="20260312010000 +0000" stop="20260312100000 +0000" channel="國會頻道1臺">
-    <title lang="zh">立法院會議直播</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
   <programme start="20260312100000 +0000" stop="20260312160000 +0000" channel="國會頻道1臺">
     <title lang="zh">當日立法院會議轉播</title>
     <desc lang="zh">暫無描述</desc>
@@ -582668,10 +581850,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
   </programme>
   <programme start="20260317004700 +0000" stop="20260317010000 +0000" channel="國會頻道1臺">
     <title lang="zh">週二會議預報</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
-  <programme start="20260312010000 +0000" stop="20260312100000 +0000" channel="國會頻道2臺">
-    <title lang="zh">立法院會議直播</title>
     <desc lang="zh">暫無描述</desc>
   </programme>
   <programme start="20260312100000 +0000" stop="20260312160000 +0000" channel="國會頻道2臺">
@@ -582777,10 +581955,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
   <programme start="20260317004700 +0000" stop="20260317010000 +0000" channel="國會頻道2臺">
     <title lang="zh">週二會議預報</title>
     <desc lang="zh">暫無描述</desc>
-  </programme>
-  <programme start="20260312065500 +0000" stop="20260312091000 +0000" channel="龍華經典臺">
-    <title lang="zh">雞排英雄</title>
-    <desc lang="zh">阿華，「臺」得很帥的青春少年兄，身為「八八八夜市」的自治會長，他將夜市打理得有聲有色。某個平靜天，八八八的土地無預警被建商收購，建商利用政商勾結，剝奪他們微薄的權利。阿華率領著八八八，誓死奮戰到底…</desc>
   </programme>
   <programme start="20260312091000 +0000" stop="20260312110000 +0000" channel="龍華經典臺">
     <title lang="zh">摩斯拉</title>
@@ -672157,11 +671331,11 @@ Minnie點名要叫「小顆粒」雨琦反悔也要玩~</desc>
     <title lang="zh">Marutha</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312180000 +0800" stop="20260312183000 +0800" channel="SUN_TV_HD">
+  <programme start="20260312180000 +0800" stop="20260312183300 +0800" channel="SUN_TV_HD">
     <title lang="zh">News</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312183000 +0800" stop="20260312190000 +0800" channel="SUN_TV_HD">
+  <programme start="20260312183300 +0800" stop="20260312190000 +0800" channel="SUN_TV_HD">
     <title lang="zh">Chellame Chellame Ep69</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -673609,11 +672783,11 @@ Minnie點名要叫「小顆粒」雨琦反悔也要玩~</desc>
     <title lang="zh">Kaathuvaakula Rendu Kaadhal</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312174000 +0800" stop="20260312180000 +0800" channel="Colors_Tamil_HD">
+  <programme start="20260312174000 +0800" stop="20260312180200 +0800" channel="Colors_Tamil_HD">
     <title lang="zh">Shiva Shakthi Thiruvilayadal</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260312180000 +0800" stop="20260312183000 +0800" channel="Colors_Tamil_HD">
+  <programme start="20260312180200 +0800" stop="20260312183000 +0800" channel="Colors_Tamil_HD">
     <title lang="zh">Mynaa</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -676973,39 +676147,39 @@ Minnie點名要叫「小顆粒」雨琦反悔也要玩~</desc>
     <title lang="zh">From Phoenix to the World</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313093300 +0800" stop="20260313100300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260313093300 +0800" stop="20260313100200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Panorama</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313100300 +0800" stop="20260313110000 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260313100200 +0800" stop="20260313105900 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313110000 +0800" stop="20260313110300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260313105900 +0800" stop="20260313110200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313110300 +0800" stop="20260313113300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260313110200 +0800" stop="20260313113200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Zoom in</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313113300 +0800" stop="20260313120300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260313113200 +0800" stop="20260313120300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Summary of Press</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313120300 +0800" stop="20260313125800 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260313120300 +0800" stop="20260313125700 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Midday Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313125800 +0800" stop="20260313130300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260313125700 +0800" stop="20260313130300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313130300 +0800" stop="20260313133300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260313130300 +0800" stop="20260313133200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Chief Editor's Time</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313133300 +0800" stop="20260313140300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260313133200 +0800" stop="20260313140300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">We Are One Ep159</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -677017,27 +676191,27 @@ Minnie點名要叫「小顆粒」雨琦反悔也要玩~</desc>
     <title lang="zh">Phoenix Panorama</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313150300 +0800" stop="20260313160000 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260313150300 +0800" stop="20260313155900 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313160000 +0800" stop="20260313160300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260313155900 +0800" stop="20260313160200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313160300 +0800" stop="20260313163300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260313160200 +0800" stop="20260313163200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Talk With World Leaders</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313163300 +0800" stop="20260313170300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260313163200 +0800" stop="20260313170200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">The Great Era</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313170300 +0800" stop="20260313173300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260313170200 +0800" stop="20260313173200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Dreamscapes, Architectural Wonders Ep470</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313173300 +0800" stop="20260313180300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260313173200 +0800" stop="20260313180300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Summary of Press</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -677069,11 +676243,11 @@ Minnie點名要叫「小顆粒」雨琦反悔也要玩~</desc>
     <title lang="zh">Top View</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313210300 +0800" stop="20260313215800 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260313210300 +0800" stop="20260313215700 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Evening Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313215800 +0800" stop="20260313220300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260313215700 +0800" stop="20260313220300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -677085,7 +676259,7 @@ Minnie點名要叫「小顆粒」雨琦反悔也要玩~</desc>
     <title lang="zh">From Phoenix to the World</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313230300 +0800" stop="20260313233300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260313230300 +0800" stop="20260313233200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Asian Financial Insight</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -677401,11 +676575,11 @@ Minnie點名要叫「小顆粒」雨琦反悔也要玩~</desc>
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313063000 +0800" stop="20260313063300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260313063000 +0800" stop="20260313063200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313063300 +0800" stop="20260313070300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260313063200 +0800" stop="20260313070300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Zoom in</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -677429,19 +676603,19 @@ Minnie點名要叫「小顆粒」雨琦反悔也要玩~</desc>
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313093000 +0800" stop="20260313093300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260313093000 +0800" stop="20260313093200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313093300 +0800" stop="20260313100300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260313093200 +0800" stop="20260313100300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Financial Journal</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313100300 +0800" stop="20260313110000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260313100300 +0800" stop="20260313105900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313110000 +0800" stop="20260313110300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260313105900 +0800" stop="20260313110300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -677449,19 +676623,19 @@ Minnie點名要叫「小顆粒」雨琦反悔也要玩~</desc>
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313113000 +0800" stop="20260313113300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260313113000 +0800" stop="20260313113200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313113300 +0800" stop="20260313120300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260313113200 +0800" stop="20260313120300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Chief Editor's Time</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313120300 +0800" stop="20260313125800 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260313120300 +0800" stop="20260313125700 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Midday Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313125800 +0800" stop="20260313130300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260313125700 +0800" stop="20260313130300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -677469,11 +676643,11 @@ Minnie點名要叫「小顆粒」雨琦反悔也要玩~</desc>
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313133000 +0800" stop="20260313133300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260313133000 +0800" stop="20260313133200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313133300 +0800" stop="20260313140300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260313133200 +0800" stop="20260313140300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Financial Journal</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -677489,19 +676663,19 @@ Minnie點名要叫「小顆粒」雨琦反悔也要玩~</desc>
     <title lang="zh">Chief Editor's Time</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313150300 +0800" stop="20260313160000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260313150300 +0800" stop="20260313155900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313160000 +0800" stop="20260313160300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260313155900 +0800" stop="20260313160300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313160300 +0800" stop="20260313170000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260313160300 +0800" stop="20260313165900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313170000 +0800" stop="20260313170300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260313165900 +0800" stop="20260313170300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -677509,67 +676683,67 @@ Minnie點名要叫「小顆粒」雨琦反悔也要玩~</desc>
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313173000 +0800" stop="20260313173300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260313173000 +0800" stop="20260313173200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313173300 +0800" stop="20260313180300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260313173200 +0800" stop="20260313180300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Financial Journal</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313180300 +0800" stop="20260313183000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260313180300 +0800" stop="20260313182900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Focus</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313183000 +0800" stop="20260313183300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260313182900 +0800" stop="20260313183200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313183300 +0800" stop="20260313190300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260313183200 +0800" stop="20260313190200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News Talk</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313190300 +0800" stop="20260313200000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260313190200 +0800" stop="20260313195900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">China News Live</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313200000 +0800" stop="20260313200300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260313195900 +0800" stop="20260313200200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313200300 +0800" stop="20260313203000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260313200200 +0800" stop="20260313202900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Focus</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313203000 +0800" stop="20260313203300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260313202900 +0800" stop="20260313203200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313203300 +0800" stop="20260313210300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260313203200 +0800" stop="20260313210300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Financial Daily Report</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313210300 +0800" stop="20260313215800 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260313210300 +0800" stop="20260313215700 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Evening Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313215800 +0800" stop="20260313220300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260313215700 +0800" stop="20260313220200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313220300 +0800" stop="20260313223300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260313220200 +0800" stop="20260313223300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Chief Editor's Time</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313223300 +0800" stop="20260313230300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260313223300 +0800" stop="20260313230200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News Talk</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313230300 +0800" stop="20260313233000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260313230200 +0800" stop="20260313232900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Focus</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260313233000 +0800" stop="20260313233300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260313232900 +0800" stop="20260313233200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -759389,15 +758563,15 @@ Spanning across three different eras in the same maternity hospital, the story r
     <title lang="zh">Kerana Cinta Itu Dusta-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260312220000 +0000" stop="20260312230000 +0000" channel="sensasi">
+  <programme start="20260312220000 +0000" stop="20260312232000 +0000" channel="sensasi">
     <title lang="zh">Dear Hyeri-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260312230000 +0000" stop="20260312233000 +0000" channel="sensasi">
+  <programme start="20260312232000 +0000" stop="20260312234600 +0000" channel="sensasi">
     <title lang="zh">Dapur Bujang Ramadan 2024-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260312233000 +0000" stop="20260313000000 +0000" channel="sensasi">
+  <programme start="20260312234600 +0000" stop="20260313000000 +0000" channel="sensasi">
     <title lang="zh">Bakar Ramadan 2024-Season 1</title>
     <desc lang="zh"/>
   </programme>
@@ -759405,7 +758579,7 @@ Spanning across three different eras in the same maternity hospital, the story r
     <title lang="zh">DM Hati Awak-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260312233000 +0000" stop="20260313000000 +0000" channel="sensasi">
+  <programme start="20260312234600 +0000" stop="20260313000000 +0000" channel="sensasi">
     <title lang="zh">Bakar Ramadan 2024-Season 1</title>
     <desc lang="zh"/>
   </programme>
@@ -759425,27 +758599,27 @@ Spanning across three different eras in the same maternity hospital, the story r
     <title lang="zh">Kerana Cinta Itu Dusta-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313050000 +0000" stop="20260313060000 +0000" channel="sensasi">
+  <programme start="20260313050000 +0000" stop="20260313061800 +0000" channel="sensasi">
     <title lang="zh">Dear Hyeri-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313060000 +0000" stop="20260313063000 +0000" channel="sensasi">
+  <programme start="20260313061800 +0000" stop="20260313064600 +0000" channel="sensasi">
     <title lang="zh">Lubuk-Season 4</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313063000 +0000" stop="20260313070000 +0000" channel="sensasi">
+  <programme start="20260313064600 +0000" stop="20260313071300 +0000" channel="sensasi">
     <title lang="zh">Terbaik Dari Jalanan-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313070000 +0000" stop="20260313073000 +0000" channel="sensasi">
+  <programme start="20260313071300 +0000" stop="20260313074000 +0000" channel="sensasi">
     <title lang="zh">Dapur Bujang Ramadan 2024-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313073000 +0000" stop="20260313080000 +0000" channel="sensasi">
+  <programme start="20260313074000 +0000" stop="20260313080700 +0000" channel="sensasi">
     <title lang="zh">Bakar Ramadan 2024-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313080000 +0000" stop="20260313100000 +0000" channel="sensasi">
+  <programme start="20260313080700 +0000" stop="20260313100000 +0000" channel="sensasi">
     <title lang="zh">Dulang Boy-Season 1</title>
     <desc lang="zh"/>
   </programme>
@@ -759965,15 +759139,15 @@ Spanning across three different eras in the same maternity hospital, the story r
     <title lang="zh">Kerana Cinta Itu Dusta-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260312220000 +0000" stop="20260312230000 +0000" channel="sensasi">
+  <programme start="20260312220000 +0000" stop="20260312232000 +0000" channel="sensasi">
     <title lang="zh">Dear Hyeri-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260312230000 +0000" stop="20260312233000 +0000" channel="sensasi">
+  <programme start="20260312232000 +0000" stop="20260312234600 +0000" channel="sensasi">
     <title lang="zh">Dapur Bujang Ramadan 2024-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260312233000 +0000" stop="20260313000000 +0000" channel="sensasi">
+  <programme start="20260312234600 +0000" stop="20260313000000 +0000" channel="sensasi">
     <title lang="zh">Bakar Ramadan 2024-Season 1</title>
     <desc lang="zh"/>
   </programme>
@@ -759981,7 +759155,7 @@ Spanning across three different eras in the same maternity hospital, the story r
     <title lang="zh">DM Hati Awak-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260312233000 +0000" stop="20260313000000 +0000" channel="sensasi">
+  <programme start="20260312234600 +0000" stop="20260313000000 +0000" channel="sensasi">
     <title lang="zh">Bakar Ramadan 2024-Season 1</title>
     <desc lang="zh"/>
   </programme>
@@ -760001,27 +759175,27 @@ Spanning across three different eras in the same maternity hospital, the story r
     <title lang="zh">Kerana Cinta Itu Dusta-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313050000 +0000" stop="20260313060000 +0000" channel="sensasi">
+  <programme start="20260313050000 +0000" stop="20260313061800 +0000" channel="sensasi">
     <title lang="zh">Dear Hyeri-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313060000 +0000" stop="20260313063000 +0000" channel="sensasi">
+  <programme start="20260313061800 +0000" stop="20260313064600 +0000" channel="sensasi">
     <title lang="zh">Lubuk-Season 4</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313063000 +0000" stop="20260313070000 +0000" channel="sensasi">
+  <programme start="20260313064600 +0000" stop="20260313071300 +0000" channel="sensasi">
     <title lang="zh">Terbaik Dari Jalanan-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313070000 +0000" stop="20260313073000 +0000" channel="sensasi">
+  <programme start="20260313071300 +0000" stop="20260313074000 +0000" channel="sensasi">
     <title lang="zh">Dapur Bujang Ramadan 2024-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313073000 +0000" stop="20260313080000 +0000" channel="sensasi">
+  <programme start="20260313074000 +0000" stop="20260313080700 +0000" channel="sensasi">
     <title lang="zh">Bakar Ramadan 2024-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313080000 +0000" stop="20260313100000 +0000" channel="sensasi">
+  <programme start="20260313080700 +0000" stop="20260313100000 +0000" channel="sensasi">
     <title lang="zh">Dulang Boy-Season 1</title>
     <desc lang="zh"/>
   </programme>
@@ -760701,15 +759875,15 @@ Spanning across three different eras in the same maternity hospital, the story r
     <title lang="zh">Kerana Cinta Itu Dusta-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260312220000 +0000" stop="20260312230000 +0000" channel="sensasi">
+  <programme start="20260312220000 +0000" stop="20260312232000 +0000" channel="sensasi">
     <title lang="zh">Dear Hyeri-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260312230000 +0000" stop="20260312233000 +0000" channel="sensasi">
+  <programme start="20260312232000 +0000" stop="20260312234600 +0000" channel="sensasi">
     <title lang="zh">Dapur Bujang Ramadan 2024-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260312233000 +0000" stop="20260313000000 +0000" channel="sensasi">
+  <programme start="20260312234600 +0000" stop="20260313000000 +0000" channel="sensasi">
     <title lang="zh">Bakar Ramadan 2024-Season 1</title>
     <desc lang="zh"/>
   </programme>
@@ -760717,7 +759891,7 @@ Spanning across three different eras in the same maternity hospital, the story r
     <title lang="zh">DM Hati Awak-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260312233000 +0000" stop="20260313000000 +0000" channel="sensasi">
+  <programme start="20260312234600 +0000" stop="20260313000000 +0000" channel="sensasi">
     <title lang="zh">Bakar Ramadan 2024-Season 1</title>
     <desc lang="zh"/>
   </programme>
@@ -760737,27 +759911,27 @@ Spanning across three different eras in the same maternity hospital, the story r
     <title lang="zh">Kerana Cinta Itu Dusta-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313050000 +0000" stop="20260313060000 +0000" channel="sensasi">
+  <programme start="20260313050000 +0000" stop="20260313061800 +0000" channel="sensasi">
     <title lang="zh">Dear Hyeri-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313060000 +0000" stop="20260313063000 +0000" channel="sensasi">
+  <programme start="20260313061800 +0000" stop="20260313064600 +0000" channel="sensasi">
     <title lang="zh">Lubuk-Season 4</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313063000 +0000" stop="20260313070000 +0000" channel="sensasi">
+  <programme start="20260313064600 +0000" stop="20260313071300 +0000" channel="sensasi">
     <title lang="zh">Terbaik Dari Jalanan-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313070000 +0000" stop="20260313073000 +0000" channel="sensasi">
+  <programme start="20260313071300 +0000" stop="20260313074000 +0000" channel="sensasi">
     <title lang="zh">Dapur Bujang Ramadan 2024-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313073000 +0000" stop="20260313080000 +0000" channel="sensasi">
+  <programme start="20260313074000 +0000" stop="20260313080700 +0000" channel="sensasi">
     <title lang="zh">Bakar Ramadan 2024-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313080000 +0000" stop="20260313100000 +0000" channel="sensasi">
+  <programme start="20260313080700 +0000" stop="20260313100000 +0000" channel="sensasi">
     <title lang="zh">Dulang Boy-Season 1</title>
     <desc lang="zh"/>
   </programme>
@@ -761805,15 +760979,15 @@ Spanning across three different eras in the same maternity hospital, the story r
     <title lang="zh">Kerana Cinta Itu Dusta-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260312220000 +0000" stop="20260312230000 +0000" channel="sensasi">
+  <programme start="20260312220000 +0000" stop="20260312232000 +0000" channel="sensasi">
     <title lang="zh">Dear Hyeri-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260312230000 +0000" stop="20260312233000 +0000" channel="sensasi">
+  <programme start="20260312232000 +0000" stop="20260312234600 +0000" channel="sensasi">
     <title lang="zh">Dapur Bujang Ramadan 2024-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260312233000 +0000" stop="20260313000000 +0000" channel="sensasi">
+  <programme start="20260312234600 +0000" stop="20260313000000 +0000" channel="sensasi">
     <title lang="zh">Bakar Ramadan 2024-Season 1</title>
     <desc lang="zh"/>
   </programme>
@@ -761821,7 +760995,7 @@ Spanning across three different eras in the same maternity hospital, the story r
     <title lang="zh">DM Hati Awak-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260312233000 +0000" stop="20260313000000 +0000" channel="sensasi">
+  <programme start="20260312234600 +0000" stop="20260313000000 +0000" channel="sensasi">
     <title lang="zh">Bakar Ramadan 2024-Season 1</title>
     <desc lang="zh"/>
   </programme>
@@ -761841,27 +761015,27 @@ Spanning across three different eras in the same maternity hospital, the story r
     <title lang="zh">Kerana Cinta Itu Dusta-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313050000 +0000" stop="20260313060000 +0000" channel="sensasi">
+  <programme start="20260313050000 +0000" stop="20260313061800 +0000" channel="sensasi">
     <title lang="zh">Dear Hyeri-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313060000 +0000" stop="20260313063000 +0000" channel="sensasi">
+  <programme start="20260313061800 +0000" stop="20260313064600 +0000" channel="sensasi">
     <title lang="zh">Lubuk-Season 4</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313063000 +0000" stop="20260313070000 +0000" channel="sensasi">
+  <programme start="20260313064600 +0000" stop="20260313071300 +0000" channel="sensasi">
     <title lang="zh">Terbaik Dari Jalanan-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313070000 +0000" stop="20260313073000 +0000" channel="sensasi">
+  <programme start="20260313071300 +0000" stop="20260313074000 +0000" channel="sensasi">
     <title lang="zh">Dapur Bujang Ramadan 2024-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313073000 +0000" stop="20260313080000 +0000" channel="sensasi">
+  <programme start="20260313074000 +0000" stop="20260313080700 +0000" channel="sensasi">
     <title lang="zh">Bakar Ramadan 2024-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313080000 +0000" stop="20260313100000 +0000" channel="sensasi">
+  <programme start="20260313080700 +0000" stop="20260313100000 +0000" channel="sensasi">
     <title lang="zh">Dulang Boy-Season 1</title>
     <desc lang="zh"/>
   </programme>
@@ -763177,15 +762351,15 @@ Spanning across three different eras in the same maternity hospital, the story r
     <title lang="zh">Kerana Cinta Itu Dusta-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260312220000 +0000" stop="20260312230000 +0000" channel="sensasi">
+  <programme start="20260312220000 +0000" stop="20260312232000 +0000" channel="sensasi">
     <title lang="zh">Dear Hyeri-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260312230000 +0000" stop="20260312233000 +0000" channel="sensasi">
+  <programme start="20260312232000 +0000" stop="20260312234600 +0000" channel="sensasi">
     <title lang="zh">Dapur Bujang Ramadan 2024-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260312233000 +0000" stop="20260313000000 +0000" channel="sensasi">
+  <programme start="20260312234600 +0000" stop="20260313000000 +0000" channel="sensasi">
     <title lang="zh">Bakar Ramadan 2024-Season 1</title>
     <desc lang="zh"/>
   </programme>
@@ -763193,7 +762367,7 @@ Spanning across three different eras in the same maternity hospital, the story r
     <title lang="zh">DM Hati Awak-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260312233000 +0000" stop="20260313000000 +0000" channel="sensasi">
+  <programme start="20260312234600 +0000" stop="20260313000000 +0000" channel="sensasi">
     <title lang="zh">Bakar Ramadan 2024-Season 1</title>
     <desc lang="zh"/>
   </programme>
@@ -763213,27 +762387,27 @@ Spanning across three different eras in the same maternity hospital, the story r
     <title lang="zh">Kerana Cinta Itu Dusta-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313050000 +0000" stop="20260313060000 +0000" channel="sensasi">
+  <programme start="20260313050000 +0000" stop="20260313061800 +0000" channel="sensasi">
     <title lang="zh">Dear Hyeri-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313060000 +0000" stop="20260313063000 +0000" channel="sensasi">
+  <programme start="20260313061800 +0000" stop="20260313064600 +0000" channel="sensasi">
     <title lang="zh">Lubuk-Season 4</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313063000 +0000" stop="20260313070000 +0000" channel="sensasi">
+  <programme start="20260313064600 +0000" stop="20260313071300 +0000" channel="sensasi">
     <title lang="zh">Terbaik Dari Jalanan-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313070000 +0000" stop="20260313073000 +0000" channel="sensasi">
+  <programme start="20260313071300 +0000" stop="20260313074000 +0000" channel="sensasi">
     <title lang="zh">Dapur Bujang Ramadan 2024-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313073000 +0000" stop="20260313080000 +0000" channel="sensasi">
+  <programme start="20260313074000 +0000" stop="20260313080700 +0000" channel="sensasi">
     <title lang="zh">Bakar Ramadan 2024-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313080000 +0000" stop="20260313100000 +0000" channel="sensasi">
+  <programme start="20260313080700 +0000" stop="20260313100000 +0000" channel="sensasi">
     <title lang="zh">Dulang Boy-Season 1</title>
     <desc lang="zh"/>
   </programme>
@@ -764829,15 +764003,15 @@ Spanning across three different eras in the same maternity hospital, the story r
     <title lang="zh">Kerana Cinta Itu Dusta-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260312220000 +0000" stop="20260312230000 +0000" channel="sensasi">
+  <programme start="20260312220000 +0000" stop="20260312232000 +0000" channel="sensasi">
     <title lang="zh">Dear Hyeri-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260312230000 +0000" stop="20260312233000 +0000" channel="sensasi">
+  <programme start="20260312232000 +0000" stop="20260312234600 +0000" channel="sensasi">
     <title lang="zh">Dapur Bujang Ramadan 2024-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260312233000 +0000" stop="20260313000000 +0000" channel="sensasi">
+  <programme start="20260312234600 +0000" stop="20260313000000 +0000" channel="sensasi">
     <title lang="zh">Bakar Ramadan 2024-Season 1</title>
     <desc lang="zh"/>
   </programme>
@@ -764845,7 +764019,7 @@ Spanning across three different eras in the same maternity hospital, the story r
     <title lang="zh">DM Hati Awak-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260312233000 +0000" stop="20260313000000 +0000" channel="sensasi">
+  <programme start="20260312234600 +0000" stop="20260313000000 +0000" channel="sensasi">
     <title lang="zh">Bakar Ramadan 2024-Season 1</title>
     <desc lang="zh"/>
   </programme>
@@ -764865,27 +764039,27 @@ Spanning across three different eras in the same maternity hospital, the story r
     <title lang="zh">Kerana Cinta Itu Dusta-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313050000 +0000" stop="20260313060000 +0000" channel="sensasi">
+  <programme start="20260313050000 +0000" stop="20260313061800 +0000" channel="sensasi">
     <title lang="zh">Dear Hyeri-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313060000 +0000" stop="20260313063000 +0000" channel="sensasi">
+  <programme start="20260313061800 +0000" stop="20260313064600 +0000" channel="sensasi">
     <title lang="zh">Lubuk-Season 4</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313063000 +0000" stop="20260313070000 +0000" channel="sensasi">
+  <programme start="20260313064600 +0000" stop="20260313071300 +0000" channel="sensasi">
     <title lang="zh">Terbaik Dari Jalanan-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313070000 +0000" stop="20260313073000 +0000" channel="sensasi">
+  <programme start="20260313071300 +0000" stop="20260313074000 +0000" channel="sensasi">
     <title lang="zh">Dapur Bujang Ramadan 2024-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313073000 +0000" stop="20260313080000 +0000" channel="sensasi">
+  <programme start="20260313074000 +0000" stop="20260313080700 +0000" channel="sensasi">
     <title lang="zh">Bakar Ramadan 2024-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313080000 +0000" stop="20260313100000 +0000" channel="sensasi">
+  <programme start="20260313080700 +0000" stop="20260313100000 +0000" channel="sensasi">
     <title lang="zh">Dulang Boy-Season 1</title>
     <desc lang="zh"/>
   </programme>
@@ -766785,15 +765959,15 @@ Spanning across three different eras in the same maternity hospital, the story r
     <title lang="zh">Kerana Cinta Itu Dusta-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260312220000 +0000" stop="20260312230000 +0000" channel="sensasi">
+  <programme start="20260312220000 +0000" stop="20260312232000 +0000" channel="sensasi">
     <title lang="zh">Dear Hyeri-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260312230000 +0000" stop="20260312233000 +0000" channel="sensasi">
+  <programme start="20260312232000 +0000" stop="20260312234600 +0000" channel="sensasi">
     <title lang="zh">Dapur Bujang Ramadan 2024-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260312233000 +0000" stop="20260313000000 +0000" channel="sensasi">
+  <programme start="20260312234600 +0000" stop="20260313000000 +0000" channel="sensasi">
     <title lang="zh">Bakar Ramadan 2024-Season 1</title>
     <desc lang="zh"/>
   </programme>
@@ -766801,7 +765975,7 @@ Spanning across three different eras in the same maternity hospital, the story r
     <title lang="zh">DM Hati Awak-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260312233000 +0000" stop="20260313000000 +0000" channel="sensasi">
+  <programme start="20260312234600 +0000" stop="20260313000000 +0000" channel="sensasi">
     <title lang="zh">Bakar Ramadan 2024-Season 1</title>
     <desc lang="zh"/>
   </programme>
@@ -766821,27 +765995,27 @@ Spanning across three different eras in the same maternity hospital, the story r
     <title lang="zh">Kerana Cinta Itu Dusta-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313050000 +0000" stop="20260313060000 +0000" channel="sensasi">
+  <programme start="20260313050000 +0000" stop="20260313061800 +0000" channel="sensasi">
     <title lang="zh">Dear Hyeri-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313060000 +0000" stop="20260313063000 +0000" channel="sensasi">
+  <programme start="20260313061800 +0000" stop="20260313064600 +0000" channel="sensasi">
     <title lang="zh">Lubuk-Season 4</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313063000 +0000" stop="20260313070000 +0000" channel="sensasi">
+  <programme start="20260313064600 +0000" stop="20260313071300 +0000" channel="sensasi">
     <title lang="zh">Terbaik Dari Jalanan-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313070000 +0000" stop="20260313073000 +0000" channel="sensasi">
+  <programme start="20260313071300 +0000" stop="20260313074000 +0000" channel="sensasi">
     <title lang="zh">Dapur Bujang Ramadan 2024-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313073000 +0000" stop="20260313080000 +0000" channel="sensasi">
+  <programme start="20260313074000 +0000" stop="20260313080700 +0000" channel="sensasi">
     <title lang="zh">Bakar Ramadan 2024-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313080000 +0000" stop="20260313100000 +0000" channel="sensasi">
+  <programme start="20260313080700 +0000" stop="20260313100000 +0000" channel="sensasi">
     <title lang="zh">Dulang Boy-Season 1</title>
     <desc lang="zh"/>
   </programme>
@@ -768945,15 +768119,15 @@ Spanning across three different eras in the same maternity hospital, the story r
     <title lang="zh">Kerana Cinta Itu Dusta-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260312220000 +0000" stop="20260312230000 +0000" channel="sensasi">
+  <programme start="20260312220000 +0000" stop="20260312232000 +0000" channel="sensasi">
     <title lang="zh">Dear Hyeri-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260312230000 +0000" stop="20260312233000 +0000" channel="sensasi">
+  <programme start="20260312232000 +0000" stop="20260312234600 +0000" channel="sensasi">
     <title lang="zh">Dapur Bujang Ramadan 2024-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260312233000 +0000" stop="20260313000000 +0000" channel="sensasi">
+  <programme start="20260312234600 +0000" stop="20260313000000 +0000" channel="sensasi">
     <title lang="zh">Bakar Ramadan 2024-Season 1</title>
     <desc lang="zh"/>
   </programme>
@@ -768961,7 +768135,7 @@ Spanning across three different eras in the same maternity hospital, the story r
     <title lang="zh">DM Hati Awak-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260312233000 +0000" stop="20260313000000 +0000" channel="sensasi">
+  <programme start="20260312234600 +0000" stop="20260313000000 +0000" channel="sensasi">
     <title lang="zh">Bakar Ramadan 2024-Season 1</title>
     <desc lang="zh"/>
   </programme>
@@ -768981,27 +768155,27 @@ Spanning across three different eras in the same maternity hospital, the story r
     <title lang="zh">Kerana Cinta Itu Dusta-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313050000 +0000" stop="20260313060000 +0000" channel="sensasi">
+  <programme start="20260313050000 +0000" stop="20260313061800 +0000" channel="sensasi">
     <title lang="zh">Dear Hyeri-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313060000 +0000" stop="20260313063000 +0000" channel="sensasi">
+  <programme start="20260313061800 +0000" stop="20260313064600 +0000" channel="sensasi">
     <title lang="zh">Lubuk-Season 4</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313063000 +0000" stop="20260313070000 +0000" channel="sensasi">
+  <programme start="20260313064600 +0000" stop="20260313071300 +0000" channel="sensasi">
     <title lang="zh">Terbaik Dari Jalanan-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313070000 +0000" stop="20260313073000 +0000" channel="sensasi">
+  <programme start="20260313071300 +0000" stop="20260313074000 +0000" channel="sensasi">
     <title lang="zh">Dapur Bujang Ramadan 2024-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313073000 +0000" stop="20260313080000 +0000" channel="sensasi">
+  <programme start="20260313074000 +0000" stop="20260313080700 +0000" channel="sensasi">
     <title lang="zh">Bakar Ramadan 2024-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313080000 +0000" stop="20260313100000 +0000" channel="sensasi">
+  <programme start="20260313080700 +0000" stop="20260313100000 +0000" channel="sensasi">
     <title lang="zh">Dulang Boy-Season 1</title>
     <desc lang="zh"/>
   </programme>
@@ -771425,15 +770599,15 @@ Spanning across three different eras in the same maternity hospital, the story r
     <title lang="zh">Kerana Cinta Itu Dusta-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260312220000 +0000" stop="20260312230000 +0000" channel="sensasi">
+  <programme start="20260312220000 +0000" stop="20260312232000 +0000" channel="sensasi">
     <title lang="zh">Dear Hyeri-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260312230000 +0000" stop="20260312233000 +0000" channel="sensasi">
+  <programme start="20260312232000 +0000" stop="20260312234600 +0000" channel="sensasi">
     <title lang="zh">Dapur Bujang Ramadan 2024-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260312233000 +0000" stop="20260313000000 +0000" channel="sensasi">
+  <programme start="20260312234600 +0000" stop="20260313000000 +0000" channel="sensasi">
     <title lang="zh">Bakar Ramadan 2024-Season 1</title>
     <desc lang="zh"/>
   </programme>
@@ -771441,7 +770615,7 @@ Spanning across three different eras in the same maternity hospital, the story r
     <title lang="zh">DM Hati Awak-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260312233000 +0000" stop="20260313000000 +0000" channel="sensasi">
+  <programme start="20260312234600 +0000" stop="20260313000000 +0000" channel="sensasi">
     <title lang="zh">Bakar Ramadan 2024-Season 1</title>
     <desc lang="zh"/>
   </programme>
@@ -771461,27 +770635,27 @@ Spanning across three different eras in the same maternity hospital, the story r
     <title lang="zh">Kerana Cinta Itu Dusta-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313050000 +0000" stop="20260313060000 +0000" channel="sensasi">
+  <programme start="20260313050000 +0000" stop="20260313061800 +0000" channel="sensasi">
     <title lang="zh">Dear Hyeri-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313060000 +0000" stop="20260313063000 +0000" channel="sensasi">
+  <programme start="20260313061800 +0000" stop="20260313064600 +0000" channel="sensasi">
     <title lang="zh">Lubuk-Season 4</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313063000 +0000" stop="20260313070000 +0000" channel="sensasi">
+  <programme start="20260313064600 +0000" stop="20260313071300 +0000" channel="sensasi">
     <title lang="zh">Terbaik Dari Jalanan-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313070000 +0000" stop="20260313073000 +0000" channel="sensasi">
+  <programme start="20260313071300 +0000" stop="20260313074000 +0000" channel="sensasi">
     <title lang="zh">Dapur Bujang Ramadan 2024-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313073000 +0000" stop="20260313080000 +0000" channel="sensasi">
+  <programme start="20260313074000 +0000" stop="20260313080700 +0000" channel="sensasi">
     <title lang="zh">Bakar Ramadan 2024-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313080000 +0000" stop="20260313100000 +0000" channel="sensasi">
+  <programme start="20260313080700 +0000" stop="20260313100000 +0000" channel="sensasi">
     <title lang="zh">Dulang Boy-Season 1</title>
     <desc lang="zh"/>
   </programme>
@@ -775285,16 +774459,8 @@ Spanning across three different eras in the same maternity hospital, the story r
     <title lang="zh">Tazkirah Ramadan-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313100000 +0000" stop="20260313101500 +0000" channel="tvs">
-    <title lang="zh">(L) Re Bao-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260313101500 +0000" stop="20260313102000 +0000" channel="tvs">
-    <title lang="zh">Jadual Waktu Berbuka &amp; Imsak-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260313102000 +0000" stop="20260313110000 +0000" channel="tvs">
-    <title lang="zh">Debat Ramadan-Season 1</title>
+  <programme start="20260313100000 +0000" stop="20260313110000 +0000" channel="tvs">
+    <title lang="zh">(L) Terkini TVS: Majlis Berbuka Puasa MADANI-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260313110000 +0000" stop="20260313113000 +0000" channel="tvs">
@@ -776177,16 +775343,8 @@ Spanning across three different eras in the same maternity hospital, the story r
     <title lang="zh">Tazkirah Ramadan-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313100000 +0000" stop="20260313101500 +0000" channel="tvs">
-    <title lang="zh">(L) Re Bao-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260313101500 +0000" stop="20260313102000 +0000" channel="tvs">
-    <title lang="zh">Jadual Waktu Berbuka &amp; Imsak-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260313102000 +0000" stop="20260313110000 +0000" channel="tvs">
-    <title lang="zh">Debat Ramadan-Season 1</title>
+  <programme start="20260313100000 +0000" stop="20260313110000 +0000" channel="tvs">
+    <title lang="zh">(L) Terkini TVS: Majlis Berbuka Puasa MADANI-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260313110000 +0000" stop="20260313113000 +0000" channel="tvs">
@@ -777193,16 +776351,8 @@ Spanning across three different eras in the same maternity hospital, the story r
     <title lang="zh">Tazkirah Ramadan-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313100000 +0000" stop="20260313101500 +0000" channel="tvs">
-    <title lang="zh">(L) Re Bao-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260313101500 +0000" stop="20260313102000 +0000" channel="tvs">
-    <title lang="zh">Jadual Waktu Berbuka &amp; Imsak-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260313102000 +0000" stop="20260313110000 +0000" channel="tvs">
-    <title lang="zh">Debat Ramadan-Season 1</title>
+  <programme start="20260313100000 +0000" stop="20260313110000 +0000" channel="tvs">
+    <title lang="zh">(L) Terkini TVS: Majlis Berbuka Puasa MADANI-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260313110000 +0000" stop="20260313113000 +0000" channel="tvs">
@@ -778373,16 +777523,8 @@ Spanning across three different eras in the same maternity hospital, the story r
     <title lang="zh">Tazkirah Ramadan-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313100000 +0000" stop="20260313101500 +0000" channel="tvs">
-    <title lang="zh">(L) Re Bao-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260313101500 +0000" stop="20260313102000 +0000" channel="tvs">
-    <title lang="zh">Jadual Waktu Berbuka &amp; Imsak-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260313102000 +0000" stop="20260313110000 +0000" channel="tvs">
-    <title lang="zh">Debat Ramadan-Season 1</title>
+  <programme start="20260313100000 +0000" stop="20260313110000 +0000" channel="tvs">
+    <title lang="zh">(L) Terkini TVS: Majlis Berbuka Puasa MADANI-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260313110000 +0000" stop="20260313113000 +0000" channel="tvs">
@@ -779661,16 +778803,8 @@ Spanning across three different eras in the same maternity hospital, the story r
     <title lang="zh">Tazkirah Ramadan-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313100000 +0000" stop="20260313101500 +0000" channel="tvs">
-    <title lang="zh">(L) Re Bao-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260313101500 +0000" stop="20260313102000 +0000" channel="tvs">
-    <title lang="zh">Jadual Waktu Berbuka &amp; Imsak-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260313102000 +0000" stop="20260313110000 +0000" channel="tvs">
-    <title lang="zh">Debat Ramadan-Season 1</title>
+  <programme start="20260313100000 +0000" stop="20260313110000 +0000" channel="tvs">
+    <title lang="zh">(L) Terkini TVS: Majlis Berbuka Puasa MADANI-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260313110000 +0000" stop="20260313113000 +0000" channel="tvs">
@@ -781101,16 +780235,8 @@ Spanning across three different eras in the same maternity hospital, the story r
     <title lang="zh">Tazkirah Ramadan-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313100000 +0000" stop="20260313101500 +0000" channel="tvs">
-    <title lang="zh">(L) Re Bao-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260313101500 +0000" stop="20260313102000 +0000" channel="tvs">
-    <title lang="zh">Jadual Waktu Berbuka &amp; Imsak-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260313102000 +0000" stop="20260313110000 +0000" channel="tvs">
-    <title lang="zh">Debat Ramadan-Season 1</title>
+  <programme start="20260313100000 +0000" stop="20260313110000 +0000" channel="tvs">
+    <title lang="zh">(L) Terkini TVS: Majlis Berbuka Puasa MADANI-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260313110000 +0000" stop="20260313113000 +0000" channel="tvs">
@@ -782861,16 +781987,8 @@ Spanning across three different eras in the same maternity hospital, the story r
     <title lang="zh">Tazkirah Ramadan-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313100000 +0000" stop="20260313101500 +0000" channel="tvs">
-    <title lang="zh">(L) Re Bao-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260313101500 +0000" stop="20260313102000 +0000" channel="tvs">
-    <title lang="zh">Jadual Waktu Berbuka &amp; Imsak-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260313102000 +0000" stop="20260313110000 +0000" channel="tvs">
-    <title lang="zh">Debat Ramadan-Season 1</title>
+  <programme start="20260313100000 +0000" stop="20260313110000 +0000" channel="tvs">
+    <title lang="zh">(L) Terkini TVS: Majlis Berbuka Puasa MADANI-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260313110000 +0000" stop="20260313113000 +0000" channel="tvs">
@@ -784821,16 +783939,8 @@ Spanning across three different eras in the same maternity hospital, the story r
     <title lang="zh">Tazkirah Ramadan-Season 1</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260313100000 +0000" stop="20260313101500 +0000" channel="tvs">
-    <title lang="zh">(L) Re Bao-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260313101500 +0000" stop="20260313102000 +0000" channel="tvs">
-    <title lang="zh">Jadual Waktu Berbuka &amp; Imsak-Season 1</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260313102000 +0000" stop="20260313110000 +0000" channel="tvs">
-    <title lang="zh">Debat Ramadan-Season 1</title>
+  <programme start="20260313100000 +0000" stop="20260313110000 +0000" channel="tvs">
+    <title lang="zh">(L) Terkini TVS: Majlis Berbuka Puasa MADANI-Season 1</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260313110000 +0000" stop="20260313113000 +0000" channel="tvs">
