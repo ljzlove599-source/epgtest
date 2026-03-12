@@ -9,12 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260312173000 +0800" stop="20260312190000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-  </programme>
-  <programme start="20260312190000 +0800" stop="20260312200000 +0800" channel="mbc action">
-    <title lang="en">برنامج american ninja warrior</title>
-  </programme>
   <programme start="20260312200000 +0800" stop="20260312210000 +0800" channel="mbc action">
     <title lang="en">Fate/Zero</title>
   </programme>
@@ -132,8 +126,8 @@
   <programme start="20260315030000 +0800" stop="20260315050000 +0800" channel="mbc max">
     <title lang="en">Brick Mansions</title>
   </programme>
-  <programme start="20260312173000 +0800" stop="20260312193000 +0800" channel="mbc 2">
-    <title lang="en">Goosebumps</title>
+  <programme start="20260315050000 +0800" stop="20260315070000 +0800" channel="mbc max">
+    <title lang="en">Memory</title>
   </programme>
   <programme start="20260312193000 +0800" stop="20260312220000 +0800" channel="mbc 2">
     <title lang="en">Jack the Giant Slayer</title>
@@ -215,5 +209,8 @@
   </programme>
   <programme start="20260315040000 +0800" stop="20260315060000 +0800" channel="mbc 2">
     <title lang="en">Tower Heist</title>
+  </programme>
+  <programme start="20260315060000 +0800" stop="20260315073000 +0800" channel="mbc 2">
+    <title lang="en">Holmes &amp; Watson</title>
   </programme>
 </tv>
