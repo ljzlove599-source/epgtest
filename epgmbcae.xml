@@ -9,15 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260312063000 +0800" stop="20260312073000 +0800" channel="mbc action">
-    <title lang="en">الخميس</title>
-  </programme>
-  <programme start="20260312073000 +0800" stop="20260312080000 +0800" channel="mbc action">
-    <title lang="en">Fate/Zero</title>
-  </programme>
-  <programme start="20260312080000 +0800" stop="20260312090000 +0800" channel="mbc action">
-    <title lang="en">برنامج action bodcast</title>
-  </programme>
   <programme start="20260312090000 +0800" stop="20260312100000 +0800" channel="mbc action">
     <title lang="en">بودكاست ملح الدوري</title>
   </programme>
@@ -77,9 +68,6 @@
   </programme>
   <programme start="20260313053000 +0800" stop="20260313063000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
-  </programme>
-  <programme start="20260312065500 +0800" stop="20260312090000 +0800" channel="mbc max">
-    <title lang="en">State of Play</title>
   </programme>
   <programme start="20260312090000 +0800" stop="20260312103000 +0800" channel="mbc max">
     <title lang="en">Eastern Promises</title>
@@ -165,14 +153,11 @@
   <programme start="20260314143000 +0800" stop="20260314163000 +0800" channel="mbc max">
     <title lang="en">Playing for Keeps</title>
   </programme>
-  <programme start="20260312060000 +0800" stop="20260312074000 +0800" channel="mbc 2">
-    <title lang="en">Goosebumps</title>
+  <programme start="20260314163000 +0800" stop="20260314183000 +0800" channel="mbc max">
+    <title lang="en">Forgetting Sarah Marshall</title>
   </programme>
-  <programme start="20260312074000 +0800" stop="20260312080500 +0800" channel="mbc 2">
-    <title lang="en">برنامج world of movies 3</title>
-  </programme>
-  <programme start="20260312080500 +0800" stop="20260312093500 +0800" channel="mbc 2">
-    <title lang="en">127 Hours</title>
+  <programme start="20260314183000 +0800" stop="20260314210000 +0800" channel="mbc max">
+    <title lang="en">Love Happens</title>
   </programme>
   <programme start="20260312093500 +0800" stop="20260312100000 +0800" channel="mbc 2">
     <title lang="en">برنامج planet action 6</title>
@@ -254,5 +239,8 @@
   </programme>
   <programme start="20260314143000 +0800" stop="20260314170000 +0800" channel="mbc 2">
     <title lang="en">Mortal Engines</title>
+  </programme>
+  <programme start="20260314170000 +0800" stop="20260314193000 +0800" channel="mbc 2">
+    <title lang="en">The Green Hornet</title>
   </programme>
 </tv>
