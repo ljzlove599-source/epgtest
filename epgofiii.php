@@ -95,7 +95,7 @@ $cid650 = array(
     array('nnews-zh', '倪珍播新聞'),
     array('iNEWS', '三立新聞iNEWS'),
     array('4gtv-4gtv158', '寰宇財經台'),
-    //array('4gtv-4gtv051', '台視新聞'),
+    array('daystar', 'daystar'),
     array('4gtv-4gtv074', '中視新聞'),
     array('4gtv-4gtv009', '中天新聞台'),
     array('4gtv-4gtv156', '寰宇新聞台灣台'),
