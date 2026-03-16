@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260317023000 +0800" stop="20260317040000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-  </programme>
   <programme start="20260317040000 +0800" stop="20260317050000 +0800" channel="mbc action">
     <title lang="en">برنامج action bodcast</title>
   </programme>
@@ -189,8 +186,8 @@
   <programme start="20260319130000 +0800" stop="20260319140000 +0800" channel="mbc action">
     <title lang="en">برنامج action bodcast</title>
   </programme>
-  <programme start="20260317030000 +0800" stop="20260317043000 +0800" channel="mbc max">
-    <title lang="en">Venom: Let There Be Carnage</title>
+  <programme start="20260319140000 +0800" stop="20260319153000 +0800" channel="mbc action">
+    <title lang="en">Action Ma' Waleed</title>
   </programme>
   <programme start="20260317043000 +0800" stop="20260317050000 +0800" channel="mbc max">
     <title lang="en">برنامج Celebrity Scoop Season 9</title>
@@ -428,5 +425,8 @@
   </programme>
   <programme start="20260319121000 +0800" stop="20260319140000 +0800" channel="mbc 2">
     <title lang="en">French Exit</title>
+  </programme>
+  <programme start="20260319140000 +0800" stop="20260319160000 +0800" channel="mbc 2">
+    <title lang="en">Speed</title>
   </programme>
 </tv>
