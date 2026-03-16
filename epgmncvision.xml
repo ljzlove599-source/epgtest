@@ -4456,11 +4456,7 @@
 <title lang="zh">Berita Kriminal</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260316160000 +0700" stop="20260316160500 +0700" channel="BTV">
-<title lang="zh">Berita Satu Terkini</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260316160500 +0700" stop="20260316170000 +0700" channel="BTV">
+<programme start="20260316160000 +0700" stop="20260316170000 +0700" channel="BTV">
 <title lang="zh">Berita Satu Sore</title>
 <desc lang="zh"> </desc>
 </programme>
@@ -4524,15 +4520,15 @@
 <title lang="zh">Sejarah Islam</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260317043000 +0700" stop="20260317044300 +0700" channel="BTV">
+<programme start="20260317043000 +0700" stop="20260317044200 +0700" channel="BTV">
 <title lang="zh">Berita Satu Pagi</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260317044300 +0700" stop="20260317044700 +0700" channel="BTV">
+<programme start="20260317044200 +0700" stop="20260317044600 +0700" channel="BTV">
 <title lang="zh">Adzan Subuh Jakarta</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260317044700 +0700" stop="20260317060000 +0700" channel="BTV">
+<programme start="20260317044600 +0700" stop="20260317060000 +0700" channel="BTV">
 <title lang="zh">Berita Satu Pagi</title>
 <desc lang="zh"> </desc>
 </programme>
@@ -4545,7 +4541,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260317073000 +0700" stop="20260317080000 +0700" channel="BTV">
-<title lang="zh">Figur Publik</title>
+<title lang="zh">Info Seleb</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260317080000 +0700" stop="20260317080500 +0700" channel="BTV">
@@ -4553,7 +4549,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260317080500 +0700" stop="20260317081500 +0700" channel="BTV">
-<title lang="zh">Figur Publik</title>
+<title lang="zh">Info Seleb</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260317081500 +0700" stop="20260317084500 +0700" channel="BTV">
@@ -20276,8 +20272,12 @@
 <title lang="zh">Mencintai Ipar Sendiri</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260317000000 +0700" stop="20260317053000 +0700" channel="RCTI">
+<programme start="20260317000000 +0700" stop="20260317023000 +0700" channel="RCTI">
 <title lang="zh">Preman Pensiun S4</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20260317023000 +0700" stop="20260317053000 +0700" channel="RCTI">
+<title lang="zh">Preman Pensiun X</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260317053000 +0700" stop="20260317063000 +0700" channel="RCTI">
@@ -20297,7 +20297,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260317091500 +0700" stop="20260317103000 +0700" channel="RCTI">
-<title lang="zh">Rahasia Hati Sopir</title>
+<title lang="zh">Penghuni Taman</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260317103000 +0700" stop="20260317113000 +0700" channel="RCTI">
@@ -20328,11 +20328,15 @@
 <title lang="zh">Jelang Berbuka Puasa</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260317183000 +0700" stop="20260317200000 +0700" channel="RCTI">
+<programme start="20260317183000 +0700" stop="20260317190000 +0700" channel="RCTI">
+<title lang="zh">Amanah Wali S8</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20260317190000 +0700" stop="20260317203000 +0700" channel="RCTI">
 <title lang="zh">99 Nama Cinta</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260317200000 +0700" stop="20260317220000 +0700" channel="RCTI">
+<programme start="20260317203000 +0700" stop="20260317220000 +0700" channel="RCTI">
 <title lang="zh">Mencintai Ipar Sendiri</title>
 <desc lang="zh"> </desc>
 </programme>
@@ -20404,8 +20408,12 @@
 <title lang="zh">Mencintai Ipar Sendiri</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260317000000 +0700" stop="20260317053000 +0700" channel="RCTI HD">
+<programme start="20260317000000 +0700" stop="20260317023000 +0700" channel="RCTI HD">
 <title lang="zh">Preman Pensiun S4</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20260317023000 +0700" stop="20260317053000 +0700" channel="RCTI HD">
+<title lang="zh">Preman Pensiun X</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260317053000 +0700" stop="20260317063000 +0700" channel="RCTI HD">
@@ -20425,7 +20433,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260317091500 +0700" stop="20260317103000 +0700" channel="RCTI HD">
-<title lang="zh">Rahasia Hati Sopir</title>
+<title lang="zh">Penghuni Taman</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260317103000 +0700" stop="20260317113000 +0700" channel="RCTI HD">
@@ -20456,11 +20464,15 @@
 <title lang="zh">Jelang Berbuka Puasa</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260317183000 +0700" stop="20260317200000 +0700" channel="RCTI HD">
+<programme start="20260317183000 +0700" stop="20260317190000 +0700" channel="RCTI HD">
+<title lang="zh">Amanah Wali S8</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20260317190000 +0700" stop="20260317203000 +0700" channel="RCTI HD">
 <title lang="zh">99 Nama Cinta</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260317200000 +0700" stop="20260317220000 +0700" channel="RCTI HD">
+<programme start="20260317203000 +0700" stop="20260317220000 +0700" channel="RCTI HD">
 <title lang="zh">Mencintai Ipar Sendiri</title>
 <desc lang="zh"> </desc>
 </programme>
