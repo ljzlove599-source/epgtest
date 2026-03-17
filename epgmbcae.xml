@@ -9,15 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260317120000 +0800" stop="20260317130000 +0800" channel="mbc action">
-    <title lang="en">Fate/Zero</title>
-  </programme>
-  <programme start="20260317130000 +0800" stop="20260317140000 +0800" channel="mbc action">
-    <title lang="en">ascend برنامج</title>
-  </programme>
-  <programme start="20260317140000 +0800" stop="20260317143000 +0800" channel="mbc action">
-    <title lang="en">برنامج the inside line</title>
-  </programme>
   <programme start="20260317143000 +0800" stop="20260317150000 +0800" channel="mbc action">
     <title lang="en">برنامج the football review</title>
   </programme>
@@ -189,8 +180,11 @@
   <programme start="20260319220000 +0800" stop="20260319230000 +0800" channel="mbc action">
     <title lang="en">برنامج the inside line</title>
   </programme>
-  <programme start="20260317113000 +0800" stop="20260317140000 +0800" channel="mbc max">
-    <title lang="en">Bad Boys II</title>
+  <programme start="20260319230000 +0800" stop="20260320000000 +0800" channel="mbc action">
+    <title lang="en">Ridiculousness</title>
+  </programme>
+  <programme start="20260320000000 +0800" stop="20260320010000 +0800" channel="mbc action">
+    <title lang="en">برنامج american ninja warrior</title>
   </programme>
   <programme start="20260317140000 +0800" stop="20260317160000 +0800" channel="mbc max">
     <title lang="en">Warcraft</title>
@@ -309,8 +303,11 @@
   <programme start="20260319210000 +0800" stop="20260319223000 +0800" channel="mbc max">
     <title lang="en">Going in Style</title>
   </programme>
-  <programme start="20260317122500 +0800" stop="20260317140500 +0800" channel="mbc 2">
-    <title lang="en">Line of Duty</title>
+  <programme start="20260319223000 +0800" stop="20260319230000 +0800" channel="mbc max">
+    <title lang="en">برنامج planet action 6</title>
+  </programme>
+  <programme start="20260319230000 +0800" stop="20260320010000 +0800" channel="mbc max">
+    <title lang="en">Cop Out</title>
   </programme>
   <programme start="20260317140500 +0800" stop="20260317163000 +0800" channel="mbc 2">
     <title lang="en">The Fighter</title>
@@ -425,5 +422,8 @@
   </programme>
   <programme start="20260319220000 +0800" stop="20260320000000 +0800" channel="mbc 2">
     <title lang="en">Twister</title>
+  </programme>
+  <programme start="20260320000000 +0800" stop="20260320020000 +0800" channel="mbc 2">
+    <title lang="en">The Hunger Games: Mockingjay - Part 1</title>
   </programme>
 </tv>
