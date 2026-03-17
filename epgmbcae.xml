@@ -9,12 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260317153000 +0800" stop="20260317163000 +0800" channel="mbc action">
-    <title lang="en">برنامج the inside line</title>
-  </programme>
-  <programme start="20260317163000 +0800" stop="20260317173000 +0800" channel="mbc action">
-    <title lang="en">Fate/Zero</title>
-  </programme>
   <programme start="20260317173000 +0800" stop="20260317190000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
@@ -183,11 +177,11 @@
   <programme start="20260320010000 +0800" stop="20260320020000 +0800" channel="mbc action">
     <title lang="en">Fate/Zero</title>
   </programme>
-  <programme start="20260317140000 +0800" stop="20260317160000 +0800" channel="mbc max">
-    <title lang="en">Warcraft</title>
+  <programme start="20260320020000 +0800" stop="20260320023000 +0800" channel="mbc action">
+    <title lang="en">برنامج action bodcast</title>
   </programme>
-  <programme start="20260317160000 +0800" stop="20260317163000 +0800" channel="mbc max">
-    <title lang="en">Hollywood Buzz</title>
+  <programme start="20260320023000 +0800" stop="20260320040000 +0800" channel="mbc action">
+    <title lang="en">بودكاست ملح الدوري</title>
   </programme>
   <programme start="20260317163000 +0800" stop="20260317183000 +0800" channel="mbc max">
     <title lang="en">Venom</title>
@@ -309,8 +303,8 @@
   <programme start="20260320010000 +0800" stop="20260320030000 +0800" channel="mbc max">
     <title lang="en">Keanu</title>
   </programme>
-  <programme start="20260317140500 +0800" stop="20260317163000 +0800" channel="mbc 2">
-    <title lang="en">The Fighter</title>
+  <programme start="20260320030000 +0800" stop="20260320043000 +0800" channel="mbc max">
+    <title lang="en">Nobody</title>
   </programme>
   <programme start="20260317163000 +0800" stop="20260317183500 +0800" channel="mbc 2">
     <title lang="en">12 Mighty Orphans</title>
@@ -425,5 +419,8 @@
   </programme>
   <programme start="20260320000000 +0800" stop="20260320020000 +0800" channel="mbc 2">
     <title lang="en">The Hunger Games: Mockingjay - Part 1</title>
+  </programme>
+  <programme start="20260320020000 +0800" stop="20260320041000 +0800" channel="mbc 2">
+    <title lang="en">Pacific Rim</title>
   </programme>
 </tv>
