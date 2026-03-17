@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260317050000 +0800" stop="20260317060000 +0800" channel="mbc action">
-    <title lang="en">برنامج cars &amp; stars</title>
-  </programme>
   <programme start="20260317060000 +0800" stop="20260317073000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
@@ -186,8 +183,8 @@
   <programme start="20260319140000 +0800" stop="20260319153000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
-  <programme start="20260317050000 +0800" stop="20260317063000 +0800" channel="mbc max">
-    <title lang="en">Underworld: Rise of the Lycans</title>
+  <programme start="20260319153000 +0800" stop="20260319163000 +0800" channel="mbc action">
+    <title lang="en">برنامج Accelerate</title>
   </programme>
   <programme start="20260317063000 +0800" stop="20260317070000 +0800" channel="mbc max">
     <title lang="en">Hollywood Buzz</title>
@@ -309,6 +306,9 @@
   <programme start="20260319143000 +0800" stop="20260319161500 +0800" channel="mbc max">
     <title lang="en">Charlie's Angels: Full Throttle</title>
   </programme>
+  <programme start="20260319161500 +0800" stop="20260319180000 +0800" channel="mbc max">
+    <title lang="en">Jiu Jitsu</title>
+  </programme>
   <programme start="20260317050000 +0800" stop="20260317073000 +0800" channel="mbc 2">
     <title lang="en">King Richard</title>
   </programme>
@@ -422,5 +422,8 @@
   </programme>
   <programme start="20260319140000 +0800" stop="20260319160000 +0800" channel="mbc 2">
     <title lang="en">Speed</title>
+  </programme>
+  <programme start="20260319160000 +0800" stop="20260319173500 +0800" channel="mbc 2">
+    <title lang="en">Abominable</title>
   </programme>
 </tv>
