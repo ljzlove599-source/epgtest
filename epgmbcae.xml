@@ -9,12 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260318020000 +0800" stop="20260318030000 +0800" channel="mbc action">
-    <title lang="en">برنامج action bodcast</title>
-  </programme>
-  <programme start="20260318030000 +0800" stop="20260318040000 +0800" channel="mbc action">
-    <title lang="en">بودكاست ملح الدوري</title>
-  </programme>
   <programme start="20260318040000 +0800" stop="20260318053000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
@@ -162,12 +156,6 @@
   <programme start="20260320053000 +0800" stop="20260320063000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
   </programme>
-  <programme start="20260318010000 +0800" stop="20260318030000 +0800" channel="mbc max">
-    <title lang="en">Charlie's Angels</title>
-  </programme>
-  <programme start="20260318030000 +0800" stop="20260318043000 +0800" channel="mbc max">
-    <title lang="en">Jolt</title>
-  </programme>
   <programme start="20260318043000 +0800" stop="20260318050000 +0800" channel="mbc max">
     <title lang="en">برنامج planet action 6</title>
   </programme>
@@ -291,8 +279,8 @@
   <programme start="20260320120500 +0800" stop="20260320123000 +0800" channel="mbc max">
     <title lang="en">Hollywood Buzz</title>
   </programme>
-  <programme start="20260318020000 +0800" stop="20260318040000 +0800" channel="mbc 2">
-    <title lang="en">The Comeback Trail</title>
+  <programme start="20260320123000 +0800" stop="20260320143000 +0800" channel="mbc max">
+    <title lang="en">Blade</title>
   </programme>
   <programme start="20260318040000 +0800" stop="20260318055000 +0800" channel="mbc 2">
     <title lang="en">Hail, Caesar!</title>
@@ -407,5 +395,8 @@
   </programme>
   <programme start="20260320122000 +0800" stop="20260320135000 +0800" channel="mbc 2">
     <title lang="en">Turbo</title>
+  </programme>
+  <programme start="20260320135000 +0800" stop="20260320160500 +0800" channel="mbc 2">
+    <title lang="en">Pacific Rim</title>
   </programme>
 </tv>
