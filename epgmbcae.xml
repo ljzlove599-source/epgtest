@@ -9,14 +9,11 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260319040000 +0800" stop="20260319053000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-  </programme>
   <programme start="20260319053000 +0800" stop="20260319063000 +0800" channel="mbc action">
     <title lang="en">ابرز لقطات الدوري</title>
   </programme>
   <programme start="20260319063000 +0800" stop="20260319073000 +0800" channel="mbc action">
-    <title lang="en">الخميس</title>
+    <title lang="en">برنامج  Adrenaline</title>
   </programme>
   <programme start="20260319073000 +0800" stop="20260319080000 +0800" channel="mbc action">
     <title lang="en">Fate/Zero</title>
@@ -83,9 +80,6 @@
   </programme>
   <programme start="20260320053000 +0800" stop="20260320063000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
-  </programme>
-  <programme start="20260319030000 +0800" stop="20260319053000 +0800" channel="mbc max">
-    <title lang="en">The Amazing Spider-Man 2</title>
   </programme>
   <programme start="20260319053000 +0800" stop="20260319080000 +0800" channel="mbc max">
     <title lang="en">Spider-Man: No Way Home</title>
@@ -201,8 +195,8 @@
   <programme start="20260321130000 +0800" stop="20260321143000 +0800" channel="mbc max">
     <title lang="en">Going in Style</title>
   </programme>
-  <programme start="20260319040000 +0800" stop="20260319054500 +0800" channel="mbc 2">
-    <title lang="en">Ghost in the Shell</title>
+  <programme start="20260321143000 +0800" stop="20260321162500 +0800" channel="mbc max">
+    <title lang="en">Mamma Mia!</title>
   </programme>
   <programme start="20260319054500 +0800" stop="20260319061000 +0800" channel="mbc 2">
     <title lang="en">Films &amp; Stars</title>
@@ -311,5 +305,8 @@
   </programme>
   <programme start="20260321124000 +0800" stop="20260321143000 +0800" channel="mbc 2">
     <title lang="en">Twister</title>
+  </programme>
+  <programme start="20260321143000 +0800" stop="20260321162500 +0800" channel="mbc 2">
+    <title lang="en">The Commuter</title>
   </programme>
 </tv>
