@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260318063000 +0800" stop="20260318073000 +0800" channel="mbc action">
-    <title lang="en">برنامج american ninja warrior</title>
-  </programme>
   <programme start="20260318073000 +0800" stop="20260318080000 +0800" channel="mbc action">
     <title lang="en">Fate/Zero</title>
   </programme>
@@ -150,9 +147,6 @@
   <programme start="20260320053000 +0800" stop="20260320063000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
   </programme>
-  <programme start="20260318062700 +0800" stop="20260318070000 +0800" channel="mbc max">
-    <title lang="en">برنامج Celebrity Scoop Season 9</title>
-  </programme>
   <programme start="20260318070000 +0800" stop="20260318090000 +0800" channel="mbc max">
     <title lang="en">Warcraft</title>
   </programme>
@@ -273,8 +267,8 @@
   <programme start="20260320143000 +0800" stop="20260320163000 +0800" channel="mbc max">
     <title lang="en">Charlie's Angels</title>
   </programme>
-  <programme start="20260318055000 +0800" stop="20260318073500 +0800" channel="mbc 2">
-    <title lang="en">A Million Ways to Die in the West</title>
+  <programme start="20260320163000 +0800" stop="20260320180000 +0800" channel="mbc max">
+    <title lang="en">CHIPS</title>
   </programme>
   <programme start="20260318073500 +0800" stop="20260318080000 +0800" channel="mbc 2">
     <title lang="en">برنامج world of movies 3</title>
@@ -389,5 +383,8 @@
   </programme>
   <programme start="20260320160500 +0800" stop="20260320163000 +0800" channel="mbc 2">
     <title lang="en">Films &amp; Stars</title>
+  </programme>
+  <programme start="20260320163000 +0800" stop="20260320183500 +0800" channel="mbc 2">
+    <title lang="en">The Hunger Games: Mockingjay - Part 1</title>
   </programme>
 </tv>
