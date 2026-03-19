@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260319210000 +0800" stop="20260319220000 +0800" channel="mbc action">
-    <title lang="en">برنامج Accelerate</title>
-  </programme>
   <programme start="20260319220000 +0800" stop="20260319230000 +0800" channel="mbc action">
     <title lang="en">برنامج the inside line</title>
   </programme>
@@ -35,9 +32,6 @@
   </programme>
   <programme start="20260320053000 +0800" stop="20260320063000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
-  </programme>
-  <programme start="20260319210000 +0800" stop="20260319223000 +0800" channel="mbc max">
-    <title lang="en">Going in Style</title>
   </programme>
   <programme start="20260319223000 +0800" stop="20260319230000 +0800" channel="mbc max">
     <title lang="en">برنامج planet action 6</title>
@@ -156,9 +150,6 @@
   <programme start="20260322065500 +0800" stop="20260322090000 +0800" channel="mbc max">
     <title lang="en">Across the Universe</title>
   </programme>
-  <programme start="20260319200500 +0800" stop="20260319220000 +0800" channel="mbc 2">
-    <title lang="en">Rampage</title>
-  </programme>
   <programme start="20260319220000 +0800" stop="20260320000000 +0800" channel="mbc 2">
     <title lang="en">Twister</title>
   </programme>
@@ -272,5 +263,8 @@
   </programme>
   <programme start="20260322060000 +0800" stop="20260322081000 +0800" channel="mbc 2">
     <title lang="en">The Big Sick</title>
+  </programme>
+  <programme start="20260322081000 +0800" stop="20260322093500 +0800" channel="mbc 2">
+    <title lang="en">Together Together</title>
   </programme>
 </tv>
