@@ -6809,6 +6809,9 @@
   <programme start="20260323010000 +0800" stop="20260323030000 +0800" channel="mbc max">
     <title lang="en">Robin Hood</title>
   </programme>
+  <programme start="20260323030000 +0800" stop="20260323050000 +0800" channel="mbc max">
+    <title lang="en">The Huntsman: Winter's War</title>
+  </programme>
   <programme start="20260320163000 +0800" stop="20260320183500 +0800" channel="mbc 2">
     <title lang="en">The Hunger Games: Mockingjay - Part 1</title>
   </programme>
@@ -6913,6 +6916,9 @@
   </programme>
   <programme start="20260323003000 +0800" stop="20260323023000 +0800" channel="mbc 2">
     <title lang="en">The Edge of Seventeen</title>
+  </programme>
+  <programme start="20260323023000 +0800" stop="20260323043000 +0800" channel="mbc 2">
+    <title lang="en">Whiplash</title>
   </programme>
   <programme start="20260319003000 +0400" stop="20260319023000 +0400" channel="Dubai One">
     <title lang="en">Stockholm</title>
@@ -7254,10 +7260,10 @@
     <title lang="en">The Dropout Employee Ep.11</title>
   </programme>
   <programme start="20260320185000 +0900" stop="20260320194000 +0900" channel="KBSWorld">
-    <title lang="en">DOCU INSIGHT [LIVE]</title>
+    <title lang="en">DOCU INSIGHT</title>
   </programme>
   <programme start="20260320194000 +0900" stop="20260320203500 +0900" channel="KBSWorld">
-    <title lang="en">My Neighbor, Charles Ep.520</title>
+    <title lang="en">My Neighbor, Charles Ep.520 [LIVE]</title>
   </programme>
   <programme start="20260320203500 +0900" stop="20260320211000 +0900" channel="KBSWorld">
     <title lang="en">Marie and Her Three Daddies Ep.110</title>
@@ -241559,32 +241565,32 @@
     <title lang="zh">Telejornal RTPi (Diferido)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260320143000 +0800" stop="20260320145500 +0800" channel="澳门葡萄牙">
-    <title lang="zh">Refeições de Combate</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260320145500 +0800" stop="20260320154000 +0800" channel="澳门葡萄牙">
+  <programme start="20260320143000 +0800" stop="20260320151500 +0800" channel="澳门葡萄牙">
     <title lang="zh">Queridos Papás</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260320154000 +0800" stop="20260320155500 +0800" channel="澳门葡萄牙">
+  <programme start="20260320151500 +0800" stop="20260320153000 +0800" channel="澳门葡萄牙">
     <title lang="zh">Vamos Pocoyo</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260320155500 +0800" stop="20260320161000 +0800" channel="澳门葡萄牙">
+  <programme start="20260320153000 +0800" stop="20260320160000 +0800" channel="澳门葡萄牙">
+    <title lang="zh">Conferência de Imprensa do Conselho Executivo (Directo)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260320160000 +0800" stop="20260320163500 +0800" channel="澳门葡萄牙">
     <title lang="zh">Louie, Draw Me</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260320161000 +0800" stop="20260320163500 +0800" channel="澳门葡萄牙">
+  <programme start="20260320163500 +0800" stop="20260320170000 +0800" channel="澳门葡萄牙">
     <title lang="zh">Kitty Is Not A Cat</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260320163500 +0800" stop="20260320172500 +0800" channel="澳门葡萄牙">
-    <title lang="zh">Lua Vermelha</title>
+  <programme start="20260320170000 +0800" stop="20260320172500 +0800" channel="澳门葡萄牙">
+    <title lang="zh">Refeições de Combate</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260320172500 +0800" stop="20260320181500 +0800" channel="澳门葡萄牙">
-    <title lang="zh">Pantanal (Repetição)</title>
+    <title lang="zh">Lua Vermelha</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260320181500 +0800" stop="20260320191500 +0800" channel="澳门葡萄牙">
@@ -242191,7 +242197,7 @@
     <title lang="zh">体育新闻</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260320230000 +0800" stop="20260321010000 +0800" channel="澳门体育">
+  <programme start="20260320230000 +0800" stop="20260321013000 +0800" channel="澳门体育">
     <title lang="zh">录播2025/2026欧洲协会联赛︰AEK拉亚拿卡 对 水晶宫 - 16强次回合</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -269252,7 +269258,7 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260321090000 +0800" stop="20260321100000 +0800" channel="TVBS精采台HD">
-    <title lang="zh">地球黄金线</title>
+    <title lang="zh">地球黄金线(3584)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260321100000 +0800" stop="20260321110000 +0800" channel="TVBS精采台HD">
@@ -269936,7 +269942,7 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260320190000 +0800" stop="20260320200000 +0800" channel="ETtoday综合台">
-    <title lang="zh">女人要有钱之武花教主(20)</title>
+    <title lang="zh">女人要有钱之武花教主精华版(20)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260320200000 +0800" stop="20260320210000 +0800" channel="ETtoday综合台">
@@ -289741,6 +289747,218 @@
   </programme>
   <programme start="20260320230100 +0800" stop="20260321003400 +0800" channel="TV5MONDE">
     <title lang="zh">OLIVIA</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321003400 +0800" stop="20260321004100 +0800" channel="TV5MONDE">
+    <title lang="zh">LOLA SANG CONTACT</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321004100 +0800" stop="20260321010100 +0800" channel="TV5MONDE">
+    <title lang="zh">QU'IMPORTE LA DISTANCE</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321010100 +0800" stop="20260321014800 +0800" channel="TV5MONDE">
+    <title lang="zh">ELLES</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321014800 +0800" stop="20260321023700 +0800" channel="TV5MONDE">
+    <title lang="zh">ELLES</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321023700 +0800" stop="20260321030000 +0800" channel="TV5MONDE">
+    <title lang="zh">TERRA ARTISTIKA</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321030000 +0800" stop="20260321032700 +0800" channel="TV5MONDE">
+    <title lang="zh">64' ACTU</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321032700 +0800" stop="20260321035100 +0800" channel="TV5MONDE">
+    <title lang="zh">ALLONS-Y FRANCO !</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321035100 +0800" stop="20260321040000 +0800" channel="TV5MONDE">
+    <title lang="zh">L'INVITÉ</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321040000 +0800" stop="20260321050000 +0800" channel="TV5MONDE">
+    <title lang="zh">MAGAZINE</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321050000 +0800" stop="20260321052900 +0800" channel="TV5MONDE">
+    <title lang="zh">LE JOURNAL DE LA RTBF</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321052900 +0800" stop="20260321060000 +0800" channel="TV5MONDE">
+    <title lang="zh">INTÉRIEURS</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321060000 +0800" stop="20260321063000 +0800" channel="TV5MONDE">
+    <title lang="zh">PISTES VERTES</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321063000 +0800" stop="20260321070000 +0800" channel="TV5MONDE">
+    <title lang="zh">LE JOURNAL AFRIQUE</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321070000 +0800" stop="20260321073000 +0800" channel="TV5MONDE">
+    <title lang="zh">L'ACTU</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321073000 +0800" stop="20260321080000 +0800" channel="TV5MONDE">
+    <title lang="zh">LE JOURNAL DE LA RTS</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321080000 +0800" stop="20260321083000 +0800" channel="TV5MONDE">
+    <title lang="zh">LE JOURNAL DE FRANCE 2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321083000 +0800" stop="20260321085700 +0800" channel="TV5MONDE">
+    <title lang="zh">64' ACTU</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321085700 +0800" stop="20260321092100 +0800" channel="TV5MONDE">
+    <title lang="zh">ALLONS-Y FRANCO !</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321092100 +0800" stop="20260321093000 +0800" channel="TV5MONDE">
+    <title lang="zh">L'INVITÉ</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321093000 +0800" stop="20260321093800 +0800" channel="TV5MONDE">
+    <title lang="zh">YÉTILI</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321093800 +0800" stop="20260321095000 +0800" channel="TV5MONDE">
+    <title lang="zh">YÉTILI</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321095000 +0800" stop="20260321095800 +0800" channel="TV5MONDE">
+    <title lang="zh">BESTIOLES EN QUESTIONS</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321095800 +0800" stop="20260321095900 +0800" channel="TV5MONDE">
+    <title lang="zh">LES MÉTIERS</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321095900 +0800" stop="20260321100200 +0800" channel="TV5MONDE">
+    <title lang="zh">TA VIE SANS ÇA</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321100200 +0800" stop="20260321100400 +0800" channel="TV5MONDE">
+    <title lang="zh">LA CLEF - C'EST QUOI TON TRUC JULIE ?</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321100400 +0800" stop="20260321101600 +0800" channel="TV5MONDE">
+    <title lang="zh">PARTIE DE CAMPAGNE</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321101600 +0800" stop="20260321102800 +0800" channel="TV5MONDE">
+    <title lang="zh">PARTIE DE CAMPAGNE</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321102800 +0800" stop="20260321103500 +0800" channel="TV5MONDE">
+    <title lang="zh">LES TRIPLÉS</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321103500 +0800" stop="20260321105300 +0800" channel="TV5MONDE">
+    <title lang="zh">POTOBOT</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321105300 +0800" stop="20260321111900 +0800" channel="TV5MONDE">
+    <title lang="zh">L'AVENTURE DU MONDE DES MONDES</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321111900 +0800" stop="20260321113100 +0800" channel="TV5MONDE">
+    <title lang="zh">ROI KEÏTA</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321113100 +0800" stop="20260321120200 +0800" channel="TV5MONDE">
+    <title lang="zh">MAGAZINE</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321120200 +0800" stop="20260321120600 +0800" channel="TV5MONDE">
+    <title lang="zh">MA VIE AVEC L'IA</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321120600 +0800" stop="20260321123200 +0800" channel="TV5MONDE">
+    <title lang="zh">FALÒ</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321123200 +0800" stop="20260321130000 +0800" channel="TV5MONDE">
+    <title lang="zh">OBJECTIF MONDE L'HEBDO</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321130000 +0800" stop="20260321133000 +0800" channel="TV5MONDE">
+    <title lang="zh">DING DONG : MONTRE-MOI TA MAISON !</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321133000 +0800" stop="20260321140000 +0800" channel="TV5MONDE">
+    <title lang="zh">LE MAGAZINE DE LA RIVIERA</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321140000 +0800" stop="20260321143000 +0800" channel="TV5MONDE">
+    <title lang="zh">SUISSE EN SCÈNE</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321143000 +0800" stop="20260321145900 +0800" channel="TV5MONDE">
+    <title lang="zh">RASSEMBLANCE</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321145900 +0800" stop="20260321153000 +0800" channel="TV5MONDE">
+    <title lang="zh">LE MATCH DANS LE MATCH</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321153000 +0800" stop="20260321160000 +0800" channel="TV5MONDE">
+    <title lang="zh">LE TÉLÉJOURNAL DE RADIO-CANADA</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321160000 +0800" stop="20260321163000 +0800" channel="TV5MONDE">
+    <title lang="zh">GÉNÉRATION F</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321163000 +0800" stop="20260321170100 +0800" channel="TV5MONDE">
+    <title lang="zh">HEP TAXI !</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321170100 +0800" stop="20260321174600 +0800" channel="TV5MONDE">
+    <title lang="zh">REFUGES DE MONTAGNE - HIVER</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321174600 +0800" stop="20260321180000 +0800" channel="TV5MONDE">
+    <title lang="zh">TERRA ARTISTIKA</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321180000 +0800" stop="20260321183000 +0800" channel="TV5MONDE">
+    <title lang="zh">TENDANCE XXI</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321183000 +0800" stop="20260321185800 +0800" channel="TV5MONDE">
+    <title lang="zh">VERSION FRANÇAISE</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321185800 +0800" stop="20260321193000 +0800" channel="TV5MONDE">
+    <title lang="zh">QUESTIONS POUR UN CHAMPION</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321193000 +0800" stop="20260321201400 +0800" channel="TV5MONDE">
+    <title lang="zh">SAVOURER</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321201400 +0800" stop="20260321203000 +0800" channel="TV5MONDE">
+    <title lang="zh">PARLONS ÉCO</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321203000 +0800" stop="20260321204800 +0800" channel="TV5MONDE">
+    <title lang="zh">LE JOURNAL DE FRANCE 2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321204800 +0800" stop="20260321230100 +0800" channel="TV5MONDE">
+    <title lang="zh">GIMS À PARIS LA DÉFENSE ARENA : LE CONCERT ÉVÉNEMENT</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321230100 +0800" stop="20260322003600 +0800" channel="TV5MONDE">
+    <title lang="zh">MEURTRES À AMIENS</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260320000000 +0800" stop="20260320002000 +0800" channel="Arirang TV HD">
@@ -352492,11 +352710,11 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">FOCUS国际话题</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321050000 +0800" stop="20260321053000 +0800" channel="TVBS">
+  <programme start="20260321050000 +0800" stop="20260321060000 +0800" channel="TVBS">
     <title lang="zh">一步一脚印发现新台湾</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321053000 +0800" stop="20260321070000 +0800" channel="TVBS">
+  <programme start="20260321060000 +0800" stop="20260321070000 +0800" channel="TVBS">
     <title lang="zh">2026新北市万金石马拉松</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -352517,7 +352735,7 @@ about his spouse’s genuine woes and longings.</desc>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260321110000 +0800" stop="20260321120000 +0800" channel="TVBS">
-    <title lang="zh">财经钞能力</title>
+    <title lang="zh">TVBS财经</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260321120000 +0800" stop="20260321130000 +0800" channel="TVBS">
@@ -352525,7 +352743,7 @@ about his spouse’s genuine woes and longings.</desc>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260321130000 +0800" stop="20260321140000 +0800" channel="TVBS">
-    <title lang="zh">美股金周报</title>
+    <title lang="zh">金临天下</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260321140000 +0800" stop="20260321150000 +0800" channel="TVBS">
@@ -352749,7 +352967,7 @@ about his spouse’s genuine woes and longings.</desc>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260321210000 +0800" stop="20260321220000 +0800" channel="TVBS新闻台">
-    <title lang="zh">九点热话题</title>
+    <title lang="zh">TVBS娱乐新闻</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260321220000 +0800" stop="20260321230000 +0800" channel="TVBS新闻台">
@@ -363421,7 +363639,7 @@ about his spouse’s genuine woes and longings.</desc>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260321150000 +0800" stop="20260321170000 +0800" channel="华视主频">
-    <title lang="zh">台湾体能王</title>
+    <title lang="zh">上船了各位！</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260321170000 +0800" stop="20260321190000 +0800" channel="华视主频">
@@ -363442,10 +363660,6 @@ about his spouse’s genuine woes and longings.</desc>
   </programme>
   <programme start="20260321220000 +0800" stop="20260321235959 +0800" channel="华视主频">
     <title lang="zh">天才冲冲冲</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260320000000 +0800" stop="20260320010000 +0800" channel="华视新闻资讯台">
-    <title lang="zh">华视2400夜间新闻</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260320010000 +0800" stop="20260320020000 +0800" channel="华视新闻资讯台">
@@ -363630,10 +363844,6 @@ about his spouse’s genuine woes and longings.</desc>
   </programme>
   <programme start="20260321230000 +0800" stop="20260321235959 +0800" channel="华视新闻资讯台">
     <title lang="zh">华视夜间新闻</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260320000000 +0800" stop="20260320010000 +0800" channel="华视新闻资讯台(免费)">
-    <title lang="zh">华视2400夜间新闻</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260320010000 +0800" stop="20260320020000 +0800" channel="华视新闻资讯台(免费)">
@@ -386717,7 +386927,7 @@ about his spouse’s genuine woes and longings.</desc>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260321210000 +0800" stop="20260321220000 +0800" channel="TVBS新闻">
-    <title lang="zh">九点热话题</title>
+    <title lang="zh">TVBS娱乐新闻</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260321220000 +0800" stop="20260321230000 +0800" channel="TVBS新闻">
@@ -386733,7 +386943,7 @@ about his spouse’s genuine woes and longings.</desc>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260322010000 +0800" stop="20260322020000 +0800" channel="TVBS新闻">
-    <title lang="zh">十点不一样</title>
+    <title lang="zh">TVBS娱乐新闻</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260322020000 +0800" stop="20260322030000 +0800" channel="TVBS新闻">
@@ -386745,7 +386955,7 @@ about his spouse’s genuine woes and longings.</desc>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260322040000 +0800" stop="20260322050000 +0800" channel="TVBS新闻">
-    <title lang="zh">九点热话题</title>
+    <title lang="zh">TVBS娱乐新闻</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260322050000 +0800" stop="20260322060000 +0800" channel="TVBS新闻">
@@ -389352,11 +389562,11 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">FOCUS国际话题</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321050000 +0800" stop="20260321053000 +0800" channel="TVBS">
+  <programme start="20260321050000 +0800" stop="20260321060000 +0800" channel="TVBS">
     <title lang="zh">一步一脚印发现新台湾</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321053000 +0800" stop="20260321070000 +0800" channel="TVBS">
+  <programme start="20260321060000 +0800" stop="20260321070000 +0800" channel="TVBS">
     <title lang="zh">2026新北市万金石马拉松</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -389377,7 +389587,7 @@ about his spouse’s genuine woes and longings.</desc>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260321110000 +0800" stop="20260321120000 +0800" channel="TVBS">
-    <title lang="zh">财经钞能力</title>
+    <title lang="zh">TVBS财经</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260321120000 +0800" stop="20260321130000 +0800" channel="TVBS">
@@ -389385,7 +389595,7 @@ about his spouse’s genuine woes and longings.</desc>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260321130000 +0800" stop="20260321140000 +0800" channel="TVBS">
-    <title lang="zh">美股金周报</title>
+    <title lang="zh">金临天下</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260321140000 +0800" stop="20260321150000 +0800" channel="TVBS">
@@ -389521,7 +389731,7 @@ about his spouse’s genuine woes and longings.</desc>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260322230000 +0800" stop="20260323000000 +0800" channel="TVBS">
-    <title lang="zh">财经钞能力</title>
+    <title lang="zh">金临天下</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260320000000 +0800" stop="20260320010000 +0800" channel="东森购物二台">
@@ -433697,7 +433907,7 @@ about his spouse’s genuine woes and longings.</desc>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260321210000 +0800" stop="20260321220000 +0800" channel="TVBS新闻">
-    <title lang="zh">九点热话题</title>
+    <title lang="zh">TVBS娱乐新闻</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260321220000 +0800" stop="20260321230000 +0800" channel="TVBS新闻">
@@ -433713,7 +433923,7 @@ about his spouse’s genuine woes and longings.</desc>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260322010000 +0800" stop="20260322020000 +0800" channel="TVBS新闻">
-    <title lang="zh">十点不一样</title>
+    <title lang="zh">TVBS娱乐新闻</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260322020000 +0800" stop="20260322030000 +0800" channel="TVBS新闻">
@@ -433725,7 +433935,7 @@ about his spouse’s genuine woes and longings.</desc>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260322040000 +0800" stop="20260322050000 +0800" channel="TVBS新闻">
-    <title lang="zh">九点热话题</title>
+    <title lang="zh">TVBS娱乐新闻</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260322050000 +0800" stop="20260322060000 +0800" channel="TVBS新闻">
@@ -435932,11 +436142,11 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">FOCUS国际话题</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321050000 +0800" stop="20260321053000 +0800" channel="TVBS">
+  <programme start="20260321050000 +0800" stop="20260321060000 +0800" channel="TVBS">
     <title lang="zh">一步一脚印发现新台湾</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321053000 +0800" stop="20260321070000 +0800" channel="TVBS">
+  <programme start="20260321060000 +0800" stop="20260321070000 +0800" channel="TVBS">
     <title lang="zh">2026新北市万金石马拉松</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -435957,7 +436167,7 @@ about his spouse’s genuine woes and longings.</desc>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260321110000 +0800" stop="20260321120000 +0800" channel="TVBS">
-    <title lang="zh">财经钞能力</title>
+    <title lang="zh">TVBS财经</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260321120000 +0800" stop="20260321130000 +0800" channel="TVBS">
@@ -435965,7 +436175,7 @@ about his spouse’s genuine woes and longings.</desc>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260321130000 +0800" stop="20260321140000 +0800" channel="TVBS">
-    <title lang="zh">美股金周报</title>
+    <title lang="zh">金临天下</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260321140000 +0800" stop="20260321150000 +0800" channel="TVBS">
@@ -436101,7 +436311,7 @@ about his spouse’s genuine woes and longings.</desc>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260322230000 +0800" stop="20260323000000 +0800" channel="TVBS">
-    <title lang="zh">财经钞能力</title>
+    <title lang="zh">金临天下</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260320000000 +0800" stop="20260320010000 +0800" channel="东森购物二台">
@@ -507756,38 +507966,6 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">MOMO欢乐谷 S12(E10)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260320035800 +0000" stop="20260320050000 +0000" channel="中视">
-    <title lang="zh">中视午间新闻</title>
-    <desc lang="zh">「中视午间新闻」每天以最客观的角度，最专业的主播，为观众完整报导上午发生之重大国内外重要新闻，并提供最新股市收盘价格。</desc>
-  </programme>
-  <programme start="20260320050000 +0000" stop="20260320060000 +0000" channel="中视">
-    <title lang="zh">MIT台湾志</title>
-    <desc lang="zh">《MIT台湾志》以发现台湾、写真台湾、纪录台湾为主旨，走遍台湾的每寸土地，介绍台湾的人文环境、大自然地理等…</desc>
-  </programme>
-  <programme start="20260320060000 +0000" stop="20260320063000 +0000" channel="中视">
-    <title lang="zh">股林高手</title>
-    <desc lang="zh">邀请最专业的财经专家为观众解析股市，提供投资参考。</desc>
-  </programme>
-  <programme start="20260320063000 +0000" stop="20260320073000 +0000" channel="中视">
-    <title lang="zh">中视新闻</title>
-    <desc lang="zh">由最专业的中视新闻主播，为您播报最新、最即时的新闻。</desc>
-  </programme>
-  <programme start="20260320073000 +0000" stop="20260320080000 +0000" channel="中视">
-    <title lang="zh">价值型投资</title>
-    <desc lang="zh">当行情出现震荡、盘势不明时，相信投资人一定会开始转向价值型投资，节目中将推荐适合的标的，提供投资人参考。</desc>
-  </programme>
-  <programme start="20260320080000 +0000" stop="20260320090000 +0000" channel="中视">
-    <title lang="zh">借用一下你的爱</title>
-    <desc lang="zh">平安（朱芯仪）四岁时爸爸意外过世，她和喜乐（夏如芝）一起在孤儿院长大，在一次偶然中与刚出狱的叶晨（郭品超）相识，个性南辕北辙的两人自然不对盘，但偏偏两人不停地相遇，而为了成全喜乐，她不惜借用叶晨当自己男友，没料到相处一段时间后却渐渐发现…</desc>
-  </programme>
-  <programme start="20260320090000 +0000" stop="20260320092800 +0000" channel="中视">
-    <title lang="zh">中视新闻</title>
-    <desc lang="zh">由最专业的中视新闻主播，为您播报最新、最即时的新闻。</desc>
-  </programme>
-  <programme start="20260320092800 +0000" stop="20260320095800 +0000" channel="中视">
-    <title lang="zh">中视新闻</title>
-    <desc lang="zh">由最专业的中视新闻主播，为您播报最新、最即时的新闻。</desc>
-  </programme>
   <programme start="20260320095800 +0000" stop="20260320105800 +0000" channel="中视">
     <title lang="zh">中视新闻</title>
     <desc lang="zh">由最专业的中视新闻主播，为您播报最新、最即时的新闻。</desc>
@@ -507983,30 +508161,6 @@ about his spouse’s genuine woes and longings.</desc>
   <programme start="20260322220000 +0000" stop="20260322230000 +0000" channel="中视">
     <title lang="zh">中视新闻</title>
     <desc lang="zh">由最专业的中视新闻主播，为您播报最新、最即时的新闻。</desc>
-  </programme>
-  <programme start="20260320035800 +0000" stop="20260320050000 +0000" channel="华视">
-    <title lang="zh">华视午间新闻</title>
-    <desc lang="zh">华视午间新闻由最专业的华视主播，带给观众朋友更多元化的新闻。</desc>
-  </programme>
-  <programme start="20260320050000 +0000" stop="20260320060000 +0000" channel="华视">
-    <title lang="zh">天之蕉子</title>
-    <desc lang="zh">蕉农第三代高志鸿（杨子仪）与青果大盘商千金江秀莲（吴怡霈）因误会而相恋，秀莲的妹妹秀玉（杨小黎）因志鸿英雄救美而暗恋他，但志鸿的死党忠义也暗中爱慕秀莲，命运的捉弄与有心人恶意撩拨，扰乱一池春水，让这五个人的情感走向难明…</desc>
-  </programme>
-  <programme start="20260320060000 +0000" stop="20260320073000 +0000" channel="华视">
-    <title lang="zh">莒光园地</title>
-    <desc lang="zh">「莒光园地」电视教学，乃国军政治教育之主要作为与重要管道，亦为社会教育及公民教育之重要部份与延续，依据宪法、国防法之规范，结合政府政策目标，考量社会情势、两岸关系发展与建军备战等需要，进行节目策划，藉多元、活泼之宣教方式落实推展。</desc>
-  </programme>
-  <programme start="20260320073000 +0000" stop="20260320075500 +0000" channel="华视">
-    <title lang="zh">健康早知道</title>
-    <desc lang="zh">华视制播健康资讯节目，介绍全方位的健康知识、饮食健康、预防癌症，远离三高、慢性病。由资深医药记者洪素卿主持，每周邀各领域专家，畅谈日常生活会遇到的健康故事，并分享给长辈的健康保健的知识，介绍自我保健秘诀与养生方式。</desc>
-  </programme>
-  <programme start="20260320075500 +0000" stop="20260320085400 +0000" channel="华视">
-    <title lang="zh">华视新闻杂志</title>
-    <desc lang="zh">华视新闻团队主持，结合文创、趋势、电影、旅游等元素，让你掌握最新资讯，是适合全家观赏的深度新闻性节目。</desc>
-  </programme>
-  <programme start="20260320085400 +0000" stop="20260320085800 +0000" channel="华视">
-    <title lang="zh">华视生活广场</title>
-    <desc lang="zh">华视生活广场。</desc>
   </programme>
   <programme start="20260320085800 +0000" stop="20260320105800 +0000" channel="华视">
     <title lang="zh">华视新闻晚报</title>
@@ -508443,42 +508597,6 @@ about his spouse’s genuine woes and longings.</desc>
   <programme start="20260325060000 +0000" stop="20260325080000 +0000" channel="华视">
     <title lang="zh">警世剧场</title>
     <desc lang="zh">社会写实单元剧，剧情效法《X档案》，以现代办案的角度来切入鬼神之说，用以警惕世人。笃信科学办案精神的刑警尚智（谢祖武）有心理学博士学位，他与先天具有阴阳眼的搭档王玉芳（赵英华），共同调查各种无法用科学解释的案件，为死者伸冤…</desc>
-  </programme>
-  <programme start="20260320040500 +0000" stop="20260320050000 +0000" channel="好消息2台">
-    <title lang="zh">真情部落格</title>
-    <desc lang="zh">广受海内外观众欢迎的真情部落格，由知名主播夏嘉璐主持，庄信德牧师回应，透过每位来宾的生命见证帮助许多人走出低谷。相信神继续透过真情部落格祝福这世代的华人。</desc>
-  </programme>
-  <programme start="20260320050000 +0000" stop="20260320060000 +0000" channel="好消息2台">
-    <title lang="zh">幸福学堂</title>
-    <desc lang="zh">幸福学堂是一个深度探讨家庭问题的节目，让观众的家庭问题可以在节目中得到协助，这些辅导经验丰富的专家，也是信仰坚定的基督徒学者，包含林如萍、武自珍、叶高芳、钱玉芬等教授，透过深入的讨与讲解，为现场观众解答家庭的疑惑。</desc>
-  </programme>
-  <programme start="20260320060000 +0000" stop="20260320070000 +0000" channel="好消息2台">
-    <title lang="zh">特会</title>
-    <desc lang="zh">以造就、培灵与更新为宗旨，邀请来自世界各国的知名布道牧师，为信徒传递神国信息，挑望灵火，奋兴众人！为信徒提供一个提升性灵的园地。(资料来源：GOOD TV)</desc>
-  </programme>
-  <programme start="20260320070000 +0000" stop="20260320073000 +0000" channel="好消息2台">
-    <title lang="zh">救恩之光</title>
-    <desc lang="zh">纽约救赎主长老教会的主任牧师「提姆凯勒」，迄今已于35个城市协助创办170间教会，其敏锐的证道、犀利的护教学与事工，让许多神的儿女得著帮助。</desc>
-  </programme>
-  <programme start="20260320073000 +0000" stop="20260320080000 +0000" channel="好消息2台">
-    <title lang="zh">福气人生</title>
-    <desc lang="zh">如何才能拥有福气人生?看牧师们以台语分享圣经的真理，让你领受天国满满的福气与祝福。</desc>
-  </programme>
-  <programme start="20260320080000 +0000" stop="20260320081500 +0000" channel="好消息2台">
-    <title lang="zh">小珍珠与阿达叔叔</title>
-    <desc lang="zh">好消息电视台制播的儿少节目，由充满人生智慧的阿达叔叔刘清彦主持，精力十足又问题多多的的小珍珠每次都要来找阿达叔叔的麻烦…不，是请阿达叔叔帮她解决层出不穷的各种麻烦，透过两人的趣味互动，让小朋友轻松学习做人的道理。</desc>
-  </programme>
-  <programme start="20260320081500 +0000" stop="20260320083000 +0000" channel="好消息2台">
-    <title lang="zh">小珍珠与阿达叔叔</title>
-    <desc lang="zh">好消息电视台制播的儿少节目，由充满人生智慧的阿达叔叔刘清彦主持，精力十足又问题多多的的小珍珠每次都要来找阿达叔叔的麻烦…不，是请阿达叔叔帮她解决层出不穷的各种麻烦，透过两人的趣味互动，让小朋友轻松学习做人的道理。</desc>
-  </programme>
-  <programme start="20260320083000 +0000" stop="20260320090000 +0000" channel="好消息2台">
-    <title lang="zh">空中主日学</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260320090000 +0000" stop="20260320100000 +0000" channel="好消息2台">
-    <title lang="zh">叶光明讲座</title>
-    <desc lang="zh">由全球肯定的圣经教师与作家叶光明（Derek Prince）牧师，向世界宣扬上帝启示的话语。五十多年来，叶牧师已经以50多种语言，向全球一百多个国家宣示上帝的旨意，牧养无数教友。</desc>
   </programme>
   <programme start="20260320100000 +0000" stop="20260320103000 +0000" channel="好消息2台">
     <title lang="zh">共享观点</title>
@@ -509367,50 +509485,6 @@ about his spouse’s genuine woes and longings.</desc>
   <programme start="20260325073000 +0000" stop="20260325080000 +0000" channel="好消息2台">
     <title lang="zh">福气人生</title>
     <desc lang="zh">如何才能拥有福气人生?看牧师们以台语分享圣经的真理，让你领受天国满满的福气与祝福。</desc>
-  </programme>
-  <programme start="20260320043000 +0000" stop="20260320044500 +0000" channel="好消息">
-    <title lang="zh">机智青年生活</title>
-    <desc lang="zh">这不是韩剧，而是正上演的一出充满血泪与美好友谊的热血植堂连续剧 ！旌旗好生活邀请到三对青年牧师CP，来聊聊由上帝导演，引领青年教会及一群青年团队，经历疯狂又精彩的植堂人生！</desc>
-  </programme>
-  <programme start="20260320044500 +0000" stop="20260320050000 +0000" channel="好消息">
-    <title lang="zh">机智青年生活</title>
-    <desc lang="zh">这不是韩剧，而是正上演的一出充满血泪与美好友谊的热血植堂连续剧 ！旌旗好生活邀请到三对青年牧师CP，来聊聊由上帝导演，引领青年教会及一群青年团队，经历疯狂又精彩的植堂人生！</desc>
-  </programme>
-  <programme start="20260320050000 +0000" stop="20260320050500 +0000" channel="好消息">
-    <title lang="zh">遇见祝福</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260320050500 +0000" stop="20260320060000 +0000" channel="好消息">
-    <title lang="zh">真情部落格</title>
-    <desc lang="zh">广受海内外观众欢迎的真情部落格，由知名主播夏嘉璐主持，庄信德牧师回应，透过每位来宾的生命见证帮助许多人走出低谷。相信神继续透过真情部落格祝福这世代的华人。</desc>
-  </programme>
-  <programme start="20260320060000 +0000" stop="20260320065000 +0000" channel="好消息">
-    <title lang="zh">家庭８点档转转发现爱</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260320065000 +0000" stop="20260320070000 +0000" channel="好消息">
-    <title lang="zh">机智青年生活</title>
-    <desc lang="zh">这不是韩剧，而是正上演的一出充满血泪与美好友谊的热血植堂连续剧 ！旌旗好生活邀请到三对青年牧师CP，来聊聊由上帝导演，引领青年教会及一群青年团队，经历疯狂又精彩的植堂人生！</desc>
-  </programme>
-  <programme start="20260320070000 +0000" stop="20260320080000 +0000" channel="好消息">
-    <title lang="zh">精选系列生命更新专题</title>
-    <desc lang="zh">好消息电视台制作的一系列特别节目，内容围绕生命更新、信仰成长、圣经真理，旨在帮助观众认识耶稣、建立门徒生活，涵盖见证分享、专题讲座、职场／家庭／亲子等多元主题，是华人基督徒信仰造就的重要资源。</desc>
-  </programme>
-  <programme start="20260320080000 +0000" stop="20260320083000 +0000" channel="好消息">
-    <title lang="zh">健康新煮流</title>
-    <desc lang="zh">开创夫妻同厨同煮潮流的KC夫妇，继《健康医食代》后，走出摄影棚，带大家全台走透透，发掘上帝赏赐的美味食材，内容融合新加坡南洋风和客家纯朴味，加上台湾独特的闽南风情，互相激荡交织出的火花，打造出独一无二的美食节目。</desc>
-  </programme>
-  <programme start="20260320083000 +0000" stop="20260320090000 +0000" channel="好消息">
-    <title lang="zh">爱＋好医生</title>
-    <desc lang="zh">结合医疗专业及全人关怀的新型态节目，主持人黄𪻐宁医师亲访家庭，跨领域医疗顾问团全方位检视，提供最完整、实用和正确的资讯来守护孩子的健康。</desc>
-  </programme>
-  <programme start="20260320090000 +0000" stop="20260320093000 +0000" channel="好消息">
-    <title lang="zh">大家说英语</title>
-    <desc lang="zh">将最受欢迎的美语生活会话杂志《大家说英语》内容制作成电视教学节目，教学轻松活泼，以生活实用会话为单元主题，是新闻局推荐的优质节目。不仅能帮助您轻松开口说英语，更提供许多实用的英语语汇与技巧，让您用简单的单字，就能说一口漂亮英语。</desc>
-  </programme>
-  <programme start="20260320093000 +0000" stop="20260320100000 +0000" channel="好消息">
-    <title lang="zh">火焰传奇</title>
-    <desc lang="zh">述说宣教士的故事，在世界各地每个不同的角落，宣教士们带著神的爱，像颗种子埋在当地，成为当地人守护的灯台。</desc>
   </programme>
   <programme start="20260320100000 +0000" stop="20260320103000 +0000" channel="好消息">
     <title lang="zh">福气人生</title>
@@ -510316,34 +510390,6 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">道在人间(国)</title>
     <desc lang="zh">节目中邀请赵镛基、叶光明、杰克海福德、乔依丝迈尔等，国内外知名牧长，以丰富的服事经历与扎实的神学装备，教导、传讲圣经真道，坚固信徒并警醒人心。</desc>
   </programme>
-  <programme start="20260320043000 +0000" stop="20260320050000 +0000" channel="ELTV生活英语台">
-    <title lang="zh">小巴士TAYO</title>
-    <desc lang="zh">韩国人气玩具改编卡通，曾获韩国内容奖第一名和亚洲电视大奖最佳儿童节目，小朋友们能和TAYO、妮妮、小吉及瑞瑞一桐学习玩耍！</desc>
-  </programme>
-  <programme start="20260320050000 +0000" stop="20260320060000 +0000" channel="ELTV生活英语台">
-    <title lang="zh">PORORO</title>
-    <desc lang="zh">一只充满好奇心的小企鹅-Pororo，因为喜欢尝试新的事物，且用尽方法了解它们，进而惹来许多小麻烦，但在尝试新事物的过程中也为大家带来无限欢乐。</desc>
-  </programme>
-  <programme start="20260320060000 +0000" stop="20260320070000 +0000" channel="ELTV生活英语台">
-    <title lang="zh">萌马吼吼</title>
-    <desc lang="zh">主人公吼吼，是一只可爱的奶油独角兽，他生活在甜蜜镇上，这里的居民都是各种甜品，有著各自的职业。作为一名快乐的打工人，吼吼每天都在小镇的不同地方打工，当发型师助理时，用自己的奶油为甜品们打造时下最流行的发型，尤其是杯子蛋糕，对他的设计总是赞不绝口。</desc>
-  </programme>
-  <programme start="20260320070000 +0000" stop="20260320073000 +0000" channel="ELTV生活英语台">
-    <title lang="zh">妙妙一家亲</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260320073000 +0000" stop="20260320080000 +0000" channel="ELTV生活英语台">
-    <title lang="zh">欢唱小精灵</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260320080000 +0000" stop="20260320090000 +0000" channel="ELTV生活英语台">
-    <title lang="zh">旗旗号巡洋舰</title>
-    <desc lang="zh">一天晚上，皮皮鲁收到旗旗号模型的召唤，进入到了玩具世界。为了回家，必须寻找传说中的童童港并搜集碎片，在途中，收获了五名船员伙伴，皮皮鲁要如何和他们一起完成冒险呢？</desc>
-  </programme>
-  <programme start="20260320090000 +0000" stop="20260320100000 +0000" channel="ELTV生活英语台">
-    <title lang="zh">PORORO</title>
-    <desc lang="zh">一只充满好奇心的小企鹅-Pororo，因为喜欢尝试新的事物，且用尽方法了解它们，进而惹来许多小麻烦，但在尝试新事物的过程中也为大家带来无限欢乐。</desc>
-  </programme>
   <programme start="20260320100000 +0000" stop="20260320110000 +0000" channel="ELTV生活英语台">
     <title lang="zh">森林侦探队</title>
     <desc lang="zh">南韩EBS与Bigstar Global共同制播的卡通，可轻松认识大自然的样貌。各个谜团揉合在森林的浩瀚中，期待观众跟著侦探队，细细品味在这森林的每个故事。</desc>
@@ -510915,50 +510961,6 @@ about his spouse’s genuine woes and longings.</desc>
   <programme start="20260325073000 +0000" stop="20260325080000 +0000" channel="ELTV生活英语台">
     <title lang="zh">欢唱小精灵</title>
     <desc lang="zh"/>
-  </programme>
-  <programme start="20260320043000 +0000" stop="20260320050000 +0000" channel="龙华卡通台">
-    <title lang="zh">淘气鼠兄弟</title>
-    <desc lang="zh">小唐是一只拟人化的粉红色小狗，与莫图、兰布、乔图三只鼠兄弟合住一个房子。小唐时常被老鼠们惹恼，吵吵闹闹的生活让相看两厌的他们会产生什么火花呢</desc>
-  </programme>
-  <programme start="20260320050000 +0000" stop="20260320053000 +0000" channel="龙华卡通台">
-    <title lang="zh">猪猪侠</title>
-    <desc lang="zh">猪猪侠因科学实验事故，穿越时空隧道到了2080年。在未来世界里，能源危机即将爆发。强强科技集团得知破旧的望子成龙小学地下蕴藏丰富能源后，想将小学占为己有。为了重振母校，猪猪侠接受强强科技一次又一次的挑战。利用迷糊小发明的猪猪侠能与超人强先进的高科技产品对抗吗？</desc>
-  </programme>
-  <programme start="20260320053000 +0000" stop="20260320060000 +0000" channel="龙华卡通台">
-    <title lang="zh">猪猪侠</title>
-    <desc lang="zh">猪猪侠因科学实验事故，穿越时空隧道到了2080年。在未来世界里，能源危机即将爆发。强强科技集团得知破旧的望子成龙小学地下蕴藏丰富能源后，想将小学占为己有。为了重振母校，猪猪侠接受强强科技一次又一次的挑战。利用迷糊小发明的猪猪侠能与超人强先进的高科技产品对抗吗？</desc>
-  </programme>
-  <programme start="20260320060000 +0000" stop="20260320063000 +0000" channel="龙华卡通台">
-    <title lang="zh">海鹦历险记</title>
-    <desc lang="zh">电影《北极战队》的衍生剧集，讲述北极海鹦们执行任务的冒险故事，以及可爱有趣的北极日常。并透过轻松、搞笑的剧情，带领小朋友认识环境污染等社会议题。</desc>
-  </programme>
-  <programme start="20260320063000 +0000" stop="20260320070000 +0000" channel="龙华卡通台">
-    <title lang="zh">海鹦历险记</title>
-    <desc lang="zh">电影《北极战队》的衍生剧集，讲述北极海鹦们执行任务的冒险故事，以及可爱有趣的北极日常。并透过轻松、搞笑的剧情，带领小朋友认识环境污染等社会议题。</desc>
-  </programme>
-  <programme start="20260320070000 +0000" stop="20260320073000 +0000" channel="龙华卡通台">
-    <title lang="zh">淘气鼠兄弟</title>
-    <desc lang="zh">小唐是一只拟人化的粉红色小狗，与莫图、兰布、乔图三只鼠兄弟合住一个房子。小唐时常被老鼠们惹恼，吵吵闹闹的生活让相看两厌的他们会产生什么火花呢</desc>
-  </programme>
-  <programme start="20260320073000 +0000" stop="20260320080000 +0000" channel="龙华卡通台">
-    <title lang="zh">淘气鼠兄弟</title>
-    <desc lang="zh">小唐是一只拟人化的粉红色小狗，与莫图、兰布、乔图三只鼠兄弟合住一个房子。小唐时常被老鼠们惹恼，吵吵闹闹的生活让相看两厌的他们会产生什么火花呢</desc>
-  </programme>
-  <programme start="20260320080000 +0000" stop="20260320083000 +0000" channel="龙华卡通台">
-    <title lang="zh">猪猪侠</title>
-    <desc lang="zh">猪猪侠因科学实验事故，穿越时空隧道到了2080年。在未来世界里，能源危机即将爆发。强强科技集团得知破旧的望子成龙小学地下蕴藏丰富能源后，想将小学占为己有。为了重振母校，猪猪侠接受强强科技一次又一次的挑战。利用迷糊小发明的猪猪侠能与超人强先进的高科技产品对抗吗？</desc>
-  </programme>
-  <programme start="20260320083000 +0000" stop="20260320090000 +0000" channel="龙华卡通台">
-    <title lang="zh">猪猪侠</title>
-    <desc lang="zh">猪猪侠因科学实验事故，穿越时空隧道到了2080年。在未来世界里，能源危机即将爆发。强强科技集团得知破旧的望子成龙小学地下蕴藏丰富能源后，想将小学占为己有。为了重振母校，猪猪侠接受强强科技一次又一次的挑战。利用迷糊小发明的猪猪侠能与超人强先进的高科技产品对抗吗？</desc>
-  </programme>
-  <programme start="20260320090000 +0000" stop="20260320093000 +0000" channel="龙华卡通台">
-    <title lang="zh">海鹦历险记</title>
-    <desc lang="zh">电影《北极战队》的衍生剧集，讲述北极海鹦们执行任务的冒险故事，以及可爱有趣的北极日常。并透过轻松、搞笑的剧情，带领小朋友认识环境污染等社会议题。</desc>
-  </programme>
-  <programme start="20260320093000 +0000" stop="20260320100000 +0000" channel="龙华卡通台">
-    <title lang="zh">海鹦历险记</title>
-    <desc lang="zh">电影《北极战队》的衍生剧集，讲述北极海鹦们执行任务的冒险故事，以及可爱有趣的北极日常。并透过轻松、搞笑的剧情，带领小朋友认识环境污染等社会议题。</desc>
   </programme>
   <programme start="20260320100000 +0000" stop="20260320103000 +0000" channel="龙华卡通台">
     <title lang="zh">淘气鼠兄弟</title>
@@ -511824,30 +511826,6 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">淘气鼠兄弟</title>
     <desc lang="zh">小唐是一只拟人化的粉红色小狗，与莫图、兰布、乔图三只鼠兄弟合住一个房子。小唐时常被老鼠们惹恼，吵吵闹闹的生活让相看两厌的他们会产生什么火花呢</desc>
   </programme>
-  <programme start="20260320040000 +0000" stop="20260320050000 +0000" channel="亚洲旅游台">
-    <title lang="zh">型男闯世界</title>
-    <desc lang="zh">《型男闯世界》前往世界各地的特殊景点或深山秘境，挑战极限运动，寻找奇人异事、踏寻隐身在丛林边境的传说、进行各种挑战及探险。</desc>
-  </programme>
-  <programme start="20260320050000 +0000" stop="20260320060000 +0000" channel="亚洲旅游台">
-    <title lang="zh">33厨房</title>
-    <desc lang="zh">电影圈的大明星林美秀首度跨足综艺接主持棒，即将大展厨艺与观众们一起美味上菜！</desc>
-  </programme>
-  <programme start="20260320060000 +0000" stop="20260320070000 +0000" channel="亚洲旅游台">
-    <title lang="zh">摘星秘密客</title>
-    <desc lang="zh">由华裔美籍王凯杰Jason Wang担任主持人，带领观众走访米其林餐厅。</desc>
-  </programme>
-  <programme start="20260320070000 +0000" stop="20260320080000 +0000" channel="亚洲旅游台">
-    <title lang="zh">嗨 Let's Go</title>
-    <desc lang="zh">旅行该怎么玩呢？有人喜欢吃美食、看风景、体验人文与历史；也有人只想疯血拼、追潮流、享奢华；更有人爱自然、爱冒险，当起背包客最逍遥！其实，无论哪种旅游方式和玩法，只要懂门道，都能玩出最精彩！</desc>
-  </programme>
-  <programme start="20260320080000 +0000" stop="20260320090000 +0000" channel="亚洲旅游台">
-    <title lang="zh">效廉出发吧</title>
-    <desc lang="zh">东森超视全新外景旅游实境综艺节目，由跨世代人夫许效舜、威廉携手主持。两位私交甚笃的知己好友，将在节目中分享彼此人生故事，带观众深入了解每个城镇独有的历史人文，探索每个地方的特色美食生活。一段见证男人友谊的旅行，就此展开！</desc>
-  </programme>
-  <programme start="20260320090000 +0000" stop="20260320100000 +0000" channel="亚洲旅游台">
-    <title lang="zh">效廉出发吧</title>
-    <desc lang="zh">东森超视全新外景旅游实境综艺节目，由跨世代人夫许效舜、威廉携手主持。两位私交甚笃的知己好友，将在节目中分享彼此人生故事，带观众深入了解每个城镇独有的历史人文，探索每个地方的特色美食生活。一段见证男人友谊的旅行，就此展开！</desc>
-  </programme>
   <programme start="20260320100000 +0000" stop="20260320110000 +0000" channel="亚洲旅游台">
     <title lang="zh">型男闯世界</title>
     <desc lang="zh">《型男闯世界》前往世界各地的特殊景点或深山秘境，挑战极限运动，寻找奇人异事、踏寻隐身在丛林边境的传说、进行各种挑战及探险。</desc>
@@ -512320,30 +512298,6 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">嗨 Let's Go</title>
     <desc lang="zh">旅行该怎么玩呢？有人喜欢吃美食、看风景、体验人文与历史；也有人只想疯血拼、追潮流、享奢华；更有人爱自然、爱冒险，当起背包客最逍遥！其实，无论哪种旅游方式和玩法，只要懂门道，都能玩出最精彩！</desc>
   </programme>
-  <programme start="20260320040000 +0000" stop="20260320050000 +0000" channel="Smart知识台">
-    <title lang="zh">健康2.0</title>
-    <desc lang="zh">在节目中，将以各种深入浅出的方式，检测时下流行的健康产品的效用，示范健康烹调与运动方法，并与观众分享照顾家人的健康资讯与心得。</desc>
-  </programme>
-  <programme start="20260320050000 +0000" stop="20260320060000 +0000" channel="Smart知识台">
-    <title lang="zh">全民星攻略</title>
-    <desc lang="zh">东森综合台全新益智实境节目，「全民星攻略」，由馆长曾国城担任把关者，考验著每个来挑战九宫格益智游戏艺人明星。想要攻略九宫格关卡，透过创意联想、逻辑推理、理想分析，才有机会获取智慧星币，带走梦幻大奖。</desc>
-  </programme>
-  <programme start="20260320060000 +0000" stop="20260320070000 +0000" channel="Smart知识台">
-    <title lang="zh">健康2.0</title>
-    <desc lang="zh">在节目中，将以各种深入浅出的方式，检测时下流行的健康产品的效用，示范健康烹调与运动方法，并与观众分享照顾家人的健康资讯与心得。</desc>
-  </programme>
-  <programme start="20260320070000 +0000" stop="20260320080000 +0000" channel="Smart知识台">
-    <title lang="zh">全民星攻略</title>
-    <desc lang="zh">东森综合台全新益智实境节目，「全民星攻略」，由馆长曾国城担任把关者，考验著每个来挑战九宫格益智游戏艺人明星。想要攻略九宫格关卡，透过创意联想、逻辑推理、理想分析，才有机会获取智慧星币，带走梦幻大奖。</desc>
-  </programme>
-  <programme start="20260320080000 +0000" stop="20260320090000 +0000" channel="Smart知识台">
-    <title lang="zh">健康2.0</title>
-    <desc lang="zh">在节目中，将以各种深入浅出的方式，检测时下流行的健康产品的效用，示范健康烹调与运动方法，并与观众分享照顾家人的健康资讯与心得。</desc>
-  </programme>
-  <programme start="20260320090000 +0000" stop="20260320100000 +0000" channel="Smart知识台">
-    <title lang="zh">全民星攻略</title>
-    <desc lang="zh">东森综合台全新益智实境节目，「全民星攻略」，由馆长曾国城担任把关者，考验著每个来挑战九宫格益智游戏艺人明星。想要攻略九宫格关卡，透过创意联想、逻辑推理、理想分析，才有机会获取智慧星币，带走梦幻大奖。</desc>
-  </programme>
   <programme start="20260320100000 +0000" stop="20260320110000 +0000" channel="Smart知识台">
     <title lang="zh">健康2.0</title>
     <desc lang="zh">在节目中，将以各种深入浅出的方式，检测时下流行的健康产品的效用，示范健康烹调与运动方法，并与观众分享照顾家人的健康资讯与心得。</desc>
@@ -512775,30 +512729,6 @@ about his spouse’s genuine woes and longings.</desc>
   <programme start="20260325070000 +0000" stop="20260325080000 +0000" channel="Smart知识台">
     <title lang="zh">全民星攻略</title>
     <desc lang="zh">东森综合台全新益智实境节目，「全民星攻略」，由馆长曾国城担任把关者，考验著每个来挑战九宫格益智游戏艺人明星。想要攻略九宫格关卡，透过创意联想、逻辑推理、理想分析，才有机会获取智慧星币，带走梦幻大奖。</desc>
-  </programme>
-  <programme start="20260320040000 +0000" stop="20260320050000 +0000" channel="龙华戏剧台">
-    <title lang="zh">军师联盟</title>
-    <desc lang="zh">年轻的司马懿本是个谨小慎微的青年书生，因为有「鹰视狼顾」之相，回头看了东汉的司空曹操（于和伟）一眼，从此和曹家结下了不解之缘。他被曹操强行征辟为官，一脚踏入曹家暗流汹涌的夺嫡之争。他运用谋略帮助曹丕（李晨）一次次通过曹操的考验，将曹丕送上世子位。</desc>
-  </programme>
-  <programme start="20260320050000 +0000" stop="20260320060000 +0000" channel="龙华戏剧台">
-    <title lang="zh">军师联盟</title>
-    <desc lang="zh">年轻的司马懿本是个谨小慎微的青年书生，因为有「鹰视狼顾」之相，回头看了东汉的司空曹操（于和伟）一眼，从此和曹家结下了不解之缘。他被曹操强行征辟为官，一脚踏入曹家暗流汹涌的夺嫡之争。他运用谋略帮助曹丕（李晨）一次次通过曹操的考验，将曹丕送上世子位。</desc>
-  </programme>
-  <programme start="20260320060000 +0000" stop="20260320070000 +0000" channel="龙华戏剧台">
-    <title lang="zh">琉璃</title>
-    <desc lang="zh">改编自十四郎小说《琉璃美人煞》。讲述天生六识残缺的少阳派掌门之女褚璇玑（袁冰妍）和离泽宫少主禹司凤（成毅），在面临爱情与前世阴谋的双重压力下，携手共对百般腥风血雨，解开两人纠缠十世的虐恋情缘，缔造传奇色彩的仙侠爱情故事。</desc>
-  </programme>
-  <programme start="20260320070000 +0000" stop="20260320080000 +0000" channel="龙华戏剧台">
-    <title lang="zh">琉璃</title>
-    <desc lang="zh">改编自十四郎小说《琉璃美人煞》。讲述天生六识残缺的少阳派掌门之女褚璇玑（袁冰妍）和离泽宫少主禹司凤（成毅），在面临爱情与前世阴谋的双重压力下，携手共对百般腥风血雨，解开两人纠缠十世的虐恋情缘，缔造传奇色彩的仙侠爱情故事。</desc>
-  </programme>
-  <programme start="20260320080000 +0000" stop="20260320090000 +0000" channel="龙华戏剧台">
-    <title lang="zh">陆贞传奇</title>
-    <desc lang="zh">陆贞（赵丽颖）原为千金小姐，但父亲过世后，继母狠心将其嫁给老商人。大婚之日，陆贞逃婚，幸得皇帝高湛（陈晓）所救，并获得贴身玉佩而进宫。认真努力的陆贞遭人忌妒陷害，高湛屡屡营救；朱太后深怕高湛夺权，处心积虑想害死高湛。陆贞与高湛的命运究竟会如何呢？</desc>
-  </programme>
-  <programme start="20260320090000 +0000" stop="20260320100000 +0000" channel="龙华戏剧台">
-    <title lang="zh">陆贞传奇</title>
-    <desc lang="zh">陆贞（赵丽颖）原为千金小姐，但父亲过世后，继母狠心将其嫁给老商人。大婚之日，陆贞逃婚，幸得皇帝高湛（陈晓）所救，并获得贴身玉佩而进宫。认真努力的陆贞遭人忌妒陷害，高湛屡屡营救；朱太后深怕高湛夺权，处心积虑想害死高湛。陆贞与高湛的命运究竟会如何呢？</desc>
   </programme>
   <programme start="20260320100000 +0000" stop="20260320110000 +0000" channel="龙华戏剧台">
     <title lang="zh">军师联盟</title>
@@ -513272,34 +513202,6 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">琉璃</title>
     <desc lang="zh">改编自十四郎小说《琉璃美人煞》。讲述天生六识残缺的少阳派掌门之女褚璇玑（袁冰妍）和离泽宫少主禹司凤（成毅），在面临爱情与前世阴谋的双重压力下，携手共对百般腥风血雨，解开两人纠缠十世的虐恋情缘，缔造传奇色彩的仙侠爱情故事。</desc>
   </programme>
-  <programme start="20260320040000 +0000" stop="20260320050000 +0000" channel="台湾戏剧台">
-    <title lang="zh">关键时刻</title>
-    <desc lang="zh">行政院劳工委员会劳工安全卫生研究所制作的3D立体动画「关键时刻」，于第十八届世界职业安全卫生大会荣获国际安全卫生影片首奖，大会并以「非常创新的手法」盛赞得奖单位-行政院劳委会劳工安全卫生研究所，对于职场安全卫生教育宣导所做出的贡献。</desc>
-  </programme>
-  <programme start="20260320050000 +0000" stop="20260320060000 +0000" channel="台湾戏剧台">
-    <title lang="zh">台湾启示录</title>
-    <desc lang="zh">为您统整介绍台湾社会近年来重大案件与名人轶事的始末，以及相关的新闻分析与报导。</desc>
-  </programme>
-  <programme start="20260320060000 +0000" stop="20260320070000 +0000" channel="台湾戏剧台">
-    <title lang="zh">台湾启示录</title>
-    <desc lang="zh">为您统整介绍台湾社会近年来重大案件与名人轶事的始末，以及相关的新闻分析与报导。</desc>
-  </programme>
-  <programme start="20260320070000 +0000" stop="20260320080000 +0000" channel="台湾戏剧台">
-    <title lang="zh">包青天</title>
-    <desc lang="zh">仁宗皇帝在位期间，包拯（金超群）升任开封府府尹执掌京畿，刚直耿介、铁面无私、明察秋毫、断案如神，百姓爱戴敬仰尊称为“包青天”。并有公孙策（范鸿轩）与南侠展昭（何家劲）一文一武两员大将，使得包拯屡破奇案屡建奇功。</desc>
-  </programme>
-  <programme start="20260320080000 +0000" stop="20260320090000 +0000" channel="台湾戏剧台">
-    <title lang="zh">包青天</title>
-    <desc lang="zh">仁宗皇帝在位期间，包拯（金超群）升任开封府府尹执掌京畿，刚直耿介、铁面无私、明察秋毫、断案如神，百姓爱戴敬仰尊称为“包青天”。并有公孙策（范鸿轩）与南侠展昭（何家劲）一文一武两员大将，使得包拯屡破奇案屡建奇功。</desc>
-  </programme>
-  <programme start="20260320090000 +0000" stop="20260320093000 +0000" channel="台湾戏剧台">
-    <title lang="zh">亲戚不计较</title>
-    <desc lang="zh">由卓胜利、李锣等人主演，本剧虽以喜剧的方式呈现，但笑中有泪，泪中有悟，悟中有得，令人深思！</desc>
-  </programme>
-  <programme start="20260320093000 +0000" stop="20260320100000 +0000" channel="台湾戏剧台">
-    <title lang="zh">亲戚不计较</title>
-    <desc lang="zh">由卓胜利、李锣等人主演，本剧虽以喜剧的方式呈现，但笑中有泪，泪中有悟，悟中有得，令人深思！</desc>
-  </programme>
   <programme start="20260320100000 +0000" stop="20260320103000 +0000" channel="台湾戏剧台">
     <title lang="zh">亲戚不计较</title>
     <desc lang="zh">由卓胜利、李锣等人主演，本剧虽以喜剧的方式呈现，但笑中有泪，泪中有悟，悟中有得，令人深思！</desc>
@@ -513771,42 +513673,6 @@ about his spouse’s genuine woes and longings.</desc>
   <programme start="20260325070000 +0000" stop="20260325080000 +0000" channel="台湾戏剧台">
     <title lang="zh">包青天</title>
     <desc lang="zh">仁宗皇帝在位期间，包拯（金超群）升任开封府府尹执掌京畿，刚直耿介、铁面无私、明察秋毫、断案如神，百姓爱戴敬仰尊称为“包青天”。并有公孙策（范鸿轩）与南侠展昭（何家劲）一文一武两员大将，使得包拯屡破奇案屡建奇功。</desc>
-  </programme>
-  <programme start="20260320040000 +0000" stop="20260320044000 +0000" channel="东森购物1台">
-    <title lang="zh">3/1-3/31全月消费满3件享1680枚东森币兑换【韩国热销折叠收纳箱3入组】(每人限1次)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260320044000 +0000" stop="20260320052000 +0000" channel="东森购物1台">
-    <title lang="zh">锁定CH.43、CH.49选购</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260320052000 +0000" stop="20260320060000 +0000" channel="东森购物1台">
-    <title lang="zh">3/1-3/31全月消费满3件享1680枚东森币兑换【韩国热销折叠收纳箱3入组】(每人限1次)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260320060000 +0000" stop="20260320064000 +0000" channel="东森购物1台">
-    <title lang="zh">锁定CH.43、CH.49选购</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260320064000 +0000" stop="20260320072000 +0000" channel="东森购物1台">
-    <title lang="zh">3/1-3/31全月消费满3件享1680枚东森币兑换【韩国热销折叠收纳箱3入组】(每人限1次)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260320072000 +0000" stop="20260320080000 +0000" channel="东森购物1台">
-    <title lang="zh">锁定CH.43、CH.49选购</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260320080000 +0000" stop="20260320084000 +0000" channel="东森购物1台">
-    <title lang="zh">3/1-3/31全月消费满3件享1680枚东森币兑换【韩国热销折叠收纳箱3入组】(每人限1次)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260320084000 +0000" stop="20260320092000 +0000" channel="东森购物1台">
-    <title lang="zh">锁定CH.43、CH.49选购</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260320092000 +0000" stop="20260320100000 +0000" channel="东森购物1台">
-    <title lang="zh">3/1-3/31全月消费满3件享1680枚东森币兑换【韩国热销折叠收纳箱3入组】(每人限1次)</title>
-    <desc lang="zh"/>
   </programme>
   <programme start="20260320100000 +0000" stop="20260320104000 +0000" channel="东森购物1台">
     <title lang="zh">锁定CH.43、CH.49选购</title>
@@ -514516,30 +514382,6 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">锁定CH.43、CH.49选购</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260320040000 +0000" stop="20260320050000 +0000" channel="龙华偶像台">
-    <title lang="zh">极速悖论</title>
-    <desc lang="zh">少年陈墨白从小将赛车视为终身梦想，渴望有一天能冲进“超级方程式”的赛场。追梦过程中，他遇上空气动力学博士的工程师沈溪。陈墨白的热忱执着，让沈溪终于开始直视内心，卸下包袱又彼此认可的两人成为最好的搭档，突破速度与安全的悖论，携手赛场上一次次超越极限。</desc>
-  </programme>
-  <programme start="20260320050000 +0000" stop="20260320060000 +0000" channel="龙华偶像台">
-    <title lang="zh">极速悖论</title>
-    <desc lang="zh">少年陈墨白从小将赛车视为终身梦想，渴望有一天能冲进“超级方程式”的赛场。追梦过程中，他遇上空气动力学博士的工程师沈溪。陈墨白的热忱执着，让沈溪终于开始直视内心，卸下包袱又彼此认可的两人成为最好的搭档，突破速度与安全的悖论，携手赛场上一次次超越极限。</desc>
-  </programme>
-  <programme start="20260320060000 +0000" stop="20260320070000 +0000" channel="龙华偶像台">
-    <title lang="zh">现在开始是Showtime！</title>
-    <desc lang="zh">毒舌、自私，但能使唤鬼魂的型男魔术师车次雄（朴海镇），偶然遇到了具有神通力的热血女警高瑟海（秦基周），两人共同卷入神秘的杀人案，进而联手与鬼、神一起追查真相的故事，是一出轻松爆笑的搜查剧。</desc>
-  </programme>
-  <programme start="20260320070000 +0000" stop="20260320080000 +0000" channel="龙华偶像台">
-    <title lang="zh">现在开始是Showtime！</title>
-    <desc lang="zh">毒舌、自私，但能使唤鬼魂的型男魔术师车次雄（朴海镇），偶然遇到了具有神通力的热血女警高瑟海（秦基周），两人共同卷入神秘的杀人案，进而联手与鬼、神一起追查真相的故事，是一出轻松爆笑的搜查剧。</desc>
-  </programme>
-  <programme start="20260320080000 +0000" stop="20260320090000 +0000" channel="龙华偶像台">
-    <title lang="zh">奔跑吧蔷薇</title>
-    <desc lang="zh">出身富裕的白蔷薇（李英雅）待人十分亲切，最后透过相亲和皮肤科医生结婚。没想到父亲的意外身亡，让她陷入经济困境，就连丈夫也背叛了她。万念俱灰下，蔷薇失去生活的重心，甚至徘徊在生死的边缘。直到对料理的热情让她重拾希望，进而进入SL食品公司工作，开启了她和黄太子（高周元）的不解之缘…</desc>
-  </programme>
-  <programme start="20260320090000 +0000" stop="20260320100000 +0000" channel="龙华偶像台">
-    <title lang="zh">奔跑吧蔷薇</title>
-    <desc lang="zh">出身富裕的白蔷薇（李英雅）待人十分亲切，最后透过相亲和皮肤科医生结婚。没想到父亲的意外身亡，让她陷入经济困境，就连丈夫也背叛了她。万念俱灰下，蔷薇失去生活的重心，甚至徘徊在生死的边缘。直到对料理的热情让她重拾希望，进而进入SL食品公司工作，开启了她和黄太子（高周元）的不解之缘…</desc>
-  </programme>
   <programme start="20260320100000 +0000" stop="20260320110000 +0000" channel="龙华偶像台">
     <title lang="zh">极速悖论</title>
     <desc lang="zh">少年陈墨白从小将赛车视为终身梦想，渴望有一天能冲进“超级方程式”的赛场。追梦过程中，他遇上空气动力学博士的工程师沈溪。陈墨白的热忱执着，让沈溪终于开始直视内心，卸下包袱又彼此认可的两人成为最好的搭档，突破速度与安全的悖论，携手赛场上一次次超越极限。</desc>
@@ -515028,30 +514870,6 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">先热情地打扫吧</title>
     <desc lang="zh">同名网路漫画改编。清洁公司CEO张善杰（尹钧相）财貌双全、堪称完美，却因有非常严重的洁癖而无法和任何人接触。但他却喜欢上个性明朗可爱却超级不拘小节的待业女青年吉五雪（金裕贞），两人之间上演一段双向奔赴的浪漫爱情故事…</desc>
   </programme>
-  <programme start="20260320040000 +0000" stop="20260320050000 +0000" channel="龙华日韩台">
-    <title lang="zh">吹吧微风</title>
-    <desc lang="zh">《吹吧微风》讲述一位身价一千亿韩元的老爷爷在所剩不多的日子里，偶然得知自己还有子孙之后，展开了蕴含离别、背叛、阴谋与爱的故事。</desc>
-  </programme>
-  <programme start="20260320050000 +0000" stop="20260320060000 +0000" channel="龙华日韩台">
-    <title lang="zh">吹吧微风</title>
-    <desc lang="zh">《吹吧微风》讲述一位身价一千亿韩元的老爷爷在所剩不多的日子里，偶然得知自己还有子孙之后，展开了蕴含离别、背叛、阴谋与爱的故事。</desc>
-  </programme>
-  <programme start="20260320060000 +0000" stop="20260320070000 +0000" channel="龙华日韩台">
-    <title lang="zh">WWW检索爱情</title>
-    <desc lang="zh">在业界顶尖门户网站公司Barro任职的裴朵美（林秀晶）、车贤（李多熙）与宋佳景（田慧振），是三个没有选择成为妻子或母亲的当今职业妇女，剧情描述三人在业界激烈的竞争故事，与她们现实生活中遇到各自命中注定的那个男人…</desc>
-  </programme>
-  <programme start="20260320070000 +0000" stop="20260320080000 +0000" channel="龙华日韩台">
-    <title lang="zh">WWW检索爱情</title>
-    <desc lang="zh">在业界顶尖门户网站公司Barro任职的裴朵美（林秀晶）、车贤（李多熙）与宋佳景（田慧振），是三个没有选择成为妻子或母亲的当今职业妇女，剧情描述三人在业界激烈的竞争故事，与她们现实生活中遇到各自命中注定的那个男人…</desc>
-  </programme>
-  <programme start="20260320080000 +0000" stop="20260320090000 +0000" channel="龙华日韩台">
-    <title lang="zh">暖阳之下</title>
-    <desc lang="zh">该剧讲述了两对夫妻宋思凝和李俊龙，陈诵英和关铮，由于婚育观不同而产生各种分歧和矛盾，最终夫妻之间相互包容，共同创造出幸福美好的生活的故事。</desc>
-  </programme>
-  <programme start="20260320090000 +0000" stop="20260320100000 +0000" channel="龙华日韩台">
-    <title lang="zh">只属于你</title>
-    <desc lang="zh">恩静（李敏英）嫁给律师姜胜宰（宋在熙），没想到婆家却拿她当佣人使唤，胜宰对此毫不在意，甚至根本没去登记结婚。恩静因此重回职场，努力成为知名设计师，当前男友俊夏再度出现在她面前，看到她遭遇不幸却仍默默守护，俊夏能为恩静带来幸福吗？</desc>
-  </programme>
   <programme start="20260320100000 +0000" stop="20260320110000 +0000" channel="龙华日韩台">
     <title lang="zh">只属于你</title>
     <desc lang="zh">恩静（李敏英）嫁给律师姜胜宰（宋在熙），没想到婆家却拿她当佣人使唤，胜宰对此毫不在意，甚至根本没去登记结婚。恩静因此重回职场，努力成为知名设计师，当前男友俊夏再度出现在她面前，看到她遭遇不幸却仍默默守护，俊夏能为恩静带来幸福吗？</desc>
@@ -515523,42 +515341,6 @@ about his spouse’s genuine woes and longings.</desc>
   <programme start="20260325070000 +0000" stop="20260325080000 +0000" channel="龙华日韩台">
     <title lang="zh">WWW检索爱情</title>
     <desc lang="zh">在业界顶尖门户网站公司Barro任职的裴朵美（林秀晶）、车贤（李多熙）与宋佳景（田慧振），是三个没有选择成为妻子或母亲的当今职业妇女，剧情描述三人在业界激烈的竞争故事，与她们现实生活中遇到各自命中注定的那个男人…</desc>
-  </programme>
-  <programme start="20260320040000 +0000" stop="20260320044000 +0000" channel="东森购物2台">
-    <title lang="zh">3/1-3/31全月消费满3件享1680枚东森币兑换【韩国热销折叠收纳箱3入组】(每人限1次)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260320044000 +0000" stop="20260320052000 +0000" channel="东森购物2台">
-    <title lang="zh">锁定CH.43、CH.49选购</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260320052000 +0000" stop="20260320060000 +0000" channel="东森购物2台">
-    <title lang="zh">3/1-3/31全月消费满3件享1680枚东森币兑换【韩国热销折叠收纳箱3入组】(每人限1次)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260320060000 +0000" stop="20260320064000 +0000" channel="东森购物2台">
-    <title lang="zh">锁定CH.43、CH.49选购</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260320064000 +0000" stop="20260320072000 +0000" channel="东森购物2台">
-    <title lang="zh">3/1-3/31全月消费满3件享1680枚东森币兑换【韩国热销折叠收纳箱3入组】(每人限1次)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260320072000 +0000" stop="20260320080000 +0000" channel="东森购物2台">
-    <title lang="zh">锁定CH.43、CH.49选购</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260320080000 +0000" stop="20260320084000 +0000" channel="东森购物2台">
-    <title lang="zh">3/1-3/31全月消费满3件享1680枚东森币兑换【韩国热销折叠收纳箱3入组】(每人限1次)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260320084000 +0000" stop="20260320092000 +0000" channel="东森购物2台">
-    <title lang="zh">锁定CH.43、CH.49选购</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260320092000 +0000" stop="20260320100000 +0000" channel="东森购物2台">
-    <title lang="zh">3/1-3/31全月消费满3件享1680枚东森币兑换【韩国热销折叠收纳箱3入组】(每人限1次)</title>
-    <desc lang="zh"/>
   </programme>
   <programme start="20260320100000 +0000" stop="20260320104000 +0000" channel="东森购物2台">
     <title lang="zh">锁定CH.43、CH.49选购</title>
@@ -516268,26 +516050,6 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">锁定CH.43、CH.49选购</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260320035800 +0000" stop="20260320050000 +0000" channel="华视新闻">
-    <title lang="zh">华视午间新闻</title>
-    <desc lang="zh">华视午间新闻由最专业的华视主播，带给观众朋友更多元化的新闻。</desc>
-  </programme>
-  <programme start="20260320050000 +0000" stop="20260320060000 +0000" channel="华视新闻">
-    <title lang="zh">华视1300午间新闻</title>
-    <desc lang="zh">以最客观的角度，最专业的主播，为观众完整报导国内外重要新闻。</desc>
-  </programme>
-  <programme start="20260320060000 +0000" stop="20260320070000 +0000" channel="华视新闻">
-    <title lang="zh">华视1400整点新闻</title>
-    <desc lang="zh">以最客观的角度，最专业的主播，为观众完整报导国内外重要新闻。</desc>
-  </programme>
-  <programme start="20260320070000 +0000" stop="20260320080000 +0000" channel="华视新闻">
-    <title lang="zh">华视1500整点新闻</title>
-    <desc lang="zh">以最客观的角度，最专业的主播，为观众完整报导上午发生之重大国内外重要新闻。</desc>
-  </programme>
-  <programme start="20260320080000 +0000" stop="20260320085300 +0000" channel="华视新闻">
-    <title lang="zh">华视在地新闻</title>
-    <desc lang="zh">以台语发音，提供观众朋友不一样的国内外新闻。</desc>
-  </programme>
   <programme start="20260320085300 +0000" stop="20260320120000 +0000" channel="华视新闻">
     <title lang="zh">华视新闻晚报</title>
     <desc lang="zh">华视新闻部每天整理当天重大国内外新闻事件，为观众做最快、最即时的播报。</desc>
@@ -516740,10 +516502,6 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">华视1500整点新闻</title>
     <desc lang="zh">以最客观的角度，最专业的主播，为观众完整报导上午发生之重大国内外重要新闻。</desc>
   </programme>
-  <programme start="20260320040000 +0000" stop="20260320100000 +0000" channel="倪珍播新闻">
-    <title lang="zh">午安新闻</title>
-    <desc lang="zh"/>
-  </programme>
   <programme start="20260320100000 +0000" stop="20260320160000 +0000" channel="倪珍播新闻">
     <title lang="zh">晚安新闻</title>
     <desc lang="zh"/>
@@ -516819,30 +516577,6 @@ about his spouse’s genuine woes and longings.</desc>
   <programme start="20260324220000 +0000" stop="20260325040000 +0000" channel="倪珍播新闻">
     <title lang="zh">早安新闻</title>
     <desc lang="zh"/>
-  </programme>
-  <programme start="20260320035500 +0000" stop="20260320060000 +0000" channel="三立新闻iNEWS">
-    <title lang="zh">iNEWS财经午报</title>
-    <desc lang="zh">三立iNEWS制播的财经新闻节目，每天午间由最专业的主播带来国际时事、财经股汇市报导、深度新闻、时事评论…等内容。</desc>
-  </programme>
-  <programme start="20260320060000 +0000" stop="20260320063000 +0000" channel="三立新闻iNEWS">
-    <title lang="zh">台股大赢家</title>
-    <desc lang="zh">三立iNEWS制播的财经新闻节目，由最专业的财经主播与股市专家带来股汇市趋势分析、提供观众投资时的参考。</desc>
-  </programme>
-  <programme start="20260320063000 +0000" stop="20260320070000 +0000" channel="三立新闻iNEWS">
-    <title lang="zh">iNEWS1430整点新闻</title>
-    <desc lang="zh">三立iNEWS制播的财经新闻节目，由最专业的财经主播带来国际时事、财经股汇市报导、深度新闻、时事评论…等内容。</desc>
-  </programme>
-  <programme start="20260320070000 +0000" stop="20260320080000 +0000" channel="三立新闻iNEWS">
-    <title lang="zh">全球新食力</title>
-    <desc lang="zh">三立iNEWS制播的美食资讯节目，带你全省走透透，吃遍台湾！</desc>
-  </programme>
-  <programme start="20260320080000 +0000" stop="20260320090000 +0000" channel="三立新闻iNEWS">
-    <title lang="zh">iNEWS1600整点新闻</title>
-    <desc lang="zh">三立iNEWS制播的财经新闻节目，由最专业的财经主播带来国际时事、财经股汇市报导、深度新闻、时事评论…等内容。</desc>
-  </programme>
-  <programme start="20260320090000 +0000" stop="20260320100000 +0000" channel="三立新闻iNEWS">
-    <title lang="zh">iNEWS1700整点新闻</title>
-    <desc lang="zh">三立iNEWS制播的财经新闻节目，由最专业的财经主播带来国际时事、财经股汇市报导、深度新闻、时事评论…等内容。</desc>
   </programme>
   <programme start="20260320100000 +0000" stop="20260320115500 +0000" channel="三立新闻iNEWS">
     <title lang="zh">1819钱进大头条</title>
@@ -517303,30 +517037,6 @@ about his spouse’s genuine woes and longings.</desc>
   <programme start="20260325070000 +0000" stop="20260325080000 +0000" channel="三立新闻iNEWS">
     <title lang="zh">全球新食力</title>
     <desc lang="zh">三立iNEWS制播的美食资讯节目，带你全省走透透，吃遍台湾！</desc>
-  </programme>
-  <programme start="20260320040000 +0000" stop="20260320050000 +0000" channel="寰宇财经台">
-    <title lang="zh">台股线上</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260320050000 +0000" stop="20260320060000 +0000" channel="寰宇财经台">
-    <title lang="zh">台股线上</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260320060000 +0000" stop="20260320070000 +0000" channel="寰宇财经台">
-    <title lang="zh">股海大丈夫</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260320070000 +0000" stop="20260320080000 +0000" channel="寰宇财经台">
-    <title lang="zh">美食打卡趣</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260320080000 +0000" stop="20260320090000 +0000" channel="寰宇财经台">
-    <title lang="zh">超自然实验室</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260320090000 +0000" stop="20260320100000 +0000" channel="寰宇财经台">
-    <title lang="zh">打卡吧!我的炫FOOD日记</title>
-    <desc lang="zh"/>
   </programme>
   <programme start="20260320100000 +0000" stop="20260320110000 +0000" channel="寰宇财经台">
     <title lang="zh">巷弄美食家</title>
@@ -517804,30 +517514,6 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">小食光台味志</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260320035800 +0000" stop="20260320050000 +0000" channel="中视新闻">
-    <title lang="zh">中视午间新闻</title>
-    <desc lang="zh">「中视午间新闻」每天以最客观的角度，最专业的主播，为观众完整报导上午发生之重大国内外重要新闻，并提供最新股市收盘价格。</desc>
-  </programme>
-  <programme start="20260320050000 +0000" stop="20260320060000 +0000" channel="中视新闻">
-    <title lang="zh">中视新闻即时现场</title>
-    <desc lang="zh">由主播萧惠文播报，以SNG车让观众看到最即时的新闻报导，并以最客观的角度，为观众完整报导上午发生之重要新闻。</desc>
-  </programme>
-  <programme start="20260320060000 +0000" stop="20260320070000 +0000" channel="中视新闻">
-    <title lang="zh">中视新闻即时现场</title>
-    <desc lang="zh">由主播萧惠文播报，以SNG车让观众看到最即时的新闻报导，并以最客观的角度，为观众完整报导上午发生之重要新闻。</desc>
-  </programme>
-  <programme start="20260320070000 +0000" stop="20260320080000 +0000" channel="中视新闻">
-    <title lang="zh">中视新闻即时现场</title>
-    <desc lang="zh">由主播萧惠文播报，以SNG车让观众看到最即时的新闻报导，并以最客观的角度，为观众完整报导上午发生之重要新闻。</desc>
-  </programme>
-  <programme start="20260320080000 +0000" stop="20260320090000 +0000" channel="中视新闻">
-    <title lang="zh">新庶民大头家</title>
-    <desc lang="zh">中视新闻全新政论节目，每日带给你超劲爆话题讨论，欢迎庶民们一起来follow。</desc>
-  </programme>
-  <programme start="20260320090000 +0000" stop="20260320100000 +0000" channel="中视新闻">
-    <title lang="zh">新庶民大头家</title>
-    <desc lang="zh">中视新闻全新政论节目，每日带给你超劲爆话题讨论，欢迎庶民们一起来follow。</desc>
-  </programme>
   <programme start="20260320100000 +0000" stop="20260320105800 +0000" channel="中视新闻">
     <title lang="zh">中视新闻全球报导</title>
     <desc lang="zh">中视每晚七点由主播哈远仪为全国观众最专业、准确的新闻报导。</desc>
@@ -518071,26 +517757,6 @@ about his spouse’s genuine woes and longings.</desc>
   <programme start="20260322220000 +0000" stop="20260322230000 +0000" channel="中视新闻">
     <title lang="zh">中视新闻全球报导</title>
     <desc lang="zh">中视每晚七点由主播哈远仪为全国观众最专业、准确的新闻报导。</desc>
-  </programme>
-  <programme start="20260320040000 +0000" stop="20260320050000 +0000" channel="中天新闻台">
-    <title lang="zh">中天新闻 1200正午新闻</title>
-    <desc lang="zh">中天正午新闻带给您最新的国内外大事，掌握天下，以及最新疫情新闻消息、疫情指挥中心直播、今日确诊人数统计等重大新闻转播报导。</desc>
-  </programme>
-  <programme start="20260320050000 +0000" stop="20260320060000 +0000" channel="中天新闻台">
-    <title lang="zh">中天新闻 1300午间新闻</title>
-    <desc lang="zh">中天午间新闻带给您最新的国内外大事，掌握天下。</desc>
-  </programme>
-  <programme start="20260320060000 +0000" stop="20260320080000 +0000" channel="中天新闻台">
-    <title lang="zh">大新闻大爆卦</title>
-    <desc lang="zh">每周一到周五《大新闻大爆卦》中天主播马千惠陪你一起来解卦！！！</desc>
-  </programme>
-  <programme start="20260320080000 +0000" stop="20260320090000 +0000" channel="中天新闻台">
-    <title lang="zh">中天新闻 1600整点新闻</title>
-    <desc lang="zh">收看中天新闻带给你最即时、最完整、最专业的新闻报导。</desc>
-  </programme>
-  <programme start="20260320090000 +0000" stop="20260320100000 +0000" channel="中天新闻台">
-    <title lang="zh">中天新闻 1700整点新闻</title>
-    <desc lang="zh">收看中天新闻带给你最即时、最完整、最专业的新闻报导。</desc>
   </programme>
   <programme start="20260320100000 +0000" stop="20260320110000 +0000" channel="中天新闻台">
     <title lang="zh">中天辣晚报</title>
@@ -518551,30 +518217,6 @@ about his spouse’s genuine woes and longings.</desc>
   <programme start="20260325060000 +0000" stop="20260325080000 +0000" channel="中天新闻台">
     <title lang="zh">大新闻大爆卦</title>
     <desc lang="zh">每周一到周五《大新闻大爆卦》中天主播马千惠陪你一起来解卦！！！</desc>
-  </programme>
-  <programme start="20260320035500 +0000" stop="20260320045500 +0000" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇午间新闻</title>
-    <desc lang="zh">寰宇午间新闻给你最在地的台湾新闻、最深入的两岸焦点，掌握国际情势带您了解社会脉动。</desc>
-  </programme>
-  <programme start="20260320045500 +0000" stop="20260320055500 +0000" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇午间新闻</title>
-    <desc lang="zh">寰宇午间新闻给你最在地的台湾新闻、最深入的两岸焦点，掌握国际情势带您了解社会脉动。</desc>
-  </programme>
-  <programme start="20260320055500 +0000" stop="20260320065500 +0000" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇整点新闻</title>
-    <desc lang="zh">来自路透的国际新闻、最在地的台湾新闻以及最深入的两岸焦点，带您掌握社会脉动。</desc>
-  </programme>
-  <programme start="20260320065500 +0000" stop="20260320075500 +0000" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇整点新闻</title>
-    <desc lang="zh">来自路透的国际新闻、最在地的台湾新闻以及最深入的两岸焦点，带您掌握社会脉动。</desc>
-  </programme>
-  <programme start="20260320075500 +0000" stop="20260320085500 +0000" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇晚间新闻</title>
-    <desc lang="zh">寰宇晚间新闻给你最在地的台湾新闻、最深入的两岸焦点，掌握国际情势带您了解社会脉动。</desc>
-  </programme>
-  <programme start="20260320085500 +0000" stop="20260320095500 +0000" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇晚间新闻</title>
-    <desc lang="zh">寰宇晚间新闻给你最在地的台湾新闻、最深入的两岸焦点，掌握国际情势带您了解社会脉动。</desc>
   </programme>
   <programme start="20260320095500 +0000" stop="20260320105500 +0000" channel="寰宇新闻台湾台">
     <title lang="zh">寰宇晚间新闻</title>
@@ -519048,30 +518690,6 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">寰宇整点新闻</title>
     <desc lang="zh">来自路透的国际新闻、最在地的台湾新闻以及最深入的两岸焦点，带您掌握社会脉动。</desc>
   </programme>
-  <programme start="20260320035500 +0000" stop="20260320045500 +0000" channel="寰宇新闻台">
-    <title lang="zh">寰宇全球现场</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260320045500 +0000" stop="20260320055500 +0000" channel="寰宇新闻台">
-    <title lang="zh">寰宇全球现场</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260320055500 +0000" stop="20260320065500 +0000" channel="寰宇新闻台">
-    <title lang="zh">寰宇整点新闻</title>
-    <desc lang="zh">来自路透的国际新闻、最在地的台湾新闻以及最深入的两岸焦点，带您掌握社会脉动。</desc>
-  </programme>
-  <programme start="20260320065500 +0000" stop="20260320075500 +0000" channel="寰宇新闻台">
-    <title lang="zh">寰宇整点新闻</title>
-    <desc lang="zh">来自路透的国际新闻、最在地的台湾新闻以及最深入的两岸焦点，带您掌握社会脉动。</desc>
-  </programme>
-  <programme start="20260320075500 +0000" stop="20260320085500 +0000" channel="寰宇新闻台">
-    <title lang="zh">寰宇全球新闻</title>
-    <desc lang="zh">抢先揭露全球各地政经、社会、娱乐的第一手新闻讯息，让观众不漏接关键的世界大事。</desc>
-  </programme>
-  <programme start="20260320085500 +0000" stop="20260320095500 +0000" channel="寰宇新闻台">
-    <title lang="zh">寰宇全球新闻</title>
-    <desc lang="zh">抢先揭露全球各地政经、社会、娱乐的第一手新闻讯息，让观众不漏接关键的世界大事。</desc>
-  </programme>
   <programme start="20260320095500 +0000" stop="20260320105500 +0000" channel="寰宇新闻台">
     <title lang="zh">寰宇全球新闻</title>
     <desc lang="zh">抢先揭露全球各地政经、社会、娱乐的第一手新闻讯息，让观众不漏接关键的世界大事。</desc>
@@ -519543,46 +519161,6 @@ about his spouse’s genuine woes and longings.</desc>
   <programme start="20260325065500 +0000" stop="20260325075500 +0000" channel="寰宇新闻台">
     <title lang="zh">寰宇整点新闻</title>
     <desc lang="zh">来自路透的国际新闻、最在地的台湾新闻以及最深入的两岸焦点，带您掌握社会脉动。</desc>
-  </programme>
-  <programme start="20260320040000 +0000" stop="20260320050000 +0000" channel="第1商业台">
-    <title lang="zh">财经资讯</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260320050000 +0000" stop="20260320060000 +0000" channel="第1商业台">
-    <title lang="zh">财经资讯</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260320060000 +0000" stop="20260320063000 +0000" channel="第1商业台">
-    <title lang="zh">股市吴限钻-宝得富-吴晓松分析师</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260320063000 +0000" stop="20260320070000 +0000" channel="第1商业台">
-    <title lang="zh">启发投顾精选</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260320070000 +0000" stop="20260320073000 +0000" channel="第1商业台">
-    <title lang="zh">阪田战法-宝得富-顾奎国分析师</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260320073000 +0000" stop="20260320080000 +0000" channel="第1商业台">
-    <title lang="zh">期股冲冲冲-宝得富-翁士峻分析师</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260320080000 +0000" stop="20260320083000 +0000" channel="第1商业台">
-    <title lang="zh">股市全攻略-丰银投顾-龚鸿彬分析师</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260320083000 +0000" stop="20260320090000 +0000" channel="第1商业台">
-    <title lang="zh">汪海华_操盘的智慧</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260320090000 +0000" stop="20260320093000 +0000" channel="第1商业台">
-    <title lang="zh">股市第一线-顾德投顾-李冠嵚分析师</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260320093000 +0000" stop="20260320100000 +0000" channel="第1商业台">
-    <title lang="zh">月薪翻倍计划-顾德投顾-黄紫东分析师</title>
-    <desc lang="zh"/>
   </programme>
   <programme start="20260320100000 +0000" stop="20260320103000 +0000" channel="第1商业台">
     <title lang="zh">阪田战法-宝得富-顾奎国分析师</title>
@@ -520448,10 +520026,6 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">期股冲冲冲-宝得富-翁士峻分析师</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260320010000 +0000" stop="20260320100000 +0000" channel="国会频道1台">
-    <title lang="zh">立法院会议直播</title>
-    <desc lang="zh"/>
-  </programme>
   <programme start="20260320100000 +0000" stop="20260320160000 +0000" channel="国会频道1台">
     <title lang="zh">当日立法院会议转播</title>
     <desc lang="zh"/>
@@ -520554,10 +520128,6 @@ about his spouse’s genuine woes and longings.</desc>
   </programme>
   <programme start="20260325004700 +0000" stop="20260325010000 +0000" channel="国会频道1台">
     <title lang="zh">周三会议预报</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260320010000 +0000" stop="20260320100000 +0000" channel="国会频道2台">
-    <title lang="zh">立法院会议直播</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260320100000 +0000" stop="20260320160000 +0000" channel="国会频道2台">
@@ -520663,18 +520233,6 @@ about his spouse’s genuine woes and longings.</desc>
   <programme start="20260325004700 +0000" stop="20260325010000 +0000" channel="国会频道2台">
     <title lang="zh">周三会议预报</title>
     <desc lang="zh"/>
-  </programme>
-  <programme start="20260320024000 +0000" stop="20260320044500 +0000" channel="龙华经典台">
-    <title lang="zh">吊人索</title>
-    <desc lang="zh">退休警官杰德库柏来到西部购买一批牲口准备务农，却被一群以退役上尉威尔逊为首、自称为民除害的枪手，指控其谋杀及偷窃牛只，而私下对他处以绞刑。库柏濒死之际被经过的法警救下，而真实的犯案者也在事后被逮，法官除还库柏清白外，更力邀库柏重回警职担任警长，成为美国西部联邦法警…</desc>
-  </programme>
-  <programme start="20260320044500 +0000" stop="20260320070500 +0000" channel="龙华经典台">
-    <title lang="zh">赤狐书生</title>
-    <desc lang="zh">清贫书生王子进（陈立农）赴京考试，途中遇上下凡取丹的小狐妖白十三（李现）。白十三刻意亲近王子进，目的是骗取王子进的感情，让王子进甘愿舍命，任凭白十三取其丹，这样才能晋升狐仙。没想到在取丹路上，一人一狐竟成了莫逆之交。历尽万险后，白十三必须在友情与成仙之间作出终极抉择…</desc>
-  </programme>
-  <programme start="20260320070500 +0000" stop="20260320085000 +0000" channel="龙华经典台">
-    <title lang="zh">雷鸟神机队之太空历险记</title>
-    <desc lang="zh">21世纪中叶，人类首次火星登陆探险任务Zero-X太空船即将发射，邪恶的假面人胡德却藏身于太空船内进行破坏导致失败。二年后，火星任务再度展开，由国际救援队「雷鸟神机队」出面维护发射安全，Zero-X成功踏上火星之旅，但火星上未知的生命体已蠢蠢欲动…</desc>
   </programme>
   <programme start="20260320085000 +0000" stop="20260320110000 +0000" channel="龙华经典台">
     <title lang="zh">赌侠2之上海滩赌圣</title>
@@ -520883,18 +520441,6 @@ about his spouse’s genuine woes and longings.</desc>
   <programme start="20260325041500 +0000" stop="20260325071000 +0000" channel="龙华经典台">
     <title lang="zh">血染雪山堡</title>
     <desc lang="zh">二战中期盟军重要人物－美国卡纳比将军，座机在德奥边界坠毁被俘，就近被囚禁在阿尔卑斯山中地势险恶的鹰堡。英国军情六处特纳上校立即派遣以特工史密斯少校为首、与美军谢弗中尉等精通德语的七人突击队，假扮德军深入敌营抢救。但在空降时通讯士意外丧命，不久又有两名成员离奇身亡…</desc>
-  </programme>
-  <programme start="20260320020000 +0000" stop="20260320045000 +0000" channel="龙华电影台">
-    <title lang="zh">第一炉香</title>
-    <desc lang="zh">上海女学生葛薇龙（马思纯）来香港求学，投靠姑妈梁太太，却反被梁太太利用，把她当作诱饵吸引男人，最后渐渐沉迷在纸醉金迷中。此时，葛薇龙被花花公子乔琪乔（彭于晏）吸引，为了继续过声色犬马的上流社会生活，不惜出卖自己的灵魂，费尽心机嫁给乔琪乔，未料却沦为姑妈和乔琪乔敛财的工具…</desc>
-  </programme>
-  <programme start="20260320045000 +0000" stop="20260320070000 +0000" channel="龙华电影台">
-    <title lang="zh">正宗绝代双骄</title>
-    <desc lang="zh">移花宫主（张敏）誓要杀尽恶人谷十大恶人为使命，但十大恶人有恩于丈夫燕南天，夫妻反目。燕携子小鱼儿（刘德华）往恶人谷，并得十大恶人授武予小鱼儿，另宫主亦收养一女婴花无缺（林青霞），彼此立下十八年后再战之约…</desc>
-  </programme>
-  <programme start="20260320070000 +0000" stop="20260320080000 +0000" channel="龙华电影台">
-    <title lang="zh">猪猪侠之超星五灵侠</title>
-    <desc lang="zh">完成了九霄星的任务后，猪猪们乘坐著猪排号愉快地返回猪猪星。就在快到达时，他们接到了完美队长的电话，告诉他们，只要接下来继续完成一些指标来证明自己，就有机会加入宇宙英雄联盟。挂断电话后，猪猪们都十分兴奋，然而就在这时，一个叫独孤博士的坏蛋出现，还下令阻止他们继续前进…</desc>
   </programme>
   <programme start="20260320080000 +0000" stop="20260320104000 +0000" channel="龙华电影台">
     <title lang="zh">新封神榜：杨戬</title>
@@ -521135,18 +520681,6 @@ about his spouse’s genuine woes and longings.</desc>
   <programme start="20260325060000 +0000" stop="20260325074500 +0000" channel="龙华电影台">
     <title lang="zh">白发魔女2</title>
     <desc lang="zh">卓一航（张国荣）与练霓裳（林青霞）决裂后销声匿迹，如今练已走火入魔，四处杀戳。适逢武当后人武当人封俊杰迎娶玉女虞琴之夜，魔女再现，杀宾客掳新娘。峨嵋派姥姥无力对抗魔女，乃派俊杰往千雪峰找卓帮忙。时值奇花开放，卓携花下山与练重逢，然而，练却大开杀戒，卓会如何面对忿恨的练呢？</desc>
-  </programme>
-  <programme start="20260320034000 +0000" stop="20260320054500 +0000" channel="龙华洋片台">
-    <title lang="zh">天崩飓裂</title>
-    <desc lang="zh">《圣母峰》特效团队打造的灾难片。美国史上最强的毁灭性龙卷风即将扑向明尼内瓦镇，四个家庭的成员，在龙卷风警报发布后只有十三分钟的时间躲进避难所。他们该如何克服分歧，展现人性光辉，重新从彼此身上找到生存的意义与力量呢？</desc>
-  </programme>
-  <programme start="20260320054500 +0000" stop="20260320074000 +0000" channel="龙华洋片台">
-    <title lang="zh">潜龙突击队</title>
-    <desc lang="zh">1995年，巴恩斯（苏利文史达波顿）率一支海豹突击队潜入塞尔维亚执行任务，却因撤退时造成太多财损遭上级训斥，并勒令三天内离开波士尼亚。此时他们意外得知附近湖中有二战时德军搜括的大笔黄金，决定将之取出送给饱受战火荼毒的村民…</desc>
-  </programme>
-  <programme start="20260320074000 +0000" stop="20260320093000 +0000" channel="龙华洋片台">
-    <title lang="zh">五月的35日</title>
-    <desc lang="zh">1940年，德军占领法国，从事记者工作的路德维希与他年仅12岁的儿子洛弗为了逃避纳粹政府的通缉，已经在法国马赛流亡三年，计划带著爱犬阿迪逃离欧洲、前往纽约与妻子会合。途中，两人认识了与洛弗差不多大的牧羊女诺丽雅儿，三人一狗踏上了布满危险的未知旅程。多项国际影展获奖提名。</desc>
   </programme>
   <programme start="20260320093000 +0000" stop="20260320111500 +0000" channel="龙华洋片台">
     <title lang="zh">缘来想见妳</title>
@@ -521436,24 +520970,28 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">NBA常规赛雄鹿VS爵士</title>
     <desc lang="zh">/</desc>
   </programme>
-  <programme start="20260320092000 +0800" stop="20260323133000 +0800" channel="咪咕体育">
-    <title lang="zh">预赛冲晋级！唐钱婷、张雨霏领衔出战预赛冲晋级！唐钱婷、张雨霏领衔出战</title>
+  <programme start="20260320092000 +0800" stop="20260320130330 +0800" channel="咪咕体育">
+    <title lang="zh">成功晋级！张雨霏、陈俊儿双双突围成功晋级！张雨霏、陈俊儿双双突围</title>
     <desc lang="zh">/</desc>
   </programme>
   <programme start="20260320095500 +0800" stop="20260320122707 +0800" channel="咪咕体育">
     <title lang="zh">NBA常规赛76人VS国王</title>
     <desc lang="zh">/</desc>
   </programme>
-  <programme start="20260320123000 +0800" stop="20260321163000 +0800" channel="咪咕体育">
-    <title lang="zh">丁文一、吴阿顺领衔中国军团出战丁文一、吴阿顺领衔中国军团出战</title>
+  <programme start="20260320123000 +0800" stop="20260320182205 +0800" channel="咪咕体育">
+    <title lang="zh">中国4将齐晋级决赛 丁文一-12紧追榜首中国4将齐晋级决赛 丁文一-12紧追榜首</title>
     <desc lang="zh">/</desc>
   </programme>
-  <programme start="20260320140000 +0800" stop="20260321180000 +0800" channel="咪咕体育">
-    <title lang="zh">火箭出战冲击4强 吴宜泽PK艾伦火箭出战冲击4强 吴宜泽PK艾伦</title>
+  <programme start="20260320140000 +0800" stop="20260320160018 +0800" channel="咪咕体育">
+    <title lang="zh">火箭轰单杆153分 吴宜泽胜艾伦火箭轰单杆153分 吴宜泽胜艾伦</title>
     <desc lang="zh">/</desc>
   </programme>
   <programme start="20260320170000 +0800" stop="20260321210000 +0800" channel="咪咕体育">
     <title lang="zh">冲击四强！胡珂源/林祥毅领衔出战冲击四强！胡珂源/林祥毅领衔出战</title>
+    <desc lang="zh">/</desc>
+  </programme>
+  <programme start="20260320175000 +0800" stop="20260320220000 +0800" channel="咪咕体育">
+    <title lang="zh">东亚超级联赛琉球黄金帝王vs宇都宫王道</title>
     <desc lang="zh">/</desc>
   </programme>
   <programme start="20260320183500 +0800" stop="20260320223000 +0800" channel="咪咕体育">
@@ -521469,11 +521007,11 @@ about his spouse’s genuine woes and longings.</desc>
     <desc lang="zh">/</desc>
   </programme>
   <programme start="20260320185000 +0800" stop="20260324230000 +0800" channel="咪咕体育">
-    <title lang="zh">全力出击！张展硕、唐钱婷领衔冲金全力出击！张展硕、唐钱婷领衔冲金</title>
+    <title lang="zh">全力出击！张展硕、张雨霏领衔冲金全力出击！张展硕、张雨霏领衔冲金</title>
     <desc lang="zh">/</desc>
   </programme>
   <programme start="20260320193000 +0800" stop="20260321233000 +0800" channel="咪咕体育">
-    <title lang="zh">王牌君出战 塔猜亚PK加里·威尔逊王牌君出战 塔猜亚PK加里·威尔逊</title>
+    <title lang="zh">特鲁姆普VS瓦菲 塔猜亚PK加里·威尔逊特鲁姆普VS瓦菲 塔猜亚PK加里·威尔逊</title>
     <desc lang="zh">/</desc>
   </programme>
   <programme start="20260320193500 +0800" stop="20260320233500 +0800" channel="咪咕体育">
@@ -521498,6 +521036,10 @@ about his spouse’s genuine woes and longings.</desc>
   </programme>
   <programme start="20260320195000 +0800" stop="20260321000000 +0800" channel="咪咕体育">
     <title lang="zh">中甲联赛广西恒宸 vs 宁波</title>
+    <desc lang="zh">/</desc>
+  </programme>
+  <programme start="20260320202000 +0800" stop="20260321003000 +0800" channel="咪咕体育">
+    <title lang="zh">东亚超级联赛东京电击vs桃园璞园领航猿</title>
     <desc lang="zh">/</desc>
   </programme>
   <programme start="20260320230000 +0800" stop="20260322030000 +0800" channel="咪咕体育">
@@ -521536,11 +521078,11 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">西甲联赛比利亚雷亚尔 vs 皇家社会</title>
     <desc lang="zh">/</desc>
   </programme>
-  <programme start="20260321040000 +0800" stop="20260323080000 +0800" channel="咪咕体育">
+  <programme start="20260321023000 +0800" stop="20260321080000 +0800" channel="咪咕体育">
     <title lang="zh">WTA迈阿密站女单第二轮：郑钦文 vs 斯蒂文斯郑钦文 vs 斯蒂文斯</title>
     <desc lang="zh">/</desc>
   </programme>
-  <programme start="20260321040000 +0800" stop="20260323080000 +0800" channel="咪咕体育">
+  <programme start="20260321040000 +0800" stop="20260321080000 +0800" channel="咪咕体育">
     <title lang="zh">WTA迈阿密站女单第二轮：麦克纳莉 vs 王欣瑜麦克纳莉 vs 王欣瑜</title>
     <desc lang="zh">/</desc>
   </programme>
@@ -521572,12 +521114,20 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">单打半决赛决赛、团体赛第一、二阶段单打半决赛决赛、团体赛第一、二阶段</title>
     <desc lang="zh">/</desc>
   </programme>
+  <programme start="20260321084500 +0800" stop="20260323124500 +0800" channel="咪咕体育">
+    <title lang="zh">全国撑竿跳高单项赛第3站全国撑竿跳高单项赛第3站</title>
+    <desc lang="zh">/</desc>
+  </programme>
   <programme start="20260321085500 +0800" stop="20260321130000 +0800" channel="咪咕体育">
     <title lang="zh">NBA常规赛猛龙VS掘金</title>
     <desc lang="zh">/</desc>
   </programme>
   <programme start="20260321092000 +0800" stop="20260324133000 +0800" channel="咪咕体育">
-    <title lang="zh">Day3 日场Day3 日场</title>
+    <title lang="zh">潘展乐、唐钱婷、张雨霏和张展硕领衔出战潘展乐、唐钱婷、张雨霏和张展硕领衔出战</title>
+    <desc lang="zh">/</desc>
+  </programme>
+  <programme start="20260321092500 +0800" stop="20260321133000 +0800" channel="咪咕体育">
+    <title lang="zh">G联赛常规赛猛龙905VS撕裂之城混音</title>
     <desc lang="zh">/</desc>
   </programme>
   <programme start="20260321120000 +0800" stop="20260321160000 +0800" channel="咪咕体育">
@@ -521585,11 +521135,23 @@ about his spouse’s genuine woes and longings.</desc>
     <desc lang="zh">/</desc>
   </programme>
   <programme start="20260321123000 +0800" stop="20260322163000 +0800" channel="咪咕体育">
-    <title lang="zh">DP World巡回赛海南高尔夫精英赛第三日DP World巡回赛海南高尔夫精英赛第三日</title>
+    <title lang="zh">中国4将齐发力！丁文一冲击榜首中国4将齐发力！丁文一冲击榜首</title>
     <desc lang="zh">/</desc>
   </programme>
   <programme start="20260321140000 +0800" stop="20260322180000 +0800" channel="咪咕体育">
-    <title lang="zh">半决赛半决赛</title>
+    <title lang="zh">半决赛：奥沙利文VS吴宜泽半决赛：奥沙利文VS吴宜泽</title>
+    <desc lang="zh">/</desc>
+  </programme>
+  <programme start="20260321135500 +0800" stop="20260321180000 +0800" channel="咪咕体育">
+    <title lang="zh">Jr. NBA广东站决赛Jr. NBA广东站决赛</title>
+    <desc lang="zh">/</desc>
+  </programme>
+  <programme start="20260321140000 +0800" stop="20260321160000 +0800" channel="咪咕体育">
+    <title lang="zh">2026安徽省乒乓球联赛滁州市定远县海选赛day12026安徽省乒乓球联赛滁州市定远县海选赛day1</title>
+    <desc lang="zh">/</desc>
+  </programme>
+  <programme start="20260321140000 +0800" stop="20260321160000 +0800" channel="咪咕体育">
+    <title lang="zh">2026安徽省乒乓球联赛阜阳市界首市海选赛day12026安徽省乒乓球联赛阜阳市界首市海选赛day1</title>
     <desc lang="zh">/</desc>
   </programme>
   <programme start="20260321143000 +0800" stop="20260321172000 +0800" channel="咪咕体育">
@@ -521600,7 +521162,7 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">崇左市龙州县队vs钦州市钦北区队崇左市龙州县队vs钦州市钦北区队</title>
     <desc lang="zh">/</desc>
   </programme>
-  <programme start="20260321150000 +0800" stop="20260321190000 +0800" channel="咪咕体育">
+  <programme start="20260321145000 +0800" stop="20260321190000 +0800" channel="咪咕体育">
     <title lang="zh">中乙联赛大连可为 vs 山西崇德荣海</title>
     <desc lang="zh">/</desc>
   </programme>
@@ -521612,11 +521174,11 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">中超联赛北京国安 vs 上海申花</title>
     <desc lang="zh">/</desc>
   </programme>
-  <programme start="20260321153000 +0800" stop="20260321193000 +0800" channel="咪咕体育">
+  <programme start="20260321152000 +0800" stop="20260321193000 +0800" channel="咪咕体育">
     <title lang="zh">中乙联赛山东泰山B队 vs 泰安天贶</title>
     <desc lang="zh">/</desc>
   </programme>
-  <programme start="20260321153000 +0800" stop="20260321193000 +0800" channel="咪咕体育">
+  <programme start="20260321150000 +0800" stop="20260321193000 +0800" channel="咪咕体育">
     <title lang="zh">中乙联赛广东铭途 vs 赣州瑞狮</title>
     <desc lang="zh">/</desc>
   </programme>
@@ -521624,7 +521186,11 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">保山市VS丽江市保山市VS丽江市</title>
     <desc lang="zh">/</desc>
   </programme>
-  <programme start="20260321160000 +0800" stop="20260321200000 +0800" channel="咪咕体育">
+  <programme start="20260321153000 +0800" stop="20260321173000 +0800" channel="咪咕体育">
+    <title lang="zh">芜湖vs蚌埠芜湖vs蚌埠</title>
+    <desc lang="zh">/</desc>
+  </programme>
+  <programme start="20260321155000 +0800" stop="20260321200000 +0800" channel="咪咕体育">
     <title lang="zh">中乙联赛厦门飞鹭 vs 贵州贵阳竞技</title>
     <desc lang="zh">/</desc>
   </programme>
@@ -521632,7 +521198,7 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">昆明市VS西双版纳州昆明市VS西双版纳州</title>
     <desc lang="zh">/</desc>
   </programme>
-  <programme start="20260321163000 +0800" stop="20260321203000 +0800" channel="咪咕体育">
+  <programme start="20260321162000 +0800" stop="20260321203000 +0800" channel="咪咕体育">
     <title lang="zh">中乙联赛湖北青年星 vs 广州蒲公英</title>
     <desc lang="zh">/</desc>
   </programme>
@@ -521653,7 +521219,7 @@ about his spouse’s genuine woes and longings.</desc>
     <desc lang="zh">/</desc>
   </programme>
   <programme start="20260321185000 +0800" stop="20260324230000 +0800" channel="咪咕体育">
-    <title lang="zh">Day3 夜场Day3 夜场</title>
+    <title lang="zh">潘展乐、唐钱婷、张雨霏和张展硕领衔冲金潘展乐、唐钱婷、张雨霏和张展硕领衔冲金</title>
     <desc lang="zh">/</desc>
   </programme>
   <programme start="20260321190000 +0800" stop="20260321215000 +0800" channel="咪咕体育">
@@ -521712,12 +521278,20 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">半决赛半决赛</title>
     <desc lang="zh">/</desc>
   </programme>
-  <programme start="20260321193000 +0800" stop="20260321233000 +0800" channel="咪咕体育">
+  <programme start="20260321192000 +0800" stop="20260321233000 +0800" channel="咪咕体育">
     <title lang="zh">中乙联赛海门珂缔缘 vs 大连英博B队</title>
     <desc lang="zh">/</desc>
   </programme>
   <programme start="20260321191000 +0800" stop="20260321233000 +0800" channel="咪咕体育">
     <title lang="zh">WCBA全明星星锐赛南区星锐队vs北区星锐队</title>
+    <desc lang="zh">/</desc>
+  </programme>
+  <programme start="20260321193000 +0800" stop="20260321214000 +0800" channel="咪咕体育">
+    <title lang="zh">广州VS中山广州VS中山</title>
+    <desc lang="zh">/</desc>
+  </programme>
+  <programme start="20260321193000 +0800" stop="20260321213000 +0800" channel="咪咕体育">
+    <title lang="zh">淮南vs宿州淮南vs宿州</title>
     <desc lang="zh">/</desc>
   </programme>
   <programme start="20260321193500 +0800" stop="20260321233500 +0800" channel="咪咕体育">
@@ -522704,31 +522278,31 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">경제한방</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321210000 +0900" stop="20260321213000 +0900" channel="KBS NEWS">
+  <programme start="20260321210000 +0900" stop="20260321214000 +0900" channel="KBS NEWS">
     <title lang="zh">머니올라</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321213000 +0900" stop="20260321222000 +0900" channel="KBS NEWS">
+  <programme start="20260321214000 +0900" stop="20260321223000 +0900" channel="KBS NEWS">
     <title lang="zh">KBS 뉴스 9</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321222000 +0900" stop="20260321230000 +0900" channel="KBS NEWS">
+  <programme start="20260321223000 +0900" stop="20260321231000 +0900" channel="KBS NEWS">
     <title lang="zh">시사기획 창</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321230000 +0900" stop="20260321234000 +0900" channel="KBS NEWS">
+  <programme start="20260321231000 +0900" stop="20260321235000 +0900" channel="KBS NEWS">
     <title lang="zh">남북의 창</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321234000 +0900" stop="20260321234500 +0900" channel="KBS NEWS">
+  <programme start="20260321235000 +0900" stop="20260322000000 +0900" channel="KBS NEWS">
     <title lang="zh">더 보다</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321234500 +0900" stop="20260321235500 +0900" channel="KBS NEWS">
+  <programme start="20260322000000 +0900" stop="20260322001000 +0900" channel="KBS NEWS">
     <title lang="zh">크랩</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321235500 +0900" stop="20260322002000 +0900" channel="KBS NEWS">
+  <programme start="20260322001000 +0900" stop="20260322002000 +0900" channel="KBS NEWS">
     <title lang="zh">KBS 뉴스</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -523732,24 +523306,24 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">좋은 아침 스페셜</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260320170000 +0900" stop="20260320173000 +0900" channel="SBS">
+  <programme start="20260320170000 +0900" stop="20260320173500 +0900" channel="SBS">
     <title lang="zh">SBS 오뉴스</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260320173000 +0900" stop="20260320180000 +0900" channel="SBS">
-    <title lang="zh">접속! 무비월드 스페셜</title>
+  <programme start="20260320173500 +0900" stop="20260320175500 +0900" channel="SBS">
+    <title lang="zh">생활의 달인 스페셜</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260320180000 +0900" stop="20260320185000 +0900" channel="SBS">
+  <programme start="20260320175500 +0900" stop="20260320184500 +0900" channel="SBS">
     <title lang="zh">생방송 투데이</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260320185000 +0900" stop="20260320195000 +0900" channel="SBS">
+  <programme start="20260320184500 +0900" stop="20260320194500 +0900" channel="SBS">
     <title lang="zh">뉴스헌터스</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260320195000 +0900" stop="20260320205000 +0900" channel="SBS">
-    <title lang="zh">SBS 8 뉴스</title>
+  <programme start="20260320194500 +0900" stop="20260320205000 +0900" channel="SBS">
+    <title lang="zh">특집 SBS 8 뉴스</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260320205000 +0900" stop="20260320215000 +0900" channel="SBS">
@@ -524336,24 +523910,28 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">신비 동물원 디오션 컵 골프구단 대항전 with ANEW GOLF 하이라이트 </title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260320110000 +0900" stop="20260320170000 +0900" channel="SBS Golf">
+  <programme start="20260320110000 +0900" stop="20260320163000 +0900" channel="SBS Golf">
     <title lang="zh">까르마·디오션컵 골프구단 대항전 with ANEW GOLF 첫째 날</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260320170000 +0900" stop="20260320203000 +0900" channel="SBS Golf">
+  <programme start="20260320163000 +0900" stop="20260320200000 +0900" channel="SBS Golf">
     <title lang="zh">까르마·디오션컵 골프구단 대항전 with ANEW GOLF 첫째 날</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260320203000 +0900" stop="20260320230000 +0900" channel="SBS Golf">
+  <programme start="20260320200000 +0900" stop="20260320223000 +0900" channel="SBS Golf">
     <title lang="zh">까르마·디오션컵 골프구단 대항전 with ANEW GOLF 첫째 날</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260320230000 +0900" stop="20260321000000 +0900" channel="SBS Golf">
+  <programme start="20260320223000 +0900" stop="20260320233000 +0900" channel="SBS Golf">
     <title lang="zh">SBS골프 아카데미 공태현 박진이</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321000000 +0900" stop="20260321023000 +0900" channel="SBS Golf">
+  <programme start="20260320233000 +0900" stop="20260321013000 +0900" channel="SBS Golf">
     <title lang="zh">2026 KPGA MY문영 윈터투어 1회 대회 </title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260321013000 +0900" stop="20260321023000 +0900" channel="SBS Golf">
+    <title lang="zh">2026 캐리어에어컨 MTN 루키 챔피언십 </title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260321023000 +0900" stop="20260321033000 +0900" channel="SBS Golf">
@@ -524424,28 +524002,32 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">2026 캐리어에어컨 MTN 루키 챔피언십 </title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260320110000 +0900" stop="20260320170000 +0900" channel="SBS Golf2">
+  <programme start="20260320110000 +0900" stop="20260320163000 +0900" channel="SBS Golf2">
     <title lang="zh">까르마·디오션 컵 골프구단 대항전 with ANEW GOLF 첫째 날</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260320170000 +0900" stop="20260320193000 +0900" channel="SBS Golf2">
+  <programme start="20260320163000 +0900" stop="20260320190000 +0900" channel="SBS Golf2">
     <title lang="zh">2026 KPGA MY문영 윈터투어 2회 대회 </title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260320193000 +0900" stop="20260320200000 +0900" channel="SBS Golf2">
+  <programme start="20260320190000 +0900" stop="20260320193000 +0900" channel="SBS Golf2">
     <title lang="zh">파워 X 골프 </title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260320200000 +0900" stop="20260320213000 +0900" channel="SBS Golf2">
+  <programme start="20260320193000 +0900" stop="20260320210000 +0900" channel="SBS Golf2">
     <title lang="zh">2025 KPGA투어 골프존 오픈 하이라이트 </title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260320213000 +0900" stop="20260320230000 +0900" channel="SBS Golf2">
+  <programme start="20260320210000 +0900" stop="20260320223000 +0900" channel="SBS Golf2">
     <title lang="zh">팀 타이틀리스트 코리아 챔피언십 최종라운드</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260320230000 +0900" stop="20260321000000 +0900" channel="SBS Golf2">
+  <programme start="20260320223000 +0900" stop="20260320233000 +0900" channel="SBS Golf2">
     <title lang="zh">골프도 여행도 in 베트남 </title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260320233000 +0900" stop="20260321000000 +0900" channel="SBS Golf2">
+    <title lang="zh">임진한의 이지골프 </title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260321000000 +0900" stop="20260321003000 +0900" channel="SBS Golf2">
@@ -524768,28 +524350,28 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">2시 뉴스 외전</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260320155500 +0900" stop="20260320165500 +0900" channel="MBC">
+  <programme start="20260320155500 +0900" stop="20260320161000 +0900" channel="MBC">
     <title lang="zh">기분 좋은 날(재)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260320165500 +0900" stop="20260320171000 +0900" channel="MBC">
-    <title lang="zh">5시 뉴스와 경제</title>
+  <programme start="20260320161000 +0900" stop="20260320170500 +0900" channel="MBC">
+    <title lang="zh">MBC 뉴스특보</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260320171000 +0900" stop="20260320180500 +0900" channel="MBC">
-    <title lang="zh">앙코르 MBC 다큐프라임</title>
+  <programme start="20260320170500 +0900" stop="20260320175000 +0900" channel="MBC">
+    <title lang="zh">기분 좋은 날(재)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260320180500 +0900" stop="20260320190500 +0900" channel="MBC">
+  <programme start="20260320175000 +0900" stop="20260320185000 +0900" channel="MBC">
     <title lang="zh">오늘N</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260320190500 +0900" stop="20260320194000 +0900" channel="MBC">
+  <programme start="20260320185000 +0900" stop="20260320192500 +0900" channel="MBC">
     <title lang="zh">일일드라마 첫번째 남자(67)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260320194000 +0900" stop="20260320204000 +0900" channel="MBC">
-    <title lang="zh">MBC 뉴스데스크</title>
+  <programme start="20260320192500 +0900" stop="20260320204000 +0900" channel="MBC">
+    <title lang="zh">특집 MBC 뉴스데스크</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260320204000 +0900" stop="20260320215000 +0900" channel="MBC">
@@ -524800,15 +524382,19 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">금토드라마 찬란한 너의 계절에(8)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260320231000 +0900" stop="20260321010000 +0900" channel="MBC">
+  <programme start="20260320231000 +0900" stop="20260320231500 +0900" channel="MBC">
+    <title lang="zh">MBC 뉴스특보</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260320231500 +0900" stop="20260321010500 +0900" channel="MBC">
     <title lang="zh">나 혼자 산다</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321010000 +0900" stop="20260321012000 +0900" channel="MBC">
+  <programme start="20260321010500 +0900" stop="20260321012500 +0900" channel="MBC">
     <title lang="zh">MBC 뉴스 25</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321012000 +0900" stop="20260321024000 +0900" channel="MBC">
+  <programme start="20260321012500 +0900" stop="20260321024500 +0900" channel="MBC">
     <title lang="zh">금토드라마 찬란한 너의 계절에(재,8)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -524869,7 +524455,7 @@ about his spouse’s genuine woes and longings.</desc>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260321195500 +0900" stop="20260321203500 +0900" channel="MBC">
-    <title lang="zh">MBC 뉴스데스크</title>
+    <title lang="zh">특집 MBC 뉴스데스크</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260321203500 +0900" stop="20260321204000 +0900" channel="MBC">
@@ -525096,87 +524682,83 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">쇼킹 받는 차트 스페셜 40회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260320042400 +0900" stop="20260320050000 +0900" channel="MBC drama">
+  <programme start="20260320042400 +0900" stop="20260320050400 +0900" channel="MBC drama">
     <title lang="zh">인생은 항구다 5회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321050000 +0900" stop="20260321054000 +0900" channel="MBC drama">
+  <programme start="20260321050400 +0900" stop="20260321053800 +0900" channel="MBC drama">
     <title lang="zh">첫 번째 남자 61회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321054000 +0900" stop="20260321062000 +0900" channel="MBC drama">
+  <programme start="20260321053800 +0900" stop="20260321061400 +0900" channel="MBC drama">
     <title lang="zh">첫 번째 남자 62회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321062000 +0900" stop="20260321070000 +0900" channel="MBC drama">
+  <programme start="20260321061400 +0900" stop="20260321064900 +0900" channel="MBC drama">
     <title lang="zh">첫 번째 남자 63회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321070000 +0900" stop="20260321090000 +0900" channel="MBC drama">
+  <programme start="20260321064900 +0900" stop="20260321085200 +0900" channel="MBC drama">
     <title lang="zh">어서와~ 한국은 처음이지? 420회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321090000 +0900" stop="20260321102000 +0900" channel="MBC drama">
+  <programme start="20260321085200 +0900" stop="20260321101400 +0900" channel="MBC drama">
     <title lang="zh">찬란한 너의 계절에 8회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321102000 +0900" stop="20260321111500 +0900" channel="MBC drama">
-    <title lang="zh">나 혼자 산다 575회</title>
+  <programme start="20260321101400 +0900" stop="20260321115300 +0900" channel="MBC drama">
+    <title lang="zh">나 혼자 산다 </title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321111500 +0900" stop="20260321121000 +0900" channel="MBC drama">
-    <title lang="zh">나 혼자 산다 576회</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260321121000 +0900" stop="20260321134000 +0900" channel="MBC drama">
+  <programme start="20260321115300 +0900" stop="20260321131900 +0900" channel="MBC drama">
     <title lang="zh">놀면 뭐하니? 320회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321134000 +0900" stop="20260321150000 +0900" channel="MBC drama">
+  <programme start="20260321131900 +0900" stop="20260321142700 +0900" channel="MBC drama">
     <title lang="zh">나 혼자 산다 536회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321150000 +0900" stop="20260321162000 +0900" channel="MBC drama">
+  <programme start="20260321142700 +0900" stop="20260321155200 +0900" channel="MBC drama">
     <title lang="zh">찬란한 너의 계절에 8회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321162000 +0900" stop="20260321174000 +0900" channel="MBC drama">
+  <programme start="20260321155200 +0900" stop="20260321174100 +0900" channel="MBC drama">
     <title lang="zh">라디오스타 957회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321174000 +0900" stop="20260321194000 +0900" channel="MBC drama">
+  <programme start="20260321174100 +0900" stop="20260321194300 +0900" channel="MBC drama">
     <title lang="zh">어서와~ 한국은 처음이지? 420회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321194000 +0900" stop="20260321213000 +0900" channel="MBC drama">
+  <programme start="20260321194300 +0900" stop="20260321212100 +0900" channel="MBC drama">
     <title lang="zh">나 혼자 산다 639회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321213000 +0900" stop="20260321223000 +0900" channel="MBC drama">
+  <programme start="20260321212100 +0900" stop="20260321224000 +0900" channel="MBC drama">
     <title lang="zh">나 혼자 산다 639회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321223000 +0900" stop="20260322000000 +0900" channel="MBC drama">
+  <programme start="20260321224000 +0900" stop="20260321235900 +0900" channel="MBC drama">
     <title lang="zh">찬란한 너의 계절에 8회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321000000 +0900" stop="20260321012000 +0900" channel="MBC drama">
+  <programme start="20260321235900 +0900" stop="20260322012300 +0900" channel="MBC drama">
     <title lang="zh">찬란한 너의 계절에 9회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321012000 +0900" stop="20260321024000 +0900" channel="MBC drama">
+  <programme start="20260321012300 +0900" stop="20260321024200 +0900" channel="MBC drama">
     <title lang="zh">찬란한 너의 계절에 9회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321024000 +0900" stop="20260321040000 +0900" channel="MBC drama">
+  <programme start="20260321024200 +0900" stop="20260321035200 +0900" channel="MBC drama">
     <title lang="zh">나 혼자 산다 639회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321040000 +0900" stop="20260321043000 +0900" channel="MBC drama">
+  <programme start="20260321035200 +0900" stop="20260321042900 +0900" channel="MBC drama">
     <title lang="zh">쇼킹 받는 차트 스페셜 41회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321043000 +0900" stop="20260321050000 +0900" channel="MBC drama">
+  <programme start="20260321042900 +0900" stop="20260321050500 +0900" channel="MBC drama">
     <title lang="zh">인생은 항구다 6회</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -525256,79 +524838,79 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">놀면 뭐하니? 320회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260320041200 +0900" stop="20260320050000 +0900" channel="MBC music">
+  <programme start="20260320041200 +0900" stop="20260320050300 +0900" channel="MBC music">
     <title lang="zh">전지적 참견 시점 389회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321050000 +0900" stop="20260321070000 +0900" channel="MBC music">
+  <programme start="20260321050300 +0900" stop="20260321065800 +0900" channel="MBC music">
     <title lang="zh">오디션 끝장전 1등들 5회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321070000 +0900" stop="20260321080000 +0900" channel="MBC music">
+  <programme start="20260321065800 +0900" stop="20260321081600 +0900" channel="MBC music">
     <title lang="zh">히든아이 76회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321080000 +0900" stop="20260321091000 +0900" channel="MBC music">
+  <programme start="20260321081600 +0900" stop="20260321092400 +0900" channel="MBC music">
     <title lang="zh">서프라이즈 미스터리 살롱 7회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321091000 +0900" stop="20260321103000 +0900" channel="MBC music">
+  <programme start="20260321092400 +0900" stop="20260321105000 +0900" channel="MBC music">
     <title lang="zh">호텔 도깨비 8회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321103000 +0900" stop="20260321114000 +0900" channel="MBC music">
+  <programme start="20260321105000 +0900" stop="20260321120100 +0900" channel="MBC music">
     <title lang="zh">구가의 서 1회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321114000 +0900" stop="20260321130000 +0900" channel="MBC music">
+  <programme start="20260321120100 +0900" stop="20260321131200 +0900" channel="MBC music">
     <title lang="zh">구가의 서 2회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321130000 +0900" stop="20260321141000 +0900" channel="MBC music">
+  <programme start="20260321131200 +0900" stop="20260321142400 +0900" channel="MBC music">
     <title lang="zh">구가의 서 3회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321141000 +0900" stop="20260321153000 +0900" channel="MBC music">
+  <programme start="20260321142400 +0900" stop="20260321153600 +0900" channel="MBC music">
     <title lang="zh">구가의 서 4회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321153000 +0900" stop="20260321164000 +0900" channel="MBC music">
-    <title lang="zh">출발! 비디오 여행 1628회</title>
+  <programme start="20260321153600 +0900" stop="20260321164500 +0900" channel="MBC music">
+    <title lang="zh">출발! 비디오 여행 1658회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321164000 +0900" stop="20260321183000 +0900" channel="MBC music">
+  <programme start="20260321164500 +0900" stop="20260321183300 +0900" channel="MBC music">
     <title lang="zh">히든아이 76회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321183000 +0900" stop="20260321200000 +0900" channel="MBC music">
+  <programme start="20260321183300 +0900" stop="20260321201600 +0900" channel="MBC music">
     <title lang="zh">라디오스타 957회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321200000 +0900" stop="20260321215000 +0900" channel="MBC music">
+  <programme start="20260321201600 +0900" stop="20260321215500 +0900" channel="MBC music">
     <title lang="zh">어서와 한국은 처음이지 405회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321215000 +0900" stop="20260321235000 +0900" channel="MBC music">
+  <programme start="20260321215500 +0900" stop="20260321235600 +0900" channel="MBC music">
     <title lang="zh">어서와 한국은 처음이지 406회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321235000 +0900" stop="20260322011000 +0900" channel="MBC music">
+  <programme start="20260321235600 +0900" stop="20260322011800 +0900" channel="MBC music">
     <title lang="zh">놀면 뭐하니? 320회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321011000 +0900" stop="20260321014000 +0900" channel="MBC music">
+  <programme start="20260321011800 +0900" stop="20260321015000 +0900" channel="MBC music">
     <title lang="zh">오프에어 6회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321014000 +0900" stop="20260321030000 +0900" channel="MBC music">
+  <programme start="20260321015000 +0900" stop="20260321030800 +0900" channel="MBC music">
     <title lang="zh">쇼 챔피언 589회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321030000 +0900" stop="20260321040000 +0900" channel="MBC music">
+  <programme start="20260321030800 +0900" stop="20260321040100 +0900" channel="MBC music">
     <title lang="zh">전지적 참견 시점 389회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321040000 +0900" stop="20260321050000 +0900" channel="MBC music">
+  <programme start="20260321040100 +0900" stop="20260321050300 +0900" channel="MBC music">
     <title lang="zh">나 혼자 산다 638회</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -525468,115 +525050,115 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">60분 드라마 14회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260320043700 +0900" stop="20260320050000 +0900" channel="MBC on">
+  <programme start="20260320043700 +0900" stop="20260320050500 +0900" channel="MBC on">
     <title lang="zh">히든 아이 라이브이슈 13회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321050000 +0900" stop="20260321060000 +0900" channel="MBC on">
+  <programme start="20260321050500 +0900" stop="20260321061700 +0900" channel="MBC on">
     <title lang="zh">60분 드라마 2015 1회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321060000 +0900" stop="20260321071000 +0900" channel="MBC on">
+  <programme start="20260321061700 +0900" stop="20260321072700 +0900" channel="MBC on">
     <title lang="zh">대장금 52회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321071000 +0900" stop="20260321082000 +0900" channel="MBC on">
+  <programme start="20260321072700 +0900" stop="20260321084000 +0900" channel="MBC on">
     <title lang="zh">대장금 53회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321082000 +0900" stop="20260321085000 +0900" channel="MBC on">
+  <programme start="20260321084000 +0900" stop="20260321090500 +0900" channel="MBC on">
     <title lang="zh">임현식의 장터사람들 115회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321085000 +0900" stop="20260321092000 +0900" channel="MBC on">
+  <programme start="20260321090500 +0900" stop="20260321094000 +0900" channel="MBC on">
     <title lang="zh">임현식의 장터사람들 116회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321092000 +0900" stop="20260321095000 +0900" channel="MBC on">
+  <programme start="20260321094000 +0900" stop="20260321100500 +0900" channel="MBC on">
     <title lang="zh">임현식의 장터사람들 117회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321095000 +0900" stop="20260321102000 +0900" channel="MBC on">
+  <programme start="20260321100500 +0900" stop="20260321103900 +0900" channel="MBC on">
     <title lang="zh">임현식의 장터사람들 118회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321102000 +0900" stop="20260321105000 +0900" channel="MBC on">
+  <programme start="20260321103900 +0900" stop="20260321110300 +0900" channel="MBC on">
     <title lang="zh">임현식의 장터사람들 1회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321105000 +0900" stop="20260321112000 +0900" channel="MBC on">
+  <programme start="20260321110300 +0900" stop="20260321113700 +0900" channel="MBC on">
     <title lang="zh">임현식의 장터사람들 2회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321112000 +0900" stop="20260321122000 +0900" channel="MBC on">
+  <programme start="20260321113700 +0900" stop="20260321123700 +0900" channel="MBC on">
     <title lang="zh">실화탐사대 352회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321122000 +0900" stop="20260321133000 +0900" channel="MBC on">
+  <programme start="20260321123700 +0900" stop="20260321135200 +0900" channel="MBC on">
     <title lang="zh">여자를 울려 25회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321133000 +0900" stop="20260321144000 +0900" channel="MBC on">
+  <programme start="20260321135200 +0900" stop="20260321151000 +0900" channel="MBC on">
     <title lang="zh">여자를 울려 26회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321144000 +0900" stop="20260321155000 +0900" channel="MBC on">
+  <programme start="20260321151000 +0900" stop="20260321162600 +0900" channel="MBC on">
     <title lang="zh">여자를 울려 27회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321155000 +0900" stop="20260321170000 +0900" channel="MBC on">
+  <programme start="20260321162600 +0900" stop="20260321174300 +0900" channel="MBC on">
     <title lang="zh">여자를 울려 28회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321170000 +0900" stop="20260321173000 +0900" channel="MBC on">
+  <programme start="20260321174300 +0900" stop="20260321180800 +0900" channel="MBC on">
     <title lang="zh">임현식의 장터사람들 53회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321173000 +0900" stop="20260321180000 +0900" channel="MBC on">
+  <programme start="20260321180800 +0900" stop="20260321184200 +0900" channel="MBC on">
     <title lang="zh">임현식의 장터사람들 54회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321180000 +0900" stop="20260321183000 +0900" channel="MBC on">
+  <programme start="20260321184200 +0900" stop="20260321190700 +0900" channel="MBC on">
     <title lang="zh">임현식의 장터사람들 55회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321183000 +0900" stop="20260321190000 +0900" channel="MBC on">
+  <programme start="20260321190700 +0900" stop="20260321194300 +0900" channel="MBC on">
     <title lang="zh">임현식의 장터사람들 56회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321190000 +0900" stop="20260321201000 +0900" channel="MBC on">
+  <programme start="20260321194300 +0900" stop="20260321204100 +0900" channel="MBC on">
     <title lang="zh">아들과 딸 51회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321201000 +0900" stop="20260321212000 +0900" channel="MBC on">
+  <programme start="20260321204100 +0900" stop="20260321214600 +0900" channel="MBC on">
     <title lang="zh">아들과 딸 52회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321212000 +0900" stop="20260321223000 +0900" channel="MBC on">
+  <programme start="20260321214600 +0900" stop="20260321225000 +0900" channel="MBC on">
     <title lang="zh">아들과 딸 53회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321223000 +0900" stop="20260321234000 +0900" channel="MBC on">
+  <programme start="20260321225000 +0900" stop="20260321235200 +0900" channel="MBC on">
     <title lang="zh">아들과 딸 54회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321234000 +0900" stop="20260322004000 +0900" channel="MBC on">
+  <programme start="20260321235200 +0900" stop="20260322004600 +0900" channel="MBC on">
     <title lang="zh">실화탐사대 352회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321004000 +0900" stop="20260321025000 +0900" channel="MBC on">
+  <programme start="20260321004600 +0900" stop="20260321023900 +0900" channel="MBC on">
     <title lang="zh">오디션 끝장전 1등들 5회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321025000 +0900" stop="20260321032500 +0900" channel="MBC on">
+  <programme start="20260321023900 +0900" stop="20260321030900 +0900" channel="MBC on">
     <title lang="zh">첫 번째 남자 62회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321032500 +0900" stop="20260321040000 +0900" channel="MBC on">
+  <programme start="20260321030900 +0900" stop="20260321034100 +0900" channel="MBC on">
     <title lang="zh">첫 번째 남자 63회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260321040000 +0900" stop="20260321050000 +0900" channel="MBC on">
+  <programme start="20260321034100 +0900" stop="20260321050600 +0900" channel="MBC on">
     <title lang="zh">위대한 가이드 7회</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -549024,10 +548606,6 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">The Best of Immortal Songs</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260320095800 +0000" stop="20260320105800 +0000" channel="中视">
-    <title lang="zh">中视新闻</title>
-    <desc lang="zh">由最专业的中视新闻主播，为您播报最新、最即时的新闻。</desc>
-  </programme>
   <programme start="20260320105800 +0000" stop="20260320120000 +0000" channel="中视">
     <title lang="zh">中视新闻全球报导</title>
     <desc lang="zh">中视每晚七点由主播哈远仪为全国观众最专业、准确的新闻报导。</desc>
@@ -549219,10 +548797,6 @@ about his spouse’s genuine woes and longings.</desc>
   <programme start="20260322220000 +0000" stop="20260322230000 +0000" channel="中视">
     <title lang="zh">中视新闻</title>
     <desc lang="zh">由最专业的中视新闻主播，为您播报最新、最即时的新闻。</desc>
-  </programme>
-  <programme start="20260320085800 +0000" stop="20260320105800 +0000" channel="华视">
-    <title lang="zh">华视新闻晚报</title>
-    <desc lang="zh">华视新闻部每天整理当天重大国内外新闻事件，为观众做最快、最即时的播报。</desc>
   </programme>
   <programme start="20260320105800 +0000" stop="20260320120000 +0000" channel="华视">
     <title lang="zh">华视晚间新闻</title>
@@ -549655,14 +549229,6 @@ about his spouse’s genuine woes and longings.</desc>
   <programme start="20260325060000 +0000" stop="20260325080000 +0000" channel="华视">
     <title lang="zh">警世剧场</title>
     <desc lang="zh">社会写实单元剧，剧情效法《X档案》，以现代办案的角度来切入鬼神之说，用以警惕世人。笃信科学办案精神的刑警尚智（谢祖武）有心理学博士学位，他与先天具有阴阳眼的搭档王玉芳（赵英华），共同调查各种无法用科学解释的案件，为死者伸冤…</desc>
-  </programme>
-  <programme start="20260320100000 +0000" stop="20260320103000 +0000" channel="好消息2台">
-    <title lang="zh">共享观点</title>
-    <desc lang="zh">连结社群、分享、行动的特色，藉著媒体平台将圣经教导、基要真理落实在生活中。两位主持人将在节目中以轻松对谈的方式，讨论年轻人关注的话题。</desc>
-  </programme>
-  <programme start="20260320103000 +0000" stop="20260320110000 +0000" channel="好消息2台">
-    <title lang="zh">爱＋好医生</title>
-    <desc lang="zh">结合医疗专业及全人关怀的新型态节目，主持人黄𪻐宁医师亲访家庭，跨领域医疗顾问团全方位检视，提供最完整、实用和正确的资讯来守护孩子的健康。</desc>
   </programme>
   <programme start="20260320110000 +0000" stop="20260320120000 +0000" channel="好消息2台">
     <title lang="zh">幸福学堂</title>
@@ -550543,14 +550109,6 @@ about his spouse’s genuine woes and longings.</desc>
   <programme start="20260325073000 +0000" stop="20260325080000 +0000" channel="好消息2台">
     <title lang="zh">福气人生</title>
     <desc lang="zh">如何才能拥有福气人生?看牧师们以台语分享圣经的真理，让你领受天国满满的福气与祝福。</desc>
-  </programme>
-  <programme start="20260320100000 +0000" stop="20260320103000 +0000" channel="好消息">
-    <title lang="zh">福气人生</title>
-    <desc lang="zh">如何才能拥有福气人生?看牧师们以台语分享圣经的真理，让你领受天国满满的福气与祝福。</desc>
-  </programme>
-  <programme start="20260320103000 +0000" stop="20260320110000 +0000" channel="好消息">
-    <title lang="zh">健康新煮流</title>
-    <desc lang="zh">开创夫妻同厨同煮潮流的KC夫妇，继《健康医食代》后，走出摄影棚，带大家全台走透透，发掘上帝赏赐的美味食材，内容融合新加坡南洋风和客家纯朴味，加上台湾独特的闽南风情，互相激荡交织出的火花，打造出独一无二的美食节目。</desc>
   </programme>
   <programme start="20260320110000 +0000" stop="20260320111500 +0000" channel="好消息">
     <title lang="zh">机智青年生活</title>
@@ -551448,10 +551006,6 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">道在人间(国)</title>
     <desc lang="zh">节目中邀请赵镛基、叶光明、杰克海福德、乔依丝迈尔等，国内外知名牧长，以丰富的服事经历与扎实的神学装备，教导、传讲圣经真道，坚固信徒并警醒人心。</desc>
   </programme>
-  <programme start="20260320100000 +0000" stop="20260320110000 +0000" channel="ELTV生活英语台">
-    <title lang="zh">森林侦探队</title>
-    <desc lang="zh">南韩EBS与Bigstar Global共同制播的卡通，可轻松认识大自然的样貌。各个谜团揉合在森林的浩瀚中，期待观众跟著侦探队，细细品味在这森林的每个故事。</desc>
-  </programme>
   <programme start="20260320110000 +0000" stop="20260320120000 +0000" channel="ELTV生活英语台">
     <title lang="zh">萌马吼吼</title>
     <desc lang="zh">主人公吼吼，是一只可爱的奶油独角兽，他生活在甜蜜镇上，这里的居民都是各种甜品，有著各自的职业。作为一名快乐的打工人，吼吼每天都在小镇的不同地方打工，当发型师助理时，用自己的奶油为甜品们打造时下最流行的发型，尤其是杯子蛋糕，对他的设计总是赞不绝口。</desc>
@@ -552019,14 +551573,6 @@ about his spouse’s genuine woes and longings.</desc>
   <programme start="20260325073000 +0000" stop="20260325080000 +0000" channel="ELTV生活英语台">
     <title lang="zh">欢唱小精灵</title>
     <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260320100000 +0000" stop="20260320103000 +0000" channel="龙华卡通台">
-    <title lang="zh">淘气鼠兄弟</title>
-    <desc lang="zh">小唐是一只拟人化的粉红色小狗，与莫图、兰布、乔图三只鼠兄弟合住一个房子。小唐时常被老鼠们惹恼，吵吵闹闹的生活让相看两厌的他们会产生什么火花呢</desc>
-  </programme>
-  <programme start="20260320103000 +0000" stop="20260320110000 +0000" channel="龙华卡通台">
-    <title lang="zh">淘气鼠兄弟</title>
-    <desc lang="zh">小唐是一只拟人化的粉红色小狗，与莫图、兰布、乔图三只鼠兄弟合住一个房子。小唐时常被老鼠们惹恼，吵吵闹闹的生活让相看两厌的他们会产生什么火花呢</desc>
   </programme>
   <programme start="20260320110000 +0000" stop="20260320113000 +0000" channel="龙华卡通台">
     <title lang="zh">猪猪侠</title>
@@ -552884,10 +552430,6 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">淘气鼠兄弟</title>
     <desc lang="zh">小唐是一只拟人化的粉红色小狗，与莫图、兰布、乔图三只鼠兄弟合住一个房子。小唐时常被老鼠们惹恼，吵吵闹闹的生活让相看两厌的他们会产生什么火花呢</desc>
   </programme>
-  <programme start="20260320100000 +0000" stop="20260320110000 +0000" channel="亚洲旅游台">
-    <title lang="zh">型男闯世界</title>
-    <desc lang="zh">《型男闯世界》前往世界各地的特殊景点或深山秘境，挑战极限运动，寻找奇人异事、踏寻隐身在丛林边境的传说、进行各种挑战及探险。</desc>
-  </programme>
   <programme start="20260320110000 +0000" stop="20260320120000 +0000" channel="亚洲旅游台">
     <title lang="zh">33厨房</title>
     <desc lang="zh">电影圈的大明星林美秀首度跨足综艺接主持棒，即将大展厨艺与观众们一起美味上菜！</desc>
@@ -553356,10 +552898,6 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">嗨 Let's Go</title>
     <desc lang="zh">旅行该怎么玩呢？有人喜欢吃美食、看风景、体验人文与历史；也有人只想疯血拼、追潮流、享奢华；更有人爱自然、爱冒险，当起背包客最逍遥！其实，无论哪种旅游方式和玩法，只要懂门道，都能玩出最精彩！</desc>
   </programme>
-  <programme start="20260320100000 +0000" stop="20260320110000 +0000" channel="Smart知识台">
-    <title lang="zh">健康2.0</title>
-    <desc lang="zh">在节目中，将以各种深入浅出的方式，检测时下流行的健康产品的效用，示范健康烹调与运动方法，并与观众分享照顾家人的健康资讯与心得。</desc>
-  </programme>
   <programme start="20260320110000 +0000" stop="20260320120000 +0000" channel="Smart知识台">
     <title lang="zh">全民星攻略</title>
     <desc lang="zh">东森综合台全新益智实境节目，「全民星攻略」，由馆长曾国城担任把关者，考验著每个来挑战九宫格益智游戏艺人明星。想要攻略九宫格关卡，透过创意联想、逻辑推理、理想分析，才有机会获取智慧星币，带走梦幻大奖。</desc>
@@ -553787,10 +553325,6 @@ about his spouse’s genuine woes and longings.</desc>
   <programme start="20260325070000 +0000" stop="20260325080000 +0000" channel="Smart知识台">
     <title lang="zh">全民星攻略</title>
     <desc lang="zh">东森综合台全新益智实境节目，「全民星攻略」，由馆长曾国城担任把关者，考验著每个来挑战九宫格益智游戏艺人明星。想要攻略九宫格关卡，透过创意联想、逻辑推理、理想分析，才有机会获取智慧星币，带走梦幻大奖。</desc>
-  </programme>
-  <programme start="20260320100000 +0000" stop="20260320110000 +0000" channel="龙华戏剧台">
-    <title lang="zh">军师联盟</title>
-    <desc lang="zh">年轻的司马懿本是个谨小慎微的青年书生，因为有「鹰视狼顾」之相，回头看了东汉的司空曹操（于和伟）一眼，从此和曹家结下了不解之缘。他被曹操强行征辟为官，一脚踏入曹家暗流汹涌的夺嫡之争。他运用谋略帮助曹丕（李晨）一次次通过曹操的考验，将曹丕送上世子位。</desc>
   </programme>
   <programme start="20260320110000 +0000" stop="20260320120000 +0000" channel="龙华戏剧台">
     <title lang="zh">军师联盟</title>
@@ -554260,14 +553794,6 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">琉璃</title>
     <desc lang="zh">改编自十四郎小说《琉璃美人煞》。讲述天生六识残缺的少阳派掌门之女褚璇玑（袁冰妍）和离泽宫少主禹司凤（成毅），在面临爱情与前世阴谋的双重压力下，携手共对百般腥风血雨，解开两人纠缠十世的虐恋情缘，缔造传奇色彩的仙侠爱情故事。</desc>
   </programme>
-  <programme start="20260320100000 +0000" stop="20260320103000 +0000" channel="台湾戏剧台">
-    <title lang="zh">亲戚不计较</title>
-    <desc lang="zh">由卓胜利、李锣等人主演，本剧虽以喜剧的方式呈现，但笑中有泪，泪中有悟，悟中有得，令人深思！</desc>
-  </programme>
-  <programme start="20260320103000 +0000" stop="20260320110000 +0000" channel="台湾戏剧台">
-    <title lang="zh">亲戚不计较</title>
-    <desc lang="zh">由卓胜利、李锣等人主演，本剧虽以喜剧的方式呈现，但笑中有泪，泪中有悟，悟中有得，令人深思！</desc>
-  </programme>
   <programme start="20260320110000 +0000" stop="20260320120000 +0000" channel="台湾戏剧台">
     <title lang="zh">包青天</title>
     <desc lang="zh">仁宗皇帝在位期间，包拯（金超群）升任开封府府尹执掌京畿，刚直耿介、铁面无私、明察秋毫、断案如神，百姓爱戴敬仰尊称为“包青天”。并有公孙策（范鸿轩）与南侠展昭（何家劲）一文一武两员大将，使得包拯屡破奇案屡建奇功。</desc>
@@ -554731,10 +554257,6 @@ about his spouse’s genuine woes and longings.</desc>
   <programme start="20260325070000 +0000" stop="20260325080000 +0000" channel="台湾戏剧台">
     <title lang="zh">包青天</title>
     <desc lang="zh">仁宗皇帝在位期间，包拯（金超群）升任开封府府尹执掌京畿，刚直耿介、铁面无私、明察秋毫、断案如神，百姓爱戴敬仰尊称为“包青天”。并有公孙策（范鸿轩）与南侠展昭（何家劲）一文一武两员大将，使得包拯屡破奇案屡建奇功。</desc>
-  </programme>
-  <programme start="20260320100000 +0000" stop="20260320104000 +0000" channel="东森购物1台">
-    <title lang="zh">锁定CH.43、CH.49选购</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260320104000 +0000" stop="20260320112000 +0000" channel="东森购物1台">
     <title lang="zh">3/1-3/31全月消费满3件享1680枚东森币兑换【韩国热销折叠收纳箱3入组】(每人限1次)</title>
@@ -555440,10 +554962,6 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">锁定CH.43、CH.49选购</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260320100000 +0000" stop="20260320110000 +0000" channel="龙华偶像台">
-    <title lang="zh">极速悖论</title>
-    <desc lang="zh">少年陈墨白从小将赛车视为终身梦想，渴望有一天能冲进“超级方程式”的赛场。追梦过程中，他遇上空气动力学博士的工程师沈溪。陈墨白的热忱执着，让沈溪终于开始直视内心，卸下包袱又彼此认可的两人成为最好的搭档，突破速度与安全的悖论，携手赛场上一次次超越极限。</desc>
-  </programme>
   <programme start="20260320110000 +0000" stop="20260320120000 +0000" channel="龙华偶像台">
     <title lang="zh">极速悖论</title>
     <desc lang="zh">少年陈墨白从小将赛车视为终身梦想，渴望有一天能冲进“超级方程式”的赛场。追梦过程中，他遇上空气动力学博士的工程师沈溪。陈墨白的热忱执着，让沈溪终于开始直视内心，卸下包袱又彼此认可的两人成为最好的搭档，突破速度与安全的悖论，携手赛场上一次次超越极限。</desc>
@@ -555928,10 +555446,6 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">先热情地打扫吧</title>
     <desc lang="zh">同名网路漫画改编。清洁公司CEO张善杰（尹钧相）财貌双全、堪称完美，却因有非常严重的洁癖而无法和任何人接触。但他却喜欢上个性明朗可爱却超级不拘小节的待业女青年吉五雪（金裕贞），两人之间上演一段双向奔赴的浪漫爱情故事…</desc>
   </programme>
-  <programme start="20260320100000 +0000" stop="20260320110000 +0000" channel="龙华日韩台">
-    <title lang="zh">只属于你</title>
-    <desc lang="zh">恩静（李敏英）嫁给律师姜胜宰（宋在熙），没想到婆家却拿她当佣人使唤，胜宰对此毫不在意，甚至根本没去登记结婚。恩静因此重回职场，努力成为知名设计师，当前男友俊夏再度出现在她面前，看到她遭遇不幸却仍默默守护，俊夏能为恩静带来幸福吗？</desc>
-  </programme>
   <programme start="20260320110000 +0000" stop="20260320120000 +0000" channel="龙华日韩台">
     <title lang="zh">奶酪陷阱</title>
     <desc lang="zh">漫画改编。心思深沉的刘正（朴海镇）因高颜值与和善的个性而拥有高人气，但个性坚毅却外表平凡的模范生洪雪（金高恩）却看穿他完美的表象。刘正在了解洪雪的独特后，渐渐喜欢上她，但对他怀恨在心的前好友仁浩（徐康俊）却也喜欢洪雪…</desc>
@@ -556399,10 +555913,6 @@ about his spouse’s genuine woes and longings.</desc>
   <programme start="20260325070000 +0000" stop="20260325080000 +0000" channel="龙华日韩台">
     <title lang="zh">WWW检索爱情</title>
     <desc lang="zh">在业界顶尖门户网站公司Barro任职的裴朵美（林秀晶）、车贤（李多熙）与宋佳景（田慧振），是三个没有选择成为妻子或母亲的当今职业妇女，剧情描述三人在业界激烈的竞争故事，与她们现实生活中遇到各自命中注定的那个男人…</desc>
-  </programme>
-  <programme start="20260320100000 +0000" stop="20260320104000 +0000" channel="东森购物2台">
-    <title lang="zh">锁定CH.43、CH.49选购</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260320104000 +0000" stop="20260320112000 +0000" channel="东森购物2台">
     <title lang="zh">3/1-3/31全月消费满3件享1680枚东森币兑换【韩国热销折叠收纳箱3入组】(每人限1次)</title>
@@ -558096,10 +557606,6 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">全球新食力</title>
     <desc lang="zh">三立iNEWS制播的美食资讯节目，带你全省走透透，吃遍台湾！</desc>
   </programme>
-  <programme start="20260320100000 +0000" stop="20260320110000 +0000" channel="寰宇财经台">
-    <title lang="zh">巷弄美食家</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
   <programme start="20260320110000 +0000" stop="20260320120000 +0000" channel="寰宇财经台">
     <title lang="zh">小食光台味志</title>
     <desc lang="zh">暂无描述</desc>
@@ -558570,14 +558076,6 @@ about his spouse’s genuine woes and longings.</desc>
   </programme>
   <programme start="20260325070000 +0000" stop="20260325080000 +0000" channel="寰宇财经台">
     <title lang="zh">小食光台味志</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260320100000 +0000" stop="20260320103000 +0000" channel="daystar">
-    <title lang="zh">Sid Roth's It's Supernatural!</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260320103000 +0000" stop="20260320110000 +0000" channel="daystar">
-    <title lang="zh">Today with Marilyn and Sarah</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260320110000 +0000" stop="20260320113000 +0000" channel="daystar">
@@ -559452,10 +558950,6 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">Rick Renner</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260320100000 +0000" stop="20260320105800 +0000" channel="中视新闻">
-    <title lang="zh">中视新闻全球报导</title>
-    <desc lang="zh">中视每晚七点由主播哈远仪为全国观众最专业、准确的新闻报导。</desc>
-  </programme>
   <programme start="20260320105800 +0000" stop="20260320120000 +0000" channel="中视新闻">
     <title lang="zh">中视新闻全球报导</title>
     <desc lang="zh">中视每晚七点由主播哈远仪为全国观众最专业、准确的新闻报导。</desc>
@@ -559695,10 +559189,6 @@ about his spouse’s genuine woes and longings.</desc>
   <programme start="20260322220000 +0000" stop="20260322230000 +0000" channel="中视新闻">
     <title lang="zh">中视新闻全球报导</title>
     <desc lang="zh">中视每晚七点由主播哈远仪为全国观众最专业、准确的新闻报导。</desc>
-  </programme>
-  <programme start="20260320100000 +0000" stop="20260320110000 +0000" channel="中天新闻台">
-    <title lang="zh">中天辣晚报</title>
-    <desc lang="zh">提供国内、两岸、国际头条焦点，掌握时事脉动，观察新闻背后的真正意义，带领观众知晓天下事。有最深度的内容、最专业的追踪、最需要的资讯，收视率领先各台，具有高度影响力！</desc>
   </programme>
   <programme start="20260320110000 +0000" stop="20260320120000 +0000" channel="中天新闻台">
     <title lang="zh">中天辣晚报</title>
@@ -560155,10 +559645,6 @@ about his spouse’s genuine woes and longings.</desc>
   <programme start="20260325060000 +0000" stop="20260325080000 +0000" channel="中天新闻台">
     <title lang="zh">大新闻大爆卦</title>
     <desc lang="zh">每周一到周五《大新闻大爆卦》中天主播马千惠陪你一起来解卦！！！</desc>
-  </programme>
-  <programme start="20260320095500 +0000" stop="20260320105500 +0000" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇晚间新闻</title>
-    <desc lang="zh">寰宇晚间新闻给你最在地的台湾新闻、最深入的两岸焦点，掌握国际情势带您了解社会脉动。</desc>
   </programme>
   <programme start="20260320105500 +0000" stop="20260320115500 +0000" channel="寰宇新闻台湾台">
     <title lang="zh">寰宇晚间新闻</title>
@@ -560628,10 +560114,6 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">寰宇整点新闻</title>
     <desc lang="zh">来自路透的国际新闻、最在地的台湾新闻以及最深入的两岸焦点，带您掌握社会脉动。</desc>
   </programme>
-  <programme start="20260320095500 +0000" stop="20260320105500 +0000" channel="寰宇新闻台">
-    <title lang="zh">寰宇全球新闻</title>
-    <desc lang="zh">抢先揭露全球各地政经、社会、娱乐的第一手新闻讯息，让观众不漏接关键的世界大事。</desc>
-  </programme>
   <programme start="20260320105500 +0000" stop="20260320115500 +0000" channel="寰宇新闻台">
     <title lang="zh">寰宇全球新闻</title>
     <desc lang="zh">抢先揭露全球各地政经、社会、娱乐的第一手新闻讯息，让观众不漏接关键的世界大事。</desc>
@@ -561099,14 +560581,6 @@ about his spouse’s genuine woes and longings.</desc>
   <programme start="20260325065500 +0000" stop="20260325075500 +0000" channel="寰宇新闻台">
     <title lang="zh">寰宇整点新闻</title>
     <desc lang="zh">来自路透的国际新闻、最在地的台湾新闻以及最深入的两岸焦点，带您掌握社会脉动。</desc>
-  </programme>
-  <programme start="20260320100000 +0000" stop="20260320103000 +0000" channel="第1商业台">
-    <title lang="zh">阪田战法-宝得富-顾奎国分析师</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260320103000 +0000" stop="20260320110000 +0000" channel="第1商业台">
-    <title lang="zh">股市强强滚-亚洲投顾-郑伟群分析师</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260320110000 +0000" stop="20260320113000 +0000" channel="第1商业台">
     <title lang="zh">旗开得胜-顾德投顾-张家豪分析师</title>
@@ -562172,10 +561646,6 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">周三会议预报</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260320085000 +0000" stop="20260320110000 +0000" channel="龙华经典台">
-    <title lang="zh">赌侠2之上海滩赌圣</title>
-    <desc lang="zh">周星祖（周星驰）回港后遇到大军的复仇，大军与师弟们一起对星祖发功，引发时空倒流。星回到1937年的上海，投靠上海大亨丁力，并对市长之女如仙一见钟情。但如仙却与丁力订婚，星在伤心下失去特异功能。此时川岛芳子与丁力相约以赌定生死，星能及时恢复功力吗？</desc>
-  </programme>
   <programme start="20260320110000 +0000" stop="20260320130000 +0000" channel="龙华经典台">
     <title lang="zh">少林寺传奇之东归英雄</title>
     <desc lang="zh">完成西行任务的少林寺和尚又受康熙委派，护送归顺的万寿山将军和冰玉公主东归京城。但是，西鲁天会内部反对和谈的少数派，认为万寿山投降清朝，是反清阵营的耻辱。太子因为害怕和尚进京使他独占明朝宝藏的行为被揭穿，也想方设法灭掉和尚。</desc>
@@ -562379,10 +561849,6 @@ about his spouse’s genuine woes and longings.</desc>
   <programme start="20260325041500 +0000" stop="20260325071000 +0000" channel="龙华经典台">
     <title lang="zh">血染雪山堡</title>
     <desc lang="zh">二战中期盟军重要人物－美国卡纳比将军，座机在德奥边界坠毁被俘，就近被囚禁在阿尔卑斯山中地势险恶的鹰堡。英国军情六处特纳上校立即派遣以特工史密斯少校为首、与美军谢弗中尉等精通德语的七人突击队，假扮德军深入敌营抢救。但在空降时通讯士意外丧命，不久又有两名成员离奇身亡…</desc>
-  </programme>
-  <programme start="20260320080000 +0000" stop="20260320104000 +0000" channel="龙华电影台">
-    <title lang="zh">新封神榜：杨戬</title>
-    <desc lang="zh">商周之战1500年后，天界衰落，蒙冤落魄的杨戬以赏银捕手为业谋生。一日，杨戬接受了一位神秘访客的赏银去追捕一位少年，却意外发现少年竟是自己的亲外甥沉香。沉香立志要寻回宝莲灯，劈山救母，却将酿成大祸。杨戬踏上追寻沉香并揭开尘封往事的旅程…</desc>
   </programme>
   <programme start="20260320104000 +0000" stop="20260320130000 +0000" channel="龙华电影台">
     <title lang="zh">捉妖记</title>
@@ -562619,10 +562085,6 @@ about his spouse’s genuine woes and longings.</desc>
   <programme start="20260325060000 +0000" stop="20260325074500 +0000" channel="龙华电影台">
     <title lang="zh">白发魔女2</title>
     <desc lang="zh">卓一航（张国荣）与练霓裳（林青霞）决裂后销声匿迹，如今练已走火入魔，四处杀戳。适逢武当后人武当人封俊杰迎娶玉女虞琴之夜，魔女再现，杀宾客掳新娘。峨嵋派姥姥无力对抗魔女，乃派俊杰往千雪峰找卓帮忙。时值奇花开放，卓携花下山与练重逢，然而，练却大开杀戒，卓会如何面对忿恨的练呢？</desc>
-  </programme>
-  <programme start="20260320093000 +0000" stop="20260320111500 +0000" channel="龙华洋片台">
-    <title lang="zh">缘来想见妳</title>
-    <desc lang="zh">有房、有儿、有事业的法国乡村主厨史蒂芬（亚伦夏巴），对于看似圆满的人生，还是抱有心灵上的缺憾。某天，他在网路上偶遇一位南韩艺术家秀（裴斗娜），两人逐渐发现彼此心灵的契合与悸动。时值南韩樱花盛开的季节，让史蒂芬决定踏上旅途前往南韩追爱。不过当他抵达首尔之后，却始终不见该来接机的秀…</desc>
   </programme>
   <programme start="20260320111500 +0000" stop="20260320130000 +0000" channel="龙华洋片台">
     <title lang="zh">神鬼战队</title>
@@ -651562,15 +651024,15 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">News</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260320183300 +0800" stop="20260320190000 +0800" channel="SUN_TV_HD">
+  <programme start="20260320183300 +0800" stop="20260320190500 +0800" channel="SUN_TV_HD">
     <title lang="zh">Chellame Chellame Ep76</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260320190000 +0800" stop="20260320193000 +0800" channel="SUN_TV_HD">
+  <programme start="20260320190500 +0800" stop="20260320193400 +0800" channel="SUN_TV_HD">
     <title lang="zh">Annam Ep404</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260320193000 +0800" stop="20260320200000 +0800" channel="SUN_TV_HD">
+  <programme start="20260320193400 +0800" stop="20260320200000 +0800" channel="SUN_TV_HD">
     <title lang="zh">Kayal Ep1351</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -700332,78 +699794,6 @@ about his spouse’s genuine woes and longings.</desc>
   </programme>
   <programme start="20260321213000 +0700" stop="20260321233000 +0700" channel="Trans TV">
     <title lang="zh">Bioskop Trans TV</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260320000500 +0700" stop="20260320011500 +0700" channel="tvN">
-    <title lang="zh">Yumi's Cells, Ep 14</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260320011500 +0700" stop="20260320021500 +0700" channel="tvN">
-    <title lang="zh">Walking Through Village, Ep 6</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260320021500 +0700" stop="20260320023500 +0700" channel="tvN">
-    <title lang="zh">You Can Cook, Sam Kim, Ep 7</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260320023500 +0700" stop="20260320033500 +0700" channel="tvN">
-    <title lang="zh">Villains, Ep 3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260320033500 +0700" stop="20260320050000 +0700" channel="tvN">
-    <title lang="zh">Crazy Tour, Ep 1</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260320050000 +0700" stop="20260320064500 +0700" channel="tvN">
-    <title lang="zh">Handsome Guys, Ep 12</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260320064500 +0700" stop="20260320083000 +0700" channel="tvN">
-    <title lang="zh">The Genius Paik S3, Ep 5</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260320083000 +0700" stop="20260320100000 +0700" channel="tvN">
-    <title lang="zh">Curtain Up, Class!, Ep 3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260320100000 +0700" stop="20260320111000 +0700" channel="tvN">
-    <title lang="zh">Legend Of Blue Sea, Ep 15</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260320111000 +0700" stop="20260320130000 +0700" channel="tvN">
-    <title lang="zh">The Village Barber, Ep 6</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260320130000 +0700" stop="20260320150000 +0700" channel="tvN">
-    <title lang="zh">Fresh Off The Sea, Ep 7</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260320150000 +0700" stop="20260320151500 +0700" channel="tvN">
-    <title lang="zh">You Can Cook, Sam Kim, Ep 3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260320151500 +0700" stop="20260320154500 +0700" channel="tvN">
-    <title lang="zh">Chansung's Cooking, Ep 12</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260320154500 +0700" stop="20260320180500 +0700" channel="tvN">
-    <title lang="zh">I-Land S2: N/A, Ep 6</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260320180500 +0700" stop="20260320193000 +0700" channel="tvN">
-    <title lang="zh">Crazy Tour, Ep 1</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260320193000 +0700" stop="20260320203000 +0700" channel="tvN">
-    <title lang="zh">Villains, Ep 3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260320203000 +0700" stop="20260320213000 +0700" channel="tvN">
-    <title lang="zh">Villains, Ep 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260320213000 +0700" stop="20260320230000 +0700" channel="tvN">
-    <title lang="zh">Curtain Up, Class!, Ep 4</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260321004500 +0700" stop="20260321023000 +0700" channel="tvN">
