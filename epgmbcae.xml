@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260320123000 +0800" stop="20260320143000 +0800" channel="mbc max">
-    <title lang="en">Blade</title>
-  </programme>
   <programme start="20260320143000 +0800" stop="20260320163000 +0800" channel="mbc max">
     <title lang="en">Charlie's Angels</title>
   </programme>
@@ -116,6 +113,9 @@
   </programme>
   <programme start="20260322223000 +0800" stop="20260323010000 +0800" channel="mbc max">
     <title lang="en">The Mask of Zorro</title>
+  </programme>
+  <programme start="20260323010000 +0800" stop="20260323030000 +0800" channel="mbc max">
+    <title lang="en">Robin Hood</title>
   </programme>
   <programme start="20260320135000 +0800" stop="20260320160500 +0800" channel="mbc 2">
     <title lang="en">Pacific Rim</title>
@@ -224,5 +224,8 @@
   </programme>
   <programme start="20260322220000 +0800" stop="20260323003000 +0800" channel="mbc 2">
     <title lang="en">Fatherhood</title>
+  </programme>
+  <programme start="20260323003000 +0800" stop="20260323023000 +0800" channel="mbc 2">
+    <title lang="en">The Edge of Seventeen</title>
   </programme>
 </tv>
