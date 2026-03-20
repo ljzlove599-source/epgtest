@@ -9,12 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260320053000 +0800" stop="20260320063000 +0800" channel="mbc action">
-    <title lang="en">برنامج ارض المليون</title>
-  </programme>
-  <programme start="20260320050000 +0800" stop="20260320063000 +0800" channel="mbc max">
-    <title lang="en">CHIPS</title>
-  </programme>
   <programme start="20260320063000 +0800" stop="20260320070000 +0800" channel="mbc max">
     <title lang="en">برنامج making the movies 6</title>
   </programme>
@@ -129,9 +123,6 @@
   <programme start="20260322140000 +0800" stop="20260322163000 +0800" channel="mbc max">
     <title lang="en">Non-Stop</title>
   </programme>
-  <programme start="20260320043500 +0800" stop="20260320063000 +0800" channel="mbc 2">
-    <title lang="en">Edge of Tomorrow</title>
-  </programme>
   <programme start="20260320063000 +0800" stop="20260320083000 +0800" channel="mbc 2">
     <title lang="en">Godzilla</title>
   </programme>
@@ -242,5 +233,8 @@
   </programme>
   <programme start="20260322140000 +0800" stop="20260322160000 +0800" channel="mbc 2">
     <title lang="en">Bridesmaids</title>
+  </programme>
+  <programme start="20260322160000 +0800" stop="20260322180000 +0800" channel="mbc 2">
+    <title lang="en">The Intern</title>
   </programme>
 </tv>
