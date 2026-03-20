@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260320180000 +0800" stop="20260320203000 +0800" channel="mbc max">
-    <title lang="en">Spider-Man: No Way Home</title>
-  </programme>
   <programme start="20260320203000 +0800" stop="20260320230000 +0800" channel="mbc max">
     <title lang="en">Walk the Line</title>
   </programme>
@@ -114,8 +111,8 @@
   <programme start="20260323030000 +0800" stop="20260323050000 +0800" channel="mbc max">
     <title lang="en">The Huntsman: Winter's War</title>
   </programme>
-  <programme start="20260320183500 +0800" stop="20260320190000 +0800" channel="mbc 2">
-    <title lang="en">برنامج Celebrity Scoop Season 9</title>
+  <programme start="20260323050000 +0800" stop="20260323080000 +0800" channel="mbc max">
+    <title lang="en">King Arthur: Legend of the Sword</title>
   </programme>
   <programme start="20260320190000 +0800" stop="20260320210500 +0800" channel="mbc 2">
     <title lang="en">Godzilla</title>
@@ -218,5 +215,8 @@
   </programme>
   <programme start="20260323023000 +0800" stop="20260323043000 +0800" channel="mbc 2">
     <title lang="en">Whiplash</title>
+  </programme>
+  <programme start="20260323043000 +0800" stop="20260323070000 +0800" channel="mbc 2">
+    <title lang="en">Straight Outta Compton</title>
   </programme>
 </tv>
