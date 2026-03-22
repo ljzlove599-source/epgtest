@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260322213000 +0800" stop="20260322223000 +0800" channel="mbc action">
-    <title lang="en">برنامج The Ride Life With Sung Kang</title>
-  </programme>
   <programme start="20260322223000 +0800" stop="20260322233000 +0800" channel="mbc action">
     <title lang="en">برنامج cars &amp; stars </title>
   </programme>
@@ -180,8 +177,11 @@
   <programme start="20260325063000 +0800" stop="20260325073000 +0800" channel="mbc action">
     <title lang="en">برنامج american ninja warrior</title>
   </programme>
-  <programme start="20260322200000 +0800" stop="20260322223000 +0800" channel="mbc max">
-    <title lang="en">Hook</title>
+  <programme start="20260325073000 +0800" stop="20260325080000 +0800" channel="mbc action">
+    <title lang="en">Fate/Zero</title>
+  </programme>
+  <programme start="20260325080000 +0800" stop="20260325090000 +0800" channel="mbc action">
+    <title lang="en">برنامج action bodcast</title>
   </programme>
   <programme start="20260322223000 +0800" stop="20260323010000 +0800" channel="mbc max">
     <title lang="en">The Mask of Zorro</title>
@@ -282,8 +282,8 @@
   <programme start="20260325070000 +0800" stop="20260325073000 +0800" channel="mbc max">
     <title lang="en">برنامج world of movies 3</title>
   </programme>
-  <programme start="20260322200000 +0800" stop="20260322220000 +0800" channel="mbc 2">
-    <title lang="en">Late Night</title>
+  <programme start="20260325073000 +0800" stop="20260325100000 +0800" channel="mbc max">
+    <title lang="en">Prisoners</title>
   </programme>
   <programme start="20260322220000 +0800" stop="20260323003000 +0800" channel="mbc 2">
     <title lang="en">Fatherhood</title>
@@ -398,5 +398,8 @@
   </programme>
   <programme start="20260325060500 +0800" stop="20260325080000 +0800" channel="mbc 2">
     <title lang="en">The Hitman's Bodyguard</title>
+  </programme>
+  <programme start="20260325080000 +0800" stop="20260325100000 +0800" channel="mbc 2">
+    <title lang="en">Destroyer</title>
   </programme>
 </tv>
