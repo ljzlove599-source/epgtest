@@ -111,9 +111,6 @@
   <channel id="HOY體育台">
     <display-name lang="zh">HOY體育台</display-name>
   </channel>
-  <channel id="東亞超級籃球聯賽季軍賽 - 東京電擊 對 琉球黃金帝王 (下午3:00)">
-    <display-name lang="zh">東亞超級籃球聯賽季軍賽 - 東京電擊 對 琉球黃金帝王 (下午3:00)</display-name>
-  </channel>
   <channel id="HOY怪談台">
     <display-name lang="zh">HOY怪談台</display-name>
   </channel>
@@ -6399,9 +6396,6 @@
   <programme start="20260324070000 +0800" stop="20260324080000 +0800" channel="中天北美台">
     <title lang="zh">大新聞大爆卦(上) (Live)</title>
   </programme>
-  <programme start="20260322153000 +0800" stop="20260322163000 +0800" channel="mbc action">
-    <title lang="en">برنامج Sports Quest</title>
-  </programme>
   <programme start="20260322163000 +0800" stop="20260322173000 +0800" channel="mbc action">
     <title lang="en">Fate/Zero</title>
   </programme>
@@ -6576,8 +6570,8 @@
   <programme start="20260325010000 +0800" stop="20260325020000 +0800" channel="mbc action">
     <title lang="en">Fate/Zero</title>
   </programme>
-  <programme start="20260322140000 +0800" stop="20260322163000 +0800" channel="mbc max">
-    <title lang="en">Non-Stop</title>
+  <programme start="20260325020000 +0800" stop="20260325030000 +0800" channel="mbc action">
+    <title lang="en">برنامج action bodcast</title>
   </programme>
   <programme start="20260322163000 +0800" stop="20260322183000 +0800" channel="mbc max">
     <title lang="en">Taken 3</title>
@@ -6599,9 +6593,6 @@
   </programme>
   <programme start="20260323050000 +0800" stop="20260323080000 +0800" channel="mbc max">
     <title lang="en">King Arthur: Legend of the Sword</title>
-  </programme>
-  <programme start="20260322140000 +0800" stop="20260322160000 +0800" channel="mbc 2">
-    <title lang="en">Bridesmaids</title>
   </programme>
   <programme start="20260322160000 +0800" stop="20260322180000 +0800" channel="mbc 2">
     <title lang="en">The Intern</title>
@@ -553108,10 +553099,6 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">Moving Voices Mini Album</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260322080000 +0000" stop="20260322095700 +0000" channel="中視">
-    <title lang="zh">綜藝玩很大</title>
-    <desc lang="zh">由本土天王吳宗憲主持，打造台灣電視史上第一個最真實的外景實境秀。每趟旅程帶領8位藝人，挑戰時間內募集返家所需旅費。成功隊伍可以順利回家，失敗隊則直接被流放當地，露宿街頭。綜藝玩很大，要玩就玩大的！</desc>
-  </programme>
   <programme start="20260322095700 +0000" stop="20260322105700 +0000" channel="中視">
     <title lang="zh">大陸尋奇</title>
     <desc lang="zh">您不必跋山涉水就可以將奇峰峻嶺壯闊山河盡收眼底，「大陸尋奇」不惜巨資的大製作足跡踏遍各現代城市，窮鄉僻壤，深入各民族村落，記錄了外人難得一見的生活情況，以準確的地理、歷史定位、用現代化思維，把中華文化忠實的呈現。</desc>
@@ -554124,14 +554111,6 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">健康早知道</title>
     <desc lang="zh">華視製播健康資訊節目，介紹全方位的健康知識、飲食健康、預防癌症，遠離三高、慢性病。由資深醫藥記者洪素卿主持，每週邀各領域專家，暢談日常生活會遇到的健康故事，並分享給長輩的健康保健的知識，介紹自我保健秘訣與養生方式。</desc>
   </programme>
-  <programme start="20260322090000 +0000" stop="20260322100000 +0000" channel="好消息2台">
-    <title lang="zh">葉光明講座</title>
-    <desc lang="zh">由全球肯定的聖經教師與作家葉光明（Derek Prince）牧師，向世界宣揚上帝啟示的話語。五十多年來，葉牧師已經以50多種語言，向全球一百多個國家宣示上帝的旨意，牧養無數教友。</desc>
-  </programme>
-  <programme start="20260322100000 +0000" stop="20260322101500 +0000" channel="好消息2台">
-    <title lang="zh">共享觀點</title>
-    <desc lang="zh">連結社群、分享、行動的特色，藉著媒體平台將聖經教導、基要真理落實在生活中。兩位主持人將在節目中以輕鬆對談的方式，討論年輕人關注的話題。</desc>
-  </programme>
   <programme start="20260322101500 +0000" stop="20260322103000 +0000" channel="好消息2台">
     <title lang="zh">共享觀點</title>
     <desc lang="zh">連結社群、分享、行動的特色，藉著媒體平台將聖經教導、基要真理落實在生活中。兩位主持人將在節目中以輕鬆對談的方式，討論年輕人關注的話題。</desc>
@@ -555003,18 +554982,6 @@ about his spouse’s genuine woes and longings.</desc>
   <programme start="20260327073000 +0000" stop="20260327080000 +0000" channel="好消息2台">
     <title lang="zh">福氣人生</title>
     <desc lang="zh">如何才能擁有福氣人生?看牧師們以台語分享聖經的真理，讓你領受天國滿滿的福氣與祝福。</desc>
-  </programme>
-  <programme start="20260322090000 +0000" stop="20260322091500 +0000" channel="好消息">
-    <title lang="zh">小珍珠與阿達叔叔</title>
-    <desc lang="zh">好消息電視台製播的兒少節目，由充滿人生智慧的阿達叔叔劉清彥主持，精力十足又問題多多的的小珍珠每次都要來找阿達叔叔的麻煩…不，是請阿達叔叔幫她解決層出不窮的各種麻煩，透過兩人的趣味互動，讓小朋友輕鬆學習做人的道理。</desc>
-  </programme>
-  <programme start="20260322091500 +0000" stop="20260322093000 +0000" channel="好消息">
-    <title lang="zh">小珍珠與阿達叔叔</title>
-    <desc lang="zh">好消息電視台製播的兒少節目，由充滿人生智慧的阿達叔叔劉清彥主持，精力十足又問題多多的的小珍珠每次都要來找阿達叔叔的麻煩…不，是請阿達叔叔幫她解決層出不窮的各種麻煩，透過兩人的趣味互動，讓小朋友輕鬆學習做人的道理。</desc>
-  </programme>
-  <programme start="20260322093000 +0000" stop="20260322100000 +0000" channel="好消息">
-    <title lang="zh">神奇故事屋</title>
-    <desc lang="zh">一直致力推廣兒童閱讀的 GOOD TV，再次與劉清彥老師（阿達叔叔）攜手，推出結合兒童閱讀和行腳的節目《神奇故事屋》，期盼打開兒童視野，讓閱讀走進生活，越讀越有趣。</desc>
   </programme>
   <programme start="20260322100000 +0000" stop="20260322103000 +0000" channel="好消息">
     <title lang="zh">好消息國度瞭望</title>
@@ -555996,10 +555963,6 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">精選系列生命更新專題</title>
     <desc lang="zh">好消息電視台製作的一系列特別節目，內容圍繞生命更新、信仰成長、聖經真理，旨在幫助觀眾認識耶穌、建立門徒生活，涵蓋見證分享、專題講座、職場／家庭／親子等多元主題，是華人基督徒信仰造就的重要資源。</desc>
   </programme>
-  <programme start="20260322090000 +0000" stop="20260322100000 +0000" channel="ELTV生活英語台">
-    <title lang="zh">PORORO</title>
-    <desc lang="zh">一隻充滿好奇心的小企鵝-Pororo，因為喜歡嘗試新的事物，且用盡方法了解它們，進而惹來許多小麻煩，但在嘗試新事物的過程中也為大家帶來無限歡樂。</desc>
-  </programme>
   <programme start="20260322100000 +0000" stop="20260322110000 +0000" channel="ELTV生活英語台">
     <title lang="zh">森林偵探隊</title>
     <desc lang="zh">南韓EBS與Bigstar Global共同製播的卡通，可輕鬆認識大自然的樣貌。各個謎團揉合在森林的浩瀚中，期待觀眾跟著偵探隊，細細品味在這森林的每個故事。</desc>
@@ -556571,14 +556534,6 @@ about his spouse’s genuine woes and longings.</desc>
   <programme start="20260327073000 +0000" stop="20260327080000 +0000" channel="ELTV生活英語台">
     <title lang="zh">歡唱小精靈</title>
     <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260322090000 +0000" stop="20260322093000 +0000" channel="龍華卡通台">
-    <title lang="zh">小小動物歷險記</title>
-    <desc lang="zh">動物園可真是個瘋狂的地方！原本不在同一片大陸的動物，如今都在一起共同生活。但對一群好朋友來說，動物園就是他們的家！這裡有活潑好動的大象拉拉、聰明的鱷魚沃比、害羞的白虎咪噗、俏皮的水獺可可子，還有勇敢的鴿子狄爾，快來和我們一起認識這群朋友吧！</desc>
-  </programme>
-  <programme start="20260322093000 +0000" stop="20260322100000 +0000" channel="龍華卡通台">
-    <title lang="zh">小小動物歷險記</title>
-    <desc lang="zh">動物園可真是個瘋狂的地方！原本不在同一片大陸的動物，如今都在一起共同生活。但對一群好朋友來說，動物園就是他們的家！這裡有活潑好動的大象拉拉、聰明的鱷魚沃比、害羞的白虎咪噗、俏皮的水獺可可子，還有勇敢的鴿子狄爾，快來和我們一起認識這群朋友吧！</desc>
   </programme>
   <programme start="20260322100000 +0000" stop="20260322103000 +0000" channel="龍華卡通台">
     <title lang="zh">魔法小廚師</title>
@@ -557516,10 +557471,6 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">淘氣鼠兄弟</title>
     <desc lang="zh">小唐是一隻擬人化的粉紅色小狗，與莫圖、蘭布、喬圖三隻鼠兄弟合住一個房子。小唐時常被老鼠們惹惱，吵吵鬧鬧的生活讓相看兩厭的他們會產生什麼火花呢</desc>
   </programme>
-  <programme start="20260322090000 +0000" stop="20260322100000 +0000" channel="亞洲旅遊台">
-    <title lang="zh">效廉出發吧</title>
-    <desc lang="zh">東森超視全新外景旅遊實境綜藝節目，由跨世代人夫許效舜、威廉攜手主持。兩位私交甚篤的知己好友，將在節目中分享彼此人生故事，帶觀眾深入瞭解每個城鎮獨有的歷史人文，探索每個地方的特色美食生活。一段見證男人友誼的旅行，就此展開！</desc>
-  </programme>
   <programme start="20260322100000 +0000" stop="20260322110000 +0000" channel="亞洲旅遊台">
     <title lang="zh">型男闖世界</title>
     <desc lang="zh">《型男闖世界》前往世界各地的特殊景點或深山秘境，挑戰極限運動，尋找奇人異事、踏尋隱身在叢林邊境的傳說、進行各種挑戰及探險。</desc>
@@ -557991,10 +557942,6 @@ about his spouse’s genuine woes and longings.</desc>
   <programme start="20260327070000 +0000" stop="20260327080000 +0000" channel="亞洲旅遊台">
     <title lang="zh">嗨 Let's Go</title>
     <desc lang="zh">旅行該怎麼玩呢？有人喜歡吃美食、看風景、體驗人文與歷史；也有人只想瘋血拼、追潮流、享奢華；更有人愛自然、愛冒險，當起背包客最逍遙！其實，無論哪種旅遊方式和玩法，只要懂門道，都能玩出最精彩！</desc>
-  </programme>
-  <programme start="20260322080000 +0000" stop="20260322100000 +0000" channel="Smart知識台">
-    <title lang="zh">花甲少年趣旅行S5</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260322100000 +0000" stop="20260322110000 +0000" channel="Smart知識台">
     <title lang="zh">全民星攻略</title>
@@ -558468,10 +558415,6 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">全民星攻略</title>
     <desc lang="zh">東森綜合台全新益智實境節目，「全民星攻略」，由館長曾國城擔任把關者，考驗著每個來挑戰九宮格益智遊戲藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理想分析，才有機會獲取智慧星幣，帶走夢幻大獎。</desc>
   </programme>
-  <programme start="20260322090000 +0000" stop="20260322100000 +0000" channel="龍華戲劇台">
-    <title lang="zh">大盛魁</title>
-    <desc lang="zh">由創業、興業、歇業三部曲組成，通過錯綜複雜的矛盾糾葛，不同民族的相互交融和眾多人物的愛恨情仇，講述由晉商創造的中國清代最大的跨國貿易商號"大盛魁"的興衰傳奇。</desc>
-  </programme>
   <programme start="20260322100000 +0000" stop="20260322110000 +0000" channel="龍華戲劇台">
     <title lang="zh">大盛魁</title>
     <desc lang="zh">由創業、興業、歇業三部曲組成，通過錯綜複雜的矛盾糾葛，不同民族的相互交融和眾多人物的愛恨情仇，講述由晉商創造的中國清代最大的跨國貿易商號"大盛魁"的興衰傳奇。</desc>
@@ -558943,14 +558886,6 @@ about his spouse’s genuine woes and longings.</desc>
   <programme start="20260327070000 +0000" stop="20260327080000 +0000" channel="龍華戲劇台">
     <title lang="zh">琉璃</title>
     <desc lang="zh">改編自十四郎小說《琉璃美人煞》。講述天生六識殘缺的少陽派掌門之女褚璇璣（袁冰妍）和離澤宮少主禹司鳳（成毅），在面臨愛情與前世陰謀的雙重壓力下，攜手共對百般腥風血雨，解開兩人糾纏十世的虐戀情緣，締造傳奇色彩的仙俠愛情故事。</desc>
-  </programme>
-  <programme start="20260322090000 +0000" stop="20260322093000 +0000" channel="台灣戲劇台">
-    <title lang="zh">親戚不計較</title>
-    <desc lang="zh">由卓勝利、李鑼等人主演，本劇雖以喜劇的方式呈現，但笑中有淚，淚中有悟，悟中有得，令人深思！</desc>
-  </programme>
-  <programme start="20260322093000 +0000" stop="20260322100000 +0000" channel="台灣戲劇台">
-    <title lang="zh">親戚不計較</title>
-    <desc lang="zh">由卓勝利、李鑼等人主演，本劇雖以喜劇的方式呈現，但笑中有淚，淚中有悟，悟中有得，令人深思！</desc>
   </programme>
   <programme start="20260322100000 +0000" stop="20260322103000 +0000" channel="台灣戲劇台">
     <title lang="zh">親戚不計較</title>
@@ -559439,14 +559374,6 @@ about his spouse’s genuine woes and longings.</desc>
   <programme start="20260327070000 +0000" stop="20260327080000 +0000" channel="台灣戲劇台">
     <title lang="zh">包青天</title>
     <desc lang="zh">仁宗皇帝在位期間，包拯（金超群）升任開封府府尹執掌京畿，剛直耿介、鐵面無私、明察秋毫、斷案如神，百姓愛戴敬仰尊稱為“包青天”。並有公孫策（范鴻軒）與南俠展昭（何家勁）一文一武兩員大將，使得包拯屢破奇案屢建奇功。</desc>
-  </programme>
-  <programme start="20260322084000 +0000" stop="20260322092000 +0000" channel="東森購物1台">
-    <title lang="zh">鎖定CH.43、CH.49選購</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260322092000 +0000" stop="20260322100000 +0000" channel="東森購物1台">
-    <title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260322100000 +0000" stop="20260322104000 +0000" channel="東森購物1台">
     <title lang="zh">鎖定CH.43、CH.49選購</title>
@@ -560156,10 +560083,6 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">鎖定CH.43、CH.49選購</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260322084500 +0000" stop="20260322093000 +0000" channel="龍華偶像台">
-    <title lang="zh">少年時代</title>
-    <desc lang="zh">出生忠清南道的瘦小懦弱高中生張秉泰，以「在學校不挨打」為最大目標。某天因父親意外的關係，連夜逃到隔壁村，轉學至扶餘農高竟搖身一變成為學校老大，親身體驗強者生存的熱血故事。</desc>
-  </programme>
   <programme start="20260322093000 +0000" stop="20260322103000 +0000" channel="龍華偶像台">
     <title lang="zh">六龍飛天</title>
     <desc lang="zh">以朝鮮建國初期為背景，以開國太祖李成桂（千虎珍）、太宗李芳遠（劉亞仁）、太祖策士鄭道傳（金明民）、芳遠的情人焚伊（申世景）、焚伊的哥哥李方地（卞耀漢）、以及芳遠的心腹無恤（尹鈞相）為中心，描述六名主人公的野心、慾望與成功。</desc>
@@ -560636,10 +560559,6 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">先熱情地打掃吧</title>
     <desc lang="zh">同名網路漫畫改編。清潔公司CEO張善傑（尹鈞相）財貌雙全、堪稱完美，卻因有非常嚴重的潔癖而無法和任何人接觸。但他卻喜歡上個性明朗可愛卻超級不拘小節的待業女青年吉五雪（金裕貞），兩人之間上演一段雙向奔赴的浪漫愛情故事…</desc>
   </programme>
-  <programme start="20260322090000 +0000" stop="20260322100000 +0000" channel="龍華日韓台">
-    <title lang="zh">兩個女人的房間</title>
-    <desc lang="zh">晴彩（朴恩惠）誤以為自己撞死熙秀（王嬪娜）的父親，對她滿懷虧欠還將熙秀母女親接來同住，熙秀見晴彩與自己年紀相仿，擁有的卻有如天壤之別，起了貪念的熙秀一步步奪去晴彩的一切，淪為這家女傭的晴彩發現了事實的真相後決心找回自己的清白，以及所擁有的一切…</desc>
-  </programme>
   <programme start="20260322100000 +0000" stop="20260322110000 +0000" channel="龍華日韓台">
     <title lang="zh">絕妙的遺產</title>
     <desc lang="zh">因見到兒子們為財產爭吵，感覺被背叛的80歲資產家夫英培（朴仁煥）憤而想出復仇妙計，和身無分文的30歲單身媽媽孔桂玉（姜世貞）假結婚。而一夜之間成為平均年齡比自己大的四個兒子繼母的桂玉，在日常相處中逐漸改變對彼此的偏見…</desc>
@@ -561111,14 +561030,6 @@ about his spouse’s genuine woes and longings.</desc>
   <programme start="20260327070000 +0000" stop="20260327080000 +0000" channel="龍華日韓台">
     <title lang="zh">WWW檢索愛情</title>
     <desc lang="zh">在業界頂尖門戶網站公司Barro任職的裴朵美（林秀晶）、車賢（李多熙）與宋佳景（田慧振），是三個沒有選擇成為妻子或母親的當今職業婦女，劇情描述三人在業界激烈的競爭故事，與她們現實生活中遇到各自命中注定的那個男人…</desc>
-  </programme>
-  <programme start="20260322084000 +0000" stop="20260322092000 +0000" channel="東森購物2台">
-    <title lang="zh">鎖定CH.43、CH.49選購</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260322092000 +0000" stop="20260322100000 +0000" channel="東森購物2台">
-    <title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260322100000 +0000" stop="20260322104000 +0000" channel="東森購物2台">
     <title lang="zh">鎖定CH.43、CH.49選購</title>
@@ -562272,10 +562183,6 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">華視1500整點新聞</title>
     <desc lang="zh">以最客觀的角度，最專業的主播，為觀眾完整報導上午發生之重大國內外重要新聞。</desc>
   </programme>
-  <programme start="20260322040000 +0000" stop="20260322100000 +0000" channel="倪珍播新聞">
-    <title lang="zh">午安新聞</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
   <programme start="20260322100000 +0000" stop="20260322160000 +0000" channel="倪珍播新聞">
     <title lang="zh">晚安新聞</title>
     <desc lang="zh">暂无描述</desc>
@@ -562351,10 +562258,6 @@ about his spouse’s genuine woes and longings.</desc>
   <programme start="20260326220000 +0000" stop="20260327040000 +0000" channel="倪珍播新聞">
     <title lang="zh">早安新聞</title>
     <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260322090000 +0000" stop="20260322100000 +0000" channel="三立新聞iNEWS">
-    <title lang="zh">iNEWS財經晚報</title>
-    <desc lang="zh">三立iNEWS製播的財經新聞節目，每天晚間由最專業的主播帶來國際時事、財經股匯市報導、深度新聞、時事評論…等內容。</desc>
   </programme>
   <programme start="20260322100000 +0000" stop="20260322120000 +0000" channel="三立新聞iNEWS">
     <title lang="zh">1819錢進大頭條</title>
@@ -562811,10 +562714,6 @@ about his spouse’s genuine woes and longings.</desc>
   <programme start="20260327070000 +0000" stop="20260327080000 +0000" channel="三立新聞iNEWS">
     <title lang="zh">全球新食力</title>
     <desc lang="zh">三立iNEWS製播的美食資訊節目，帶你全省走透透，吃遍台灣！</desc>
-  </programme>
-  <programme start="20260322090000 +0000" stop="20260322100000 +0000" channel="寰宇財經台">
-    <title lang="zh">美食打卡趣</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260322100000 +0000" stop="20260322110000 +0000" channel="寰宇財經台">
     <title lang="zh">銅板美食呷透透</title>
@@ -563290,14 +563189,6 @@ about his spouse’s genuine woes and longings.</desc>
   </programme>
   <programme start="20260327070000 +0000" stop="20260327080000 +0000" channel="寰宇財經台">
     <title lang="zh">小食光台味誌</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260322090000 +0000" stop="20260322093000 +0000" channel="daystar">
-    <title lang="zh">It is Written</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260322093000 +0000" stop="20260322100000 +0000" channel="daystar">
-    <title lang="zh">The Jewish Jesus</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260322100000 +0000" stop="20260322103000 +0000" channel="daystar">
@@ -564172,10 +564063,6 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">Rick Renner</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260322090000 +0000" stop="20260322100000 +0000" channel="中視新聞">
-    <title lang="zh">60分鐘</title>
-    <desc lang="zh">新聞雜誌節目，深入探討新聞時事與議題，將帶給你全方位的報導。</desc>
-  </programme>
   <programme start="20260322100000 +0000" stop="20260322105700 +0000" channel="中視新聞">
     <title lang="zh">中視新聞全球報導</title>
     <desc lang="zh">中視每晚七點由主播哈遠儀為全國觀眾最專業、準確的新聞報導。</desc>
@@ -564648,10 +564535,6 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">中視新聞即時現場</title>
     <desc lang="zh">由主播蕭惠文播報，以SNG車讓觀眾看到最即時的新聞報導，並以最客觀的角度，為觀眾完整報導上午發生之重要新聞。</desc>
   </programme>
-  <programme start="20260322090000 +0000" stop="20260322100000 +0000" channel="中天新聞台">
-    <title lang="zh">中天新聞 1700整點新聞</title>
-    <desc lang="zh">收看中天新聞帶給你最即時、最完整、最專業的新聞報導。</desc>
-  </programme>
   <programme start="20260322100000 +0000" stop="20260322110000 +0000" channel="中天新聞台">
     <title lang="zh">中天辣晚報</title>
     <desc lang="zh">提供國內、兩岸、國際頭條焦點，掌握時事脈動，觀察新聞背後的真正意義，帶領觀眾知曉天下事。有最深度的內容、最專業的追蹤、最需要的資訊，收視率領先各台，具有高度影響力！</desc>
@@ -565103,10 +564986,6 @@ about his spouse’s genuine woes and longings.</desc>
   <programme start="20260327060000 +0000" stop="20260327080000 +0000" channel="中天新聞台">
     <title lang="zh">大新聞大爆卦</title>
     <desc lang="zh">每周一到周五《大新聞大爆卦》中天主播馬千惠陪你一起來解卦！！！</desc>
-  </programme>
-  <programme start="20260322085500 +0000" stop="20260322095500 +0000" channel="寰宇新聞台灣台">
-    <title lang="zh">寰宇晚間新聞</title>
-    <desc lang="zh">寰宇晚間新聞給你最在地的台灣新聞、最深入的兩岸焦點，掌握國際情勢帶您了解社會脈動。</desc>
   </programme>
   <programme start="20260322095500 +0000" stop="20260322105500 +0000" channel="寰宇新聞台灣台">
     <title lang="zh">寰宇晚間新聞</title>
@@ -565580,10 +565459,6 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">寰宇整點新聞</title>
     <desc lang="zh">來自路透的國際新聞、最在地的台灣新聞以及最深入的兩岸焦點，帶您掌握社會脈動。</desc>
   </programme>
-  <programme start="20260322085500 +0000" stop="20260322095500 +0000" channel="寰宇新聞台">
-    <title lang="zh">寰宇全球新聞</title>
-    <desc lang="zh">搶先揭露全球各地政經、社會、娛樂的第一手新聞訊息，讓觀眾不漏接關鍵的世界大事。</desc>
-  </programme>
   <programme start="20260322095500 +0000" stop="20260322105500 +0000" channel="寰宇新聞台">
     <title lang="zh">寰宇全球新聞</title>
     <desc lang="zh">搶先揭露全球各地政經、社會、娛樂的第一手新聞訊息，讓觀眾不漏接關鍵的世界大事。</desc>
@@ -566055,14 +565930,6 @@ about his spouse’s genuine woes and longings.</desc>
   <programme start="20260327065500 +0000" stop="20260327075500 +0000" channel="寰宇新聞台">
     <title lang="zh">寰宇整點新聞</title>
     <desc lang="zh">來自路透的國際新聞、最在地的台灣新聞以及最深入的兩岸焦點，帶您掌握社會脈動。</desc>
-  </programme>
-  <programme start="20260322090000 +0000" stop="20260322093000 +0000" channel="第1商業台">
-    <title lang="zh">股市第一線-顧德投顧-李冠嶔分析師</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260322093000 +0000" stop="20260322100000 +0000" channel="第1商業台">
-    <title lang="zh">月薪翻倍計畫-顧德投顧-黃紫東分析師</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260322100000 +0000" stop="20260322103000 +0000" channel="第1商業台">
     <title lang="zh">阪田戰法-寶得富-顧奎國分析師</title>
@@ -567056,10 +566923,6 @@ about his spouse’s genuine woes and longings.</desc>
     <title lang="zh">週五會議預報</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260322060800 +0000" stop="20260322091900 +0000" channel="國會頻道2台">
-    <title lang="zh">司法及法制委員會</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
   <programme start="20260322091900 +0000" stop="20260322120000 +0000" channel="國會頻道2台">
     <title lang="zh">社會福利及衛生環境委員會</title>
     <desc lang="zh">暂无描述</desc>
@@ -567659,10 +567522,6 @@ about his spouse’s genuine woes and longings.</desc>
   <programme start="20260327055000 +0000" stop="20260327075000 +0000" channel="龍華電影台">
     <title lang="zh">臥底巨星</title>
     <desc lang="zh">功夫巨星元豹被懷疑和泰國黑幫有關係，警方設計鐵柱前去調查真相，想不到卻牽扯出不能說的秘密…</desc>
-  </programme>
-  <programme start="20260322065500 +0000" stop="20260322093000 +0000" channel="龍華洋片台">
-    <title lang="zh">星際特工瓦雷諾：千星之城</title>
-    <desc lang="zh">瓦雷諾與蘿琳娜是時空旅行特務的精英成員，他們不斷在時間與空間中穿梭，維護28世紀的世界秩序。在浩瀚無垠的銀河中，由兩位特工搭檔意外捲入了一個巨大的星際陰謀，從而引發一場關乎7000多個宇宙種族存亡之戰的故事。</desc>
   </programme>
   <programme start="20260322093000 +0000" stop="20260322111000 +0000" channel="龍華洋片台">
     <title lang="zh">露西亞的願望：魔法時光機</title>
@@ -655200,7 +655059,7 @@ MOMO定延閉目養神 志效咳嗽感冒了？</desc>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260322180000 +0800" stop="20260322183000 +0800" channel="Sun_Life">
-    <title lang="zh">Oru Pada Paadal</title>
+    <title lang="zh">Oru Pada Comedy</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260322183000 +0800" stop="20260322213000 +0800" channel="Sun_Life">
@@ -659047,11 +658906,11 @@ MOMO定延閉目養神 志效咳嗽感冒了？</desc>
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260323080300 +0800" stop="20260323090000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260323080300 +0800" stop="20260323085900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Morning Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260323090000 +0800" stop="20260323090300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260323085900 +0800" stop="20260323090300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -659059,35 +658918,35 @@ MOMO定延閉目養神 志效咳嗽感冒了？</desc>
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260323091800 +0800" stop="20260323100300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260323091800 +0800" stop="20260323100200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News Times</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260323100300 +0800" stop="20260323110000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260323100200 +0800" stop="20260323105800 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260323110000 +0800" stop="20260323110300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260323105800 +0800" stop="20260323110200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260323110300 +0800" stop="20260323113000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260323110200 +0800" stop="20260323112900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260323113000 +0800" stop="20260323113300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260323112900 +0800" stop="20260323113200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260323113300 +0800" stop="20260323120300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260323113200 +0800" stop="20260323120300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Mainland Q&amp;A</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260323120300 +0800" stop="20260323125800 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260323120300 +0800" stop="20260323125700 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Midday Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260323125800 +0800" stop="20260323130300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260323125700 +0800" stop="20260323130300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -659099,43 +658958,43 @@ MOMO定延閉目養神 志效咳嗽感冒了？</desc>
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260323133300 +0800" stop="20260323140300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260323133300 +0800" stop="20260323140200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Hong Kong Perspectives</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260323140300 +0800" stop="20260323143000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260323140200 +0800" stop="20260323142900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260323143000 +0800" stop="20260323143300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260323142900 +0800" stop="20260323143200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260323143300 +0800" stop="20260323150000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260323143200 +0800" stop="20260323145900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260323150000 +0800" stop="20260323150300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260323145900 +0800" stop="20260323150200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260323150300 +0800" stop="20260323160000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260323150200 +0800" stop="20260323155800 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260323160000 +0800" stop="20260323160300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260323155800 +0800" stop="20260323160200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260323160300 +0800" stop="20260323170000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260323160200 +0800" stop="20260323165800 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260323170000 +0800" stop="20260323170300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260323165800 +0800" stop="20260323170200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260323170300 +0800" stop="20260323173000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260323170200 +0800" stop="20260323173000 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -659155,51 +659014,51 @@ MOMO定延閉目養神 志效咳嗽感冒了？</desc>
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260323183300 +0800" stop="20260323190300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260323183300 +0800" stop="20260323190200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News Talk</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260323190300 +0800" stop="20260323200000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260323190200 +0800" stop="20260323195900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">China News Live</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260323200000 +0800" stop="20260323200300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260323195900 +0800" stop="20260323200200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260323200300 +0800" stop="20260323203000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260323200200 +0800" stop="20260323202900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Focus</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260323203000 +0800" stop="20260323203300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260323202900 +0800" stop="20260323203200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260323203300 +0800" stop="20260323210300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260323203200 +0800" stop="20260323210300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Financial Daily Report</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260323210300 +0800" stop="20260323215800 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260323210300 +0800" stop="20260323215600 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Evening Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260323215800 +0800" stop="20260323220300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260323215600 +0800" stop="20260323220200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260323220300 +0800" stop="20260323223300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260323220200 +0800" stop="20260323223300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Chief Editor's Time</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260323223300 +0800" stop="20260323230300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260323223300 +0800" stop="20260323230200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News Talk</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260323230300 +0800" stop="20260323233000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260323230200 +0800" stop="20260323232900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Focus</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260323233000 +0800" stop="20260323233300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260323232900 +0800" stop="20260323233200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -676931,16 +676790,12 @@ MOMO定延閉目養神 志效咳嗽感冒了？</desc>
     <title lang="zh">(L) Postshow</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260322040000 +0800" stop="20260322073000 +0800" channel="Astro_Grandstand">
+  <programme start="20260322040000 +0800" stop="20260322080000 +0800" channel="Astro_Grandstand">
     <title lang="zh">(L) UFC 2026: Evloev vs Murphy</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260322073000 +0800" stop="20260322100500 +0800" channel="Astro_Grandstand">
+  <programme start="20260322080000 +0800" stop="20260322103500 +0800" channel="Astro_Grandstand">
     <title lang="zh">PL: Man Utd vs Aston Villa</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260322100500 +0800" stop="20260322103500 +0800" channel="Astro_Grandstand">
-    <title lang="zh">World's Strongest Man 2024 - Episode 4</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260322103500 +0800" stop="20260322124500 +0800" channel="Astro_Grandstand">
