@@ -9,12 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260323140000 +0800" stop="20260323153000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-  </programme>
-  <programme start="20260323153000 +0800" stop="20260323163000 +0800" channel="mbc action">
-    <title lang="en">برنامج bear grylls</title>
-  </programme>
   <programme start="20260323163000 +0800" stop="20260323173000 +0800" channel="mbc action">
     <title lang="en">The Promised Neverland</title>
   </programme>
@@ -186,8 +180,11 @@
   <programme start="20260326000000 +0800" stop="20260326010000 +0800" channel="mbc action">
     <title lang="en">برنامج bricks&amp;brain </title>
   </programme>
-  <programme start="20260323140100 +0800" stop="20260323160100 +0800" channel="mbc max">
-    <title lang="en">The Huntsman: Winter's War</title>
+  <programme start="20260326010000 +0800" stop="20260326020000 +0800" channel="mbc action">
+    <title lang="en">The Promised Neverland</title>
+  </programme>
+  <programme start="20260326020000 +0800" stop="20260326030000 +0800" channel="mbc action">
+    <title lang="en">برنامج action bodcast</title>
   </programme>
   <programme start="20260323160100 +0800" stop="20260323175500 +0800" channel="mbc max">
     <title lang="en">Robin Hood</title>
@@ -297,11 +294,11 @@
   <programme start="20260325225500 +0800" stop="20260326003000 +0800" channel="mbc max">
     <title lang="en">16 Blocks</title>
   </programme>
-  <programme start="20260323143000 +0800" stop="20260323161000 +0800" channel="mbc 2">
-    <title lang="en">The Edge of Seventeen</title>
+  <programme start="20260326003000 +0800" stop="20260326010000 +0800" channel="mbc max">
+    <title lang="en">Hollywood Buzz</title>
   </programme>
-  <programme start="20260323161000 +0800" stop="20260323163500 +0800" channel="mbc 2">
-    <title lang="en">Films &amp; Stars</title>
+  <programme start="20260326010000 +0800" stop="20260326023000 +0800" channel="mbc max">
+    <title lang="en">The American</title>
   </programme>
   <programme start="20260323163500 +0800" stop="20260323181000 +0800" channel="mbc 2">
     <title lang="en">Mr. Deeds</title>
@@ -416,5 +413,11 @@
   </programme>
   <programme start="20260325235500 +0800" stop="20260326013500 +0800" channel="mbc 2">
     <title lang="en">Dolittle</title>
+  </programme>
+  <programme start="20260326013500 +0800" stop="20260326020000 +0800" channel="mbc 2">
+    <title lang="en">برنامج Celebrity Scoop Season 9</title>
+  </programme>
+  <programme start="20260326020000 +0800" stop="20260326033500 +0800" channel="mbc 2">
+    <title lang="en">Paddington</title>
   </programme>
 </tv>
