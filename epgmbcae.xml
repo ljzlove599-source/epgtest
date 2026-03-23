@@ -9,15 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260323173000 +0800" stop="20260323190000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-  </programme>
-  <programme start="20260323190000 +0800" stop="20260323200000 +0800" channel="mbc action">
-    <title lang="en">Ridiculousness</title>
-  </programme>
-  <programme start="20260323200000 +0800" stop="20260323213000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-  </programme>
   <programme start="20260323213000 +0800" stop="20260323223000 +0800" channel="mbc action">
     <title lang="en">برنامج The Ride Life With Sung Kang</title>
   </programme>
@@ -189,8 +180,11 @@
   <programme start="20260326040000 +0800" stop="20260326053000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
-  <programme start="20260323175500 +0800" stop="20260323200000 +0800" channel="mbc max">
-    <title lang="en">King Arthur: Legend of the Sword</title>
+  <programme start="20260326053000 +0800" stop="20260326063000 +0800" channel="mbc action">
+    <title lang="en">ابرز لقطات الدوري</title>
+  </programme>
+  <programme start="20260326063000 +0800" stop="20260326073000 +0800" channel="mbc action">
+    <title lang="en">الخميس</title>
   </programme>
   <programme start="20260323200000 +0800" stop="20260323220000 +0800" channel="mbc max">
     <title lang="en">Fracture</title>
@@ -306,11 +300,14 @@
   <programme start="20260326030000 +0800" stop="20260326045500 +0800" channel="mbc max">
     <title lang="en">Hunter Killer</title>
   </programme>
-  <programme start="20260323181000 +0800" stop="20260323194000 +0800" channel="mbc 2">
-    <title lang="en">I Used to Go Here</title>
+  <programme start="20260326045500 +0800" stop="20260326063000 +0800" channel="mbc max">
+    <title lang="en">Vengeance: A Love Story</title>
   </programme>
-  <programme start="20260323194000 +0800" stop="20260323213000 +0800" channel="mbc 2">
-    <title lang="en">Whiplash</title>
+  <programme start="20260326063000 +0800" stop="20260326070000 +0800" channel="mbc max">
+    <title lang="en">برنامج celebrity scoop 9</title>
+  </programme>
+  <programme start="20260326070000 +0800" stop="20260326085000 +0800" channel="mbc max">
+    <title lang="en">The House with a Clock in its Walls</title>
   </programme>
   <programme start="20260323213000 +0800" stop="20260323220500 +0800" channel="mbc 2">
     <title lang="en">Scoop Maa Raya</title>
@@ -428,5 +425,8 @@
   </programme>
   <programme start="20260326040000 +0800" stop="20260326060000 +0800" channel="mbc 2">
     <title lang="en">Paddington 2</title>
+  </programme>
+  <programme start="20260326060000 +0800" stop="20260326080000 +0800" channel="mbc 2">
+    <title lang="en">Pan</title>
   </programme>
 </tv>
