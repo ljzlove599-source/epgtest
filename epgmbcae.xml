@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260325153000 +0800" stop="20260325163000 +0800" channel="mbc action">
-    <title lang="en">برنامج Celebrity Car Wars</title>
-  </programme>
   <programme start="20260325163000 +0800" stop="20260325173000 +0800" channel="mbc action">
     <title lang="en">The Promised Neverland</title>
   </programme>
@@ -122,12 +119,6 @@
   </programme>
   <programme start="20260327053000 +0800" stop="20260327063000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
-  </programme>
-  <programme start="20260325143000 +0800" stop="20260325160000 +0800" channel="mbc max">
-    <title lang="en">The Addams Family</title>
-  </programme>
-  <programme start="20260325160000 +0800" stop="20260325163000 +0800" channel="mbc max">
-    <title lang="en">Hollywood Buzz</title>
   </programme>
   <programme start="20260325163000 +0800" stop="20260325180000 +0800" channel="mbc max">
     <title lang="en">Hotel Transylvania</title>
@@ -264,9 +255,6 @@
   <programme start="20260328010500 +0800" stop="20260328030000 +0800" channel="mbc max">
     <title lang="en">Foster Boy</title>
   </programme>
-  <programme start="20260325140000 +0800" stop="20260325160000 +0800" channel="mbc 2">
-    <title lang="en">RED 2</title>
-  </programme>
   <programme start="20260325160000 +0800" stop="20260325180000 +0800" channel="mbc 2">
     <title lang="en">Annie</title>
   </programme>
@@ -395,5 +383,8 @@
   </programme>
   <programme start="20260327233000 +0800" stop="20260328020000 +0800" channel="mbc 2">
     <title lang="en">Molly's Game</title>
+  </programme>
+  <programme start="20260328020000 +0800" stop="20260328040000 +0800" channel="mbc 2">
+    <title lang="en">The Man from U.N.C.L.E</title>
   </programme>
 </tv>
