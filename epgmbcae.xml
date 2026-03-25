@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260325053000 +0800" stop="20260325063000 +0800" channel="mbc action">
-    <title lang="en">برنامج Accelerate</title>
-  </programme>
   <programme start="20260325063000 +0800" stop="20260325073000 +0800" channel="mbc action">
     <title lang="en">برنامج american ninja warrior</title>
   </programme>
@@ -288,8 +285,8 @@
   <programme start="20260327140000 +0800" stop="20260327160000 +0800" channel="mbc max">
     <title lang="en">The Walk</title>
   </programme>
-  <programme start="20260325040500 +0800" stop="20260325060500 +0800" channel="mbc 2">
-    <title lang="en">Ocean's Thirteen</title>
+  <programme start="20260327160000 +0800" stop="20260327180000 +0800" channel="mbc max">
+    <title lang="en">The Blind Side</title>
   </programme>
   <programme start="20260325060500 +0800" stop="20260325080000 +0800" channel="mbc 2">
     <title lang="en">The Hitman's Bodyguard</title>
@@ -416,5 +413,8 @@
   </programme>
   <programme start="20260327143000 +0800" stop="20260327160000 +0800" channel="mbc 2">
     <title lang="en">The Man with the Iron Fists</title>
+  </programme>
+  <programme start="20260327160000 +0800" stop="20260327163000 +0800" channel="mbc 2">
+    <title lang="en">Films &amp; Stars</title>
   </programme>
 </tv>
