@@ -9,12 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260325103000 +0800" stop="20260325120000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-  </programme>
-  <programme start="20260325120000 +0800" stop="20260325130000 +0800" channel="mbc action">
-    <title lang="en">بودكاست ملح الدوري</title>
-  </programme>
   <programme start="20260325130000 +0800" stop="20260325140000 +0800" channel="mbc action">
     <title lang="en">برنامج action bodcast</title>
   </programme>
@@ -134,9 +128,6 @@
   </programme>
   <programme start="20260327053000 +0800" stop="20260327063000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
-  </programme>
-  <programme start="20260325103000 +0800" stop="20260325123000 +0800" channel="mbc max">
-    <title lang="en">My Friend Dahmer</title>
   </programme>
   <programme start="20260325123000 +0800" stop="20260325143000 +0800" channel="mbc max">
     <title lang="en">Fracture</title>
@@ -270,8 +261,11 @@
   <programme start="20260327202500 +0800" stop="20260327223000 +0800" channel="mbc max">
     <title lang="en">In the Line of Fire</title>
   </programme>
-  <programme start="20260325113500 +0800" stop="20260325120500 +0800" channel="mbc 2">
-    <title lang="en">برنامج making the movies 6</title>
+  <programme start="20260327223000 +0800" stop="20260327230000 +0800" channel="mbc max">
+    <title lang="en">برنامج planet action 6</title>
+  </programme>
+  <programme start="20260327230000 +0800" stop="20260328003500 +0800" channel="mbc max">
+    <title lang="en">Basic</title>
   </programme>
   <programme start="20260325120500 +0800" stop="20260325140000 +0800" channel="mbc 2">
     <title lang="en">The Bourne Identity</title>
@@ -401,5 +395,8 @@
   </programme>
   <programme start="20260327210000 +0800" stop="20260327230500 +0800" channel="mbc 2">
     <title lang="en">Now You See Me 2</title>
+  </programme>
+  <programme start="20260327230500 +0800" stop="20260327233000 +0800" channel="mbc 2">
+    <title lang="en">Action Zone</title>
   </programme>
 </tv>
