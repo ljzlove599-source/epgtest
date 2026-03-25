@@ -6445,9 +6445,6 @@
   <programme start="20260327070000 +0800" stop="20260327080000 +0800" channel="中天北美台">
     <title lang="zh">大新闻大爆卦(上) (Live)</title>
   </programme>
-  <programme start="20260325163000 +0800" stop="20260325173000 +0800" channel="mbc action">
-    <title lang="en">The Promised Neverland</title>
-  </programme>
   <programme start="20260325173000 +0800" stop="20260325190000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
@@ -6488,7 +6485,7 @@
     <title lang="en">ابرز لقطات الدوري</title>
   </programme>
   <programme start="20260326063000 +0800" stop="20260326073000 +0800" channel="mbc action">
-    <title lang="en">الخميس</title>
+    <title lang="en">برنامج  Adrenaline</title>
   </programme>
   <programme start="20260326073000 +0800" stop="20260326080000 +0800" channel="mbc action">
     <title lang="en">The Promised Neverland</title>
@@ -6690,6 +6687,9 @@
   </programme>
   <programme start="20260328010500 +0800" stop="20260328030000 +0800" channel="mbc max">
     <title lang="en">Foster Boy</title>
+  </programme>
+  <programme start="20260328030000 +0800" stop="20260328050000 +0800" channel="mbc max">
+    <title lang="en">Loving</title>
   </programme>
   <programme start="20260325160000 +0800" stop="20260325180000 +0800" channel="mbc 2">
     <title lang="en">Annie</title>
@@ -7152,10 +7152,10 @@
     <title lang="en">Young Lady and Gentleman Ep.7</title>
   </programme>
   <programme start="20260325181500 +0900" stop="20260325192500 +0900" channel="KBSWorld">
-    <title lang="en">Young Lady and Gentleman Ep.8 [LIVE]</title>
+    <title lang="en">Young Lady and Gentleman Ep.8</title>
   </programme>
   <programme start="20260325192500 +0900" stop="20260325203500 +0900" channel="KBSWorld">
-    <title lang="en">The Return of Superman Ep.612</title>
+    <title lang="en">The Return of Superman Ep.612 [LIVE]</title>
   </programme>
   <programme start="20260325203500 +0900" stop="20260325211000 +0900" channel="KBSWorld">
     <title lang="en">Marie and Her Three Daddies Ep.113</title>
@@ -254960,16 +254960,28 @@
     <title lang="zh">立法院会议直播</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260325180000 +0800" stop="20260326000000 +0800" channel="国会频道2HD">
-    <title lang="zh">当日立法院会议转播</title>
+  <programme start="20260325170400 +0800" stop="20260325202200 +0800" channel="国会频道2HD">
+    <title lang="zh">交通委员会</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260326000000 +0800" stop="20260326050000 +0800" channel="国会频道2HD">
-    <title lang="zh">前日立法院会议转播</title>
+  <programme start="20260325202200 +0800" stop="20260326004600 +0800" channel="国会频道2HD">
+    <title lang="zh">社会福利及卫生环境委员会</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260326050000 +0800" stop="20260326084700 +0800" channel="国会频道2HD">
-    <title lang="zh">前日立法院会议转播</title>
+  <programme start="20260326004600 +0800" stop="20260326031500 +0800" channel="国会频道2HD">
+    <title lang="zh">司法及法制委员会</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260326031500 +0800" stop="20260326051500 +0800" channel="国会频道2HD">
+    <title lang="zh">教育及文化委员会</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260326051500 +0800" stop="20260326065300 +0800" channel="国会频道2HD">
+    <title lang="zh">教育及文化委员会</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260326065300 +0800" stop="20260326084700 +0800" channel="国会频道2HD">
+    <title lang="zh">交通委员会</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260326084700 +0800" stop="20260326090000 +0800" channel="国会频道2HD">
@@ -263570,134 +263582,6 @@
   </programme>
   <programme start="20260325235900 +0800" stop="20260326004200 +0800" channel="EVE HD">
     <title lang="zh">胖美眉的美妙人生第9季:别伤害我</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260326004200 +0800" stop="20260326012600 +0800" channel="EVE HD">
-    <title lang="zh">执法第一线第3季:人员伤亡</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260326012600 +0800" stop="20260326020900 +0800" channel="EVE HD">
-    <title lang="zh">巧克力工厂黑夜大战:怪虫大集合</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260326020900 +0800" stop="20260326025300 +0800" channel="EVE HD">
-    <title lang="zh">多妻家庭要征婚第5季:寻求解答</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260326025300 +0800" stop="20260326033900 +0800" channel="EVE HD">
-    <title lang="zh">亚特兰大命案组:婚戒真相</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260326033900 +0800" stop="20260326042600 +0800" channel="EVE HD">
-    <title lang="zh">小妈妈好吃惊第6季:子痫前症</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260326042600 +0800" stop="20260326051300 +0800" channel="EVE HD">
-    <title lang="zh">结婚成瘾:再度抽身</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260326051300 +0800" stop="20260326060000 +0800" channel="EVE HD">
-    <title lang="zh">小矮人大世界第14季:小女娃来报到</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260326060000 +0800" stop="20260326064300 +0800" channel="EVE HD">
-    <title lang="zh">多妻家庭要征婚第5季:寻求解答</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260326064300 +0800" stop="20260326072400 +0800" channel="EVE HD">
-    <title lang="zh">结婚蛋糕大赛:周年纪念</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260326072400 +0800" stop="20260326080800 +0800" channel="EVE HD">
-    <title lang="zh">拉皮新人生第3季:米基与丹尼斯</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260326080800 +0800" stop="20260326085200 +0800" channel="EVE HD">
-    <title lang="zh">普雷斯这一家第7季:第9集</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260326085200 +0800" stop="20260326093500 +0800" channel="EVE HD">
-    <title lang="zh">罕见疾病不孤单:钢铁男孩</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260326093500 +0800" stop="20260326101900 +0800" channel="EVE HD">
-    <title lang="zh">巧克力工厂黑夜大战:怪虫大集合</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260326101900 +0800" stop="20260326110200 +0800" channel="EVE HD">
-    <title lang="zh">小妈妈好吃惊第6季:子痫前症</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260326110200 +0800" stop="20260326114600 +0800" channel="EVE HD">
-    <title lang="zh">执法第一线第3季:人员伤亡</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260326114600 +0800" stop="20260326122900 +0800" channel="EVE HD">
-    <title lang="zh">胖美眉的美妙人生第9季:别伤害我</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260326122900 +0800" stop="20260326131300 +0800" channel="EVE HD">
-    <title lang="zh">劲爆上流餐厅第2季:刺激游戏</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260326131300 +0800" stop="20260326135600 +0800" channel="EVE HD">
-    <title lang="zh">我是女生第6季:依然不倒</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260326135600 +0800" stop="20260326144000 +0800" channel="EVE HD">
-    <title lang="zh">拉皮新人生第3季:米基与丹尼斯</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260326144000 +0800" stop="20260326152100 +0800" channel="EVE HD">
-    <title lang="zh">结婚蛋糕大赛:周年纪念</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260326152100 +0800" stop="20260326160500 +0800" channel="EVE HD">
-    <title lang="zh">多妻家庭要征婚第5季:寻求解答</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260326160500 +0800" stop="20260326164800 +0800" channel="EVE HD">
-    <title lang="zh">宝宝震撼弹第3季:熟能生巧换尿布</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260326164800 +0800" stop="20260326173200 +0800" channel="EVE HD">
-    <title lang="zh">普雷斯这一家第7季:第9集</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260326173200 +0800" stop="20260326181500 +0800" channel="EVE HD">
-    <title lang="zh">巧克力工厂黑夜大战:怪虫大集合</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260326181500 +0800" stop="20260326185900 +0800" channel="EVE HD">
-    <title lang="zh">罕见疾病不孤单:钢铁男孩</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260326185900 +0800" stop="20260326194200 +0800" channel="EVE HD">
-    <title lang="zh">我是女生第6季:依然不倒</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260326194200 +0800" stop="20260326202600 +0800" channel="EVE HD">
-    <title lang="zh">执法第一线第3季:人员伤亡</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260326202600 +0800" stop="20260326210900 +0800" channel="EVE HD">
-    <title lang="zh">巧克力工厂黑夜大战:怪虫大集合</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260326210900 +0800" stop="20260326215300 +0800" channel="EVE HD">
-    <title lang="zh">小矮人大世界第14季:新旧之间</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260326215300 +0800" stop="20260326223600 +0800" channel="EVE HD">
-    <title lang="zh">结婚成瘾:从此幸福</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260326223600 +0800" stop="20260326232000 +0800" channel="EVE HD">
-    <title lang="zh">宝宝震撼弹第3季:三胞胎麻烦多</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260326232000 +0800" stop="20260327000300 +0800" channel="EVE HD">
-    <title lang="zh">小妈妈好吃惊第6季:子痫前症</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260325001500 +0800" stop="20260325010000 +0800" channel="Global Trekker HD">
@@ -290413,7 +290297,7 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260326030000 +0800" stop="20260326040000 +0800" channel="佛卫慈悲台">
-    <title lang="zh">阿弥陀经要解26-隆迅法师</title>
+    <title lang="zh">阿弥陀经要解27-隆迅法师</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260326040000 +0800" stop="20260326050000 +0800" channel="佛卫慈悲台">
@@ -302394,6 +302278,198 @@
     <title lang="zh">奇怪的搭档第22集</title>
     <desc lang="zh">前途看好的法律研究生殷奉熙，在一场大停电外出买东西，回来竟发现前男友被杀死在自己家，她成了跳到黄河也洗不清的杀人凶手。检察官卢智旭相信奉熙的清白为她辩护，但也因此得罪检察总长丢了工作。奉熙成了开业律师，即使获得清白，但因始终未找到凶手，让疑似罪犯的她仍活在黑暗之中；智旭邀请奉熙来事务所共事，两人日久生情，但他们却在某次辩护后发现杀人凶手好像就在他们身边...</desc>
   </programme>
+  <programme start="20260325013000 +0800" stop="20260325020000 +0800" channel="三立台湾台">
+    <title lang="zh">戏说台湾第6093集</title>
+    <desc lang="zh">天下合久必分，分久必合。举首问苍天，苍天无亟，民贱伏刍狗，狗甚幸。在这片土地上，流传著许多美丽动人的民间故事，它曾经过漫漫岁月的沉淀淬炼直到现在，这些故事依然守候在你我身边，散发出迷人的丰采。</desc>
+  </programme>
+  <programme start="20260325020000 +0800" stop="20260325030000 +0800" channel="三立台湾台">
+    <title lang="zh">健康零距离</title>
+    <desc lang="zh">《健康零距离》是兼具知识、新闻、专业与实用性的健康资讯节目，邀集优质中西医师、营养师、体适能专家等黄金阵容，以轻松聊天的方式，让观众无痛吸收健康知识，为大家解惑医疗迷思，打破网路健康谣言。还会教观众运用节令食材制作养生食疗，以及不同主题的健康小运动，现学现做一起顾健康!</desc>
+  </programme>
+  <programme start="20260325030000 +0800" stop="20260325040000 +0800" channel="三立台湾台">
+    <title lang="zh">阿姐万岁第273集</title>
+    <desc lang="zh">《阿姐万岁》结合时事、贴近生活，透过生活小剧场，用最轻松诙谐的方式，带观众一起畅聊人生大小事！由『知性御姐』苗可丽 与『超能小哥』陈志强 联合主持，将带来让人耳目一新的全新节目体验！</desc>
+  </programme>
+  <programme start="20260325040000 +0800" stop="20260325050000 +0800" channel="三立台湾台">
+    <title lang="zh">一家人第368集</title>
+    <desc lang="zh">透过角色在爱情与婚姻里的迷茫纠结、跌宕起伏，终究必须做出抉择时，所展现的智慧与历练，让观众也能有所启发与净化....</desc>
+  </programme>
+  <programme start="20260325050000 +0800" stop="20260325060000 +0800" channel="三立台湾台">
+    <title lang="zh">三立晚间新闻</title>
+    <desc lang="zh">《三立晚间新闻》为三立台湾台电视新闻节目之一。2019年6月19日于晚间新闻起，启用全新摄影棚。</desc>
+  </programme>
+  <programme start="20260325060000 +0800" stop="20260325070000 +0800" channel="三立台湾台">
+    <title lang="zh">一家人第368集</title>
+    <desc lang="zh">透过角色在爱情与婚姻里的迷茫纠结、跌宕起伏，终究必须做出抉择时，所展现的智慧与历练，让观众也能有所启发与净化....</desc>
+  </programme>
+  <programme start="20260325070000 +0800" stop="20260325073000 +0800" channel="三立台湾台">
+    <title lang="zh">戏说台湾第6093集</title>
+    <desc lang="zh">天下合久必分，分久必合。举首问苍天，苍天无亟，民贱伏刍狗，狗甚幸。在这片土地上，流传著许多美丽动人的民间故事，它曾经过漫漫岁月的沉淀淬炼直到现在，这些故事依然守候在你我身边，散发出迷人的丰采。</desc>
+  </programme>
+  <programme start="20260325073000 +0800" stop="20260325083000 +0800" channel="三立台湾台">
+    <title lang="zh">健康零距离</title>
+    <desc lang="zh">《健康零距离》是兼具知识、新闻、专业与实用性的健康资讯节目，邀集优质中西医师、营养师、体适能专家等黄金阵容，以轻松聊天的方式，让观众无痛吸收健康知识，为大家解惑医疗迷思，打破网路健康谣言。还会教观众运用节令食材制作养生食疗，以及不同主题的健康小运动，现学现做一起顾健康!</desc>
+  </programme>
+  <programme start="20260325083000 +0800" stop="20260325093000 +0800" channel="三立台湾台">
+    <title lang="zh">阿姐万岁第273集</title>
+    <desc lang="zh">《阿姐万岁》结合时事、贴近生活，透过生活小剧场，用最轻松诙谐的方式，带观众一起畅聊人生大小事！由『知性御姐』苗可丽 与『超能小哥』陈志强 联合主持，将带来让人耳目一新的全新节目体验！</desc>
+  </programme>
+  <programme start="20260325093000 +0800" stop="20260325100000 +0800" channel="三立台湾台">
+    <title lang="zh">亲家第92集</title>
+    <desc lang="zh">是部以「家」为出发点的故事，二个看似平凡的家，会衍生多少感人趣卫的故事？万事和跟王朝义俩个穿同一条裤子长大的老兄弟，即将结为亲家，关系更加密切，看万、王联姻会为二家带来什么趣味的婆媳过招？看万、王二家如何因联姻带来所谓美丽的误会？万家大女儿万世萍，烧得一手好菜，一心想要进入东升饭店当厨师，拿出师父朝义教的拿手好菜，让董事长罗昆城充满惊喜，但究竟发生了什么事导致让世萍落选？昆城明明欣赏世萍的手艺却为何不让世萍进饭店呢？两人之间到底有什么误解呢？「亲家」以最轻松、最简单的方式，成现基层小人物的酸甜苦辣...</desc>
+  </programme>
+  <programme start="20260325100000 +0800" stop="20260325110000 +0800" channel="三立台湾台">
+    <title lang="zh">健康零距离</title>
+    <desc lang="zh">《健康零距离》是兼具知识、新闻、专业与实用性的健康资讯节目，邀集优质中西医师、营养师、体适能专家等黄金阵容，以轻松聊天的方式，让观众无痛吸收健康知识，为大家解惑医疗迷思，打破网路健康谣言。还会教观众运用节令食材制作养生食疗，以及不同主题的健康小运动，现学现做一起顾健康!</desc>
+  </programme>
+  <programme start="20260325110000 +0800" stop="20260325113000 +0800" channel="三立台湾台">
+    <title lang="zh">戏说台湾第6093集</title>
+    <desc lang="zh">天下合久必分，分久必合。举首问苍天，苍天无亟，民贱伏刍狗，狗甚幸。在这片土地上，流传著许多美丽动人的民间故事，它曾经过漫漫岁月的沉淀淬炼直到现在，这些故事依然守候在你我身边，散发出迷人的丰采。</desc>
+  </programme>
+  <programme start="20260325113000 +0800" stop="20260325120000 +0800" channel="三立台湾台">
+    <title lang="zh">名医的餐桌</title>
+    <desc lang="zh">远离高血糖、肾病、癌症、骨松、脂肪肝、失智，名医身体力行的饮食法，90％健康是吃出来的，学名医正确吃，向慢性病说「不」！</desc>
+  </programme>
+  <programme start="20260325120000 +0800" stop="20260325124500 +0800" channel="三立台湾台">
+    <title lang="zh">三立午间新闻</title>
+    <desc lang="zh">《三立午间新闻》为三立台湾台电视新闻节目之一。</desc>
+  </programme>
+  <programme start="20260325124500 +0800" stop="20260325150000 +0800" channel="三立台湾台">
+    <title lang="zh">百味人生第154集</title>
+    <desc lang="zh">多彩城市，尝尽百味。三立台湾台全新八点档大戏《百味人生》以传奇餐厅「五秀园」为故事核心，由传奇总铺师「万里师」一手创立的知名餐厅《五秀园》，带领著身怀绝技的徒弟们携手打拚，然而万里师的意外身亡，却让五秀园逐渐分崩离析。25年后，尘封的恩怨情仇再度浮现，曾经紧密如一的四人，最终也各自踏上不同的百味人生…</desc>
+  </programme>
+  <programme start="20260325150000 +0800" stop="20260325160000 +0800" channel="三立台湾台">
+    <title lang="zh">阿姐万岁第273集</title>
+    <desc lang="zh">《阿姐万岁》结合时事、贴近生活，透过生活小剧场，用最轻松诙谐的方式，带观众一起畅聊人生大小事！由『知性御姐』苗可丽 与『超能小哥』陈志强 联合主持，将带来让人耳目一新的全新节目体验！</desc>
+  </programme>
+  <programme start="20260325160000 +0800" stop="20260325170000 +0800" channel="三立台湾台">
+    <title lang="zh">健康零距离</title>
+    <desc lang="zh">《健康零距离》是兼具知识、新闻、专业与实用性的健康资讯节目，邀集优质中西医师、营养师、体适能专家等黄金阵容，以轻松聊天的方式，让观众无痛吸收健康知识，为大家解惑医疗迷思，打破网路健康谣言。还会教观众运用节令食材制作养生食疗，以及不同主题的健康小运动，现学现做一起顾健康!</desc>
+  </programme>
+  <programme start="20260325170000 +0800" stop="20260325180000 +0800" channel="三立台湾台">
+    <title lang="zh">一家人第369集</title>
+    <desc lang="zh">透过角色在爱情与婚姻里的迷茫纠结、跌宕起伏，终究必须做出抉择时，所展现的智慧与历练，让观众也能有所启发与净化....</desc>
+  </programme>
+  <programme start="20260325180000 +0800" stop="20260325190000 +0800" channel="三立台湾台">
+    <title lang="zh">三立晚间新闻</title>
+    <desc lang="zh">《三立晚间新闻》为三立台湾台电视新闻节目之一。2019年6月19日于晚间新闻起，启用全新摄影棚。</desc>
+  </programme>
+  <programme start="20260325190000 +0800" stop="20260325193000 +0800" channel="三立台湾台">
+    <title lang="zh">亲家第93集</title>
+    <desc lang="zh">是部以「家」为出发点的故事，二个看似平凡的家，会衍生多少感人趣卫的故事？万事和跟王朝义俩个穿同一条裤子长大的老兄弟，即将结为亲家，关系更加密切，看万、王联姻会为二家带来什么趣味的婆媳过招？看万、王二家如何因联姻带来所谓美丽的误会？万家大女儿万世萍，烧得一手好菜，一心想要进入东升饭店当厨师，拿出师父朝义教的拿手好菜，让董事长罗昆城充满惊喜，但究竟发生了什么事导致让世萍落选？昆城明明欣赏世萍的手艺却为何不让世萍进饭店呢？两人之间到底有什么误解呢？「亲家」以最轻松、最简单的方式，成现基层小人物的酸甜苦辣...</desc>
+  </programme>
+  <programme start="20260325193000 +0800" stop="20260325200000 +0800" channel="三立台湾台">
+    <title lang="zh">戏说台湾第6094集</title>
+    <desc lang="zh">天下合久必分，分久必合。举首问苍天，苍天无亟，民贱伏刍狗，狗甚幸。在这片土地上，流传著许多美丽动人的民间故事，它曾经过漫漫岁月的沉淀淬炼直到现在，这些故事依然守候在你我身边，散发出迷人的丰采。</desc>
+  </programme>
+  <programme start="20260325200000 +0800" stop="20260325221500 +0800" channel="三立台湾台">
+    <title lang="zh">百味人生第155集</title>
+    <desc lang="zh">多彩城市，尝尽百味。三立台湾台全新八点档大戏《百味人生》以传奇餐厅「五秀园」为故事核心，由传奇总铺师「万里师」一手创立的知名餐厅《五秀园》，带领著身怀绝技的徒弟们携手打拚，然而万里师的意外身亡，却让五秀园逐渐分崩离析。25年后，尘封的恩怨情仇再度浮现，曾经紧密如一的四人，最终也各自踏上不同的百味人生…</desc>
+  </programme>
+  <programme start="20260325221500 +0800" stop="20260325231500 +0800" channel="三立台湾台">
+    <title lang="zh">宝岛神很大</title>
+    <desc lang="zh">三立爱台客创造"台潮"第一波最生活的民俗文化节目,让你亲近神的领域有趣味的民俗文化节目,要你说出Oh My God长知识的民俗文化节目,传承子孙不能忘本</desc>
+  </programme>
+  <programme start="20260325231500 +0800" stop="20260326013000 +0800" channel="三立台湾台">
+    <title lang="zh">百味人生第155集</title>
+    <desc lang="zh">多彩城市，尝尽百味。三立台湾台全新八点档大戏《百味人生》以传奇餐厅「五秀园」为故事核心，由传奇总铺师「万里师」一手创立的知名餐厅《五秀园》，带领著身怀绝技的徒弟们携手打拚，然而万里师的意外身亡，却让五秀园逐渐分崩离析。25年后，尘封的恩怨情仇再度浮现，曾经紧密如一的四人，最终也各自踏上不同的百味人生…</desc>
+  </programme>
+  <programme start="20260326013000 +0800" stop="20260326020000 +0800" channel="三立台湾台">
+    <title lang="zh">戏说台湾第6094集</title>
+    <desc lang="zh">天下合久必分，分久必合。举首问苍天，苍天无亟，民贱伏刍狗，狗甚幸。在这片土地上，流传著许多美丽动人的民间故事，它曾经过漫漫岁月的沉淀淬炼直到现在，这些故事依然守候在你我身边，散发出迷人的丰采。</desc>
+  </programme>
+  <programme start="20260326020000 +0800" stop="20260326030000 +0800" channel="三立台湾台">
+    <title lang="zh">健康零距离</title>
+    <desc lang="zh">《健康零距离》是兼具知识、新闻、专业与实用性的健康资讯节目，邀集优质中西医师、营养师、体适能专家等黄金阵容，以轻松聊天的方式，让观众无痛吸收健康知识，为大家解惑医疗迷思，打破网路健康谣言。还会教观众运用节令食材制作养生食疗，以及不同主题的健康小运动，现学现做一起顾健康!</desc>
+  </programme>
+  <programme start="20260326030000 +0800" stop="20260326040000 +0800" channel="三立台湾台">
+    <title lang="zh">宝岛神很大</title>
+    <desc lang="zh">三立爱台客创造"台潮"第一波最生活的民俗文化节目,让你亲近神的领域有趣味的民俗文化节目,要你说出Oh My God长知识的民俗文化节目,传承子孙不能忘本</desc>
+  </programme>
+  <programme start="20260326040000 +0800" stop="20260326050000 +0800" channel="三立台湾台">
+    <title lang="zh">一家人第369集</title>
+    <desc lang="zh">透过角色在爱情与婚姻里的迷茫纠结、跌宕起伏，终究必须做出抉择时，所展现的智慧与历练，让观众也能有所启发与净化....</desc>
+  </programme>
+  <programme start="20260326050000 +0800" stop="20260326060000 +0800" channel="三立台湾台">
+    <title lang="zh">三立晚间新闻</title>
+    <desc lang="zh">《三立晚间新闻》为三立台湾台电视新闻节目之一。2019年6月19日于晚间新闻起，启用全新摄影棚。</desc>
+  </programme>
+  <programme start="20260326060000 +0800" stop="20260326070000 +0800" channel="三立台湾台">
+    <title lang="zh">一家人第369集</title>
+    <desc lang="zh">透过角色在爱情与婚姻里的迷茫纠结、跌宕起伏，终究必须做出抉择时，所展现的智慧与历练，让观众也能有所启发与净化....</desc>
+  </programme>
+  <programme start="20260326070000 +0800" stop="20260326073000 +0800" channel="三立台湾台">
+    <title lang="zh">戏说台湾第6094集</title>
+    <desc lang="zh">天下合久必分，分久必合。举首问苍天，苍天无亟，民贱伏刍狗，狗甚幸。在这片土地上，流传著许多美丽动人的民间故事，它曾经过漫漫岁月的沉淀淬炼直到现在，这些故事依然守候在你我身边，散发出迷人的丰采。</desc>
+  </programme>
+  <programme start="20260326073000 +0800" stop="20260326083000 +0800" channel="三立台湾台">
+    <title lang="zh">健康零距离</title>
+    <desc lang="zh">《健康零距离》是兼具知识、新闻、专业与实用性的健康资讯节目，邀集优质中西医师、营养师、体适能专家等黄金阵容，以轻松聊天的方式，让观众无痛吸收健康知识，为大家解惑医疗迷思，打破网路健康谣言。还会教观众运用节令食材制作养生食疗，以及不同主题的健康小运动，现学现做一起顾健康!</desc>
+  </programme>
+  <programme start="20260326083000 +0800" stop="20260326093000 +0800" channel="三立台湾台">
+    <title lang="zh">宝岛神很大</title>
+    <desc lang="zh">三立爱台客创造"台潮"第一波最生活的民俗文化节目,让你亲近神的领域有趣味的民俗文化节目,要你说出Oh My God长知识的民俗文化节目,传承子孙不能忘本</desc>
+  </programme>
+  <programme start="20260326093000 +0800" stop="20260326100000 +0800" channel="三立台湾台">
+    <title lang="zh">亲家第93集</title>
+    <desc lang="zh">是部以「家」为出发点的故事，二个看似平凡的家，会衍生多少感人趣卫的故事？万事和跟王朝义俩个穿同一条裤子长大的老兄弟，即将结为亲家，关系更加密切，看万、王联姻会为二家带来什么趣味的婆媳过招？看万、王二家如何因联姻带来所谓美丽的误会？万家大女儿万世萍，烧得一手好菜，一心想要进入东升饭店当厨师，拿出师父朝义教的拿手好菜，让董事长罗昆城充满惊喜，但究竟发生了什么事导致让世萍落选？昆城明明欣赏世萍的手艺却为何不让世萍进饭店呢？两人之间到底有什么误解呢？「亲家」以最轻松、最简单的方式，成现基层小人物的酸甜苦辣...</desc>
+  </programme>
+  <programme start="20260326100000 +0800" stop="20260326110000 +0800" channel="三立台湾台">
+    <title lang="zh">健康零距离</title>
+    <desc lang="zh">《健康零距离》是兼具知识、新闻、专业与实用性的健康资讯节目，邀集优质中西医师、营养师、体适能专家等黄金阵容，以轻松聊天的方式，让观众无痛吸收健康知识，为大家解惑医疗迷思，打破网路健康谣言。还会教观众运用节令食材制作养生食疗，以及不同主题的健康小运动，现学现做一起顾健康!</desc>
+  </programme>
+  <programme start="20260326110000 +0800" stop="20260326113000 +0800" channel="三立台湾台">
+    <title lang="zh">戏说台湾第6094集</title>
+    <desc lang="zh">天下合久必分，分久必合。举首问苍天，苍天无亟，民贱伏刍狗，狗甚幸。在这片土地上，流传著许多美丽动人的民间故事，它曾经过漫漫岁月的沉淀淬炼直到现在，这些故事依然守候在你我身边，散发出迷人的丰采。</desc>
+  </programme>
+  <programme start="20260326113000 +0800" stop="20260326120000 +0800" channel="三立台湾台">
+    <title lang="zh">名医的餐桌</title>
+    <desc lang="zh">远离高血糖、肾病、癌症、骨松、脂肪肝、失智，名医身体力行的饮食法，90％健康是吃出来的，学名医正确吃，向慢性病说「不」！</desc>
+  </programme>
+  <programme start="20260326120000 +0800" stop="20260326124500 +0800" channel="三立台湾台">
+    <title lang="zh">三立午间新闻</title>
+    <desc lang="zh">《三立午间新闻》为三立台湾台电视新闻节目之一。</desc>
+  </programme>
+  <programme start="20260326124500 +0800" stop="20260326150000 +0800" channel="三立台湾台">
+    <title lang="zh">百味人生第155集</title>
+    <desc lang="zh">多彩城市，尝尽百味。三立台湾台全新八点档大戏《百味人生》以传奇餐厅「五秀园」为故事核心，由传奇总铺师「万里师」一手创立的知名餐厅《五秀园》，带领著身怀绝技的徒弟们携手打拚，然而万里师的意外身亡，却让五秀园逐渐分崩离析。25年后，尘封的恩怨情仇再度浮现，曾经紧密如一的四人，最终也各自踏上不同的百味人生…</desc>
+  </programme>
+  <programme start="20260326150000 +0800" stop="20260326160000 +0800" channel="三立台湾台">
+    <title lang="zh">宝岛神很大</title>
+    <desc lang="zh">三立爱台客创造"台潮"第一波最生活的民俗文化节目,让你亲近神的领域有趣味的民俗文化节目,要你说出Oh My God长知识的民俗文化节目,传承子孙不能忘本</desc>
+  </programme>
+  <programme start="20260326160000 +0800" stop="20260326170000 +0800" channel="三立台湾台">
+    <title lang="zh">健康零距离</title>
+    <desc lang="zh">《健康零距离》是兼具知识、新闻、专业与实用性的健康资讯节目，邀集优质中西医师、营养师、体适能专家等黄金阵容，以轻松聊天的方式，让观众无痛吸收健康知识，为大家解惑医疗迷思，打破网路健康谣言。还会教观众运用节令食材制作养生食疗，以及不同主题的健康小运动，现学现做一起顾健康!</desc>
+  </programme>
+  <programme start="20260326170000 +0800" stop="20260326180000 +0800" channel="三立台湾台">
+    <title lang="zh">一家人第370集</title>
+    <desc lang="zh">透过角色在爱情与婚姻里的迷茫纠结、跌宕起伏，终究必须做出抉择时，所展现的智慧与历练，让观众也能有所启发与净化....</desc>
+  </programme>
+  <programme start="20260326180000 +0800" stop="20260326190000 +0800" channel="三立台湾台">
+    <title lang="zh">三立晚间新闻</title>
+    <desc lang="zh">《三立晚间新闻》为三立台湾台电视新闻节目之一。2019年6月19日于晚间新闻起，启用全新摄影棚。</desc>
+  </programme>
+  <programme start="20260326190000 +0800" stop="20260326193000 +0800" channel="三立台湾台">
+    <title lang="zh">亲家第94集</title>
+    <desc lang="zh">是部以「家」为出发点的故事，二个看似平凡的家，会衍生多少感人趣卫的故事？万事和跟王朝义俩个穿同一条裤子长大的老兄弟，即将结为亲家，关系更加密切，看万、王联姻会为二家带来什么趣味的婆媳过招？看万、王二家如何因联姻带来所谓美丽的误会？万家大女儿万世萍，烧得一手好菜，一心想要进入东升饭店当厨师，拿出师父朝义教的拿手好菜，让董事长罗昆城充满惊喜，但究竟发生了什么事导致让世萍落选？昆城明明欣赏世萍的手艺却为何不让世萍进饭店呢？两人之间到底有什么误解呢？「亲家」以最轻松、最简单的方式，成现基层小人物的酸甜苦辣...</desc>
+  </programme>
+  <programme start="20260326193000 +0800" stop="20260326200000 +0800" channel="三立台湾台">
+    <title lang="zh">戏说台湾第6095集</title>
+    <desc lang="zh">天下合久必分，分久必合。举首问苍天，苍天无亟，民贱伏刍狗，狗甚幸。在这片土地上，流传著许多美丽动人的民间故事，它曾经过漫漫岁月的沉淀淬炼直到现在，这些故事依然守候在你我身边，散发出迷人的丰采。</desc>
+  </programme>
+  <programme start="20260326200000 +0800" stop="20260326221500 +0800" channel="三立台湾台">
+    <title lang="zh">百味人生第156集</title>
+    <desc lang="zh">多彩城市，尝尽百味。三立台湾台全新八点档大戏《百味人生》以传奇餐厅「五秀园」为故事核心，由传奇总铺师「万里师」一手创立的知名餐厅《五秀园》，带领著身怀绝技的徒弟们携手打拚，然而万里师的意外身亡，却让五秀园逐渐分崩离析。25年后，尘封的恩怨情仇再度浮现，曾经紧密如一的四人，最终也各自踏上不同的百味人生…</desc>
+  </programme>
+  <programme start="20260326221500 +0800" stop="20260326231500 +0800" channel="三立台湾台">
+    <title lang="zh">爱玩客之移动厨房</title>
+    <desc lang="zh">玩在工作，爱在生活，我就是爱玩客！ 李易、大马艺人温慧茵与培永在「马六甲」，颜永烈与大马女神林明祯在「台南」，品尝两地美食，更分别料理自己的家乡菜与对方分享，并前往台中花博，接受当地货柜摊商委托，制作花博料理，主食材为台中特有天曲猪，等级媲美鹿儿岛黑毛和牛，发挥厨艺结合创意，以花料理征服现场民众。</desc>
+  </programme>
+  <programme start="20260326231500 +0800" stop="20260327013000 +0800" channel="三立台湾台">
+    <title lang="zh">百味人生第156集</title>
+    <desc lang="zh">多彩城市，尝尽百味。三立台湾台全新八点档大戏《百味人生》以传奇餐厅「五秀园」为故事核心，由传奇总铺师「万里师」一手创立的知名餐厅《五秀园》，带领著身怀绝技的徒弟们携手打拚，然而万里师的意外身亡，却让五秀园逐渐分崩离析。25年后，尘封的恩怨情仇再度浮现，曾经紧密如一的四人，最终也各自踏上不同的百味人生…</desc>
+  </programme>
   <programme start="20260325000000 +0800" stop="20260325005000 +0800" channel="韩国娱乐KMTV">
     <title lang="zh">来自星星的你第16集</title>
     <desc lang="zh">该剧讲述了从外星来到朝鲜时代至400年后的现代的神秘男人都敏俊，与身为国民顶级女演员的千颂伊陷入爱情的过程，不同星球的两人消除彼此之间的误解，克服危险追寻真爱的浪漫爱情故事。</desc>
@@ -303143,6 +303219,198 @@
   <programme start="20260326230000 +0800" stop="20260327000000 +0800" channel="东森购物2台">
     <title lang="zh">东森购物2台</title>
     <desc lang="zh">东森购物台24小时节目播放，遵循诚信、亲切、专业、创新，的价值观，提供众多物美价廉的商品和服务。</desc>
+  </programme>
+  <programme start="20260325000000 +0800" stop="20260325010000 +0800" channel="momo2台">
+    <title lang="zh">MOMO 2台</title>
+    <desc lang="zh">momo购物台24小时节目播放，遵循诚信、亲切、专业、创新，的价值观，提供众多物美价廉的商品和服务。</desc>
+  </programme>
+  <programme start="20260325010000 +0800" stop="20260325020000 +0800" channel="momo2台">
+    <title lang="zh">MOMO 2台</title>
+    <desc lang="zh">momo购物台24小时节目播放，遵循诚信、亲切、专业、创新，的价值观，提供众多物美价廉的商品和服务。</desc>
+  </programme>
+  <programme start="20260325020000 +0800" stop="20260325030000 +0800" channel="momo2台">
+    <title lang="zh">MOMO 2台</title>
+    <desc lang="zh">momo购物台24小时节目播放，遵循诚信、亲切、专业、创新，的价值观，提供众多物美价廉的商品和服务。</desc>
+  </programme>
+  <programme start="20260325030000 +0800" stop="20260325040000 +0800" channel="momo2台">
+    <title lang="zh">MOMO 2台</title>
+    <desc lang="zh">momo购物台24小时节目播放，遵循诚信、亲切、专业、创新，的价值观，提供众多物美价廉的商品和服务。</desc>
+  </programme>
+  <programme start="20260325040000 +0800" stop="20260325050000 +0800" channel="momo2台">
+    <title lang="zh">MOMO 2台</title>
+    <desc lang="zh">momo购物台24小时节目播放，遵循诚信、亲切、专业、创新，的价值观，提供众多物美价廉的商品和服务。</desc>
+  </programme>
+  <programme start="20260325050000 +0800" stop="20260325060000 +0800" channel="momo2台">
+    <title lang="zh">MOMO 2台</title>
+    <desc lang="zh">momo购物台24小时节目播放，遵循诚信、亲切、专业、创新，的价值观，提供众多物美价廉的商品和服务。</desc>
+  </programme>
+  <programme start="20260325060000 +0800" stop="20260325070000 +0800" channel="momo2台">
+    <title lang="zh">MOMO 2台</title>
+    <desc lang="zh">momo购物台24小时节目播放，遵循诚信、亲切、专业、创新，的价值观，提供众多物美价廉的商品和服务。</desc>
+  </programme>
+  <programme start="20260325070000 +0800" stop="20260325080000 +0800" channel="momo2台">
+    <title lang="zh">MOMO 2台</title>
+    <desc lang="zh">momo购物台24小时节目播放，遵循诚信、亲切、专业、创新，的价值观，提供众多物美价廉的商品和服务。</desc>
+  </programme>
+  <programme start="20260325080000 +0800" stop="20260325090000 +0800" channel="momo2台">
+    <title lang="zh">MOMO 2台</title>
+    <desc lang="zh">momo购物台24小时节目播放，遵循诚信、亲切、专业、创新，的价值观，提供众多物美价廉的商品和服务。</desc>
+  </programme>
+  <programme start="20260325090000 +0800" stop="20260325100000 +0800" channel="momo2台">
+    <title lang="zh">MOMO 2台</title>
+    <desc lang="zh">momo购物台24小时节目播放，遵循诚信、亲切、专业、创新，的价值观，提供众多物美价廉的商品和服务。</desc>
+  </programme>
+  <programme start="20260325100000 +0800" stop="20260325110000 +0800" channel="momo2台">
+    <title lang="zh">MOMO 2台</title>
+    <desc lang="zh">momo购物台24小时节目播放，遵循诚信、亲切、专业、创新，的价值观，提供众多物美价廉的商品和服务。</desc>
+  </programme>
+  <programme start="20260325110000 +0800" stop="20260325120000 +0800" channel="momo2台">
+    <title lang="zh">MOMO 2台</title>
+    <desc lang="zh">momo购物台24小时节目播放，遵循诚信、亲切、专业、创新，的价值观，提供众多物美价廉的商品和服务。</desc>
+  </programme>
+  <programme start="20260325120000 +0800" stop="20260325130000 +0800" channel="momo2台">
+    <title lang="zh">MOMO 2台</title>
+    <desc lang="zh">momo购物台24小时节目播放，遵循诚信、亲切、专业、创新，的价值观，提供众多物美价廉的商品和服务。</desc>
+  </programme>
+  <programme start="20260325130000 +0800" stop="20260325140000 +0800" channel="momo2台">
+    <title lang="zh">MOMO 2台</title>
+    <desc lang="zh">momo购物台24小时节目播放，遵循诚信、亲切、专业、创新，的价值观，提供众多物美价廉的商品和服务。</desc>
+  </programme>
+  <programme start="20260325140000 +0800" stop="20260325150000 +0800" channel="momo2台">
+    <title lang="zh">MOMO 2台</title>
+    <desc lang="zh">momo购物台24小时节目播放，遵循诚信、亲切、专业、创新，的价值观，提供众多物美价廉的商品和服务。</desc>
+  </programme>
+  <programme start="20260325150000 +0800" stop="20260325160000 +0800" channel="momo2台">
+    <title lang="zh">MOMO 2台</title>
+    <desc lang="zh">momo购物台24小时节目播放，遵循诚信、亲切、专业、创新，的价值观，提供众多物美价廉的商品和服务。</desc>
+  </programme>
+  <programme start="20260325160000 +0800" stop="20260325170000 +0800" channel="momo2台">
+    <title lang="zh">MOMO 2台</title>
+    <desc lang="zh">momo购物台24小时节目播放，遵循诚信、亲切、专业、创新，的价值观，提供众多物美价廉的商品和服务。</desc>
+  </programme>
+  <programme start="20260325170000 +0800" stop="20260325180000 +0800" channel="momo2台">
+    <title lang="zh">MOMO 2台</title>
+    <desc lang="zh">momo购物台24小时节目播放，遵循诚信、亲切、专业、创新，的价值观，提供众多物美价廉的商品和服务。</desc>
+  </programme>
+  <programme start="20260325180000 +0800" stop="20260325190000 +0800" channel="momo2台">
+    <title lang="zh">MOMO 2台</title>
+    <desc lang="zh">momo购物台24小时节目播放，遵循诚信、亲切、专业、创新，的价值观，提供众多物美价廉的商品和服务。</desc>
+  </programme>
+  <programme start="20260325190000 +0800" stop="20260325200000 +0800" channel="momo2台">
+    <title lang="zh">MOMO 2台</title>
+    <desc lang="zh">momo购物台24小时节目播放，遵循诚信、亲切、专业、创新，的价值观，提供众多物美价廉的商品和服务。</desc>
+  </programme>
+  <programme start="20260325200000 +0800" stop="20260325210000 +0800" channel="momo2台">
+    <title lang="zh">MOMO 2台</title>
+    <desc lang="zh">momo购物台24小时节目播放，遵循诚信、亲切、专业、创新，的价值观，提供众多物美价廉的商品和服务。</desc>
+  </programme>
+  <programme start="20260325210000 +0800" stop="20260325220000 +0800" channel="momo2台">
+    <title lang="zh">MOMO 2台</title>
+    <desc lang="zh">momo购物台24小时节目播放，遵循诚信、亲切、专业、创新，的价值观，提供众多物美价廉的商品和服务。</desc>
+  </programme>
+  <programme start="20260325220000 +0800" stop="20260325230000 +0800" channel="momo2台">
+    <title lang="zh">MOMO 2台</title>
+    <desc lang="zh">momo购物台24小时节目播放，遵循诚信、亲切、专业、创新，的价值观，提供众多物美价廉的商品和服务。</desc>
+  </programme>
+  <programme start="20260325230000 +0800" stop="20260326000000 +0800" channel="momo2台">
+    <title lang="zh">MOMO 2台</title>
+    <desc lang="zh">momo购物台24小时节目播放，遵循诚信、亲切、专业、创新，的价值观，提供众多物美价廉的商品和服务。</desc>
+  </programme>
+  <programme start="20260326000000 +0800" stop="20260326010000 +0800" channel="momo2台">
+    <title lang="zh">MOMO 2台</title>
+    <desc lang="zh">momo购物台24小时节目播放，遵循诚信、亲切、专业、创新，的价值观，提供众多物美价廉的商品和服务。</desc>
+  </programme>
+  <programme start="20260326010000 +0800" stop="20260326020000 +0800" channel="momo2台">
+    <title lang="zh">MOMO 2台</title>
+    <desc lang="zh">momo购物台24小时节目播放，遵循诚信、亲切、专业、创新，的价值观，提供众多物美价廉的商品和服务。</desc>
+  </programme>
+  <programme start="20260326020000 +0800" stop="20260326030000 +0800" channel="momo2台">
+    <title lang="zh">MOMO 2台</title>
+    <desc lang="zh">momo购物台24小时节目播放，遵循诚信、亲切、专业、创新，的价值观，提供众多物美价廉的商品和服务。</desc>
+  </programme>
+  <programme start="20260326030000 +0800" stop="20260326040000 +0800" channel="momo2台">
+    <title lang="zh">MOMO 2台</title>
+    <desc lang="zh">momo购物台24小时节目播放，遵循诚信、亲切、专业、创新，的价值观，提供众多物美价廉的商品和服务。</desc>
+  </programme>
+  <programme start="20260326040000 +0800" stop="20260326050000 +0800" channel="momo2台">
+    <title lang="zh">MOMO 2台</title>
+    <desc lang="zh">momo购物台24小时节目播放，遵循诚信、亲切、专业、创新，的价值观，提供众多物美价廉的商品和服务。</desc>
+  </programme>
+  <programme start="20260326050000 +0800" stop="20260326060000 +0800" channel="momo2台">
+    <title lang="zh">MOMO 2台</title>
+    <desc lang="zh">momo购物台24小时节目播放，遵循诚信、亲切、专业、创新，的价值观，提供众多物美价廉的商品和服务。</desc>
+  </programme>
+  <programme start="20260326060000 +0800" stop="20260326070000 +0800" channel="momo2台">
+    <title lang="zh">MOMO 2台</title>
+    <desc lang="zh">momo购物台24小时节目播放，遵循诚信、亲切、专业、创新，的价值观，提供众多物美价廉的商品和服务。</desc>
+  </programme>
+  <programme start="20260326070000 +0800" stop="20260326080000 +0800" channel="momo2台">
+    <title lang="zh">MOMO 2台</title>
+    <desc lang="zh">momo购物台24小时节目播放，遵循诚信、亲切、专业、创新，的价值观，提供众多物美价廉的商品和服务。</desc>
+  </programme>
+  <programme start="20260326080000 +0800" stop="20260326090000 +0800" channel="momo2台">
+    <title lang="zh">MOMO 2台</title>
+    <desc lang="zh">momo购物台24小时节目播放，遵循诚信、亲切、专业、创新，的价值观，提供众多物美价廉的商品和服务。</desc>
+  </programme>
+  <programme start="20260326090000 +0800" stop="20260326100000 +0800" channel="momo2台">
+    <title lang="zh">MOMO 2台</title>
+    <desc lang="zh">momo购物台24小时节目播放，遵循诚信、亲切、专业、创新，的价值观，提供众多物美价廉的商品和服务。</desc>
+  </programme>
+  <programme start="20260326100000 +0800" stop="20260326110000 +0800" channel="momo2台">
+    <title lang="zh">MOMO 2台</title>
+    <desc lang="zh">momo购物台24小时节目播放，遵循诚信、亲切、专业、创新，的价值观，提供众多物美价廉的商品和服务。</desc>
+  </programme>
+  <programme start="20260326110000 +0800" stop="20260326120000 +0800" channel="momo2台">
+    <title lang="zh">MOMO 2台</title>
+    <desc lang="zh">momo购物台24小时节目播放，遵循诚信、亲切、专业、创新，的价值观，提供众多物美价廉的商品和服务。</desc>
+  </programme>
+  <programme start="20260326120000 +0800" stop="20260326130000 +0800" channel="momo2台">
+    <title lang="zh">MOMO 2台</title>
+    <desc lang="zh">momo购物台24小时节目播放，遵循诚信、亲切、专业、创新，的价值观，提供众多物美价廉的商品和服务。</desc>
+  </programme>
+  <programme start="20260326130000 +0800" stop="20260326140000 +0800" channel="momo2台">
+    <title lang="zh">MOMO 2台</title>
+    <desc lang="zh">momo购物台24小时节目播放，遵循诚信、亲切、专业、创新，的价值观，提供众多物美价廉的商品和服务。</desc>
+  </programme>
+  <programme start="20260326140000 +0800" stop="20260326150000 +0800" channel="momo2台">
+    <title lang="zh">MOMO 2台</title>
+    <desc lang="zh">momo购物台24小时节目播放，遵循诚信、亲切、专业、创新，的价值观，提供众多物美价廉的商品和服务。</desc>
+  </programme>
+  <programme start="20260326150000 +0800" stop="20260326160000 +0800" channel="momo2台">
+    <title lang="zh">MOMO 2台</title>
+    <desc lang="zh">momo购物台24小时节目播放，遵循诚信、亲切、专业、创新，的价值观，提供众多物美价廉的商品和服务。</desc>
+  </programme>
+  <programme start="20260326160000 +0800" stop="20260326170000 +0800" channel="momo2台">
+    <title lang="zh">MOMO 2台</title>
+    <desc lang="zh">momo购物台24小时节目播放，遵循诚信、亲切、专业、创新，的价值观，提供众多物美价廉的商品和服务。</desc>
+  </programme>
+  <programme start="20260326170000 +0800" stop="20260326180000 +0800" channel="momo2台">
+    <title lang="zh">MOMO 2台</title>
+    <desc lang="zh">momo购物台24小时节目播放，遵循诚信、亲切、专业、创新，的价值观，提供众多物美价廉的商品和服务。</desc>
+  </programme>
+  <programme start="20260326180000 +0800" stop="20260326190000 +0800" channel="momo2台">
+    <title lang="zh">MOMO 2台</title>
+    <desc lang="zh">momo购物台24小时节目播放，遵循诚信、亲切、专业、创新，的价值观，提供众多物美价廉的商品和服务。</desc>
+  </programme>
+  <programme start="20260326190000 +0800" stop="20260326200000 +0800" channel="momo2台">
+    <title lang="zh">MOMO 2台</title>
+    <desc lang="zh">momo购物台24小时节目播放，遵循诚信、亲切、专业、创新，的价值观，提供众多物美价廉的商品和服务。</desc>
+  </programme>
+  <programme start="20260326200000 +0800" stop="20260326210000 +0800" channel="momo2台">
+    <title lang="zh">MOMO 2台</title>
+    <desc lang="zh">momo购物台24小时节目播放，遵循诚信、亲切、专业、创新，的价值观，提供众多物美价廉的商品和服务。</desc>
+  </programme>
+  <programme start="20260326210000 +0800" stop="20260326220000 +0800" channel="momo2台">
+    <title lang="zh">MOMO 2台</title>
+    <desc lang="zh">momo购物台24小时节目播放，遵循诚信、亲切、专业、创新，的价值观，提供众多物美价廉的商品和服务。</desc>
+  </programme>
+  <programme start="20260326220000 +0800" stop="20260326230000 +0800" channel="momo2台">
+    <title lang="zh">MOMO 2台</title>
+    <desc lang="zh">momo购物台24小时节目播放，遵循诚信、亲切、专业、创新，的价值观，提供众多物美价廉的商品和服务。</desc>
+  </programme>
+  <programme start="20260326230000 +0800" stop="20260327000000 +0800" channel="momo2台">
+    <title lang="zh">MOMO 2台</title>
+    <desc lang="zh">momo购物台24小时节目播放，遵循诚信、亲切、专业、创新，的价值观，提供众多物美价廉的商品和服务。</desc>
   </programme>
   <programme start="20260325000000 +0800" stop="20260325010000 +0800" channel="中天综合台">
     <title lang="zh">综艺OK啦第2季:第36集</title>
@@ -304680,6 +304948,198 @@
     <title lang="zh">沉香如屑第27集</title>
     <desc lang="zh">三名好友结伴进行惊滔骇浪的仙侠奇遇任务，在过程中寻回自己失去的前尘记忆，以及缠绵数千年的悲恋命运。</desc>
   </programme>
+  <programme start="20260325000000 +0800" stop="20260325010000 +0800" channel="东森购物3台">
+    <title lang="zh">东森购物3台</title>
+    <desc lang="zh">东森购物3台是东森电视旗下的购物频道，于2015年10月1日开播。东森购物3台主要播出家电、3C、健康、美妆、服饰等商品，并提供线上购物服务。</desc>
+  </programme>
+  <programme start="20260325010000 +0800" stop="20260325020000 +0800" channel="东森购物3台">
+    <title lang="zh">东森购物3台</title>
+    <desc lang="zh">东森购物3台是东森电视旗下的购物频道，于2015年10月1日开播。东森购物3台主要播出家电、3C、健康、美妆、服饰等商品，并提供线上购物服务。</desc>
+  </programme>
+  <programme start="20260325020000 +0800" stop="20260325030000 +0800" channel="东森购物3台">
+    <title lang="zh">东森购物3台</title>
+    <desc lang="zh">东森购物3台是东森电视旗下的购物频道，于2015年10月1日开播。东森购物3台主要播出家电、3C、健康、美妆、服饰等商品，并提供线上购物服务。</desc>
+  </programme>
+  <programme start="20260325030000 +0800" stop="20260325040000 +0800" channel="东森购物3台">
+    <title lang="zh">东森购物3台</title>
+    <desc lang="zh">东森购物3台是东森电视旗下的购物频道，于2015年10月1日开播。东森购物3台主要播出家电、3C、健康、美妆、服饰等商品，并提供线上购物服务。</desc>
+  </programme>
+  <programme start="20260325040000 +0800" stop="20260325050000 +0800" channel="东森购物3台">
+    <title lang="zh">东森购物3台</title>
+    <desc lang="zh">东森购物3台是东森电视旗下的购物频道，于2015年10月1日开播。东森购物3台主要播出家电、3C、健康、美妆、服饰等商品，并提供线上购物服务。</desc>
+  </programme>
+  <programme start="20260325050000 +0800" stop="20260325060000 +0800" channel="东森购物3台">
+    <title lang="zh">东森购物3台</title>
+    <desc lang="zh">东森购物3台是东森电视旗下的购物频道，于2015年10月1日开播。东森购物3台主要播出家电、3C、健康、美妆、服饰等商品，并提供线上购物服务。</desc>
+  </programme>
+  <programme start="20260325060000 +0800" stop="20260325070000 +0800" channel="东森购物3台">
+    <title lang="zh">东森购物3台</title>
+    <desc lang="zh">东森购物3台是东森电视旗下的购物频道，于2015年10月1日开播。东森购物3台主要播出家电、3C、健康、美妆、服饰等商品，并提供线上购物服务。</desc>
+  </programme>
+  <programme start="20260325070000 +0800" stop="20260325080000 +0800" channel="东森购物3台">
+    <title lang="zh">东森购物3台</title>
+    <desc lang="zh">东森购物3台是东森电视旗下的购物频道，于2015年10月1日开播。东森购物3台主要播出家电、3C、健康、美妆、服饰等商品，并提供线上购物服务。</desc>
+  </programme>
+  <programme start="20260325080000 +0800" stop="20260325090000 +0800" channel="东森购物3台">
+    <title lang="zh">东森购物3台</title>
+    <desc lang="zh">东森购物3台是东森电视旗下的购物频道，于2015年10月1日开播。东森购物3台主要播出家电、3C、健康、美妆、服饰等商品，并提供线上购物服务。</desc>
+  </programme>
+  <programme start="20260325090000 +0800" stop="20260325100000 +0800" channel="东森购物3台">
+    <title lang="zh">东森购物3台</title>
+    <desc lang="zh">东森购物3台是东森电视旗下的购物频道，于2015年10月1日开播。东森购物3台主要播出家电、3C、健康、美妆、服饰等商品，并提供线上购物服务。</desc>
+  </programme>
+  <programme start="20260325100000 +0800" stop="20260325110000 +0800" channel="东森购物3台">
+    <title lang="zh">东森购物3台</title>
+    <desc lang="zh">东森购物3台是东森电视旗下的购物频道，于2015年10月1日开播。东森购物3台主要播出家电、3C、健康、美妆、服饰等商品，并提供线上购物服务。</desc>
+  </programme>
+  <programme start="20260325110000 +0800" stop="20260325120000 +0800" channel="东森购物3台">
+    <title lang="zh">东森购物3台</title>
+    <desc lang="zh">东森购物3台是东森电视旗下的购物频道，于2015年10月1日开播。东森购物3台主要播出家电、3C、健康、美妆、服饰等商品，并提供线上购物服务。</desc>
+  </programme>
+  <programme start="20260325120000 +0800" stop="20260325130000 +0800" channel="东森购物3台">
+    <title lang="zh">东森购物3台</title>
+    <desc lang="zh">东森购物3台是东森电视旗下的购物频道，于2015年10月1日开播。东森购物3台主要播出家电、3C、健康、美妆、服饰等商品，并提供线上购物服务。</desc>
+  </programme>
+  <programme start="20260325130000 +0800" stop="20260325140000 +0800" channel="东森购物3台">
+    <title lang="zh">东森购物3台</title>
+    <desc lang="zh">东森购物3台是东森电视旗下的购物频道，于2015年10月1日开播。东森购物3台主要播出家电、3C、健康、美妆、服饰等商品，并提供线上购物服务。</desc>
+  </programme>
+  <programme start="20260325140000 +0800" stop="20260325150000 +0800" channel="东森购物3台">
+    <title lang="zh">东森购物3台</title>
+    <desc lang="zh">东森购物3台是东森电视旗下的购物频道，于2015年10月1日开播。东森购物3台主要播出家电、3C、健康、美妆、服饰等商品，并提供线上购物服务。</desc>
+  </programme>
+  <programme start="20260325150000 +0800" stop="20260325160000 +0800" channel="东森购物3台">
+    <title lang="zh">东森购物3台</title>
+    <desc lang="zh">东森购物3台是东森电视旗下的购物频道，于2015年10月1日开播。东森购物3台主要播出家电、3C、健康、美妆、服饰等商品，并提供线上购物服务。</desc>
+  </programme>
+  <programme start="20260325160000 +0800" stop="20260325170000 +0800" channel="东森购物3台">
+    <title lang="zh">东森购物3台</title>
+    <desc lang="zh">东森购物3台是东森电视旗下的购物频道，于2015年10月1日开播。东森购物3台主要播出家电、3C、健康、美妆、服饰等商品，并提供线上购物服务。</desc>
+  </programme>
+  <programme start="20260325170000 +0800" stop="20260325180000 +0800" channel="东森购物3台">
+    <title lang="zh">东森购物3台</title>
+    <desc lang="zh">东森购物3台是东森电视旗下的购物频道，于2015年10月1日开播。东森购物3台主要播出家电、3C、健康、美妆、服饰等商品，并提供线上购物服务。</desc>
+  </programme>
+  <programme start="20260325180000 +0800" stop="20260325190000 +0800" channel="东森购物3台">
+    <title lang="zh">东森购物3台</title>
+    <desc lang="zh">东森购物3台是东森电视旗下的购物频道，于2015年10月1日开播。东森购物3台主要播出家电、3C、健康、美妆、服饰等商品，并提供线上购物服务。</desc>
+  </programme>
+  <programme start="20260325190000 +0800" stop="20260325200000 +0800" channel="东森购物3台">
+    <title lang="zh">东森购物3台</title>
+    <desc lang="zh">东森购物3台是东森电视旗下的购物频道，于2015年10月1日开播。东森购物3台主要播出家电、3C、健康、美妆、服饰等商品，并提供线上购物服务。</desc>
+  </programme>
+  <programme start="20260325200000 +0800" stop="20260325210000 +0800" channel="东森购物3台">
+    <title lang="zh">东森购物3台</title>
+    <desc lang="zh">东森购物3台是东森电视旗下的购物频道，于2015年10月1日开播。东森购物3台主要播出家电、3C、健康、美妆、服饰等商品，并提供线上购物服务。</desc>
+  </programme>
+  <programme start="20260325210000 +0800" stop="20260325220000 +0800" channel="东森购物3台">
+    <title lang="zh">东森购物3台</title>
+    <desc lang="zh">东森购物3台是东森电视旗下的购物频道，于2015年10月1日开播。东森购物3台主要播出家电、3C、健康、美妆、服饰等商品，并提供线上购物服务。</desc>
+  </programme>
+  <programme start="20260325220000 +0800" stop="20260325230000 +0800" channel="东森购物3台">
+    <title lang="zh">东森购物3台</title>
+    <desc lang="zh">东森购物3台是东森电视旗下的购物频道，于2015年10月1日开播。东森购物3台主要播出家电、3C、健康、美妆、服饰等商品，并提供线上购物服务。</desc>
+  </programme>
+  <programme start="20260325230000 +0800" stop="20260326000000 +0800" channel="东森购物3台">
+    <title lang="zh">东森购物3台</title>
+    <desc lang="zh">东森购物3台是东森电视旗下的购物频道，于2015年10月1日开播。东森购物3台主要播出家电、3C、健康、美妆、服饰等商品，并提供线上购物服务。</desc>
+  </programme>
+  <programme start="20260326000000 +0800" stop="20260326010000 +0800" channel="东森购物3台">
+    <title lang="zh">东森购物3台</title>
+    <desc lang="zh">东森购物3台是东森电视旗下的购物频道，于2015年10月1日开播。东森购物3台主要播出家电、3C、健康、美妆、服饰等商品，并提供线上购物服务。</desc>
+  </programme>
+  <programme start="20260326010000 +0800" stop="20260326020000 +0800" channel="东森购物3台">
+    <title lang="zh">东森购物3台</title>
+    <desc lang="zh">东森购物3台是东森电视旗下的购物频道，于2015年10月1日开播。东森购物3台主要播出家电、3C、健康、美妆、服饰等商品，并提供线上购物服务。</desc>
+  </programme>
+  <programme start="20260326020000 +0800" stop="20260326030000 +0800" channel="东森购物3台">
+    <title lang="zh">东森购物3台</title>
+    <desc lang="zh">东森购物3台是东森电视旗下的购物频道，于2015年10月1日开播。东森购物3台主要播出家电、3C、健康、美妆、服饰等商品，并提供线上购物服务。</desc>
+  </programme>
+  <programme start="20260326030000 +0800" stop="20260326040000 +0800" channel="东森购物3台">
+    <title lang="zh">东森购物3台</title>
+    <desc lang="zh">东森购物3台是东森电视旗下的购物频道，于2015年10月1日开播。东森购物3台主要播出家电、3C、健康、美妆、服饰等商品，并提供线上购物服务。</desc>
+  </programme>
+  <programme start="20260326040000 +0800" stop="20260326050000 +0800" channel="东森购物3台">
+    <title lang="zh">东森购物3台</title>
+    <desc lang="zh">东森购物3台是东森电视旗下的购物频道，于2015年10月1日开播。东森购物3台主要播出家电、3C、健康、美妆、服饰等商品，并提供线上购物服务。</desc>
+  </programme>
+  <programme start="20260326050000 +0800" stop="20260326060000 +0800" channel="东森购物3台">
+    <title lang="zh">东森购物3台</title>
+    <desc lang="zh">东森购物3台是东森电视旗下的购物频道，于2015年10月1日开播。东森购物3台主要播出家电、3C、健康、美妆、服饰等商品，并提供线上购物服务。</desc>
+  </programme>
+  <programme start="20260326060000 +0800" stop="20260326070000 +0800" channel="东森购物3台">
+    <title lang="zh">东森购物3台</title>
+    <desc lang="zh">东森购物3台是东森电视旗下的购物频道，于2015年10月1日开播。东森购物3台主要播出家电、3C、健康、美妆、服饰等商品，并提供线上购物服务。</desc>
+  </programme>
+  <programme start="20260326070000 +0800" stop="20260326080000 +0800" channel="东森购物3台">
+    <title lang="zh">东森购物3台</title>
+    <desc lang="zh">东森购物3台是东森电视旗下的购物频道，于2015年10月1日开播。东森购物3台主要播出家电、3C、健康、美妆、服饰等商品，并提供线上购物服务。</desc>
+  </programme>
+  <programme start="20260326080000 +0800" stop="20260326090000 +0800" channel="东森购物3台">
+    <title lang="zh">东森购物3台</title>
+    <desc lang="zh">东森购物3台是东森电视旗下的购物频道，于2015年10月1日开播。东森购物3台主要播出家电、3C、健康、美妆、服饰等商品，并提供线上购物服务。</desc>
+  </programme>
+  <programme start="20260326090000 +0800" stop="20260326100000 +0800" channel="东森购物3台">
+    <title lang="zh">东森购物3台</title>
+    <desc lang="zh">东森购物3台是东森电视旗下的购物频道，于2015年10月1日开播。东森购物3台主要播出家电、3C、健康、美妆、服饰等商品，并提供线上购物服务。</desc>
+  </programme>
+  <programme start="20260326100000 +0800" stop="20260326110000 +0800" channel="东森购物3台">
+    <title lang="zh">东森购物3台</title>
+    <desc lang="zh">东森购物3台是东森电视旗下的购物频道，于2015年10月1日开播。东森购物3台主要播出家电、3C、健康、美妆、服饰等商品，并提供线上购物服务。</desc>
+  </programme>
+  <programme start="20260326110000 +0800" stop="20260326120000 +0800" channel="东森购物3台">
+    <title lang="zh">东森购物3台</title>
+    <desc lang="zh">东森购物3台是东森电视旗下的购物频道，于2015年10月1日开播。东森购物3台主要播出家电、3C、健康、美妆、服饰等商品，并提供线上购物服务。</desc>
+  </programme>
+  <programme start="20260326120000 +0800" stop="20260326130000 +0800" channel="东森购物3台">
+    <title lang="zh">东森购物3台</title>
+    <desc lang="zh">东森购物3台是东森电视旗下的购物频道，于2015年10月1日开播。东森购物3台主要播出家电、3C、健康、美妆、服饰等商品，并提供线上购物服务。</desc>
+  </programme>
+  <programme start="20260326130000 +0800" stop="20260326140000 +0800" channel="东森购物3台">
+    <title lang="zh">东森购物3台</title>
+    <desc lang="zh">东森购物3台是东森电视旗下的购物频道，于2015年10月1日开播。东森购物3台主要播出家电、3C、健康、美妆、服饰等商品，并提供线上购物服务。</desc>
+  </programme>
+  <programme start="20260326140000 +0800" stop="20260326150000 +0800" channel="东森购物3台">
+    <title lang="zh">东森购物3台</title>
+    <desc lang="zh">东森购物3台是东森电视旗下的购物频道，于2015年10月1日开播。东森购物3台主要播出家电、3C、健康、美妆、服饰等商品，并提供线上购物服务。</desc>
+  </programme>
+  <programme start="20260326150000 +0800" stop="20260326160000 +0800" channel="东森购物3台">
+    <title lang="zh">东森购物3台</title>
+    <desc lang="zh">东森购物3台是东森电视旗下的购物频道，于2015年10月1日开播。东森购物3台主要播出家电、3C、健康、美妆、服饰等商品，并提供线上购物服务。</desc>
+  </programme>
+  <programme start="20260326160000 +0800" stop="20260326170000 +0800" channel="东森购物3台">
+    <title lang="zh">东森购物3台</title>
+    <desc lang="zh">东森购物3台是东森电视旗下的购物频道，于2015年10月1日开播。东森购物3台主要播出家电、3C、健康、美妆、服饰等商品，并提供线上购物服务。</desc>
+  </programme>
+  <programme start="20260326170000 +0800" stop="20260326180000 +0800" channel="东森购物3台">
+    <title lang="zh">东森购物3台</title>
+    <desc lang="zh">东森购物3台是东森电视旗下的购物频道，于2015年10月1日开播。东森购物3台主要播出家电、3C、健康、美妆、服饰等商品，并提供线上购物服务。</desc>
+  </programme>
+  <programme start="20260326180000 +0800" stop="20260326190000 +0800" channel="东森购物3台">
+    <title lang="zh">东森购物3台</title>
+    <desc lang="zh">东森购物3台是东森电视旗下的购物频道，于2015年10月1日开播。东森购物3台主要播出家电、3C、健康、美妆、服饰等商品，并提供线上购物服务。</desc>
+  </programme>
+  <programme start="20260326190000 +0800" stop="20260326200000 +0800" channel="东森购物3台">
+    <title lang="zh">东森购物3台</title>
+    <desc lang="zh">东森购物3台是东森电视旗下的购物频道，于2015年10月1日开播。东森购物3台主要播出家电、3C、健康、美妆、服饰等商品，并提供线上购物服务。</desc>
+  </programme>
+  <programme start="20260326200000 +0800" stop="20260326210000 +0800" channel="东森购物3台">
+    <title lang="zh">东森购物3台</title>
+    <desc lang="zh">东森购物3台是东森电视旗下的购物频道，于2015年10月1日开播。东森购物3台主要播出家电、3C、健康、美妆、服饰等商品，并提供线上购物服务。</desc>
+  </programme>
+  <programme start="20260326210000 +0800" stop="20260326220000 +0800" channel="东森购物3台">
+    <title lang="zh">东森购物3台</title>
+    <desc lang="zh">东森购物3台是东森电视旗下的购物频道，于2015年10月1日开播。东森购物3台主要播出家电、3C、健康、美妆、服饰等商品，并提供线上购物服务。</desc>
+  </programme>
+  <programme start="20260326220000 +0800" stop="20260326230000 +0800" channel="东森购物3台">
+    <title lang="zh">东森购物3台</title>
+    <desc lang="zh">东森购物3台是东森电视旗下的购物频道，于2015年10月1日开播。东森购物3台主要播出家电、3C、健康、美妆、服饰等商品，并提供线上购物服务。</desc>
+  </programme>
+  <programme start="20260326230000 +0800" stop="20260327000000 +0800" channel="东森购物3台">
+    <title lang="zh">东森购物3台</title>
+    <desc lang="zh">东森购物3台是东森电视旗下的购物频道，于2015年10月1日开播。东森购物3台主要播出家电、3C、健康、美妆、服饰等商品，并提供线上购物服务。</desc>
+  </programme>
   <programme start="20260325000000 +0800" stop="20260325010000 +0800" channel="momo 1台">
     <title lang="zh">MOMO 1台</title>
     <desc lang="zh">MOMO 1台</desc>
@@ -305187,6 +305647,94 @@
   <programme start="20260326220000 +0800" stop="20260327000000 +0800" channel="era news 年代新闻">
     <title lang="zh">决战兵棋</title>
     <desc lang="zh">以「兵棋推演」为核心概念，透过实境模拟与战略分析，从不同视角解析世界局势。</desc>
+  </programme>
+  <programme start="20260325000000 +0800" stop="20260325010000 +0800" channel="东森新闻台">
+    <title lang="zh">东森夜线新闻</title>
+    <desc lang="zh">使命是以中立客观的立场，向全国观众传递最新且准确的新闻资讯。</desc>
+  </programme>
+  <programme start="20260325010000 +0800" stop="20260325030000 +0800" channel="东森新闻台">
+    <title lang="zh">东森晚间新闻</title>
+    <desc lang="zh">以公正客观的立场，向全国观众报导最新、最准确的新闻资讯。</desc>
+  </programme>
+  <programme start="20260325030000 +0800" stop="20260325050000 +0800" channel="东森新闻台">
+    <title lang="zh">东森世界日报</title>
+    <desc lang="zh">使命是以公正客观的立场，向全国观众报导最新且准确的新闻资讯。</desc>
+  </programme>
+  <programme start="20260325050000 +0800" stop="20260325060000 +0800" channel="东森新闻台">
+    <title lang="zh">东森夜线新闻</title>
+    <desc lang="zh">使命是以中立客观的立场，向全国观众传递最新且准确的新闻资讯。</desc>
+  </programme>
+  <programme start="20260325060000 +0800" stop="20260325090000 +0800" channel="东森新闻台">
+    <title lang="zh">Hello台湾</title>
+    <desc lang="zh">为观众播报最新、最即时的晨间新闻。</desc>
+  </programme>
+  <programme start="20260325090000 +0800" stop="20260325100000 +0800" channel="东森新闻台">
+    <title lang="zh">东森新闻</title>
+    <desc lang="zh">这个节目致力于提供观众最新的亚洲社会、政治和财经资讯。</desc>
+  </programme>
+  <programme start="20260325100000 +0800" stop="20260325150000 +0800" channel="东森新闻台">
+    <title lang="zh">东森午安新闻</title>
+    <desc lang="zh">目标是向全国观众提供最新、最准确的新闻，并以公正客观的角度进行播报。</desc>
+  </programme>
+  <programme start="20260325150000 +0800" stop="20260325160000 +0800" channel="东森新闻台">
+    <title lang="zh">东森大社会</title>
+    <desc lang="zh">我要向你介绍一个节目，内容是关于台湾社会重大案件和名人佚事的始末。</desc>
+  </programme>
+  <programme start="20260325160000 +0800" stop="20260325200000 +0800" channel="东森新闻台">
+    <title lang="zh">东森晚间新闻</title>
+    <desc lang="zh">以公正客观的立场，向全国观众报导最新、最准确的新闻资讯。</desc>
+  </programme>
+  <programme start="20260325200000 +0800" stop="20260325220000 +0800" channel="东森新闻台">
+    <title lang="zh">东森世界日报</title>
+    <desc lang="zh">使命是以公正客观的立场，向全国观众报导最新且准确的新闻资讯。</desc>
+  </programme>
+  <programme start="20260325220000 +0800" stop="20260326000000 +0800" channel="东森新闻台">
+    <title lang="zh">关键时刻</title>
+    <desc lang="zh">《关键时刻》新闻万象内幕追击由资深媒体人刘宝杰主持，节目中邀请来宾、名嘴们一同探讨国际新闻时事，揭秘各地奇闻轶事、分析各国军事科技，为您深入剖析不同观点，让您关键时刻消息不漏接。《关键时刻》由东森电视事业股份有限公司制作，并于「东森新闻台」播送。</desc>
+  </programme>
+  <programme start="20260326000000 +0800" stop="20260326010000 +0800" channel="东森新闻台">
+    <title lang="zh">东森夜线新闻</title>
+    <desc lang="zh">使命是以中立客观的立场，向全国观众传递最新且准确的新闻资讯。</desc>
+  </programme>
+  <programme start="20260326010000 +0800" stop="20260326030000 +0800" channel="东森新闻台">
+    <title lang="zh">东森晚间新闻</title>
+    <desc lang="zh">以公正客观的立场，向全国观众报导最新、最准确的新闻资讯。</desc>
+  </programme>
+  <programme start="20260326030000 +0800" stop="20260326050000 +0800" channel="东森新闻台">
+    <title lang="zh">东森世界日报</title>
+    <desc lang="zh">使命是以公正客观的立场，向全国观众报导最新且准确的新闻资讯。</desc>
+  </programme>
+  <programme start="20260326050000 +0800" stop="20260326060000 +0800" channel="东森新闻台">
+    <title lang="zh">东森夜线新闻</title>
+    <desc lang="zh">使命是以中立客观的立场，向全国观众传递最新且准确的新闻资讯。</desc>
+  </programme>
+  <programme start="20260326060000 +0800" stop="20260326090000 +0800" channel="东森新闻台">
+    <title lang="zh">Hello台湾</title>
+    <desc lang="zh">为观众播报最新、最即时的晨间新闻。</desc>
+  </programme>
+  <programme start="20260326090000 +0800" stop="20260326100000 +0800" channel="东森新闻台">
+    <title lang="zh">东森新闻</title>
+    <desc lang="zh">这个节目致力于提供观众最新的亚洲社会、政治和财经资讯。</desc>
+  </programme>
+  <programme start="20260326100000 +0800" stop="20260326150000 +0800" channel="东森新闻台">
+    <title lang="zh">东森午安新闻</title>
+    <desc lang="zh">目标是向全国观众提供最新、最准确的新闻，并以公正客观的角度进行播报。</desc>
+  </programme>
+  <programme start="20260326150000 +0800" stop="20260326160000 +0800" channel="东森新闻台">
+    <title lang="zh">东森大社会</title>
+    <desc lang="zh">我要向你介绍一个节目，内容是关于台湾社会重大案件和名人佚事的始末。</desc>
+  </programme>
+  <programme start="20260326160000 +0800" stop="20260326200000 +0800" channel="东森新闻台">
+    <title lang="zh">东森晚间新闻</title>
+    <desc lang="zh">以公正客观的立场，向全国观众报导最新、最准确的新闻资讯。</desc>
+  </programme>
+  <programme start="20260326200000 +0800" stop="20260326220000 +0800" channel="东森新闻台">
+    <title lang="zh">东森世界日报</title>
+    <desc lang="zh">使命是以公正客观的立场，向全国观众报导最新且准确的新闻资讯。</desc>
+  </programme>
+  <programme start="20260326220000 +0800" stop="20260327000000 +0800" channel="东森新闻台">
+    <title lang="zh">关键时刻</title>
+    <desc lang="zh">《关键时刻》新闻万象内幕追击由资深媒体人刘宝杰主持，节目中邀请来宾、名嘴们一同探讨国际新闻时事，揭秘各地奇闻轶事、分析各国军事科技，为您深入剖析不同观点，让您关键时刻消息不漏接。《关键时刻》由东森电视事业股份有限公司制作，并于「东森新闻台」播送。</desc>
   </programme>
   <programme start="20260325010000 +0800" stop="20260325013000 +0800" channel="民视新闻台">
     <title lang="zh">民视英语新闻</title>
@@ -315614,6 +316162,390 @@
     <title lang="zh">佛陀真实一生故事法语录</title>
     <desc lang="zh">透过电视无远弗届的传媒力量，传送甚深微妙法音，引导众生向善学佛，滋长慧命，借以净化人心</desc>
   </programme>
+  <programme start="20260325000000 +0800" stop="20260325003000 +0800" channel="华艺台湾台">
+    <title lang="zh">歌谣夜未眠 (台湾歌谣)</title>
+    <desc lang="zh">歌谣夜未眠 </desc>
+  </programme>
+  <programme start="20260325003000 +0800" stop="20260325010000 +0800" channel="华艺台湾台">
+    <title lang="zh">歌谣夜未眠 (台湾歌谣)</title>
+    <desc lang="zh">歌谣夜未眠 </desc>
+  </programme>
+  <programme start="20260325010000 +0800" stop="20260325013000 +0800" channel="华艺台湾台">
+    <title lang="zh">歌谣夜未眠 (台湾歌谣)</title>
+    <desc lang="zh">歌谣夜未眠 </desc>
+  </programme>
+  <programme start="20260325013000 +0800" stop="20260325020000 +0800" channel="华艺台湾台">
+    <title lang="zh">歌谣夜未眠 (台湾歌谣)</title>
+    <desc lang="zh">歌谣夜未眠 </desc>
+  </programme>
+  <programme start="20260325020000 +0800" stop="20260325023000 +0800" channel="华艺台湾台">
+    <title lang="zh">歌谣夜未眠 (台湾歌谣)</title>
+    <desc lang="zh">歌谣夜未眠 </desc>
+  </programme>
+  <programme start="20260325023000 +0800" stop="20260325030000 +0800" channel="华艺台湾台">
+    <title lang="zh">歌谣夜未眠 (台湾歌谣)</title>
+    <desc lang="zh">歌谣夜未眠 </desc>
+  </programme>
+  <programme start="20260325030000 +0800" stop="20260325033000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾歌谣</title>
+    <desc lang="zh">「台湾歌谣」是一个展现台湾音乐文化多元风貌的节目。透过介绍不同年代的台湾歌曲，从流行、民谣、古典到现代流行等各种音乐类型，让观众欣赏台湾音乐的丰富和多样性。节目除了播放经典台语、国语歌曲，也会介绍台湾的音乐历史和发展，让观众更加了解台湾音乐的演变和影响。此节目也会请来音乐专家和歌手分享他们对台湾歌曲的喜爱和诠释，为观众带来音乐的感动与回忆。</desc>
+  </programme>
+  <programme start="20260325033000 +0800" stop="20260325040000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾歌谣</title>
+    <desc lang="zh">「台湾歌谣」是一个展现台湾音乐文化多元风貌的节目。透过介绍不同年代的台湾歌曲，从流行、民谣、古典到现代流行等各种音乐类型，让观众欣赏台湾音乐的丰富和多样性。节目除了播放经典台语、国语歌曲，也会介绍台湾的音乐历史和发展，让观众更加了解台湾音乐的演变和影响。此节目也会请来音乐专家和歌手分享他们对台湾歌曲的喜爱和诠释，为观众带来音乐的感动与回忆。</desc>
+  </programme>
+  <programme start="20260325040000 +0800" stop="20260325043000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾歌谣</title>
+    <desc lang="zh">「台湾歌谣」是一个展现台湾音乐文化多元风貌的节目。透过介绍不同年代的台湾歌曲，从流行、民谣、古典到现代流行等各种音乐类型，让观众欣赏台湾音乐的丰富和多样性。节目除了播放经典台语、国语歌曲，也会介绍台湾的音乐历史和发展，让观众更加了解台湾音乐的演变和影响。此节目也会请来音乐专家和歌手分享他们对台湾歌曲的喜爱和诠释，为观众带来音乐的感动与回忆。</desc>
+  </programme>
+  <programme start="20260325043000 +0800" stop="20260325050000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾歌谣</title>
+    <desc lang="zh">「台湾歌谣」是一个展现台湾音乐文化多元风貌的节目。透过介绍不同年代的台湾歌曲，从流行、民谣、古典到现代流行等各种音乐类型，让观众欣赏台湾音乐的丰富和多样性。节目除了播放经典台语、国语歌曲，也会介绍台湾的音乐历史和发展，让观众更加了解台湾音乐的演变和影响。此节目也会请来音乐专家和歌手分享他们对台湾歌曲的喜爱和诠释，为观众带来音乐的感动与回忆。</desc>
+  </programme>
+  <programme start="20260325050000 +0800" stop="20260325053000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾歌谣</title>
+    <desc lang="zh">「台湾歌谣」是一个展现台湾音乐文化多元风貌的节目。透过介绍不同年代的台湾歌曲，从流行、民谣、古典到现代流行等各种音乐类型，让观众欣赏台湾音乐的丰富和多样性。节目除了播放经典台语、国语歌曲，也会介绍台湾的音乐历史和发展，让观众更加了解台湾音乐的演变和影响。此节目也会请来音乐专家和歌手分享他们对台湾歌曲的喜爱和诠释，为观众带来音乐的感动与回忆。</desc>
+  </programme>
+  <programme start="20260325053000 +0800" stop="20260325060000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾歌谣</title>
+    <desc lang="zh">「台湾歌谣」是一个展现台湾音乐文化多元风貌的节目。透过介绍不同年代的台湾歌曲，从流行、民谣、古典到现代流行等各种音乐类型，让观众欣赏台湾音乐的丰富和多样性。节目除了播放经典台语、国语歌曲，也会介绍台湾的音乐历史和发展，让观众更加了解台湾音乐的演变和影响。此节目也会请来音乐专家和歌手分享他们对台湾歌曲的喜爱和诠释，为观众带来音乐的感动与回忆。</desc>
+  </programme>
+  <programme start="20260325060000 +0800" stop="20260325063000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾民间故事(台湾歌谣)</title>
+    <desc lang="zh">台湾民间故事</desc>
+  </programme>
+  <programme start="20260325063000 +0800" stop="20260325070000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾民间故事(台湾歌谣)</title>
+    <desc lang="zh">台湾民间故事</desc>
+  </programme>
+  <programme start="20260325070000 +0800" stop="20260325073000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾民间故事(台湾歌谣)</title>
+    <desc lang="zh">台湾民间故事</desc>
+  </programme>
+  <programme start="20260325073000 +0800" stop="20260325080000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾民间故事(台湾歌谣)</title>
+    <desc lang="zh">台湾民间故事</desc>
+  </programme>
+  <programme start="20260325080000 +0800" stop="20260325083000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾民间故事(台湾歌谣)</title>
+    <desc lang="zh">台湾民间故事</desc>
+  </programme>
+  <programme start="20260325083000 +0800" stop="20260325090000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾民间故事(台湾歌谣)</title>
+    <desc lang="zh">台湾民间故事</desc>
+  </programme>
+  <programme start="20260325090000 +0800" stop="20260325093000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾歌谣</title>
+    <desc lang="zh">「台湾歌谣」是一个展现台湾音乐文化多元风貌的节目。透过介绍不同年代的台湾歌曲，从流行、民谣、古典到现代流行等各种音乐类型，让观众欣赏台湾音乐的丰富和多样性。节目除了播放经典台语、国语歌曲，也会介绍台湾的音乐历史和发展，让观众更加了解台湾音乐的演变和影响。此节目也会请来音乐专家和歌手分享他们对台湾歌曲的喜爱和诠释，为观众带来音乐的感动与回忆。</desc>
+  </programme>
+  <programme start="20260325093000 +0800" stop="20260325100000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾歌谣</title>
+    <desc lang="zh">「台湾歌谣」是一个展现台湾音乐文化多元风貌的节目。透过介绍不同年代的台湾歌曲，从流行、民谣、古典到现代流行等各种音乐类型，让观众欣赏台湾音乐的丰富和多样性。节目除了播放经典台语、国语歌曲，也会介绍台湾的音乐历史和发展，让观众更加了解台湾音乐的演变和影响。此节目也会请来音乐专家和歌手分享他们对台湾歌曲的喜爱和诠释，为观众带来音乐的感动与回忆。</desc>
+  </programme>
+  <programme start="20260325100000 +0800" stop="20260325103000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾歌谣</title>
+    <desc lang="zh">「台湾歌谣」是一个展现台湾音乐文化多元风貌的节目。透过介绍不同年代的台湾歌曲，从流行、民谣、古典到现代流行等各种音乐类型，让观众欣赏台湾音乐的丰富和多样性。节目除了播放经典台语、国语歌曲，也会介绍台湾的音乐历史和发展，让观众更加了解台湾音乐的演变和影响。此节目也会请来音乐专家和歌手分享他们对台湾歌曲的喜爱和诠释，为观众带来音乐的感动与回忆。</desc>
+  </programme>
+  <programme start="20260325103000 +0800" stop="20260325110000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾歌谣</title>
+    <desc lang="zh">「台湾歌谣」是一个展现台湾音乐文化多元风貌的节目。透过介绍不同年代的台湾歌曲，从流行、民谣、古典到现代流行等各种音乐类型，让观众欣赏台湾音乐的丰富和多样性。节目除了播放经典台语、国语歌曲，也会介绍台湾的音乐历史和发展，让观众更加了解台湾音乐的演变和影响。此节目也会请来音乐专家和歌手分享他们对台湾歌曲的喜爱和诠释，为观众带来音乐的感动与回忆。</desc>
+  </programme>
+  <programme start="20260325110000 +0800" stop="20260325113000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾歌谣</title>
+    <desc lang="zh">「台湾歌谣」是一个展现台湾音乐文化多元风貌的节目。透过介绍不同年代的台湾歌曲，从流行、民谣、古典到现代流行等各种音乐类型，让观众欣赏台湾音乐的丰富和多样性。节目除了播放经典台语、国语歌曲，也会介绍台湾的音乐历史和发展，让观众更加了解台湾音乐的演变和影响。此节目也会请来音乐专家和歌手分享他们对台湾歌曲的喜爱和诠释，为观众带来音乐的感动与回忆。</desc>
+  </programme>
+  <programme start="20260325113000 +0800" stop="20260325120000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾歌谣</title>
+    <desc lang="zh">「台湾歌谣」是一个展现台湾音乐文化多元风貌的节目。透过介绍不同年代的台湾歌曲，从流行、民谣、古典到现代流行等各种音乐类型，让观众欣赏台湾音乐的丰富和多样性。节目除了播放经典台语、国语歌曲，也会介绍台湾的音乐历史和发展，让观众更加了解台湾音乐的演变和影响。此节目也会请来音乐专家和歌手分享他们对台湾歌曲的喜爱和诠释，为观众带来音乐的感动与回忆。</desc>
+  </programme>
+  <programme start="20260325120000 +0800" stop="20260325123000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾好歌声(台湾歌谣)</title>
+    <desc lang="zh">台湾好歌声</desc>
+  </programme>
+  <programme start="20260325123000 +0800" stop="20260325130000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾好歌声(台湾歌谣)</title>
+    <desc lang="zh">台湾好歌声</desc>
+  </programme>
+  <programme start="20260325130000 +0800" stop="20260325133000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾好歌声(台湾歌谣)</title>
+    <desc lang="zh">台湾好歌声</desc>
+  </programme>
+  <programme start="20260325133000 +0800" stop="20260325140000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾好歌声(台湾歌谣)</title>
+    <desc lang="zh">台湾好歌声</desc>
+  </programme>
+  <programme start="20260325140000 +0800" stop="20260325143000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾歌谣</title>
+    <desc lang="zh">「台湾歌谣」是一个展现台湾音乐文化多元风貌的节目。透过介绍不同年代的台湾歌曲，从流行、民谣、古典到现代流行等各种音乐类型，让观众欣赏台湾音乐的丰富和多样性。节目除了播放经典台语、国语歌曲，也会介绍台湾的音乐历史和发展，让观众更加了解台湾音乐的演变和影响。此节目也会请来音乐专家和歌手分享他们对台湾歌曲的喜爱和诠释，为观众带来音乐的感动与回忆。</desc>
+  </programme>
+  <programme start="20260325143000 +0800" stop="20260325150000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾歌谣</title>
+    <desc lang="zh">「台湾歌谣」是一个展现台湾音乐文化多元风貌的节目。透过介绍不同年代的台湾歌曲，从流行、民谣、古典到现代流行等各种音乐类型，让观众欣赏台湾音乐的丰富和多样性。节目除了播放经典台语、国语歌曲，也会介绍台湾的音乐历史和发展，让观众更加了解台湾音乐的演变和影响。此节目也会请来音乐专家和歌手分享他们对台湾歌曲的喜爱和诠释，为观众带来音乐的感动与回忆。</desc>
+  </programme>
+  <programme start="20260325150000 +0800" stop="20260325153000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾民间故事(台湾歌谣)</title>
+    <desc lang="zh">台湾民间故事</desc>
+  </programme>
+  <programme start="20260325153000 +0800" stop="20260325160000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾民间故事(台湾歌谣)</title>
+    <desc lang="zh">台湾民间故事</desc>
+  </programme>
+  <programme start="20260325160000 +0800" stop="20260325163000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾民间故事(台湾歌谣)</title>
+    <desc lang="zh">台湾民间故事</desc>
+  </programme>
+  <programme start="20260325163000 +0800" stop="20260325170000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾民间故事(台湾歌谣)</title>
+    <desc lang="zh">台湾民间故事</desc>
+  </programme>
+  <programme start="20260325170000 +0800" stop="20260325173000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾民间故事(台湾歌谣)</title>
+    <desc lang="zh">台湾民间故事</desc>
+  </programme>
+  <programme start="20260325173000 +0800" stop="20260325180000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾民间故事(台湾歌谣)</title>
+    <desc lang="zh">台湾民间故事</desc>
+  </programme>
+  <programme start="20260325180000 +0800" stop="20260325183000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾歌谣</title>
+    <desc lang="zh">「台湾歌谣」是一个展现台湾音乐文化多元风貌的节目。透过介绍不同年代的台湾歌曲，从流行、民谣、古典到现代流行等各种音乐类型，让观众欣赏台湾音乐的丰富和多样性。节目除了播放经典台语、国语歌曲，也会介绍台湾的音乐历史和发展，让观众更加了解台湾音乐的演变和影响。此节目也会请来音乐专家和歌手分享他们对台湾歌曲的喜爱和诠释，为观众带来音乐的感动与回忆。</desc>
+  </programme>
+  <programme start="20260325183000 +0800" stop="20260325190000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾歌谣</title>
+    <desc lang="zh">「台湾歌谣」是一个展现台湾音乐文化多元风貌的节目。透过介绍不同年代的台湾歌曲，从流行、民谣、古典到现代流行等各种音乐类型，让观众欣赏台湾音乐的丰富和多样性。节目除了播放经典台语、国语歌曲，也会介绍台湾的音乐历史和发展，让观众更加了解台湾音乐的演变和影响。此节目也会请来音乐专家和歌手分享他们对台湾歌曲的喜爱和诠释，为观众带来音乐的感动与回忆。</desc>
+  </programme>
+  <programme start="20260325190000 +0800" stop="20260325193000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾歌谣</title>
+    <desc lang="zh">「台湾歌谣」是一个展现台湾音乐文化多元风貌的节目。透过介绍不同年代的台湾歌曲，从流行、民谣、古典到现代流行等各种音乐类型，让观众欣赏台湾音乐的丰富和多样性。节目除了播放经典台语、国语歌曲，也会介绍台湾的音乐历史和发展，让观众更加了解台湾音乐的演变和影响。此节目也会请来音乐专家和歌手分享他们对台湾歌曲的喜爱和诠释，为观众带来音乐的感动与回忆。</desc>
+  </programme>
+  <programme start="20260325193000 +0800" stop="20260325200000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾歌谣</title>
+    <desc lang="zh">「台湾歌谣」是一个展现台湾音乐文化多元风貌的节目。透过介绍不同年代的台湾歌曲，从流行、民谣、古典到现代流行等各种音乐类型，让观众欣赏台湾音乐的丰富和多样性。节目除了播放经典台语、国语歌曲，也会介绍台湾的音乐历史和发展，让观众更加了解台湾音乐的演变和影响。此节目也会请来音乐专家和歌手分享他们对台湾歌曲的喜爱和诠释，为观众带来音乐的感动与回忆。</desc>
+  </programme>
+  <programme start="20260325200000 +0800" stop="20260325203000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾歌谣</title>
+    <desc lang="zh">「台湾歌谣」是一个展现台湾音乐文化多元风貌的节目。透过介绍不同年代的台湾歌曲，从流行、民谣、古典到现代流行等各种音乐类型，让观众欣赏台湾音乐的丰富和多样性。节目除了播放经典台语、国语歌曲，也会介绍台湾的音乐历史和发展，让观众更加了解台湾音乐的演变和影响。此节目也会请来音乐专家和歌手分享他们对台湾歌曲的喜爱和诠释，为观众带来音乐的感动与回忆。</desc>
+  </programme>
+  <programme start="20260325203000 +0800" stop="20260325210000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾歌谣</title>
+    <desc lang="zh">「台湾歌谣」是一个展现台湾音乐文化多元风貌的节目。透过介绍不同年代的台湾歌曲，从流行、民谣、古典到现代流行等各种音乐类型，让观众欣赏台湾音乐的丰富和多样性。节目除了播放经典台语、国语歌曲，也会介绍台湾的音乐历史和发展，让观众更加了解台湾音乐的演变和影响。此节目也会请来音乐专家和歌手分享他们对台湾歌曲的喜爱和诠释，为观众带来音乐的感动与回忆。</desc>
+  </programme>
+  <programme start="20260325210000 +0800" stop="20260325213000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾怀念老歌(台湾歌谣)</title>
+    <desc lang="zh">台湾怀念老歌</desc>
+  </programme>
+  <programme start="20260325213000 +0800" stop="20260325220000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾怀念老歌(台湾歌谣)</title>
+    <desc lang="zh">台湾怀念老歌</desc>
+  </programme>
+  <programme start="20260325220000 +0800" stop="20260325223000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾怀念老歌(台湾歌谣)</title>
+    <desc lang="zh">台湾怀念老歌</desc>
+  </programme>
+  <programme start="20260325223000 +0800" stop="20260325230000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾怀念老歌(台湾歌谣)</title>
+    <desc lang="zh">台湾怀念老歌</desc>
+  </programme>
+  <programme start="20260325230000 +0800" stop="20260325233000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾怀念老歌(台湾歌谣)</title>
+    <desc lang="zh">台湾怀念老歌</desc>
+  </programme>
+  <programme start="20260325233000 +0800" stop="20260326000000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾怀念老歌(台湾歌谣)</title>
+    <desc lang="zh">台湾怀念老歌</desc>
+  </programme>
+  <programme start="20260326000000 +0800" stop="20260326003000 +0800" channel="华艺台湾台">
+    <title lang="zh">歌谣夜未眠 (台湾歌谣)</title>
+    <desc lang="zh">歌谣夜未眠 </desc>
+  </programme>
+  <programme start="20260326003000 +0800" stop="20260326010000 +0800" channel="华艺台湾台">
+    <title lang="zh">歌谣夜未眠 (台湾歌谣)</title>
+    <desc lang="zh">歌谣夜未眠 </desc>
+  </programme>
+  <programme start="20260326010000 +0800" stop="20260326013000 +0800" channel="华艺台湾台">
+    <title lang="zh">歌谣夜未眠 (台湾歌谣)</title>
+    <desc lang="zh">歌谣夜未眠 </desc>
+  </programme>
+  <programme start="20260326013000 +0800" stop="20260326020000 +0800" channel="华艺台湾台">
+    <title lang="zh">歌谣夜未眠 (台湾歌谣)</title>
+    <desc lang="zh">歌谣夜未眠 </desc>
+  </programme>
+  <programme start="20260326020000 +0800" stop="20260326023000 +0800" channel="华艺台湾台">
+    <title lang="zh">歌谣夜未眠 (台湾歌谣)</title>
+    <desc lang="zh">歌谣夜未眠 </desc>
+  </programme>
+  <programme start="20260326023000 +0800" stop="20260326030000 +0800" channel="华艺台湾台">
+    <title lang="zh">歌谣夜未眠 (台湾歌谣)</title>
+    <desc lang="zh">歌谣夜未眠 </desc>
+  </programme>
+  <programme start="20260326030000 +0800" stop="20260326033000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾歌谣</title>
+    <desc lang="zh">「台湾歌谣」是一个展现台湾音乐文化多元风貌的节目。透过介绍不同年代的台湾歌曲，从流行、民谣、古典到现代流行等各种音乐类型，让观众欣赏台湾音乐的丰富和多样性。节目除了播放经典台语、国语歌曲，也会介绍台湾的音乐历史和发展，让观众更加了解台湾音乐的演变和影响。此节目也会请来音乐专家和歌手分享他们对台湾歌曲的喜爱和诠释，为观众带来音乐的感动与回忆。</desc>
+  </programme>
+  <programme start="20260326033000 +0800" stop="20260326040000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾歌谣</title>
+    <desc lang="zh">「台湾歌谣」是一个展现台湾音乐文化多元风貌的节目。透过介绍不同年代的台湾歌曲，从流行、民谣、古典到现代流行等各种音乐类型，让观众欣赏台湾音乐的丰富和多样性。节目除了播放经典台语、国语歌曲，也会介绍台湾的音乐历史和发展，让观众更加了解台湾音乐的演变和影响。此节目也会请来音乐专家和歌手分享他们对台湾歌曲的喜爱和诠释，为观众带来音乐的感动与回忆。</desc>
+  </programme>
+  <programme start="20260326040000 +0800" stop="20260326043000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾歌谣</title>
+    <desc lang="zh">「台湾歌谣」是一个展现台湾音乐文化多元风貌的节目。透过介绍不同年代的台湾歌曲，从流行、民谣、古典到现代流行等各种音乐类型，让观众欣赏台湾音乐的丰富和多样性。节目除了播放经典台语、国语歌曲，也会介绍台湾的音乐历史和发展，让观众更加了解台湾音乐的演变和影响。此节目也会请来音乐专家和歌手分享他们对台湾歌曲的喜爱和诠释，为观众带来音乐的感动与回忆。</desc>
+  </programme>
+  <programme start="20260326043000 +0800" stop="20260326050000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾歌谣</title>
+    <desc lang="zh">「台湾歌谣」是一个展现台湾音乐文化多元风貌的节目。透过介绍不同年代的台湾歌曲，从流行、民谣、古典到现代流行等各种音乐类型，让观众欣赏台湾音乐的丰富和多样性。节目除了播放经典台语、国语歌曲，也会介绍台湾的音乐历史和发展，让观众更加了解台湾音乐的演变和影响。此节目也会请来音乐专家和歌手分享他们对台湾歌曲的喜爱和诠释，为观众带来音乐的感动与回忆。</desc>
+  </programme>
+  <programme start="20260326050000 +0800" stop="20260326053000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾歌谣</title>
+    <desc lang="zh">「台湾歌谣」是一个展现台湾音乐文化多元风貌的节目。透过介绍不同年代的台湾歌曲，从流行、民谣、古典到现代流行等各种音乐类型，让观众欣赏台湾音乐的丰富和多样性。节目除了播放经典台语、国语歌曲，也会介绍台湾的音乐历史和发展，让观众更加了解台湾音乐的演变和影响。此节目也会请来音乐专家和歌手分享他们对台湾歌曲的喜爱和诠释，为观众带来音乐的感动与回忆。</desc>
+  </programme>
+  <programme start="20260326053000 +0800" stop="20260326060000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾歌谣</title>
+    <desc lang="zh">「台湾歌谣」是一个展现台湾音乐文化多元风貌的节目。透过介绍不同年代的台湾歌曲，从流行、民谣、古典到现代流行等各种音乐类型，让观众欣赏台湾音乐的丰富和多样性。节目除了播放经典台语、国语歌曲，也会介绍台湾的音乐历史和发展，让观众更加了解台湾音乐的演变和影响。此节目也会请来音乐专家和歌手分享他们对台湾歌曲的喜爱和诠释，为观众带来音乐的感动与回忆。</desc>
+  </programme>
+  <programme start="20260326060000 +0800" stop="20260326063000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾民间故事(台湾歌谣)</title>
+    <desc lang="zh">台湾民间故事</desc>
+  </programme>
+  <programme start="20260326063000 +0800" stop="20260326070000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾民间故事(台湾歌谣)</title>
+    <desc lang="zh">台湾民间故事</desc>
+  </programme>
+  <programme start="20260326070000 +0800" stop="20260326073000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾民间故事(台湾歌谣)</title>
+    <desc lang="zh">台湾民间故事</desc>
+  </programme>
+  <programme start="20260326073000 +0800" stop="20260326080000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾民间故事(台湾歌谣)</title>
+    <desc lang="zh">台湾民间故事</desc>
+  </programme>
+  <programme start="20260326080000 +0800" stop="20260326083000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾民间故事(台湾歌谣)</title>
+    <desc lang="zh">台湾民间故事</desc>
+  </programme>
+  <programme start="20260326083000 +0800" stop="20260326090000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾民间故事(台湾歌谣)</title>
+    <desc lang="zh">台湾民间故事</desc>
+  </programme>
+  <programme start="20260326090000 +0800" stop="20260326093000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾歌谣</title>
+    <desc lang="zh">「台湾歌谣」是一个展现台湾音乐文化多元风貌的节目。透过介绍不同年代的台湾歌曲，从流行、民谣、古典到现代流行等各种音乐类型，让观众欣赏台湾音乐的丰富和多样性。节目除了播放经典台语、国语歌曲，也会介绍台湾的音乐历史和发展，让观众更加了解台湾音乐的演变和影响。此节目也会请来音乐专家和歌手分享他们对台湾歌曲的喜爱和诠释，为观众带来音乐的感动与回忆。</desc>
+  </programme>
+  <programme start="20260326093000 +0800" stop="20260326100000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾歌谣</title>
+    <desc lang="zh">「台湾歌谣」是一个展现台湾音乐文化多元风貌的节目。透过介绍不同年代的台湾歌曲，从流行、民谣、古典到现代流行等各种音乐类型，让观众欣赏台湾音乐的丰富和多样性。节目除了播放经典台语、国语歌曲，也会介绍台湾的音乐历史和发展，让观众更加了解台湾音乐的演变和影响。此节目也会请来音乐专家和歌手分享他们对台湾歌曲的喜爱和诠释，为观众带来音乐的感动与回忆。</desc>
+  </programme>
+  <programme start="20260326100000 +0800" stop="20260326103000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾歌谣</title>
+    <desc lang="zh">「台湾歌谣」是一个展现台湾音乐文化多元风貌的节目。透过介绍不同年代的台湾歌曲，从流行、民谣、古典到现代流行等各种音乐类型，让观众欣赏台湾音乐的丰富和多样性。节目除了播放经典台语、国语歌曲，也会介绍台湾的音乐历史和发展，让观众更加了解台湾音乐的演变和影响。此节目也会请来音乐专家和歌手分享他们对台湾歌曲的喜爱和诠释，为观众带来音乐的感动与回忆。</desc>
+  </programme>
+  <programme start="20260326103000 +0800" stop="20260326110000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾歌谣</title>
+    <desc lang="zh">「台湾歌谣」是一个展现台湾音乐文化多元风貌的节目。透过介绍不同年代的台湾歌曲，从流行、民谣、古典到现代流行等各种音乐类型，让观众欣赏台湾音乐的丰富和多样性。节目除了播放经典台语、国语歌曲，也会介绍台湾的音乐历史和发展，让观众更加了解台湾音乐的演变和影响。此节目也会请来音乐专家和歌手分享他们对台湾歌曲的喜爱和诠释，为观众带来音乐的感动与回忆。</desc>
+  </programme>
+  <programme start="20260326110000 +0800" stop="20260326113000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾歌谣</title>
+    <desc lang="zh">「台湾歌谣」是一个展现台湾音乐文化多元风貌的节目。透过介绍不同年代的台湾歌曲，从流行、民谣、古典到现代流行等各种音乐类型，让观众欣赏台湾音乐的丰富和多样性。节目除了播放经典台语、国语歌曲，也会介绍台湾的音乐历史和发展，让观众更加了解台湾音乐的演变和影响。此节目也会请来音乐专家和歌手分享他们对台湾歌曲的喜爱和诠释，为观众带来音乐的感动与回忆。</desc>
+  </programme>
+  <programme start="20260326113000 +0800" stop="20260326120000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾歌谣</title>
+    <desc lang="zh">「台湾歌谣」是一个展现台湾音乐文化多元风貌的节目。透过介绍不同年代的台湾歌曲，从流行、民谣、古典到现代流行等各种音乐类型，让观众欣赏台湾音乐的丰富和多样性。节目除了播放经典台语、国语歌曲，也会介绍台湾的音乐历史和发展，让观众更加了解台湾音乐的演变和影响。此节目也会请来音乐专家和歌手分享他们对台湾歌曲的喜爱和诠释，为观众带来音乐的感动与回忆。</desc>
+  </programme>
+  <programme start="20260326120000 +0800" stop="20260326123000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾好歌声(台湾歌谣)</title>
+    <desc lang="zh">台湾好歌声</desc>
+  </programme>
+  <programme start="20260326123000 +0800" stop="20260326130000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾好歌声(台湾歌谣)</title>
+    <desc lang="zh">台湾好歌声</desc>
+  </programme>
+  <programme start="20260326130000 +0800" stop="20260326133000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾好歌声(台湾歌谣)</title>
+    <desc lang="zh">台湾好歌声</desc>
+  </programme>
+  <programme start="20260326133000 +0800" stop="20260326140000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾好歌声(台湾歌谣)</title>
+    <desc lang="zh">台湾好歌声</desc>
+  </programme>
+  <programme start="20260326140000 +0800" stop="20260326143000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾歌谣</title>
+    <desc lang="zh">「台湾歌谣」是一个展现台湾音乐文化多元风貌的节目。透过介绍不同年代的台湾歌曲，从流行、民谣、古典到现代流行等各种音乐类型，让观众欣赏台湾音乐的丰富和多样性。节目除了播放经典台语、国语歌曲，也会介绍台湾的音乐历史和发展，让观众更加了解台湾音乐的演变和影响。此节目也会请来音乐专家和歌手分享他们对台湾歌曲的喜爱和诠释，为观众带来音乐的感动与回忆。</desc>
+  </programme>
+  <programme start="20260326143000 +0800" stop="20260326150000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾歌谣</title>
+    <desc lang="zh">「台湾歌谣」是一个展现台湾音乐文化多元风貌的节目。透过介绍不同年代的台湾歌曲，从流行、民谣、古典到现代流行等各种音乐类型，让观众欣赏台湾音乐的丰富和多样性。节目除了播放经典台语、国语歌曲，也会介绍台湾的音乐历史和发展，让观众更加了解台湾音乐的演变和影响。此节目也会请来音乐专家和歌手分享他们对台湾歌曲的喜爱和诠释，为观众带来音乐的感动与回忆。</desc>
+  </programme>
+  <programme start="20260326150000 +0800" stop="20260326153000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾民间故事(台湾歌谣)</title>
+    <desc lang="zh">台湾民间故事</desc>
+  </programme>
+  <programme start="20260326153000 +0800" stop="20260326160000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾民间故事(台湾歌谣)</title>
+    <desc lang="zh">台湾民间故事</desc>
+  </programme>
+  <programme start="20260326160000 +0800" stop="20260326163000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾民间故事(台湾歌谣)</title>
+    <desc lang="zh">台湾民间故事</desc>
+  </programme>
+  <programme start="20260326163000 +0800" stop="20260326170000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾民间故事(台湾歌谣)</title>
+    <desc lang="zh">台湾民间故事</desc>
+  </programme>
+  <programme start="20260326170000 +0800" stop="20260326173000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾民间故事(台湾歌谣)</title>
+    <desc lang="zh">台湾民间故事</desc>
+  </programme>
+  <programme start="20260326173000 +0800" stop="20260326180000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾民间故事(台湾歌谣)</title>
+    <desc lang="zh">台湾民间故事</desc>
+  </programme>
+  <programme start="20260326180000 +0800" stop="20260326183000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾歌谣</title>
+    <desc lang="zh">「台湾歌谣」是一个展现台湾音乐文化多元风貌的节目。透过介绍不同年代的台湾歌曲，从流行、民谣、古典到现代流行等各种音乐类型，让观众欣赏台湾音乐的丰富和多样性。节目除了播放经典台语、国语歌曲，也会介绍台湾的音乐历史和发展，让观众更加了解台湾音乐的演变和影响。此节目也会请来音乐专家和歌手分享他们对台湾歌曲的喜爱和诠释，为观众带来音乐的感动与回忆。</desc>
+  </programme>
+  <programme start="20260326183000 +0800" stop="20260326190000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾歌谣</title>
+    <desc lang="zh">「台湾歌谣」是一个展现台湾音乐文化多元风貌的节目。透过介绍不同年代的台湾歌曲，从流行、民谣、古典到现代流行等各种音乐类型，让观众欣赏台湾音乐的丰富和多样性。节目除了播放经典台语、国语歌曲，也会介绍台湾的音乐历史和发展，让观众更加了解台湾音乐的演变和影响。此节目也会请来音乐专家和歌手分享他们对台湾歌曲的喜爱和诠释，为观众带来音乐的感动与回忆。</desc>
+  </programme>
+  <programme start="20260326190000 +0800" stop="20260326193000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾歌谣</title>
+    <desc lang="zh">「台湾歌谣」是一个展现台湾音乐文化多元风貌的节目。透过介绍不同年代的台湾歌曲，从流行、民谣、古典到现代流行等各种音乐类型，让观众欣赏台湾音乐的丰富和多样性。节目除了播放经典台语、国语歌曲，也会介绍台湾的音乐历史和发展，让观众更加了解台湾音乐的演变和影响。此节目也会请来音乐专家和歌手分享他们对台湾歌曲的喜爱和诠释，为观众带来音乐的感动与回忆。</desc>
+  </programme>
+  <programme start="20260326193000 +0800" stop="20260326200000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾歌谣</title>
+    <desc lang="zh">「台湾歌谣」是一个展现台湾音乐文化多元风貌的节目。透过介绍不同年代的台湾歌曲，从流行、民谣、古典到现代流行等各种音乐类型，让观众欣赏台湾音乐的丰富和多样性。节目除了播放经典台语、国语歌曲，也会介绍台湾的音乐历史和发展，让观众更加了解台湾音乐的演变和影响。此节目也会请来音乐专家和歌手分享他们对台湾歌曲的喜爱和诠释，为观众带来音乐的感动与回忆。</desc>
+  </programme>
+  <programme start="20260326200000 +0800" stop="20260326203000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾歌谣</title>
+    <desc lang="zh">「台湾歌谣」是一个展现台湾音乐文化多元风貌的节目。透过介绍不同年代的台湾歌曲，从流行、民谣、古典到现代流行等各种音乐类型，让观众欣赏台湾音乐的丰富和多样性。节目除了播放经典台语、国语歌曲，也会介绍台湾的音乐历史和发展，让观众更加了解台湾音乐的演变和影响。此节目也会请来音乐专家和歌手分享他们对台湾歌曲的喜爱和诠释，为观众带来音乐的感动与回忆。</desc>
+  </programme>
+  <programme start="20260326203000 +0800" stop="20260326210000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾歌谣</title>
+    <desc lang="zh">「台湾歌谣」是一个展现台湾音乐文化多元风貌的节目。透过介绍不同年代的台湾歌曲，从流行、民谣、古典到现代流行等各种音乐类型，让观众欣赏台湾音乐的丰富和多样性。节目除了播放经典台语、国语歌曲，也会介绍台湾的音乐历史和发展，让观众更加了解台湾音乐的演变和影响。此节目也会请来音乐专家和歌手分享他们对台湾歌曲的喜爱和诠释，为观众带来音乐的感动与回忆。</desc>
+  </programme>
+  <programme start="20260326210000 +0800" stop="20260326213000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾怀念老歌(台湾歌谣)</title>
+    <desc lang="zh">台湾怀念老歌</desc>
+  </programme>
+  <programme start="20260326213000 +0800" stop="20260326220000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾怀念老歌(台湾歌谣)</title>
+    <desc lang="zh">台湾怀念老歌</desc>
+  </programme>
+  <programme start="20260326220000 +0800" stop="20260326223000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾怀念老歌(台湾歌谣)</title>
+    <desc lang="zh">台湾怀念老歌</desc>
+  </programme>
+  <programme start="20260326223000 +0800" stop="20260326230000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾怀念老歌(台湾歌谣)</title>
+    <desc lang="zh">台湾怀念老歌</desc>
+  </programme>
+  <programme start="20260326230000 +0800" stop="20260326233000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾怀念老歌(台湾歌谣)</title>
+    <desc lang="zh">台湾怀念老歌</desc>
+  </programme>
+  <programme start="20260326233000 +0800" stop="20260327000000 +0800" channel="华艺台湾台">
+    <title lang="zh">台湾怀念老歌(台湾歌谣)</title>
+    <desc lang="zh">台湾怀念老歌</desc>
+  </programme>
   <programme start="20260325000000 +0800" stop="20260325001500 +0800" channel="好消息二台">
     <title lang="zh">经典音乐河第438集</title>
     <desc lang="zh">「经典音乐河」节目将播放优美的古典音乐，带领观众沉浸在音乐的世界中，感受音乐的情感和力量，寻找心灵的慰藉和启迪。</desc>
@@ -315973,6 +316905,214 @@
   <programme start="20260326233000 +0800" stop="20260327000000 +0800" channel="好消息二台">
     <title lang="zh">爱＋好医生第294集</title>
     <desc lang="zh">黄𪻐宁主持。结合医疗专业及全人关怀的新型态节目，主持人黄𪻐宁医师亲访家庭，跨领域医疗顾问团全方位检视，提供最完整的健康资讯</desc>
+  </programme>
+  <programme start="20260325000000 +0800" stop="20260325010000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">台湾1001故事第462集</title>
+    <desc lang="zh">【台湾1001个故事】介绍台湾在地食材的故事,也是台湾最深刻的人生故事。故事的主角们,有的为著有机农业奋斗打拼,为这片土地奉献青春与血汗。 有的则是经过千百次的调味与尝试,只为了成就一道美味料理。对比著经营者与料理人的故事,他们或是为生活中年转业、或是离乡背井追寻梦想,人生路上各自遭逢百转千折的冲突与适应,才能在逆境中成功蜕变。</desc>
+  </programme>
+  <programme start="20260325010000 +0800" stop="20260325020000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">台湾启示录第413集</title>
+    <desc lang="zh">探讨新闻事件背后的艰辛内幕,取材包含人物故事、历史档案、社会观察,以及时事启发。用最客观的角度引领观众深入探讨事件的发展,并致力启迪民众的新思维。</desc>
+  </programme>
+  <programme start="20260325020000 +0800" stop="20260325030000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">美好の爱媛县第35集</title>
+    <desc lang="zh">深入介绍爱媛县的美食、美景与文化生活</desc>
+  </programme>
+  <programme start="20260325030000 +0800" stop="20260325040000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">请你跟我这样过第272集</title>
+    <desc lang="zh">侯昌明与黄文华的绝妙组合,健康生活资讯节目的第一品牌,最贴近你我的生活资讯,实用的内容,教大家轻松过生活、轻松当爸妈、贤慧当妻子、快乐生活一整天!节目中更有专家医生团坐镇,解决恼人的育儿问题,解答难以启齿的疾病困扰,谈不完的健康撇步,《请你跟我这样过》与你一起展开健康无毒新生活。</desc>
+  </programme>
+  <programme start="20260325040000 +0800" stop="20260325050000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">台湾1001故事第462集</title>
+    <desc lang="zh">【台湾1001个故事】介绍台湾在地食材的故事,也是台湾最深刻的人生故事。故事的主角们,有的为著有机农业奋斗打拼,为这片土地奉献青春与血汗。 有的则是经过千百次的调味与尝试,只为了成就一道美味料理。对比著经营者与料理人的故事,他们或是为生活中年转业、或是离乡背井追寻梦想,人生路上各自遭逢百转千折的冲突与适应,才能在逆境中成功蜕变。</desc>
+  </programme>
+  <programme start="20260325050000 +0800" stop="20260325060000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">进击的台湾第448集</title>
+    <desc lang="zh">《进击的台湾》介绍美食、传统产业与农林渔牧业,纪录在台湾这片土地上小人物的人生故事,快跟随《进击的台湾》的脚步一起来看看,平凡人不平凡的创业轨迹和精神,成功背后令人动容的点点滴滴,以及为梦想努力奋斗的辛勤过程。</desc>
+  </programme>
+  <programme start="20260325060000 +0800" stop="20260325070000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">MIT台湾志第100集</title>
+    <desc lang="zh">突破一般记录报导影片，平实却易流于平淡无味的刻板手法，另类开创了户外探险、旅游行脚节目，深度好看、知性感性兼顾，又能将文字与音乐有如行云流水般的自然融入，重要的是，我们及时保存下许多消逝的声音、消逝的物种、消逝的故事…</desc>
+  </programme>
+  <programme start="20260325070000 +0800" stop="20260325080000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">台湾启示录第413集</title>
+    <desc lang="zh">探讨新闻事件背后的艰辛内幕,取材包含人物故事、历史档案、社会观察,以及时事启发。用最客观的角度引领观众深入探讨事件的发展,并致力启迪民众的新思维。</desc>
+  </programme>
+  <programme start="20260325080000 +0800" stop="20260325083000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">彰化好食在第55集</title>
+    <desc lang="zh">好吃在彰化,拢总报乎你栽~~你有好料理,好功夫,嘛可以来抽号码牌,等待阮ㄟ记者来采访~~ </desc>
+  </programme>
+  <programme start="20260325083000 +0800" stop="20260325090000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">彰化好食在第56集</title>
+    <desc lang="zh">好吃在彰化,拢总报乎你栽~~你有好料理,好功夫,嘛可以来抽号码牌,等待阮ㄟ记者来采访~~ </desc>
+  </programme>
+  <programme start="20260325090000 +0800" stop="20260325100000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">进击的台湾第448集</title>
+    <desc lang="zh">《进击的台湾》介绍美食、传统产业与农林渔牧业,纪录在台湾这片土地上小人物的人生故事,快跟随《进击的台湾》的脚步一起来看看,平凡人不平凡的创业轨迹和精神,成功背后令人动容的点点滴滴,以及为梦想努力奋斗的辛勤过程。</desc>
+  </programme>
+  <programme start="20260325100000 +0800" stop="20260325110000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">保健抢先报第65集</title>
+    <desc lang="zh">节目内容包括最新的健康资讯、健康新闻、健康生活方式、健康保健，以及健康问题的预防和治疗。保健抢先报致力于为观众提供最全面、最权威的健康资讯，帮助观众保持健康、延长寿命。</desc>
+  </programme>
+  <programme start="20260325110000 +0800" stop="20260325120000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">台湾1001故事第462集</title>
+    <desc lang="zh">【台湾1001个故事】介绍台湾在地食材的故事,也是台湾最深刻的人生故事。故事的主角们,有的为著有机农业奋斗打拼,为这片土地奉献青春与血汗。 有的则是经过千百次的调味与尝试,只为了成就一道美味料理。对比著经营者与料理人的故事,他们或是为生活中年转业、或是离乡背井追寻梦想,人生路上各自遭逢百转千折的冲突与适应,才能在逆境中成功蜕变。</desc>
+  </programme>
+  <programme start="20260325120000 +0800" stop="20260325130000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">台湾启示录第413集</title>
+    <desc lang="zh">探讨新闻事件背后的艰辛内幕,取材包含人物故事、历史档案、社会观察,以及时事启发。用最客观的角度引领观众深入探讨事件的发展,并致力启迪民众的新思维。</desc>
+  </programme>
+  <programme start="20260325130000 +0800" stop="20260325140000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">进击的台湾第448集</title>
+    <desc lang="zh">《进击的台湾》介绍美食、传统产业与农林渔牧业,纪录在台湾这片土地上小人物的人生故事,快跟随《进击的台湾》的脚步一起来看看,平凡人不平凡的创业轨迹和精神,成功背后令人动容的点点滴滴,以及为梦想努力奋斗的辛勤过程。</desc>
+  </programme>
+  <programme start="20260325140000 +0800" stop="20260325150000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">保健抢先报第58集</title>
+    <desc lang="zh">节目内容包括最新的健康资讯、健康新闻、健康生活方式、健康保健，以及健康问题的预防和治疗。保健抢先报致力于为观众提供最全面、最权威的健康资讯，帮助观众保持健康、延长寿命。</desc>
+  </programme>
+  <programme start="20260325150000 +0800" stop="20260325160000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">台湾1001故事第462集</title>
+    <desc lang="zh">【台湾1001个故事】介绍台湾在地食材的故事,也是台湾最深刻的人生故事。故事的主角们,有的为著有机农业奋斗打拼,为这片土地奉献青春与血汗。 有的则是经过千百次的调味与尝试,只为了成就一道美味料理。对比著经营者与料理人的故事,他们或是为生活中年转业、或是离乡背井追寻梦想,人生路上各自遭逢百转千折的冲突与适应,才能在逆境中成功蜕变。</desc>
+  </programme>
+  <programme start="20260325160000 +0800" stop="20260325170000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">MIT台湾志第100集</title>
+    <desc lang="zh">突破一般记录报导影片，平实却易流于平淡无味的刻板手法，另类开创了户外探险、旅游行脚节目，深度好看、知性感性兼顾，又能将文字与音乐有如行云流水般的自然融入，重要的是，我们及时保存下许多消逝的声音、消逝的物种、消逝的故事…</desc>
+  </programme>
+  <programme start="20260325170000 +0800" stop="20260325180000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">美好の爱媛县第36集</title>
+    <desc lang="zh">深入介绍爱媛县的美食、美景与文化生活</desc>
+  </programme>
+  <programme start="20260325180000 +0800" stop="20260325190000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">台湾启示录第414集</title>
+    <desc lang="zh">探讨新闻事件背后的艰辛内幕,取材包含人物故事、历史档案、社会观察,以及时事启发。用最客观的角度引领观众深入探讨事件的发展,并致力启迪民众的新思维。</desc>
+  </programme>
+  <programme start="20260325190000 +0800" stop="20260325200000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">台湾1001故事第463集</title>
+    <desc lang="zh">【台湾1001个故事】介绍台湾在地食材的故事,也是台湾最深刻的人生故事。故事的主角们,有的为著有机农业奋斗打拼,为这片土地奉献青春与血汗。 有的则是经过千百次的调味与尝试,只为了成就一道美味料理。对比著经营者与料理人的故事,他们或是为生活中年转业、或是离乡背井追寻梦想,人生路上各自遭逢百转千折的冲突与适应,才能在逆境中成功蜕变。</desc>
+  </programme>
+  <programme start="20260325200000 +0800" stop="20260325203000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">彰化好食在第57集</title>
+    <desc lang="zh">好吃在彰化,拢总报乎你栽~~你有好料理,好功夫,嘛可以来抽号码牌,等待阮ㄟ记者来采访~~ </desc>
+  </programme>
+  <programme start="20260325203000 +0800" stop="20260325210000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">彰化好食在第58集</title>
+    <desc lang="zh">好吃在彰化,拢总报乎你栽~~你有好料理,好功夫,嘛可以来抽号码牌,等待阮ㄟ记者来采访~~ </desc>
+  </programme>
+  <programme start="20260325210000 +0800" stop="20260325220000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">MIT台湾志第101集</title>
+    <desc lang="zh">突破一般记录报导影片，平实却易流于平淡无味的刻板手法，另类开创了户外探险、旅游行脚节目，深度好看、知性感性兼顾，又能将文字与音乐有如行云流水般的自然融入，重要的是，我们及时保存下许多消逝的声音、消逝的物种、消逝的故事…</desc>
+  </programme>
+  <programme start="20260325220000 +0800" stop="20260325230000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">进击的台湾第449集</title>
+    <desc lang="zh">《进击的台湾》介绍美食、传统产业与农林渔牧业,纪录在台湾这片土地上小人物的人生故事,快跟随《进击的台湾》的脚步一起来看看,平凡人不平凡的创业轨迹和精神,成功背后令人动容的点点滴滴,以及为梦想努力奋斗的辛勤过程。</desc>
+  </programme>
+  <programme start="20260325230000 +0800" stop="20260326000000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">请你跟我这样过第273集</title>
+    <desc lang="zh">侯昌明与黄文华的绝妙组合,健康生活资讯节目的第一品牌,最贴近你我的生活资讯,实用的内容,教大家轻松过生活、轻松当爸妈、贤慧当妻子、快乐生活一整天!节目中更有专家医生团坐镇,解决恼人的育儿问题,解答难以启齿的疾病困扰,谈不完的健康撇步,《请你跟我这样过》与你一起展开健康无毒新生活。</desc>
+  </programme>
+  <programme start="20260326000000 +0800" stop="20260326010000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">台湾1001故事第463集</title>
+    <desc lang="zh">【台湾1001个故事】介绍台湾在地食材的故事,也是台湾最深刻的人生故事。故事的主角们,有的为著有机农业奋斗打拼,为这片土地奉献青春与血汗。 有的则是经过千百次的调味与尝试,只为了成就一道美味料理。对比著经营者与料理人的故事,他们或是为生活中年转业、或是离乡背井追寻梦想,人生路上各自遭逢百转千折的冲突与适应,才能在逆境中成功蜕变。</desc>
+  </programme>
+  <programme start="20260326010000 +0800" stop="20260326020000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">台湾启示录第414集</title>
+    <desc lang="zh">探讨新闻事件背后的艰辛内幕,取材包含人物故事、历史档案、社会观察,以及时事启发。用最客观的角度引领观众深入探讨事件的发展,并致力启迪民众的新思维。</desc>
+  </programme>
+  <programme start="20260326020000 +0800" stop="20260326030000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">美好の爱媛县第36集</title>
+    <desc lang="zh">深入介绍爱媛县的美食、美景与文化生活</desc>
+  </programme>
+  <programme start="20260326030000 +0800" stop="20260326040000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">请你跟我这样过第273集</title>
+    <desc lang="zh">侯昌明与黄文华的绝妙组合,健康生活资讯节目的第一品牌,最贴近你我的生活资讯,实用的内容,教大家轻松过生活、轻松当爸妈、贤慧当妻子、快乐生活一整天!节目中更有专家医生团坐镇,解决恼人的育儿问题,解答难以启齿的疾病困扰,谈不完的健康撇步,《请你跟我这样过》与你一起展开健康无毒新生活。</desc>
+  </programme>
+  <programme start="20260326040000 +0800" stop="20260326050000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">台湾1001故事第463集</title>
+    <desc lang="zh">【台湾1001个故事】介绍台湾在地食材的故事,也是台湾最深刻的人生故事。故事的主角们,有的为著有机农业奋斗打拼,为这片土地奉献青春与血汗。 有的则是经过千百次的调味与尝试,只为了成就一道美味料理。对比著经营者与料理人的故事,他们或是为生活中年转业、或是离乡背井追寻梦想,人生路上各自遭逢百转千折的冲突与适应,才能在逆境中成功蜕变。</desc>
+  </programme>
+  <programme start="20260326050000 +0800" stop="20260326060000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">进击的台湾第449集</title>
+    <desc lang="zh">《进击的台湾》介绍美食、传统产业与农林渔牧业,纪录在台湾这片土地上小人物的人生故事,快跟随《进击的台湾》的脚步一起来看看,平凡人不平凡的创业轨迹和精神,成功背后令人动容的点点滴滴,以及为梦想努力奋斗的辛勤过程。</desc>
+  </programme>
+  <programme start="20260326060000 +0800" stop="20260326070000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">MIT台湾志第101集</title>
+    <desc lang="zh">突破一般记录报导影片，平实却易流于平淡无味的刻板手法，另类开创了户外探险、旅游行脚节目，深度好看、知性感性兼顾，又能将文字与音乐有如行云流水般的自然融入，重要的是，我们及时保存下许多消逝的声音、消逝的物种、消逝的故事…</desc>
+  </programme>
+  <programme start="20260326070000 +0800" stop="20260326080000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">台湾启示录第414集</title>
+    <desc lang="zh">探讨新闻事件背后的艰辛内幕,取材包含人物故事、历史档案、社会观察,以及时事启发。用最客观的角度引领观众深入探讨事件的发展,并致力启迪民众的新思维。</desc>
+  </programme>
+  <programme start="20260326080000 +0800" stop="20260326083000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">彰化好食在第57集</title>
+    <desc lang="zh">好吃在彰化,拢总报乎你栽~~你有好料理,好功夫,嘛可以来抽号码牌,等待阮ㄟ记者来采访~~ </desc>
+  </programme>
+  <programme start="20260326083000 +0800" stop="20260326090000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">彰化好食在第58集</title>
+    <desc lang="zh">好吃在彰化,拢总报乎你栽~~你有好料理,好功夫,嘛可以来抽号码牌,等待阮ㄟ记者来采访~~ </desc>
+  </programme>
+  <programme start="20260326090000 +0800" stop="20260326100000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">进击的台湾第449集</title>
+    <desc lang="zh">《进击的台湾》介绍美食、传统产业与农林渔牧业,纪录在台湾这片土地上小人物的人生故事,快跟随《进击的台湾》的脚步一起来看看,平凡人不平凡的创业轨迹和精神,成功背后令人动容的点点滴滴,以及为梦想努力奋斗的辛勤过程。</desc>
+  </programme>
+  <programme start="20260326100000 +0800" stop="20260326110000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">保健抢先报第65集</title>
+    <desc lang="zh">节目内容包括最新的健康资讯、健康新闻、健康生活方式、健康保健，以及健康问题的预防和治疗。保健抢先报致力于为观众提供最全面、最权威的健康资讯，帮助观众保持健康、延长寿命。</desc>
+  </programme>
+  <programme start="20260326110000 +0800" stop="20260326120000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">台湾1001故事第463集</title>
+    <desc lang="zh">【台湾1001个故事】介绍台湾在地食材的故事,也是台湾最深刻的人生故事。故事的主角们,有的为著有机农业奋斗打拼,为这片土地奉献青春与血汗。 有的则是经过千百次的调味与尝试,只为了成就一道美味料理。对比著经营者与料理人的故事,他们或是为生活中年转业、或是离乡背井追寻梦想,人生路上各自遭逢百转千折的冲突与适应,才能在逆境中成功蜕变。</desc>
+  </programme>
+  <programme start="20260326120000 +0800" stop="20260326130000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">台湾启示录第414集</title>
+    <desc lang="zh">探讨新闻事件背后的艰辛内幕,取材包含人物故事、历史档案、社会观察,以及时事启发。用最客观的角度引领观众深入探讨事件的发展,并致力启迪民众的新思维。</desc>
+  </programme>
+  <programme start="20260326130000 +0800" stop="20260326140000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">进击的台湾第449集</title>
+    <desc lang="zh">《进击的台湾》介绍美食、传统产业与农林渔牧业,纪录在台湾这片土地上小人物的人生故事,快跟随《进击的台湾》的脚步一起来看看,平凡人不平凡的创业轨迹和精神,成功背后令人动容的点点滴滴,以及为梦想努力奋斗的辛勤过程。</desc>
+  </programme>
+  <programme start="20260326140000 +0800" stop="20260326150000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">保健抢先报第58集</title>
+    <desc lang="zh">节目内容包括最新的健康资讯、健康新闻、健康生活方式、健康保健，以及健康问题的预防和治疗。保健抢先报致力于为观众提供最全面、最权威的健康资讯，帮助观众保持健康、延长寿命。</desc>
+  </programme>
+  <programme start="20260326150000 +0800" stop="20260326160000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">台湾1001故事第463集</title>
+    <desc lang="zh">【台湾1001个故事】介绍台湾在地食材的故事,也是台湾最深刻的人生故事。故事的主角们,有的为著有机农业奋斗打拼,为这片土地奉献青春与血汗。 有的则是经过千百次的调味与尝试,只为了成就一道美味料理。对比著经营者与料理人的故事,他们或是为生活中年转业、或是离乡背井追寻梦想,人生路上各自遭逢百转千折的冲突与适应,才能在逆境中成功蜕变。</desc>
+  </programme>
+  <programme start="20260326160000 +0800" stop="20260326170000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">MIT台湾志第101集</title>
+    <desc lang="zh">突破一般记录报导影片，平实却易流于平淡无味的刻板手法，另类开创了户外探险、旅游行脚节目，深度好看、知性感性兼顾，又能将文字与音乐有如行云流水般的自然融入，重要的是，我们及时保存下许多消逝的声音、消逝的物种、消逝的故事…</desc>
+  </programme>
+  <programme start="20260326170000 +0800" stop="20260326180000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">美好の爱媛县第37集</title>
+    <desc lang="zh">深入介绍爱媛县的美食、美景与文化生活</desc>
+  </programme>
+  <programme start="20260326180000 +0800" stop="20260326190000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">台湾启示录第415集</title>
+    <desc lang="zh">探讨新闻事件背后的艰辛内幕,取材包含人物故事、历史档案、社会观察,以及时事启发。用最客观的角度引领观众深入探讨事件的发展,并致力启迪民众的新思维。</desc>
+  </programme>
+  <programme start="20260326190000 +0800" stop="20260326200000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">台湾1001故事第416集</title>
+    <desc lang="zh">【台湾1001个故事】介绍台湾在地食材的故事,也是台湾最深刻的人生故事。故事的主角们,有的为著有机农业奋斗打拼,为这片土地奉献青春与血汗。 有的则是经过千百次的调味与尝试,只为了成就一道美味料理。对比著经营者与料理人的故事,他们或是为生活中年转业、或是离乡背井追寻梦想,人生路上各自遭逢百转千折的冲突与适应,才能在逆境中成功蜕变。</desc>
+  </programme>
+  <programme start="20260326200000 +0800" stop="20260326203000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">彰化好食在第59集</title>
+    <desc lang="zh">好吃在彰化,拢总报乎你栽~~你有好料理,好功夫,嘛可以来抽号码牌,等待阮ㄟ记者来采访~~ </desc>
+  </programme>
+  <programme start="20260326203000 +0800" stop="20260326210000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">彰化好食在第60集</title>
+    <desc lang="zh">好吃在彰化,拢总报乎你栽~~你有好料理,好功夫,嘛可以来抽号码牌,等待阮ㄟ记者来采访~~ </desc>
+  </programme>
+  <programme start="20260326210000 +0800" stop="20260326220000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">MIT台湾志第102集</title>
+    <desc lang="zh">突破一般记录报导影片，平实却易流于平淡无味的刻板手法，另类开创了户外探险、旅游行脚节目，深度好看、知性感性兼顾，又能将文字与音乐有如行云流水般的自然融入，重要的是，我们及时保存下许多消逝的声音、消逝的物种、消逝的故事…</desc>
+  </programme>
+  <programme start="20260326220000 +0800" stop="20260326230000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">进击的台湾第450集</title>
+    <desc lang="zh">《进击的台湾》介绍美食、传统产业与农林渔牧业,纪录在台湾这片土地上小人物的人生故事,快跟随《进击的台湾》的脚步一起来看看,平凡人不平凡的创业轨迹和精神,成功背后令人动容的点点滴滴,以及为梦想努力奋斗的辛勤过程。</desc>
+  </programme>
+  <programme start="20260326230000 +0800" stop="20260327000000 +0800" channel="靖天综合台靖天">
+    <title lang="zh">请你跟我这样过第274集</title>
+    <desc lang="zh">侯昌明与黄文华的绝妙组合,健康生活资讯节目的第一品牌,最贴近你我的生活资讯,实用的内容,教大家轻松过生活、轻松当爸妈、贤慧当妻子、快乐生活一整天!节目中更有专家医生团坐镇,解决恼人的育儿问题,解答难以启齿的疾病困扰,谈不完的健康撇步,《请你跟我这样过》与你一起展开健康无毒新生活。</desc>
   </programme>
   <programme start="20260325000000 +0800" stop="20260325010000 +0800" channel="靖天资讯台靖天">
     <title lang="zh">铜板美食呷透透第21集</title>
@@ -316445,6 +317585,334 @@
   <programme start="20260326220000 +0800" stop="20260327003000 +0800" channel="靖天日本台靖天">
     <title lang="zh">海边的朝日与骗子们</title>
     <desc lang="zh">位于福岛县南相马市已有百年历史的「朝日戏院」跟其他电影院不同，他们放映的是老电影，客源自然不多。朝日戏院的经理森田保造打算关闭电影院。就在他准备烧毁35毫米胶卷时，一位自称茂木莉子的女子突然出现，并试图阻止他。茂木莉子远从东京赶来，是因为高中时的恩师热爱电影，毕业后的茂木去医院探视老师时，曾承诺老师会去抢救这座老戏院。「朝日戏院」虽然老旧但有其重要性，她带给人们许多美好的回忆。但惨淡的业绩，让经营者再也撑不下去，茂木是否能让朝日戏院继续经营下去呢？</desc>
+  </programme>
+  <programme start="20260325000000 +0800" stop="20260325003000 +0800" channel="唯心电视台">
+    <title lang="zh">天瘟永息天灾永息</title>
+    <desc lang="zh">天瘟永息天灾永息</desc>
+  </programme>
+  <programme start="20260325003000 +0800" stop="20260325010000 +0800" channel="唯心电视台">
+    <title lang="zh">天瘟永息天灾永息</title>
+    <desc lang="zh">天瘟永息天灾永息</desc>
+  </programme>
+  <programme start="20260325010000 +0800" stop="20260325020000 +0800" channel="唯心电视台">
+    <title lang="zh">唯心天下事第3668集</title>
+    <desc lang="zh">唯心天下事</desc>
+  </programme>
+  <programme start="20260325020000 +0800" stop="20260325023000 +0800" channel="唯心电视台">
+    <title lang="zh">混元禅师宝诰 王禅老祖天威第125集</title>
+    <desc lang="zh">《混元禅师宝诰 王禅老祖天威》是一个揭示混元禅宗智慧的特别节目。这里将探索混元禅师的宝诰，揭示其独特的禅宗教义。深入研究王禅老祖的教诲与启示，探索禅修之道与境界。节目内容将包括混元禅修方法、冥想技巧以及提升心灵智慧的秘诀。让我们一同感受王禅老祖天威，启迪灵性，追求心灵上的平和与觉醒。</desc>
+  </programme>
+  <programme start="20260325023000 +0800" stop="20260325030000 +0800" channel="唯心电视台">
+    <title lang="zh">华人班授课Ⅰ第50集</title>
+    <desc lang="zh">华人班授课Ⅰ</desc>
+  </programme>
+  <programme start="20260325030000 +0800" stop="20260325033000 +0800" channel="唯心电视台">
+    <title lang="zh">义工利人天第1059集</title>
+    <desc lang="zh">义工利人天</desc>
+  </programme>
+  <programme start="20260325033000 +0800" stop="20260325040000 +0800" channel="唯心电视台">
+    <title lang="zh">金刚般若波罗蜜经第676集</title>
+    <desc lang="zh">金刚般若波罗蜜经</desc>
+  </programme>
+  <programme start="20260325040000 +0800" stop="20260325043000 +0800" channel="唯心电视台">
+    <title lang="zh">金刚般若波罗蜜经第677集</title>
+    <desc lang="zh">金刚般若波罗蜜经</desc>
+  </programme>
+  <programme start="20260325043000 +0800" stop="20260325050000 +0800" channel="唯心电视台">
+    <title lang="zh">六祖大师法宝坛经第86集</title>
+    <desc lang="zh">《六祖大师法宝坛经》是一部珍贵的佛教经典，深受信众尊崇。本节目将深入解读这部经典，探索六祖大师的智慧与教诲。透过导师的讲解与悟道分享，带领您亲近佛法的真谛。从六祖大师的教诲中汲取智慧，启发修行之路，使心灵获得洗涤与升华。投入《六祖大师法宝坛经》节目，引领您踏上灵性之旅，体悟生命的意义与真谛。</desc>
+  </programme>
+  <programme start="20260325050000 +0800" stop="20260325060000 +0800" channel="唯心电视台">
+    <title lang="zh">早课</title>
+    <desc lang="zh">早课</desc>
+  </programme>
+  <programme start="20260325060000 +0800" stop="20260325063000 +0800" channel="唯心电视台">
+    <title lang="zh">王禅老祖玄妙真经第185集</title>
+    <desc lang="zh">王禅老祖玄妙真经</desc>
+  </programme>
+  <programme start="20260325063000 +0800" stop="20260325073000 +0800" channel="唯心电视台">
+    <title lang="zh">唯心天下事第4528集</title>
+    <desc lang="zh">唯心天下事</desc>
+  </programme>
+  <programme start="20260325073000 +0800" stop="20260325080000 +0800" channel="唯心电视台">
+    <title lang="zh">慈悲灵感王禅老祖第360集</title>
+    <desc lang="zh">慈悲灵感王禅老祖</desc>
+  </programme>
+  <programme start="20260325080000 +0800" stop="20260325083000 +0800" channel="唯心电视台">
+    <title lang="zh">文平嫂的灶咖第36集</title>
+    <desc lang="zh">文平嫂的灶咖</desc>
+  </programme>
+  <programme start="20260325083000 +0800" stop="20260325090000 +0800" channel="唯心电视台">
+    <title lang="zh">台湾宗教学会第13集</title>
+    <desc lang="zh">台湾宗教学会</desc>
+  </programme>
+  <programme start="20260325090000 +0800" stop="20260325093000 +0800" channel="唯心电视台">
+    <title lang="zh">金刚般若波罗蜜经第676集</title>
+    <desc lang="zh">金刚般若波罗蜜经</desc>
+  </programme>
+  <programme start="20260325093000 +0800" stop="20260325100000 +0800" channel="唯心电视台">
+    <title lang="zh">金刚般若波罗蜜经第677集</title>
+    <desc lang="zh">金刚般若波罗蜜经</desc>
+  </programme>
+  <programme start="20260325100000 +0800" stop="20260325103000 +0800" channel="唯心电视台">
+    <title lang="zh">圣境之美</title>
+    <desc lang="zh">圣境之美</desc>
+  </programme>
+  <programme start="20260325103000 +0800" stop="20260325110000 +0800" channel="唯心电视台">
+    <title lang="zh">混元禅师行道功德天第7集</title>
+    <desc lang="zh">混元禅师行道功德天</desc>
+  </programme>
+  <programme start="20260325110000 +0800" stop="20260325113000 +0800" channel="唯心电视台">
+    <title lang="zh">华人班授课Ⅰ第50集</title>
+    <desc lang="zh">华人班授课Ⅰ</desc>
+  </programme>
+  <programme start="20260325113000 +0800" stop="20260325120000 +0800" channel="唯心电视台">
+    <title lang="zh">鬼谷仙师天德经第75集</title>
+    <desc lang="zh">《鬼谷仙师天德经》是一部古老而神秘的经典，蕴含著深奥的道家智慧。这个节目将深入探索鬼谷仙师的教义，揭示其中所蕴含的天地之道。透过专家学者的解说，您将了解到鬼谷仙师的修行方法、哲学思想，并深入了解道家的经典典籍。节目中将分享实际应用，让您在生活中融入道家智慧，追求内在的平和与升华。加入《鬼谷仙师天德经》节目，开启灵性之旅，寻找心灵的辉煌与解脱。</desc>
+  </programme>
+  <programme start="20260325120000 +0800" stop="20260325123000 +0800" channel="唯心电视台">
+    <title lang="zh">王禅老祖玄妙真经第185集</title>
+    <desc lang="zh">王禅老祖玄妙真经</desc>
+  </programme>
+  <programme start="20260325123000 +0800" stop="20260325130000 +0800" channel="唯心电视台">
+    <title lang="zh">台湾宗教学会第14集</title>
+    <desc lang="zh">台湾宗教学会</desc>
+  </programme>
+  <programme start="20260325130000 +0800" stop="20260325133000 +0800" channel="唯心电视台">
+    <title lang="zh">慈悲灵感王禅老祖第360集</title>
+    <desc lang="zh">慈悲灵感王禅老祖</desc>
+  </programme>
+  <programme start="20260325133000 +0800" stop="20260325143000 +0800" channel="唯心电视台">
+    <title lang="zh">天瘟永息天灾永息</title>
+    <desc lang="zh">天瘟永息天灾永息</desc>
+  </programme>
+  <programme start="20260325143000 +0800" stop="20260325150000 +0800" channel="唯心电视台">
+    <title lang="zh">文平嫂的灶咖第36集</title>
+    <desc lang="zh">文平嫂的灶咖</desc>
+  </programme>
+  <programme start="20260325150000 +0800" stop="20260325153000 +0800" channel="唯心电视台">
+    <title lang="zh">混元禅师行道功德天第7集</title>
+    <desc lang="zh">混元禅师行道功德天</desc>
+  </programme>
+  <programme start="20260325153000 +0800" stop="20260325160000 +0800" channel="唯心电视台">
+    <title lang="zh">全民健康保健第646集</title>
+    <desc lang="zh">全民健康保健</desc>
+  </programme>
+  <programme start="20260325160000 +0800" stop="20260325163000 +0800" channel="唯心电视台">
+    <title lang="zh">鬼谷仙师天德经第75集</title>
+    <desc lang="zh">《鬼谷仙师天德经》是一部古老而神秘的经典，蕴含著深奥的道家智慧。这个节目将深入探索鬼谷仙师的教义，揭示其中所蕴含的天地之道。透过专家学者的解说，您将了解到鬼谷仙师的修行方法、哲学思想，并深入了解道家的经典典籍。节目中将分享实际应用，让您在生活中融入道家智慧，追求内在的平和与升华。加入《鬼谷仙师天德经》节目，开启灵性之旅，寻找心灵的辉煌与解脱。</desc>
+  </programme>
+  <programme start="20260325163000 +0800" stop="20260325173000 +0800" channel="唯心电视台">
+    <title lang="zh">工厂风水经第80集</title>
+    <desc lang="zh">《工厂风水经》节目将带您深入了解工厂风水的奥秘。透过专业风水师的解说，探索工厂布局、建筑设计对产业运势的影响。了解如何运用风水原理，提升生产效率、促进员工和谐，创造积极氛围。每集节目将分享成功案例，助您在工厂营运中发挥最大潜能，迎向成功与繁荣。</desc>
+  </programme>
+  <programme start="20260325173000 +0800" stop="20260325180000 +0800" channel="唯心电视台">
+    <title lang="zh">王禅老祖玄妙真经第185集</title>
+    <desc lang="zh">王禅老祖玄妙真经</desc>
+  </programme>
+  <programme start="20260325180000 +0800" stop="20260325183000 +0800" channel="唯心电视台">
+    <title lang="zh">慈悲灵感王禅老祖第360集</title>
+    <desc lang="zh">慈悲灵感王禅老祖</desc>
+  </programme>
+  <programme start="20260325183000 +0800" stop="20260325193000 +0800" channel="唯心电视台">
+    <title lang="zh">唯心天下事第4528集</title>
+    <desc lang="zh">唯心天下事</desc>
+  </programme>
+  <programme start="20260325193000 +0800" stop="20260325200000 +0800" channel="唯心电视台">
+    <title lang="zh">台湾宗教学会第14集</title>
+    <desc lang="zh">台湾宗教学会</desc>
+  </programme>
+  <programme start="20260325200000 +0800" stop="20260325203000 +0800" channel="唯心电视台">
+    <title lang="zh">混元禅师行道功德天第8集</title>
+    <desc lang="zh">混元禅师行道功德天</desc>
+  </programme>
+  <programme start="20260325203000 +0800" stop="20260325210000 +0800" channel="唯心电视台">
+    <title lang="zh">文平嫂的灶咖第37集</title>
+    <desc lang="zh">文平嫂的灶咖</desc>
+  </programme>
+  <programme start="20260325210000 +0800" stop="20260325220000 +0800" channel="唯心电视台">
+    <title lang="zh">唯心天下事第4547集</title>
+    <desc lang="zh">唯心天下事</desc>
+  </programme>
+  <programme start="20260325220000 +0800" stop="20260325223000 +0800" channel="唯心电视台">
+    <title lang="zh">金刚般若波罗蜜经第678集</title>
+    <desc lang="zh">金刚般若波罗蜜经</desc>
+  </programme>
+  <programme start="20260325223000 +0800" stop="20260325230000 +0800" channel="唯心电视台">
+    <title lang="zh">金刚般若波罗蜜经第679集</title>
+    <desc lang="zh">金刚般若波罗蜜经</desc>
+  </programme>
+  <programme start="20260325230000 +0800" stop="20260325233000 +0800" channel="唯心电视台">
+    <title lang="zh">华人班授课Ⅰ第51集</title>
+    <desc lang="zh">华人班授课Ⅰ</desc>
+  </programme>
+  <programme start="20260325233000 +0800" stop="20260326000000 +0800" channel="唯心电视台">
+    <title lang="zh">鬼谷仙师天德经第75集</title>
+    <desc lang="zh">《鬼谷仙师天德经》是一部古老而神秘的经典，蕴含著深奥的道家智慧。这个节目将深入探索鬼谷仙师的教义，揭示其中所蕴含的天地之道。透过专家学者的解说，您将了解到鬼谷仙师的修行方法、哲学思想，并深入了解道家的经典典籍。节目中将分享实际应用，让您在生活中融入道家智慧，追求内在的平和与升华。加入《鬼谷仙师天德经》节目，开启灵性之旅，寻找心灵的辉煌与解脱。</desc>
+  </programme>
+  <programme start="20260326000000 +0800" stop="20260326003000 +0800" channel="唯心电视台">
+    <title lang="zh">天瘟永息天灾永息</title>
+    <desc lang="zh">天瘟永息天灾永息</desc>
+  </programme>
+  <programme start="20260326003000 +0800" stop="20260326010000 +0800" channel="唯心电视台">
+    <title lang="zh">天瘟永息天灾永息</title>
+    <desc lang="zh">天瘟永息天灾永息</desc>
+  </programme>
+  <programme start="20260326010000 +0800" stop="20260326020000 +0800" channel="唯心电视台">
+    <title lang="zh">唯心天下事第4528集</title>
+    <desc lang="zh">唯心天下事</desc>
+  </programme>
+  <programme start="20260326020000 +0800" stop="20260326023000 +0800" channel="唯心电视台">
+    <title lang="zh">慈悲灵感王禅老祖第360集</title>
+    <desc lang="zh">慈悲灵感王禅老祖</desc>
+  </programme>
+  <programme start="20260326023000 +0800" stop="20260326030000 +0800" channel="唯心电视台">
+    <title lang="zh">华人班授课Ⅰ第51集</title>
+    <desc lang="zh">华人班授课Ⅰ</desc>
+  </programme>
+  <programme start="20260326030000 +0800" stop="20260326033000 +0800" channel="唯心电视台">
+    <title lang="zh">混元禅师行道功德天第8集</title>
+    <desc lang="zh">混元禅师行道功德天</desc>
+  </programme>
+  <programme start="20260326033000 +0800" stop="20260326040000 +0800" channel="唯心电视台">
+    <title lang="zh">金刚般若波罗蜜经第678集</title>
+    <desc lang="zh">金刚般若波罗蜜经</desc>
+  </programme>
+  <programme start="20260326040000 +0800" stop="20260326043000 +0800" channel="唯心电视台">
+    <title lang="zh">金刚般若波罗蜜经第679集</title>
+    <desc lang="zh">金刚般若波罗蜜经</desc>
+  </programme>
+  <programme start="20260326043000 +0800" stop="20260326050000 +0800" channel="唯心电视台">
+    <title lang="zh">台湾宗教学会第14集</title>
+    <desc lang="zh">台湾宗教学会</desc>
+  </programme>
+  <programme start="20260326050000 +0800" stop="20260326060000 +0800" channel="唯心电视台">
+    <title lang="zh">早课</title>
+    <desc lang="zh">早课</desc>
+  </programme>
+  <programme start="20260326060000 +0800" stop="20260326063000 +0800" channel="唯心电视台">
+    <title lang="zh">王禅老祖玄妙真经第186集</title>
+    <desc lang="zh">王禅老祖玄妙真经</desc>
+  </programme>
+  <programme start="20260326063000 +0800" stop="20260326073000 +0800" channel="唯心电视台">
+    <title lang="zh">唯心天下事第4528集</title>
+    <desc lang="zh">唯心天下事</desc>
+  </programme>
+  <programme start="20260326073000 +0800" stop="20260326080000 +0800" channel="唯心电视台">
+    <title lang="zh">慈悲灵感王禅老祖第361集</title>
+    <desc lang="zh">慈悲灵感王禅老祖</desc>
+  </programme>
+  <programme start="20260326080000 +0800" stop="20260326083000 +0800" channel="唯心电视台">
+    <title lang="zh">大家来学易经第172集</title>
+    <desc lang="zh">易经风水专业电视台WXTV大家来学易经『大家来学易经』每周一 ~ 三 20:00 ~ 20:30首播</desc>
+  </programme>
+  <programme start="20260326083000 +0800" stop="20260326090000 +0800" channel="唯心电视台">
+    <title lang="zh">健康101第418集</title>
+    <desc lang="zh">健康101</desc>
+  </programme>
+  <programme start="20260326090000 +0800" stop="20260326093000 +0800" channel="唯心电视台">
+    <title lang="zh">金刚般若波罗蜜经第678集</title>
+    <desc lang="zh">金刚般若波罗蜜经</desc>
+  </programme>
+  <programme start="20260326093000 +0800" stop="20260326100000 +0800" channel="唯心电视台">
+    <title lang="zh">金刚般若波罗蜜经第679集</title>
+    <desc lang="zh">金刚般若波罗蜜经</desc>
+  </programme>
+  <programme start="20260326100000 +0800" stop="20260326103000 +0800" channel="唯心电视台">
+    <title lang="zh">圣境之美</title>
+    <desc lang="zh">圣境之美</desc>
+  </programme>
+  <programme start="20260326103000 +0800" stop="20260326110000 +0800" channel="唯心电视台">
+    <title lang="zh">台商会第58集</title>
+    <desc lang="zh">台商会</desc>
+  </programme>
+  <programme start="20260326110000 +0800" stop="20260326113000 +0800" channel="唯心电视台">
+    <title lang="zh">华人班授课Ⅰ第51集</title>
+    <desc lang="zh">华人班授课Ⅰ</desc>
+  </programme>
+  <programme start="20260326113000 +0800" stop="20260326120000 +0800" channel="唯心电视台">
+    <title lang="zh">鬼谷仙师天德经第76集</title>
+    <desc lang="zh">《鬼谷仙师天德经》是一部古老而神秘的经典，蕴含著深奥的道家智慧。这个节目将深入探索鬼谷仙师的教义，揭示其中所蕴含的天地之道。透过专家学者的解说，您将了解到鬼谷仙师的修行方法、哲学思想，并深入了解道家的经典典籍。节目中将分享实际应用，让您在生活中融入道家智慧，追求内在的平和与升华。加入《鬼谷仙师天德经》节目，开启灵性之旅，寻找心灵的辉煌与解脱。</desc>
+  </programme>
+  <programme start="20260326120000 +0800" stop="20260326123000 +0800" channel="唯心电视台">
+    <title lang="zh">王禅老祖玄妙真经第186集</title>
+    <desc lang="zh">王禅老祖玄妙真经</desc>
+  </programme>
+  <programme start="20260326123000 +0800" stop="20260326130000 +0800" channel="唯心电视台">
+    <title lang="zh">健康101第418集</title>
+    <desc lang="zh">健康101</desc>
+  </programme>
+  <programme start="20260326130000 +0800" stop="20260326133000 +0800" channel="唯心电视台">
+    <title lang="zh">慈悲灵感王禅老祖第361集</title>
+    <desc lang="zh">慈悲灵感王禅老祖</desc>
+  </programme>
+  <programme start="20260326133000 +0800" stop="20260326143000 +0800" channel="唯心电视台">
+    <title lang="zh">天瘟永息天灾永息</title>
+    <desc lang="zh">天瘟永息天灾永息</desc>
+  </programme>
+  <programme start="20260326143000 +0800" stop="20260326150000 +0800" channel="唯心电视台">
+    <title lang="zh">大家来学易经第172集</title>
+    <desc lang="zh">易经风水专业电视台WXTV大家来学易经『大家来学易经』每周一 ~ 三 20:00 ~ 20:30首播</desc>
+  </programme>
+  <programme start="20260326150000 +0800" stop="20260326153000 +0800" channel="唯心电视台">
+    <title lang="zh">台商会第58集</title>
+    <desc lang="zh">台商会</desc>
+  </programme>
+  <programme start="20260326153000 +0800" stop="20260326160000 +0800" channel="唯心电视台">
+    <title lang="zh">全民健康保健第647集</title>
+    <desc lang="zh">全民健康保健</desc>
+  </programme>
+  <programme start="20260326160000 +0800" stop="20260326163000 +0800" channel="唯心电视台">
+    <title lang="zh">鬼谷仙师天德经第76集</title>
+    <desc lang="zh">《鬼谷仙师天德经》是一部古老而神秘的经典，蕴含著深奥的道家智慧。这个节目将深入探索鬼谷仙师的教义，揭示其中所蕴含的天地之道。透过专家学者的解说，您将了解到鬼谷仙师的修行方法、哲学思想，并深入了解道家的经典典籍。节目中将分享实际应用，让您在生活中融入道家智慧，追求内在的平和与升华。加入《鬼谷仙师天德经》节目，开启灵性之旅，寻找心灵的辉煌与解脱。</desc>
+  </programme>
+  <programme start="20260326163000 +0800" stop="20260326173000 +0800" channel="唯心电视台">
+    <title lang="zh">工厂风水经第81集</title>
+    <desc lang="zh">《工厂风水经》节目将带您深入了解工厂风水的奥秘。透过专业风水师的解说，探索工厂布局、建筑设计对产业运势的影响。了解如何运用风水原理，提升生产效率、促进员工和谐，创造积极氛围。每集节目将分享成功案例，助您在工厂营运中发挥最大潜能，迎向成功与繁荣。</desc>
+  </programme>
+  <programme start="20260326173000 +0800" stop="20260326180000 +0800" channel="唯心电视台">
+    <title lang="zh">王禅老祖玄妙真经第186集</title>
+    <desc lang="zh">王禅老祖玄妙真经</desc>
+  </programme>
+  <programme start="20260326180000 +0800" stop="20260326183000 +0800" channel="唯心电视台">
+    <title lang="zh">慈悲灵感王禅老祖第361集</title>
+    <desc lang="zh">慈悲灵感王禅老祖</desc>
+  </programme>
+  <programme start="20260326183000 +0800" stop="20260326193000 +0800" channel="唯心电视台">
+    <title lang="zh">唯心天下事第4528集</title>
+    <desc lang="zh">唯心天下事</desc>
+  </programme>
+  <programme start="20260326193000 +0800" stop="20260326200000 +0800" channel="唯心电视台">
+    <title lang="zh">健康101第418集</title>
+    <desc lang="zh">健康101</desc>
+  </programme>
+  <programme start="20260326200000 +0800" stop="20260326203000 +0800" channel="唯心电视台">
+    <title lang="zh">台商会第59集</title>
+    <desc lang="zh">台商会</desc>
+  </programme>
+  <programme start="20260326203000 +0800" stop="20260326210000 +0800" channel="唯心电视台">
+    <title lang="zh">大家来学易经第173集</title>
+    <desc lang="zh">易经风水专业电视台WXTV大家来学易经『大家来学易经』每周一 ~ 三 20:00 ~ 20:30首播</desc>
+  </programme>
+  <programme start="20260326210000 +0800" stop="20260326220000 +0800" channel="唯心电视台">
+    <title lang="zh">唯心天下事第4548集</title>
+    <desc lang="zh">唯心天下事</desc>
+  </programme>
+  <programme start="20260326220000 +0800" stop="20260326223000 +0800" channel="唯心电视台">
+    <title lang="zh">金刚般若波罗蜜经第680集</title>
+    <desc lang="zh">金刚般若波罗蜜经</desc>
+  </programme>
+  <programme start="20260326223000 +0800" stop="20260326230000 +0800" channel="唯心电视台">
+    <title lang="zh">金刚般若波罗蜜经第681集</title>
+    <desc lang="zh">金刚般若波罗蜜经</desc>
+  </programme>
+  <programme start="20260326230000 +0800" stop="20260326233000 +0800" channel="唯心电视台">
+    <title lang="zh">华人班授课Ⅰ第52集</title>
+    <desc lang="zh">华人班授课Ⅰ</desc>
+  </programme>
+  <programme start="20260326233000 +0800" stop="20260327000000 +0800" channel="唯心电视台">
+    <title lang="zh">鬼谷仙师天德经第76集</title>
+    <desc lang="zh">《鬼谷仙师天德经》是一部古老而神秘的经典，蕴含著深奥的道家智慧。这个节目将深入探索鬼谷仙师的教义，揭示其中所蕴含的天地之道。透过专家学者的解说，您将了解到鬼谷仙师的修行方法、哲学思想，并深入了解道家的经典典籍。节目中将分享实际应用，让您在生活中融入道家智慧，追求内在的平和与升华。加入《鬼谷仙师天德经》节目，开启灵性之旅，寻找心灵的辉煌与解脱。</desc>
   </programme>
   <programme start="20260325003500 +0800" stop="20260325024000 +0800" channel="ROCK ACTION 摇滚电影">
     <title lang="zh">超级战舰</title>
@@ -318283,6 +319751,94 @@
   <programme start="20260326220000 +0800" stop="20260327000000 +0800" channel="红豆2台">
     <title lang="zh">红豆一级棒</title>
     <desc lang="zh">红豆一级棒</desc>
+  </programme>
+  <programme start="20260325000000 +0800" stop="20260325020000 +0800" channel="大立电视台">
+    <title lang="zh">好歌夜未眠</title>
+    <desc lang="zh">介绍台湾的本土歌曲。节目将邀请台湾知名歌手演唱台湾歌曲，并介绍歌曲背后的故事。节目旨在让台湾人了解台湾的文化和历史，并让世界认识台湾的音乐。</desc>
+  </programme>
+  <programme start="20260325020000 +0800" stop="20260325040000 +0800" channel="大立电视台">
+    <title lang="zh">双星报喜</title>
+    <desc lang="zh">双星报喜</desc>
+  </programme>
+  <programme start="20260325040000 +0800" stop="20260325060000 +0800" channel="大立电视台">
+    <title lang="zh">轻松阿GOGO</title>
+    <desc lang="zh">节目内容以分享生活趣事、玩乐、美食等主题，每集都会邀请不同嘉宾一起参与。节目风格活泼、幽默，深受观众喜爱。</desc>
+  </programme>
+  <programme start="20260325060000 +0800" stop="20260325080000 +0800" channel="大立电视台">
+    <title lang="zh">宝贝欧嗨唷</title>
+    <desc lang="zh">宝贝欧嗨唷</desc>
+  </programme>
+  <programme start="20260325080000 +0800" stop="20260325100000 +0800" channel="大立电视台">
+    <title lang="zh">歌声满天下</title>
+    <desc lang="zh">节目内容以分享民歌、台语歌曲为主，每集都会邀请不同歌手演唱经典歌曲。节目风格温馨、怀旧，深受观众喜爱。</desc>
+  </programme>
+  <programme start="20260325100000 +0800" stop="20260325120000 +0800" channel="大立电视台">
+    <title lang="zh">乐活青春GO</title>
+    <desc lang="zh">节目内容以分享生活趣事、玩乐、美食等主题，每集都会邀请不同嘉宾一起参与。节目风格活泼、幽默，深受观众喜爱。</desc>
+  </programme>
+  <programme start="20260325120000 +0800" stop="20260325140000 +0800" channel="大立电视台">
+    <title lang="zh">青春帕哩帕哩</title>
+    <desc lang="zh">青春帕哩帕哩</desc>
+  </programme>
+  <programme start="20260325140000 +0800" stop="20260325160000 +0800" channel="大立电视台">
+    <title lang="zh">咱的台湾咱的歌</title>
+    <desc lang="zh">《咱的台湾咱的歌》是台湾文化台的节目，介绍台湾的本土歌曲。节目将邀请台湾知名歌手演唱台湾歌曲，并介绍歌曲背后的故事。节目旨在让台湾人了解台湾的文化和历史，并让世界认识台湾的音乐。</desc>
+  </programme>
+  <programme start="20260325160000 +0800" stop="20260325200000 +0800" channel="大立电视台">
+    <title lang="zh">黄昏的约会</title>
+    <desc lang="zh">节目内容以分享轻松、休闲的生活资讯，节目风格幽默、诙谐，深受观众喜爱。</desc>
+  </programme>
+  <programme start="20260325200000 +0800" stop="20260325220000 +0800" channel="大立电视台">
+    <title lang="zh">老爷夫人放轻松</title>
+    <desc lang="zh">节目内容以分享轻松、休闲的生活资讯，每集都会邀请不同嘉宾一起参与。节目风格幽默、诙谐，深受观众喜爱。</desc>
+  </programme>
+  <programme start="20260325220000 +0800" stop="20260326000000 +0800" channel="大立电视台">
+    <title lang="zh">金曲在今宵</title>
+    <desc lang="zh">金曲在今宵</desc>
+  </programme>
+  <programme start="20260326000000 +0800" stop="20260326020000 +0800" channel="大立电视台">
+    <title lang="zh">好歌夜未眠</title>
+    <desc lang="zh">介绍台湾的本土歌曲。节目将邀请台湾知名歌手演唱台湾歌曲，并介绍歌曲背后的故事。节目旨在让台湾人了解台湾的文化和历史，并让世界认识台湾的音乐。</desc>
+  </programme>
+  <programme start="20260326020000 +0800" stop="20260326040000 +0800" channel="大立电视台">
+    <title lang="zh">双星报喜</title>
+    <desc lang="zh">双星报喜</desc>
+  </programme>
+  <programme start="20260326040000 +0800" stop="20260326060000 +0800" channel="大立电视台">
+    <title lang="zh">轻松阿GOGO</title>
+    <desc lang="zh">节目内容以分享生活趣事、玩乐、美食等主题，每集都会邀请不同嘉宾一起参与。节目风格活泼、幽默，深受观众喜爱。</desc>
+  </programme>
+  <programme start="20260326060000 +0800" stop="20260326080000 +0800" channel="大立电视台">
+    <title lang="zh">宝贝欧嗨唷</title>
+    <desc lang="zh">宝贝欧嗨唷</desc>
+  </programme>
+  <programme start="20260326080000 +0800" stop="20260326100000 +0800" channel="大立电视台">
+    <title lang="zh">歌声满天下</title>
+    <desc lang="zh">节目内容以分享民歌、台语歌曲为主，每集都会邀请不同歌手演唱经典歌曲。节目风格温馨、怀旧，深受观众喜爱。</desc>
+  </programme>
+  <programme start="20260326100000 +0800" stop="20260326120000 +0800" channel="大立电视台">
+    <title lang="zh">乐活青春GO</title>
+    <desc lang="zh">节目内容以分享生活趣事、玩乐、美食等主题，每集都会邀请不同嘉宾一起参与。节目风格活泼、幽默，深受观众喜爱。</desc>
+  </programme>
+  <programme start="20260326120000 +0800" stop="20260326140000 +0800" channel="大立电视台">
+    <title lang="zh">青春帕哩帕哩</title>
+    <desc lang="zh">青春帕哩帕哩</desc>
+  </programme>
+  <programme start="20260326140000 +0800" stop="20260326160000 +0800" channel="大立电视台">
+    <title lang="zh">咱的台湾咱的歌</title>
+    <desc lang="zh">《咱的台湾咱的歌》是台湾文化台的节目，介绍台湾的本土歌曲。节目将邀请台湾知名歌手演唱台湾歌曲，并介绍歌曲背后的故事。节目旨在让台湾人了解台湾的文化和历史，并让世界认识台湾的音乐。</desc>
+  </programme>
+  <programme start="20260326160000 +0800" stop="20260326200000 +0800" channel="大立电视台">
+    <title lang="zh">黄昏的约会</title>
+    <desc lang="zh">节目内容以分享轻松、休闲的生活资讯，节目风格幽默、诙谐，深受观众喜爱。</desc>
+  </programme>
+  <programme start="20260326200000 +0800" stop="20260326220000 +0800" channel="大立电视台">
+    <title lang="zh">老爷夫人放轻松</title>
+    <desc lang="zh">节目内容以分享轻松、休闲的生活资讯，每集都会邀请不同嘉宾一起参与。节目风格幽默、诙谐，深受观众喜爱。</desc>
+  </programme>
+  <programme start="20260326220000 +0800" stop="20260327000000 +0800" channel="大立电视台">
+    <title lang="zh">金曲在今宵</title>
+    <desc lang="zh">金曲在今宵</desc>
   </programme>
   <programme start="20260325000000 +0800" stop="20260325050000 +0800" channel="国会频道2台">
     <title lang="zh">前日立法院会议</title>
@@ -355650,124 +357206,108 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
     <title lang="zh">台视夜线新闻(第1378 集)【普】</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260325000000 +0800" stop="20260325010000 +0800" channel="台视综合台">
-    <title lang="zh">晚间美丽人生壮志高飞(第0442 集)【普】</title>
+  <programme start="20260325000000 +0800" stop="20260325003000 +0800" channel="台视综合台">
+    <title lang="zh">冬菊，没问题！(重)(第0004 集)【普】</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260325010000 +0800" stop="20260325020000 +0800" channel="台视综合台">
-    <title lang="zh">(第0734 集)【普】</title>
+  <programme start="20260325003000 +0800" stop="20260325020000 +0800" channel="台视综合台">
+    <title lang="zh">金大花的华丽冒险(重) (第0021 集)【普】</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260325020000 +0800" stop="20260325023000 +0800" channel="台视综合台">
-    <title lang="zh">寻找台湾感动力 (第0489 集)【普】</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260325023000 +0800" stop="20260325030000 +0800" channel="台视综合台">
-    <title lang="zh">发现科学(第0161 集)【普】</title>
+  <programme start="20260325020000 +0800" stop="20260325030000 +0800" channel="台视综合台">
+    <title lang="zh">冬菊，没问题！(重)(第0004 集)【普】</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260325030000 +0800" stop="20260325040000 +0800" channel="台视综合台">
-    <title lang="zh">午夜热线追踪(第1262 集)【普】</title>
+    <title lang="zh">台湾真善美（重）(第1250 集)【普】</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260325040000 +0800" stop="20260325050000 +0800" channel="台视综合台">
-    <title lang="zh">健康好简单 (第0607 集)【普】</title>
+    <title lang="zh">午夜健康好简单 (第3100 集)【普】</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260325050000 +0800" stop="20260325060000 +0800" channel="台视综合台">
-    <title lang="zh">健康好简单 (第1887 集)【普】</title>
+    <title lang="zh">早安杨丽花歌仔戏－孙膑下山 (第0007 集)【普】</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260325060000 +0800" stop="20260325070000 +0800" channel="台视综合台">
-    <title lang="zh">３６０行向前冲 (第0735 集)【普】</title>
+  <programme start="20260325060000 +0800" stop="20260325063000 +0800" channel="台视综合台">
+    <title lang="zh">烤箱读书会 (第0727 集)【普】</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260325070000 +0800" stop="20260325080000 +0800" channel="台视综合台">
-    <title lang="zh">早安您好台视新闻(第4383 集)【普】</title>
+  <programme start="20260325063000 +0800" stop="20260325070000 +0800" channel="台视综合台">
+    <title lang="zh">烤箱读书会 (第0728 集)【普】</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260325080000 +0800" stop="20260325085800 +0800" channel="台视综合台">
-    <title lang="zh">早安台湾台语新闻(第2730 集)【普】</title>
+  <programme start="20260325070000 +0800" stop="20260325090000 +0800" channel="台视综合台">
+    <title lang="zh">百万小学堂 (第1514 集)【普】</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260325085800 +0800" stop="20260325095800 +0800" channel="台视综合台">
-    <title lang="zh">(第0398 集)【普】</title>
+  <programme start="20260325090000 +0800" stop="20260325100000 +0800" channel="台视综合台">
+    <title lang="zh">杨丽花歌仔戏－孙膑下山（重）(第0007 集)【普】</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260325095800 +0800" stop="20260325102800 +0800" channel="台视综合台">
+  <programme start="20260325100000 +0800" stop="20260325103000 +0800" channel="台视综合台">
     <title lang="zh">消费情报赞 (第2709 集)【普】</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260325102800 +0800" stop="20260325105800 +0800" channel="台视综合台">
+  <programme start="20260325103000 +0800" stop="20260325110000 +0800" channel="台视综合台">
     <title lang="zh">消费情报赞 (第2709 集)【普】</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260325105800 +0800" stop="20260325115800 +0800" channel="台视综合台">
-    <title lang="zh">雨夜花 (第0006 集)【普】</title>
+  <programme start="20260325110000 +0800" stop="20260325120000 +0800" channel="台视综合台">
+    <title lang="zh">台湾真善美（重）(第1250 集)【普】</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260325115800 +0800" stop="20260325130000 +0800" channel="台视综合台">
-    <title lang="zh">午安您好－台视新闻 (第4756 集)【普】</title>
+  <programme start="20260325120000 +0800" stop="20260325123000 +0800" channel="台视综合台">
+    <title lang="zh">消费情报赞 (第2709 集)【普】</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260325123000 +0800" stop="20260325130000 +0800" channel="台视综合台">
+    <title lang="zh">消费情报赞 (第2709 集)【普】</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260325130000 +0800" stop="20260325140000 +0800" channel="台视综合台">
-    <title lang="zh">1300午间宝岛西米乐守护 (第0207 集)【普】</title>
+    <title lang="zh">冬菊，没问题！(重)(第0004 集)【普】</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260325140000 +0800" stop="20260325150000 +0800" channel="台视综合台">
-    <title lang="zh">午间宝岛西米乐守护 (第0208 集)【普】</title>
+    <title lang="zh">冬菊，没问题！ (第0005 集)【普】</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260325150000 +0800" stop="20260325153000 +0800" channel="台视综合台">
-    <title lang="zh">消费情报赞 (第2709 集)【普】</title>
+  <programme start="20260325150000 +0800" stop="20260325160000 +0800" channel="台视综合台">
+    <title lang="zh">360行向前冲(重) (第0732 集)【普】</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260325153000 +0800" stop="20260325160000 +0800" channel="台视综合台">
-    <title lang="zh">生活情报通 (第2090 集)【普】</title>
+  <programme start="20260325160000 +0800" stop="20260325170000 +0800" channel="台视综合台">
+    <title lang="zh">杨丽花歌仔戏－孙膑下山（重）(第0007 集)【普】</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260325160000 +0800" stop="20260325163000 +0800" channel="台视综合台">
-    <title lang="zh">生活情报通 (第2090 集)【普】</title>
+  <programme start="20260325170000 +0800" stop="20260325180000 +0800" channel="台视综合台">
+    <title lang="zh">杨丽花歌仔戏－孙膑下山 (第0008 集)【普】</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260325163000 +0800" stop="20260325165800 +0800" channel="台视综合台">
-    <title lang="zh">神奇故事屋 (第0017 集)【普】</title>
+  <programme start="20260325180000 +0800" stop="20260325190000 +0800" channel="台视综合台">
+    <title lang="zh">神机妙算刘伯温 (第0292 集)【普】</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260325165800 +0800" stop="20260325172800 +0800" channel="台视综合台">
-    <title lang="zh">1700我们这一家 (第0113 集)【普】</title>
+  <programme start="20260325190000 +0800" stop="20260325200000 +0800" channel="台视综合台">
+    <title lang="zh">神机妙算刘伯温 (第0293 集)【普】</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260325172800 +0800" stop="20260325175800 +0800" channel="台视综合台">
-    <title lang="zh">我们这一家 (第0114 集)【普】</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260325175800 +0800" stop="20260325182800 +0800" channel="台视综合台">
-    <title lang="zh">1800蜡笔小新(第0069 集)【普】</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260325182800 +0800" stop="20260325185800 +0800" channel="台视综合台">
-    <title lang="zh">1830蜡笔小新(第0070 集)【普】</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260325185800 +0800" stop="20260325195900 +0800" channel="台视综合台">
-    <title lang="zh">台视晚间新闻(第4756 集)【普】</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260325195900 +0800" stop="20260325210000 +0800" channel="台视综合台">
-    <title lang="zh">宝岛西米乐守护 (第0209 集)【普】</title>
+  <programme start="20260325200000 +0800" stop="20260325210000 +0800" channel="台视综合台">
+    <title lang="zh">台湾真善美 (第1251 集)【普】</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260325210000 +0800" stop="20260325220000 +0800" channel="台视综合台">
-    <title lang="zh">2100宝岛西米乐守护 (第0209 集)【普】</title>
+    <title lang="zh">３６０行向前冲 (第0733 集)【普】</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260325220000 +0800" stop="20260325230000 +0800" channel="台视综合台">
-    <title lang="zh">(第0443 集)【普】</title>
+  <programme start="20260325220000 +0800" stop="20260325233000 +0800" channel="台视综合台">
+    <title lang="zh">罪美丽 (第0001 集)【护】</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260325230000 +0800" stop="20260325235959 +0800" channel="台视综合台">
-    <title lang="zh">(第0209 集)【普】</title>
+  <programme start="20260325233000 +0800" stop="20260325235959 +0800" channel="台视综合台">
+    <title lang="zh">冬菊，没问题！(重)(第0005 集)【普】</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260326000000 +0800" stop="20260326003000 +0800" channel="台视综合台">
@@ -356058,16 +357598,24 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
     <title lang="zh">立法院会议直播(普)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260325180000 +0800" stop="20260326000000 +0800" channel="国会频道1">
-    <title lang="zh">当日立法院会议转播(普)</title>
+  <programme start="20260325215000 +0800" stop="20260326013800 +0800" channel="国会频道1">
+    <title lang="zh">财政委员会(普)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260326000000 +0800" stop="20260326050000 +0800" channel="国会频道1">
-    <title lang="zh">前日立法院会议转播(普)</title>
+  <programme start="20260325215000 +0800" stop="20260326013800 +0800" channel="国会频道1">
+    <title lang="zh">财政委员会(普)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260326050000 +0800" stop="20260326084700 +0800" channel="国会频道1">
-    <title lang="zh">前日立法院会议转播(普)</title>
+  <programme start="20260326013800 +0800" stop="20260326044200 +0800" channel="国会频道1">
+    <title lang="zh">外交及国防委员会(普)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260326044200 +0800" stop="20260326072300 +0800" channel="国会频道1">
+    <title lang="zh">外交及国防委员会(普)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260326072300 +0800" stop="20260326084700 +0800" channel="国会频道1">
+    <title lang="zh">经济委员会(普)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260326084700 +0800" stop="20260326090000 +0800" channel="国会频道1">
@@ -356118,20 +357666,32 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
     <title lang="zh">周三会议预报(普)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260325090000 +0800" stop="20260325180000 +0800" channel="国会频道2">
-    <title lang="zh">立法院会议直播(普)</title>
+  <programme start="20260325170400 +0800" stop="20260325202200 +0800" channel="国会频道2">
+    <title lang="zh">交通委员会(普)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260325180000 +0800" stop="20260326000000 +0800" channel="国会频道2">
-    <title lang="zh">当日立法院会议转播(普)</title>
+  <programme start="20260325202200 +0800" stop="20260326004600 +0800" channel="国会频道2">
+    <title lang="zh">社会福利及卫生环境委员会(普)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260326000000 +0800" stop="20260326050000 +0800" channel="国会频道2">
-    <title lang="zh">前日立法院会议转播(普)</title>
+  <programme start="20260325202200 +0800" stop="20260326004600 +0800" channel="国会频道2">
+    <title lang="zh">社会福利及卫生环境委员会(普)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260326050000 +0800" stop="20260326084700 +0800" channel="国会频道2">
-    <title lang="zh">前日立法院会议转播(普)</title>
+  <programme start="20260326004600 +0800" stop="20260326031500 +0800" channel="国会频道2">
+    <title lang="zh">司法及法制委员会(普)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260326031500 +0800" stop="20260326051500 +0800" channel="国会频道2">
+    <title lang="zh">教育及文化委员会(普)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260326051500 +0800" stop="20260326065300 +0800" channel="国会频道2">
+    <title lang="zh">教育及文化委员会(普)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260326065300 +0800" stop="20260326084700 +0800" channel="国会频道2">
+    <title lang="zh">交通委员会(普)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260326084700 +0800" stop="20260326090000 +0800" channel="国会频道2">
@@ -506986,26 +508546,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
     <title lang="zh">mo蜜点亮好朋友 S1(E18)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260325063000 +0000" stop="20260325073000 +0000" channel="中视">
-    <title lang="zh">中视新闻</title>
-    <desc lang="zh">由最专业的中视新闻主播，为您播报最新、最即时的新闻。</desc>
-  </programme>
-  <programme start="20260325073000 +0000" stop="20260325080000 +0000" channel="中视">
-    <title lang="zh">价值型投资</title>
-    <desc lang="zh">当行情出现震荡、盘势不明时，相信投资人一定会开始转向价值型投资，节目中将推荐适合的标的，提供投资人参考。</desc>
-  </programme>
-  <programme start="20260325080000 +0000" stop="20260325090000 +0000" channel="中视">
-    <title lang="zh">借用一下你的爱</title>
-    <desc lang="zh">平安（朱芯仪）四岁时爸爸意外过世，她和喜乐（夏如芝）一起在孤儿院长大，在一次偶然中与刚出狱的叶晨（郭品超）相识，个性南辕北辙的两人自然不对盘，但偏偏两人不停地相遇，而为了成全喜乐，她不惜借用叶晨当自己男友，没料到相处一段时间后却渐渐发现…</desc>
-  </programme>
-  <programme start="20260325090000 +0000" stop="20260325092800 +0000" channel="中视">
-    <title lang="zh">中视新闻</title>
-    <desc lang="zh">由最专业的中视新闻主播，为您播报最新、最即时的新闻。</desc>
-  </programme>
-  <programme start="20260325092800 +0000" stop="20260325095800 +0000" channel="中视">
-    <title lang="zh">中视新闻</title>
-    <desc lang="zh">由最专业的中视新闻主播，为您播报最新、最即时的新闻。</desc>
-  </programme>
   <programme start="20260325095800 +0000" stop="20260325105800 +0000" channel="中视">
     <title lang="zh">中视新闻</title>
     <desc lang="zh">由最专业的中视新闻主播，为您播报最新、最即时的新闻。</desc>
@@ -507470,18 +509010,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
     <title lang="zh">价值型投资</title>
     <desc lang="zh">当行情出现震荡、盘势不明时，相信投资人一定会开始转向价值型投资，节目中将推荐适合的标的，提供投资人参考。</desc>
   </programme>
-  <programme start="20260325060000 +0000" stop="20260325080000 +0000" channel="华视">
-    <title lang="zh">警世剧场</title>
-    <desc lang="zh">社会写实单元剧，剧情效法《X档案》，以现代办案的角度来切入鬼神之说，用以警惕世人。笃信科学办案精神的刑警尚智（谢祖武）有心理学博士学位，他与先天具有阴阳眼的搭档王玉芳（赵英华），共同调查各种无法用科学解释的案件，为死者伸冤…</desc>
-  </programme>
-  <programme start="20260325080000 +0000" stop="20260325085300 +0000" channel="华视">
-    <title lang="zh">华视在地新闻</title>
-    <desc lang="zh">以台语发音，提供观众朋友不一样的国内外新闻。</desc>
-  </programme>
-  <programme start="20260325085300 +0000" stop="20260325085800 +0000" channel="华视">
-    <title lang="zh">华视生活广场</title>
-    <desc lang="zh">华视生活广场。</desc>
-  </programme>
   <programme start="20260325085800 +0000" stop="20260325105800 +0000" channel="华视">
     <title lang="zh">华视新闻晚报</title>
     <desc lang="zh">华视新闻部每天整理当天重大国内外新闻事件，为观众做最快、最即时的播报。</desc>
@@ -507901,30 +509429,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
   <programme start="20260329220000 +0000" stop="20260329230000 +0000" channel="华视">
     <title lang="zh">三国演议</title>
     <desc lang="zh">华视新闻部制播新闻专题节目。由国际政经专家汪浩、日本产经新闻台北支局长矢板明夫搭档主持，深度讲评最新国际政经重大事件，跳脱传统政论谈话节目的框架属性。</desc>
-  </programme>
-  <programme start="20260325070000 +0000" stop="20260325073000 +0000" channel="好消息2台">
-    <title lang="zh">丰盛人生</title>
-    <desc lang="zh">基督徒必看节目，特邀国内外讲员，为教友带来精辟信息，传达神的信息。</desc>
-  </programme>
-  <programme start="20260325073000 +0000" stop="20260325080000 +0000" channel="好消息2台">
-    <title lang="zh">福气人生</title>
-    <desc lang="zh">如何才能拥有福气人生?看牧师们以台语分享圣经的真理，让你领受天国满满的福气与祝福。</desc>
-  </programme>
-  <programme start="20260325080000 +0000" stop="20260325083000 +0000" channel="好消息2台">
-    <title lang="zh">新约妙妙妙</title>
-    <desc lang="zh">这部卡通影集以精致的动画呈现，人物刻画细腻，剧情转折扣人心弦，每集都有一首主题歌，歌词深刻的意境，配上超水准的演唱和乐团伴奏，很能撼动人心，使得真理信息的传递更加有力，它不但是优质的儿童节目，更是优质的福音节目。</desc>
-  </programme>
-  <programme start="20260325083000 +0000" stop="20260325090000 +0000" channel="好消息2台">
-    <title lang="zh">空中圣经学院</title>
-    <desc lang="zh">由GOOD TV和中华福音神学院共同制作推出。这是历史性的一刻，神的话语要透过卫星传送至全世界，实现平信徒神学教育之梦。</desc>
-  </programme>
-  <programme start="20260325090000 +0000" stop="20260325100000 +0000" channel="好消息2台">
-    <title lang="zh">大卫鲍森讲座</title>
-    <desc lang="zh">圣经权威大卫鲍森牧师，带你以宏观的神学角度，观看神伟大的神性与恩典，并从其中明白救恩计划的重要。</desc>
-  </programme>
-  <programme start="20260325100000 +0000" stop="20260325103000 +0000" channel="好消息2台">
-    <title lang="zh">共享观点</title>
-    <desc lang="zh">连结社群、分享、行动的特色，藉著媒体平台将圣经教导、基要真理落实在生活中。两位主持人将在节目中以轻松对谈的方式，讨论年轻人关注的话题。</desc>
   </programme>
   <programme start="20260325103000 +0000" stop="20260325110000 +0000" channel="好消息2台">
     <title lang="zh">爱＋好医生</title>
@@ -508810,34 +510314,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
     <title lang="zh">奔向标竿</title>
     <desc lang="zh">美国最具影响力的属灵领袖之一，华理克(Rick Warren)牧师与马鞍峰教会牧者团队，与您一起携手直奔属天标竿，得著属天奖赏！</desc>
   </programme>
-  <programme start="20260325070000 +0000" stop="20260325080000 +0000" channel="好消息">
-    <title lang="zh">道在人间(国)</title>
-    <desc lang="zh">节目中邀请赵镛基、叶光明、杰克海福德、乔依丝迈尔等，国内外知名牧长，以丰富的服事经历与扎实的神学装备，教导、传讲圣经真道，坚固信徒并警醒人心。</desc>
-  </programme>
-  <programme start="20260325080000 +0000" stop="20260325083000 +0000" channel="好消息">
-    <title lang="zh">健康新煮流</title>
-    <desc lang="zh">开创夫妻同厨同煮潮流的KC夫妇，继《健康医食代》后，走出摄影棚，带大家全台走透透，发掘上帝赏赐的美味食材，内容融合新加坡南洋风和客家纯朴味，加上台湾独特的闽南风情，互相激荡交织出的火花，打造出独一无二的美食节目。</desc>
-  </programme>
-  <programme start="20260325083000 +0000" stop="20260325090000 +0000" channel="好消息">
-    <title lang="zh">爱＋好医生</title>
-    <desc lang="zh">结合医疗专业及全人关怀的新型态节目，主持人黄𪻐宁医师亲访家庭，跨领域医疗顾问团全方位检视，提供最完整、实用和正确的资讯来守护孩子的健康。</desc>
-  </programme>
-  <programme start="20260325090000 +0000" stop="20260325093000 +0000" channel="好消息">
-    <title lang="zh">大家说英语</title>
-    <desc lang="zh">将最受欢迎的美语生活会话杂志《大家说英语》内容制作成电视教学节目，教学轻松活泼，以生活实用会话为单元主题，是新闻局推荐的优质节目。不仅能帮助您轻松开口说英语，更提供许多实用的英语语汇与技巧，让您用简单的单字，就能说一口漂亮英语。</desc>
-  </programme>
-  <programme start="20260325093000 +0000" stop="20260325094500 +0000" channel="好消息">
-    <title lang="zh">小珍珠与阿达叔叔</title>
-    <desc lang="zh">好消息电视台制播的儿少节目，由充满人生智慧的阿达叔叔刘清彦主持，精力十足又问题多多的的小珍珠每次都要来找阿达叔叔的麻烦…不，是请阿达叔叔帮她解决层出不穷的各种麻烦，透过两人的趣味互动，让小朋友轻松学习做人的道理。</desc>
-  </programme>
-  <programme start="20260325094500 +0000" stop="20260325100000 +0000" channel="好消息">
-    <title lang="zh">小珍珠与阿达叔叔</title>
-    <desc lang="zh">好消息电视台制播的儿少节目，由充满人生智慧的阿达叔叔刘清彦主持，精力十足又问题多多的的小珍珠每次都要来找阿达叔叔的麻烦…不，是请阿达叔叔帮她解决层出不穷的各种麻烦，透过两人的趣味互动，让小朋友轻松学习做人的道理。</desc>
-  </programme>
-  <programme start="20260325100000 +0000" stop="20260325103000 +0000" channel="好消息">
-    <title lang="zh">福气人生</title>
-    <desc lang="zh">如何才能拥有福气人生?看牧师们以台语分享圣经的真理，让你领受天国满满的福气与祝福。</desc>
-  </programme>
   <programme start="20260325103000 +0000" stop="20260325110000 +0000" channel="好消息">
     <title lang="zh">健康新煮流</title>
     <desc lang="zh">开创夫妻同厨同煮潮流的KC夫妇，继《健康医食代》后，走出摄影棚，带大家全台走透透，发掘上帝赏赐的美味食材，内容融合新加坡南洋风和客家纯朴味，加上台湾独特的闽南风情，互相激荡交织出的火花，打造出独一无二的美食节目。</desc>
@@ -509702,22 +511178,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
     <title lang="zh">道在人间(国)</title>
     <desc lang="zh">节目中邀请赵镛基、叶光明、杰克海福德、乔依丝迈尔等，国内外知名牧长，以丰富的服事经历与扎实的神学装备，教导、传讲圣经真道，坚固信徒并警醒人心。</desc>
   </programme>
-  <programme start="20260325070000 +0000" stop="20260325073000 +0000" channel="ELTV生活英语台">
-    <title lang="zh">妙妙一家亲</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260325073000 +0000" stop="20260325080000 +0000" channel="ELTV生活英语台">
-    <title lang="zh">欢唱小精灵</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260325080000 +0000" stop="20260325090000 +0000" channel="ELTV生活英语台">
-    <title lang="zh">旗旗号巡洋舰</title>
-    <desc lang="zh">一天晚上，皮皮鲁收到旗旗号模型的召唤，进入到了玩具世界。为了回家，必须寻找传说中的童童港并搜集碎片，在途中，收获了五名船员伙伴，皮皮鲁要如何和他们一起完成冒险呢？</desc>
-  </programme>
-  <programme start="20260325090000 +0000" stop="20260325100000 +0000" channel="ELTV生活英语台">
-    <title lang="zh">PORORO</title>
-    <desc lang="zh">一只充满好奇心的小企鹅-Pororo，因为喜欢尝试新的事物，且用尽方法了解它们，进而惹来许多小麻烦，但在尝试新事物的过程中也为大家带来无限欢乐。</desc>
-  </programme>
   <programme start="20260325100000 +0000" stop="20260325110000 +0000" channel="ELTV生活英语台">
     <title lang="zh">森林侦探队</title>
     <desc lang="zh">南韩EBS与Bigstar Global共同制播的卡通，可轻松认识大自然的样貌。各个谜团揉合在森林的浩瀚中，期待观众跟著侦探队，细细品味在这森林的每个故事。</desc>
@@ -510289,34 +511749,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
   <programme start="20260330073000 +0000" stop="20260330080000 +0000" channel="ELTV生活英语台">
     <title lang="zh">欢唱小精灵</title>
     <desc lang="zh"/>
-  </programme>
-  <programme start="20260325070000 +0000" stop="20260325073000 +0000" channel="龙华卡通台">
-    <title lang="zh">淘气鼠兄弟</title>
-    <desc lang="zh">小唐是一只拟人化的粉红色小狗，与莫图、兰布、乔图三只鼠兄弟合住一个房子。小唐时常被老鼠们惹恼，吵吵闹闹的生活让相看两厌的他们会产生什么火花呢</desc>
-  </programme>
-  <programme start="20260325073000 +0000" stop="20260325080000 +0000" channel="龙华卡通台">
-    <title lang="zh">淘气鼠兄弟</title>
-    <desc lang="zh">小唐是一只拟人化的粉红色小狗，与莫图、兰布、乔图三只鼠兄弟合住一个房子。小唐时常被老鼠们惹恼，吵吵闹闹的生活让相看两厌的他们会产生什么火花呢</desc>
-  </programme>
-  <programme start="20260325080000 +0000" stop="20260325083000 +0000" channel="龙华卡通台">
-    <title lang="zh">猪猪侠</title>
-    <desc lang="zh">猪猪侠因科学实验事故，穿越时空隧道到了2080年。在未来世界里，能源危机即将爆发。强强科技集团得知破旧的望子成龙小学地下蕴藏丰富能源后，想将小学占为己有。为了重振母校，猪猪侠接受强强科技一次又一次的挑战。利用迷糊小发明的猪猪侠能与超人强先进的高科技产品对抗吗？</desc>
-  </programme>
-  <programme start="20260325083000 +0000" stop="20260325090000 +0000" channel="龙华卡通台">
-    <title lang="zh">猪猪侠</title>
-    <desc lang="zh">猪猪侠因科学实验事故，穿越时空隧道到了2080年。在未来世界里，能源危机即将爆发。强强科技集团得知破旧的望子成龙小学地下蕴藏丰富能源后，想将小学占为己有。为了重振母校，猪猪侠接受强强科技一次又一次的挑战。利用迷糊小发明的猪猪侠能与超人强先进的高科技产品对抗吗？</desc>
-  </programme>
-  <programme start="20260325090000 +0000" stop="20260325093000 +0000" channel="龙华卡通台">
-    <title lang="zh">海鹦历险记</title>
-    <desc lang="zh">电影《北极战队》的衍生剧集，讲述北极海鹦们执行任务的冒险故事，以及可爱有趣的北极日常。并透过轻松、搞笑的剧情，带领小朋友认识环境污染等社会议题。</desc>
-  </programme>
-  <programme start="20260325093000 +0000" stop="20260325100000 +0000" channel="龙华卡通台">
-    <title lang="zh">海鹦历险记</title>
-    <desc lang="zh">电影《北极战队》的衍生剧集，讲述北极海鹦们执行任务的冒险故事，以及可爱有趣的北极日常。并透过轻松、搞笑的剧情，带领小朋友认识环境污染等社会议题。</desc>
-  </programme>
-  <programme start="20260325100000 +0000" stop="20260325103000 +0000" channel="龙华卡通台">
-    <title lang="zh">淘气鼠兄弟</title>
-    <desc lang="zh">小唐是一只拟人化的粉红色小狗，与莫图、兰布、乔图三只鼠兄弟合住一个房子。小唐时常被老鼠们惹恼，吵吵闹闹的生活让相看两厌的他们会产生什么火花呢</desc>
   </programme>
   <programme start="20260325103000 +0000" stop="20260325110000 +0000" channel="龙华卡通台">
     <title lang="zh">淘气鼠兄弟</title>
@@ -511178,18 +512610,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
     <title lang="zh">淘气鼠兄弟</title>
     <desc lang="zh">小唐是一只拟人化的粉红色小狗，与莫图、兰布、乔图三只鼠兄弟合住一个房子。小唐时常被老鼠们惹恼，吵吵闹闹的生活让相看两厌的他们会产生什么火花呢</desc>
   </programme>
-  <programme start="20260325070000 +0000" stop="20260325080000 +0000" channel="亚洲旅游台">
-    <title lang="zh">嗨 Let's Go</title>
-    <desc lang="zh">旅行该怎么玩呢？有人喜欢吃美食、看风景、体验人文与历史；也有人只想疯血拼、追潮流、享奢华；更有人爱自然、爱冒险，当起背包客最逍遥！其实，无论哪种旅游方式和玩法，只要懂门道，都能玩出最精彩！</desc>
-  </programme>
-  <programme start="20260325080000 +0000" stop="20260325090000 +0000" channel="亚洲旅游台">
-    <title lang="zh">效廉出发吧</title>
-    <desc lang="zh">东森超视全新外景旅游实境综艺节目，由跨世代人夫许效舜、威廉携手主持。两位私交甚笃的知己好友，将在节目中分享彼此人生故事，带观众深入了解每个城镇独有的历史人文，探索每个地方的特色美食生活。一段见证男人友谊的旅行，就此展开！</desc>
-  </programme>
-  <programme start="20260325090000 +0000" stop="20260325100000 +0000" channel="亚洲旅游台">
-    <title lang="zh">效廉出发吧</title>
-    <desc lang="zh">东森超视全新外景旅游实境综艺节目，由跨世代人夫许效舜、威廉携手主持。两位私交甚笃的知己好友，将在节目中分享彼此人生故事，带观众深入了解每个城镇独有的历史人文，探索每个地方的特色美食生活。一段见证男人友谊的旅行，就此展开！</desc>
-  </programme>
   <programme start="20260325100000 +0000" stop="20260325110000 +0000" channel="亚洲旅游台">
     <title lang="zh">型男闯世界</title>
     <desc lang="zh">《型男闯世界》前往世界各地的特殊景点或深山秘境，挑战极限运动，寻找奇人异事、踏寻隐身在丛林边境的传说、进行各种挑战及探险。</desc>
@@ -511662,18 +513082,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
     <title lang="zh">嗨 Let's Go</title>
     <desc lang="zh">旅行该怎么玩呢？有人喜欢吃美食、看风景、体验人文与历史；也有人只想疯血拼、追潮流、享奢华；更有人爱自然、爱冒险，当起背包客最逍遥！其实，无论哪种旅游方式和玩法，只要懂门道，都能玩出最精彩！</desc>
   </programme>
-  <programme start="20260325070000 +0000" stop="20260325080000 +0000" channel="Smart知识台">
-    <title lang="zh">全民星攻略</title>
-    <desc lang="zh">东森综合台全新益智实境节目，「全民星攻略」，由馆长曾国城担任把关者，考验著每个来挑战九宫格益智游戏艺人明星。想要攻略九宫格关卡，透过创意联想、逻辑推理、理想分析，才有机会获取智慧星币，带走梦幻大奖。</desc>
-  </programme>
-  <programme start="20260325080000 +0000" stop="20260325090000 +0000" channel="Smart知识台">
-    <title lang="zh">健康2.0</title>
-    <desc lang="zh">在节目中，将以各种深入浅出的方式，检测时下流行的健康产品的效用，示范健康烹调与运动方法，并与观众分享照顾家人的健康资讯与心得。</desc>
-  </programme>
-  <programme start="20260325090000 +0000" stop="20260325100000 +0000" channel="Smart知识台">
-    <title lang="zh">全民星攻略</title>
-    <desc lang="zh">东森综合台全新益智实境节目，「全民星攻略」，由馆长曾国城担任把关者，考验著每个来挑战九宫格益智游戏艺人明星。想要攻略九宫格关卡，透过创意联想、逻辑推理、理想分析，才有机会获取智慧星币，带走梦幻大奖。</desc>
-  </programme>
   <programme start="20260325100000 +0000" stop="20260325110000 +0000" channel="Smart知识台">
     <title lang="zh">健康2.0</title>
     <desc lang="zh">在节目中，将以各种深入浅出的方式，检测时下流行的健康产品的效用，示范健康烹调与运动方法，并与观众分享照顾家人的健康资讯与心得。</desc>
@@ -512105,18 +513513,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
   <programme start="20260330070000 +0000" stop="20260330080000 +0000" channel="Smart知识台">
     <title lang="zh">全民星攻略</title>
     <desc lang="zh">东森综合台全新益智实境节目，「全民星攻略」，由馆长曾国城担任把关者，考验著每个来挑战九宫格益智游戏艺人明星。想要攻略九宫格关卡，透过创意联想、逻辑推理、理想分析，才有机会获取智慧星币，带走梦幻大奖。</desc>
-  </programme>
-  <programme start="20260325070000 +0000" stop="20260325080000 +0000" channel="龙华戏剧台">
-    <title lang="zh">琉璃</title>
-    <desc lang="zh">改编自十四郎小说《琉璃美人煞》。讲述天生六识残缺的少阳派掌门之女褚璇玑（袁冰妍）和离泽宫少主禹司凤（成毅），在面临爱情与前世阴谋的双重压力下，携手共对百般腥风血雨，解开两人纠缠十世的虐恋情缘，缔造传奇色彩的仙侠爱情故事。</desc>
-  </programme>
-  <programme start="20260325080000 +0000" stop="20260325090000 +0000" channel="龙华戏剧台">
-    <title lang="zh">陆贞传奇</title>
-    <desc lang="zh">陆贞（赵丽颖）原为千金小姐，但父亲过世后，继母狠心将其嫁给老商人。大婚之日，陆贞逃婚，幸得皇帝高湛（陈晓）所救，并获得贴身玉佩而进宫。认真努力的陆贞遭人忌妒陷害，高湛屡屡营救；朱太后深怕高湛夺权，处心积虑想害死高湛。陆贞与高湛的命运究竟会如何呢？</desc>
-  </programme>
-  <programme start="20260325090000 +0000" stop="20260325100000 +0000" channel="龙华戏剧台">
-    <title lang="zh">陆贞传奇</title>
-    <desc lang="zh">陆贞（赵丽颖）原为千金小姐，但父亲过世后，继母狠心将其嫁给老商人。大婚之日，陆贞逃婚，幸得皇帝高湛（陈晓）所救，并获得贴身玉佩而进宫。认真努力的陆贞遭人忌妒陷害，高湛屡屡营救；朱太后深怕高湛夺权，处心积虑想害死高湛。陆贞与高湛的命运究竟会如何呢？</desc>
   </programme>
   <programme start="20260325100000 +0000" stop="20260325110000 +0000" channel="龙华戏剧台">
     <title lang="zh">军师联盟2虎啸龙吟</title>
@@ -512589,26 +513985,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
   <programme start="20260330070000 +0000" stop="20260330080000 +0000" channel="龙华戏剧台">
     <title lang="zh">琉璃</title>
     <desc lang="zh">改编自十四郎小说《琉璃美人煞》。讲述天生六识残缺的少阳派掌门之女褚璇玑（袁冰妍）和离泽宫少主禹司凤（成毅），在面临爱情与前世阴谋的双重压力下，携手共对百般腥风血雨，解开两人纠缠十世的虐恋情缘，缔造传奇色彩的仙侠爱情故事。</desc>
-  </programme>
-  <programme start="20260325070000 +0000" stop="20260325080000 +0000" channel="台湾戏剧台">
-    <title lang="zh">包青天</title>
-    <desc lang="zh">仁宗皇帝在位期间，包拯（金超群）升任开封府府尹执掌京畿，刚直耿介、铁面无私、明察秋毫、断案如神，百姓爱戴敬仰尊称为“包青天”。并有公孙策（范鸿轩）与南侠展昭（何家劲）一文一武两员大将，使得包拯屡破奇案屡建奇功。</desc>
-  </programme>
-  <programme start="20260325080000 +0000" stop="20260325090000 +0000" channel="台湾戏剧台">
-    <title lang="zh">包青天</title>
-    <desc lang="zh">仁宗皇帝在位期间，包拯（金超群）升任开封府府尹执掌京畿，刚直耿介、铁面无私、明察秋毫、断案如神，百姓爱戴敬仰尊称为“包青天”。并有公孙策（范鸿轩）与南侠展昭（何家劲）一文一武两员大将，使得包拯屡破奇案屡建奇功。</desc>
-  </programme>
-  <programme start="20260325090000 +0000" stop="20260325093000 +0000" channel="台湾戏剧台">
-    <title lang="zh">鸟来伯与十三姨</title>
-    <desc lang="zh">鸟来伯，个性平和，杂货店老板。观念保守念旧，期望子女们都能出人头地，因自尊心强常委屈自己；淑女，鸟来伯之妻，大事小事琐事一手包办，是一位坚忍爱家的标准台湾女性；鸟来嬷，家中的首席长者，个性强悍，死爱面子。看鸟家人如何努力经营著老旧的杂货店以维持生计，同时也维持著家庭的团结与和谐…</desc>
-  </programme>
-  <programme start="20260325093000 +0000" stop="20260325100000 +0000" channel="台湾戏剧台">
-    <title lang="zh">鸟来伯与十三姨</title>
-    <desc lang="zh">鸟来伯，个性平和，杂货店老板。观念保守念旧，期望子女们都能出人头地，因自尊心强常委屈自己；淑女，鸟来伯之妻，大事小事琐事一手包办，是一位坚忍爱家的标准台湾女性；鸟来嬷，家中的首席长者，个性强悍，死爱面子。看鸟家人如何努力经营著老旧的杂货店以维持生计，同时也维持著家庭的团结与和谐…</desc>
-  </programme>
-  <programme start="20260325100000 +0000" stop="20260325103000 +0000" channel="台湾戏剧台">
-    <title lang="zh">鸟来伯与十三姨</title>
-    <desc lang="zh">鸟来伯，个性平和，杂货店老板。观念保守念旧，期望子女们都能出人头地，因自尊心强常委屈自己；淑女，鸟来伯之妻，大事小事琐事一手包办，是一位坚忍爱家的标准台湾女性；鸟来嬷，家中的首席长者，个性强悍，死爱面子。看鸟家人如何努力经营著老旧的杂货店以维持生计，同时也维持著家庭的团结与和谐…</desc>
   </programme>
   <programme start="20260325103000 +0000" stop="20260325110000 +0000" channel="台湾戏剧台">
     <title lang="zh">鸟来伯与十三姨</title>
@@ -513093,26 +514469,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
   <programme start="20260330070000 +0000" stop="20260330080000 +0000" channel="台湾戏剧台">
     <title lang="zh">包青天</title>
     <desc lang="zh">仁宗皇帝在位期间，包拯（金超群）升任开封府府尹执掌京畿，刚直耿介、铁面无私、明察秋毫、断案如神，百姓爱戴敬仰尊称为“包青天”。并有公孙策（范鸿轩）与南侠展昭（何家劲）一文一武两员大将，使得包拯屡破奇案屡建奇功。</desc>
-  </programme>
-  <programme start="20260325064000 +0000" stop="20260325072000 +0000" channel="东森购物1台">
-    <title lang="zh">3/1-3/31全月消费满3件享1680枚东森币兑换【韩国热销折叠收纳箱3入组】(每人限1次)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260325072000 +0000" stop="20260325080000 +0000" channel="东森购物1台">
-    <title lang="zh">锁定CH.43、CH.49选购</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260325080000 +0000" stop="20260325084000 +0000" channel="东森购物1台">
-    <title lang="zh">3/1-3/31全月消费满3件享1680枚东森币兑换【韩国热销折叠收纳箱3入组】(每人限1次)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260325084000 +0000" stop="20260325092000 +0000" channel="东森购物1台">
-    <title lang="zh">锁定CH.43、CH.49选购</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260325092000 +0000" stop="20260325100000 +0000" channel="东森购物1台">
-    <title lang="zh">3/1-3/31全月消费满3件享1680枚东森币兑换【韩国热销折叠收纳箱3入组】(每人限1次)</title>
-    <desc lang="zh"/>
   </programme>
   <programme start="20260325100000 +0000" stop="20260325104000 +0000" channel="东森购物1台">
     <title lang="zh">锁定CH.43、CH.49选购</title>
@@ -513822,18 +515178,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
     <title lang="zh">锁定CH.43、CH.49选购</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260325070000 +0000" stop="20260325080000 +0000" channel="龙华偶像台">
-    <title lang="zh">先热情地打扫吧</title>
-    <desc lang="zh">同名网路漫画改编。清洁公司CEO张善杰（尹钧相）财貌双全、堪称完美，却因有非常严重的洁癖而无法和任何人接触。但他却喜欢上个性明朗可爱却超级不拘小节的待业女青年吉五雪（金裕贞），两人之间上演一段双向奔赴的浪漫爱情故事…</desc>
-  </programme>
-  <programme start="20260325080000 +0000" stop="20260325090000 +0000" channel="龙华偶像台">
-    <title lang="zh">奔跑吧蔷薇</title>
-    <desc lang="zh">出身富裕的白蔷薇（李英雅）待人十分亲切，最后透过相亲和皮肤科医生结婚。没想到父亲的意外身亡，让她陷入经济困境，就连丈夫也背叛了她。万念俱灰下，蔷薇失去生活的重心，甚至徘徊在生死的边缘。直到对料理的热情让她重拾希望，进而进入SL食品公司工作，开启了她和黄太子（高周元）的不解之缘…</desc>
-  </programme>
-  <programme start="20260325090000 +0000" stop="20260325100000 +0000" channel="龙华偶像台">
-    <title lang="zh">奔跑吧蔷薇</title>
-    <desc lang="zh">出身富裕的白蔷薇（李英雅）待人十分亲切，最后透过相亲和皮肤科医生结婚。没想到父亲的意外身亡，让她陷入经济困境，就连丈夫也背叛了她。万念俱灰下，蔷薇失去生活的重心，甚至徘徊在生死的边缘。直到对料理的热情让她重拾希望，进而进入SL食品公司工作，开启了她和黄太子（高周元）的不解之缘…</desc>
-  </programme>
   <programme start="20260325100000 +0000" stop="20260325110000 +0000" channel="龙华偶像台">
     <title lang="zh">极速悖论</title>
     <desc lang="zh">少年陈墨白从小将赛车视为终身梦想，渴望有一天能冲进“超级方程式”的赛场。追梦过程中，他遇上空气动力学博士的工程师沈溪。陈墨白的热忱执着，让沈溪终于开始直视内心，卸下包袱又彼此认可的两人成为最好的搭档，突破速度与安全的悖论，携手赛场上一次次超越极限。</desc>
@@ -514322,18 +515666,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
     <title lang="zh">先热情地打扫吧</title>
     <desc lang="zh">同名网路漫画改编。清洁公司CEO张善杰（尹钧相）财貌双全、堪称完美，却因有非常严重的洁癖而无法和任何人接触。但他却喜欢上个性明朗可爱却超级不拘小节的待业女青年吉五雪（金裕贞），两人之间上演一段双向奔赴的浪漫爱情故事…</desc>
   </programme>
-  <programme start="20260325070000 +0000" stop="20260325080000 +0000" channel="龙华日韩台">
-    <title lang="zh">WWW检索爱情</title>
-    <desc lang="zh">在业界顶尖门户网站公司Barro任职的裴朵美（林秀晶）、车贤（李多熙）与宋佳景（田慧振），是三个没有选择成为妻子或母亲的当今职业妇女，剧情描述三人在业界激烈的竞争故事，与她们现实生活中遇到各自命中注定的那个男人…</desc>
-  </programme>
-  <programme start="20260325080000 +0000" stop="20260325090000 +0000" channel="龙华日韩台">
-    <title lang="zh">暖阳之下</title>
-    <desc lang="zh">该剧讲述了两对夫妻宋思凝和李俊龙，陈诵英和关铮，由于婚育观不同而产生各种分歧和矛盾，最终夫妻之间相互包容，共同创造出幸福美好的生活的故事。</desc>
-  </programme>
-  <programme start="20260325090000 +0000" stop="20260325100000 +0000" channel="龙华日韩台">
-    <title lang="zh">只属于你</title>
-    <desc lang="zh">恩静（李敏英）嫁给律师姜胜宰（宋在熙），没想到婆家却拿她当佣人使唤，胜宰对此毫不在意，甚至根本没去登记结婚。恩静因此重回职场，努力成为知名设计师，当前男友俊夏再度出现在她面前，看到她遭遇不幸却仍默默守护，俊夏能为恩静带来幸福吗？</desc>
-  </programme>
   <programme start="20260325100000 +0000" stop="20260325110000 +0000" channel="龙华日韩台">
     <title lang="zh">只属于你</title>
     <desc lang="zh">恩静（李敏英）嫁给律师姜胜宰（宋在熙），没想到婆家却拿她当佣人使唤，胜宰对此毫不在意，甚至根本没去登记结婚。恩静因此重回职场，努力成为知名设计师，当前男友俊夏再度出现在她面前，看到她遭遇不幸却仍默默守护，俊夏能为恩静带来幸福吗？</desc>
@@ -514805,26 +516137,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
   <programme start="20260330070000 +0000" stop="20260330080000 +0000" channel="龙华日韩台">
     <title lang="zh">人偶之家</title>
     <desc lang="zh">洪世妍（朴荷娜）在母亲再婚后拥有了完整的家庭，但高中时继父生意失败而令她黯然离家独自生活。后来她发现自己被所爱的人背叛和抛弃后，为了找回自己的生活，决定改名换姓回来向他们复仇，并且揭开所有人隐藏在背后之秘密的故事。</desc>
-  </programme>
-  <programme start="20260325064000 +0000" stop="20260325072000 +0000" channel="东森购物2台">
-    <title lang="zh">3/1-3/31全月消费满3件享1680枚东森币兑换【韩国热销折叠收纳箱3入组】(每人限1次)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260325072000 +0000" stop="20260325080000 +0000" channel="东森购物2台">
-    <title lang="zh">锁定CH.43、CH.49选购</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260325080000 +0000" stop="20260325084000 +0000" channel="东森购物2台">
-    <title lang="zh">3/1-3/31全月消费满3件享1680枚东森币兑换【韩国热销折叠收纳箱3入组】(每人限1次)</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260325084000 +0000" stop="20260325092000 +0000" channel="东森购物2台">
-    <title lang="zh">锁定CH.43、CH.49选购</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260325092000 +0000" stop="20260325100000 +0000" channel="东森购物2台">
-    <title lang="zh">3/1-3/31全月消费满3件享1680枚东森币兑换【韩国热销折叠收纳箱3入组】(每人限1次)</title>
-    <desc lang="zh"/>
   </programme>
   <programme start="20260325100000 +0000" stop="20260325104000 +0000" channel="东森购物2台">
     <title lang="zh">锁定CH.43、CH.49选购</title>
@@ -515534,14 +516846,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
     <title lang="zh">锁定CH.43、CH.49选购</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260325070000 +0000" stop="20260325080000 +0000" channel="华视新闻">
-    <title lang="zh">华视1500整点新闻</title>
-    <desc lang="zh">以最客观的角度，最专业的主播，为观众完整报导上午发生之重大国内外重要新闻。</desc>
-  </programme>
-  <programme start="20260325080000 +0000" stop="20260325085300 +0000" channel="华视新闻">
-    <title lang="zh">华视在地新闻</title>
-    <desc lang="zh">以台语发音，提供观众朋友不一样的国内外新闻。</desc>
-  </programme>
   <programme start="20260325085300 +0000" stop="20260325120000 +0000" channel="华视新闻">
     <title lang="zh">华视新闻晚报</title>
     <desc lang="zh">华视新闻部每天整理当天重大国内外新闻事件，为观众做最快、最即时的播报。</desc>
@@ -515994,10 +517298,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
     <title lang="zh">华视1500整点新闻</title>
     <desc lang="zh">以最客观的角度，最专业的主播，为观众完整报导上午发生之重大国内外重要新闻。</desc>
   </programme>
-  <programme start="20260325040000 +0000" stop="20260325100000 +0000" channel="倪珍播新闻">
-    <title lang="zh">午安新闻</title>
-    <desc lang="zh"/>
-  </programme>
   <programme start="20260325100000 +0000" stop="20260325160000 +0000" channel="倪珍播新闻">
     <title lang="zh">晚安新闻</title>
     <desc lang="zh"/>
@@ -516073,18 +517373,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
   <programme start="20260329220000 +0000" stop="20260330040000 +0000" channel="倪珍播新闻">
     <title lang="zh">早安新闻</title>
     <desc lang="zh"/>
-  </programme>
-  <programme start="20260325070000 +0000" stop="20260325080000 +0000" channel="三立新闻iNEWS">
-    <title lang="zh">全球新食力</title>
-    <desc lang="zh">三立iNEWS制播的美食资讯节目，带你全省走透透，吃遍台湾！</desc>
-  </programme>
-  <programme start="20260325080000 +0000" stop="20260325090000 +0000" channel="三立新闻iNEWS">
-    <title lang="zh">iNEWS1600整点新闻</title>
-    <desc lang="zh">三立iNEWS制播的财经新闻节目，由最专业的财经主播带来国际时事、财经股汇市报导、深度新闻、时事评论…等内容。</desc>
-  </programme>
-  <programme start="20260325090000 +0000" stop="20260325100000 +0000" channel="三立新闻iNEWS">
-    <title lang="zh">iNEWS1700整点新闻</title>
-    <desc lang="zh">三立iNEWS制播的财经新闻节目，由最专业的财经主播带来国际时事、财经股汇市报导、深度新闻、时事评论…等内容。</desc>
   </programme>
   <programme start="20260325100000 +0000" stop="20260325115500 +0000" channel="三立新闻iNEWS">
     <title lang="zh">1819钱进大头条</title>
@@ -516541,18 +517829,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
   <programme start="20260330070000 +0000" stop="20260330080000 +0000" channel="三立新闻iNEWS">
     <title lang="zh">智富食代</title>
     <desc lang="zh">颠覆传统旅游节目，而是以全新新闻性、知识性旅游资讯节目，呈现观众眼前。轻松有趣的内容中，将观光经济数字、各地房价、消费指数及各地风土民情融入结合。要学怎么赢、先学怎么玩！女汉子两条路线PK旅行大挑战。</desc>
-  </programme>
-  <programme start="20260325070000 +0000" stop="20260325080000 +0000" channel="寰宇财经台">
-    <title lang="zh">小食光台味志</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260325080000 +0000" stop="20260325090000 +0000" channel="寰宇财经台">
-    <title lang="zh">古今风云</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260325090000 +0000" stop="20260325100000 +0000" channel="寰宇财经台">
-    <title lang="zh">巷弄美食家</title>
-    <desc lang="zh"/>
   </programme>
   <programme start="20260325100000 +0000" stop="20260325110000 +0000" channel="寰宇财经台">
     <title lang="zh">美食打卡趣</title>
@@ -517026,18 +518302,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
     <title lang="zh">小食光台味志</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260325070000 +0000" stop="20260325080000 +0000" channel="中视新闻">
-    <title lang="zh">中视新闻即时现场</title>
-    <desc lang="zh">由主播萧惠文播报，以SNG车让观众看到最即时的新闻报导，并以最客观的角度，为观众完整报导上午发生之重要新闻。</desc>
-  </programme>
-  <programme start="20260325080000 +0000" stop="20260325090000 +0000" channel="中视新闻">
-    <title lang="zh">新庶民大头家</title>
-    <desc lang="zh">中视新闻全新政论节目，每日带给你超劲爆话题讨论，欢迎庶民们一起来follow。</desc>
-  </programme>
-  <programme start="20260325090000 +0000" stop="20260325100000 +0000" channel="中视新闻">
-    <title lang="zh">新庶民大头家</title>
-    <desc lang="zh">中视新闻全新政论节目，每日带给你超劲爆话题讨论，欢迎庶民们一起来follow。</desc>
-  </programme>
   <programme start="20260325100000 +0000" stop="20260325105800 +0000" channel="中视新闻">
     <title lang="zh">中视新闻全球报导</title>
     <desc lang="zh">中视每晚七点由主播哈远仪为全国观众最专业、准确的新闻报导。</desc>
@@ -517510,18 +518774,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
     <title lang="zh">中视新闻即时现场</title>
     <desc lang="zh">由主播萧惠文播报，以SNG车让观众看到最即时的新闻报导，并以最客观的角度，为观众完整报导上午发生之重要新闻。</desc>
   </programme>
-  <programme start="20260325060000 +0000" stop="20260325080000 +0000" channel="中天新闻台">
-    <title lang="zh">大新闻大爆卦</title>
-    <desc lang="zh">每周一到周五《大新闻大爆卦》中天主播马千惠陪你一起来解卦！！！</desc>
-  </programme>
-  <programme start="20260325080000 +0000" stop="20260325090000 +0000" channel="中天新闻台">
-    <title lang="zh">中天新闻 1600整点新闻</title>
-    <desc lang="zh">收看中天新闻带给你最即时、最完整、最专业的新闻报导。</desc>
-  </programme>
-  <programme start="20260325090000 +0000" stop="20260325100000 +0000" channel="中天新闻台">
-    <title lang="zh">中天新闻 1700整点新闻</title>
-    <desc lang="zh">收看中天新闻带给你最即时、最完整、最专业的新闻报导。</desc>
-  </programme>
   <programme start="20260325100000 +0000" stop="20260325110000 +0000" channel="中天新闻台">
     <title lang="zh">中天辣晚报</title>
     <desc lang="zh">提供国内、两岸、国际头条焦点，掌握时事脉动，观察新闻背后的真正意义，带领观众知晓天下事。有最深度的内容、最专业的追踪、最需要的资讯，收视率领先各台，具有高度影响力！</desc>
@@ -517933,18 +519185,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
   <programme start="20260330060000 +0000" stop="20260330080000 +0000" channel="中天新闻台">
     <title lang="zh">大新闻大爆卦</title>
     <desc lang="zh">每周一到周五《大新闻大爆卦》中天主播马千惠陪你一起来解卦！！！</desc>
-  </programme>
-  <programme start="20260325065500 +0000" stop="20260325075500 +0000" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇整点新闻</title>
-    <desc lang="zh">来自路透的国际新闻、最在地的台湾新闻以及最深入的两岸焦点，带您掌握社会脉动。</desc>
-  </programme>
-  <programme start="20260325075500 +0000" stop="20260325085500 +0000" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇晚间新闻</title>
-    <desc lang="zh">寰宇晚间新闻给你最在地的台湾新闻、最深入的两岸焦点，掌握国际情势带您了解社会脉动。</desc>
-  </programme>
-  <programme start="20260325085500 +0000" stop="20260325095500 +0000" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇晚间新闻</title>
-    <desc lang="zh">寰宇晚间新闻给你最在地的台湾新闻、最深入的两岸焦点，掌握国际情势带您了解社会脉动。</desc>
   </programme>
   <programme start="20260325095500 +0000" stop="20260325105500 +0000" channel="寰宇新闻台湾台">
     <title lang="zh">寰宇晚间新闻</title>
@@ -518417,18 +519657,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
   <programme start="20260330065500 +0000" stop="20260330075500 +0000" channel="寰宇新闻台湾台">
     <title lang="zh">寰宇整点新闻</title>
     <desc lang="zh">来自路透的国际新闻、最在地的台湾新闻以及最深入的两岸焦点，带您掌握社会脉动。</desc>
-  </programme>
-  <programme start="20260325065500 +0000" stop="20260325075500 +0000" channel="寰宇新闻台">
-    <title lang="zh">寰宇整点新闻</title>
-    <desc lang="zh">来自路透的国际新闻、最在地的台湾新闻以及最深入的两岸焦点，带您掌握社会脉动。</desc>
-  </programme>
-  <programme start="20260325075500 +0000" stop="20260325085500 +0000" channel="寰宇新闻台">
-    <title lang="zh">寰宇全球新闻</title>
-    <desc lang="zh">抢先揭露全球各地政经、社会、娱乐的第一手新闻讯息，让观众不漏接关键的世界大事。</desc>
-  </programme>
-  <programme start="20260325085500 +0000" stop="20260325095500 +0000" channel="寰宇新闻台">
-    <title lang="zh">寰宇全球新闻</title>
-    <desc lang="zh">抢先揭露全球各地政经、社会、娱乐的第一手新闻讯息，让观众不漏接关键的世界大事。</desc>
   </programme>
   <programme start="20260325095500 +0000" stop="20260325105500 +0000" channel="寰宇新闻台">
     <title lang="zh">寰宇全球新闻</title>
@@ -518905,34 +520133,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
   <programme start="20260330065500 +0000" stop="20260330075500 +0000" channel="寰宇新闻台">
     <title lang="zh">寰宇整点新闻</title>
     <desc lang="zh">来自路透的国际新闻、最在地的台湾新闻以及最深入的两岸焦点，带您掌握社会脉动。</desc>
-  </programme>
-  <programme start="20260325070000 +0000" stop="20260325073000 +0000" channel="第1商业台">
-    <title lang="zh">阪田战法-宝得富-顾奎国分析师</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260325073000 +0000" stop="20260325080000 +0000" channel="第1商业台">
-    <title lang="zh">期股冲冲冲-宝得富-翁士峻分析师</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260325080000 +0000" stop="20260325083000 +0000" channel="第1商业台">
-    <title lang="zh">股市全攻略-丰银投顾-龚鸿彬分析师</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260325083000 +0000" stop="20260325090000 +0000" channel="第1商业台">
-    <title lang="zh">汪海华_操盘的智慧</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260325090000 +0000" stop="20260325093000 +0000" channel="第1商业台">
-    <title lang="zh">股市第一线-顾德投顾-李冠嵚分析师</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260325093000 +0000" stop="20260325100000 +0000" channel="第1商业台">
-    <title lang="zh">月薪翻倍计划-顾德投顾-黄紫东分析师</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260325100000 +0000" stop="20260325103000 +0000" channel="第1商业台">
-    <title lang="zh">阪田战法-宝得富-顾奎国分析师</title>
-    <desc lang="zh"/>
   </programme>
   <programme start="20260325103000 +0000" stop="20260325110000 +0000" channel="第1商业台">
     <title lang="zh">股市强强滚-亚洲投顾-郑伟群分析师</title>
@@ -519794,10 +520994,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
     <title lang="zh">期股冲冲冲-宝得富-翁士峻分析师</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260325010000 +0000" stop="20260325100000 +0000" channel="国会频道1台">
-    <title lang="zh">立法院会议直播</title>
-    <desc lang="zh"/>
-  </programme>
   <programme start="20260325100000 +0000" stop="20260325160000 +0000" channel="国会频道1台">
     <title lang="zh">当日立法院会议转播</title>
     <desc lang="zh"/>
@@ -519900,10 +521096,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
   </programme>
   <programme start="20260330004700 +0000" stop="20260330010000 +0000" channel="国会频道1台">
     <title lang="zh">周一会议预报</title>
-    <desc lang="zh"/>
-  </programme>
-  <programme start="20260325010000 +0000" stop="20260325100000 +0000" channel="国会频道2台">
-    <title lang="zh">立法院会议直播</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260325100000 +0000" stop="20260325160000 +0000" channel="国会频道2台">
@@ -520009,10 +521201,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
   <programme start="20260330004700 +0000" stop="20260330010000 +0000" channel="国会频道2台">
     <title lang="zh">周一会议预报</title>
     <desc lang="zh"/>
-  </programme>
-  <programme start="20260325071000 +0000" stop="20260325085000 +0000" channel="龙华经典台">
-    <title lang="zh">庖丁传奇之金刀御厨</title>
-    <desc lang="zh">在推理王一朵云的协助下，陆艺珍（李佳颖）和齐宝厨（纳豆）逐渐厘清15年前父辈之间劫案的真相，陆艺珍终于明白生父多年来所承受的冤情，也感悟到他与亡者齐逢春之间的情义。最终，在斗菜大会上，陆艺珍毅然决定和齐宝厨合作，齐心协力做出一道飘香四溢、惊艳四座的「佛跳墙」，共同赢得斗菜冠军…</desc>
   </programme>
   <programme start="20260325085000 +0000" stop="20260325110000 +0000" channel="龙华经典台">
     <title lang="zh">驯悍记</title>
@@ -520221,14 +521409,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
   <programme start="20260330044000 +0000" stop="20260330065500 +0000" channel="龙华经典台">
     <title lang="zh">警察故事续集</title>
     <desc lang="zh">重案组探员家驹（成龙）不满自己抓来的犯人朱滔被释放愤而辞职，与女友May（张曼玉）在商场散心，巧遇炸弹狂徒做案。炸弹狂徒接二连三犯案，最后目标竟是警局，令警方不知所措，只好重召家驹归队办案。炸弹狂徒多次出动未能成功，为了取得赎款，竟然将May绑架…</desc>
-  </programme>
-  <programme start="20260325060000 +0000" stop="20260325074500 +0000" channel="龙华电影台">
-    <title lang="zh">白发魔女2</title>
-    <desc lang="zh">卓一航（张国荣）与练霓裳（林青霞）决裂后销声匿迹，如今练已走火入魔，四处杀戳。适逢武当后人武当人封俊杰迎娶玉女虞琴之夜，魔女再现，杀宾客掳新娘。峨嵋派姥姥无力对抗魔女，乃派俊杰往千雪峰找卓帮忙。时值奇花开放，卓携花下山与练重逢，然而，练却大开杀戒，卓会如何面对忿恨的练呢？</desc>
-  </programme>
-  <programme start="20260325074500 +0000" stop="20260325084500 +0000" channel="龙华电影台">
-    <title lang="zh">猪猪侠之超星五灵侠</title>
-    <desc lang="zh">完成了九霄星的任务后，猪猪们乘坐著猪排号愉快地返回猪猪星。就在快到达时，他们接到了完美队长的电话，告诉他们，只要接下来继续完成一些指标来证明自己，就有机会加入宇宙英雄联盟。挂断电话后，猪猪们都十分兴奋，然而就在这时，一个叫独孤博士的坏蛋出现，还下令阻止他们继续前进…</desc>
   </programme>
   <programme start="20260325084500 +0000" stop="20260325110500 +0000" channel="龙华电影台">
     <title lang="zh">我的婆婆怎么把OO搞丢了</title>
@@ -520457,14 +521637,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
   <programme start="20260330044000 +0000" stop="20260330072500 +0000" channel="龙华电影台">
     <title lang="zh">唐人街探案</title>
     <desc lang="zh">少年秦风警校落榜，包袱款款，要去海外散散心，并找了号称「唐人街第一神探」的表舅唐仁来做陪。一晚上花天酒地，才睁开眼睛，却是哀天叫地，一桩离奇谋杀，唐仁被指为凶手，铁血警探拘捕在即，更有两光匪帮追杀在后，连唐人街教父都来凑一脚，他们要如何在时限内找出真相？</desc>
-  </programme>
-  <programme start="20260325054000 +0000" stop="20260325073000 +0000" channel="龙华洋片台">
-    <title lang="zh">前线狙击手</title>
-    <desc lang="zh">1943年末，纳粹派出训练有素的狙击手进入到前线，带来了破坏和死亡，被围困的苏联士兵已经坚守保卫了国家两年。年轻又天赋异禀的猎人叶戈尔受到征召挺身对抗入侵者，虽然年轻又缺乏战斗经验，叶戈尔仍以过人的技能和勇气，证明自己在前线有能力扮演扭转战局、至关重要的角色。</desc>
-  </programme>
-  <programme start="20260325073000 +0000" stop="20260325092500 +0000" channel="龙华洋片台">
-    <title lang="zh">我的王子老爸</title>
-    <desc lang="zh">吉比每天最期待的事情，就是睡前跟8岁的女儿索菲亚分享自己悉心创作的床边故事。在故事里的幻想世界，他总是化身英勇的王子，一次次拯救陷入危险的女儿。3年后，吉比发现即将进入青春期的索菲亚已不再著迷于他的床边故事，她开始编织属于自己的故事，而吉比在这些故事里越来越不重要…</desc>
   </programme>
   <programme start="20260325092500 +0000" stop="20260325111000 +0000" channel="龙华洋片台">
     <title lang="zh">泰瑞的冒险王国</title>
@@ -520742,20 +521914,20 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
     <title lang="zh">NBA常规赛掘金VS太阳</title>
     <desc lang="zh">/</desc>
   </programme>
-  <programme start="20260325145500 +0800" stop="20260325190000 +0800" channel="咪咕体育">
+  <programme start="20260325145500 +0800" stop="20260325153146 +0800" channel="咪咕体育">
     <title lang="zh">亚冠精英决赛阶段抽签仪式亚冠精英决赛阶段抽签仪式</title>
     <desc lang="zh">/</desc>
   </programme>
-  <programme start="20260325153000 +0800" stop="20260325193000 +0800" channel="咪咕体育">
+  <programme start="20260325152000 +0800" stop="20260326192000 +0800" channel="咪咕体育">
     <title lang="zh">全国撑竿跳高单项赛第4站全国撑竿跳高单项赛第4站</title>
-    <desc lang="zh">/</desc>
-  </programme>
-  <programme start="20260325162000 +0800" stop="20260325210000 +0800" channel="咪咕体育">
-    <title lang="zh">小组赛第1轮-上海海港U12将战巴萨小组赛第1轮-上海海港U12将战巴萨</title>
     <desc lang="zh">/</desc>
   </programme>
   <programme start="20260325170000 +0800" stop="20260326210000 +0800" channel="咪咕体育">
     <title lang="zh">陈思羽、汪洋领衔冲正赛陈思羽、汪洋领衔冲正赛</title>
+    <desc lang="zh">/</desc>
+  </programme>
+  <programme start="20260325162000 +0800" stop="20260325210000 +0800" channel="咪咕体育">
+    <title lang="zh">小组赛第1日早场-海港U12将战巴萨小组赛第1日早场-海港U12将战巴萨</title>
     <desc lang="zh">/</desc>
   </programme>
   <programme start="20260325192000 +0800" stop="20260325233000 +0800" channel="咪咕体育">
@@ -520798,8 +521970,8 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
     <title lang="zh">中国选手张瑞阳领衔出战中国选手张瑞阳领衔出战</title>
     <desc lang="zh">/</desc>
   </programme>
-  <programme start="20260325225000 +0800" stop="20260326033000 +0800" channel="咪咕体育">
-    <title lang="zh">小组赛第2轮-巴萨皇马U12梯队出战小组赛第2轮-巴萨皇马U12梯队出战</title>
+  <programme start="20260325230000 +0800" stop="20260326033000 +0800" channel="咪咕体育">
+    <title lang="zh">小组赛第1日晚场-皇马巴萨U12出战小组赛第1日晚场-皇马巴萨U12出战</title>
     <desc lang="zh">/</desc>
   </programme>
   <programme start="20260326010000 +0800" stop="20260327050000 +0800" channel="咪咕体育">
@@ -520834,6 +522006,10 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
     <title lang="zh">NBA常规赛马刺VS灰熊</title>
     <desc lang="zh">/</desc>
   </programme>
+  <programme start="20260326075500 +0800" stop="20260326120000 +0800" channel="咪咕体育">
+    <title lang="zh">G联赛常规赛撕裂之城混音VS奥斯汀马刺队</title>
+    <desc lang="zh">/</desc>
+  </programme>
   <programme start="20260326085500 +0800" stop="20260326130000 +0800" channel="咪咕体育">
     <title lang="zh">NBA常规赛奇才VS爵士</title>
     <desc lang="zh">/</desc>
@@ -520858,8 +522034,8 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
     <title lang="zh">NBA常规赛猛龙VS快船</title>
     <desc lang="zh">/</desc>
   </programme>
-  <programme start="20260326162000 +0800" stop="20260326210000 +0800" channel="咪咕体育">
-    <title lang="zh">小组赛第3轮-上海海港U12将战瓦伦小组赛第3轮-上海海港U12将战瓦伦</title>
+  <programme start="20260326173000 +0800" stop="20260326213000 +0800" channel="咪咕体育">
+    <title lang="zh">小组赛第2日早场-海港U12将战瓦伦小组赛第2日早场-海港U12将战瓦伦</title>
     <desc lang="zh">/</desc>
   </programme>
   <programme start="20260326180000 +0800" stop="20260328220000 +0800" channel="咪咕体育">
@@ -520878,8 +522054,8 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
     <title lang="zh">CBA常规赛第30轮广州朗肽海本vs青岛崂山啤酒</title>
     <desc lang="zh">/</desc>
   </programme>
-  <programme start="20260326225000 +0800" stop="20260327033000 +0800" channel="咪咕体育">
-    <title lang="zh">小组赛第4轮-上海海港U12将战黄潜小组赛第4轮-上海海港U12将战黄潜</title>
+  <programme start="20260326233000 +0800" stop="20260327033000 +0800" channel="咪咕体育">
+    <title lang="zh">小组赛第2日晚场-海港U12将战黄潜小组赛第2日晚场-海港U12将战黄潜</title>
     <desc lang="zh">/</desc>
   </programme>
   <programme start="20260325051000 +0900" stop="20260325060000 +0900" channel="KBS 1">
@@ -523050,31 +524226,31 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
     <title lang="zh">나는 SOLO (자막)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260326040000 +0900" stop="20260326055000 +0900" channel="SBS plus">
+  <programme start="20260326040000 +0900" stop="20260326054000 +0900" channel="SBS plus">
     <title lang="zh">나는 SOLO (자막해설수화)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260326055000 +0900" stop="20260326074000 +0900" channel="SBS plus">
-    <title lang="zh">틈만 나면 (자막)</title>
+  <programme start="20260326054000 +0900" stop="20260326075000 +0900" channel="SBS plus">
+    <title lang="zh">미운 우리 새끼 (자막)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260326074000 +0900" stop="20260326092000 +0900" channel="SBS plus">
+  <programme start="20260326075000 +0900" stop="20260326093000 +0900" channel="SBS plus">
     <title lang="zh">동상이몽 2 너는 내 운명 (자막)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260326092000 +0900" stop="20260326103000 +0900" channel="SBS plus">
+  <programme start="20260326093000 +0900" stop="20260326104000 +0900" channel="SBS plus">
     <title lang="zh">이호선의 사이다 </title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260326103000 +0900" stop="20260326120000 +0900" channel="SBS plus">
+  <programme start="20260326104000 +0900" stop="20260326121000 +0900" channel="SBS plus">
     <title lang="zh">신이랑 법률사무소 (자막해설)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260326120000 +0900" stop="20260326132000 +0900" channel="SBS plus">
+  <programme start="20260326121000 +0900" stop="20260326133000 +0900" channel="SBS plus">
     <title lang="zh">신이랑 법률사무소 (자막해설)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260326132000 +0900" stop="20260326152000 +0900" channel="SBS plus">
+  <programme start="20260326133000 +0900" stop="20260326152000 +0900" channel="SBS plus">
     <title lang="zh">나는 SOLO (자막)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -523086,11 +524262,11 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
     <title lang="zh">미운 우리 새끼 (자막)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260326192000 +0900" stop="20260326212000 +0900" channel="SBS plus">
+  <programme start="20260326192000 +0900" stop="20260326211000 +0900" channel="SBS plus">
     <title lang="zh">나는 SOLO (자막)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260326212000 +0900" stop="20260326223000 +0900" channel="SBS plus">
+  <programme start="20260326211000 +0900" stop="20260326223000 +0900" channel="SBS plus">
     <title lang="zh">나는 SOLO, 그 후 사랑은 계속된다 (자막)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -523102,7 +524278,7 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
     <title lang="zh">나는 SOLO, 그 후 사랑은 계속된다 (자막)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260327011000 +0900" stop="20260327030000 +0900" channel="SBS plus">
+  <programme start="20260327011000 +0900" stop="20260327025000 +0900" channel="SBS plus">
     <title lang="zh">나는 SOLO (자막)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -523799,7 +524975,7 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260325203000 +0900" stop="20260325213000 +0900" channel="SBS Biz">
-    <title lang="zh">금융과 재테크 1%의 시선, 투자앵글 </title>
+    <title lang="zh">금융과 재테크 주식이 궁금할 때 </title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260325213000 +0900" stop="20260325223000 +0900" channel="SBS Biz">
@@ -523807,7 +524983,7 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260325223000 +0900" stop="20260325233000 +0900" channel="SBS Biz">
-    <title lang="zh">금융과 재테크 주식이 궁금할 때 </title>
+    <title lang="zh">금융과 재테크 필살기 고수외전 </title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260325233000 +0900" stop="20260326003000 +0900" channel="SBS Biz">
@@ -524682,115 +525858,111 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
     <title lang="zh">실화탐사대 352회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260325035800 +0900" stop="20260325050000 +0900" channel="MBC on">
+  <programme start="20260325035800 +0900" stop="20260325050600 +0900" channel="MBC on">
     <title lang="zh">60분 드라마 4회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260326050000 +0900" stop="20260326061000 +0900" channel="MBC on">
+  <programme start="20260326050600 +0900" stop="20260326061800 +0900" channel="MBC on">
     <title lang="zh">동이 7회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260326061000 +0900" stop="20260326073000 +0900" channel="MBC on">
+  <programme start="20260326061800 +0900" stop="20260326073300 +0900" channel="MBC on">
     <title lang="zh">동이 8회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260326073000 +0900" stop="20260326080500 +0900" channel="MBC on">
+  <programme start="20260326073300 +0900" stop="20260326080600 +0900" channel="MBC on">
     <title lang="zh">사랑했나봐 70회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260326080500 +0900" stop="20260326084000 +0900" channel="MBC on">
+  <programme start="20260326080600 +0900" stop="20260326084600 +0900" channel="MBC on">
     <title lang="zh">사랑했나봐 71회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260326084000 +0900" stop="20260326093000 +0900" channel="MBC on">
+  <programme start="20260326084600 +0900" stop="20260326093100 +0900" channel="MBC on">
     <title lang="zh">사랑했나봐 72회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260326093000 +0900" stop="20260326100000 +0900" channel="MBC on">
+  <programme start="20260326093100 +0900" stop="20260326100300 +0900" channel="MBC on">
     <title lang="zh">왕꽃선녀님 42회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260326100000 +0900" stop="20260326103000 +0900" channel="MBC on">
+  <programme start="20260326100300 +0900" stop="20260326104300 +0900" channel="MBC on">
     <title lang="zh">왕꽃선녀님 43회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260326103000 +0900" stop="20260326110000 +0900" channel="MBC on">
+  <programme start="20260326104300 +0900" stop="20260326111200 +0900" channel="MBC on">
     <title lang="zh">왕꽃선녀님 44회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260326110000 +0900" stop="20260326113000 +0900" channel="MBC on">
+  <programme start="20260326111200 +0900" stop="20260326115400 +0900" channel="MBC on">
     <title lang="zh">왕꽃선녀님 45회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260326113000 +0900" stop="20260326120000 +0900" channel="MBC on">
-    <title lang="zh">왕꽃선녀님 46회</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260326120000 +0900" stop="20260326132000 +0900" channel="MBC on">
+  <programme start="20260326115400 +0900" stop="20260326131100 +0900" channel="MBC on">
     <title lang="zh">보석 비빔밥 7회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260326132000 +0900" stop="20260326143000 +0900" channel="MBC on">
+  <programme start="20260326131100 +0900" stop="20260326142800 +0900" channel="MBC on">
     <title lang="zh">보석 비빔밥 8회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260326143000 +0900" stop="20260326155000 +0900" channel="MBC on">
+  <programme start="20260326142800 +0900" stop="20260326154300 +0900" channel="MBC on">
     <title lang="zh">여자를 울려 39회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260326155000 +0900" stop="20260326170000 +0900" channel="MBC on">
+  <programme start="20260326154300 +0900" stop="20260326170000 +0900" channel="MBC on">
     <title lang="zh">여자를 울려 40회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260326170000 +0900" stop="20260326173000 +0900" channel="MBC on">
+  <programme start="20260326170000 +0900" stop="20260326172500 +0900" channel="MBC on">
     <title lang="zh">임현식의 장터사람들 73회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260326173000 +0900" stop="20260326180000 +0900" channel="MBC on">
+  <programme start="20260326172500 +0900" stop="20260326175900 +0900" channel="MBC on">
     <title lang="zh">임현식의 장터사람들 74회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260326180000 +0900" stop="20260326182500 +0900" channel="MBC on">
+  <programme start="20260326175900 +0900" stop="20260326182400 +0900" channel="MBC on">
     <title lang="zh">임현식의 장터사람들 75회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260326182500 +0900" stop="20260326185000 +0900" channel="MBC on">
+  <programme start="20260326182400 +0900" stop="20260326185800 +0900" channel="MBC on">
     <title lang="zh">임현식의 장터사람들 76회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260326185000 +0900" stop="20260326200000 +0900" channel="MBC on">
+  <programme start="20260326185800 +0900" stop="20260326200000 +0900" channel="MBC on">
     <title lang="zh">아들과 딸 63회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260326200000 +0900" stop="20260326211000 +0900" channel="MBC on">
+  <programme start="20260326200000 +0900" stop="20260326211300 +0900" channel="MBC on">
     <title lang="zh">트롯 챔피언 81회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260326211000 +0900" stop="20260326221000 +0900" channel="MBC on">
+  <programme start="20260326211300 +0900" stop="20260326221100 +0900" channel="MBC on">
     <title lang="zh">전원일기 1044회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260326221000 +0900" stop="20260326231000 +0900" channel="MBC on">
+  <programme start="20260326221100 +0900" stop="20260326231100 +0900" channel="MBC on">
     <title lang="zh">전원일기 1045회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260326231000 +0900" stop="20260327001000 +0900" channel="MBC on">
+  <programme start="20260326231100 +0900" stop="20260327001000 +0900" channel="MBC on">
     <title lang="zh">전원일기 1046회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260326001000 +0900" stop="20260326011000 +0900" channel="MBC on">
+  <programme start="20260326001000 +0900" stop="20260326010400 +0900" channel="MBC on">
     <title lang="zh">전원일기 1047회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260326011000 +0900" stop="20260326025000 +0900" channel="MBC on">
-    <title lang="zh">오은영 리포트 결혼지옥 160회</title>
+  <programme start="20260326010400 +0900" stop="20260326023900 +0900" channel="MBC on">
+    <title lang="zh">오은영 리포트 가족지옥 160회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260326025000 +0900" stop="20260326040000 +0900" channel="MBC on">
+  <programme start="20260326023900 +0900" stop="20260326034200 +0900" channel="MBC on">
     <title lang="zh">서프라이즈 미스터리 살롱 8회</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260326040000 +0900" stop="20260326050000 +0900" channel="MBC on">
+  <programme start="20260326034200 +0900" stop="20260326050000 +0900" channel="MBC on">
     <title lang="zh">위대한 가이드 7회</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -527212,7 +528384,7 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
   </programme>
   <programme start="20260326140000 +0900" stop="20260326141000 +0900" channel="EBS EDUCATION">
     <title lang="zh">[중1]포텐영문법(재)</title>
-    <desc lang="zh">12강현재완료(1)</desc>
+    <desc lang="zh">13강현재완료(2)</desc>
   </programme>
   <programme start="20260326141000 +0900" stop="20260326142000 +0900" channel="EBS EDUCATION">
     <title lang="zh">[중1]포텐영단어</title>
@@ -548218,10 +549390,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
     <title lang="zh">我?走了男主的初夜</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260325095800 +0000" stop="20260325105800 +0000" channel="中视">
-    <title lang="zh">中视新闻</title>
-    <desc lang="zh">由最专业的中视新闻主播，为您播报最新、最即时的新闻。</desc>
-  </programme>
   <programme start="20260325105800 +0000" stop="20260325120000 +0000" channel="中视">
     <title lang="zh">中视新闻全球报导</title>
     <desc lang="zh">中视每晚七点由主播哈远仪为全国观众最专业、准确的新闻报导。</desc>
@@ -548682,10 +549850,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
     <title lang="zh">价值型投资</title>
     <desc lang="zh">当行情出现震荡、盘势不明时，相信投资人一定会开始转向价值型投资，节目中将推荐适合的标的，提供投资人参考。</desc>
   </programme>
-  <programme start="20260325085800 +0000" stop="20260325105800 +0000" channel="华视">
-    <title lang="zh">华视新闻晚报</title>
-    <desc lang="zh">华视新闻部每天整理当天重大国内外新闻事件，为观众做最快、最即时的播报。</desc>
-  </programme>
   <programme start="20260325105800 +0000" stop="20260325120000 +0000" channel="华视">
     <title lang="zh">华视晚间新闻</title>
     <desc lang="zh">以最客观的角度，最专业的主播，为观众完整报导国内外重要新闻。</desc>
@@ -549101,10 +550265,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
   <programme start="20260329220000 +0000" stop="20260329230000 +0000" channel="华视">
     <title lang="zh">三国演议</title>
     <desc lang="zh">华视新闻部制播新闻专题节目。由国际政经专家汪浩、日本产经新闻台北支局长矢板明夫搭档主持，深度讲评最新国际政经重大事件，跳脱传统政论谈话节目的框架属性。</desc>
-  </programme>
-  <programme start="20260325103000 +0000" stop="20260325110000 +0000" channel="好消息2台">
-    <title lang="zh">爱＋好医生</title>
-    <desc lang="zh">结合医疗专业及全人关怀的新型态节目，主持人黄𪻐宁医师亲访家庭，跨领域医疗顾问团全方位检视，提供最完整、实用和正确的资讯来守护孩子的健康。</desc>
   </programme>
   <programme start="20260325110000 +0000" stop="20260325115000 +0000" channel="好消息2台">
     <title lang="zh">家庭８点档转转发现爱</title>
@@ -549986,18 +551146,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
     <title lang="zh">奔向标竿</title>
     <desc lang="zh">美国最具影响力的属灵领袖之一，华理克(Rick Warren)牧师与马鞍峰教会牧者团队，与您一起携手直奔属天标竿，得著属天奖赏！</desc>
   </programme>
-  <programme start="20260325103000 +0000" stop="20260325110000 +0000" channel="好消息">
-    <title lang="zh">健康新煮流</title>
-    <desc lang="zh">开创夫妻同厨同煮潮流的KC夫妇，继《健康医食代》后，走出摄影棚，带大家全台走透透，发掘上帝赏赐的美味食材，内容融合新加坡南洋风和客家纯朴味，加上台湾独特的闽南风情，互相激荡交织出的火花，打造出独一无二的美食节目。</desc>
-  </programme>
-  <programme start="20260325110000 +0000" stop="20260325111500 +0000" channel="好消息">
-    <title lang="zh">共享观点</title>
-    <desc lang="zh">连结社群、分享、行动的特色，藉著媒体平台将圣经教导、基要真理落实在生活中。两位主持人将在节目中以轻松对谈的方式，讨论年轻人关注的话题。</desc>
-  </programme>
-  <programme start="20260325111500 +0000" stop="20260325113000 +0000" channel="好消息">
-    <title lang="zh">共享观点</title>
-    <desc lang="zh">连结社群、分享、行动的特色，藉著媒体平台将圣经教导、基要真理落实在生活中。两位主持人将在节目中以轻松对谈的方式，讨论年轻人关注的话题。</desc>
-  </programme>
   <programme start="20260325113000 +0000" stop="20260325120000 +0000" channel="好消息">
     <title lang="zh">爱＋好医生</title>
     <desc lang="zh">结合医疗专业及全人关怀的新型态节目，主持人黄𪻐宁医师亲访家庭，跨领域医疗顾问团全方位检视，提供最完整、实用和正确的资讯来守护孩子的健康。</desc>
@@ -550850,10 +551998,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
     <title lang="zh">道在人间(国)</title>
     <desc lang="zh">节目中邀请赵镛基、叶光明、杰克海福德、乔依丝迈尔等，国内外知名牧长，以丰富的服事经历与扎实的神学装备，教导、传讲圣经真道，坚固信徒并警醒人心。</desc>
   </programme>
-  <programme start="20260325100000 +0000" stop="20260325110000 +0000" channel="ELTV生活英语台">
-    <title lang="zh">森林侦探队</title>
-    <desc lang="zh">南韩EBS与Bigstar Global共同制播的卡通，可轻松认识大自然的样貌。各个谜团揉合在森林的浩瀚中，期待观众跟著侦探队，细细品味在这森林的每个故事。</desc>
-  </programme>
   <programme start="20260325110000 +0000" stop="20260325120000 +0000" channel="ELTV生活英语台">
     <title lang="zh">萌马吼吼</title>
     <desc lang="zh">主人公吼吼，是一只可爱的奶油独角兽，他生活在甜蜜镇上，这里的居民都是各种甜品，有著各自的职业。作为一名快乐的打工人，吼吼每天都在小镇的不同地方打工，当发型师助理时，用自己的奶油为甜品们打造时下最流行的发型，尤其是杯子蛋糕，对他的设计总是赞不绝口。</desc>
@@ -551421,14 +552565,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
   <programme start="20260330073000 +0000" stop="20260330080000 +0000" channel="ELTV生活英语台">
     <title lang="zh">欢唱小精灵</title>
     <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260325103000 +0000" stop="20260325110000 +0000" channel="龙华卡通台">
-    <title lang="zh">淘气鼠兄弟</title>
-    <desc lang="zh">小唐是一只拟人化的粉红色小狗，与莫图、兰布、乔图三只鼠兄弟合住一个房子。小唐时常被老鼠们惹恼，吵吵闹闹的生活让相看两厌的他们会产生什么火花呢</desc>
-  </programme>
-  <programme start="20260325110000 +0000" stop="20260325113000 +0000" channel="龙华卡通台">
-    <title lang="zh">猪猪侠</title>
-    <desc lang="zh">猪猪侠因科学实验事故，穿越时空隧道到了2080年。在未来世界里，能源危机即将爆发。强强科技集团得知破旧的望子成龙小学地下蕴藏丰富能源后，想将小学占为己有。为了重振母校，猪猪侠接受强强科技一次又一次的挑战。利用迷糊小发明的猪猪侠能与超人强先进的高科技产品对抗吗？</desc>
   </programme>
   <programme start="20260325113000 +0000" stop="20260325120000 +0000" channel="龙华卡通台">
     <title lang="zh">猪猪侠</title>
@@ -552282,10 +553418,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
     <title lang="zh">淘气鼠兄弟</title>
     <desc lang="zh">小唐是一只拟人化的粉红色小狗，与莫图、兰布、乔图三只鼠兄弟合住一个房子。小唐时常被老鼠们惹恼，吵吵闹闹的生活让相看两厌的他们会产生什么火花呢</desc>
   </programme>
-  <programme start="20260325100000 +0000" stop="20260325110000 +0000" channel="亚洲旅游台">
-    <title lang="zh">型男闯世界</title>
-    <desc lang="zh">《型男闯世界》前往世界各地的特殊景点或深山秘境，挑战极限运动，寻找奇人异事、踏寻隐身在丛林边境的传说、进行各种挑战及探险。</desc>
-  </programme>
   <programme start="20260325110000 +0000" stop="20260325120000 +0000" channel="亚洲旅游台">
     <title lang="zh">33厨房</title>
     <desc lang="zh">电影圈的大明星林美秀首度跨足综艺接主持棒，即将大展厨艺与观众们一起美味上菜！</desc>
@@ -552754,10 +553886,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
     <title lang="zh">嗨 Let's Go</title>
     <desc lang="zh">旅行该怎么玩呢？有人喜欢吃美食、看风景、体验人文与历史；也有人只想疯血拼、追潮流、享奢华；更有人爱自然、爱冒险，当起背包客最逍遥！其实，无论哪种旅游方式和玩法，只要懂门道，都能玩出最精彩！</desc>
   </programme>
-  <programme start="20260325100000 +0000" stop="20260325110000 +0000" channel="Smart知识台">
-    <title lang="zh">健康2.0</title>
-    <desc lang="zh">在节目中，将以各种深入浅出的方式，检测时下流行的健康产品的效用，示范健康烹调与运动方法，并与观众分享照顾家人的健康资讯与心得。</desc>
-  </programme>
   <programme start="20260325110000 +0000" stop="20260325120000 +0000" channel="Smart知识台">
     <title lang="zh">全民星攻略</title>
     <desc lang="zh">东森综合台全新益智实境节目，「全民星攻略」，由馆长曾国城担任把关者，考验著每个来挑战九宫格益智游戏艺人明星。想要攻略九宫格关卡，透过创意联想、逻辑推理、理想分析，才有机会获取智慧星币，带走梦幻大奖。</desc>
@@ -553185,10 +554313,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
   <programme start="20260330070000 +0000" stop="20260330080000 +0000" channel="Smart知识台">
     <title lang="zh">全民星攻略</title>
     <desc lang="zh">东森综合台全新益智实境节目，「全民星攻略」，由馆长曾国城担任把关者，考验著每个来挑战九宫格益智游戏艺人明星。想要攻略九宫格关卡，透过创意联想、逻辑推理、理想分析，才有机会获取智慧星币，带走梦幻大奖。</desc>
-  </programme>
-  <programme start="20260325100000 +0000" stop="20260325110000 +0000" channel="龙华戏剧台">
-    <title lang="zh">军师联盟2虎啸龙吟</title>
-    <desc lang="zh">大军师司马懿，重返朝堂，外抵诸葛亮，内抗曹氏权贵，呼风唤雨，运转乾坤！</desc>
   </programme>
   <programme start="20260325110000 +0000" stop="20260325120000 +0000" channel="龙华戏剧台">
     <title lang="zh">军师联盟2虎啸龙吟</title>
@@ -553657,10 +554781,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
   <programme start="20260330070000 +0000" stop="20260330080000 +0000" channel="龙华戏剧台">
     <title lang="zh">琉璃</title>
     <desc lang="zh">改编自十四郎小说《琉璃美人煞》。讲述天生六识残缺的少阳派掌门之女褚璇玑（袁冰妍）和离泽宫少主禹司凤（成毅），在面临爱情与前世阴谋的双重压力下，携手共对百般腥风血雨，解开两人纠缠十世的虐恋情缘，缔造传奇色彩的仙侠爱情故事。</desc>
-  </programme>
-  <programme start="20260325103000 +0000" stop="20260325110000 +0000" channel="台湾戏剧台">
-    <title lang="zh">鸟来伯与十三姨</title>
-    <desc lang="zh">鸟来伯，个性平和，杂货店老板。观念保守念旧，期望子女们都能出人头地，因自尊心强常委屈自己；淑女，鸟来伯之妻，大事小事琐事一手包办，是一位坚忍爱家的标准台湾女性；鸟来嬷，家中的首席长者，个性强悍，死爱面子。看鸟家人如何努力经营著老旧的杂货店以维持生计，同时也维持著家庭的团结与和谐…</desc>
   </programme>
   <programme start="20260325110000 +0000" stop="20260325120000 +0000" channel="台湾戏剧台">
     <title lang="zh">包青天</title>
@@ -554141,14 +555261,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
   <programme start="20260330070000 +0000" stop="20260330080000 +0000" channel="台湾戏剧台">
     <title lang="zh">包青天</title>
     <desc lang="zh">仁宗皇帝在位期间，包拯（金超群）升任开封府府尹执掌京畿，刚直耿介、铁面无私、明察秋毫、断案如神，百姓爱戴敬仰尊称为“包青天”。并有公孙策（范鸿轩）与南侠展昭（何家劲）一文一武两员大将，使得包拯屡破奇案屡建奇功。</desc>
-  </programme>
-  <programme start="20260325100000 +0000" stop="20260325104000 +0000" channel="东森购物1台">
-    <title lang="zh">锁定CH.43、CH.49选购</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260325104000 +0000" stop="20260325112000 +0000" channel="东森购物1台">
-    <title lang="zh">3/1-3/31全月消费满3件享1680枚东森币兑换【韩国热销折叠收纳箱3入组】(每人限1次)</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260325112000 +0000" stop="20260325120000 +0000" channel="东森购物1台">
     <title lang="zh">锁定CH.43、CH.49选购</title>
@@ -554850,10 +555962,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
     <title lang="zh">锁定CH.43、CH.49选购</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260325100000 +0000" stop="20260325110000 +0000" channel="龙华偶像台">
-    <title lang="zh">极速悖论</title>
-    <desc lang="zh">少年陈墨白从小将赛车视为终身梦想，渴望有一天能冲进“超级方程式”的赛场。追梦过程中，他遇上空气动力学博士的工程师沈溪。陈墨白的热忱执着，让沈溪终于开始直视内心，卸下包袱又彼此认可的两人成为最好的搭档，突破速度与安全的悖论，携手赛场上一次次超越极限。</desc>
-  </programme>
   <programme start="20260325110000 +0000" stop="20260325120000 +0000" channel="龙华偶像台">
     <title lang="zh">极速悖论</title>
     <desc lang="zh">少年陈墨白从小将赛车视为终身梦想，渴望有一天能冲进“超级方程式”的赛场。追梦过程中，他遇上空气动力学博士的工程师沈溪。陈墨白的热忱执着，让沈溪终于开始直视内心，卸下包袱又彼此认可的两人成为最好的搭档，突破速度与安全的悖论，携手赛场上一次次超越极限。</desc>
@@ -555338,10 +556446,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
     <title lang="zh">先热情地打扫吧</title>
     <desc lang="zh">同名网路漫画改编。清洁公司CEO张善杰（尹钧相）财貌双全、堪称完美，却因有非常严重的洁癖而无法和任何人接触。但他却喜欢上个性明朗可爱却超级不拘小节的待业女青年吉五雪（金裕贞），两人之间上演一段双向奔赴的浪漫爱情故事…</desc>
   </programme>
-  <programme start="20260325100000 +0000" stop="20260325110000 +0000" channel="龙华日韩台">
-    <title lang="zh">只属于你</title>
-    <desc lang="zh">恩静（李敏英）嫁给律师姜胜宰（宋在熙），没想到婆家却拿她当佣人使唤，胜宰对此毫不在意，甚至根本没去登记结婚。恩静因此重回职场，努力成为知名设计师，当前男友俊夏再度出现在她面前，看到她遭遇不幸却仍默默守护，俊夏能为恩静带来幸福吗？</desc>
-  </programme>
   <programme start="20260325110000 +0000" stop="20260325120000 +0000" channel="龙华日韩台">
     <title lang="zh">优雅的朋友们</title>
     <desc lang="zh">一场离奇猝死与密室谋杀，撕裂大学「五人帮」维持二十年的体面假象。死党万植离世，失踪多年的初恋海淑突然现身，唤醒男人们被西装掩盖的欲望与罪恶。模范人夫宫哲察觉妻子静海疑似出轨，威胁她的教练却随即身亡，监视器与证物一夜消失。</desc>
@@ -555809,10 +556913,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
   <programme start="20260330070000 +0000" stop="20260330080000 +0000" channel="龙华日韩台">
     <title lang="zh">人偶之家</title>
     <desc lang="zh">洪世妍（朴荷娜）在母亲再婚后拥有了完整的家庭，但高中时继父生意失败而令她黯然离家独自生活。后来她发现自己被所爱的人背叛和抛弃后，为了找回自己的生活，决定改名换姓回来向他们复仇，并且揭开所有人隐藏在背后之秘密的故事。</desc>
-  </programme>
-  <programme start="20260325100000 +0000" stop="20260325104000 +0000" channel="东森购物2台">
-    <title lang="zh">锁定CH.43、CH.49选购</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260325104000 +0000" stop="20260325112000 +0000" channel="东森购物2台">
     <title lang="zh">3/1-3/31全月消费满3件享1680枚东森币兑换【韩国热销折叠收纳箱3入组】(每人限1次)</title>
@@ -557502,10 +558602,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
     <title lang="zh">智富食代</title>
     <desc lang="zh">颠覆传统旅游节目，而是以全新新闻性、知识性旅游资讯节目，呈现观众眼前。轻松有趣的内容中，将观光经济数字、各地房价、消费指数及各地风土民情融入结合。要学怎么赢、先学怎么玩！女汉子两条路线PK旅行大挑战。</desc>
   </programme>
-  <programme start="20260325100000 +0000" stop="20260325110000 +0000" channel="寰宇财经台">
-    <title lang="zh">美食打卡趣</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
   <programme start="20260325110000 +0000" stop="20260325120000 +0000" channel="寰宇财经台">
     <title lang="zh">打卡吧!我的炫FOOD日记</title>
     <desc lang="zh">暂无描述</desc>
@@ -557972,14 +559068,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
   </programme>
   <programme start="20260330070000 +0000" stop="20260330080000 +0000" channel="寰宇财经台">
     <title lang="zh">小食光台味志</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260325103000 +0000" stop="20260325110000 +0000" channel="daystar">
-    <title lang="zh">Today with Marilyn and Sarah</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260325110000 +0000" stop="20260325113000 +0000" channel="daystar">
-    <title lang="zh">Voice of God with Joseph Z</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260325113000 +0000" stop="20260325120000 +0000" channel="daystar">
@@ -558842,10 +559930,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
     <title lang="zh">Rick Renner</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260325100000 +0000" stop="20260325105800 +0000" channel="中视新闻">
-    <title lang="zh">中视新闻全球报导</title>
-    <desc lang="zh">中视每晚七点由主播哈远仪为全国观众最专业、准确的新闻报导。</desc>
-  </programme>
   <programme start="20260325105800 +0000" stop="20260325120000 +0000" channel="中视新闻">
     <title lang="zh">中视新闻全球报导</title>
     <desc lang="zh">中视每晚七点由主播哈远仪为全国观众最专业、准确的新闻报导。</desc>
@@ -559314,10 +560398,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
     <title lang="zh">中视新闻即时现场</title>
     <desc lang="zh">由主播萧惠文播报，以SNG车让观众看到最即时的新闻报导，并以最客观的角度，为观众完整报导上午发生之重要新闻。</desc>
   </programme>
-  <programme start="20260325100000 +0000" stop="20260325110000 +0000" channel="中天新闻台">
-    <title lang="zh">中天辣晚报</title>
-    <desc lang="zh">提供国内、两岸、国际头条焦点，掌握时事脉动，观察新闻背后的真正意义，带领观众知晓天下事。有最深度的内容、最专业的追踪、最需要的资讯，收视率领先各台，具有高度影响力！</desc>
-  </programme>
   <programme start="20260325110000 +0000" stop="20260325120000 +0000" channel="中天新闻台">
     <title lang="zh">中天辣晚报</title>
     <desc lang="zh">提供国内、两岸、国际头条焦点，掌握时事脉动，观察新闻背后的真正意义，带领观众知晓天下事。有最深度的内容、最专业的追踪、最需要的资讯，收视率领先各台，具有高度影响力！</desc>
@@ -559725,10 +560805,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
   <programme start="20260330060000 +0000" stop="20260330080000 +0000" channel="中天新闻台">
     <title lang="zh">大新闻大爆卦</title>
     <desc lang="zh">每周一到周五《大新闻大爆卦》中天主播马千惠陪你一起来解卦！！！</desc>
-  </programme>
-  <programme start="20260325095500 +0000" stop="20260325105500 +0000" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇晚间新闻</title>
-    <desc lang="zh">寰宇晚间新闻给你最在地的台湾新闻、最深入的两岸焦点，掌握国际情势带您了解社会脉动。</desc>
   </programme>
   <programme start="20260325105500 +0000" stop="20260325115500 +0000" channel="寰宇新闻台湾台">
     <title lang="zh">寰宇晚间新闻</title>
@@ -560197,10 +561273,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
   <programme start="20260330065500 +0000" stop="20260330075500 +0000" channel="寰宇新闻台湾台">
     <title lang="zh">寰宇整点新闻</title>
     <desc lang="zh">来自路透的国际新闻、最在地的台湾新闻以及最深入的两岸焦点，带您掌握社会脉动。</desc>
-  </programme>
-  <programme start="20260325095500 +0000" stop="20260325105500 +0000" channel="寰宇新闻台">
-    <title lang="zh">寰宇全球新闻</title>
-    <desc lang="zh">抢先揭露全球各地政经、社会、娱乐的第一手新闻讯息，让观众不漏接关键的世界大事。</desc>
   </programme>
   <programme start="20260325105500 +0000" stop="20260325115500 +0000" channel="寰宇新闻台">
     <title lang="zh">寰宇全球新闻</title>
@@ -560673,14 +561745,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
   <programme start="20260330065500 +0000" stop="20260330075500 +0000" channel="寰宇新闻台">
     <title lang="zh">寰宇整点新闻</title>
     <desc lang="zh">来自路透的国际新闻、最在地的台湾新闻以及最深入的两岸焦点，带您掌握社会脉动。</desc>
-  </programme>
-  <programme start="20260325103000 +0000" stop="20260325110000 +0000" channel="第1商业台">
-    <title lang="zh">股市强强滚-亚洲投顾-郑伟群分析师</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260325110000 +0000" stop="20260325113000 +0000" channel="第1商业台">
-    <title lang="zh">旗开得胜-顾德投顾-张家豪分析师</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260325113000 +0000" stop="20260325120000 +0000" channel="第1商业台">
     <title lang="zh">期股冲冲冲-宝得富-翁士峻分析师</title>
@@ -561742,10 +562806,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
     <title lang="zh">周一会议预报</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260325085000 +0000" stop="20260325110000 +0000" channel="龙华经典台">
-    <title lang="zh">驯悍记</title>
-    <desc lang="zh">改编自莎翁笔下的同名喜剧。十六世纪的维洛纳穷绅士彼特鲁乔（李察波顿），看上了富商千金凯特琳娜（伊丽莎白泰勒）丰厚的嫁妆，因此不管她个性凶悍暴躁的名声，对她展开热烈追求。却在婚后，开始设法驯服这位恶名昭彰的悍妇…</desc>
-  </programme>
   <programme start="20260325110000 +0000" stop="20260325130000 +0000" channel="龙华经典台">
     <title lang="zh">少林寺传奇之东归英雄</title>
     <desc lang="zh">完成西行任务的少林寺和尚又受康熙委派，护送归顺的万寿山将军和冰玉公主东归京城。但是，西鲁天会内部反对和谈的少数派，认为万寿山投降清朝，是反清阵营的耻辱。太子因为害怕和尚进京使他独占明朝宝藏的行为被揭穿，也想方设法灭掉和尚。</desc>
@@ -561949,10 +563009,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
   <programme start="20260330044000 +0000" stop="20260330065500 +0000" channel="龙华经典台">
     <title lang="zh">警察故事续集</title>
     <desc lang="zh">重案组探员家驹（成龙）不满自己抓来的犯人朱滔被释放愤而辞职，与女友May（张曼玉）在商场散心，巧遇炸弹狂徒做案。炸弹狂徒接二连三犯案，最后目标竟是警局，令警方不知所措，只好重召家驹归队办案。炸弹狂徒多次出动未能成功，为了取得赎款，竟然将May绑架…</desc>
-  </programme>
-  <programme start="20260325084500 +0000" stop="20260325110500 +0000" channel="龙华电影台">
-    <title lang="zh">我的婆婆怎么把OO搞丢了</title>
-    <desc lang="zh">苏家婆婆彩香（钟欣凌）不小心搞丢神秘「OO」引来警察的关切，苏家子女们纷纷傻眼，儿子秉仁（杨铭威）不负责落跑、女儿秉爱（苏晏霈）挥刀逼问、秉忠（邱凯伟）不孝提议报警，最后竟连小鸥（黄姵嘉）、大美都一起上铐送警局！苏家婆婆究竟捅出什么娄子？这家人又会搞出什么名堂？</desc>
   </programme>
   <programme start="20260325110500 +0000" stop="20260325130000 +0000" channel="龙华电影台">
     <title lang="zh">控制</title>
@@ -562177,10 +563233,6 @@ X 和他们生命中的女人一直纠缠博斗。</desc>
   <programme start="20260330044000 +0000" stop="20260330072500 +0000" channel="龙华电影台">
     <title lang="zh">唐人街探案</title>
     <desc lang="zh">少年秦风警校落榜，包袱款款，要去海外散散心，并找了号称「唐人街第一神探」的表舅唐仁来做陪。一晚上花天酒地，才睁开眼睛，却是哀天叫地，一桩离奇谋杀，唐仁被指为凶手，铁血警探拘捕在即，更有两光匪帮追杀在后，连唐人街教父都来凑一脚，他们要如何在时限内找出真相？</desc>
-  </programme>
-  <programme start="20260325092500 +0000" stop="20260325111000 +0000" channel="龙华洋片台">
-    <title lang="zh">泰瑞的冒险王国</title>
-    <desc lang="zh">泰瑞从小最喜欢奶奶写的童话故事，长大后的他，经营著奶奶留下的游乐园。某日，泰瑞意外进入了奇妙的「动感王国」，这里跟奶奶书中的童话世界一模一样，却因坏脾气巫师的诅咒而失去了欢乐。为了回到原本的世界，泰瑞得协助黎明公主一同找到重拾欢乐的咒语，一场超乎想像的奇幻冒险就此展开！</desc>
   </programme>
   <programme start="20260325111000 +0000" stop="20260325130000 +0000" channel="龙华洋片台">
     <title lang="zh">我要活下去</title>
@@ -674568,7 +675620,7 @@ MOMO定延闭目养神 志效咳嗽感冒了？</desc>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260326140000 +0800" stop="20260326160000 +0800" channel="W-Sport">
-    <title lang="zh">DFB Pokal Frauen 25/26</title>
+    <title lang="zh">DFB-Pokal Frauen 25/26</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260326160000 +0800" stop="20260326180000 +0800" channel="W-Sport">
@@ -680168,7 +681220,7 @@ MOMO定延闭目养神 志效咳嗽感冒了？</desc>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260325022100 +0700" stop="20260325040400 +0700" channel="BUDDY STARS">
-    <title lang="zh">Dogtanian &amp; 3 Muskehounds</title>
+    <title lang="zh">Dogtanian &amp; The 3 Muskehounds</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260325040400 +0700" stop="20260325054200 +0700" channel="BUDDY STARS">
@@ -680200,7 +681252,7 @@ MOMO定延闭目养神 志效咳嗽感冒了？</desc>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260325160500 +0700" stop="20260325175000 +0700" channel="BUDDY STARS">
-    <title lang="zh">Autumn &amp; The Black Jaguar</title>
+    <title lang="zh">Autumn And The Black Jaguar</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260325175000 +0700" stop="20260325194200 +0700" channel="BUDDY STARS">
@@ -680244,7 +681296,7 @@ MOMO定延闭目养神 志效咳嗽感冒了？</desc>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260326124200 +0700" stop="20260326142200 +0700" channel="BUDDY STARS">
-    <title lang="zh">Mees Kees Langs De Lijn</title>
+    <title lang="zh">Mees Kees langs de lijn</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260326142200 +0700" stop="20260326162200 +0700" channel="BUDDY STARS">
@@ -680272,7 +681324,7 @@ MOMO定延闭目养神 志效咳嗽感冒了？</desc>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260325022100 +0700" stop="20260325040400 +0700" channel="BUDDY STARS HD">
-    <title lang="zh">Dogtanian &amp; 3 Muskehounds</title>
+    <title lang="zh">Dogtanian &amp; The 3 Muskehounds</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260325040400 +0700" stop="20260325054200 +0700" channel="BUDDY STARS HD">
@@ -680304,7 +681356,7 @@ MOMO定延闭目养神 志效咳嗽感冒了？</desc>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260325160500 +0700" stop="20260325175000 +0700" channel="BUDDY STARS HD">
-    <title lang="zh">Autumn &amp; The Black Jaguar</title>
+    <title lang="zh">Autumn And The Black Jaguar</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260325175000 +0700" stop="20260325194200 +0700" channel="BUDDY STARS HD">
@@ -680348,7 +681400,7 @@ MOMO定延闭目养神 志效咳嗽感冒了？</desc>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260326124200 +0700" stop="20260326142200 +0700" channel="BUDDY STARS HD">
-    <title lang="zh">Mees Kees Langs De Lijn</title>
+    <title lang="zh">Mees Kees langs de lijn</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260326142200 +0700" stop="20260326162200 +0700" channel="BUDDY STARS HD">
