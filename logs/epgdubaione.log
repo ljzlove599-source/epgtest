@@ -1,76 +1,13 @@
-页面 1 日期: Mar 25, 2026, 节目数量: 17
-页面 2 日期: Mar 26, 2026, 节目数量: 18
-页面 3 日期: Mar 27, 2026, 节目数量: 18
-页面 4 日期: Mar 28, 2026, 节目数量: 16
+页面 1 日期: Mar 26, 2026, 节目数量: 18
+页面 2 日期: Mar 27, 2026, 节目数量: 18
+页面 3 日期: Mar 28, 2026, 节目数量: 16
+页面 4 日期: Mar 29, 2026, 节目数量: 17
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "http://api.torrent-tv.ru/xmltv.dtd">
 <tv generator-info-name="http://192.168.10.1/system/opt/" generator-info-url="QQ">
   <channel id="Dubai One">
     <display-name lang="en">Dubai One</display-name>
   </channel>
-  <programme start="20260325003000 +0400" stop="20260325030000 +0400" channel="Dubai One">
-    <title lang="en">Little Miss Sunshine</title>
-    <desc lang="en">Where's Olive?</desc>
-  </programme>
-  <programme start="20260325030000 +0400" stop="20260325040000 +0400" channel="Dubai One">
-    <title lang="en">2 Good 2 Be True</title>
-    <desc lang="en">Car mechanic Eloy makes a terrible first impression on Ali, who works for a real estate magnate.</desc>
-  </programme>
-  <programme start="20260325040000 +0400" stop="20260325060000 +0400" channel="Dubai One">
-    <title lang="en">The Age of Adaline</title>
-    <desc lang="en">Love is timeless</desc>
-  </programme>
-  <programme start="20260325060000 +0400" stop="20260325100000 +0400" channel="Dubai One">
-    <title lang="en">Dubai Eye Live</title>
-    <desc lang="en">Magazine show featuring news and current affairs</desc>
-  </programme>
-  <programme start="20260325100000 +0400" stop="20260325110000 +0400" channel="Dubai One">
-    <title lang="en">2 Good 2 Be True</title>
-    <desc lang="en">Car mechanic Eloy makes a terrible first impression on Ali, who works for a real estate magnate.</desc>
-  </programme>
-  <programme start="20260325110000 +0400" stop="20260325130000 +0400" channel="Dubai One">
-    <title lang="en">Bullet To The Head</title>
-  </programme>
-  <programme start="20260325130000 +0400" stop="20260325150000 +0400" channel="Dubai One">
-    <title lang="en">The Age of Adaline</title>
-    <desc lang="en">Love is timeless</desc>
-  </programme>
-  <programme start="20260325150000 +0400" stop="20260325153000 +0400" channel="Dubai One">
-    <title lang="en">Hollywood on Set</title>
-    <desc lang="en">The making of blockbuster movies</desc>
-  </programme>
-  <programme start="20260325153000 +0400" stop="20260325160000 +0400" channel="Dubai One">
-    <title lang="en">Duroob S13</title>
-  </programme>
-  <programme start="20260325160000 +0400" stop="20260325170000 +0400" channel="Dubai One">
-    <title lang="en">2 Good 2 Be True</title>
-    <desc lang="en">Car mechanic Eloy makes a terrible first impression on Ali, who works for a real estate magnate.</desc>
-  </programme>
-  <programme start="20260325170000 +0400" stop="20260325190000 +0400" channel="Dubai One">
-    <title lang="en">Little Miss Sunshine</title>
-    <desc lang="en">Where's Olive?</desc>
-  </programme>
-  <programme start="20260325190000 +0400" stop="20260325200000 +0400" channel="Dubai One">
-    <title lang="en">Fake</title>
-  </programme>
-  <programme start="20260325200000 +0400" stop="20260325203000 +0400" channel="Dubai One">
-    <title lang="en">Emirates News Emirates News</title>
-    <desc lang="en">Be the First to Know.</desc>
-  </programme>
-  <programme start="20260325203000 +0400" stop="20260325210000 +0400" channel="Dubai One">
-    <title lang="en">Hollywood on Set</title>
-    <desc lang="en">The making of blockbuster movies</desc>
-  </programme>
-  <programme start="20260325210000 +0400" stop="20260325213000 +0400" channel="Dubai One">
-    <title lang="en">Duroob S13</title>
-  </programme>
-  <programme start="20260325213000 +0400" stop="20260325223000 +0400" channel="Dubai One">
-    <title lang="en">2 Good 2 Be True</title>
-    <desc lang="en">Car mechanic Eloy makes a terrible first impression on Ali, who works for a real estate magnate.</desc>
-  </programme>
-  <programme start="20260325223000 +0400" stop="20260326003000 +0400" channel="Dubai One">
-    <title lang="en">Lucy in the Sky</title>
-  </programme>
   <programme start="20260326003000 +0400" stop="20260326023000 +0400" channel="Dubai One">
     <title lang="en">Florence Foster Jenkins</title>
     <desc lang="en">The inspiring true story of the world's worst singer.</desc>
@@ -262,8 +199,69 @@
   <programme start="20260328213000 +0400" stop="20260328223000 +0400" channel="Dubai One">
     <title lang="en">Fake</title>
   </programme>
-  <programme start="20260328223000 +0400" stop="20260329000000 +0400" channel="Dubai One">
+  <programme start="20260328223000 +0400" stop="20260329003000 +0400" channel="Dubai One">
     <title lang="en">Aliens</title>
     <desc lang="en">This time it's war</desc>
+  </programme>
+  <programme start="20260329003000 +0400" stop="20260329030000 +0400" channel="Dubai One">
+    <title lang="en">The Last Duel</title>
+  </programme>
+  <programme start="20260329030000 +0400" stop="20260329040000 +0400" channel="Dubai One">
+    <title lang="en">Fake</title>
+  </programme>
+  <programme start="20260329040000 +0400" stop="20260329060000 +0400" channel="Dubai One">
+    <title lang="en">Aliens</title>
+    <desc lang="en">This time it's war</desc>
+  </programme>
+  <programme start="20260329060000 +0400" stop="20260329080000 +0400" channel="Dubai One">
+    <title lang="en">Garfield: The Movie</title>
+    <desc lang="en">It ain't the Cat in the Hat.</desc>
+  </programme>
+  <programme start="20260329080000 +0400" stop="20260329083000 +0400" channel="Dubai One">
+    <title lang="en">Hollywood News Feed</title>
+    <desc lang="en">Hottest entertainment news of the week!</desc>
+  </programme>
+  <programme start="20260329083000 +0400" stop="20260329093000 +0400" channel="Dubai One">
+    <title lang="en">Homegrown DXB</title>
+    <desc lang="en">Home Grown Dubai will highlight the businesses and people who are not only making a difference in our country but across the world.</desc>
+  </programme>
+  <programme start="20260329093000 +0400" stop="20260329113000 +0400" channel="Dubai One">
+    <title lang="en">Kingsman: The Golden Circle</title>
+    <desc lang="en">Elite agencies working together to defeat a common enemy.</desc>
+  </programme>
+  <programme start="20260329113000 +0400" stop="20260329123000 +0400" channel="Dubai One">
+    <title lang="en">Grand Designs</title>
+  </programme>
+  <programme start="20260329123000 +0400" stop="20260329143000 +0400" channel="Dubai One">
+    <title lang="en">Rambo: Last Blood</title>
+    <desc lang="en">The Legend Comes Home.</desc>
+  </programme>
+  <programme start="20260329143000 +0400" stop="20260329153000 +0400" channel="Dubai One">
+    <title lang="en">Fake</title>
+  </programme>
+  <programme start="20260329153000 +0400" stop="20260329173000 +0400" channel="Dubai One">
+    <title lang="en">Aliens</title>
+    <desc lang="en">This time it's war</desc>
+  </programme>
+  <programme start="20260329173000 +0400" stop="20260329200000 +0400" channel="Dubai One">
+    <title lang="en">The Last Duel</title>
+  </programme>
+  <programme start="20260329200000 +0400" stop="20260329203000 +0400" channel="Dubai One">
+    <title lang="en">Hollywood News Feed</title>
+    <desc lang="en">Hottest entertainment news of the week!</desc>
+  </programme>
+  <programme start="20260329203000 +0400" stop="20260329210000 +0400" channel="Dubai One">
+    <title lang="en">Hollywood on Set</title>
+    <desc lang="en">The making of blockbuster movies</desc>
+  </programme>
+  <programme start="20260329210000 +0400" stop="20260329213000 +0400" channel="Dubai One">
+    <title lang="en">Duroob S13</title>
+  </programme>
+  <programme start="20260329213000 +0400" stop="20260329223000 +0400" channel="Dubai One">
+    <title lang="en">Fake</title>
+  </programme>
+  <programme start="20260329223000 +0400" stop="20260330000000 +0400" channel="Dubai One">
+    <title lang="en">The Black Prince</title>
+    <desc lang="en">A story of Queen Victoria and the Last King of Punjab, Maharajah Duleep Singh.</desc>
   </programme>
 </tv>
