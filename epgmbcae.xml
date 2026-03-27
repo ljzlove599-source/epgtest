@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260327140000 +0800" stop="20260327160000 +0800" channel="mbc max">
-    <title lang="en">The Walk</title>
-  </programme>
   <programme start="20260327160000 +0800" stop="20260327180000 +0800" channel="mbc max">
     <title lang="en">The Blind Side</title>
   </programme>
@@ -141,11 +138,8 @@
   <programme start="20260330010000 +0800" stop="20260330025500 +0800" channel="mbc max">
     <title lang="en">47 Ronin</title>
   </programme>
-  <programme start="20260327143000 +0800" stop="20260327160000 +0800" channel="mbc 2">
-    <title lang="en">The Man with the Iron Fists</title>
-  </programme>
-  <programme start="20260327160000 +0800" stop="20260327163000 +0800" channel="mbc 2">
-    <title lang="en">Films &amp; Stars</title>
+  <programme start="20260330025500 +0800" stop="20260330043500 +0800" channel="mbc max">
+    <title lang="en">Conan the Barbarian</title>
   </programme>
   <programme start="20260327163000 +0800" stop="20260327184500 +0800" channel="mbc 2">
     <title lang="en">The Hunger Games: Mockingjay - Part 2</title>
@@ -266,5 +260,11 @@
   </programme>
   <programme start="20260329233000 +0800" stop="20260330014000 +0800" channel="mbc 2">
     <title lang="en">Public Enemies</title>
+  </programme>
+  <programme start="20260330014000 +0800" stop="20260330020500 +0800" channel="mbc 2">
+    <title lang="en">برنامج making the movies 6</title>
+  </programme>
+  <programme start="20260330020500 +0800" stop="20260330050000 +0800" channel="mbc 2">
+    <title lang="en">The Hateful Eight</title>
   </programme>
 </tv>
