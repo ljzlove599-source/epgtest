@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260327053000 +0800" stop="20260327063000 +0800" channel="mbc action">
-    <title lang="en">برنامج ارض المليون</title>
-  </programme>
   <programme start="20260327050000 +0800" stop="20260327070000 +0800" channel="mbc max">
     <title lang="en">Dream Horse</title>
   </programme>
@@ -141,8 +138,8 @@
   <programme start="20260329143000 +0800" stop="20260329162500 +0800" channel="mbc max">
     <title lang="en">Hell or High Water</title>
   </programme>
-  <programme start="20260327053500 +0800" stop="20260327060000 +0800" channel="mbc 2">
-    <title lang="en">برنامج making the movies 6</title>
+  <programme start="20260329162500 +0800" stop="20260329180000 +0800" channel="mbc max">
+    <title lang="en">Homefront</title>
   </programme>
   <programme start="20260327060000 +0800" stop="20260327073000 +0800" channel="mbc 2">
     <title lang="en">The Man with the Iron Fists</title>
@@ -269,5 +266,8 @@
   </programme>
   <programme start="20260329144000 +0800" stop="20260329162500 +0800" channel="mbc 2">
     <title lang="en">Ride Along 2</title>
+  </programme>
+  <programme start="20260329162500 +0800" stop="20260329180500 +0800" channel="mbc 2">
+    <title lang="en">Talladega Nights: The Ballad of Ricky Bobby</title>
   </programme>
 </tv>
