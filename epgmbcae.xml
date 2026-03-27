@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260327120000 +0800" stop="20260327140000 +0800" channel="mbc max">
-    <title lang="en">Chaos</title>
-  </programme>
   <programme start="20260327140000 +0800" stop="20260327160000 +0800" channel="mbc max">
     <title lang="en">The Walk</title>
   </programme>
@@ -135,8 +132,8 @@
   <programme start="20260329210000 +0800" stop="20260329225500 +0800" channel="mbc max">
     <title lang="en">Inkheart</title>
   </programme>
-  <programme start="20260327124000 +0800" stop="20260327143000 +0800" channel="mbc 2">
-    <title lang="en">Pan</title>
+  <programme start="20260329225500 +0800" stop="20260330003000 +0800" channel="mbc max">
+    <title lang="en">The Dark Tower</title>
   </programme>
   <programme start="20260327143000 +0800" stop="20260327160000 +0800" channel="mbc 2">
     <title lang="en">The Man with the Iron Fists</title>
@@ -257,5 +254,11 @@
   </programme>
   <programme start="20260329210000 +0800" stop="20260329230500 +0800" channel="mbc 2">
     <title lang="en">Sherlock Holmes</title>
+  </programme>
+  <programme start="20260329230500 +0800" stop="20260329233000 +0800" channel="mbc 2">
+    <title lang="en">Action Zone</title>
+  </programme>
+  <programme start="20260329233000 +0800" stop="20260330014000 +0800" channel="mbc 2">
+    <title lang="en">Public Enemies</title>
   </programme>
 </tv>
