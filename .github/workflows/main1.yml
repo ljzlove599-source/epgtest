@@ -126,7 +126,7 @@ jobs:
         id: check_scripts
         run: |
           echo "检查PHP脚本文件..."
-          declare -a scripts=("epgbaidu.php" "epgsingtel.php" "epgcctv.php" "epgzhongtianam.php" "youtubelivem3u.php" "youtubelivetxt.php" "epgdiyicaijing.php" "epgunifi.php" "epglifetv.php" "epgkbsworld.php" "epgmacocable.php" "epgtvsou.php" "epgdubaione.php" "epgasia.php" "epgmncvision.php" "epgastro.php" "epggen2.php" "epgofiii.php" "epgkai1.php" "epgnewshanghai.php" "epgnewhebei.php" "epgnewguangdong.php" "youtubelocal.php" "epgziyong.php")
+          declare -a scripts=("epgbaidu.php" "epgsingtel.php" "epgcctv.php" "epgzhongtianam.php" "youtubelivem3u.php" "youtubelivetxt.php" "epgdiyicaijing.php" "epgunifi.php" "epglifetv.php" "epgkbsworld.php" "epgmacocable.php" "epgtvsou.php" "epgdubaione.php" "epgasia.php" "epgmncvision.php" "epgastro.php" "epggen2.php" "epgofiii.php" "epgkai1.php" "epgnewshanghai.php" "epgnewhebei.php" "epgnewguangdong.php" "youtubelocal.php" "youtubeworld.php" "epgziyong.php")
           existing_scripts=()
           
           for script in "${scripts[@]}"; do
