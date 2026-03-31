@@ -9,15 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260331060000 +0800" stop="20260331073000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-  </programme>
-  <programme start="20260331073000 +0800" stop="20260331083000 +0800" channel="mbc action">
-    <title lang="en">برنامج get  out a life with bear gryls</title>
-  </programme>
-  <programme start="20260331083000 +0800" stop="20260331093000 +0800" channel="mbc action">
-    <title lang="en">The Promised Neverland</title>
-  </programme>
   <programme start="20260331093000 +0800" stop="20260331110000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
@@ -186,8 +177,14 @@
   <programme start="20260402153000 +0800" stop="20260402163000 +0800" channel="mbc action">
     <title lang="en">برنامج Accelerate</title>
   </programme>
-  <programme start="20260331063500 +0800" stop="20260331083000 +0800" channel="mbc max">
-    <title lang="en">47 Ronin</title>
+  <programme start="20260402163000 +0800" stop="20260402173000 +0800" channel="mbc action">
+    <title lang="en">The Promised Neverland</title>
+  </programme>
+  <programme start="20260402173000 +0800" stop="20260402190000 +0800" channel="mbc action">
+    <title lang="en">Action Ma' Waleed</title>
+  </programme>
+  <programme start="20260402190000 +0800" stop="20260402200000 +0800" channel="mbc action">
+    <title lang="en">برنامج american ninja warrior</title>
   </programme>
   <programme start="20260331083000 +0800" stop="20260331103000 +0800" channel="mbc max">
     <title lang="en">Van Helsing</title>
@@ -309,11 +306,11 @@
   <programme start="20260402143000 +0800" stop="20260402163000 +0800" channel="mbc max">
     <title lang="en">Ace Ventura: When Nature Calls</title>
   </programme>
-  <programme start="20260331060000 +0800" stop="20260331074500 +0800" channel="mbc 2">
-    <title lang="en">Freaky</title>
+  <programme start="20260402163000 +0800" stop="20260402190000 +0800" channel="mbc max">
+    <title lang="en">Kill the Messenger</title>
   </programme>
-  <programme start="20260331074500 +0800" stop="20260331081000 +0800" channel="mbc 2">
-    <title lang="en">برنامج Making The Movies 6</title>
+  <programme start="20260402190000 +0800" stop="20260402210000 +0800" channel="mbc max">
+    <title lang="en">The Ice Road</title>
   </programme>
   <programme start="20260331081000 +0800" stop="20260331102500 +0800" channel="mbc 2">
     <title lang="en">Public Enemies</title>
@@ -425,5 +422,8 @@
   </programme>
   <programme start="20260402153000 +0800" stop="20260402173000 +0800" channel="mbc 2">
     <title lang="en">Vivo</title>
+  </programme>
+  <programme start="20260402173000 +0800" stop="20260402193000 +0800" channel="mbc 2">
+    <title lang="en">The Grand Budapest Hotel</title>
   </programme>
 </tv>
