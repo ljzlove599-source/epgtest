@@ -9,18 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260401120000 +0800" stop="20260401130000 +0800" channel="mbc action">
-    <title lang="en">بودكاست ملح الدوري</title>
-  </programme>
-  <programme start="20260401130000 +0800" stop="20260401140000 +0800" channel="mbc action">
-    <title lang="en">برنامج action bodcast</title>
-  </programme>
-  <programme start="20260401140000 +0800" stop="20260401153000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-  </programme>
-  <programme start="20260401153000 +0800" stop="20260401163000 +0800" channel="mbc action">
-    <title lang="en">برنامج Celebrity Car Wars</title>
-  </programme>
   <programme start="20260401163000 +0800" stop="20260401173000 +0800" channel="mbc action">
     <title lang="en">The Promised Neverland</title>
   </programme>
@@ -132,12 +120,6 @@
   <programme start="20260403053000 +0800" stop="20260403063000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
   </programme>
-  <programme start="20260401123000 +0800" stop="20260401140000 +0800" channel="mbc max">
-    <title lang="en">Rambo</title>
-  </programme>
-  <programme start="20260401140000 +0800" stop="20260401153000 +0800" channel="mbc max">
-    <title lang="en">All My Life</title>
-  </programme>
   <programme start="20260401153000 +0800" stop="20260401170000 +0800" channel="mbc max">
     <title lang="en">Flipped</title>
   </programme>
@@ -237,14 +219,11 @@
   <programme start="20260403210000 +0800" stop="20260403230000 +0800" channel="mbc max">
     <title lang="en">I, Robot</title>
   </programme>
-  <programme start="20260401122500 +0800" stop="20260401142500 +0800" channel="mbc 2">
-    <title lang="en">Ghostbusters: Afterlife</title>
+  <programme start="20260403230000 +0800" stop="20260404010000 +0800" channel="mbc max">
+    <title lang="en">Chaos Walking</title>
   </programme>
-  <programme start="20260401142500 +0800" stop="20260401161000 +0800" channel="mbc 2">
-    <title lang="en">The Good German</title>
-  </programme>
-  <programme start="20260401161000 +0800" stop="20260401163500 +0800" channel="mbc 2">
-    <title lang="en">Films &amp; Stars</title>
+  <programme start="20260404010000 +0800" stop="20260404030000 +0800" channel="mbc max">
+    <title lang="en">Jupiter Ascending</title>
   </programme>
   <programme start="20260401163500 +0800" stop="20260401181500 +0800" channel="mbc 2">
     <title lang="en">Belfast</title>
@@ -335,5 +314,11 @@
   </programme>
   <programme start="20260403220000 +0800" stop="20260404000000 +0800" channel="mbc 2">
     <title lang="en">The Adjustment Bureau</title>
+  </programme>
+  <programme start="20260404000000 +0800" stop="20260404020000 +0800" channel="mbc 2">
+    <title lang="en">Nerve</title>
+  </programme>
+  <programme start="20260404020000 +0800" stop="20260404040000 +0800" channel="mbc 2">
+    <title lang="en">The Mummy</title>
   </programme>
 </tv>
