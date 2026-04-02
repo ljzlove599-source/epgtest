@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260402053000 +0800" stop="20260402063000 +0800" channel="mbc action">
-    <title lang="en">ابرز لقطات الدوري</title>
-  </programme>
   <programme start="20260402063000 +0800" stop="20260402073000 +0800" channel="mbc action">
     <title lang="en">الخميس</title>
   </programme>
@@ -177,9 +174,6 @@
   <programme start="20260404143000 +0800" stop="20260404170000 +0800" channel="mbc max">
     <title lang="en">Jupiter Ascending</title>
   </programme>
-  <programme start="20260402040000 +0800" stop="20260402060000 +0800" channel="mbc 2">
-    <title lang="en">Sparkle</title>
-  </programme>
   <programme start="20260402060000 +0800" stop="20260402074000 +0800" channel="mbc 2">
     <title lang="en">The Grand Budapest Hotel</title>
   </programme>
@@ -269,5 +263,8 @@
   </programme>
   <programme start="20260404140000 +0800" stop="20260404153000 +0800" channel="mbc 2">
     <title lang="en">Nerve</title>
+  </programme>
+  <programme start="20260404153000 +0800" stop="20260404180000 +0800" channel="mbc 2">
+    <title lang="en">Dune</title>
   </programme>
 </tv>
