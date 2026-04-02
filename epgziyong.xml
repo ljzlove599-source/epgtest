@@ -6442,12 +6442,6 @@
   <programme start="20260404070000 +0800" stop="20260404080000 +0800" channel="中天北美台">
     <title lang="zh">週末大爆卦(上) (Live)</title>
   </programme>
-  <programme start="20260403010000 +0800" stop="20260403020000 +0800" channel="mbc action">
-    <title lang="en">The Promised Neverland</title>
-  </programme>
-  <programme start="20260403020000 +0800" stop="20260403023000 +0800" channel="mbc action">
-    <title lang="en">برنامج action bodcast</title>
-  </programme>
   <programme start="20260403023000 +0800" stop="20260403040000 +0800" channel="mbc action">
     <title lang="en">بودكاست ملح الدوري</title>
   </programme>
@@ -6544,9 +6538,6 @@
   <programme start="20260405093000 +0800" stop="20260405123000 +0800" channel="mbc max">
     <title lang="en">Blade Runner 2049</title>
   </programme>
-  <programme start="20260403000000 +0800" stop="20260403020000 +0800" channel="mbc 2">
-    <title lang="en">The Meg</title>
-  </programme>
   <programme start="20260403020000 +0800" stop="20260403043000 +0800" channel="mbc 2">
     <title lang="en">Jurassic World: Dominion</title>
   </programme>
@@ -6633,6 +6624,9 @@
   </programme>
   <programme start="20260405100000 +0800" stop="20260405120000 +0800" channel="mbc 2">
     <title lang="en">No Way Up</title>
+  </programme>
+  <programme start="20260405120000 +0800" stop="20260405140000 +0800" channel="mbc 2">
+    <title lang="en">The Adjustment Bureau</title>
   </programme>
   <programme start="20260402003000 +0400" stop="20260402023000 +0400" channel="Dubai One">
     <title lang="en">The Sixth Sense</title>
@@ -6905,10 +6899,10 @@
     <title lang="en">Marie and Her Three Daddies Ep.119</title>
   </programme>
   <programme start="20260403040500 +0900" stop="20260403044500 +0900" channel="KBSWorld">
-    <title lang="en">Pearl in Red Ep.21 [LIVE]</title>
+    <title lang="en">Pearl in Red Ep.21</title>
   </programme>
   <programme start="20260403044500 +0900" stop="20260403060000 +0900" channel="KBSWorld">
-    <title lang="en">Police University Ep.9</title>
+    <title lang="en">Police University Ep.9 [LIVE]</title>
   </programme>
   <programme start="20260403060000 +0900" stop="20260403073000 +0900" channel="KBSWorld">
     <title lang="en">Boss in the Mirror Ep.348</title>
@@ -554428,14 +554422,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <title lang="zh">The Best of Immortal Songs</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260402190000 +0000" stop="20260402193000 +0000" channel="中視">
-    <title lang="zh">台灣味道</title>
-    <desc lang="zh">以台灣這片土地上奮鬥的小人物為主角的系列紀錄片。這些升斗小民、尋常人家為追求他們的願望、嚮往、志向、使命或執著，堅持著一種作為。這個作為，就是他們之所以活得精彩的故事，也是《台灣味道》探尋、擷取的影像題材、故事的基礎。</desc>
-  </programme>
-  <programme start="20260402193000 +0000" stop="20260402200000 +0000" channel="中視">
-    <title lang="zh">台灣味道</title>
-    <desc lang="zh">以台灣這片土地上奮鬥的小人物為主角的系列紀錄片。這些升斗小民、尋常人家為追求他們的願望、嚮往、志向、使命或執著，堅持著一種作為。這個作為，就是他們之所以活得精彩的故事，也是《台灣味道》探尋、擷取的影像題材、故事的基礎。</desc>
-  </programme>
   <programme start="20260402200000 +0000" stop="20260402210000 +0000" channel="中視">
     <title lang="zh">MIT台灣誌</title>
     <desc lang="zh">《MIT台灣誌》以發現台灣、寫真台灣、紀錄台灣為主旨，走遍台灣的每寸土地，介紹台灣的人文環境、大自然地理等…</desc>
@@ -554844,10 +554830,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <title lang="zh">價值型投資</title>
     <desc lang="zh">當行情出現震盪、盤勢不明時，相信投資人一定會開始轉向價值型投資，節目中將推薦適合的標的，提供投資人參考。</desc>
   </programme>
-  <programme start="20260402190000 +0000" stop="20260402200000 +0000" channel="華視">
-    <title lang="zh">愛你沒條件</title>
-    <desc lang="zh">金鐘導演李岳峰自編自導，本次以《愛你沒條件》展現親情的可貴、家庭的溫暖與樂觀的生命態度。</desc>
-  </programme>
   <programme start="20260402200000 +0000" stop="20260402210000 +0000" channel="華視">
     <title lang="zh">愛你沒條件</title>
     <desc lang="zh">金鐘導演李岳峰自編自導，本次以《愛你沒條件》展現親情的可貴、家庭的溫暖與樂觀的生命態度。</desc>
@@ -555243,10 +555225,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
   <programme start="20260407060000 +0000" stop="20260407080000 +0000" channel="華視">
     <title lang="zh">警世劇場</title>
     <desc lang="zh">社會寫實單元劇，劇情效法《X檔案》，以現代辦案的角度來切入鬼神之說，用以警惕世人。篤信科學辦案精神的刑警尚智（謝祖武）有心理學博士學位，他與先天具有陰陽眼的搭檔王玉芳（趙英華），共同調查各種無法用科學解釋的案件，為死者伸冤…</desc>
-  </programme>
-  <programme start="20260402193000 +0000" stop="20260402200000 +0000" channel="好消息2台">
-    <title lang="zh">救恩之光</title>
-    <desc lang="zh">紐約救贖主長老教會的主任牧師「提姆凱勒」，迄今已於35個城市協助創辦170間教會，其敏銳的證道、犀利的護教學與事工，讓許多神的兒女得著幫助。</desc>
   </programme>
   <programme start="20260402200000 +0000" stop="20260402210000 +0000" channel="好消息2台">
     <title lang="zh">葉光明講座</title>
@@ -556047,10 +556025,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
   <programme start="20260407073000 +0000" stop="20260407080000 +0000" channel="好消息2台">
     <title lang="zh">福氣人生</title>
     <desc lang="zh">如何才能擁有福氣人生?看牧師們以台語分享聖經的真理，讓你領受天國滿滿的福氣與祝福。</desc>
-  </programme>
-  <programme start="20260402190000 +0000" stop="20260402200000 +0000" channel="好消息">
-    <title lang="zh">奔向標竿</title>
-    <desc lang="zh">美國最具影響力的屬靈領袖之一，華理克(Rick Warren)牧師與馬鞍峰教會牧者團隊，與您一起攜手直奔屬天標竿，得著屬天獎賞！</desc>
   </programme>
   <programme start="20260402200000 +0000" stop="20260402210000 +0000" channel="好消息">
     <title lang="zh">真情部落格</title>
@@ -556856,10 +556830,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <title lang="zh">道在人間(國)</title>
     <desc lang="zh">節目中邀請趙鏞基、葉光明、傑克海福德、喬依絲邁爾等，國內外知名牧長，以豐富的服事經歷與紮實的神學裝備，教導、傳講聖經真道，堅固信徒並警醒人心。</desc>
   </programme>
-  <programme start="20260402190000 +0000" stop="20260402200000 +0000" channel="ELTV生活英語台">
-    <title lang="zh">DT踹貢</title>
-    <desc lang="zh">由劍橋大學認証KET、PET、FCE檢定考特訓老師David Tan主講，內容包含與時事相關的英語單字、有趣的學習經驗分享，以及如何用英文討論熱門話題。</desc>
-  </programme>
   <programme start="20260402200000 +0000" stop="20260402210000 +0000" channel="ELTV生活英語台">
     <title lang="zh">快樂DoReMi</title>
     <desc lang="zh">學習英文的方法千百種，練唱英文歌曲是最輕鬆愉快的方式之一。本清單節目集結了動聽的英文兒歌MV，適合父母帶著孩子一起欣賞，在唱唱跳跳的過程中，增進親子情感，也配合動人旋律，學習英文。</desc>
@@ -557511,14 +557481,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
   <programme start="20260407073000 +0000" stop="20260407080000 +0000" channel="ELTV生活英語台">
     <title lang="zh">歡唱小精靈</title>
     <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260402193000 +0000" stop="20260402200000 +0000" channel="龍華卡通台">
-    <title lang="zh">淘氣鼠兄弟</title>
-    <desc lang="zh">小唐是一隻擬人化的粉紅色小狗，與莫圖、蘭布、喬圖三隻鼠兄弟合住一個房子。小唐時常被老鼠們惹惱，吵吵鬧鬧的生活讓相看兩厭的他們會產生什麼火花呢</desc>
-  </programme>
-  <programme start="20260402200000 +0000" stop="20260402203000 +0000" channel="龍華卡通台">
-    <title lang="zh">冒險心星球</title>
-    <desc lang="zh">在遙遠的夢幻星球「蒙斯蘭迪斯」，每個地區都代表著一種心情，有充滿愛心的「愛之海」，有會噴火發脾氣的「憤怒火山」，當小精靈心情不好，就會被送到島上進行大冒險！</desc>
   </programme>
   <programme start="20260402203000 +0000" stop="20260402210000 +0000" channel="龍華卡通台">
     <title lang="zh">冒險心星球</title>
@@ -558300,10 +558262,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <title lang="zh">淘氣鼠兄弟</title>
     <desc lang="zh">小唐是一隻擬人化的粉紅色小狗，與莫圖、蘭布、喬圖三隻鼠兄弟合住一個房子。小唐時常被老鼠們惹惱，吵吵鬧鬧的生活讓相看兩厭的他們會產生什麼火花呢</desc>
   </programme>
-  <programme start="20260402190000 +0000" stop="20260402200000 +0000" channel="亞洲旅遊台">
-    <title lang="zh">嗨 Let's Go</title>
-    <desc lang="zh">旅行該怎麼玩呢？有人喜歡吃美食、看風景、體驗人文與歷史；也有人只想瘋血拼、追潮流、享奢華；更有人愛自然、愛冒險，當起背包客最逍遙！其實，無論哪種旅遊方式和玩法，只要懂門道，都能玩出最精彩！</desc>
-  </programme>
   <programme start="20260402200000 +0000" stop="20260402210000 +0000" channel="亞洲旅遊台">
     <title lang="zh">效廉出發吧</title>
     <desc lang="zh">東森超視全新外景旅遊實境綜藝節目，由跨世代人夫許效舜、威廉攜手主持。兩位私交甚篤的知己好友，將在節目中分享彼此人生故事，帶觀眾深入瞭解每個城鎮獨有的歷史人文，探索每個地方的特色美食生活。一段見證男人友誼的旅行，就此展開！</desc>
@@ -558711,10 +558669,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
   <programme start="20260407070000 +0000" stop="20260407080000 +0000" channel="亞洲旅遊台">
     <title lang="zh">嗨 Let's Go</title>
     <desc lang="zh">旅行該怎麼玩呢？有人喜歡吃美食、看風景、體驗人文與歷史；也有人只想瘋血拼、追潮流、享奢華；更有人愛自然、愛冒險，當起背包客最逍遙！其實，無論哪種旅遊方式和玩法，只要懂門道，都能玩出最精彩！</desc>
-  </programme>
-  <programme start="20260402190000 +0000" stop="20260402200000 +0000" channel="Smart知識台">
-    <title lang="zh">全民星攻略</title>
-    <desc lang="zh">東森綜合台全新益智實境節目，「全民星攻略」，由館長曾國城擔任把關者，考驗著每個來挑戰九宮格益智遊戲藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理想分析，才有機會獲取智慧星幣，帶走夢幻大獎。</desc>
   </programme>
   <programme start="20260402200000 +0000" stop="20260402210000 +0000" channel="Smart知識台">
     <title lang="zh">健康2.0</title>
@@ -559131,10 +559085,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
   <programme start="20260407070000 +0000" stop="20260407080000 +0000" channel="Smart知識台">
     <title lang="zh">全民星攻略</title>
     <desc lang="zh">東森綜合台全新益智實境節目，「全民星攻略」，由館長曾國城擔任把關者，考驗著每個來挑戰九宮格益智遊戲藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理想分析，才有機會獲取智慧星幣，帶走夢幻大獎。</desc>
-  </programme>
-  <programme start="20260402190000 +0000" stop="20260402200000 +0000" channel="龍華戲劇台">
-    <title lang="zh">健康2.0</title>
-    <desc lang="zh">在節目中，將以各種深入淺出的方式，檢測時下流行的健康產品的效用，示範健康烹調與運動方法，並與觀眾分享照顧家人的健康資訊與心得。</desc>
   </programme>
   <programme start="20260402200000 +0000" stop="20260402210000 +0000" channel="龍華戲劇台">
     <title lang="zh">健康2.0</title>
@@ -559567,10 +559517,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
   <programme start="20260407070000 +0000" stop="20260407080000 +0000" channel="龍華戲劇台">
     <title lang="zh">琉璃</title>
     <desc lang="zh">改編自十四郎小說《琉璃美人煞》。講述天生六識殘缺的少陽派掌門之女褚璇璣（袁冰妍）和離澤宮少主禹司鳳（成毅），在面臨愛情與前世陰謀的雙重壓力下，攜手共對百般腥風血雨，解開兩人糾纏十世的虐戀情緣，締造傳奇色彩的仙俠愛情故事。</desc>
-  </programme>
-  <programme start="20260402190000 +0000" stop="20260402203000 +0000" channel="台灣戲劇台">
-    <title lang="zh">藍色水玲瓏</title>
-    <desc lang="zh">推出全新三大系列，分別為陰陽有情天、夜迷離及神秘記事簿，劇情有動人的人世間的親情，至死不渝的男女情愛，天理報應的因果事件等，這些充斥在社會上的愛恨情仇，令人匪夷所思的事件，帶來另一種不同的詮釋角度。</desc>
   </programme>
   <programme start="20260402203000 +0000" stop="20260402220000 +0000" channel="台灣戲劇台">
     <title lang="zh">藍色水玲瓏</title>
@@ -560031,10 +559977,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
   <programme start="20260407070000 +0000" stop="20260407080000 +0000" channel="台灣戲劇台">
     <title lang="zh">包青天</title>
     <desc lang="zh">仁宗皇帝在位期間，包拯（金超群）升任開封府府尹執掌京畿，剛直耿介、鐵面無私、明察秋毫、斷案如神，百姓愛戴敬仰尊稱為“包青天”。並有公孫策（范鴻軒）與南俠展昭（何家勁）一文一武兩員大將，使得包拯屢破奇案屢建奇功。</desc>
-  </programme>
-  <programme start="20260402192000 +0000" stop="20260402200000 +0000" channel="東森購物1台">
-    <title lang="zh">鎖定CH.43、CH.49、CH120選購</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260402200000 +0000" stop="20260402204000 +0000" channel="東森購物1台">
     <title lang="zh">4/1-4/30全月消費滿3件享東森幣兌換美味好禮2選1</title>
@@ -560684,10 +560626,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <title lang="zh">鎖定CH.43、CH.49、CH120選購</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260402190000 +0000" stop="20260402200000 +0000" channel="龍華偶像台">
-    <title lang="zh">君九齡</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
   <programme start="20260402200000 +0000" stop="20260402210000 +0000" channel="龍華偶像台">
     <title lang="zh">奔跑吧薔薇</title>
     <desc lang="zh">出身富裕的白薔薇（李英雅）待人十分親切，最後透過相親和皮膚科醫生結婚。沒想到父親的意外身亡，讓她陷入經濟困境，就連丈夫也背叛了她。萬念俱灰下，薔薇失去生活的重心，甚至徘徊在生死的邊緣。直到對料理的熱情讓她重拾希望，進而進入SL食品公司工作，開啟了她和黃太子（高周元）的不解之緣…</desc>
@@ -561140,10 +561078,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <title lang="zh">先熱情地打掃吧</title>
     <desc lang="zh">同名網路漫畫改編。清潔公司CEO張善傑（尹鈞相）財貌雙全、堪稱完美，卻因有非常嚴重的潔癖而無法和任何人接觸。但他卻喜歡上個性明朗可愛卻超級不拘小節的待業女青年吉五雪（金裕貞），兩人之間上演一段雙向奔赴的浪漫愛情故事…</desc>
   </programme>
-  <programme start="20260402190000 +0000" stop="20260402200000 +0000" channel="龍華日韓台">
-    <title lang="zh">暖陽之下</title>
-    <desc lang="zh">該劇講述了兩對夫妻宋思凝和李俊龍，陳誦英和關錚，由於婚育觀不同而產生各種分歧和矛盾，最終夫妻之間相互包容，共同創造出幸福美好的生活的故事。</desc>
-  </programme>
   <programme start="20260402200000 +0000" stop="20260402210000 +0000" channel="龍華日韓台">
     <title lang="zh">只屬於你</title>
     <desc lang="zh">恩靜（李敏英）嫁給律師姜勝宰（宋在熙），沒想到婆家卻拿她當傭人使喚，勝宰對此毫不在意，甚至根本沒去登記結婚。恩靜因此重回職場，努力成為知名設計師，當前男友俊夏再度出現在她面前，看到她遭遇不幸卻仍默默守護，俊夏能為恩靜帶來幸福嗎？</desc>
@@ -561575,10 +561509,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
   <programme start="20260407070000 +0000" stop="20260407080000 +0000" channel="龍華日韓台">
     <title lang="zh">人偶之家</title>
     <desc lang="zh">洪世妍（朴荷娜）在母親再婚後擁有了完整的家庭，但高中時繼父生意失敗而令她黯然離家獨自生活。後來她發現自己被所愛的人背叛和拋棄後，為了找回自己的生活，決定改名換姓回來向他們復仇，並且揭開所有人隱藏在背後之秘密的故事。</desc>
-  </programme>
-  <programme start="20260402192000 +0000" stop="20260402200000 +0000" channel="東森購物2台">
-    <title lang="zh">鎖定CH.43、CH.49、CH120選購</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260402200000 +0000" stop="20260402204000 +0000" channel="東森購物2台">
     <title lang="zh">4/1-4/30全月消費滿3件享東森幣兌換美味好禮2選1</title>
@@ -562227,10 +562157,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
   <programme start="20260407072000 +0000" stop="20260407080000 +0000" channel="東森購物2台">
     <title lang="zh">鎖定CH.43、CH.49、CH120選購</title>
     <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260402190000 +0000" stop="20260402200000 +0000" channel="華視新聞">
-    <title lang="zh">World News 9</title>
-    <desc lang="zh">華視新聞製作，帶給觀眾最公正客觀的新聞視野，由優質主播與新聞團隊聯手打造，每日提供最新最即時的各種國際新聞。</desc>
   </programme>
   <programme start="20260402200000 +0000" stop="20260402210000 +0000" channel="華視新聞">
     <title lang="zh">華視2400夜間新聞</title>
@@ -563140,10 +563066,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <title lang="zh">智富食代</title>
     <desc lang="zh">顛覆傳統旅遊節目，而是以全新新聞性、知識性旅遊資訊節目，呈現觀眾眼前。輕鬆有趣的內容中，將觀光經濟數字、各地房價、消費指數及各地風土民情融入結合。要學怎麼贏、先學怎麼玩！女漢子兩條路線PK旅行大挑戰。</desc>
   </programme>
-  <programme start="20260402190000 +0000" stop="20260402200000 +0000" channel="寰宇財經台">
-    <title lang="zh">古今風雲</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
   <programme start="20260402200000 +0000" stop="20260402210000 +0000" channel="寰宇財經台">
     <title lang="zh">巷弄美食家</title>
     <desc lang="zh">暂无描述</desc>
@@ -563574,14 +563496,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
   </programme>
   <programme start="20260407070000 +0000" stop="20260407080000 +0000" channel="寰宇財經台">
     <title lang="zh">美食打卡趣</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260402193000 +0000" stop="20260402200000 +0000" channel="daystar">
-    <title lang="zh">Kenneth Copeland</title>
-    <desc lang="zh">Religious programming</desc>
-  </programme>
-  <programme start="20260402200000 +0000" stop="20260402203000 +0000" channel="daystar">
-    <title lang="zh">Healing Time with Dr. Doug Weiss</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260402203000 +0000" stop="20260402210000 +0000" channel="daystar">
@@ -564376,10 +564290,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <title lang="zh">Rick Renner</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260402190000 +0000" stop="20260402200000 +0000" channel="中視新聞">
-    <title lang="zh">中視新聞全球報導</title>
-    <desc lang="zh">中視每晚七點由主播哈遠儀為全國觀眾最專業、準確的新聞報導。</desc>
-  </programme>
   <programme start="20260402200000 +0000" stop="20260402210000 +0000" channel="中視新聞">
     <title lang="zh">中視新聞即時現場</title>
     <desc lang="zh">由主播蕭惠文播報，以SNG車讓觀眾看到最即時的新聞報導，並以最客觀的角度，為觀眾完整報導上午發生之重要新聞。</desc>
@@ -564812,10 +564722,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <title lang="zh">中視新聞即時現場</title>
     <desc lang="zh">由主播蕭惠文播報，以SNG車讓觀眾看到最即時的新聞報導，並以最客觀的角度，為觀眾完整報導上午發生之重要新聞。</desc>
   </programme>
-  <programme start="20260402190000 +0000" stop="20260402200000 +0000" channel="中天新聞台">
-    <title lang="zh">頭條開講</title>
-    <desc lang="zh">中天新聞為服務廣大觀眾，提供多元論述平台，發揮媒體第四權的社會責任，於十月五日起，週一至週五晚間八點同一時段，接檔推出《頭條開講》談話節目，由主播周玉琴及政治中心主任林嘉源共同主持，敬請支持中天的觀眾朋友準時鎖定！</desc>
-  </programme>
   <programme start="20260402200000 +0000" stop="20260402210000 +0000" channel="中天新聞台">
     <title lang="zh">中天SUPER夜線</title>
     <desc lang="zh">由中天新聞專業主播帶來最新的晚間新聞特報。</desc>
@@ -565219,10 +565125,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
   <programme start="20260407060000 +0000" stop="20260407080000 +0000" channel="中天新聞台">
     <title lang="zh">大新聞大爆卦</title>
     <desc lang="zh">每周一到周五《大新聞大爆卦》中天主播馬千惠陪你一起來解卦！！！</desc>
-  </programme>
-  <programme start="20260402185500 +0000" stop="20260402195500 +0000" channel="寰宇新聞台灣台">
-    <title lang="zh">寰宇焦點新聞</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260402195500 +0000" stop="20260402205500 +0000" channel="寰宇新聞台灣台">
     <title lang="zh">寰宇晚間新聞</title>
@@ -565656,10 +565558,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     <title lang="zh">寰宇整點新聞</title>
     <desc lang="zh">來自路透的國際新聞、最在地的台灣新聞以及最深入的兩岸焦點，帶您掌握社會脈動。</desc>
   </programme>
-  <programme start="20260402185500 +0000" stop="20260402195500 +0000" channel="寰宇新聞台">
-    <title lang="zh">寰宇世界通</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
   <programme start="20260402195500 +0000" stop="20260402205500 +0000" channel="寰宇新聞台">
     <title lang="zh">寰宇世界通</title>
     <desc lang="zh">暂无描述</desc>
@@ -566091,14 +565989,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
   <programme start="20260407065500 +0000" stop="20260407075500 +0000" channel="寰宇新聞台">
     <title lang="zh">寰宇整點新聞</title>
     <desc lang="zh">來自路透的國際新聞、最在地的台灣新聞以及最深入的兩岸焦點，帶您掌握社會脈動。</desc>
-  </programme>
-  <programme start="20260402193000 +0000" stop="20260402200000 +0000" channel="第1商業台">
-    <title lang="zh">股市強強滾-亞洲投顧-鄭偉群分析師</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260402200000 +0000" stop="20260402203000 +0000" channel="第1商業台">
-    <title lang="zh">旗開得勝-顧德投顧-張家豪分析師</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260402203000 +0000" stop="20260402210000 +0000" channel="第1商業台">
     <title lang="zh">期股衝衝衝-寶得富-翁士峻分析師</title>
@@ -567467,10 +567357,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
   <programme start="20260407054000 +0000" stop="20260407075000 +0000" channel="龍華電影台">
     <title lang="zh">龍爭虎鬥</title>
     <desc lang="zh">金蘇漢為自己的跆拳事業，離開妻子，妻子在他回來時去世，年幼的女兒一直認為爸爸是令自己失去母親的原因。為了贏取女兒的信任，蘇漢必需在洛杉磯舉行的世界跆拳道比賽贏得勝利，而這場決賽將挑戰美國參賽者傑克米勒（史蒂芬席格客串）。距離比賽還有七天，雖然面對的是一名勁敵，仍需奮力作戰…</desc>
-  </programme>
-  <programme start="20260402182500 +0000" stop="20260402195500 +0000" channel="龍華洋片台">
-    <title lang="zh">鳳凰追殺令</title>
-    <desc lang="zh">「鳳凰」菲歐娜格蘭特是一名美國陸軍中士，正在阿富汗教導肉搏格鬥的她，突然接獲父親在佛羅里達州身亡的消息，警方判定是自殺，但菲歐娜並不採信。她趕回美國調查後發現主嫌是當地一名冷血絕情的毒梟，他擁有一支僱傭兵，在法、政、商界均有人脈，他也因此能逍遙法外，菲歐娜決定要親手殺掉這名毒梟…</desc>
   </programme>
   <programme start="20260402195500 +0000" stop="20260402215000 +0000" channel="龍華洋片台">
     <title lang="zh">戀屍謎案</title>
@@ -678745,10 +678631,6 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
   </programme>
   <programme start="20260404201500 +0800" stop="20260404223000 +0800" channel="Astro_Sports_UHD_805">
     <title lang="zh">PL: Brighton vs Liverpool</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260403030000 +0800" stop="20260403035500 +0800" channel="Astro_Grandstand">
-    <title lang="zh">2024 Giants Live - Episode 3</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260403035500 +0800" stop="20260403060000 +0800" channel="Astro_Grandstand">
