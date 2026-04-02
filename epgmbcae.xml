@@ -9,12 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260402130000 +0800" stop="20260402140000 +0800" channel="mbc action">
-    <title lang="en">برنامج action bodcast</title>
-  </programme>
-  <programme start="20260402140000 +0800" stop="20260402153000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-  </programme>
   <programme start="20260402153000 +0800" stop="20260402163000 +0800" channel="mbc action">
     <title lang="en">برنامج Accelerate</title>
   </programme>
@@ -56,9 +50,6 @@
   </programme>
   <programme start="20260403053000 +0800" stop="20260403063000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
-  </programme>
-  <programme start="20260402123000 +0800" stop="20260402143000 +0800" channel="mbc max">
-    <title lang="en">Fool's Gold</title>
   </programme>
   <programme start="20260402143000 +0800" stop="20260402163000 +0800" channel="mbc max">
     <title lang="en">Ace Ventura: When Nature Calls</title>
@@ -147,8 +138,8 @@
   <programme start="20260404230000 +0800" stop="20260405010000 +0800" channel="mbc max">
     <title lang="en">Jiu Jitsu</title>
   </programme>
-  <programme start="20260402133000 +0800" stop="20260402153000 +0800" channel="mbc 2">
-    <title lang="en">Cinderella</title>
+  <programme start="20260405010000 +0800" stop="20260405030000 +0800" channel="mbc max">
+    <title lang="en">Alpha</title>
   </programme>
   <programme start="20260402153000 +0800" stop="20260402173000 +0800" channel="mbc 2">
     <title lang="en">Vivo</title>
@@ -233,5 +224,8 @@
   </programme>
   <programme start="20260404220000 +0800" stop="20260405000000 +0800" channel="mbc 2">
     <title lang="en">Click</title>
+  </programme>
+  <programme start="20260405000000 +0800" stop="20260405020000 +0800" channel="mbc 2">
+    <title lang="en">Grown Ups</title>
   </programme>
 </tv>
