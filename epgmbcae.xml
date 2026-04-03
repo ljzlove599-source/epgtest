@@ -9,12 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260403050000 +0800" stop="20260403070000 +0800" channel="mbc max">
-    <title lang="en">Life of Pi</title>
-  </programme>
-  <programme start="20260403070000 +0800" stop="20260403090000 +0800" channel="mbc max">
-    <title lang="en">Contraband</title>
-  </programme>
   <programme start="20260403090000 +0800" stop="20260403110000 +0800" channel="mbc max">
     <title lang="en">Kill the Messenger</title>
   </programme>
@@ -96,8 +90,11 @@
   <programme start="20260405143000 +0800" stop="20260405170000 +0800" channel="mbc max">
     <title lang="en">The Legend of Tarzan</title>
   </programme>
-  <programme start="20260403063000 +0800" stop="20260403080000 +0800" channel="mbc 2">
-    <title lang="en">No Way Up</title>
+  <programme start="20260405170000 +0800" stop="20260405190000 +0800" channel="mbc max">
+    <title lang="en">Alpha</title>
+  </programme>
+  <programme start="20260405190000 +0800" stop="20260405210000 +0800" channel="mbc max">
+    <title lang="en">10,000 B.C.</title>
   </programme>
   <programme start="20260403080000 +0800" stop="20260403100000 +0800" channel="mbc 2">
     <title lang="en">Vivo</title>
@@ -185,5 +182,8 @@
   </programme>
   <programme start="20260405153000 +0800" stop="20260405173000 +0800" channel="mbc 2">
     <title lang="en">Night School</title>
+  </programme>
+  <programme start="20260405173000 +0800" stop="20260405193000 +0800" channel="mbc 2">
+    <title lang="en">Grown Ups</title>
   </programme>
 </tv>
