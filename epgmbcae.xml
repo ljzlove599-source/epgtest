@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260403053000 +0800" stop="20260403063000 +0800" channel="mbc action">
-    <title lang="en">برنامج ارض المليون</title>
-  </programme>
   <programme start="20260403050000 +0800" stop="20260403070000 +0800" channel="mbc max">
     <title lang="en">Life of Pi</title>
   </programme>
@@ -99,9 +96,6 @@
   <programme start="20260405143000 +0800" stop="20260405170000 +0800" channel="mbc max">
     <title lang="en">The Legend of Tarzan</title>
   </programme>
-  <programme start="20260403043000 +0800" stop="20260403063000 +0800" channel="mbc 2">
-    <title lang="en">Endangered Species</title>
-  </programme>
   <programme start="20260403063000 +0800" stop="20260403080000 +0800" channel="mbc 2">
     <title lang="en">No Way Up</title>
   </programme>
@@ -188,5 +182,8 @@
   </programme>
   <programme start="20260405140000 +0800" stop="20260405153000 +0800" channel="mbc 2">
     <title lang="en">Abduction</title>
+  </programme>
+  <programme start="20260405153000 +0800" stop="20260405173000 +0800" channel="mbc 2">
+    <title lang="en">Night School</title>
   </programme>
 </tv>
