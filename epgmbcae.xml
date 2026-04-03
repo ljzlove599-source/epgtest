@@ -9,12 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260403090000 +0800" stop="20260403110000 +0800" channel="mbc max">
-    <title lang="en">Kill the Messenger</title>
-  </programme>
-  <programme start="20260403110000 +0800" stop="20260403123000 +0800" channel="mbc max">
-    <title lang="en">Sleepless</title>
-  </programme>
   <programme start="20260403123000 +0800" stop="20260403141000 +0800" channel="mbc max">
     <title lang="en">88 Minutes</title>
   </programme>
@@ -96,11 +90,8 @@
   <programme start="20260405190000 +0800" stop="20260405210000 +0800" channel="mbc max">
     <title lang="en">10,000 B.C.</title>
   </programme>
-  <programme start="20260403080000 +0800" stop="20260403100000 +0800" channel="mbc 2">
-    <title lang="en">Vivo</title>
-  </programme>
-  <programme start="20260403100000 +0800" stop="20260403120000 +0800" channel="mbc 2">
-    <title lang="en">Sparkle</title>
+  <programme start="20260405210000 +0800" stop="20260405230000 +0800" channel="mbc max">
+    <title lang="en">Yes Man</title>
   </programme>
   <programme start="20260403120000 +0800" stop="20260403140000 +0800" channel="mbc 2">
     <title lang="en">Mamma Mia!</title>
@@ -185,5 +176,11 @@
   </programme>
   <programme start="20260405173000 +0800" stop="20260405193000 +0800" channel="mbc 2">
     <title lang="en">Grown Ups</title>
+  </programme>
+  <programme start="20260405193000 +0800" stop="20260405213000 +0800" channel="mbc 2">
+    <title lang="en">Laggies</title>
+  </programme>
+  <programme start="20260405213000 +0800" stop="20260406000000 +0800" channel="mbc 2">
+    <title lang="en">State of Play</title>
   </programme>
 </tv>
