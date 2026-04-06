@@ -9,15 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260406053000 +0800" stop="20260406073000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-  </programme>
-  <programme start="20260406073000 +0800" stop="20260406083000 +0800" channel="mbc action">
-    <title lang="en">The Promised Neverland</title>
-  </programme>
-  <programme start="20260406083000 +0800" stop="20260406093000 +0800" channel="mbc action">
-    <title lang="en">Ridiculousness</title>
-  </programme>
   <programme start="20260406093000 +0800" stop="20260406103000 +0800" channel="mbc action">
     <title lang="en">The Promised Neverland</title>
   </programme>
@@ -180,8 +171,14 @@
   <programme start="20260408153000 +0800" stop="20260408163000 +0800" channel="mbc action">
     <title lang="en">برنامج Celebrity Car Wars</title>
   </programme>
-  <programme start="20260406063000 +0800" stop="20260406081000 +0800" channel="mbc max">
-    <title lang="en">Alpha</title>
+  <programme start="20260408163000 +0800" stop="20260408173000 +0800" channel="mbc action">
+    <title lang="en">The Promised Neverland</title>
+  </programme>
+  <programme start="20260408173000 +0800" stop="20260408190000 +0800" channel="mbc action">
+    <title lang="en">Action Ma' Waleed</title>
+  </programme>
+  <programme start="20260408190000 +0800" stop="20260408200000 +0800" channel="mbc action">
+    <title lang="en">برنامج وثائقيات موتورشو</title>
   </programme>
   <programme start="20260406081000 +0800" stop="20260406100500 +0800" channel="mbc max">
     <title lang="en">Jiu Jitsu</title>
@@ -306,14 +303,11 @@
   <programme start="20260408162500 +0800" stop="20260408180000 +0800" channel="mbc max">
     <title lang="en">Burn After Reading</title>
   </programme>
-  <programme start="20260406060000 +0800" stop="20260406073500 +0800" channel="mbc 2">
-    <title lang="en">Spiral</title>
+  <programme start="20260408180000 +0800" stop="20260408183000 +0800" channel="mbc max">
+    <title lang="en">Hollywood Buzz</title>
   </programme>
-  <programme start="20260406073500 +0800" stop="20260406080000 +0800" channel="mbc 2">
-    <title lang="en">برنامج world of movies 3</title>
-  </programme>
-  <programme start="20260406080000 +0800" stop="20260406093000 +0800" channel="mbc 2">
-    <title lang="en">Grown Ups</title>
+  <programme start="20260408183000 +0800" stop="20260408200000 +0800" channel="mbc max">
+    <title lang="en">Get Him to the Greek</title>
   </programme>
   <programme start="20260406093000 +0800" stop="20260406100000 +0800" channel="mbc 2">
     <title lang="en">Films &amp; Stars</title>
@@ -446,5 +440,14 @@
   </programme>
   <programme start="20260408162500 +0800" stop="20260408165000 +0800" channel="mbc 2">
     <title lang="en">Films &amp; Stars</title>
+  </programme>
+  <programme start="20260408165000 +0800" stop="20260408190000 +0800" channel="mbc 2">
+    <title lang="en">Battleship</title>
+  </programme>
+  <programme start="20260408190000 +0800" stop="20260408192500 +0800" channel="mbc 2">
+    <title lang="en">برنامج Celebrity Scoop Season 9</title>
+  </programme>
+  <programme start="20260408192500 +0800" stop="20260408213500 +0800" channel="mbc 2">
+    <title lang="en">The Amazing Spider-Man</title>
   </programme>
 </tv>
