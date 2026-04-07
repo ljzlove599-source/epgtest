@@ -9,12 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260407153000 +0800" stop="20260407163000 +0800" channel="mbc action">
-    <title lang="en">برنامج the inside line</title>
-  </programme>
-  <programme start="20260407163000 +0800" stop="20260407173000 +0800" channel="mbc action">
-    <title lang="en">The Promised Neverland</title>
-  </programme>
   <programme start="20260407173000 +0800" stop="20260407190000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
@@ -183,11 +177,11 @@
   <programme start="20260410010000 +0800" stop="20260410020000 +0800" channel="mbc action">
     <title lang="en">The Promised Neverland</title>
   </programme>
-  <programme start="20260407140000 +0800" stop="20260407160000 +0800" channel="mbc max">
-    <title lang="en">12 Strong</title>
+  <programme start="20260410020000 +0800" stop="20260410023000 +0800" channel="mbc action">
+    <title lang="en">برنامج action bodcast</title>
   </programme>
-  <programme start="20260407160000 +0800" stop="20260407163000 +0800" channel="mbc max">
-    <title lang="en">Hollywood Buzz</title>
+  <programme start="20260410023000 +0800" stop="20260410040000 +0800" channel="mbc action">
+    <title lang="en">بودكاست ملح الدوري</title>
   </programme>
   <programme start="20260407163000 +0800" stop="20260407182500 +0800" channel="mbc max">
     <title lang="en">Sucker Punch</title>
@@ -309,8 +303,8 @@
   <programme start="20260410003000 +0800" stop="20260410030000 +0800" channel="mbc max">
     <title lang="en">Miss Sloane</title>
   </programme>
-  <programme start="20260407154000 +0800" stop="20260407170500 +0800" channel="mbc 2">
-    <title lang="en">Moonrise Kingdom</title>
+  <programme start="20260410030000 +0800" stop="20260410050000 +0800" channel="mbc max">
+    <title lang="en">Our Brand Is Crisis</title>
   </programme>
   <programme start="20260407170500 +0800" stop="20260407183500 +0800" channel="mbc 2">
     <title lang="en">Alvin and the Chipmunks</title>
@@ -434,5 +428,8 @@
   </programme>
   <programme start="20260410000000 +0800" stop="20260410020000 +0800" channel="mbc 2">
     <title lang="en">S.W.A.T.</title>
+  </programme>
+  <programme start="20260410020000 +0800" stop="20260410040000 +0800" channel="mbc 2">
+    <title lang="en">John Wick</title>
   </programme>
 </tv>
