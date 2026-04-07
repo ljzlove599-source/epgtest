@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260408020000 +0800" stop="20260408030000 +0800" channel="mbc action">
-    <title lang="en">برنامج action bodcast</title>
-  </programme>
   <programme start="20260408030000 +0800" stop="20260408040000 +0800" channel="mbc action">
     <title lang="en">بودكاست ملح الدوري</title>
   </programme>
@@ -162,9 +159,6 @@
   <programme start="20260410053000 +0800" stop="20260410063000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
   </programme>
-  <programme start="20260408023000 +0800" stop="20260408030000 +0800" channel="mbc max">
-    <title lang="en">برنامج World Of Movies</title>
-  </programme>
   <programme start="20260408030000 +0800" stop="20260408045500 +0800" channel="mbc max">
     <title lang="en">The Art of Self-Defense</title>
   </programme>
@@ -275,6 +269,9 @@
   </programme>
   <programme start="20260410103000 +0800" stop="20260410123000 +0800" channel="mbc max">
     <title lang="en">Pacific Rim</title>
+  </programme>
+  <programme start="20260410123000 +0800" stop="20260410143000 +0800" channel="mbc max">
+    <title lang="en">Jurassic Park</title>
   </programme>
   <programme start="20260408013500 +0800" stop="20260408040000 +0800" channel="mbc 2">
     <title lang="en">Aquaman</title>
@@ -389,5 +386,8 @@
   </programme>
   <programme start="20260410103000 +0800" stop="20260410130000 +0800" channel="mbc 2">
     <title lang="en">A Journal for Jordan</title>
+  </programme>
+  <programme start="20260410130000 +0800" stop="20260410143200 +0800" channel="mbc 2">
+    <title lang="en">The Smurfs</title>
   </programme>
 </tv>
