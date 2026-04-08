@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260409040000 +0800" stop="20260409053000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-  </programme>
   <programme start="20260409053000 +0800" stop="20260409063000 +0800" channel="mbc action">
     <title lang="en">ابرز لقطات الدوري</title>
   </programme>
@@ -83,9 +80,6 @@
   </programme>
   <programme start="20260410053000 +0800" stop="20260410063000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
-  </programme>
-  <programme start="20260409030000 +0800" stop="20260409052500 +0800" channel="mbc max">
-    <title lang="en">First Man</title>
   </programme>
   <programme start="20260409052500 +0800" stop="20260409072400 +0800" channel="mbc max">
     <title lang="en">Pacific Rim</title>
@@ -266,5 +260,8 @@
   </programme>
   <programme start="20260411130000 +0800" stop="20260411143000 +0800" channel="mbc 2">
     <title lang="en">Smurfs: The Lost Village</title>
+  </programme>
+  <programme start="20260411143000 +0800" stop="20260411163000 +0800" channel="mbc 2">
+    <title lang="en">Legacy of Lies</title>
   </programme>
 </tv>
