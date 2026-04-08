@@ -9,15 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260408063000 +0800" stop="20260408073000 +0800" channel="mbc action">
-    <title lang="en">برنامج american ninja warrior</title>
-  </programme>
-  <programme start="20260408073000 +0800" stop="20260408080000 +0800" channel="mbc action">
-    <title lang="en">The Promised Neverland</title>
-  </programme>
-  <programme start="20260408080000 +0800" stop="20260408090000 +0800" channel="mbc action">
-    <title lang="en">برنامج action bodcast</title>
-  </programme>
   <programme start="20260408090000 +0800" stop="20260408100000 +0800" channel="mbc action">
     <title lang="en">بودكاست ملح الدوري</title>
   </programme>
@@ -82,7 +73,7 @@
     <title lang="en">ابرز لقطات الدوري</title>
   </programme>
   <programme start="20260409063000 +0800" stop="20260409073000 +0800" channel="mbc action">
-    <title lang="en">الخميس</title>
+    <title lang="en">برنامج  Adrenaline</title>
   </programme>
   <programme start="20260409073000 +0800" stop="20260409080000 +0800" channel="mbc action">
     <title lang="en">The Promised Neverland</title>
@@ -149,15 +140,6 @@
   </programme>
   <programme start="20260410053000 +0800" stop="20260410063000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
-  </programme>
-  <programme start="20260408063000 +0800" stop="20260408070000 +0800" channel="mbc max">
-    <title lang="en">برنامج Celebrity Scoop Season 9</title>
-  </programme>
-  <programme start="20260408070000 +0800" stop="20260408090000 +0800" channel="mbc max">
-    <title lang="en">12 Strong</title>
-  </programme>
-  <programme start="20260408090000 +0800" stop="20260408093000 +0800" channel="mbc max">
-    <title lang="en">Action Zone</title>
   </programme>
   <programme start="20260408093000 +0800" stop="20260408113000 +0800" channel="mbc max">
     <title lang="en">The Suicide Squad</title>
@@ -261,11 +243,11 @@
   <programme start="20260410143000 +0800" stop="20260410163000 +0800" channel="mbc max">
     <title lang="en">Firewall</title>
   </programme>
-  <programme start="20260408064000 +0800" stop="20260408081000 +0800" channel="mbc 2">
-    <title lang="en">Underworld: Rise of the Lycans</title>
+  <programme start="20260410163000 +0800" stop="20260410190000 +0800" channel="mbc max">
+    <title lang="en">Miss Sloane</title>
   </programme>
-  <programme start="20260408081000 +0800" stop="20260408083500 +0800" channel="mbc 2">
-    <title lang="en">Hollywood Buzz</title>
+  <programme start="20260410190000 +0800" stop="20260410210000 +0800" channel="mbc max">
+    <title lang="en">The Informant</title>
   </programme>
   <programme start="20260408083500 +0800" stop="20260408100500 +0800" channel="mbc 2">
     <title lang="en">Moonrise Kingdom</title>
@@ -371,5 +353,8 @@
   </programme>
   <programme start="20260410143200 +0800" stop="20260410170000 +0800" channel="mbc 2">
     <title lang="en">The Matrix</title>
+  </programme>
+  <programme start="20260410170000 +0800" stop="20260410193000 +0800" channel="mbc 2">
+    <title lang="en">S.W.A.T.</title>
   </programme>
 </tv>
