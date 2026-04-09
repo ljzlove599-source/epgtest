@@ -9,12 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260409130000 +0800" stop="20260409140000 +0800" channel="mbc action">
-    <title lang="en">برنامج action bodcast</title>
-  </programme>
-  <programme start="20260409140000 +0800" stop="20260409153000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-  </programme>
   <programme start="20260409153000 +0800" stop="20260409163000 +0800" channel="mbc action">
     <title lang="en">برنامج Accelerate</title>
   </programme>
@@ -56,9 +50,6 @@
   </programme>
   <programme start="20260410053000 +0800" stop="20260410063000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
-  </programme>
-  <programme start="20260409122500 +0800" stop="20260409140000 +0800" channel="mbc max">
-    <title lang="en">Cellular</title>
   </programme>
   <programme start="20260409140000 +0800" stop="20260409163000 +0800" channel="mbc max">
     <title lang="en">First Man</title>
@@ -144,8 +135,8 @@
   <programme start="20260411230000 +0800" stop="20260412010000 +0800" channel="mbc max">
     <title lang="en">Going the Distance</title>
   </programme>
-  <programme start="20260409125500 +0800" stop="20260409143000 +0800" channel="mbc 2">
-    <title lang="en">xXx: State of the Union</title>
+  <programme start="20260412010000 +0800" stop="20260412030000 +0800" channel="mbc max">
+    <title lang="en">The Intern</title>
   </programme>
   <programme start="20260409143000 +0800" stop="20260409170000 +0800" channel="mbc 2">
     <title lang="en">A Journal for Jordan</title>
@@ -224,5 +215,8 @@
   </programme>
   <programme start="20260411213000 +0800" stop="20260412000000 +0800" channel="mbc 2">
     <title lang="en">Bad Boys II</title>
+  </programme>
+  <programme start="20260412000000 +0800" stop="20260412020000 +0800" channel="mbc 2">
+    <title lang="en">Going in Style</title>
   </programme>
 </tv>
