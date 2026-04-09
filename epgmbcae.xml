@@ -9,15 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260410000000 +0800" stop="20260410010000 +0800" channel="mbc action">
-    <title lang="en">برنامج american ninja warrior</title>
-  </programme>
-  <programme start="20260410010000 +0800" stop="20260410020000 +0800" channel="mbc action">
-    <title lang="en">The Promised Neverland</title>
-  </programme>
-  <programme start="20260410020000 +0800" stop="20260410023000 +0800" channel="mbc action">
-    <title lang="en">برنامج action bodcast</title>
-  </programme>
   <programme start="20260410023000 +0800" stop="20260410040000 +0800" channel="mbc action">
     <title lang="en">بودكاست ملح الدوري</title>
   </programme>
@@ -111,9 +102,6 @@
   <programme start="20260412100000 +0800" stop="20260412123000 +0800" channel="mbc max">
     <title lang="en">Bad Samaritan</title>
   </programme>
-  <programme start="20260410000000 +0800" stop="20260410020000 +0800" channel="mbc 2">
-    <title lang="en">S.W.A.T.</title>
-  </programme>
   <programme start="20260410020000 +0800" stop="20260410040000 +0800" channel="mbc 2">
     <title lang="en">John Wick</title>
   </programme>
@@ -191,5 +179,8 @@
   </programme>
   <programme start="20260412080000 +0800" stop="20260412103000 +0800" channel="mbc 2">
     <title lang="en">John Wick: Chapter 2</title>
+  </programme>
+  <programme start="20260412103000 +0800" stop="20260412123000 +0800" channel="mbc 2">
+    <title lang="en">Memory</title>
   </programme>
 </tv>
