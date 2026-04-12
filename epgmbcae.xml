@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260413023000 +0800" stop="20260413040000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-  </programme>
   <programme start="20260413040000 +0800" stop="20260413050000 +0800" channel="mbc action">
     <title lang="en">برنامج action bodcast </title>
   </programme>
@@ -183,8 +180,8 @@
   <programme start="20260415130000 +0800" stop="20260415140000 +0800" channel="mbc action">
     <title lang="en">برنامج action bodcast</title>
   </programme>
-  <programme start="20260413030000 +0800" stop="20260413043000 +0800" channel="mbc max">
-    <title lang="en">Paul Blart: Mall Cop</title>
+  <programme start="20260415140000 +0800" stop="20260415153000 +0800" channel="mbc action">
+    <title lang="en">Action Ma' Waleed</title>
   </programme>
   <programme start="20260413043000 +0800" stop="20260413060000 +0800" channel="mbc max">
     <title lang="en">Paul Blart: Mall Cop 2</title>
@@ -306,8 +303,8 @@
   <programme start="20260415120000 +0800" stop="20260415140000 +0800" channel="mbc max">
     <title lang="en">Mortal Engines</title>
   </programme>
-  <programme start="20260413020000 +0800" stop="20260413040000 +0800" channel="mbc 2">
-    <title lang="en">Welcome to Marwen</title>
+  <programme start="20260415140000 +0800" stop="20260415163000 +0800" channel="mbc max">
+    <title lang="en">King Richard</title>
   </programme>
   <programme start="20260413040000 +0800" stop="20260413054500 +0800" channel="mbc 2">
     <title lang="en">A Mouthful of Air</title>
@@ -440,5 +437,8 @@
   </programme>
   <programme start="20260415121000 +0800" stop="20260415141000 +0800" channel="mbc 2">
     <title lang="en">The Brave One</title>
+  </programme>
+  <programme start="20260415141000 +0800" stop="20260415154500 +0800" channel="mbc 2">
+    <title lang="en">Blackbird</title>
   </programme>
 </tv>
