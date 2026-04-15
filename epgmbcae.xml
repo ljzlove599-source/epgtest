@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260416030000 +0800" stop="20260416040000 +0800" channel="mbc action">
-    <title lang="en">بودكاست ملح الدوري</title>
-  </programme>
   <programme start="20260416040000 +0800" stop="20260416053000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
@@ -174,8 +171,8 @@
   <programme start="20260418120000 +0800" stop="20260418140000 +0800" channel="mbc max">
     <title lang="en">Jane Eyre</title>
   </programme>
-  <programme start="20260416020000 +0800" stop="20260416040500 +0800" channel="mbc 2">
-    <title lang="en">Warcraft</title>
+  <programme start="20260418140000 +0800" stop="20260418163000 +0800" channel="mbc max">
+    <title lang="en">12 Mighty Orphans</title>
   </programme>
   <programme start="20260416040500 +0800" stop="20260416060000 +0800" channel="mbc 2">
     <title lang="en">The Huntsman: Winter's War</title>
@@ -266,5 +263,8 @@
   </programme>
   <programme start="20260418120000 +0800" stop="20260418140000 +0800" channel="mbc 2">
     <title lang="en">Blade</title>
+  </programme>
+  <programme start="20260418140000 +0800" stop="20260418160000 +0800" channel="mbc 2">
+    <title lang="en">Duplicity</title>
   </programme>
 </tv>
