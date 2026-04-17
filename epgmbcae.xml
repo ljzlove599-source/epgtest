@@ -9,12 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260417140000 +0800" stop="20260417153000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-  </programme>
-  <programme start="20260417153000 +0800" stop="20260417163000 +0800" channel="mbc action">
-    <title lang="en">برنامجcar issuse</title>
-  </programme>
   <programme start="20260417163000 +0800" stop="20260417173500 +0800" channel="mbc action">
     <title lang="en">The Promised Neverland</title>
   </programme>
@@ -180,8 +174,11 @@
   <programme start="20260420000000 +0800" stop="20260420010000 +0800" channel="mbc action">
     <title lang="en">برنامج Celebrity Car Wars</title>
   </programme>
-  <programme start="20260417140000 +0800" stop="20260417160000 +0800" channel="mbc max">
-    <title lang="en">Downton Abbey</title>
+  <programme start="20260420010000 +0800" stop="20260420020000 +0800" channel="mbc action">
+    <title lang="en">برنامج action bodcast </title>
+  </programme>
+  <programme start="20260420020000 +0800" stop="20260420023000 +0800" channel="mbc action">
+    <title lang="en">The Promised Neverland</title>
   </programme>
   <programme start="20260417160000 +0800" stop="20260417180000 +0800" channel="mbc max">
     <title lang="en">Winter's Tale</title>
@@ -261,8 +258,8 @@
   <programme start="20260419230000 +0800" stop="20260420010000 +0800" channel="mbc max">
     <title lang="en">RED 2</title>
   </programme>
-  <programme start="20260417140000 +0800" stop="20260417160000 +0800" channel="mbc 2">
-    <title lang="en">Dumplin'</title>
+  <programme start="20260420010000 +0800" stop="20260420030000 +0800" channel="mbc max">
+    <title lang="en">The Nice Guys</title>
   </programme>
   <programme start="20260417160000 +0800" stop="20260417180000 +0800" channel="mbc 2">
     <title lang="en">The Good Lie</title>
@@ -347,5 +344,8 @@
   </programme>
   <programme start="20260419233000 +0800" stop="20260420020000 +0800" channel="mbc 2">
     <title lang="en">Black Hawk Down</title>
+  </programme>
+  <programme start="20260420020000 +0800" stop="20260420040000 +0800" channel="mbc 2">
+    <title lang="en">1917</title>
   </programme>
 </tv>
