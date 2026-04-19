@@ -9,15 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260419173000 +0800" stop="20260419190000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-  </programme>
-  <programme start="20260419190000 +0800" stop="20260419193000 +0800" channel="mbc action">
-    <title lang="en">برنامج bricks&amp;brain</title>
-  </programme>
-  <programme start="20260419193000 +0800" stop="20260419200000 +0800" channel="mbc action">
-    <title lang="en">برنامج Sports Quest</title>
-  </programme>
   <programme start="20260419200000 +0800" stop="20260419210000 +0800" channel="mbc action">
     <title lang="en">The Promised Neverland</title>
   </programme>
@@ -189,6 +180,9 @@
   <programme start="20260422040000 +0800" stop="20260422053000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
+  <programme start="20260422053000 +0800" stop="20260422063000 +0800" channel="mbc action">
+    <title lang="en">برنامج Accelerate</title>
+  </programme>
   <programme start="20260419183000 +0800" stop="20260419210000 +0800" channel="mbc max">
     <title lang="en">Green Book</title>
   </programme>
@@ -302,6 +296,12 @@
   </programme>
   <programme start="20260422030000 +0800" stop="20260422043000 +0800" channel="mbc max">
     <title lang="en">Together Together</title>
+  </programme>
+  <programme start="20260422043000 +0800" stop="20260422050000 +0800" channel="mbc max">
+    <title lang="en">برنامج Celebrity Scoop Season 9</title>
+  </programme>
+  <programme start="20260422050000 +0800" stop="20260422063200 +0800" channel="mbc max">
+    <title lang="en">The Edge of Seventeen</title>
   </programme>
   <programme start="20260419183000 +0800" stop="20260419210000 +0800" channel="mbc 2">
     <title lang="en">Hot Fuzz</title>
@@ -419,5 +419,8 @@
   </programme>
   <programme start="20260422040000 +0800" stop="20260422060000 +0800" channel="mbc 2">
     <title lang="en">Crazy Stupid Love</title>
+  </programme>
+  <programme start="20260422060000 +0800" stop="20260422074500 +0800" channel="mbc 2">
+    <title lang="en">Playing for Keeps</title>
   </programme>
 </tv>
