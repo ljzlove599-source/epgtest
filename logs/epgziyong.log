@@ -10,12 +10,6 @@
 处理文件: ./epganywhere.xml
 处理文件: ./epglifetv.xml
 处理文件: ./epgmytvsuper.xml
-XML解析失败: ./epgmytvsuper.xml - 行 108873, 列 13: Opening and ending tag mismatch: title line 108870 and programme
-; 行 146818, 列 8: Couldn't find end of Start Tag progra line 146818
-; 行 146818, 列 8: Premature end of data in tag programme line 108869
-
-重试解析也失败: ./epgmytvsuper.xml
-加载失败: ./epgmytvsuper.xml
 处理文件: ./epg4gtv2.xml
 处理文件: ./epgmacocable.xml
 处理文件: ./epgofiii.xml
@@ -35,11 +29,6 @@ XML解析失败: ./epgmytvsuper.xml - 行 108873, 列 13: Opening and ending tag
 处理节目表: ./epganywhere.xml
 处理节目表: ./epglifetv.xml
 处理节目表: ./epgmytvsuper.xml
-XML解析失败: ./epgmytvsuper.xml - 行 108873, 列 13: Opening and ending tag mismatch: title line 108870 and programme
-; 行 146818, 列 8: Couldn't find end of Start Tag progra line 146818
-; 行 146818, 列 8: Premature end of data in tag programme line 108869
-
-重试解析也失败: ./epgmytvsuper.xml
 处理节目表: ./epg4gtv2.xml
 处理节目表: ./epgmacocable.xml
 处理节目表: ./epgofiii.xml
@@ -51,5 +40,5 @@ XML文件合并完成，已保存为 epgziyong.xml
 压缩文件已保存为 epgziyong.xml.gz
 
 合并统计:
-- 频道数量: 1370
-- 节目数量: 137554
+- 频道数量: 1870
+- 节目数量: 178514
