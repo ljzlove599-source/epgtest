@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260422000000 +0800" stop="20260422010000 +0800" channel="mbc action">
-    <title lang="en">برنامج  Adrenaline</title>
-  </programme>
   <programme start="20260422010000 +0800" stop="20260422020000 +0800" channel="mbc action">
     <title lang="en">The Promised Neverland</title>
   </programme>
@@ -100,7 +97,7 @@
     <title lang="en">ابرز لقطات الدوري</title>
   </programme>
   <programme start="20260423063000 +0800" stop="20260423073000 +0800" channel="mbc action">
-    <title lang="en">برنامج  Adrenaline</title>
+    <title lang="en">الخميس</title>
   </programme>
   <programme start="20260423073000 +0800" stop="20260423080000 +0800" channel="mbc action">
     <title lang="en">The Promised Neverland</title>
@@ -167,9 +164,6 @@
   </programme>
   <programme start="20260424053000 +0800" stop="20260424063000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
-  </programme>
-  <programme start="20260422003000 +0800" stop="20260422010000 +0800" channel="mbc max">
-    <title lang="en">Films &amp; Stars</title>
   </programme>
   <programme start="20260422010000 +0800" stop="20260422030000 +0800" channel="mbc max">
     <title lang="en">Our Friend</title>
@@ -288,6 +282,9 @@
   <programme start="20260424083000 +0800" stop="20260424103000 +0800" channel="mbc max">
     <title lang="en">Talladega Nights: The Ballad of Ricky Bobby</title>
   </programme>
+  <programme start="20260424103000 +0800" stop="20260424120000 +0800" channel="mbc max">
+    <title lang="en">Vacation</title>
+  </programme>
   <programme start="20260422000000 +0800" stop="20260422020000 +0800" channel="mbc 2">
     <title lang="en">Boxing Day</title>
   </programme>
@@ -392,5 +389,8 @@
   </programme>
   <programme start="20260424093000 +0800" stop="20260424110000 +0800" channel="mbc 2">
     <title lang="en">The Dark Tower</title>
+  </programme>
+  <programme start="20260424110000 +0800" stop="20260424140000 +0800" channel="mbc 2">
+    <title lang="en">It: Chapter Two</title>
   </programme>
 </tv>
