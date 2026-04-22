@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260422053000 +0800" stop="20260422063000 +0800" channel="mbc action">
-    <title lang="en">برنامج Accelerate</title>
-  </programme>
   <programme start="20260422063000 +0800" stop="20260422073000 +0800" channel="mbc action">
     <title lang="en">برنامج american ninja warrior</title>
   </programme>
@@ -153,9 +150,6 @@
   <programme start="20260424053000 +0800" stop="20260424063000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
   </programme>
-  <programme start="20260422050000 +0800" stop="20260422063200 +0800" channel="mbc max">
-    <title lang="en">The Edge of Seventeen</title>
-  </programme>
   <programme start="20260422063200 +0800" stop="20260422070000 +0800" channel="mbc max">
     <title lang="en">Action Zone</title>
   </programme>
@@ -270,8 +264,8 @@
   <programme start="20260424140000 +0800" stop="20260424153000 +0800" channel="mbc max">
     <title lang="en">Step Brothers</title>
   </programme>
-  <programme start="20260422040000 +0800" stop="20260422060000 +0800" channel="mbc 2">
-    <title lang="en">Crazy Stupid Love</title>
+  <programme start="20260424153000 +0800" stop="20260424180000 +0800" channel="mbc max">
+    <title lang="en">The Bourne Identity</title>
   </programme>
   <programme start="20260422060000 +0800" stop="20260422074500 +0800" channel="mbc 2">
     <title lang="en">Playing for Keeps</title>
@@ -371,5 +365,8 @@
   </programme>
   <programme start="20260424140000 +0800" stop="20260424153000 +0800" channel="mbc 2">
     <title lang="en">Hotel Transylvania</title>
+  </programme>
+  <programme start="20260424153000 +0800" stop="20260424180000 +0800" channel="mbc 2">
+    <title lang="en">All the Money in the World</title>
   </programme>
 </tv>
