@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260423030000 +0800" stop="20260423040000 +0800" channel="mbc action">
-    <title lang="en">بودكاست ملح الدوري</title>
-  </programme>
   <programme start="20260423040000 +0800" stop="20260423053000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
@@ -86,9 +83,6 @@
   </programme>
   <programme start="20260424053000 +0800" stop="20260424063000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
-  </programme>
-  <programme start="20260423030000 +0800" stop="20260423045500 +0800" channel="mbc max">
-    <title lang="en">A Million Ways to Die in the West</title>
   </programme>
   <programme start="20260423045500 +0800" stop="20260423063000 +0800" channel="mbc max">
     <title lang="en">Vacation</title>
@@ -183,8 +177,8 @@
   <programme start="20260425110000 +0800" stop="20260425133000 +0800" channel="mbc max">
     <title lang="en">The Bourne Identity</title>
   </programme>
-  <programme start="20260423034000 +0800" stop="20260423040500 +0800" channel="mbc 2">
-    <title lang="en">برنامج World Of Movies Season 3</title>
+  <programme start="20260425133000 +0800" stop="20260425153000 +0800" channel="mbc max">
+    <title lang="en">Speed</title>
   </programme>
   <programme start="20260423040500 +0800" stop="20260423060000 +0800" channel="mbc 2">
     <title lang="en">Old</title>
@@ -266,5 +260,8 @@
   </programme>
   <programme start="20260425113000 +0800" stop="20260425133000 +0800" channel="mbc 2">
     <title lang="en">My Friend Dahmer</title>
+  </programme>
+  <programme start="20260425133000 +0800" stop="20260425153000 +0800" channel="mbc 2">
+    <title lang="en">In the Line of Fire</title>
   </programme>
 </tv>
