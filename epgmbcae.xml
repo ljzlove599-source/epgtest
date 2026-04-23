@@ -9,15 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260423063000 +0800" stop="20260423073000 +0800" channel="mbc action">
-    <title lang="en">الخميس</title>
-  </programme>
-  <programme start="20260423073000 +0800" stop="20260423080000 +0800" channel="mbc action">
-    <title lang="en">The Promised Neverland</title>
-  </programme>
-  <programme start="20260423080000 +0800" stop="20260423090000 +0800" channel="mbc action">
-    <title lang="en">برنامج action bodcast</title>
-  </programme>
   <programme start="20260423090000 +0800" stop="20260423100000 +0800" channel="mbc action">
     <title lang="en">بودكاست ملح الدوري</title>
   </programme>
@@ -77,15 +68,6 @@
   </programme>
   <programme start="20260424053000 +0800" stop="20260424063000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
-  </programme>
-  <programme start="20260423063000 +0800" stop="20260423070000 +0800" channel="mbc max">
-    <title lang="en">Action Zone</title>
-  </programme>
-  <programme start="20260423070000 +0800" stop="20260423083500 +0800" channel="mbc max">
-    <title lang="en">The Words</title>
-  </programme>
-  <programme start="20260423083500 +0800" stop="20260423090000 +0800" channel="mbc max">
-    <title lang="en">برنامج World Of Movies</title>
   </programme>
   <programme start="20260423090000 +0800" stop="20260423103500 +0800" channel="mbc max">
     <title lang="en">The Edge of Seventeen</title>
@@ -174,8 +156,8 @@
   <programme start="20260425153000 +0800" stop="20260425173000 +0800" channel="mbc max">
     <title lang="en">Fatherhood</title>
   </programme>
-  <programme start="20260423060000 +0800" stop="20260423085000 +0800" channel="mbc 2">
-    <title lang="en">It: Chapter Two</title>
+  <programme start="20260425173000 +0800" stop="20260425193000 +0800" channel="mbc max">
+    <title lang="en">Paddington</title>
   </programme>
   <programme start="20260423085000 +0800" stop="20260423103000 +0800" channel="mbc 2">
     <title lang="en">Long Weekend</title>
@@ -257,5 +239,8 @@
   </programme>
   <programme start="20260425153000 +0800" stop="20260425180000 +0800" channel="mbc 2">
     <title lang="en">The Accountant</title>
+  </programme>
+  <programme start="20260425180000 +0800" stop="20260425203000 +0800" channel="mbc 2">
+    <title lang="en">Hell or High Water</title>
   </programme>
 </tv>
