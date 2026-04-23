@@ -9,12 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260423120000 +0800" stop="20260423130000 +0800" channel="mbc action">
-    <title lang="en">بودكاست ملح الدوري</title>
-  </programme>
-  <programme start="20260423130000 +0800" stop="20260423140000 +0800" channel="mbc action">
-    <title lang="en">برنامج action bodcast</title>
-  </programme>
   <programme start="20260423140000 +0800" stop="20260423153000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
@@ -59,12 +53,6 @@
   </programme>
   <programme start="20260424053000 +0800" stop="20260424063000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
-  </programme>
-  <programme start="20260423123000 +0800" stop="20260423130000 +0800" channel="mbc max">
-    <title lang="en">Hollywood Buzz</title>
-  </programme>
-  <programme start="20260423130000 +0800" stop="20260423143000 +0800" channel="mbc max">
-    <title lang="en">Alice, Darling</title>
   </programme>
   <programme start="20260423143000 +0800" stop="20260423163000 +0800" channel="mbc max">
     <title lang="en">Pixels</title>
@@ -147,8 +135,8 @@
   <programme start="20260425220000 +0800" stop="20260426000000 +0800" channel="mbc max">
     <title lang="en">Anger Management</title>
   </programme>
-  <programme start="20260423122500 +0800" stop="20260423140000 +0800" channel="mbc 2">
-    <title lang="en">Eighth Grade</title>
+  <programme start="20260426000000 +0800" stop="20260426020000 +0800" channel="mbc max">
+    <title lang="en">French Exit</title>
   </programme>
   <programme start="20260423140000 +0800" stop="20260423160000 +0800" channel="mbc 2">
     <title lang="en">Love &amp; Mercy</title>
@@ -227,5 +215,8 @@
   </programme>
   <programme start="20260425203000 +0800" stop="20260425230000 +0800" channel="mbc 2">
     <title lang="en">Love &amp; Mercy</title>
+  </programme>
+  <programme start="20260425230000 +0800" stop="20260426010000 +0800" channel="mbc 2">
+    <title lang="en">Arthur</title>
   </programme>
 </tv>
