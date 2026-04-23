@@ -174,7 +174,7 @@ MOD, BB Broadband, TBC Cable, 4GTV, Hami, Ofiii, etc.
 
 # 📺 EPG 電子節目表狀態報告
 
-> 最後更新時間: **Last XML update: 2026-04-23 19:53:31**
+> 最後更新時間: **Last XML update: 2026-04-23 22:12:40**
 
 ## 📊 統計摘要
 - **繁體頻道數**: 1836 (節目總數: 171078)
