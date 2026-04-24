@@ -9,15 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260424130000 +0800" stop="20260424143000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-  </programme>
-  <programme start="20260424143000 +0800" stop="20260424153000 +0800" channel="mbc action">
-    <title lang="en">برنامجcar issuse</title>
-  </programme>
-  <programme start="20260424153000 +0800" stop="20260424163500 +0800" channel="mbc action">
-    <title lang="en">The Promised Neverland</title>
-  </programme>
   <programme start="20260424163500 +0800" stop="20260424190000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
@@ -180,11 +171,14 @@
   <programme start="20260426230000 +0800" stop="20260427000000 +0800" channel="mbc action">
     <title lang="en">برنامج Celebrity Car Wars</title>
   </programme>
-  <programme start="20260424120000 +0800" stop="20260424140000 +0800" channel="mbc max">
-    <title lang="en">A Million Ways to Die in the West</title>
+  <programme start="20260427000000 +0800" stop="20260427010000 +0800" channel="mbc action">
+    <title lang="en">برنامج action bodcast </title>
   </programme>
-  <programme start="20260424140000 +0800" stop="20260424153000 +0800" channel="mbc max">
-    <title lang="en">Step Brothers</title>
+  <programme start="20260427010000 +0800" stop="20260427013000 +0800" channel="mbc action">
+    <title lang="en">The Promised Neverland</title>
+  </programme>
+  <programme start="20260427013000 +0800" stop="20260427030000 +0800" channel="mbc action">
+    <title lang="en">Action Ma' Waleed</title>
   </programme>
   <programme start="20260424153000 +0800" stop="20260424180000 +0800" channel="mbc max">
     <title lang="en">The Bourne Identity</title>
@@ -264,11 +258,11 @@
   <programme start="20260426210000 +0800" stop="20260426233000 +0800" channel="mbc max">
     <title lang="en">Robin Hood: Prince of Thieves</title>
   </programme>
-  <programme start="20260424110000 +0800" stop="20260424140000 +0800" channel="mbc 2">
-    <title lang="en">It: Chapter Two</title>
+  <programme start="20260426233000 +0800" stop="20260427020000 +0800" channel="mbc max">
+    <title lang="en">The New World</title>
   </programme>
-  <programme start="20260424140000 +0800" stop="20260424153000 +0800" channel="mbc 2">
-    <title lang="en">Hotel Transylvania</title>
+  <programme start="20260427020000 +0800" stop="20260427040000 +0800" channel="mbc max">
+    <title lang="en">The Man with the Iron Fists</title>
   </programme>
   <programme start="20260424153000 +0800" stop="20260424180000 +0800" channel="mbc 2">
     <title lang="en">All the Money in the World</title>
@@ -350,5 +344,8 @@
   </programme>
   <programme start="20260426223000 +0800" stop="20260427010000 +0800" channel="mbc 2">
     <title lang="en">Jerry Maguire</title>
+  </programme>
+  <programme start="20260427010000 +0800" stop="20260427030000 +0800" channel="mbc 2">
+    <title lang="en">Dream Horse</title>
   </programme>
 </tv>
