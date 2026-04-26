@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260426223000 +0800" stop="20260426230000 +0800" channel="mbc action">
-    <title lang="en">The Promised Neverland</title>
-  </programme>
   <programme start="20260426230000 +0800" stop="20260427000000 +0800" channel="mbc action">
     <title lang="en">برنامج Celebrity Car Wars</title>
   </programme>
@@ -183,8 +180,8 @@
   <programme start="20260429080000 +0800" stop="20260429090000 +0800" channel="mbc action">
     <title lang="en">بودكاست ملح الدوري</title>
   </programme>
-  <programme start="20260426210000 +0800" stop="20260426233000 +0800" channel="mbc max">
-    <title lang="en">Robin Hood: Prince of Thieves</title>
+  <programme start="20260429090000 +0800" stop="20260429093000 +0800" channel="mbc action">
+    <title lang="en">The Promised Neverland</title>
   </programme>
   <programme start="20260426233000 +0800" stop="20260427020000 +0800" channel="mbc max">
     <title lang="en">The New World</title>
@@ -413,5 +410,8 @@
   </programme>
   <programme start="20260429070000 +0800" stop="20260429091000 +0800" channel="mbc 2">
     <title lang="en">Live By Night</title>
+  </programme>
+  <programme start="20260429091000 +0800" stop="20260429110000 +0800" channel="mbc 2">
+    <title lang="en">City of Lies</title>
   </programme>
 </tv>
