@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260426153000 +0800" stop="20260426163000 +0800" channel="mbc action">
-    <title lang="en">The Promised Neverland</title>
-  </programme>
   <programme start="20260426163000 +0800" stop="20260426180000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
@@ -186,8 +183,11 @@
   <programme start="20260429010000 +0800" stop="20260429020000 +0800" channel="mbc action">
     <title lang="en">برنامج action bodcast</title>
   </programme>
-  <programme start="20260426150000 +0800" stop="20260426173000 +0800" channel="mbc max">
-    <title lang="en">French Exit</title>
+  <programme start="20260429020000 +0800" stop="20260429030000 +0800" channel="mbc action">
+    <title lang="en">بودكاست ملح الدوري</title>
+  </programme>
+  <programme start="20260429030000 +0800" stop="20260429043000 +0800" channel="mbc action">
+    <title lang="en">Action Ma' Waleed</title>
   </programme>
   <programme start="20260426173000 +0800" stop="20260426193000 +0800" channel="mbc max">
     <title lang="en">Paddington 2</title>
@@ -210,8 +210,101 @@
   <programme start="20260427060000 +0800" stop="20260427073000 +0800" channel="mbc max">
     <title lang="en">Wrath of the Titans</title>
   </programme>
-  <programme start="20260426150000 +0800" stop="20260426163000 +0800" channel="mbc 2">
-    <title lang="en">The Hustle</title>
+  <programme start="20260427073000 +0800" stop="20260427093000 +0800" channel="mbc max">
+    <title lang="en">French Exit</title>
+  </programme>
+  <programme start="20260427093000 +0800" stop="20260427110600 +0800" channel="mbc max">
+    <title lang="en">The Comeback Trail</title>
+  </programme>
+  <programme start="20260427110600 +0800" stop="20260427113200 +0800" channel="mbc max">
+    <title lang="en">برنامج Planet Action</title>
+  </programme>
+  <programme start="20260427113200 +0800" stop="20260427130000 +0800" channel="mbc max">
+    <title lang="en">Dead in a Week: Or Your Money Back</title>
+  </programme>
+  <programme start="20260427130000 +0800" stop="20260427132900 +0800" channel="mbc max">
+    <title lang="en">Action Zone</title>
+  </programme>
+  <programme start="20260427132900 +0800" stop="20260427150000 +0800" channel="mbc max">
+    <title lang="en">Anger Management</title>
+  </programme>
+  <programme start="20260427150000 +0800" stop="20260427173000 +0800" channel="mbc max">
+    <title lang="en">Robin Hood: Prince of Thieves</title>
+  </programme>
+  <programme start="20260427173000 +0800" stop="20260427190000 +0800" channel="mbc max">
+    <title lang="en">The Man with the Iron Fists</title>
+  </programme>
+  <programme start="20260427190000 +0800" stop="20260427212000 +0800" channel="mbc max">
+    <title lang="en">The New World</title>
+  </programme>
+  <programme start="20260427212000 +0800" stop="20260427232500 +0800" channel="mbc max">
+    <title lang="en">Speed Racer</title>
+  </programme>
+  <programme start="20260427232500 +0800" stop="20260427235000 +0800" channel="mbc max">
+    <title lang="en">Hollywood Buzz</title>
+  </programme>
+  <programme start="20260427235000 +0800" stop="20260428013500 +0800" channel="mbc max">
+    <title lang="en">Scott Pilgrim vs. the World</title>
+  </programme>
+  <programme start="20260428013500 +0800" stop="20260428020000 +0800" channel="mbc max">
+    <title lang="en">برنامج Planet Action</title>
+  </programme>
+  <programme start="20260428020000 +0800" stop="20260428035500 +0800" channel="mbc max">
+    <title lang="en">Ghostbusters: Afterlife</title>
+  </programme>
+  <programme start="20260428035500 +0800" stop="20260428053500 +0800" channel="mbc max">
+    <title lang="en">Freaky</title>
+  </programme>
+  <programme start="20260428053500 +0800" stop="20260428060000 +0800" channel="mbc max">
+    <title lang="en">برنامج World Of Movies</title>
+  </programme>
+  <programme start="20260428060000 +0800" stop="20260428080000 +0800" channel="mbc max">
+    <title lang="en">The World's End</title>
+  </programme>
+  <programme start="20260428080000 +0800" stop="20260428093000 +0800" channel="mbc max">
+    <title lang="en">Bullet Head</title>
+  </programme>
+  <programme start="20260428093000 +0800" stop="20260428110500 +0800" channel="mbc max">
+    <title lang="en">The Courier</title>
+  </programme>
+  <programme start="20260428110500 +0800" stop="20260428113000 +0800" channel="mbc max">
+    <title lang="en">برنامج Planet Action</title>
+  </programme>
+  <programme start="20260428113000 +0800" stop="20260428125500 +0800" channel="mbc max">
+    <title lang="en">The Man with the Iron Fists</title>
+  </programme>
+  <programme start="20260428125500 +0800" stop="20260428132500 +0800" channel="mbc max">
+    <title lang="en">Action Zone</title>
+  </programme>
+  <programme start="20260428132500 +0800" stop="20260428150000 +0800" channel="mbc max">
+    <title lang="en">Clash of the Titans</title>
+  </programme>
+  <programme start="20260428150000 +0800" stop="20260428170500 +0800" channel="mbc max">
+    <title lang="en">Speed Racer</title>
+  </programme>
+  <programme start="20260428170500 +0800" stop="20260428173000 +0800" channel="mbc max">
+    <title lang="en">Hollywood Buzz</title>
+  </programme>
+  <programme start="20260428173000 +0800" stop="20260428193000 +0800" channel="mbc max">
+    <title lang="en">Ghostbusters: Afterlife</title>
+  </programme>
+  <programme start="20260428193000 +0800" stop="20260428212500 +0800" channel="mbc max">
+    <title lang="en">Scott Pilgrim vs. the World</title>
+  </programme>
+  <programme start="20260428212500 +0800" stop="20260428220000 +0800" channel="mbc max">
+    <title lang="en">Scoop Maa Raya</title>
+  </programme>
+  <programme start="20260428220000 +0800" stop="20260428233000 +0800" channel="mbc max">
+    <title lang="en">Liar Liar</title>
+  </programme>
+  <programme start="20260428233000 +0800" stop="20260429000000 +0800" channel="mbc max">
+    <title lang="en">برنامج making the movies</title>
+  </programme>
+  <programme start="20260429000000 +0800" stop="20260429020000 +0800" channel="mbc max">
+    <title lang="en">Get Smart</title>
+  </programme>
+  <programme start="20260429020000 +0800" stop="20260429040000 +0800" channel="mbc max">
+    <title lang="en">Little</title>
   </programme>
   <programme start="20260426163000 +0800" stop="20260426183000 +0800" channel="mbc 2">
     <title lang="en">My Spy</title>
@@ -236,5 +329,92 @@
   </programme>
   <programme start="20260427053000 +0800" stop="20260427073000 +0800" channel="mbc 2">
     <title lang="en">Chasing Mavericks</title>
+  </programme>
+  <programme start="20260427073000 +0800" stop="20260427090500 +0800" channel="mbc 2">
+    <title lang="en">Escape Room: Tournament of Champions</title>
+  </programme>
+  <programme start="20260427090500 +0800" stop="20260427104500 +0800" channel="mbc 2">
+    <title lang="en">My Spy</title>
+  </programme>
+  <programme start="20260427104500 +0800" stop="20260427124500 +0800" channel="mbc 2">
+    <title lang="en">Sicario: Day of the Soldado</title>
+  </programme>
+  <programme start="20260427124500 +0800" stop="20260427143500 +0800" channel="mbc 2">
+    <title lang="en">Arthur</title>
+  </programme>
+  <programme start="20260427143500 +0800" stop="20260427150500 +0800" channel="mbc 2">
+    <title lang="en">Scoop Maa Raya</title>
+  </programme>
+  <programme start="20260427150500 +0800" stop="20260427171000 +0800" channel="mbc 2">
+    <title lang="en">Jerry Maguire</title>
+  </programme>
+  <programme start="20260427171000 +0800" stop="20260427184500 +0800" channel="mbc 2">
+    <title lang="en">Jockey</title>
+  </programme>
+  <programme start="20260427184500 +0800" stop="20260427203000 +0800" channel="mbc 2">
+    <title lang="en">Dream Horse</title>
+  </programme>
+  <programme start="20260427203000 +0800" stop="20260427223000 +0800" channel="mbc 2">
+    <title lang="en">Chasing Mavericks</title>
+  </programme>
+  <programme start="20260427223000 +0800" stop="20260427230000 +0800" channel="mbc 2">
+    <title lang="en">Scoop Maa Raya</title>
+  </programme>
+  <programme start="20260427230000 +0800" stop="20260428010000 +0800" channel="mbc 2">
+    <title lang="en">Bad Lieutenant: Port of Call New Orleans</title>
+  </programme>
+  <programme start="20260428010000 +0800" stop="20260428025500 +0800" channel="mbc 2">
+    <title lang="en">City of Lies</title>
+  </programme>
+  <programme start="20260428025500 +0800" stop="20260428043500 +0800" channel="mbc 2">
+    <title lang="en">21 Bridges</title>
+  </programme>
+  <programme start="20260428043500 +0800" stop="20260428050000 +0800" channel="mbc 2">
+    <title lang="en">Action Zone</title>
+  </programme>
+  <programme start="20260428050000 +0800" stop="20260428070500 +0800" channel="mbc 2">
+    <title lang="en">Bandit</title>
+  </programme>
+  <programme start="20260428070500 +0800" stop="20260428090000 +0800" channel="mbc 2">
+    <title lang="en">Rogue</title>
+  </programme>
+  <programme start="20260428090000 +0800" stop="20260428111500 +0800" channel="mbc 2">
+    <title lang="en">Jerry Maguire</title>
+  </programme>
+  <programme start="20260428111500 +0800" stop="20260428114000 +0800" channel="mbc 2">
+    <title lang="en">برنامج Making The Movies 6</title>
+  </programme>
+  <programme start="20260428114000 +0800" stop="20260428131500 +0800" channel="mbc 2">
+    <title lang="en">Escape Room: Tournament of Champions</title>
+  </programme>
+  <programme start="20260428131500 +0800" stop="20260428134000 +0800" channel="mbc 2">
+    <title lang="en">برنامج World Of Movies 3</title>
+  </programme>
+  <programme start="20260428134000 +0800" stop="20260428153500 +0800" channel="mbc 2">
+    <title lang="en">Dream Horse</title>
+  </programme>
+  <programme start="20260428153500 +0800" stop="20260428173500 +0800" channel="mbc 2">
+    <title lang="en">Shakespeare in Love</title>
+  </programme>
+  <programme start="20260428173500 +0800" stop="20260428200500 +0800" channel="mbc 2">
+    <title lang="en">A Few Good Men</title>
+  </programme>
+  <programme start="20260428200500 +0800" stop="20260428203000 +0800" channel="mbc 2">
+    <title lang="en">Films &amp; Stars</title>
+  </programme>
+  <programme start="20260428203000 +0800" stop="20260428223500 +0800" channel="mbc 2">
+    <title lang="en">Mr. Jones</title>
+  </programme>
+  <programme start="20260428223500 +0800" stop="20260428230000 +0800" channel="mbc 2">
+    <title lang="en">برنامج Celebrity Scoop Season 9</title>
+  </programme>
+  <programme start="20260428230000 +0800" stop="20260429010000 +0800" channel="mbc 2">
+    <title lang="en">Appaloosa</title>
+  </programme>
+  <programme start="20260429010000 +0800" stop="20260429030000 +0800" channel="mbc 2">
+    <title lang="en">Marshall</title>
+  </programme>
+  <programme start="20260429030000 +0800" stop="20260429044000 +0800" channel="mbc 2">
+    <title lang="en">The Old Way</title>
   </programme>
 </tv>
