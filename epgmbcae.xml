@@ -9,12 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260428030000 +0800" stop="20260428040000 +0800" channel="mbc action">
-    <title lang="en">برنامج action bodcast</title>
-  </programme>
-  <programme start="20260428040000 +0800" stop="20260428050000 +0800" channel="mbc action">
-    <title lang="en">برنامج cars &amp; stars</title>
-  </programme>
   <programme start="20260428050000 +0800" stop="20260428063000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
@@ -189,8 +183,8 @@
   <programme start="20260430130000 +0800" stop="20260430143000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
-  <programme start="20260428035500 +0800" stop="20260428053500 +0800" channel="mbc max">
-    <title lang="en">Freaky</title>
+  <programme start="20260430143000 +0800" stop="20260430153000 +0800" channel="mbc action">
+    <title lang="en">برنامج Accelerate</title>
   </programme>
   <programme start="20260428053500 +0800" stop="20260428060000 +0800" channel="mbc max">
     <title lang="en">برنامج World Of Movies</title>
@@ -303,11 +297,8 @@
   <programme start="20260430120000 +0800" stop="20260430140000 +0800" channel="mbc max">
     <title lang="en">Just Go with It</title>
   </programme>
-  <programme start="20260428025500 +0800" stop="20260428043500 +0800" channel="mbc 2">
-    <title lang="en">21 Bridges</title>
-  </programme>
-  <programme start="20260428043500 +0800" stop="20260428050000 +0800" channel="mbc 2">
-    <title lang="en">Action Zone</title>
+  <programme start="20260430140000 +0800" stop="20260430153000 +0800" channel="mbc max">
+    <title lang="en">Liar Liar</title>
   </programme>
   <programme start="20260428050000 +0800" stop="20260428070500 +0800" channel="mbc 2">
     <title lang="en">Bandit</title>
@@ -419,5 +410,8 @@
   </programme>
   <programme start="20260430130000 +0800" stop="20260430150000 +0800" channel="mbc 2">
     <title lang="en">Marshall</title>
+  </programme>
+  <programme start="20260430150000 +0800" stop="20260430173000 +0800" channel="mbc 2">
+    <title lang="en">Hugo</title>
   </programme>
 </tv>
