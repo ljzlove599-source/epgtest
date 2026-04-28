@@ -9,18 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260428133000 +0800" stop="20260428140000 +0800" channel="mbc action">
-    <title lang="en">برنامج the football review</title>
-  </programme>
-  <programme start="20260428140000 +0800" stop="20260428143000 +0800" channel="mbc action">
-    <title lang="en">برنامج The Ride Life With Sung Kang</title>
-  </programme>
-  <programme start="20260428143000 +0800" stop="20260428153000 +0800" channel="mbc action">
-    <title lang="en">برنامج the inside line</title>
-  </programme>
-  <programme start="20260428153000 +0800" stop="20260428163000 +0800" channel="mbc action">
-    <title lang="en">The Promised Neverland</title>
-  </programme>
   <programme start="20260428163000 +0800" stop="20260428180000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
@@ -186,8 +174,14 @@
   <programme start="20260430230000 +0800" stop="20260501000000 +0800" channel="mbc action">
     <title lang="en">برنامج american ninja warrior</title>
   </programme>
-  <programme start="20260428132500 +0800" stop="20260428150000 +0800" channel="mbc max">
-    <title lang="en">Clash of the Titans</title>
+  <programme start="20260501000000 +0800" stop="20260501010000 +0800" channel="mbc action">
+    <title lang="en">The Promised Neverland</title>
+  </programme>
+  <programme start="20260501010000 +0800" stop="20260501013000 +0800" channel="mbc action">
+    <title lang="en">برنامج action bodcast</title>
+  </programme>
+  <programme start="20260501013000 +0800" stop="20260501030000 +0800" channel="mbc action">
+    <title lang="en">بودكاست ملح الدوري</title>
   </programme>
   <programme start="20260428150000 +0800" stop="20260428170500 +0800" channel="mbc max">
     <title lang="en">Speed Racer</title>
@@ -291,8 +285,11 @@
   <programme start="20260430220000 +0800" stop="20260501000000 +0800" channel="mbc max">
     <title lang="en">Foster Boy</title>
   </programme>
-  <programme start="20260428134000 +0800" stop="20260428153500 +0800" channel="mbc 2">
-    <title lang="en">Dream Horse</title>
+  <programme start="20260501000000 +0800" stop="20260501013000 +0800" channel="mbc max">
+    <title lang="en">Infinitely Polar Bear</title>
+  </programme>
+  <programme start="20260501013000 +0800" stop="20260501040000 +0800" channel="mbc max">
+    <title lang="en">The Judge</title>
   </programme>
   <programme start="20260428153500 +0800" stop="20260428173500 +0800" channel="mbc 2">
     <title lang="en">Shakespeare in Love</title>
@@ -395,5 +392,8 @@
   </programme>
   <programme start="20260430220000 +0800" stop="20260501010000 +0800" channel="mbc 2">
     <title lang="en">The Patriot</title>
+  </programme>
+  <programme start="20260501010000 +0800" stop="20260501030000 +0800" channel="mbc 2">
+    <title lang="en">The Good German</title>
   </programme>
 </tv>
