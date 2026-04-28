@@ -1,4 +1,4 @@
-页面 1 日期: Apr 28, 2026, 节目数量: 18
+页面 1 日期: Apr 28, 2026, 节目数量: 19
 页面 2 日期: Apr 29, 2026, 节目数量: 17
 页面 3 日期: Apr 30, 2026, 节目数量: 15
 页面 4 日期: May 1, 2026, 节目数量: 16
@@ -8,6 +8,10 @@
   <channel id="Dubai One">
     <display-name lang="en">Dubai One</display-name>
   </channel>
+  <programme start="20260428000000 +0400" stop="20260428003000 +0400" channel="Dubai One">
+    <title lang="en">Emirates News Emirates News</title>
+    <desc lang="en">Be the First to Know.</desc>
+  </programme>
   <programme start="20260428003000 +0400" stop="20260428023000 +0400" channel="Dubai One">
     <title lang="en">Mortdecai</title>
     <desc lang="en">Sophistication has a name</desc>
