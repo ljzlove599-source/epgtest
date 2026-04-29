@@ -9,15 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260429130000 +0800" stop="20260429143000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-  </programme>
-  <programme start="20260429143000 +0800" stop="20260429153000 +0800" channel="mbc action">
-    <title lang="en">برنامج Celebrity Car Wars</title>
-  </programme>
-  <programme start="20260429153000 +0800" stop="20260429163000 +0800" channel="mbc action">
-    <title lang="en">The Promised Neverland</title>
-  </programme>
   <programme start="20260429163000 +0800" stop="20260429180000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
@@ -126,9 +117,6 @@
   <programme start="20260501043000 +0800" stop="20260501053000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
   </programme>
-  <programme start="20260429133000 +0800" stop="20260429150000 +0800" channel="mbc max">
-    <title lang="en">Wrath of the Titans</title>
-  </programme>
   <programme start="20260429150000 +0800" stop="20260429170000 +0800" channel="mbc max">
     <title lang="en">Just Go with It</title>
   </programme>
@@ -219,11 +207,11 @@
   <programme start="20260501220000 +0800" stop="20260502000000 +0800" channel="mbc max">
     <title lang="en">Across the Universe</title>
   </programme>
-  <programme start="20260429130000 +0800" stop="20260429145500 +0800" channel="mbc 2">
-    <title lang="en">Bad Lieutenant: Port of Call New Orleans</title>
+  <programme start="20260502000000 +0800" stop="20260502020000 +0800" channel="mbc max">
+    <title lang="en">Sparkle</title>
   </programme>
-  <programme start="20260429145500 +0800" stop="20260429165000 +0800" channel="mbc 2">
-    <title lang="en">Appaloosa</title>
+  <programme start="20260502020000 +0800" stop="20260502040000 +0800" channel="mbc max">
+    <title lang="en">Mamma Mia!</title>
   </programme>
   <programme start="20260429165000 +0800" stop="20260429183500 +0800" channel="mbc 2">
     <title lang="en">The Old Way</title>
@@ -314,5 +302,8 @@
   </programme>
   <programme start="20260501223000 +0800" stop="20260502003000 +0800" channel="mbc 2">
     <title lang="en">Jupiter Ascending</title>
+  </programme>
+  <programme start="20260502003000 +0800" stop="20260502030000 +0800" channel="mbc 2">
+    <title lang="en">Maze Runner: The Scorch Trials</title>
   </programme>
 </tv>
