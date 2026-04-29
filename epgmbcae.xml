@@ -9,15 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260429093000 +0800" stop="20260429110000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-  </programme>
-  <programme start="20260429110000 +0800" stop="20260429120000 +0800" channel="mbc action">
-    <title lang="en">بودكاست ملح الدوري</title>
-  </programme>
-  <programme start="20260429120000 +0800" stop="20260429130000 +0800" channel="mbc action">
-    <title lang="en">برنامج action bodcast</title>
-  </programme>
   <programme start="20260429130000 +0800" stop="20260429143000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
@@ -135,12 +126,6 @@
   <programme start="20260501043000 +0800" stop="20260501053000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
   </programme>
-  <programme start="20260429100000 +0800" stop="20260429115000 +0800" channel="mbc max">
-    <title lang="en">The World's End</title>
-  </programme>
-  <programme start="20260429115000 +0800" stop="20260429133000 +0800" channel="mbc max">
-    <title lang="en">Freaky</title>
-  </programme>
   <programme start="20260429133000 +0800" stop="20260429150000 +0800" channel="mbc max">
     <title lang="en">Wrath of the Titans</title>
   </programme>
@@ -231,11 +216,8 @@
   <programme start="20260501193000 +0800" stop="20260501220000 +0800" channel="mbc max">
     <title lang="en">Christine</title>
   </programme>
-  <programme start="20260429091000 +0800" stop="20260429110000 +0800" channel="mbc 2">
-    <title lang="en">City of Lies</title>
-  </programme>
-  <programme start="20260429110000 +0800" stop="20260429130000 +0800" channel="mbc 2">
-    <title lang="en">Bandit</title>
+  <programme start="20260501220000 +0800" stop="20260502000000 +0800" channel="mbc max">
+    <title lang="en">Across the Universe</title>
   </programme>
   <programme start="20260429130000 +0800" stop="20260429145500 +0800" channel="mbc 2">
     <title lang="en">Bad Lieutenant: Port of Call New Orleans</title>
@@ -329,5 +311,8 @@
   </programme>
   <programme start="20260501200000 +0800" stop="20260501223000 +0800" channel="mbc 2">
     <title lang="en">Letters from Iwo Jima</title>
+  </programme>
+  <programme start="20260501223000 +0800" stop="20260502003000 +0800" channel="mbc 2">
+    <title lang="en">Jupiter Ascending</title>
   </programme>
 </tv>
