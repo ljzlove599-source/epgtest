@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260429163000 +0800" stop="20260429180000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-  </programme>
   <programme start="20260429180000 +0800" stop="20260429190000 +0800" channel="mbc action">
     <title lang="en">برنامج وثائقيات موتورشو</title>
   </programme>
@@ -49,7 +46,7 @@
     <title lang="en">ابرز لقطات الدوري</title>
   </programme>
   <programme start="20260430053000 +0800" stop="20260430063000 +0800" channel="mbc action">
-    <title lang="en">الخميس</title>
+    <title lang="en">برنامج  Adrenaline</title>
   </programme>
   <programme start="20260430063000 +0800" stop="20260430070000 +0800" channel="mbc action">
     <title lang="en">The Promised Neverland</title>
@@ -116,12 +113,6 @@
   </programme>
   <programme start="20260501043000 +0800" stop="20260501053000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
-  </programme>
-  <programme start="20260429150000 +0800" stop="20260429170000 +0800" channel="mbc max">
-    <title lang="en">Just Go with It</title>
-  </programme>
-  <programme start="20260429170000 +0800" stop="20260429173000 +0800" channel="mbc max">
-    <title lang="en">Hollywood Buzz</title>
   </programme>
   <programme start="20260429173000 +0800" stop="20260429193000 +0800" channel="mbc max">
     <title lang="en">Little</title>
@@ -213,8 +204,8 @@
   <programme start="20260502020000 +0800" stop="20260502040000 +0800" channel="mbc max">
     <title lang="en">Mamma Mia!</title>
   </programme>
-  <programme start="20260429165000 +0800" stop="20260429183500 +0800" channel="mbc 2">
-    <title lang="en">The Old Way</title>
+  <programme start="20260502040000 +0800" stop="20260502063000 +0800" channel="mbc max">
+    <title lang="en">In the Heights</title>
   </programme>
   <programme start="20260429183500 +0800" stop="20260429190000 +0800" channel="mbc 2">
     <title lang="en">Films &amp; Stars</title>
@@ -305,5 +296,8 @@
   </programme>
   <programme start="20260502003000 +0800" stop="20260502030000 +0800" channel="mbc 2">
     <title lang="en">Maze Runner: The Scorch Trials</title>
+  </programme>
+  <programme start="20260502030000 +0800" stop="20260502053000 +0800" channel="mbc 2">
+    <title lang="en">Blade Runner 2049</title>
   </programme>
 </tv>
