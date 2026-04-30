@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260501043000 +0800" stop="20260501053000 +0800" channel="mbc action">
-    <title lang="en">برنامج ارض المليون</title>
-  </programme>
   <programme start="20260501040000 +0800" stop="20260501060000 +0800" channel="mbc max">
     <title lang="en">Ben Is Back</title>
   </programme>
@@ -93,9 +90,6 @@
   <programme start="20260503133000 +0800" stop="20260503153000 +0800" channel="mbc max">
     <title lang="en">Across the Universe</title>
   </programme>
-  <programme start="20260501030000 +0800" stop="20260501050000 +0800" channel="mbc 2">
-    <title lang="en">The Water Diviner</title>
-  </programme>
   <programme start="20260501050000 +0800" stop="20260501070000 +0800" channel="mbc 2">
     <title lang="en">Dunkirk</title>
   </programme>
@@ -176,5 +170,8 @@
   </programme>
   <programme start="20260503130000 +0800" stop="20260503150000 +0800" channel="mbc 2">
     <title lang="en">Jupiter Ascending</title>
+  </programme>
+  <programme start="20260503150000 +0800" stop="20260503170000 +0800" channel="mbc 2">
+    <title lang="en">Snowpiercer</title>
   </programme>
 </tv>
