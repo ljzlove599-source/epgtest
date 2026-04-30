@@ -9,15 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260430230000 +0800" stop="20260501000000 +0800" channel="mbc action">
-    <title lang="en">برنامج american ninja warrior</title>
-  </programme>
-  <programme start="20260501000000 +0800" stop="20260501010000 +0800" channel="mbc action">
-    <title lang="en">The Promised Neverland</title>
-  </programme>
-  <programme start="20260501010000 +0800" stop="20260501013000 +0800" channel="mbc action">
-    <title lang="en">برنامج action bodcast</title>
-  </programme>
   <programme start="20260501013000 +0800" stop="20260501030000 +0800" channel="mbc action">
     <title lang="en">بودكاست ملح الدوري</title>
   </programme>
@@ -26,12 +17,6 @@
   </programme>
   <programme start="20260501043000 +0800" stop="20260501053000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
-  </programme>
-  <programme start="20260430220000 +0800" stop="20260501000000 +0800" channel="mbc max">
-    <title lang="en">Foster Boy</title>
-  </programme>
-  <programme start="20260501000000 +0800" stop="20260501013000 +0800" channel="mbc max">
-    <title lang="en">Infinitely Polar Bear</title>
   </programme>
   <programme start="20260501013000 +0800" stop="20260501040000 +0800" channel="mbc max">
     <title lang="en">The Judge</title>
@@ -111,8 +96,8 @@
   <programme start="20260503083000 +0800" stop="20260503103000 +0800" channel="mbc max">
     <title lang="en">Sparkle</title>
   </programme>
-  <programme start="20260430220000 +0800" stop="20260501010000 +0800" channel="mbc 2">
-    <title lang="en">The Patriot</title>
+  <programme start="20260503103000 +0800" stop="20260503133000 +0800" channel="mbc max">
+    <title lang="en">In the Heights</title>
   </programme>
   <programme start="20260501010000 +0800" stop="20260501030000 +0800" channel="mbc 2">
     <title lang="en">The Good German</title>
@@ -194,5 +179,8 @@
   </programme>
   <programme start="20260503083000 +0800" stop="20260503110000 +0800" channel="mbc 2">
     <title lang="en">Blade Runner 2049</title>
+  </programme>
+  <programme start="20260503110000 +0800" stop="20260503130000 +0800" channel="mbc 2">
+    <title lang="en">Chaos Walking</title>
   </programme>
 </tv>
