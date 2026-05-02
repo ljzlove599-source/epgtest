@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260503000000 +0800" stop="20260503010000 +0800" channel="mbc action">
-    <title lang="en">برنامج Accelerate</title>
-  </programme>
   <programme start="20260503010000 +0800" stop="20260503020000 +0800" channel="mbc action">
     <title lang="en">The Promised Neverland</title>
   </programme>
@@ -177,6 +174,9 @@
   <programme start="20260505093000 +0800" stop="20260505110000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
+  <programme start="20260505110000 +0800" stop="20260505120000 +0800" channel="mbc action">
+    <title lang="en">برنامج The Ride Life With Sung Kang</title>
+  </programme>
   <programme start="20260503000000 +0800" stop="20260503020000 +0800" channel="mbc max">
     <title lang="en">The Darkest Hour</title>
   </programme>
@@ -219,52 +219,49 @@
   <programme start="20260504040000 +0800" stop="20260504060000 +0800" channel="mbc max">
     <title lang="en">Grown Ups 2</title>
   </programme>
-  <programme start="20260503230000 +0800" stop="20260504010000 +0800" channel="mbc 2">
-    <title lang="en">Due Date</title>
-  </programme>
-  <programme start="20260504010000 +0800" stop="20260504030000 +0800" channel="mbc 2">
+  <programme start="20260503010000 +0800" stop="20260503030000 +0800" channel="mbc 2">
     <title lang="en">Burn After Reading</title>
   </programme>
-  <programme start="20260504030000 +0800" stop="20260504050000 +0800" channel="mbc 2">
+  <programme start="20260503030000 +0800" stop="20260503050000 +0800" channel="mbc 2">
     <title lang="en">In Bruges</title>
   </programme>
-  <programme start="20260504050000 +0800" stop="20260504070000 +0800" channel="mbc 2">
+  <programme start="20260503050000 +0800" stop="20260503070000 +0800" channel="mbc 2">
     <title lang="en">The Art of Self-Defense</title>
   </programme>
-  <programme start="20260504070000 +0800" stop="20260504083000 +0800" channel="mbc 2">
+  <programme start="20260503070000 +0800" stop="20260503083000 +0800" channel="mbc 2">
     <title lang="en">Mr. Right</title>
   </programme>
-  <programme start="20260504083000 +0800" stop="20260504110000 +0800" channel="mbc 2">
+  <programme start="20260503083000 +0800" stop="20260503110000 +0800" channel="mbc 2">
     <title lang="en">Blade Runner 2049</title>
   </programme>
-  <programme start="20260504110000 +0800" stop="20260504130000 +0800" channel="mbc 2">
+  <programme start="20260503110000 +0800" stop="20260503130000 +0800" channel="mbc 2">
     <title lang="en">Chaos Walking</title>
   </programme>
-  <programme start="20260504130000 +0800" stop="20260504150000 +0800" channel="mbc 2">
+  <programme start="20260503130000 +0800" stop="20260503150000 +0800" channel="mbc 2">
     <title lang="en">Jupiter Ascending</title>
   </programme>
-  <programme start="20260504150000 +0800" stop="20260504170000 +0800" channel="mbc 2">
+  <programme start="20260503150000 +0800" stop="20260503170000 +0800" channel="mbc 2">
     <title lang="en">Snowpiercer</title>
   </programme>
-  <programme start="20260504170000 +0800" stop="20260504190000 +0800" channel="mbc 2">
+  <programme start="20260503170000 +0800" stop="20260503190000 +0800" channel="mbc 2">
     <title lang="en">Mirror Mirror</title>
   </programme>
-  <programme start="20260504190000 +0800" stop="20260504210000 +0800" channel="mbc 2">
+  <programme start="20260503190000 +0800" stop="20260503210000 +0800" channel="mbc 2">
     <title lang="en">Burn After Reading</title>
   </programme>
-  <programme start="20260504210000 +0800" stop="20260504230000 +0800" channel="mbc 2">
+  <programme start="20260503210000 +0800" stop="20260503230000 +0800" channel="mbc 2">
     <title lang="en">The Art of Self-Defense</title>
   </programme>
-  <programme start="20260504230000 +0800" stop="20260505010000 +0800" channel="mbc 2">
+  <programme start="20260503230000 +0800" stop="20260504010000 +0800" channel="mbc 2">
     <title lang="en">88 Minutes</title>
   </programme>
-  <programme start="20260505010000 +0800" stop="20260505030000 +0800" channel="mbc 2">
+  <programme start="20260504010000 +0800" stop="20260504030000 +0800" channel="mbc 2">
     <title lang="en">Reservation Road</title>
   </programme>
-  <programme start="20260505030000 +0800" stop="20260505050000 +0800" channel="mbc 2">
+  <programme start="20260504030000 +0800" stop="20260504050000 +0800" channel="mbc 2">
     <title lang="en">The Mechanic</title>
   </programme>
-  <programme start="20260505050000 +0800" stop="20260505070000 +0800" channel="mbc 2">
+  <programme start="20260504050000 +0800" stop="20260504070000 +0800" channel="mbc 2">
     <title lang="en">Sleepless</title>
   </programme>
 </tv>
