@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260504000000 +0800" stop="20260504010000 +0800" channel="mbc action">
-    <title lang="en">برنامج Celebrity Car Wars</title>
-  </programme>
   <programme start="20260504010000 +0800" stop="20260504020000 +0800" channel="mbc action">
     <title lang="en">برنامج action bodcast </title>
   </programme>
@@ -183,6 +180,9 @@
   <programme start="20260506100000 +0800" stop="20260506103000 +0800" channel="mbc action">
     <title lang="en">The Promised Neverland</title>
   </programme>
+  <programme start="20260506103000 +0800" stop="20260506120000 +0800" channel="mbc action">
+    <title lang="en">Action Ma' Waleed</title>
+  </programme>
   <programme start="20260504003000 +0800" stop="20260504023000 +0800" channel="mbc max">
     <title lang="en">Laggies</title>
   </programme>
@@ -315,124 +315,127 @@
   <programme start="20260506093000 +0800" stop="20260506113000 +0800" channel="mbc max">
     <title lang="en">Skylines</title>
   </programme>
-  <programme start="20260504230000 +0800" stop="20260505010000 +0800" channel="mbc 2">
-    <title lang="en">88 Minutes</title>
-  </programme>
-  <programme start="20260505010000 +0800" stop="20260505030000 +0800" channel="mbc 2">
+  <programme start="20260504010000 +0800" stop="20260504030000 +0800" channel="mbc 2">
     <title lang="en">Reservation Road</title>
   </programme>
-  <programme start="20260505030000 +0800" stop="20260505050000 +0800" channel="mbc 2">
+  <programme start="20260504030000 +0800" stop="20260504050000 +0800" channel="mbc 2">
     <title lang="en">The Mechanic</title>
   </programme>
-  <programme start="20260505050000 +0800" stop="20260505063000 +0800" channel="mbc 2">
+  <programme start="20260504050000 +0800" stop="20260504063000 +0800" channel="mbc 2">
     <title lang="en">Sleepless</title>
   </programme>
-  <programme start="20260505063000 +0800" stop="20260505070500 +0800" channel="mbc 2">
+  <programme start="20260504063000 +0800" stop="20260504070500 +0800" channel="mbc 2">
     <title lang="en">برنامج World Of Movies Season 3</title>
   </programme>
-  <programme start="20260505070500 +0800" stop="20260505085500 +0800" channel="mbc 2">
+  <programme start="20260504070500 +0800" stop="20260504085500 +0800" channel="mbc 2">
     <title lang="en">Jeepers Creepers III</title>
   </programme>
-  <programme start="20260505085500 +0800" stop="20260505104000 +0800" channel="mbc 2">
+  <programme start="20260504085500 +0800" stop="20260504104000 +0800" channel="mbc 2">
     <title lang="en">In Bruges</title>
   </programme>
-  <programme start="20260505104000 +0800" stop="20260505113000 +0800" channel="mbc 2">
+  <programme start="20260504104000 +0800" stop="20260504113000 +0800" channel="mbc 2">
     <title lang="en">Films &amp; Stars</title>
   </programme>
-  <programme start="20260505113000 +0800" stop="20260505130400 +0800" channel="mbc 2">
+  <programme start="20260504113000 +0800" stop="20260504130400 +0800" channel="mbc 2">
     <title lang="en">Mr. Right</title>
   </programme>
-  <programme start="20260505130400 +0800" stop="20260505133000 +0800" channel="mbc 2">
+  <programme start="20260504130400 +0800" stop="20260504133000 +0800" channel="mbc 2">
     <title lang="en">Films &amp; Stars</title>
   </programme>
-  <programme start="20260505133000 +0800" stop="20260505150000 +0800" channel="mbc 2">
+  <programme start="20260504133000 +0800" stop="20260504150000 +0800" channel="mbc 2">
     <title lang="en">Due Date</title>
   </programme>
-  <programme start="20260505150000 +0800" stop="20260505170000 +0800" channel="mbc 2">
+  <programme start="20260504150000 +0800" stop="20260504170000 +0800" channel="mbc 2">
     <title lang="en">Iron Mask</title>
   </programme>
-  <programme start="20260505170000 +0800" stop="20260505172500 +0800" channel="mbc 2">
+  <programme start="20260504170000 +0800" stop="20260504172500 +0800" channel="mbc 2">
     <title lang="en">Films &amp; Stars</title>
   </programme>
-  <programme start="20260505172500 +0800" stop="20260505191000 +0800" channel="mbc 2">
+  <programme start="20260504172500 +0800" stop="20260504191000 +0800" channel="mbc 2">
     <title lang="en">Reservation Road</title>
   </programme>
-  <programme start="20260505191000 +0800" stop="20260505200000 +0800" channel="mbc 2">
+  <programme start="20260504191000 +0800" stop="20260504200000 +0800" channel="mbc 2">
     <title lang="en">Films &amp; Stars</title>
   </programme>
-  <programme start="20260505200000 +0800" stop="20260505221000 +0800" channel="mbc 2">
+  <programme start="20260504200000 +0800" stop="20260504221000 +0800" channel="mbc 2">
     <title lang="en">Papillon</title>
   </programme>
-  <programme start="20260505221000 +0800" stop="20260505223500 +0800" channel="mbc 2">
+  <programme start="20260504221000 +0800" stop="20260504223500 +0800" channel="mbc 2">
     <title lang="en">Action Zone</title>
   </programme>
-  <programme start="20260505223500 +0800" stop="20260506010000 +0800" channel="mbc 2">
+  <programme start="20260504223500 +0800" stop="20260505010000 +0800" channel="mbc 2">
     <title lang="en">The Island</title>
   </programme>
-  <programme start="20260506010000 +0800" stop="20260506030000 +0800" channel="mbc 2">
+  <programme start="20260505010000 +0800" stop="20260505030000 +0800" channel="mbc 2">
     <title lang="en">The Green Hornet</title>
   </programme>
-  <programme start="20260506030000 +0800" stop="20260506050000 +0800" channel="mbc 2">
+  <programme start="20260505030000 +0800" stop="20260505050000 +0800" channel="mbc 2">
     <title lang="en">Sucker Punch</title>
   </programme>
-  <programme start="20260506050000 +0800" stop="20260506070000 +0800" channel="mbc 2">
+  <programme start="20260505050000 +0800" stop="20260505070000 +0800" channel="mbc 2">
     <title lang="en">Reminiscence</title>
   </programme>
-  <programme start="20260506070000 +0800" stop="20260506083000 +0800" channel="mbc 2">
+  <programme start="20260505070000 +0800" stop="20260505083000 +0800" channel="mbc 2">
     <title lang="en">Unfriended: Dark Web</title>
   </programme>
-  <programme start="20260506083000 +0800" stop="20260506100000 +0800" channel="mbc 2">
+  <programme start="20260505083000 +0800" stop="20260505100000 +0800" channel="mbc 2">
     <title lang="en">The Mechanic</title>
   </programme>
-  <programme start="20260506100000 +0800" stop="20260506114000 +0800" channel="mbc 2">
+  <programme start="20260505100000 +0800" stop="20260505114000 +0800" channel="mbc 2">
     <title lang="en">Jeepers Creepers III</title>
   </programme>
-  <programme start="20260506114000 +0800" stop="20260506120500 +0800" channel="mbc 2">
+  <programme start="20260505114000 +0800" stop="20260505120500 +0800" channel="mbc 2">
     <title lang="en">برنامج World Of Movies Season 3</title>
   </programme>
-  <programme start="20260506120500 +0800" stop="20260506134000 +0800" channel="mbc 2">
+  <programme start="20260505120500 +0800" stop="20260505134000 +0800" channel="mbc 2">
     <title lang="en">Sleepless</title>
   </programme>
-  <programme start="20260506134000 +0800" stop="20260506153000 +0800" channel="mbc 2">
+  <programme start="20260505134000 +0800" stop="20260505153000 +0800" channel="mbc 2">
     <title lang="en">88 Minutes</title>
   </programme>
-  <programme start="20260506153000 +0800" stop="20260506173500 +0800" channel="mbc 2">
+  <programme start="20260505153000 +0800" stop="20260505173500 +0800" channel="mbc 2">
     <title lang="en">The Green Hornet</title>
   </programme>
-  <programme start="20260506173500 +0800" stop="20260506180000 +0800" channel="mbc 2">
+  <programme start="20260505173500 +0800" stop="20260505180000 +0800" channel="mbc 2">
     <title lang="en">Films &amp; Stars</title>
   </programme>
-  <programme start="20260506180000 +0800" stop="20260506200000 +0800" channel="mbc 2">
+  <programme start="20260505180000 +0800" stop="20260505200000 +0800" channel="mbc 2">
     <title lang="en">Reminiscence</title>
   </programme>
-  <programme start="20260506200000 +0800" stop="20260506202500 +0800" channel="mbc 2">
+  <programme start="20260505200000 +0800" stop="20260505202500 +0800" channel="mbc 2">
     <title lang="en">برنامج Celebrity Scoop Season 9</title>
   </programme>
-  <programme start="20260506202500 +0800" stop="20260506223500 +0800" channel="mbc 2">
+  <programme start="20260505202500 +0800" stop="20260505223500 +0800" channel="mbc 2">
     <title lang="en">Papillon</title>
   </programme>
-  <programme start="20260506223500 +0800" stop="20260506230000 +0800" channel="mbc 2">
+  <programme start="20260505223500 +0800" stop="20260505230000 +0800" channel="mbc 2">
     <title lang="en">Action Zone</title>
   </programme>
-  <programme start="20260506230000 +0800" stop="20260507005500 +0800" channel="mbc 2">
+  <programme start="20260505230000 +0800" stop="20260506005500 +0800" channel="mbc 2">
     <title lang="en">Edge of Darkness</title>
   </programme>
-  <programme start="20260507005500 +0800" stop="20260507023500 +0800" channel="mbc 2">
+  <programme start="20260506005500 +0800" stop="20260506023500 +0800" channel="mbc 2">
     <title lang="en">Homefront</title>
   </programme>
-  <programme start="20260507023500 +0800" stop="20260507030000 +0800" channel="mbc 2">
+  <programme start="20260506023500 +0800" stop="20260506030000 +0800" channel="mbc 2">
     <title lang="en">برنامج Making The Movies 6</title>
   </programme>
-  <programme start="20260507030000 +0800" stop="20260507050500 +0800" channel="mbc 2">
+  <programme start="20260506030000 +0800" stop="20260506050500 +0800" channel="mbc 2">
     <title lang="en">12 Strong</title>
   </programme>
-  <programme start="20260507050500 +0800" stop="20260507065500 +0800" channel="mbc 2">
+  <programme start="20260506050500 +0800" stop="20260506065500 +0800" channel="mbc 2">
     <title lang="en">The Ice Road</title>
   </programme>
-  <programme start="20260507065500 +0800" stop="20260507083000 +0800" channel="mbc 2">
+  <programme start="20260506065500 +0800" stop="20260506083000 +0800" channel="mbc 2">
     <title lang="en">Eastern Promises</title>
   </programme>
-  <programme start="20260507083000 +0800" stop="20260507104500 +0800" channel="mbc 2">
+  <programme start="20260506083000 +0800" stop="20260506104500 +0800" channel="mbc 2">
     <title lang="en">The Island</title>
+  </programme>
+  <programme start="20260506104500 +0800" stop="20260506111000 +0800" channel="mbc 2">
+    <title lang="en">برنامج World Of Movies Season 3</title>
+  </programme>
+  <programme start="20260506111000 +0800" stop="20260506130000 +0800" channel="mbc 2">
+    <title lang="en">Reminiscence</title>
   </programme>
 </tv>
