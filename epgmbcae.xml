@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260503223000 +0800" stop="20260503233000 +0800" channel="mbc action">
-    <title lang="en">برنامج cars &amp; stars </title>
-  </programme>
   <programme start="20260503233000 +0800" stop="20260504000000 +0800" channel="mbc action">
     <title lang="en">The Promised Neverland</title>
   </programme>
@@ -183,6 +180,9 @@
   <programme start="20260506080000 +0800" stop="20260506090000 +0800" channel="mbc action">
     <title lang="en">برنامج action bodcast</title>
   </programme>
+  <programme start="20260506090000 +0800" stop="20260506100000 +0800" channel="mbc action">
+    <title lang="en">بودكاست ملح الدوري</title>
+  </programme>
   <programme start="20260503223000 +0800" stop="20260504003000 +0800" channel="mbc max">
     <title lang="en">Click</title>
   </programme>
@@ -315,9 +315,6 @@
   <programme start="20260506080000 +0800" stop="20260506093000 +0800" channel="mbc max">
     <title lang="en">Alice, Darling</title>
   </programme>
-  <programme start="20260503210000 +0800" stop="20260503230000 +0800" channel="mbc 2">
-    <title lang="en">The Art of Self-Defense</title>
-  </programme>
   <programme start="20260503230000 +0800" stop="20260504010000 +0800" channel="mbc 2">
     <title lang="en">88 Minutes</title>
   </programme>
@@ -434,5 +431,8 @@
   </programme>
   <programme start="20260506065500 +0800" stop="20260506083000 +0800" channel="mbc 2">
     <title lang="en">Eastern Promises</title>
+  </programme>
+  <programme start="20260506083000 +0800" stop="20260506104500 +0800" channel="mbc 2">
+    <title lang="en">The Island</title>
   </programme>
 </tv>
