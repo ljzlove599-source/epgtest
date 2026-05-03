@@ -99,6 +99,9 @@
   <channel id="HOY 国际财经台">
     <display-name lang="zh">HOY 国际财经台</display-name>
   </channel>
+  <channel id="HOY TV">
+    <display-name lang="zh">HOY TV</display-name>
+  </channel>
   <channel id="HOY 资讯台">
     <display-name lang="zh">HOY 资讯台</display-name>
   </channel>
@@ -6387,12 +6390,6 @@
   <programme start="20260505070000 +0800" stop="20260505080000 +0800" channel="中天北美台">
     <title lang="zh">大新闻大爆卦(上) (Live)</title>
   </programme>
-  <programme start="20260504010000 +0800" stop="20260504020000 +0800" channel="mbc action">
-    <title lang="en">برنامج action bodcast </title>
-  </programme>
-  <programme start="20260504020000 +0800" stop="20260504023000 +0800" channel="mbc action">
-    <title lang="en">The Promised Neverland</title>
-  </programme>
   <programme start="20260504023000 +0800" stop="20260504040000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
@@ -6561,8 +6558,8 @@
   <programme start="20260506103000 +0800" stop="20260506120000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
   </programme>
-  <programme start="20260504003000 +0800" stop="20260504023000 +0800" channel="mbc max">
-    <title lang="en">Laggies</title>
+  <programme start="20260506120000 +0800" stop="20260506130000 +0800" channel="mbc action">
+    <title lang="en">بودكاست ملح الدوري</title>
   </programme>
   <programme start="20260504023000 +0800" stop="20260504040000 +0800" channel="mbc max">
     <title lang="en">Grown Ups</title>
@@ -6692,6 +6689,12 @@
   </programme>
   <programme start="20260506093000 +0800" stop="20260506113000 +0800" channel="mbc max">
     <title lang="en">Skylines</title>
+  </programme>
+  <programme start="20260506113000 +0800" stop="20260506120000 +0800" channel="mbc max">
+    <title lang="en">Action Zone</title>
+  </programme>
+  <programme start="20260506120000 +0800" stop="20260506140000 +0800" channel="mbc max">
+    <title lang="en">A Million Little Pieces</title>
   </programme>
   <programme start="20260504010000 +0800" stop="20260504030000 +0800" channel="mbc 2">
     <title lang="en">Reservation Road</title>
@@ -7101,10 +7104,10 @@
     <title lang="en">The Seasons Ep.4</title>
   </programme>
   <programme start="20260504021500 +0900" stop="20260504035500 +0900" channel="KBSWorld">
-    <title lang="en">Two Days and One Night 4 Ep.323 [LIVE]</title>
+    <title lang="en">Two Days and One Night 4 Ep.323</title>
   </programme>
   <programme start="20260504035500 +0900" stop="20260504051000 +0900" channel="KBSWorld">
-    <title lang="en">The Return of Superman Ep.618</title>
+    <title lang="en">The Return of Superman Ep.618 [LIVE]</title>
   </programme>
   <programme start="20260504051000 +0900" stop="20260504060000 +0900" channel="KBSWorld">
     <title lang="en">My Neighbor, Charles Ep.525</title>
@@ -25258,6 +25261,3026 @@
   </programme>
   <programme start="20260511214500 +0800" stop="20260511220500 +0800" channel="HOY 国际财经台">
     <title lang="zh">有线新闻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260420000000 +0800" stop="20260420003000 +0800" channel="HOY TV">
+    <title lang="zh">嘻哈马场</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260420003000 +0800" stop="20260420010000 +0800" channel="HOY TV">
+    <title lang="zh">五平方Squarefoot 优质楼盘专区特约 : 楼盘传真</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260420010000 +0800" stop="20260420030000 +0800" channel="HOY TV">
+    <title lang="zh">HOY 动音乐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260420030000 +0800" stop="20260420060000 +0800" channel="HOY TV">
+    <title lang="zh">鱼乐无限</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260420060000 +0800" stop="20260420070000 +0800" channel="HOY TV">
+    <title lang="zh">香料贸易之路</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260420070000 +0800" stop="20260420080000 +0800" channel="HOY TV">
+    <title lang="zh">云襄传</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260420080000 +0800" stop="20260420090000 +0800" channel="HOY TV">
+    <title lang="zh">现在很美丽</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260420090000 +0800" stop="20260420093000 +0800" channel="HOY TV">
+    <title lang="zh">炼狗术师 II</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260420093000 +0800" stop="20260420100000 +0800" channel="HOY TV">
+    <title lang="zh">好好生活在湾区</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260420100000 +0800" stop="20260420103000 +0800" channel="HOY TV">
+    <title lang="zh">五平方Squarefoot 优质楼盘专区特约 : 楼盘传真</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260420103000 +0800" stop="20260420113000 +0800" channel="HOY TV">
+    <title lang="zh">耀眼的秘密</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260420113000 +0800" stop="20260420123000 +0800" channel="HOY TV">
+    <title lang="zh">卧底</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260420123000 +0800" stop="20260420130000 +0800" channel="HOY TV">
+    <title lang="zh">午间新闻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260420130000 +0800" stop="20260420133000 +0800" channel="HOY TV">
+    <title lang="zh">小仪与13型男</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260420133000 +0800" stop="20260420140000 +0800" channel="HOY TV">
+    <title lang="zh">煮题COOK</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260420140000 +0800" stop="20260420143000 +0800" channel="HOY TV">
+    <title lang="zh">健康关注组</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260420143000 +0800" stop="20260420150000 +0800" channel="HOY TV">
+    <title lang="zh">詹姆士出走料理</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260420150000 +0800" stop="20260420153000 +0800" channel="HOY TV">
+    <title lang="zh">Sun Life 永明 x Bowtie 呈献 : 脱轨旅行团</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260420153000 +0800" stop="20260420160000 +0800" channel="HOY TV">
+    <title lang="zh">好好生活在湾区</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260420160000 +0800" stop="20260420163000 +0800" channel="HOY TV">
+    <title lang="zh">认真地不认真的怪侠佐罗利</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260420163000 +0800" stop="20260420170000 +0800" channel="HOY TV">
+    <title lang="zh">美斯的奥奇岛</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260420170000 +0800" stop="20260420173000 +0800" channel="HOY TV">
+    <title lang="zh">超甲虫战记 圣域传说</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260420173000 +0800" stop="20260420180000 +0800" channel="HOY TV">
+    <title lang="zh">神勇小白鼠</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260420180000 +0800" stop="20260420183000 +0800" channel="HOY TV">
+    <title lang="zh">香港奇则 3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260420183000 +0800" stop="20260420190000 +0800" channel="HOY TV">
+    <title lang="zh">他乡的煮人</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260420190000 +0800" stop="20260420194500 +0800" channel="HOY TV">
+    <title lang="zh">7点直播室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260420194500 +0800" stop="20260420195000 +0800" channel="HOY TV">
+    <title lang="zh">28Hse 揾楼App 特约 : 每日楼市</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260420195000 +0800" stop="20260420200000 +0800" channel="HOY TV">
+    <title lang="zh">科技园INNOPOLE呈献 : AI+引领产业革新</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260420200000 +0800" stop="20260420203000 +0800" channel="HOY TV">
+    <title lang="zh">一线搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260420203000 +0800" stop="20260420210000 +0800" channel="HOY TV">
+    <title lang="zh">煮题COOK</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260420210000 +0800" stop="20260420213000 +0800" channel="HOY TV">
+    <title lang="zh">健康关注组</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260420213000 +0800" stop="20260420220000 +0800" channel="HOY TV">
+    <title lang="zh">詹姆士出走料理</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260420220000 +0800" stop="20260420230000 +0800" channel="HOY TV">
+    <title lang="zh">耀眼的秘密</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260420230000 +0800" stop="20260420233000 +0800" channel="HOY TV">
+    <title lang="zh">有线新闻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260420233000 +0800" stop="20260420234500 +0800" channel="HOY TV">
+    <title lang="zh">娱乐头条 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260420234500 +0800" stop="20260421001500 +0800" channel="HOY TV">
+    <title lang="zh">炼狗术师 II</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260421001500 +0800" stop="20260421004500 +0800" channel="HOY TV">
+    <title lang="zh">香港奇则 3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260421004500 +0800" stop="20260421010000 +0800" channel="HOY TV">
+    <title lang="zh">娱乐头条 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260421010000 +0800" stop="20260421030000 +0800" channel="HOY TV">
+    <title lang="zh">HOY 动音乐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260421030000 +0800" stop="20260421060000 +0800" channel="HOY TV">
+    <title lang="zh">鱼乐无限</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260421060000 +0800" stop="20260421070000 +0800" channel="HOY TV">
+    <title lang="zh">卧底</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260421070000 +0800" stop="20260421080000 +0800" channel="HOY TV">
+    <title lang="zh">云襄传</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260421080000 +0800" stop="20260421090000 +0800" channel="HOY TV">
+    <title lang="zh">现在很美丽</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260421090000 +0800" stop="20260421093000 +0800" channel="HOY TV">
+    <title lang="zh">炼狗术师 II</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260421093000 +0800" stop="20260421100000 +0800" channel="HOY TV">
+    <title lang="zh">好好生活在湾区</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260421100000 +0800" stop="20260421103000 +0800" channel="HOY TV">
+    <title lang="zh">他乡的煮人</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260421103000 +0800" stop="20260421113000 +0800" channel="HOY TV">
+    <title lang="zh">耀眼的秘密</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260421113000 +0800" stop="20260421123000 +0800" channel="HOY TV">
+    <title lang="zh">卧底</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260421123000 +0800" stop="20260421125500 +0800" channel="HOY TV">
+    <title lang="zh">午间新闻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260421125500 +0800" stop="20260421130000 +0800" channel="HOY TV">
+    <title lang="zh">科技园INNOPOLE呈献 : AI+引领产业革新</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260421130000 +0800" stop="20260421133000 +0800" channel="HOY TV">
+    <title lang="zh">一线搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260421133000 +0800" stop="20260421140000 +0800" channel="HOY TV">
+    <title lang="zh">煮题COOK</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260421140000 +0800" stop="20260421143000 +0800" channel="HOY TV">
+    <title lang="zh">健康关注组</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260421143000 +0800" stop="20260421150000 +0800" channel="HOY TV">
+    <title lang="zh">詹姆士出走料理</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260421150000 +0800" stop="20260421153000 +0800" channel="HOY TV">
+    <title lang="zh">因乜事周围游</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260421153000 +0800" stop="20260421160000 +0800" channel="HOY TV">
+    <title lang="zh">好好生活在湾区</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260421160000 +0800" stop="20260421163000 +0800" channel="HOY TV">
+    <title lang="zh">认真地不认真的怪侠佐罗利</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260421163000 +0800" stop="20260421170000 +0800" channel="HOY TV">
+    <title lang="zh">美斯的奥奇岛</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260421170000 +0800" stop="20260421173000 +0800" channel="HOY TV">
+    <title lang="zh">超甲虫战记 圣域传说</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260421173000 +0800" stop="20260421180000 +0800" channel="HOY TV">
+    <title lang="zh">蓝精灵</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260421180000 +0800" stop="20260421183000 +0800" channel="HOY TV">
+    <title lang="zh">香港奇则 3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260421183000 +0800" stop="20260421190000 +0800" channel="HOY TV">
+    <title lang="zh">他乡的煮人</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260421190000 +0800" stop="20260421195000 +0800" channel="HOY TV">
+    <title lang="zh">7点直播室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260421195000 +0800" stop="20260421200000 +0800" channel="HOY TV">
+    <title lang="zh">28Hse 揾楼App 特约 : 每日楼市</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260421200000 +0800" stop="20260421203000 +0800" channel="HOY TV">
+    <title lang="zh">一线搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260421203000 +0800" stop="20260421210000 +0800" channel="HOY TV">
+    <title lang="zh">煮题COOK</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260421210000 +0800" stop="20260421213000 +0800" channel="HOY TV">
+    <title lang="zh">健康关注组</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260421213000 +0800" stop="20260421220000 +0800" channel="HOY TV">
+    <title lang="zh">詹姆士出走料理</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260421220000 +0800" stop="20260421230000 +0800" channel="HOY TV">
+    <title lang="zh">耀眼的秘密</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260421230000 +0800" stop="20260421233000 +0800" channel="HOY TV">
+    <title lang="zh">有线新闻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260421233000 +0800" stop="20260421234500 +0800" channel="HOY TV">
+    <title lang="zh">娱乐头条 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260421234500 +0800" stop="20260422001500 +0800" channel="HOY TV">
+    <title lang="zh">炼狗术师 II</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260422001500 +0800" stop="20260422004500 +0800" channel="HOY TV">
+    <title lang="zh">香港奇则 3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260422004500 +0800" stop="20260422010000 +0800" channel="HOY TV">
+    <title lang="zh">娱乐头条 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260422010000 +0800" stop="20260422030000 +0800" channel="HOY TV">
+    <title lang="zh">HOY 动音乐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260422030000 +0800" stop="20260422060000 +0800" channel="HOY TV">
+    <title lang="zh">鱼乐无限</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260422060000 +0800" stop="20260422070000 +0800" channel="HOY TV">
+    <title lang="zh">卧底</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260422070000 +0800" stop="20260422080000 +0800" channel="HOY TV">
+    <title lang="zh">云襄传</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260422080000 +0800" stop="20260422090000 +0800" channel="HOY TV">
+    <title lang="zh">现在很美丽</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260422090000 +0800" stop="20260422093000 +0800" channel="HOY TV">
+    <title lang="zh">炼狗术师 II</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260422093000 +0800" stop="20260422100000 +0800" channel="HOY TV">
+    <title lang="zh">好好生活在湾区</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260422100000 +0800" stop="20260422103000 +0800" channel="HOY TV">
+    <title lang="zh">他乡的煮人</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260422103000 +0800" stop="20260422113000 +0800" channel="HOY TV">
+    <title lang="zh">耀眼的秘密</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260422113000 +0800" stop="20260422123000 +0800" channel="HOY TV">
+    <title lang="zh">卧底</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260422123000 +0800" stop="20260422130000 +0800" channel="HOY TV">
+    <title lang="zh">午间新闻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260422130000 +0800" stop="20260422133000 +0800" channel="HOY TV">
+    <title lang="zh">一线搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260422133000 +0800" stop="20260422140000 +0800" channel="HOY TV">
+    <title lang="zh">煮题COOK</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260422140000 +0800" stop="20260422143000 +0800" channel="HOY TV">
+    <title lang="zh">健康关注组</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260422143000 +0800" stop="20260422150000 +0800" channel="HOY TV">
+    <title lang="zh">詹姆士出走料理</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260422150000 +0800" stop="20260422153000 +0800" channel="HOY TV">
+    <title lang="zh">开间咖啡店 2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260422153000 +0800" stop="20260422160000 +0800" channel="HOY TV">
+    <title lang="zh">好好生活在湾区</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260422160000 +0800" stop="20260422163000 +0800" channel="HOY TV">
+    <title lang="zh">认真地不认真的怪侠佐罗利</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260422163000 +0800" stop="20260422170000 +0800" channel="HOY TV">
+    <title lang="zh">美斯的奥奇岛</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260422170000 +0800" stop="20260422173000 +0800" channel="HOY TV">
+    <title lang="zh">超甲虫战记 圣域传说</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260422173000 +0800" stop="20260422180000 +0800" channel="HOY TV">
+    <title lang="zh">蓝精灵</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260422180000 +0800" stop="20260422183000 +0800" channel="HOY TV">
+    <title lang="zh">香港奇则 3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260422183000 +0800" stop="20260422190000 +0800" channel="HOY TV">
+    <title lang="zh">他乡的煮人</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260422190000 +0800" stop="20260422194500 +0800" channel="HOY TV">
+    <title lang="zh">7点直播室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260422194500 +0800" stop="20260422195000 +0800" channel="HOY TV">
+    <title lang="zh">28Hse 揾楼App 特约 : 每日楼市</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260422195000 +0800" stop="20260422200000 +0800" channel="HOY TV">
+    <title lang="zh">科技园INNOPOLE呈献 : AI+引领产业革新</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260422200000 +0800" stop="20260422203000 +0800" channel="HOY TV">
+    <title lang="zh">一线搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260422203000 +0800" stop="20260422210000 +0800" channel="HOY TV">
+    <title lang="zh">煮题COOK</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260422210000 +0800" stop="20260422213000 +0800" channel="HOY TV">
+    <title lang="zh">健康关注组</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260422213000 +0800" stop="20260422220000 +0800" channel="HOY TV">
+    <title lang="zh">詹姆士出走料理</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260422220000 +0800" stop="20260422230000 +0800" channel="HOY TV">
+    <title lang="zh">耀眼的秘密</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260422230000 +0800" stop="20260422233000 +0800" channel="HOY TV">
+    <title lang="zh">有线新闻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260422233000 +0800" stop="20260422234500 +0800" channel="HOY TV">
+    <title lang="zh">娱乐头条 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260422234500 +0800" stop="20260423001500 +0800" channel="HOY TV">
+    <title lang="zh">炼狗术师 II</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260423001500 +0800" stop="20260423004500 +0800" channel="HOY TV">
+    <title lang="zh">香港奇则 3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260423004500 +0800" stop="20260423010000 +0800" channel="HOY TV">
+    <title lang="zh">娱乐头条 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260423010000 +0800" stop="20260423030000 +0800" channel="HOY TV">
+    <title lang="zh">HOY 动音乐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260423030000 +0800" stop="20260423060000 +0800" channel="HOY TV">
+    <title lang="zh">鱼乐无限</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260423060000 +0800" stop="20260423070000 +0800" channel="HOY TV">
+    <title lang="zh">卧底</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260423070000 +0800" stop="20260423080000 +0800" channel="HOY TV">
+    <title lang="zh">云襄传</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260423080000 +0800" stop="20260423090000 +0800" channel="HOY TV">
+    <title lang="zh">现在很美丽</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260423090000 +0800" stop="20260423093000 +0800" channel="HOY TV">
+    <title lang="zh">炼狗术师 II</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260423093000 +0800" stop="20260423100000 +0800" channel="HOY TV">
+    <title lang="zh">好好生活在湾区</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260423100000 +0800" stop="20260423103000 +0800" channel="HOY TV">
+    <title lang="zh">他乡的煮人</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260423103000 +0800" stop="20260423113000 +0800" channel="HOY TV">
+    <title lang="zh">耀眼的秘密</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260423113000 +0800" stop="20260423123000 +0800" channel="HOY TV">
+    <title lang="zh">卧底</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260423123000 +0800" stop="20260423125500 +0800" channel="HOY TV">
+    <title lang="zh">午间新闻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260423125500 +0800" stop="20260423130000 +0800" channel="HOY TV">
+    <title lang="zh">科技园INNOPOLE呈献 : AI+引领产业革新</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260423130000 +0800" stop="20260423133000 +0800" channel="HOY TV">
+    <title lang="zh">一线搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260423133000 +0800" stop="20260423140000 +0800" channel="HOY TV">
+    <title lang="zh">煮题COOK</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260423140000 +0800" stop="20260423143000 +0800" channel="HOY TV">
+    <title lang="zh">健康关注组</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260423143000 +0800" stop="20260423150000 +0800" channel="HOY TV">
+    <title lang="zh">詹姆士出走料理</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260423150000 +0800" stop="20260423153000 +0800" channel="HOY TV">
+    <title lang="zh">WeChat Pay HK 呈献 : 女行团</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260423153000 +0800" stop="20260423160000 +0800" channel="HOY TV">
+    <title lang="zh">好好生活在湾区</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260423160000 +0800" stop="20260423163000 +0800" channel="HOY TV">
+    <title lang="zh">认真地不认真的怪侠佐罗利</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260423163000 +0800" stop="20260423170000 +0800" channel="HOY TV">
+    <title lang="zh">美斯的奥奇岛</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260423170000 +0800" stop="20260423173000 +0800" channel="HOY TV">
+    <title lang="zh">雷顿 不可思议侦探社 ～卡特莉的解谜事件簿～</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260423173000 +0800" stop="20260423180000 +0800" channel="HOY TV">
+    <title lang="zh">蓝精灵</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260423180000 +0800" stop="20260423183000 +0800" channel="HOY TV">
+    <title lang="zh">香港奇则 3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260423183000 +0800" stop="20260423190000 +0800" channel="HOY TV">
+    <title lang="zh">深宵菜馆</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260423190000 +0800" stop="20260423195000 +0800" channel="HOY TV">
+    <title lang="zh">7点直播室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260423195000 +0800" stop="20260423200000 +0800" channel="HOY TV">
+    <title lang="zh">28Hse 揾楼App 特约 : 每日楼市</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260423200000 +0800" stop="20260423203000 +0800" channel="HOY TV">
+    <title lang="zh">一线搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260423203000 +0800" stop="20260423210000 +0800" channel="HOY TV">
+    <title lang="zh">煮题COOK</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260423210000 +0800" stop="20260423213000 +0800" channel="HOY TV">
+    <title lang="zh">健康关注组</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260423213000 +0800" stop="20260423220000 +0800" channel="HOY TV">
+    <title lang="zh">詹姆士出走料理</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260423220000 +0800" stop="20260423230000 +0800" channel="HOY TV">
+    <title lang="zh">耀眼的秘密</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260423230000 +0800" stop="20260423233000 +0800" channel="HOY TV">
+    <title lang="zh">有线新闻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260423233000 +0800" stop="20260423234500 +0800" channel="HOY TV">
+    <title lang="zh">娱乐头条 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260423234500 +0800" stop="20260424001500 +0800" channel="HOY TV">
+    <title lang="zh">炼狗术师 II</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260424001500 +0800" stop="20260424004500 +0800" channel="HOY TV">
+    <title lang="zh">香港奇则 3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260424004500 +0800" stop="20260424010000 +0800" channel="HOY TV">
+    <title lang="zh">娱乐头条 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260424010000 +0800" stop="20260424030000 +0800" channel="HOY TV">
+    <title lang="zh">HOY 动音乐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260424030000 +0800" stop="20260424060000 +0800" channel="HOY TV">
+    <title lang="zh">鱼乐无限</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260424060000 +0800" stop="20260424070000 +0800" channel="HOY TV">
+    <title lang="zh">卧底</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260424070000 +0800" stop="20260424080000 +0800" channel="HOY TV">
+    <title lang="zh">云襄传</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260424080000 +0800" stop="20260424090000 +0800" channel="HOY TV">
+    <title lang="zh">现在很美丽</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260424090000 +0800" stop="20260424093000 +0800" channel="HOY TV">
+    <title lang="zh">炼狗术师 II</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260424093000 +0800" stop="20260424100000 +0800" channel="HOY TV">
+    <title lang="zh">好好生活在湾区</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260424100000 +0800" stop="20260424103000 +0800" channel="HOY TV">
+    <title lang="zh">深宵菜馆</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260424103000 +0800" stop="20260424113000 +0800" channel="HOY TV">
+    <title lang="zh">耀眼的秘密</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260424113000 +0800" stop="20260424123000 +0800" channel="HOY TV">
+    <title lang="zh">卧底</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260424123000 +0800" stop="20260424130000 +0800" channel="HOY TV">
+    <title lang="zh">午间新闻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260424130000 +0800" stop="20260424133000 +0800" channel="HOY TV">
+    <title lang="zh">一线搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260424133000 +0800" stop="20260424140000 +0800" channel="HOY TV">
+    <title lang="zh">煮题COOK</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260424140000 +0800" stop="20260424143000 +0800" channel="HOY TV">
+    <title lang="zh">健康关注组</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260424143000 +0800" stop="20260424150000 +0800" channel="HOY TV">
+    <title lang="zh">詹姆士出走料理</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260424150000 +0800" stop="20260424153000 +0800" channel="HOY TV">
+    <title lang="zh">坐月攻略</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260424153000 +0800" stop="20260424160000 +0800" channel="HOY TV">
+    <title lang="zh">好好生活在湾区</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260424160000 +0800" stop="20260424163000 +0800" channel="HOY TV">
+    <title lang="zh">认真地不认真的怪侠佐罗利</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260424163000 +0800" stop="20260424170000 +0800" channel="HOY TV">
+    <title lang="zh">美斯的奥奇岛</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260424170000 +0800" stop="20260424173000 +0800" channel="HOY TV">
+    <title lang="zh">雷顿 不可思议侦探社 ～卡特莉的解谜事件簿～</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260424173000 +0800" stop="20260424180000 +0800" channel="HOY TV">
+    <title lang="zh">蓝精灵</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260424180000 +0800" stop="20260424183000 +0800" channel="HOY TV">
+    <title lang="zh">香港奇则 3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260424183000 +0800" stop="20260424190000 +0800" channel="HOY TV">
+    <title lang="zh">深宵菜馆</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260424190000 +0800" stop="20260424195000 +0800" channel="HOY TV">
+    <title lang="zh">7点直播室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260424195000 +0800" stop="20260424200000 +0800" channel="HOY TV">
+    <title lang="zh">28Hse 揾楼App 特约 : 每日楼市</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260424200000 +0800" stop="20260424203000 +0800" channel="HOY TV">
+    <title lang="zh">一线搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260424203000 +0800" stop="20260424210000 +0800" channel="HOY TV">
+    <title lang="zh">煮题COOK</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260424210000 +0800" stop="20260424213000 +0800" channel="HOY TV">
+    <title lang="zh">健康关注组</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260424213000 +0800" stop="20260424220000 +0800" channel="HOY TV">
+    <title lang="zh">詹姆士出走料理</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260424220000 +0800" stop="20260424230000 +0800" channel="HOY TV">
+    <title lang="zh">耀眼的秘密</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260424230000 +0800" stop="20260424233000 +0800" channel="HOY TV">
+    <title lang="zh">有线新闻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260424233000 +0800" stop="20260424234500 +0800" channel="HOY TV">
+    <title lang="zh">娱乐头条 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260424234500 +0800" stop="20260425004500 +0800" channel="HOY TV">
+    <title lang="zh">晚安晚安</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260425004500 +0800" stop="20260425010000 +0800" channel="HOY TV">
+    <title lang="zh">娱乐头条 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260425010000 +0800" stop="20260425030000 +0800" channel="HOY TV">
+    <title lang="zh">HOY 动音乐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260425030000 +0800" stop="20260425060000 +0800" channel="HOY TV">
+    <title lang="zh">鱼乐无限</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260425060000 +0800" stop="20260425070000 +0800" channel="HOY TV">
+    <title lang="zh">道地生豆乳特约 : 健康原因讲多D</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260425070000 +0800" stop="20260425073000 +0800" channel="HOY TV">
+    <title lang="zh">活出真我</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260425073000 +0800" stop="20260425080000 +0800" channel="HOY TV">
+    <title lang="zh">逆境追梦人</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260425080000 +0800" stop="20260425090000 +0800" channel="HOY TV">
+    <title lang="zh">滋味人生</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260425090000 +0800" stop="20260425100000 +0800" channel="HOY TV">
+    <title lang="zh">奇职修补师</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260425100000 +0800" stop="20260425103000 +0800" channel="HOY TV">
+    <title lang="zh">深宵菜馆</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260425103000 +0800" stop="20260425113000 +0800" channel="HOY TV">
+    <title lang="zh">带阿妈去旅行</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260425113000 +0800" stop="20260425123000 +0800" channel="HOY TV">
+    <title lang="zh">立邦抗甲醛净味儿童漆系列特约 : 空间改造王</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260425123000 +0800" stop="20260425130500 +0800" channel="HOY TV">
+    <title lang="zh">午间新闻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260425130500 +0800" stop="20260425133000 +0800" channel="HOY TV">
+    <title lang="zh">一线搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260425133000 +0800" stop="20260425140000 +0800" channel="HOY TV">
+    <title lang="zh">老派小店之必要</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260425140000 +0800" stop="20260425150000 +0800" channel="HOY TV">
+    <title lang="zh">滋味人生</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260425150000 +0800" stop="20260425153000 +0800" channel="HOY TV">
+    <title lang="zh">嘻哈马场</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260425153000 +0800" stop="20260425160000 +0800" channel="HOY TV">
+    <title lang="zh">活出真我</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260425160000 +0800" stop="20260425163000 +0800" channel="HOY TV">
+    <title lang="zh">汪汪队立大功</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260425163000 +0800" stop="20260425170000 +0800" channel="HOY TV">
+    <title lang="zh">宝可梦地平线：第二季 - 寻找拉库雅</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260425170000 +0800" stop="20260425173000 +0800" channel="HOY TV">
+    <title lang="zh">发酵魔法</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260425173000 +0800" stop="20260425180000 +0800" channel="HOY TV">
+    <title lang="zh">狗狗看天下</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260425180000 +0800" stop="20260425183000 +0800" channel="HOY TV">
+    <title lang="zh">我的香港故事</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260425183000 +0800" stop="20260425190000 +0800" channel="HOY TV">
+    <title lang="zh">逆境追梦人</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260425190000 +0800" stop="20260425192500 +0800" channel="HOY TV">
+    <title lang="zh">7点直播室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260425192500 +0800" stop="20260425193000 +0800" channel="HOY TV">
+    <title lang="zh">科技园INNOPOLE呈献 : AI+引领产业革新</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260425193000 +0800" stop="20260425200000 +0800" channel="HOY TV">
+    <title lang="zh">江湖菜馆</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260425200000 +0800" stop="20260425203000 +0800" channel="HOY TV">
+    <title lang="zh">安居乐业</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260425203000 +0800" stop="20260425213000 +0800" channel="HOY TV">
+    <title lang="zh">道地蜂蜜绿茶特约 : 山旮旯睇楼团</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260425213000 +0800" stop="20260425220000 +0800" channel="HOY TV">
+    <title lang="zh">WeChat Pay HK 呈献 : 女行团</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260425220000 +0800" stop="20260425223000 +0800" channel="HOY TV">
+    <title lang="zh">治愈星期六 : 见习家务男</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260425223000 +0800" stop="20260425230000 +0800" channel="HOY TV">
+    <title lang="zh">E F Interior Design呈献 : 家居设计解密室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260425230000 +0800" stop="20260425233000 +0800" channel="HOY TV">
+    <title lang="zh">HOY娱乐一周</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260425233000 +0800" stop="20260426000000 +0800" channel="HOY TV">
+    <title lang="zh">有线新闻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260426000000 +0800" stop="20260426003000 +0800" channel="HOY TV">
+    <title lang="zh">老派小店之必要</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260426003000 +0800" stop="20260426010000 +0800" channel="HOY TV">
+    <title lang="zh">小仪与13型男</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260426010000 +0800" stop="20260426030000 +0800" channel="HOY TV">
+    <title lang="zh">HOY 动音乐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260426030000 +0800" stop="20260426060000 +0800" channel="HOY TV">
+    <title lang="zh">鱼乐无限</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260426060000 +0800" stop="20260426070000 +0800" channel="HOY TV">
+    <title lang="zh">奇职修补师</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260426070000 +0800" stop="20260426073000 +0800" channel="HOY TV">
+    <title lang="zh">发酵魔法</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260426073000 +0800" stop="20260426080000 +0800" channel="HOY TV">
+    <title lang="zh">狗狗看天下</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260426080000 +0800" stop="20260426090000 +0800" channel="HOY TV">
+    <title lang="zh">植物园生态游</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260426090000 +0800" stop="20260426100000 +0800" channel="HOY TV">
+    <title lang="zh">道地生豆乳特约 : 健康原因讲多D</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260426100000 +0800" stop="20260426103000 +0800" channel="HOY TV">
+    <title lang="zh">见习家务男</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260426103000 +0800" stop="20260426110000 +0800" channel="HOY TV">
+    <title lang="zh">坐月攻略</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260426110000 +0800" stop="20260426120000 +0800" channel="HOY TV">
+    <title lang="zh">道地蜂蜜绿茶特约 : 山旮旯睇楼团</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260426120000 +0800" stop="20260426123000 +0800" channel="HOY TV">
+    <title lang="zh">HOY娱乐一周</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260426123000 +0800" stop="20260426125500 +0800" channel="HOY TV">
+    <title lang="zh">午间新闻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260426125500 +0800" stop="20260426130500 +0800" channel="HOY TV">
+    <title lang="zh">科技园INNOPOLE呈献 : AI+引领产业革新</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260426130500 +0800" stop="20260426140000 +0800" channel="HOY TV">
+    <title lang="zh">移居梦想「家」</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260426140000 +0800" stop="20260426150000 +0800" channel="HOY TV">
+    <title lang="zh">明日之星</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260426150000 +0800" stop="20260426153000 +0800" channel="HOY TV">
+    <title lang="zh">老少同乐2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260426153000 +0800" stop="20260426160000 +0800" channel="HOY TV">
+    <title lang="zh">江湖菜馆</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260426160000 +0800" stop="20260426163000 +0800" channel="HOY TV">
+    <title lang="zh">汪汪队立大功</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260426163000 +0800" stop="20260426170000 +0800" channel="HOY TV">
+    <title lang="zh">宝可梦地平线：第二季 - 寻找拉库雅</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260426170000 +0800" stop="20260426180000 +0800" channel="HOY TV">
+    <title lang="zh">植物园生态游</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260426180000 +0800" stop="20260426183000 +0800" channel="HOY TV">
+    <title lang="zh">我的香港故事</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260426183000 +0800" stop="20260426190000 +0800" channel="HOY TV">
+    <title lang="zh">脸庞・故土 - 新乡村故事</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260426190000 +0800" stop="20260426193000 +0800" channel="HOY TV">
+    <title lang="zh">7点直播室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260426193000 +0800" stop="20260426200000 +0800" channel="HOY TV">
+    <title lang="zh">五平方Squarefoot 优质楼盘专区特约 : 楼盘传真</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260426200000 +0800" stop="20260426210000 +0800" channel="HOY TV">
+    <title lang="zh">立邦抗甲醛净味儿童漆系列特约 : 空间改造王</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260426210000 +0800" stop="20260426220000 +0800" channel="HOY TV">
+    <title lang="zh">一人店长</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260426220000 +0800" stop="20260426230000 +0800" channel="HOY TV">
+    <title lang="zh">道地生豆乳特约 : 健康原因讲多D</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260426230000 +0800" stop="20260426233000 +0800" channel="HOY TV">
+    <title lang="zh">美味吞拿鱼</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260426233000 +0800" stop="20260427000000 +0800" channel="HOY TV">
+    <title lang="zh">有线新闻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260427000000 +0800" stop="20260427003000 +0800" channel="HOY TV">
+    <title lang="zh">嘻哈马场</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260427003000 +0800" stop="20260427010000 +0800" channel="HOY TV">
+    <title lang="zh">五平方Squarefoot 优质楼盘专区特约 : 楼盘传真</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260427010000 +0800" stop="20260427030000 +0800" channel="HOY TV">
+    <title lang="zh">HOY 动音乐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260427030000 +0800" stop="20260427060000 +0800" channel="HOY TV">
+    <title lang="zh">鱼乐无限</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260427060000 +0800" stop="20260427070000 +0800" channel="HOY TV">
+    <title lang="zh">卧底</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260427070000 +0800" stop="20260427080000 +0800" channel="HOY TV">
+    <title lang="zh">云襄传</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260427080000 +0800" stop="20260427090000 +0800" channel="HOY TV">
+    <title lang="zh">现在很美丽</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260427090000 +0800" stop="20260427093000 +0800" channel="HOY TV">
+    <title lang="zh">炼狗术师 II</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260427093000 +0800" stop="20260427100000 +0800" channel="HOY TV">
+    <title lang="zh">有种老板娘2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260427100000 +0800" stop="20260427103000 +0800" channel="HOY TV">
+    <title lang="zh">美味吞拿鱼</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260427103000 +0800" stop="20260427113000 +0800" channel="HOY TV">
+    <title lang="zh">耀眼的秘密</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260427113000 +0800" stop="20260427123000 +0800" channel="HOY TV">
+    <title lang="zh">卧底</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260427123000 +0800" stop="20260427130000 +0800" channel="HOY TV">
+    <title lang="zh">午间新闻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260427130000 +0800" stop="20260427133000 +0800" channel="HOY TV">
+    <title lang="zh">小仪与13型男</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260427133000 +0800" stop="20260427140000 +0800" channel="HOY TV">
+    <title lang="zh">煮题COOK</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260427140000 +0800" stop="20260427143000 +0800" channel="HOY TV">
+    <title lang="zh">健康关注组</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260427143000 +0800" stop="20260427150000 +0800" channel="HOY TV">
+    <title lang="zh">詹姆士出走料理</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260427150000 +0800" stop="20260427153000 +0800" channel="HOY TV">
+    <title lang="zh">E F Interior Design呈献 : 家居设计解密室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260427153000 +0800" stop="20260427160000 +0800" channel="HOY TV">
+    <title lang="zh">有种老板娘2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260427160000 +0800" stop="20260427163000 +0800" channel="HOY TV">
+    <title lang="zh">认真地不认真的怪侠佐罗利</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260427163000 +0800" stop="20260427170000 +0800" channel="HOY TV">
+    <title lang="zh">美斯的奥奇岛</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260427170000 +0800" stop="20260427173000 +0800" channel="HOY TV">
+    <title lang="zh">雷顿 不可思议侦探社 ～卡特莉的解谜事件簿～</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260427173000 +0800" stop="20260427180000 +0800" channel="HOY TV">
+    <title lang="zh">蓝精灵</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260427180000 +0800" stop="20260427183000 +0800" channel="HOY TV">
+    <title lang="zh">香港奇则 3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260427183000 +0800" stop="20260427190000 +0800" channel="HOY TV">
+    <title lang="zh">深宵菜馆</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260427190000 +0800" stop="20260427194500 +0800" channel="HOY TV">
+    <title lang="zh">7点直播室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260427194500 +0800" stop="20260427195000 +0800" channel="HOY TV">
+    <title lang="zh">28Hse 揾楼App 特约 : 每日楼市</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260427195000 +0800" stop="20260427200000 +0800" channel="HOY TV">
+    <title lang="zh">科技园INNOPOLE呈献 : AI+引领产业革新</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260427200000 +0800" stop="20260427203000 +0800" channel="HOY TV">
+    <title lang="zh">一线搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260427203000 +0800" stop="20260427210000 +0800" channel="HOY TV">
+    <title lang="zh">煮题COOK</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260427210000 +0800" stop="20260427213000 +0800" channel="HOY TV">
+    <title lang="zh">健康关注组</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260427213000 +0800" stop="20260427220000 +0800" channel="HOY TV">
+    <title lang="zh">詹姆士出走料理</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260427220000 +0800" stop="20260427230000 +0800" channel="HOY TV">
+    <title lang="zh">耀眼的秘密</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260427230000 +0800" stop="20260427233000 +0800" channel="HOY TV">
+    <title lang="zh">有线新闻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260427233000 +0800" stop="20260427234500 +0800" channel="HOY TV">
+    <title lang="zh">娱乐头条 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260427234500 +0800" stop="20260428001500 +0800" channel="HOY TV">
+    <title lang="zh">炼狗术师 II</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260428001500 +0800" stop="20260428004500 +0800" channel="HOY TV">
+    <title lang="zh">香港奇则 3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260428004500 +0800" stop="20260428010000 +0800" channel="HOY TV">
+    <title lang="zh">娱乐头条 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260428010000 +0800" stop="20260428030000 +0800" channel="HOY TV">
+    <title lang="zh">HOY 动音乐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260428030000 +0800" stop="20260428060000 +0800" channel="HOY TV">
+    <title lang="zh">鱼乐无限</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260428060000 +0800" stop="20260428070000 +0800" channel="HOY TV">
+    <title lang="zh">卧底</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260428070000 +0800" stop="20260428080000 +0800" channel="HOY TV">
+    <title lang="zh">云襄传</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260428080000 +0800" stop="20260428090000 +0800" channel="HOY TV">
+    <title lang="zh">现在很美丽</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260428090000 +0800" stop="20260428093000 +0800" channel="HOY TV">
+    <title lang="zh">炼狗术师 II</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260428093000 +0800" stop="20260428100000 +0800" channel="HOY TV">
+    <title lang="zh">有种老板娘2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260428100000 +0800" stop="20260428103000 +0800" channel="HOY TV">
+    <title lang="zh">深宵菜馆</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260428103000 +0800" stop="20260428113000 +0800" channel="HOY TV">
+    <title lang="zh">耀眼的秘密</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260428113000 +0800" stop="20260428123000 +0800" channel="HOY TV">
+    <title lang="zh">卧底</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260428123000 +0800" stop="20260428125500 +0800" channel="HOY TV">
+    <title lang="zh">午间新闻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260428125500 +0800" stop="20260428130000 +0800" channel="HOY TV">
+    <title lang="zh">科技园INNOPOLE呈献 : AI+引领产业革新</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260428130000 +0800" stop="20260428133000 +0800" channel="HOY TV">
+    <title lang="zh">一线搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260428133000 +0800" stop="20260428140000 +0800" channel="HOY TV">
+    <title lang="zh">煮题COOK</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260428140000 +0800" stop="20260428143000 +0800" channel="HOY TV">
+    <title lang="zh">健康关注组</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260428143000 +0800" stop="20260428150000 +0800" channel="HOY TV">
+    <title lang="zh">詹姆士出走料理</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260428150000 +0800" stop="20260428153000 +0800" channel="HOY TV">
+    <title lang="zh">安居乐业</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260428153000 +0800" stop="20260428160000 +0800" channel="HOY TV">
+    <title lang="zh">有种老板娘2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260428160000 +0800" stop="20260428163000 +0800" channel="HOY TV">
+    <title lang="zh">认真地不认真的怪侠佐罗利</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260428163000 +0800" stop="20260428170000 +0800" channel="HOY TV">
+    <title lang="zh">美斯的奥奇岛</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260428170000 +0800" stop="20260428173000 +0800" channel="HOY TV">
+    <title lang="zh">雷顿 不可思议侦探社 ～卡特莉的解谜事件簿～</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260428173000 +0800" stop="20260428180000 +0800" channel="HOY TV">
+    <title lang="zh">蓝精灵</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260428180000 +0800" stop="20260428183000 +0800" channel="HOY TV">
+    <title lang="zh">香港奇则 3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260428183000 +0800" stop="20260428190000 +0800" channel="HOY TV">
+    <title lang="zh">深宵菜馆</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260428190000 +0800" stop="20260428195000 +0800" channel="HOY TV">
+    <title lang="zh">7点直播室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260428195000 +0800" stop="20260428200000 +0800" channel="HOY TV">
+    <title lang="zh">28Hse 揾楼App 特约 : 每日楼市</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260428200000 +0800" stop="20260428203000 +0800" channel="HOY TV">
+    <title lang="zh">一线搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260428203000 +0800" stop="20260428210000 +0800" channel="HOY TV">
+    <title lang="zh">煮题COOK</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260428210000 +0800" stop="20260428213000 +0800" channel="HOY TV">
+    <title lang="zh">健康关注组</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260428213000 +0800" stop="20260428220000 +0800" channel="HOY TV">
+    <title lang="zh">詹姆士出走料理</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260428220000 +0800" stop="20260428230000 +0800" channel="HOY TV">
+    <title lang="zh">耀眼的秘密</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260428230000 +0800" stop="20260428233000 +0800" channel="HOY TV">
+    <title lang="zh">有线新闻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260428233000 +0800" stop="20260428234500 +0800" channel="HOY TV">
+    <title lang="zh">娱乐头条 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260428234500 +0800" stop="20260429001500 +0800" channel="HOY TV">
+    <title lang="zh">炼狗术师 II</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260429001500 +0800" stop="20260429004500 +0800" channel="HOY TV">
+    <title lang="zh">香港奇则 3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260429004500 +0800" stop="20260429010000 +0800" channel="HOY TV">
+    <title lang="zh">娱乐头条 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260429010000 +0800" stop="20260429030000 +0800" channel="HOY TV">
+    <title lang="zh">HOY 动音乐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260429030000 +0800" stop="20260429060000 +0800" channel="HOY TV">
+    <title lang="zh">鱼乐无限</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260429060000 +0800" stop="20260429070000 +0800" channel="HOY TV">
+    <title lang="zh">卧底</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260429070000 +0800" stop="20260429080000 +0800" channel="HOY TV">
+    <title lang="zh">云襄传</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260429080000 +0800" stop="20260429090000 +0800" channel="HOY TV">
+    <title lang="zh">现在很美丽</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260429090000 +0800" stop="20260429093000 +0800" channel="HOY TV">
+    <title lang="zh">炼狗术师 II</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260429093000 +0800" stop="20260429100000 +0800" channel="HOY TV">
+    <title lang="zh">有种老板娘2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260429100000 +0800" stop="20260429103000 +0800" channel="HOY TV">
+    <title lang="zh">深宵菜馆</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260429103000 +0800" stop="20260429113000 +0800" channel="HOY TV">
+    <title lang="zh">耀眼的秘密</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260429113000 +0800" stop="20260429123000 +0800" channel="HOY TV">
+    <title lang="zh">卧底</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260429123000 +0800" stop="20260429130000 +0800" channel="HOY TV">
+    <title lang="zh">午间新闻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260429130000 +0800" stop="20260429133000 +0800" channel="HOY TV">
+    <title lang="zh">一线搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260429133000 +0800" stop="20260429140000 +0800" channel="HOY TV">
+    <title lang="zh">煮题COOK</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260429140000 +0800" stop="20260429143000 +0800" channel="HOY TV">
+    <title lang="zh">健康关注组</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260429143000 +0800" stop="20260429150000 +0800" channel="HOY TV">
+    <title lang="zh">詹姆士出走料理</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260429150000 +0800" stop="20260429153000 +0800" channel="HOY TV">
+    <title lang="zh">开间咖啡店 2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260429153000 +0800" stop="20260429160000 +0800" channel="HOY TV">
+    <title lang="zh">有种老板娘2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260429160000 +0800" stop="20260429163000 +0800" channel="HOY TV">
+    <title lang="zh">认真地不认真的怪侠佐罗利</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260429163000 +0800" stop="20260429170000 +0800" channel="HOY TV">
+    <title lang="zh">美斯的奥奇岛</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260429170000 +0800" stop="20260429173000 +0800" channel="HOY TV">
+    <title lang="zh">雷顿 不可思议侦探社 ～卡特莉的解谜事件簿～</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260429173000 +0800" stop="20260429180000 +0800" channel="HOY TV">
+    <title lang="zh">蓝精灵</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260429180000 +0800" stop="20260429183000 +0800" channel="HOY TV">
+    <title lang="zh">香港奇则 3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260429183000 +0800" stop="20260429190000 +0800" channel="HOY TV">
+    <title lang="zh">深宵菜馆</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260429190000 +0800" stop="20260429194500 +0800" channel="HOY TV">
+    <title lang="zh">7点直播室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260429194500 +0800" stop="20260429195000 +0800" channel="HOY TV">
+    <title lang="zh">28Hse 揾楼App 特约 : 每日楼市</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260429195000 +0800" stop="20260429200000 +0800" channel="HOY TV">
+    <title lang="zh">科技园INNOPOLE呈献 : AI+引领产业革新</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260429200000 +0800" stop="20260429203000 +0800" channel="HOY TV">
+    <title lang="zh">一线搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260429203000 +0800" stop="20260429210000 +0800" channel="HOY TV">
+    <title lang="zh">煮题COOK</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260429210000 +0800" stop="20260429213000 +0800" channel="HOY TV">
+    <title lang="zh">健康关注组</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260429213000 +0800" stop="20260429220000 +0800" channel="HOY TV">
+    <title lang="zh">詹姆士出走料理</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260429220000 +0800" stop="20260429230000 +0800" channel="HOY TV">
+    <title lang="zh">耀眼的秘密</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260429230000 +0800" stop="20260429233000 +0800" channel="HOY TV">
+    <title lang="zh">有线新闻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260429233000 +0800" stop="20260429234500 +0800" channel="HOY TV">
+    <title lang="zh">娱乐头条 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260429234500 +0800" stop="20260430001500 +0800" channel="HOY TV">
+    <title lang="zh">炼狗术师 II</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260430001500 +0800" stop="20260430004500 +0800" channel="HOY TV">
+    <title lang="zh">香港奇则 3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260430004500 +0800" stop="20260430010000 +0800" channel="HOY TV">
+    <title lang="zh">娱乐头条 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260430010000 +0800" stop="20260430030000 +0800" channel="HOY TV">
+    <title lang="zh">HOY 动音乐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260430030000 +0800" stop="20260430060000 +0800" channel="HOY TV">
+    <title lang="zh">鱼乐无限</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260430060000 +0800" stop="20260430070000 +0800" channel="HOY TV">
+    <title lang="zh">卧底</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260430070000 +0800" stop="20260430080000 +0800" channel="HOY TV">
+    <title lang="zh">云襄传</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260430080000 +0800" stop="20260430090000 +0800" channel="HOY TV">
+    <title lang="zh">现在很美丽</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260430090000 +0800" stop="20260430093000 +0800" channel="HOY TV">
+    <title lang="zh">炼狗术师 II</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260430093000 +0800" stop="20260430100000 +0800" channel="HOY TV">
+    <title lang="zh">有种老板娘2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260430100000 +0800" stop="20260430103000 +0800" channel="HOY TV">
+    <title lang="zh">深宵菜馆</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260430103000 +0800" stop="20260430113000 +0800" channel="HOY TV">
+    <title lang="zh">耀眼的秘密</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260430113000 +0800" stop="20260430123000 +0800" channel="HOY TV">
+    <title lang="zh">卧底</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260430123000 +0800" stop="20260430125500 +0800" channel="HOY TV">
+    <title lang="zh">午间新闻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260430125500 +0800" stop="20260430130000 +0800" channel="HOY TV">
+    <title lang="zh">科技园INNOPOLE呈献 : AI+引领产业革新</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260430130000 +0800" stop="20260430133000 +0800" channel="HOY TV">
+    <title lang="zh">一线搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260430133000 +0800" stop="20260430140000 +0800" channel="HOY TV">
+    <title lang="zh">煮题COOK</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260430140000 +0800" stop="20260430143000 +0800" channel="HOY TV">
+    <title lang="zh">健康关注组</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260430143000 +0800" stop="20260430150000 +0800" channel="HOY TV">
+    <title lang="zh">詹姆士出走料理</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260430150000 +0800" stop="20260430153000 +0800" channel="HOY TV">
+    <title lang="zh">WeChat Pay HK 呈献 : 女行团</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260430153000 +0800" stop="20260430160000 +0800" channel="HOY TV">
+    <title lang="zh">有种老板娘2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260430160000 +0800" stop="20260430163000 +0800" channel="HOY TV">
+    <title lang="zh">认真地不认真的怪侠佐罗利</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260430163000 +0800" stop="20260430170000 +0800" channel="HOY TV">
+    <title lang="zh">美斯的奥奇岛</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260430170000 +0800" stop="20260430173000 +0800" channel="HOY TV">
+    <title lang="zh">雷顿 不可思议侦探社 ～卡特莉的解谜事件簿～</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260430173000 +0800" stop="20260430180000 +0800" channel="HOY TV">
+    <title lang="zh">蓝精灵</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260430180000 +0800" stop="20260430183000 +0800" channel="HOY TV">
+    <title lang="zh">香港奇则 3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260430183000 +0800" stop="20260430190000 +0800" channel="HOY TV">
+    <title lang="zh">南滋北味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260430190000 +0800" stop="20260430195000 +0800" channel="HOY TV">
+    <title lang="zh">7点直播室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260430195000 +0800" stop="20260430200000 +0800" channel="HOY TV">
+    <title lang="zh">28Hse 揾楼App 特约 : 每日楼市</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260430200000 +0800" stop="20260430203000 +0800" channel="HOY TV">
+    <title lang="zh">一线搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260430203000 +0800" stop="20260430210000 +0800" channel="HOY TV">
+    <title lang="zh">煮题COOK</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260430210000 +0800" stop="20260430213000 +0800" channel="HOY TV">
+    <title lang="zh">健康关注组</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260430213000 +0800" stop="20260430220000 +0800" channel="HOY TV">
+    <title lang="zh">詹姆士出走料理</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260430220000 +0800" stop="20260430230000 +0800" channel="HOY TV">
+    <title lang="zh">耀眼的秘密</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260430230000 +0800" stop="20260430233000 +0800" channel="HOY TV">
+    <title lang="zh">有线新闻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260430233000 +0800" stop="20260430234500 +0800" channel="HOY TV">
+    <title lang="zh">娱乐头条 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260430234500 +0800" stop="20260501001500 +0800" channel="HOY TV">
+    <title lang="zh">炼狗术师 II</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260501001500 +0800" stop="20260501004500 +0800" channel="HOY TV">
+    <title lang="zh">香港奇则 3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260501004500 +0800" stop="20260501010000 +0800" channel="HOY TV">
+    <title lang="zh">娱乐头条 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260501010000 +0800" stop="20260501030000 +0800" channel="HOY TV">
+    <title lang="zh">HOY 动音乐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260501030000 +0800" stop="20260501060000 +0800" channel="HOY TV">
+    <title lang="zh">鱼乐无限</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260501060000 +0800" stop="20260501070000 +0800" channel="HOY TV">
+    <title lang="zh">卧底</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260501070000 +0800" stop="20260501080000 +0800" channel="HOY TV">
+    <title lang="zh">云襄传</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260501080000 +0800" stop="20260501090000 +0800" channel="HOY TV">
+    <title lang="zh">现在很美丽</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260501090000 +0800" stop="20260501093000 +0800" channel="HOY TV">
+    <title lang="zh">炼狗术师 II</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260501093000 +0800" stop="20260501100000 +0800" channel="HOY TV">
+    <title lang="zh">有种老板娘2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260501100000 +0800" stop="20260501110000 +0800" channel="HOY TV">
+    <title lang="zh">劲食拉面大对战</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260501110000 +0800" stop="20260501113000 +0800" channel="HOY TV">
+    <title lang="zh">江湖菜馆</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260501113000 +0800" stop="20260501120000 +0800" channel="HOY TV">
+    <title lang="zh">港式流行</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260501120000 +0800" stop="20260501123000 +0800" channel="HOY TV">
+    <title lang="zh">港式流行</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260501123000 +0800" stop="20260501130000 +0800" channel="HOY TV">
+    <title lang="zh">午间新闻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260501130000 +0800" stop="20260501133000 +0800" channel="HOY TV">
+    <title lang="zh">一线搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260501133000 +0800" stop="20260501140000 +0800" channel="HOY TV">
+    <title lang="zh">煮题COOK</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260501140000 +0800" stop="20260501143000 +0800" channel="HOY TV">
+    <title lang="zh">健康关注组</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260501143000 +0800" stop="20260501150000 +0800" channel="HOY TV">
+    <title lang="zh">詹姆士出走料理</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260501150000 +0800" stop="20260501153000 +0800" channel="HOY TV">
+    <title lang="zh">坐月攻略</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260501153000 +0800" stop="20260501160000 +0800" channel="HOY TV">
+    <title lang="zh">有种老板娘2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260501160000 +0800" stop="20260501163000 +0800" channel="HOY TV">
+    <title lang="zh">认真地不认真的怪侠佐罗利</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260501163000 +0800" stop="20260501170000 +0800" channel="HOY TV">
+    <title lang="zh">美斯的奥奇岛</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260501170000 +0800" stop="20260501173000 +0800" channel="HOY TV">
+    <title lang="zh">雷顿 不可思议侦探社 ～卡特莉的解谜事件簿～</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260501173000 +0800" stop="20260501180000 +0800" channel="HOY TV">
+    <title lang="zh">蓝精灵</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260501180000 +0800" stop="20260501183000 +0800" channel="HOY TV">
+    <title lang="zh">香港奇则 3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260501183000 +0800" stop="20260501190000 +0800" channel="HOY TV">
+    <title lang="zh">南滋北味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260501190000 +0800" stop="20260501193000 +0800" channel="HOY TV">
+    <title lang="zh">7点直播室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260501193000 +0800" stop="20260501200000 +0800" channel="HOY TV">
+    <title lang="zh">饿底家家走</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260501200000 +0800" stop="20260501203000 +0800" channel="HOY TV">
+    <title lang="zh">一线搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260501203000 +0800" stop="20260501210000 +0800" channel="HOY TV">
+    <title lang="zh">煮题COOK</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260501210000 +0800" stop="20260501213000 +0800" channel="HOY TV">
+    <title lang="zh">健康关注组</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260501213000 +0800" stop="20260501220000 +0800" channel="HOY TV">
+    <title lang="zh">詹姆士出走料理</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260501220000 +0800" stop="20260501230000 +0800" channel="HOY TV">
+    <title lang="zh">耀眼的秘密</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260501230000 +0800" stop="20260501233000 +0800" channel="HOY TV">
+    <title lang="zh">有线新闻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260501233000 +0800" stop="20260501234500 +0800" channel="HOY TV">
+    <title lang="zh">娱乐头条 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260501234500 +0800" stop="20260502004500 +0800" channel="HOY TV">
+    <title lang="zh">晚安晚安</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260502004500 +0800" stop="20260502010000 +0800" channel="HOY TV">
+    <title lang="zh">娱乐头条 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260502010000 +0800" stop="20260502030000 +0800" channel="HOY TV">
+    <title lang="zh">HOY 动音乐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260502030000 +0800" stop="20260502060000 +0800" channel="HOY TV">
+    <title lang="zh">鱼乐无限</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260502060000 +0800" stop="20260502070000 +0800" channel="HOY TV">
+    <title lang="zh">道地生豆乳特约 : 健康原因讲多D</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260502070000 +0800" stop="20260502073000 +0800" channel="HOY TV">
+    <title lang="zh">异乡人</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260502073000 +0800" stop="20260502080000 +0800" channel="HOY TV">
+    <title lang="zh">逆境追梦人</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260502080000 +0800" stop="20260502090000 +0800" channel="HOY TV">
+    <title lang="zh">滋味人生</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260502090000 +0800" stop="20260502100000 +0800" channel="HOY TV">
+    <title lang="zh">奇职修补师</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260502100000 +0800" stop="20260502103000 +0800" channel="HOY TV">
+    <title lang="zh">南滋北味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260502103000 +0800" stop="20260502113000 +0800" channel="HOY TV">
+    <title lang="zh">带阿妈去旅行</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260502113000 +0800" stop="20260502123000 +0800" channel="HOY TV">
+    <title lang="zh">立邦抗甲醛净味儿童漆系列特约 : 空间改造王</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260502123000 +0800" stop="20260502130500 +0800" channel="HOY TV">
+    <title lang="zh">午间新闻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260502130500 +0800" stop="20260502133000 +0800" channel="HOY TV">
+    <title lang="zh">一线搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260502133000 +0800" stop="20260502140000 +0800" channel="HOY TV">
+    <title lang="zh">老派小店之必要</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260502140000 +0800" stop="20260502150000 +0800" channel="HOY TV">
+    <title lang="zh">滋味人生</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260502150000 +0800" stop="20260502153000 +0800" channel="HOY TV">
+    <title lang="zh">嘻哈马场</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260502153000 +0800" stop="20260502160000 +0800" channel="HOY TV">
+    <title lang="zh">异乡人</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260502160000 +0800" stop="20260502163000 +0800" channel="HOY TV">
+    <title lang="zh">汪汪队立大功</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260502163000 +0800" stop="20260502170000 +0800" channel="HOY TV">
+    <title lang="zh">宝可梦地平线：第二季 - 寻找拉库雅</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260502170000 +0800" stop="20260502180000 +0800" channel="HOY TV">
+    <title lang="zh">种出个未来</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260502180000 +0800" stop="20260502183000 +0800" channel="HOY TV">
+    <title lang="zh">踏过废墟—汶川地震幸存者的体育之路</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260502183000 +0800" stop="20260502190000 +0800" channel="HOY TV">
+    <title lang="zh">逆境追梦人</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260502190000 +0800" stop="20260502193000 +0800" channel="HOY TV">
+    <title lang="zh">7点直播室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260502193000 +0800" stop="20260502200000 +0800" channel="HOY TV">
+    <title lang="zh">亲历其「警」II</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260502200000 +0800" stop="20260502203000 +0800" channel="HOY TV">
+    <title lang="zh">安居乐业</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260502203000 +0800" stop="20260502213000 +0800" channel="HOY TV">
+    <title lang="zh">道地蜂蜜绿茶特约 : 山旮旯睇楼团</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260502213000 +0800" stop="20260502220000 +0800" channel="HOY TV">
+    <title lang="zh">WeChat Pay HK 呈献 : 女行团</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260502220000 +0800" stop="20260502223000 +0800" channel="HOY TV">
+    <title lang="zh">治愈星期六 : 见习家务男</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260502223000 +0800" stop="20260502230000 +0800" channel="HOY TV">
+    <title lang="zh">E F Interior Design呈献 : 家居设计解密室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260502230000 +0800" stop="20260502233000 +0800" channel="HOY TV">
+    <title lang="zh">HOY娱乐一周</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260502233000 +0800" stop="20260503000000 +0800" channel="HOY TV">
+    <title lang="zh">有线新闻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260503000000 +0800" stop="20260503003000 +0800" channel="HOY TV">
+    <title lang="zh">老派小店之必要</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260503003000 +0800" stop="20260503010000 +0800" channel="HOY TV">
+    <title lang="zh">小仪与13型男</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260503010000 +0800" stop="20260503030000 +0800" channel="HOY TV">
+    <title lang="zh">HOY 动音乐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260503030000 +0800" stop="20260503060000 +0800" channel="HOY TV">
+    <title lang="zh">鱼乐无限</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260503060000 +0800" stop="20260503070000 +0800" channel="HOY TV">
+    <title lang="zh">奇职修补师</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260503070000 +0800" stop="20260503080000 +0800" channel="HOY TV">
+    <title lang="zh">种出个未来</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260503080000 +0800" stop="20260503090000 +0800" channel="HOY TV">
+    <title lang="zh">植物园生态游</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260503090000 +0800" stop="20260503100000 +0800" channel="HOY TV">
+    <title lang="zh">道地生豆乳特约 : 健康原因讲多D</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260503100000 +0800" stop="20260503103000 +0800" channel="HOY TV">
+    <title lang="zh">见习家务男</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260503103000 +0800" stop="20260503110000 +0800" channel="HOY TV">
+    <title lang="zh">坐月攻略</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260503110000 +0800" stop="20260503120000 +0800" channel="HOY TV">
+    <title lang="zh">道地蜂蜜绿茶特约 : 山旮旯睇楼团</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260503120000 +0800" stop="20260503123000 +0800" channel="HOY TV">
+    <title lang="zh">HOY娱乐一周</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260503123000 +0800" stop="20260503130500 +0800" channel="HOY TV">
+    <title lang="zh">午间新闻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260503130500 +0800" stop="20260503140000 +0800" channel="HOY TV">
+    <title lang="zh">收舖后的秘密</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260503140000 +0800" stop="20260503150000 +0800" channel="HOY TV">
+    <title lang="zh">明日之星</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260503150000 +0800" stop="20260503153000 +0800" channel="HOY TV">
+    <title lang="zh">老少同乐2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260503153000 +0800" stop="20260503160000 +0800" channel="HOY TV">
+    <title lang="zh">宠物生意经</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260503160000 +0800" stop="20260503163000 +0800" channel="HOY TV">
+    <title lang="zh">汪汪队立大功</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260503163000 +0800" stop="20260503170000 +0800" channel="HOY TV">
+    <title lang="zh">宝可梦地平线：第二季 - 寻找拉库雅</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260503170000 +0800" stop="20260503180000 +0800" channel="HOY TV">
+    <title lang="zh">植物园生态游</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260503180000 +0800" stop="20260503183000 +0800" channel="HOY TV">
+    <title lang="zh">踏过废墟—汶川地震幸存者的体育之路</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260503183000 +0800" stop="20260503190000 +0800" channel="HOY TV">
+    <title lang="zh">脸庞・故土 - 新乡村故事</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260503190000 +0800" stop="20260503193000 +0800" channel="HOY TV">
+    <title lang="zh">7点直播室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260503193000 +0800" stop="20260503200000 +0800" channel="HOY TV">
+    <title lang="zh">五平方Squarefoot 优质楼盘专区特约 : 楼盘传真</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260503200000 +0800" stop="20260503210000 +0800" channel="HOY TV">
+    <title lang="zh">立邦抗甲醛净味儿童漆系列特约 : 空间改造王</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260503210000 +0800" stop="20260503213000 +0800" channel="HOY TV">
+    <title lang="zh">美食猎人</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260503213000 +0800" stop="20260503220000 +0800" channel="HOY TV">
+    <title lang="zh">杂学王</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260503220000 +0800" stop="20260503230000 +0800" channel="HOY TV">
+    <title lang="zh">道地生豆乳特约 : 健康原因讲多D</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260503230000 +0800" stop="20260503233000 +0800" channel="HOY TV">
+    <title lang="zh">美味吞拿鱼</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260503233000 +0800" stop="20260504000000 +0800" channel="HOY TV">
+    <title lang="zh">有线新闻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260504000000 +0800" stop="20260504003000 +0800" channel="HOY TV">
+    <title lang="zh">嘻哈马场</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260504003000 +0800" stop="20260504010000 +0800" channel="HOY TV">
+    <title lang="zh">五平方Squarefoot 优质楼盘专区特约 : 楼盘传真</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260504010000 +0800" stop="20260504030000 +0800" channel="HOY TV">
+    <title lang="zh">HOY 动音乐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260504030000 +0800" stop="20260504060000 +0800" channel="HOY TV">
+    <title lang="zh">鱼乐无限</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260504060000 +0800" stop="20260504063000 +0800" channel="HOY TV">
+    <title lang="zh">美食猎人</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260504063000 +0800" stop="20260504070000 +0800" channel="HOY TV">
+    <title lang="zh">杂学王</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260504070000 +0800" stop="20260504080000 +0800" channel="HOY TV">
+    <title lang="zh">云襄传</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260504080000 +0800" stop="20260504090000 +0800" channel="HOY TV">
+    <title lang="zh">现在很美丽</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260504090000 +0800" stop="20260504093000 +0800" channel="HOY TV">
+    <title lang="zh">炼狗术师 II</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260504093000 +0800" stop="20260504100000 +0800" channel="HOY TV">
+    <title lang="zh">有种老板娘2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260504100000 +0800" stop="20260504103000 +0800" channel="HOY TV">
+    <title lang="zh">美味吞拿鱼</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260504103000 +0800" stop="20260504113000 +0800" channel="HOY TV">
+    <title lang="zh">耀眼的秘密</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260504113000 +0800" stop="20260504123000 +0800" channel="HOY TV">
+    <title lang="zh">卧底</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260504123000 +0800" stop="20260504130000 +0800" channel="HOY TV">
+    <title lang="zh">午间新闻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260504130000 +0800" stop="20260504133000 +0800" channel="HOY TV">
+    <title lang="zh">小仪与13型男</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260504133000 +0800" stop="20260504140000 +0800" channel="HOY TV">
+    <title lang="zh">煮题COOK</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260504140000 +0800" stop="20260504143000 +0800" channel="HOY TV">
+    <title lang="zh">健康关注组</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260504143000 +0800" stop="20260504150000 +0800" channel="HOY TV">
+    <title lang="zh">詹姆士出走料理</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260504150000 +0800" stop="20260504153000 +0800" channel="HOY TV">
+    <title lang="zh">E F Interior Design呈献 : 家居设计解密室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260504153000 +0800" stop="20260504160000 +0800" channel="HOY TV">
+    <title lang="zh">有种老板娘2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260504160000 +0800" stop="20260504163000 +0800" channel="HOY TV">
+    <title lang="zh">认真地不认真的怪侠佐罗利</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260504163000 +0800" stop="20260504170000 +0800" channel="HOY TV">
+    <title lang="zh">美斯的奥奇岛</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260504170000 +0800" stop="20260504173000 +0800" channel="HOY TV">
+    <title lang="zh">雷顿 不可思议侦探社 ～卡特莉的解谜事件簿～</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260504173000 +0800" stop="20260504180000 +0800" channel="HOY TV">
+    <title lang="zh">蓝精灵</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260504180000 +0800" stop="20260504183000 +0800" channel="HOY TV">
+    <title lang="zh">香港奇则 3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260504183000 +0800" stop="20260504190000 +0800" channel="HOY TV">
+    <title lang="zh">南滋北味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260504190000 +0800" stop="20260504195000 +0800" channel="HOY TV">
+    <title lang="zh">7点直播室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260504195000 +0800" stop="20260504200000 +0800" channel="HOY TV">
+    <title lang="zh">28Hse 揾楼App 特约 : 每日楼市</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260504200000 +0800" stop="20260504203000 +0800" channel="HOY TV">
+    <title lang="zh">一线搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260504203000 +0800" stop="20260504210000 +0800" channel="HOY TV">
+    <title lang="zh">煮题COOK</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260504210000 +0800" stop="20260504213000 +0800" channel="HOY TV">
+    <title lang="zh">健康关注组</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260504213000 +0800" stop="20260504220000 +0800" channel="HOY TV">
+    <title lang="zh">詹姆士出走料理</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260504220000 +0800" stop="20260504230000 +0800" channel="HOY TV">
+    <title lang="zh">耀眼的秘密</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260504230000 +0800" stop="20260504233000 +0800" channel="HOY TV">
+    <title lang="zh">有线新闻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260504233000 +0800" stop="20260504234500 +0800" channel="HOY TV">
+    <title lang="zh">娱乐头条 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260504234500 +0800" stop="20260505001500 +0800" channel="HOY TV">
+    <title lang="zh">炼狗术师 II</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260505001500 +0800" stop="20260505004500 +0800" channel="HOY TV">
+    <title lang="zh">香港奇则 3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260505004500 +0800" stop="20260505010000 +0800" channel="HOY TV">
+    <title lang="zh">娱乐头条 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260505010000 +0800" stop="20260505030000 +0800" channel="HOY TV">
+    <title lang="zh">HOY 动音乐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260505030000 +0800" stop="20260505060000 +0800" channel="HOY TV">
+    <title lang="zh">鱼乐无限</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260505060000 +0800" stop="20260505070000 +0800" channel="HOY TV">
+    <title lang="zh">卧底</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260505070000 +0800" stop="20260505080000 +0800" channel="HOY TV">
+    <title lang="zh">云襄传</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260505080000 +0800" stop="20260505090000 +0800" channel="HOY TV">
+    <title lang="zh">现在很美丽</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260505090000 +0800" stop="20260505093000 +0800" channel="HOY TV">
+    <title lang="zh">炼狗术师 II</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260505093000 +0800" stop="20260505100000 +0800" channel="HOY TV">
+    <title lang="zh">有种老板娘2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260505100000 +0800" stop="20260505103000 +0800" channel="HOY TV">
+    <title lang="zh">南滋北味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260505103000 +0800" stop="20260505113000 +0800" channel="HOY TV">
+    <title lang="zh">耀眼的秘密</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260505113000 +0800" stop="20260505123000 +0800" channel="HOY TV">
+    <title lang="zh">狮子山下的故事</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260505123000 +0800" stop="20260505130000 +0800" channel="HOY TV">
+    <title lang="zh">午间新闻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260505130000 +0800" stop="20260505133000 +0800" channel="HOY TV">
+    <title lang="zh">一线搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260505133000 +0800" stop="20260505140000 +0800" channel="HOY TV">
+    <title lang="zh">煮题COOK</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260505140000 +0800" stop="20260505143000 +0800" channel="HOY TV">
+    <title lang="zh">健康关注组</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260505143000 +0800" stop="20260505150000 +0800" channel="HOY TV">
+    <title lang="zh">詹姆士出走料理</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260505150000 +0800" stop="20260505153000 +0800" channel="HOY TV">
+    <title lang="zh">安居乐业</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260505153000 +0800" stop="20260505160000 +0800" channel="HOY TV">
+    <title lang="zh">有种老板娘2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260505160000 +0800" stop="20260505163000 +0800" channel="HOY TV">
+    <title lang="zh">认真地不认真的怪侠佐罗利</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260505163000 +0800" stop="20260505170000 +0800" channel="HOY TV">
+    <title lang="zh">美斯的奥奇岛</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260505170000 +0800" stop="20260505173000 +0800" channel="HOY TV">
+    <title lang="zh">雷顿 不可思议侦探社 ～卡特莉的解谜事件簿～</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260505173000 +0800" stop="20260505180000 +0800" channel="HOY TV">
+    <title lang="zh">蓝精灵</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260505180000 +0800" stop="20260505183000 +0800" channel="HOY TV">
+    <title lang="zh">香港奇则 3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260505183000 +0800" stop="20260505190000 +0800" channel="HOY TV">
+    <title lang="zh">南滋北味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260505190000 +0800" stop="20260505195000 +0800" channel="HOY TV">
+    <title lang="zh">7点直播室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260505195000 +0800" stop="20260505200000 +0800" channel="HOY TV">
+    <title lang="zh">28Hse 揾楼App 特约 : 每日楼市</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260505200000 +0800" stop="20260505203000 +0800" channel="HOY TV">
+    <title lang="zh">一线搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260505203000 +0800" stop="20260505210000 +0800" channel="HOY TV">
+    <title lang="zh">煮题COOK</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260505210000 +0800" stop="20260505213000 +0800" channel="HOY TV">
+    <title lang="zh">健康关注组</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260505213000 +0800" stop="20260505220000 +0800" channel="HOY TV">
+    <title lang="zh">詹姆士出走料理</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260505220000 +0800" stop="20260505230000 +0800" channel="HOY TV">
+    <title lang="zh">耀眼的秘密</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260505230000 +0800" stop="20260505233000 +0800" channel="HOY TV">
+    <title lang="zh">有线新闻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260505233000 +0800" stop="20260505234500 +0800" channel="HOY TV">
+    <title lang="zh">娱乐头条 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260505234500 +0800" stop="20260506001500 +0800" channel="HOY TV">
+    <title lang="zh">炼狗术师 II</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260506001500 +0800" stop="20260506004500 +0800" channel="HOY TV">
+    <title lang="zh">香港奇则 3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260506004500 +0800" stop="20260506010000 +0800" channel="HOY TV">
+    <title lang="zh">娱乐头条 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260506010000 +0800" stop="20260506030000 +0800" channel="HOY TV">
+    <title lang="zh">HOY 动音乐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260506030000 +0800" stop="20260506060000 +0800" channel="HOY TV">
+    <title lang="zh">鱼乐无限</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260506060000 +0800" stop="20260506070000 +0800" channel="HOY TV">
+    <title lang="zh">狮子山下的故事</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260506070000 +0800" stop="20260506080000 +0800" channel="HOY TV">
+    <title lang="zh">云襄传</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260506080000 +0800" stop="20260506090000 +0800" channel="HOY TV">
+    <title lang="zh">现在很美丽</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260506090000 +0800" stop="20260506093000 +0800" channel="HOY TV">
+    <title lang="zh">炼狗术师 II</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260506093000 +0800" stop="20260506100000 +0800" channel="HOY TV">
+    <title lang="zh">有种老板娘2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260506100000 +0800" stop="20260506103000 +0800" channel="HOY TV">
+    <title lang="zh">南滋北味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260506103000 +0800" stop="20260506113000 +0800" channel="HOY TV">
+    <title lang="zh">耀眼的秘密</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260506113000 +0800" stop="20260506123000 +0800" channel="HOY TV">
+    <title lang="zh">狮子山下的故事</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260506123000 +0800" stop="20260506130000 +0800" channel="HOY TV">
+    <title lang="zh">午间新闻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260506130000 +0800" stop="20260506133000 +0800" channel="HOY TV">
+    <title lang="zh">一线搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260506133000 +0800" stop="20260506140000 +0800" channel="HOY TV">
+    <title lang="zh">煮题COOK</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260506140000 +0800" stop="20260506143000 +0800" channel="HOY TV">
+    <title lang="zh">健康关注组</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260506143000 +0800" stop="20260506150000 +0800" channel="HOY TV">
+    <title lang="zh">詹姆士出走料理</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260506150000 +0800" stop="20260506153000 +0800" channel="HOY TV">
+    <title lang="zh">开间咖啡店 2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260506153000 +0800" stop="20260506160000 +0800" channel="HOY TV">
+    <title lang="zh">有种老板娘2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260506160000 +0800" stop="20260506163000 +0800" channel="HOY TV">
+    <title lang="zh">认真地不认真的怪侠佐罗利</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260506163000 +0800" stop="20260506170000 +0800" channel="HOY TV">
+    <title lang="zh">美斯的奥奇岛</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260506170000 +0800" stop="20260506173000 +0800" channel="HOY TV">
+    <title lang="zh">雷顿 不可思议侦探社 ～卡特莉的解谜事件簿～</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260506173000 +0800" stop="20260506180000 +0800" channel="HOY TV">
+    <title lang="zh">蓝精灵</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260506180000 +0800" stop="20260506183000 +0800" channel="HOY TV">
+    <title lang="zh">香港奇则 3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260506183000 +0800" stop="20260506190000 +0800" channel="HOY TV">
+    <title lang="zh">南滋北味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260506190000 +0800" stop="20260506195000 +0800" channel="HOY TV">
+    <title lang="zh">7点直播室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260506195000 +0800" stop="20260506200000 +0800" channel="HOY TV">
+    <title lang="zh">28Hse 揾楼App 特约 : 每日楼市</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260506200000 +0800" stop="20260506203000 +0800" channel="HOY TV">
+    <title lang="zh">一线搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260506203000 +0800" stop="20260506210000 +0800" channel="HOY TV">
+    <title lang="zh">煮题COOK</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260506210000 +0800" stop="20260506213000 +0800" channel="HOY TV">
+    <title lang="zh">健康关注组</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260506213000 +0800" stop="20260506220000 +0800" channel="HOY TV">
+    <title lang="zh">詹姆士出走料理</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260506220000 +0800" stop="20260506230000 +0800" channel="HOY TV">
+    <title lang="zh">耀眼的秘密</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260506230000 +0800" stop="20260506233000 +0800" channel="HOY TV">
+    <title lang="zh">有线新闻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260506233000 +0800" stop="20260506234500 +0800" channel="HOY TV">
+    <title lang="zh">娱乐头条 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260506234500 +0800" stop="20260507001500 +0800" channel="HOY TV">
+    <title lang="zh">炼狗术师 II</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260507001500 +0800" stop="20260507004500 +0800" channel="HOY TV">
+    <title lang="zh">香港奇则 3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260507004500 +0800" stop="20260507010000 +0800" channel="HOY TV">
+    <title lang="zh">娱乐头条 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260507010000 +0800" stop="20260507030000 +0800" channel="HOY TV">
+    <title lang="zh">HOY 动音乐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260507030000 +0800" stop="20260507060000 +0800" channel="HOY TV">
+    <title lang="zh">鱼乐无限</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260507060000 +0800" stop="20260507070000 +0800" channel="HOY TV">
+    <title lang="zh">狮子山下的故事</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260507070000 +0800" stop="20260507080000 +0800" channel="HOY TV">
+    <title lang="zh">云襄传</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260507080000 +0800" stop="20260507090000 +0800" channel="HOY TV">
+    <title lang="zh">现在很美丽</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260507090000 +0800" stop="20260507093000 +0800" channel="HOY TV">
+    <title lang="zh">炼狗术师 II</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260507093000 +0800" stop="20260507100000 +0800" channel="HOY TV">
+    <title lang="zh">有种老板娘2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260507100000 +0800" stop="20260507103000 +0800" channel="HOY TV">
+    <title lang="zh">南滋北味</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260507103000 +0800" stop="20260507113000 +0800" channel="HOY TV">
+    <title lang="zh">耀眼的秘密</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260507113000 +0800" stop="20260507123000 +0800" channel="HOY TV">
+    <title lang="zh">狮子山下的故事</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260507123000 +0800" stop="20260507130000 +0800" channel="HOY TV">
+    <title lang="zh">午间新闻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260507130000 +0800" stop="20260507133000 +0800" channel="HOY TV">
+    <title lang="zh">一线搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260507133000 +0800" stop="20260507140000 +0800" channel="HOY TV">
+    <title lang="zh">煮题COOK</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260507140000 +0800" stop="20260507143000 +0800" channel="HOY TV">
+    <title lang="zh">健康关注组</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260507143000 +0800" stop="20260507150000 +0800" channel="HOY TV">
+    <title lang="zh">詹姆士出走料理</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260507150000 +0800" stop="20260507153000 +0800" channel="HOY TV">
+    <title lang="zh">WeChat Pay HK 呈献 : 女行团</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260507153000 +0800" stop="20260507160000 +0800" channel="HOY TV">
+    <title lang="zh">有种老板娘2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260507160000 +0800" stop="20260507163000 +0800" channel="HOY TV">
+    <title lang="zh">认真地不认真的怪侠佐罗利</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260507163000 +0800" stop="20260507170000 +0800" channel="HOY TV">
+    <title lang="zh">美斯的奥奇岛</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260507170000 +0800" stop="20260507173000 +0800" channel="HOY TV">
+    <title lang="zh">雷顿 不可思议侦探社 ～卡特莉的解谜事件簿～</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260507173000 +0800" stop="20260507180000 +0800" channel="HOY TV">
+    <title lang="zh">蓝精灵</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260507180000 +0800" stop="20260507183000 +0800" channel="HOY TV">
+    <title lang="zh">香港奇则 3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260507183000 +0800" stop="20260507190000 +0800" channel="HOY TV">
+    <title lang="zh">来顿烧烤</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260507190000 +0800" stop="20260507195000 +0800" channel="HOY TV">
+    <title lang="zh">7点直播室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260507195000 +0800" stop="20260507200000 +0800" channel="HOY TV">
+    <title lang="zh">28Hse 揾楼App 特约 : 每日楼市</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260507200000 +0800" stop="20260507203000 +0800" channel="HOY TV">
+    <title lang="zh">一线搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260507203000 +0800" stop="20260507210000 +0800" channel="HOY TV">
+    <title lang="zh">煮题COOK</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260507210000 +0800" stop="20260507213000 +0800" channel="HOY TV">
+    <title lang="zh">健康关注组</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260507213000 +0800" stop="20260507220000 +0800" channel="HOY TV">
+    <title lang="zh">詹姆士出走料理</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260507220000 +0800" stop="20260507230000 +0800" channel="HOY TV">
+    <title lang="zh">耀眼的秘密</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260507230000 +0800" stop="20260507233000 +0800" channel="HOY TV">
+    <title lang="zh">有线新闻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260507233000 +0800" stop="20260507234500 +0800" channel="HOY TV">
+    <title lang="zh">娱乐头条 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260507234500 +0800" stop="20260508001500 +0800" channel="HOY TV">
+    <title lang="zh">炼狗术师 II</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260508001500 +0800" stop="20260508004500 +0800" channel="HOY TV">
+    <title lang="zh">香港奇则 3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260508004500 +0800" stop="20260508010000 +0800" channel="HOY TV">
+    <title lang="zh">娱乐头条 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260508010000 +0800" stop="20260508030000 +0800" channel="HOY TV">
+    <title lang="zh">HOY 动音乐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260508030000 +0800" stop="20260508060000 +0800" channel="HOY TV">
+    <title lang="zh">鱼乐无限</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260508060000 +0800" stop="20260508070000 +0800" channel="HOY TV">
+    <title lang="zh">狮子山下的故事</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260508070000 +0800" stop="20260508080000 +0800" channel="HOY TV">
+    <title lang="zh">云襄传</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260508080000 +0800" stop="20260508090000 +0800" channel="HOY TV">
+    <title lang="zh">现在很美丽</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260508090000 +0800" stop="20260508093000 +0800" channel="HOY TV">
+    <title lang="zh">炼狗术师 II</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260508093000 +0800" stop="20260508100000 +0800" channel="HOY TV">
+    <title lang="zh">有种老板娘2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260508100000 +0800" stop="20260508103000 +0800" channel="HOY TV">
+    <title lang="zh">来顿烧烤</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260508103000 +0800" stop="20260508113000 +0800" channel="HOY TV">
+    <title lang="zh">耀眼的秘密</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260508113000 +0800" stop="20260508123000 +0800" channel="HOY TV">
+    <title lang="zh">狮子山下的故事</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260508123000 +0800" stop="20260508130000 +0800" channel="HOY TV">
+    <title lang="zh">午间新闻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260508130000 +0800" stop="20260508133000 +0800" channel="HOY TV">
+    <title lang="zh">一线搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260508133000 +0800" stop="20260508140000 +0800" channel="HOY TV">
+    <title lang="zh">煮题COOK</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260508140000 +0800" stop="20260508143000 +0800" channel="HOY TV">
+    <title lang="zh">健康关注组</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260508143000 +0800" stop="20260508150000 +0800" channel="HOY TV">
+    <title lang="zh">詹姆士出走料理</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260508150000 +0800" stop="20260508153000 +0800" channel="HOY TV">
+    <title lang="zh">坐月攻略</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260508153000 +0800" stop="20260508160000 +0800" channel="HOY TV">
+    <title lang="zh">有种老板娘2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260508160000 +0800" stop="20260508163000 +0800" channel="HOY TV">
+    <title lang="zh">认真地不认真的怪侠佐罗利</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260508163000 +0800" stop="20260508170000 +0800" channel="HOY TV">
+    <title lang="zh">美斯的奥奇岛</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260508170000 +0800" stop="20260508173000 +0800" channel="HOY TV">
+    <title lang="zh">雷顿 不可思议侦探社 ～卡特莉的解谜事件簿～</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260508173000 +0800" stop="20260508180000 +0800" channel="HOY TV">
+    <title lang="zh">蓝精灵</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260508180000 +0800" stop="20260508183000 +0800" channel="HOY TV">
+    <title lang="zh">香港奇则 3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260508183000 +0800" stop="20260508190000 +0800" channel="HOY TV">
+    <title lang="zh">来顿烧烤</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260508190000 +0800" stop="20260508195000 +0800" channel="HOY TV">
+    <title lang="zh">7点直播室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260508195000 +0800" stop="20260508200000 +0800" channel="HOY TV">
+    <title lang="zh">28Hse 揾楼App 特约 : 每日楼市</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260508200000 +0800" stop="20260508203000 +0800" channel="HOY TV">
+    <title lang="zh">一线搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260508203000 +0800" stop="20260508210000 +0800" channel="HOY TV">
+    <title lang="zh">煮题COOK</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260508210000 +0800" stop="20260508213000 +0800" channel="HOY TV">
+    <title lang="zh">健康关注组</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260508213000 +0800" stop="20260508220000 +0800" channel="HOY TV">
+    <title lang="zh">詹姆士出走料理</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260508220000 +0800" stop="20260508230000 +0800" channel="HOY TV">
+    <title lang="zh">耀眼的秘密</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260508230000 +0800" stop="20260508233000 +0800" channel="HOY TV">
+    <title lang="zh">有线新闻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260508233000 +0800" stop="20260508234500 +0800" channel="HOY TV">
+    <title lang="zh">娱乐头条 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260508234500 +0800" stop="20260509004500 +0800" channel="HOY TV">
+    <title lang="zh">晚安晚安</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260509004500 +0800" stop="20260509010000 +0800" channel="HOY TV">
+    <title lang="zh">娱乐头条 E-news Headline</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260509010000 +0800" stop="20260509030000 +0800" channel="HOY TV">
+    <title lang="zh">HOY 动音乐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260509030000 +0800" stop="20260509060000 +0800" channel="HOY TV">
+    <title lang="zh">鱼乐无限</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260509060000 +0800" stop="20260509070000 +0800" channel="HOY TV">
+    <title lang="zh">道地生豆乳特约 : 健康原因讲多D</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260509070000 +0800" stop="20260509073000 +0800" channel="HOY TV">
+    <title lang="zh">异乡人</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260509073000 +0800" stop="20260509080000 +0800" channel="HOY TV">
+    <title lang="zh">逆境追梦人</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260509080000 +0800" stop="20260509090000 +0800" channel="HOY TV">
+    <title lang="zh">寻找高端美食</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260509090000 +0800" stop="20260509100000 +0800" channel="HOY TV">
+    <title lang="zh">奇职修补师</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260509100000 +0800" stop="20260509103000 +0800" channel="HOY TV">
+    <title lang="zh">来顿烧烤</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260509103000 +0800" stop="20260509113000 +0800" channel="HOY TV">
+    <title lang="zh">带阿妈去旅行</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260509113000 +0800" stop="20260509123000 +0800" channel="HOY TV">
+    <title lang="zh">立邦抗甲醛净味儿童漆系列特约 : 空间改造王</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260509123000 +0800" stop="20260509130500 +0800" channel="HOY TV">
+    <title lang="zh">午间新闻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260509130500 +0800" stop="20260509133000 +0800" channel="HOY TV">
+    <title lang="zh">一线搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260509133000 +0800" stop="20260509140000 +0800" channel="HOY TV">
+    <title lang="zh">老派美食之必要</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260509140000 +0800" stop="20260509150000 +0800" channel="HOY TV">
+    <title lang="zh">寻找高端美食</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260509150000 +0800" stop="20260509153000 +0800" channel="HOY TV">
+    <title lang="zh">嘻哈马场</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260509153000 +0800" stop="20260509160000 +0800" channel="HOY TV">
+    <title lang="zh">异乡人</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260509160000 +0800" stop="20260509163000 +0800" channel="HOY TV">
+    <title lang="zh">汪汪队立大功</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260509163000 +0800" stop="20260509170000 +0800" channel="HOY TV">
+    <title lang="zh">宝可梦地平线：第二季 - 寻找拉库雅</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260509170000 +0800" stop="20260509180000 +0800" channel="HOY TV">
+    <title lang="zh">海女故事</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260509180000 +0800" stop="20260509183000 +0800" channel="HOY TV">
+    <title lang="zh">踏过废墟—汶川地震幸存者的体育之路</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260509183000 +0800" stop="20260509190000 +0800" channel="HOY TV">
+    <title lang="zh">逆境追梦人</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260509190000 +0800" stop="20260509193000 +0800" channel="HOY TV">
+    <title lang="zh">7点直播室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260509193000 +0800" stop="20260509200000 +0800" channel="HOY TV">
+    <title lang="zh">亲历其「警」II</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260509200000 +0800" stop="20260509203000 +0800" channel="HOY TV">
+    <title lang="zh">安居乐业</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260509203000 +0800" stop="20260509213000 +0800" channel="HOY TV">
+    <title lang="zh">道地蜂蜜绿茶特约 : 山旮旯睇楼团</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260509213000 +0800" stop="20260509220000 +0800" channel="HOY TV">
+    <title lang="zh">WeChat Pay HK 呈献 : 女行团</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260509220000 +0800" stop="20260509223000 +0800" channel="HOY TV">
+    <title lang="zh">地胆带路日本游</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260509223000 +0800" stop="20260509230000 +0800" channel="HOY TV">
+    <title lang="zh">E F Interior Design呈献 : 家居设计解密室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260509230000 +0800" stop="20260509233000 +0800" channel="HOY TV">
+    <title lang="zh">HOY娱乐一周</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260509233000 +0800" stop="20260510000000 +0800" channel="HOY TV">
+    <title lang="zh">有线新闻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260510000000 +0800" stop="20260510003000 +0800" channel="HOY TV">
+    <title lang="zh">老派美食之必要</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260510003000 +0800" stop="20260510010000 +0800" channel="HOY TV">
+    <title lang="zh">小仪与13型男</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260510010000 +0800" stop="20260510030000 +0800" channel="HOY TV">
+    <title lang="zh">HOY 动音乐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260510030000 +0800" stop="20260510060000 +0800" channel="HOY TV">
+    <title lang="zh">鱼乐无限</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260510060000 +0800" stop="20260510070000 +0800" channel="HOY TV">
+    <title lang="zh">奇职修补师</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260510070000 +0800" stop="20260510080000 +0800" channel="HOY TV">
+    <title lang="zh">海女故事</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260510080000 +0800" stop="20260510090000 +0800" channel="HOY TV">
+    <title lang="zh">香料贸易之路</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260510090000 +0800" stop="20260510100000 +0800" channel="HOY TV">
+    <title lang="zh">道地生豆乳特约 : 健康原因讲多D</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260510100000 +0800" stop="20260510103000 +0800" channel="HOY TV">
+    <title lang="zh">地胆带路日本游</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260510103000 +0800" stop="20260510110000 +0800" channel="HOY TV">
+    <title lang="zh">坐月攻略</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260510110000 +0800" stop="20260510120000 +0800" channel="HOY TV">
+    <title lang="zh">道地蜂蜜绿茶特约 : 山旮旯睇楼团</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260510120000 +0800" stop="20260510123000 +0800" channel="HOY TV">
+    <title lang="zh">HOY娱乐一周</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260510123000 +0800" stop="20260510130500 +0800" channel="HOY TV">
+    <title lang="zh">午间新闻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260510130500 +0800" stop="20260510140000 +0800" channel="HOY TV">
+    <title lang="zh">收舖后的秘密</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260510140000 +0800" stop="20260510150000 +0800" channel="HOY TV">
+    <title lang="zh">明日之星</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260510150000 +0800" stop="20260510153000 +0800" channel="HOY TV">
+    <title lang="zh">老少同乐2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260510153000 +0800" stop="20260510160000 +0800" channel="HOY TV">
+    <title lang="zh">宠物生意经</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260510160000 +0800" stop="20260510163000 +0800" channel="HOY TV">
+    <title lang="zh">汪汪队立大功</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260510163000 +0800" stop="20260510170000 +0800" channel="HOY TV">
+    <title lang="zh">宝可梦地平线：第二季 - 寻找拉库雅</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260510170000 +0800" stop="20260510180000 +0800" channel="HOY TV">
+    <title lang="zh">香料贸易之路</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260510180000 +0800" stop="20260510183000 +0800" channel="HOY TV">
+    <title lang="zh">踏过废墟—汶川地震幸存者的体育之路</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260510183000 +0800" stop="20260510190000 +0800" channel="HOY TV">
+    <title lang="zh">发酵魔法</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260510190000 +0800" stop="20260510193000 +0800" channel="HOY TV">
+    <title lang="zh">7点直播室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260510193000 +0800" stop="20260510200000 +0800" channel="HOY TV">
+    <title lang="zh">五平方Squarefoot 优质楼盘专区特约 : 楼盘传真</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260510200000 +0800" stop="20260510210000 +0800" channel="HOY TV">
+    <title lang="zh">立邦抗甲醛净味儿童漆系列特约 : 空间改造王</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260510210000 +0800" stop="20260510213000 +0800" channel="HOY TV">
+    <title lang="zh">美食猎人</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260510213000 +0800" stop="20260510220000 +0800" channel="HOY TV">
+    <title lang="zh">杂学王</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260510220000 +0800" stop="20260510230000 +0800" channel="HOY TV">
+    <title lang="zh">道地生豆乳特约 : 健康原因讲多D</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260510230000 +0800" stop="20260510233000 +0800" channel="HOY TV">
+    <title lang="zh">美味吞拿鱼</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260510233000 +0800" stop="20260511000000 +0800" channel="HOY TV">
+    <title lang="zh">有线新闻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260511000000 +0800" stop="20260511003000 +0800" channel="HOY TV">
+    <title lang="zh">嘻哈马场</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260511003000 +0800" stop="20260511010000 +0800" channel="HOY TV">
+    <title lang="zh">五平方Squarefoot 优质楼盘专区特约 : 楼盘传真</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260511010000 +0800" stop="20260511030000 +0800" channel="HOY TV">
+    <title lang="zh">HOY 动音乐</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260511030000 +0800" stop="20260511060000 +0800" channel="HOY TV">
+    <title lang="zh">鱼乐无限</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260511060000 +0800" stop="20260511070000 +0800" channel="HOY TV">
+    <title lang="zh">狮子山下的故事</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260511070000 +0800" stop="20260511080000 +0800" channel="HOY TV">
+    <title lang="zh">云襄传</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260511080000 +0800" stop="20260511090000 +0800" channel="HOY TV">
+    <title lang="zh">现在很美丽</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260511090000 +0800" stop="20260511093000 +0800" channel="HOY TV">
+    <title lang="zh">炼狗术师 II</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260511093000 +0800" stop="20260511100000 +0800" channel="HOY TV">
+    <title lang="zh">有种老板娘2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260511100000 +0800" stop="20260511103000 +0800" channel="HOY TV">
+    <title lang="zh">美味吞拿鱼</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260511103000 +0800" stop="20260511113000 +0800" channel="HOY TV">
+    <title lang="zh">耀眼的秘密</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260511113000 +0800" stop="20260511123000 +0800" channel="HOY TV">
+    <title lang="zh">狮子山下的故事</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260511123000 +0800" stop="20260511130000 +0800" channel="HOY TV">
+    <title lang="zh">午间新闻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260511130000 +0800" stop="20260511133000 +0800" channel="HOY TV">
+    <title lang="zh">小仪与13型男</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260511133000 +0800" stop="20260511140000 +0800" channel="HOY TV">
+    <title lang="zh">煮题COOK</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260511140000 +0800" stop="20260511143000 +0800" channel="HOY TV">
+    <title lang="zh">健康关注组</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260511143000 +0800" stop="20260511150000 +0800" channel="HOY TV">
+    <title lang="zh">詹姆士出走料理</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260511150000 +0800" stop="20260511153000 +0800" channel="HOY TV">
+    <title lang="zh">E F Interior Design呈献 : 家居设计解密室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260511153000 +0800" stop="20260511160000 +0800" channel="HOY TV">
+    <title lang="zh">有种老板娘2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260511160000 +0800" stop="20260511163000 +0800" channel="HOY TV">
+    <title lang="zh">认真地不认真的怪侠佐罗利</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260511163000 +0800" stop="20260511170000 +0800" channel="HOY TV">
+    <title lang="zh">美斯的奥奇岛</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260511170000 +0800" stop="20260511173000 +0800" channel="HOY TV">
+    <title lang="zh">雷顿 不可思议侦探社 ～卡特莉的解谜事件簿～</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260511173000 +0800" stop="20260511180000 +0800" channel="HOY TV">
+    <title lang="zh">蓝精灵</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260511180000 +0800" stop="20260511183000 +0800" channel="HOY TV">
+    <title lang="zh">香港奇则 3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260511183000 +0800" stop="20260511190000 +0800" channel="HOY TV">
+    <title lang="zh">来顿烧烤</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260511190000 +0800" stop="20260511195000 +0800" channel="HOY TV">
+    <title lang="zh">7点直播室</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260511195000 +0800" stop="20260511200000 +0800" channel="HOY TV">
+    <title lang="zh">28Hse 揾楼App 特约 : 每日楼市</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260511200000 +0800" stop="20260511203000 +0800" channel="HOY TV">
+    <title lang="zh">一线搜查</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260511203000 +0800" stop="20260511210000 +0800" channel="HOY TV">
+    <title lang="zh">健康关注组</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260511210000 +0800" stop="20260511213000 +0800" channel="HOY TV">
+    <title lang="zh">詹姆士出走料理</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260511213000 +0800" stop="20260511220000 +0800" channel="HOY TV">
+    <title lang="zh">酒匀全亚洲</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260511220000 +0800" stop="20260511230000 +0800" channel="HOY TV">
+    <title lang="zh">无忧渡</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260511230000 +0800" stop="20260511233000 +0800" channel="HOY TV">
+    <title lang="zh">有线新闻</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260511233000 +0800" stop="20260511234500 +0800" channel="HOY TV">
+    <title lang="zh">娱乐头条 E-news Headline</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260420000000 +0800" stop="20260420003000 +0800" channel="HOY 资讯台">
@@ -558528,10 +561551,6 @@
     <title lang="zh">WORLD-CLASS K-DOL</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260503161500 +0000" stop="20260503181500 +0000" channel="中视">
-    <title lang="zh">饥饿游戏</title>
-    <desc lang="zh">今天的战友，明天的敌人，永远无法预知下一关将跟与谁合作。唯有带著「玩下去、吃下去」的精神，继续获得食物充饥让饥饿指数归零，才是最后赢家！</desc>
-  </programme>
   <programme start="20260503181500 +0000" stop="20260503201500 +0000" channel="中视">
     <title lang="zh">综艺玩很大</title>
     <desc lang="zh">由本土天王吴宗宪主持，打造台湾电视史上第一个最真实的外景实境秀。每趟旅程带领8位艺人，挑战时间内募集返家所需旅费。成功队伍可以顺利回家，失败队则直接被流放当地，露宿街头。综艺玩很大，要玩就玩大的！</desc>
@@ -559044,10 +562063,6 @@
     <title lang="zh">价值型投资</title>
     <desc lang="zh">当行情出现震荡、盘势不明时，相信投资人一定会开始转向价值型投资，节目中将推荐适合的标的，提供投资人参考。</desc>
   </programme>
-  <programme start="20260503180000 +0000" stop="20260503190000 +0000" channel="华视">
-    <title lang="zh">华视2400夜间新闻</title>
-    <desc lang="zh">由专业华视主播带来最即时、最完整、最专业的新闻报导。</desc>
-  </programme>
   <programme start="20260503190000 +0000" stop="20260503200000 +0000" channel="华视">
     <title lang="zh">新闻高峰会</title>
     <desc lang="zh">华视新闻部制作的人物专访节目，由新闻台台长陈雅琳身兼制作人与主持人，邀请各新闻发烧人物、各领域领袖人物，与雅琳主播进行深度对谈。</desc>
@@ -559487,14 +562502,6 @@
   <programme start="20260508073000 +0000" stop="20260508075500 +0000" channel="华视">
     <title lang="zh">健康早知道</title>
     <desc lang="zh">华视制播健康资讯节目，介绍全方位的健康知识、饮食健康、预防癌症，远离三高、慢性病。由资深医药记者洪素卿主持，每周邀各领域专家，畅谈日常生活会遇到的健康故事，并分享给长辈的健康保健的知识，介绍自我保健秘诀与养生方式。</desc>
-  </programme>
-  <programme start="20260503180000 +0000" stop="20260503190000 +0000" channel="好消息2台">
-    <title lang="zh">道在人间(国)</title>
-    <desc lang="zh">节目中邀请赵镛基、叶光明、杰克海福德、乔依丝迈尔等，国内外知名牧长，以丰富的服事经历与扎实的神学装备，教导、传讲圣经真道，坚固信徒并警醒人心。</desc>
-  </programme>
-  <programme start="20260503190000 +0000" stop="20260503193000 +0000" channel="好消息2台">
-    <title lang="zh">空中圣经学院</title>
-    <desc lang="zh">由GOOD TV和中华福音神学院共同制作推出。这是历史性的一刻，神的话语要透过卫星传送至全世界，实现平信徒神学教育之梦。</desc>
   </programme>
   <programme start="20260503193000 +0000" stop="20260503200000 +0000" channel="好消息2台">
     <title lang="zh">生命的赢家</title>
@@ -560331,10 +563338,6 @@
   <programme start="20260508073000 +0000" stop="20260508080000 +0000" channel="好消息2台">
     <title lang="zh">福气人生</title>
     <desc lang="zh">如何才能拥有福气人生?看牧师们以台语分享圣经的真理，让你领受天国满满的福气与祝福。</desc>
-  </programme>
-  <programme start="20260503181500 +0000" stop="20260503190000 +0000" channel="好消息">
-    <title lang="zh">与天使有约</title>
-    <desc lang="zh">天使莫妮卡（萝玛道尼）被派下凡帮助遇上人生十字路口的凡人解决困难，而黛丝（黛拉丽丝）则是辅导她的上级天使，总是能适时指引莫妮卡做出正确判断；加上常与两人合作、身兼"死亡天使"之职的安德鲁（约翰戴），这三位天使虽无法完满解决所有人的问题，却总能为人们带来希望…</desc>
   </programme>
   <programme start="20260503190000 +0000" stop="20260503200000 +0000" channel="好消息">
     <title lang="zh">空中礼拜堂</title>
@@ -561240,14 +564243,6 @@
     <title lang="zh">精选系列生命更新专题</title>
     <desc lang="zh">好消息电视台制作的一系列特别节目，内容围绕生命更新、信仰成长、圣经真理，旨在帮助观众认识耶稣、建立门徒生活，涵盖见证分享、专题讲座、职场／家庭／亲子等多元主题，是华人基督徒信仰造就的重要资源。</desc>
   </programme>
-  <programme start="20260503183000 +0000" stop="20260503190000 +0000" channel="ELTV生活英语台">
-    <title lang="zh">聪明学文法</title>
-    <desc lang="zh">专为文法学习打造的系列，透过主持人分析情境对话，搭配上神奇的专属道具「数位文法桌」，不论是在解释字词与语法，或句型结构调整，都能用操作的手法令学习者一目了然。有了神奇的数位文法桌，你也能够用聪明的方式来学文法了！</desc>
-  </programme>
-  <programme start="20260503190000 +0000" stop="20260503193000 +0000" channel="ELTV生活英语台">
-    <title lang="zh">DT踹贡</title>
-    <desc lang="zh">由剑桥大学认证KET、PET、FCE检定考特训老师David Tan主讲，内容包含与时事相关的英语单字、有趣的学习经验分享，以及如何用英文讨论热门话题。</desc>
-  </programme>
   <programme start="20260503193000 +0000" stop="20260503200000 +0000" channel="ELTV生活英语台">
     <title lang="zh">DT踹贡</title>
     <desc lang="zh">由剑桥大学认证KET、PET、FCE检定考特训老师David Tan主讲，内容包含与时事相关的英语单字、有趣的学习经验分享，以及如何用英文讨论热门话题。</desc>
@@ -562103,14 +565098,6 @@
   <programme start="20260508073000 +0000" stop="20260508080000 +0000" channel="ELTV生活英语台">
     <title lang="zh">欢唱小精灵</title>
     <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260503183000 +0000" stop="20260503190000 +0000" channel="龙华卡通台">
-    <title lang="zh">哈利与邦尼</title>
-    <desc lang="zh">哈利是一个年轻的魔术师，发明各种魔术吸引观众，但常常发挥不好。为了进入魔术学院，请邦尼作为他的道具兔子进行表演，没想到却反而被邦尼抢了风头，两人意外一起成为了魔术学院的学生，开始吵吵闹闹的欢乐日常。</desc>
-  </programme>
-  <programme start="20260503190000 +0000" stop="20260503193000 +0000" channel="龙华卡通台">
-    <title lang="zh">捣蛋拉茶铺</title>
-    <desc lang="zh">热爱拉茶的老板，和自信满满的服务生狗狗，在飘著香气的拉茶铺里享受著惬意的时光。然而一切平静，都被一只捣蛋的猴子破坏了！为了赶走猴子，狗狗与猴子的战斗即将展开！</desc>
   </programme>
   <programme start="20260503193000 +0000" stop="20260503200000 +0000" channel="龙华卡通台">
     <title lang="zh">捣蛋拉茶铺</title>
@@ -562980,10 +565967,6 @@
     <title lang="zh">捣蛋拉茶铺</title>
     <desc lang="zh">热爱拉茶的老板，和自信满满的服务生狗狗，在飘著香气的拉茶铺里享受著惬意的时光。然而一切平静，都被一只捣蛋的猴子破坏了！为了赶走猴子，狗狗与猴子的战斗即将展开！</desc>
   </programme>
-  <programme start="20260503180000 +0000" stop="20260503190000 +0000" channel="亚洲旅游台">
-    <title lang="zh">33厨房</title>
-    <desc lang="zh">电影圈的大明星林美秀首度跨足综艺接主持棒，即将大展厨艺与观众们一起美味上菜！</desc>
-  </programme>
   <programme start="20260503190000 +0000" stop="20260503200000 +0000" channel="亚洲旅游台">
     <title lang="zh">融融历险记</title>
     <desc lang="zh">《融融历险记 Ben’s Adventure》的创办人Ben，立志前往那些没有人要去的地方。走过五大洲75余国，喜欢拍影片更爱与当地人交流，因为这才是旅行真正的意义。「旅行的意义是什么？」旅行的意义，看不同的风景，认识不同的人，领略不同的美好，让你觉得世界那么大。</desc>
@@ -563347,10 +566330,6 @@
   <programme start="20260508070000 +0000" stop="20260508080000 +0000" channel="亚洲旅游台">
     <title lang="zh">融融历险记</title>
     <desc lang="zh">《融融历险记 Ben’s Adventure》的创办人Ben，立志前往那些没有人要去的地方。走过五大洲75余国，喜欢拍影片更爱与当地人交流，因为这才是旅行真正的意义。「旅行的意义是什么？」旅行的意义，看不同的风景，认识不同的人，领略不同的美好，让你觉得世界那么大。</desc>
-  </programme>
-  <programme start="20260503180000 +0000" stop="20260503190000 +0000" channel="Smart知识台">
-    <title lang="zh">健康2.0</title>
-    <desc lang="zh">在节目中，将以各种深入浅出的方式，检测时下流行的健康产品的效用，示范健康烹调与运动方法，并与观众分享照顾家人的健康资讯与心得。</desc>
   </programme>
   <programme start="20260503190000 +0000" stop="20260503200000 +0000" channel="Smart知识台">
     <title lang="zh">全民星攻略</title>
@@ -563788,10 +566767,6 @@
     <title lang="zh">全民星攻略</title>
     <desc lang="zh">东森综合台全新益智实境节目，「全民星攻略」，由馆长曾国城担任把关者，考验著每个来挑战九宫格益智游戏艺人明星。想要攻略九宫格关卡，透过创意联想、逻辑推理、理想分析，才有机会获取智慧星币，带走梦幻大奖。</desc>
   </programme>
-  <programme start="20260503180000 +0000" stop="20260503190000 +0000" channel="龙华戏剧台">
-    <title lang="zh">奔跑吧蔷薇</title>
-    <desc lang="zh">出身富裕的白蔷薇（李英雅）待人十分亲切，最后透过相亲和皮肤科医生结婚。没想到父亲的意外身亡，让她陷入经济困境，就连丈夫也背叛了她。万念俱灰下，蔷薇失去生活的重心，甚至徘徊在生死的边缘。直到对料理的热情让她重拾希望，进而进入SL食品公司工作，开启了她和黄太子（高周元）的不解之缘…</desc>
-  </programme>
   <programme start="20260503190000 +0000" stop="20260503200000 +0000" channel="龙华戏剧台">
     <title lang="zh">奔跑吧蔷薇</title>
     <desc lang="zh">出身富裕的白蔷薇（李英雅）待人十分亲切，最后透过相亲和皮肤科医生结婚。没想到父亲的意外身亡，让她陷入经济困境，就连丈夫也背叛了她。万念俱灰下，蔷薇失去生活的重心，甚至徘徊在生死的边缘。直到对料理的热情让她重拾希望，进而进入SL食品公司工作，开启了她和黄太子（高周元）的不解之缘…</desc>
@@ -564227,10 +567202,6 @@
   <programme start="20260508070000 +0000" stop="20260508080000 +0000" channel="龙华戏剧台">
     <title lang="zh">国色芳华</title>
     <desc lang="zh">商户之女何惟芳（杨紫）在天下第一贪官蒋长扬（李现）协助下，从只有利益交换的婚姻中和离出户。而后何惟芳来到长安，凭借培育稀世牡丹的高超技能和过人的经商头脑，与蒋长扬组成匠人与投资人组合，带领一众命运坎坷的女性开启创业之路…</desc>
-  </programme>
-  <programme start="20260503180000 +0000" stop="20260503190000 +0000" channel="台湾戏剧台">
-    <title lang="zh">台湾启示录</title>
-    <desc lang="zh">为您统整介绍台湾社会近年来重大案件与名人轶事的始末，以及相关的新闻分析与报导。</desc>
   </programme>
   <programme start="20260503190000 +0000" stop="20260503203000 +0000" channel="台湾戏剧台">
     <title lang="zh">蓝色水玲珑</title>
@@ -564679,14 +567650,6 @@
   <programme start="20260508070000 +0000" stop="20260508080000 +0000" channel="台湾戏剧台">
     <title lang="zh">包青天</title>
     <desc lang="zh">仁宗皇帝在位期间，包拯（金超群）升任开封府府尹执掌京畿，刚直耿介、铁面无私、明察秋毫、断案如神，百姓爱戴敬仰尊称为“包青天”。并有公孙策（范鸿轩）与南侠展昭（何家劲）一文一武两员大将，使得包拯屡破奇案屡建奇功。</desc>
-  </programme>
-  <programme start="20260503180000 +0000" stop="20260503184000 +0000" channel="东森购物1台">
-    <title lang="zh">锁定CH.43、CH.49、CH120选购</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260503184000 +0000" stop="20260503192000 +0000" channel="东森购物1台">
-    <title lang="zh">5月下单满千现折200元(每人限乙次)</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260503192000 +0000" stop="20260503200000 +0000" channel="东森购物1台">
     <title lang="zh">锁定CH.43、CH.49、CH120选购</title>
@@ -565340,10 +568303,6 @@
     <title lang="zh">锁定CH.43、CH.49、CH120选购</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260503180000 +0000" stop="20260503190000 +0000" channel="龙华偶像台">
-    <title lang="zh">我把社长解锁了</title>
-    <desc lang="zh">讲述不明所以死去的39岁大企业天才CEO，死后被锁在手机里，随后被29岁待业生捡到手机后挖掘真相的故事。</desc>
-  </programme>
   <programme start="20260503190000 +0000" stop="20260503200000 +0000" channel="龙华偶像台">
     <title lang="zh">君九龄</title>
     <desc lang="zh">暂无描述</desc>
@@ -565780,10 +568739,6 @@
     <title lang="zh">我把社长解锁了</title>
     <desc lang="zh">讲述不明所以死去的39岁大企业天才CEO，死后被锁在手机里，随后被29岁待业生捡到手机后挖掘真相的故事。</desc>
   </programme>
-  <programme start="20260503180000 +0000" stop="20260503190000 +0000" channel="龙华日韩台">
-    <title lang="zh">等待京道</title>
-    <desc lang="zh">十年后的重逢，让李京道与徐智友再度陷入爱情的漩涡。曾是彼此初恋的两人，如今一个是追寻真相的记者，一个是丑闻风暴中的名门继承人。再见面时，他们早已不是年少时的模样，却依然在对方身上看见过去的自己。爱情与现实的距离，在一次次试探与退让间拉扯，他们明知前方满是荆棘，仍选择再次并肩。</desc>
-  </programme>
   <programme start="20260503190000 +0000" stop="20260503200000 +0000" channel="龙华日韩台">
     <title lang="zh">暖阳之下</title>
     <desc lang="zh">该剧讲述了两对夫妻宋思凝和李俊龙，陈诵英和关铮，由于婚育观不同而产生各种分歧和矛盾，最终夫妻之间相互包容，共同创造出幸福美好的生活的故事。</desc>
@@ -566219,14 +569174,6 @@
   <programme start="20260508070000 +0000" stop="20260508080000 +0000" channel="龙华日韩台">
     <title lang="zh">人偶之家</title>
     <desc lang="zh">洪世妍（朴荷娜）在母亲再婚后拥有了完整的家庭，但高中时继父生意失败而令她黯然离家独自生活。后来她发现自己被所爱的人背叛和抛弃后，为了找回自己的生活，决定改名换姓回来向他们复仇，并且揭开所有人隐藏在背后之秘密的故事。</desc>
-  </programme>
-  <programme start="20260503180000 +0000" stop="20260503184000 +0000" channel="东森购物2台">
-    <title lang="zh">锁定CH.43、CH.49、CH120选购</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260503184000 +0000" stop="20260503192000 +0000" channel="东森购物2台">
-    <title lang="zh">5月下单满千现折200元(每人限乙次)</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260503192000 +0000" stop="20260503200000 +0000" channel="东森购物2台">
     <title lang="zh">锁定CH.43、CH.49、CH120选购</title>
@@ -566880,10 +569827,6 @@
     <title lang="zh">锁定CH.43、CH.49、CH120选购</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260503180000 +0000" stop="20260503190000 +0000" channel="华视新闻">
-    <title lang="zh">华视2400夜间新闻</title>
-    <desc lang="zh">由专业华视主播带来最即时、最完整、最专业的新闻报导。</desc>
-  </programme>
   <programme start="20260503190000 +0000" stop="20260503200000 +0000" channel="华视新闻">
     <title lang="zh">我的野生邻居</title>
     <desc lang="zh">华视制播生态纪录片。近年来许多野生动物如白鼻心、食蟹蒙等逐渐适应都市环境，成为市民的「野生邻居」。这些动物常出现于都会区公园、建筑物天花板夹层等处。本片介绍在都市生态中与这些物种和平共存的重要性，并呼吁正确的保育与处理观念。</desc>
@@ -567360,10 +570303,6 @@
     <title lang="zh">早安新闻</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260503180000 +0000" stop="20260503190000 +0000" channel="三立新闻iNEWS">
-    <title lang="zh">台湾新思路</title>
-    <desc lang="zh">三立INEWS台的深度专题节目。制作团队打破外界对「财经」过于冷、硬、难的框架，透过人物故事向观众传达财经议题亦可以平易近人，与你我生活息息相关。透过时事话题、科技趋势、人文观察、产业动向，分析台湾与国际之间的脉动。</desc>
-  </programme>
   <programme start="20260503190000 +0000" stop="20260503200000 +0000" channel="三立新闻iNEWS">
     <title lang="zh">360大世界</title>
     <desc lang="zh">带你360度看世界，介绍世界各地奇闻轶事，每个故事都令人啧啧称奇！</desc>
@@ -567783,10 +570722,6 @@
   <programme start="20260508070000 +0000" stop="20260508080000 +0000" channel="三立新闻iNEWS">
     <title lang="zh">全球新食力</title>
     <desc lang="zh">三立iNEWS制播的美食资讯节目，带你全省走透透，吃遍台湾！</desc>
-  </programme>
-  <programme start="20260503180000 +0000" stop="20260503190000 +0000" channel="寰宇财经台">
-    <title lang="zh">巷弄美食家</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260503190000 +0000" stop="20260503200000 +0000" channel="寰宇财经台">
     <title lang="zh">美食打卡趣</title>
@@ -568222,14 +571157,6 @@
   </programme>
   <programme start="20260508070000 +0000" stop="20260508080000 +0000" channel="寰宇财经台">
     <title lang="zh">小食光台味志</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260503183000 +0000" stop="20260503190000 +0000" channel="daystar">
-    <title lang="zh">Dr. David Jeremiah</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260503190000 +0000" stop="20260503193000 +0000" channel="daystar">
-    <title lang="zh">Hal Lindsey</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260503193000 +0000" stop="20260503200000 +0000" channel="daystar">
@@ -569028,10 +571955,6 @@
     <title lang="zh">Rick Renner</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260503180000 +0000" stop="20260503190000 +0000" channel="中视新闻">
-    <title lang="zh">中视新闻全球报导</title>
-    <desc lang="zh">每晚七点由中视主播为全国观众带来最专业、准确的新闻报导。</desc>
-  </programme>
   <programme start="20260503190000 +0000" stop="20260503200000 +0000" channel="中视新闻">
     <title lang="zh">中视新闻全球报导6点抢先报</title>
     <desc lang="zh">每晚由最专业的中视新闻主播，为全国观众提供最专业、最准确的即时新闻报导。</desc>
@@ -569468,10 +572391,6 @@
     <title lang="zh">中视新闻即时现场</title>
     <desc lang="zh">由主播萧惠文播报，以SNG车让观众看到最即时的新闻报导，并以最客观的角度，为观众完整报导上午发生之重要新闻。</desc>
   </programme>
-  <programme start="20260503180000 +0000" stop="20260503190000 +0000" channel="中天新闻台">
-    <title lang="zh">中天新闻 2000整点新闻</title>
-    <desc lang="zh">中天2000整点新闻，带您快速扫瞄今日精选重点新闻，以及国际间重大新闻，掌握国内外动态，以及最新疫情新闻消息、疫情指挥中心直播、今日确诊人数统计等重大新闻转播报导。</desc>
-  </programme>
   <programme start="20260503190000 +0000" stop="20260503210000 +0000" channel="中天新闻台">
     <title lang="zh">CTI TALK国际直球对决</title>
     <desc lang="zh">精选国际新闻事件，从新闻报导、专题剖析到名家对谈，第一手现场直播，提供全面多元的角度，深受全球华人信赖！</desc>
@@ -569851,10 +572770,6 @@
   <programme start="20260508060000 +0000" stop="20260508080000 +0000" channel="中天新闻台">
     <title lang="zh">大新闻大爆卦</title>
     <desc lang="zh">每周一到周五《大新闻大爆卦》中天主播马千惠陪你一起来解卦！！！</desc>
-  </programme>
-  <programme start="20260503175500 +0000" stop="20260503185500 +0000" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇焦点新闻</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260503185500 +0000" stop="20260503195500 +0000" channel="寰宇新闻台湾台">
     <title lang="zh">寰宇焦点新闻</title>
@@ -570289,10 +573204,6 @@
     <desc lang="zh">来自路透的国际新闻、最在地的台湾新闻以及最深入的两岸焦点，带您掌握社会脉动。</desc>
   </programme>
   <programme start="20260508065500 +0000" stop="20260508075500 +0000" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇整点新闻</title>
-    <desc lang="zh">来自路透的国际新闻、最在地的台湾新闻以及最深入的两岸焦点，带您掌握社会脉动。</desc>
-  </programme>
-  <programme start="20260503175500 +0000" stop="20260503185500 +0000" channel="寰宇新闻台">
     <title lang="zh">寰宇整点新闻</title>
     <desc lang="zh">来自路透的国际新闻、最在地的台湾新闻以及最深入的两岸焦点，带您掌握社会脉动。</desc>
   </programme>
@@ -570731,18 +573642,6 @@
   <programme start="20260508065500 +0000" stop="20260508075500 +0000" channel="寰宇新闻台">
     <title lang="zh">寰宇整点新闻</title>
     <desc lang="zh">来自路透的国际新闻、最在地的台湾新闻以及最深入的两岸焦点，带您掌握社会脉动。</desc>
-  </programme>
-  <programme start="20260503180000 +0000" stop="20260503183000 +0000" channel="第1商业台">
-    <title lang="zh">股市第一线-顾德投顾-李冠嵚分析师</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260503183000 +0000" stop="20260503190000 +0000" channel="第1商业台">
-    <title lang="zh">月薪翻倍计划-顾德投顾-黄紫东分析师</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260503190000 +0000" stop="20260503193000 +0000" channel="第1商业台">
-    <title lang="zh">阪田战法-宝得富-顾奎国分析师</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260503193000 +0000" stop="20260503200000 +0000" channel="第1商业台">
     <title lang="zh">股市强强滚-亚洲投顾-郑伟群分析师</title>
@@ -571530,10 +574429,6 @@
   </programme>
   <programme start="20260508073000 +0000" stop="20260508080000 +0000" channel="第1商业台">
     <title lang="zh">期股冲冲冲-宝得富-翁士峻分析师</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260503170200 +0000" stop="20260503184500 +0000" channel="国会频道1台">
-    <title lang="zh">立法院院会</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260503184500 +0000" stop="20260503194800 +0000" channel="国会频道1台">
