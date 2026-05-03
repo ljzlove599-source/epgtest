@@ -6561,6 +6561,9 @@
   <programme start="20260506120000 +0800" stop="20260506130000 +0800" channel="mbc action">
     <title lang="en">بودكاست ملح الدوري</title>
   </programme>
+  <programme start="20260506130000 +0800" stop="20260506140000 +0800" channel="mbc action">
+    <title lang="en">برنامج action bodcast</title>
+  </programme>
   <programme start="20260504023000 +0800" stop="20260504040000 +0800" channel="mbc max">
     <title lang="en">Grown Ups</title>
   </programme>
@@ -6696,9 +6699,6 @@
   <programme start="20260506120000 +0800" stop="20260506140000 +0800" channel="mbc max">
     <title lang="en">A Million Little Pieces</title>
   </programme>
-  <programme start="20260504010000 +0800" stop="20260504030000 +0800" channel="mbc 2">
-    <title lang="en">Reservation Road</title>
-  </programme>
   <programme start="20260504030000 +0800" stop="20260504050000 +0800" channel="mbc 2">
     <title lang="en">The Mechanic</title>
   </programme>
@@ -6818,6 +6818,9 @@
   </programme>
   <programme start="20260506111000 +0800" stop="20260506130000 +0800" channel="mbc 2">
     <title lang="en">Reminiscence</title>
+  </programme>
+  <programme start="20260506130000 +0800" stop="20260506145500 +0800" channel="mbc 2">
+    <title lang="en">The Green Hornet</title>
   </programme>
   <programme start="20260503003000 +0400" stop="20260503023000 +0400" channel="Dubai One">
     <title lang="en">Il y a longtemps que je t'aime</title>
@@ -7107,10 +7110,10 @@
     <title lang="en">Two Days and One Night 4 Ep.323</title>
   </programme>
   <programme start="20260504035500 +0900" stop="20260504051000 +0900" channel="KBSWorld">
-    <title lang="en">The Return of Superman Ep.618 [LIVE]</title>
+    <title lang="en">The Return of Superman Ep.618</title>
   </programme>
   <programme start="20260504051000 +0900" stop="20260504060000 +0900" channel="KBSWorld">
-    <title lang="en">My Neighbor, Charles Ep.525</title>
+    <title lang="en">My Neighbor, Charles Ep.525 [LIVE]</title>
   </programme>
   <programme start="20260504060000 +0900" stop="20260504071500 +0900" channel="KBSWorld">
     <title lang="en">Recipe for Love Ep.24</title>
@@ -562063,10 +562066,6 @@
     <title lang="zh">價值型投資</title>
     <desc lang="zh">當行情出現震盪、盤勢不明時，相信投資人一定會開始轉向價值型投資，節目中將推薦適合的標的，提供投資人參考。</desc>
   </programme>
-  <programme start="20260503190000 +0000" stop="20260503200000 +0000" channel="華視">
-    <title lang="zh">新聞高峯會</title>
-    <desc lang="zh">華視新聞部製作的人物專訪節目，由新聞臺臺長陳雅琳身兼製作人與主持人，邀請各新聞發燒人物、各領域領袖人物，與雅琳主播進行深度對談。</desc>
-  </programme>
   <programme start="20260503200000 +0000" stop="20260503210000 +0000" channel="華視">
     <title lang="zh">華視2400夜間新聞</title>
     <desc lang="zh">由專業華視主播帶來最即時、最完整、最專業的新聞報導。</desc>
@@ -562502,10 +562501,6 @@
   <programme start="20260508073000 +0000" stop="20260508075500 +0000" channel="華視">
     <title lang="zh">健康早知道</title>
     <desc lang="zh">華視製播健康資訊節目，介紹全方位的健康知識、飲食健康、預防癌症，遠離三高、慢性病。由資深醫藥記者洪素卿主持，每週邀各領域專家，暢談日常生活會遇到的健康故事，並分享給長輩的健康保健的知識，介紹自我保健祕訣與養生方式。</desc>
-  </programme>
-  <programme start="20260503193000 +0000" stop="20260503200000 +0000" channel="好消息2臺">
-    <title lang="zh">生命的贏家</title>
-    <desc lang="zh">美國湖木教會牧師也是全美暢銷書「活出美好」作者約爾歐斯汀製作的電視福音佈道節目，不僅在美國創下高收視率，自播出後也相當受臺灣觀眾歡迎，在歐斯汀牧師所寫的《活出美好》一書中，鼓勵弟兄姊妹要力求卓越，因為上帝並不祝福平庸，祂祝福卓越、傑出與正直…</desc>
   </programme>
   <programme start="20260503200000 +0000" stop="20260503210000 +0000" channel="好消息2臺">
     <title lang="zh">大衛鮑森講座</title>
@@ -563338,10 +563333,6 @@
   <programme start="20260508073000 +0000" stop="20260508080000 +0000" channel="好消息2臺">
     <title lang="zh">福氣人生</title>
     <desc lang="zh">如何才能擁有福氣人生?看牧師們以臺語分享聖經的真理，讓你領受天國滿滿的福氣與祝福。</desc>
-  </programme>
-  <programme start="20260503190000 +0000" stop="20260503200000 +0000" channel="好消息">
-    <title lang="zh">空中禮拜堂</title>
-    <desc lang="zh">邀請國內外各地知名講員，分享最新最挑旺的信息，讓你在家，也能跟上聖靈的水流，接受真理的裝備。</desc>
   </programme>
   <programme start="20260503200000 +0000" stop="20260503210000 +0000" channel="好消息">
     <title lang="zh">新舊約縱覽</title>
@@ -564243,14 +564234,6 @@
     <title lang="zh">精選系列生命更新專題</title>
     <desc lang="zh">好消息電視臺製作的一系列特別節目，內容圍繞生命更新、信仰成長、聖經真理，旨在幫助觀眾認識耶穌、建立門徒生活，涵蓋見證分享、專題講座、職場／家庭／親子等多元主題，是華人基督徒信仰造就的重要資源。</desc>
   </programme>
-  <programme start="20260503193000 +0000" stop="20260503200000 +0000" channel="ELTV生活英語臺">
-    <title lang="zh">DT踹貢</title>
-    <desc lang="zh">由劍橋大學認証KET、PET、FCE檢定考特訓老師David Tan主講，內容包含與時事相關的英語單字、有趣的學習經驗分享，以及如何用英文討論熱門話題。</desc>
-  </programme>
-  <programme start="20260503200000 +0000" stop="20260503203000 +0000" channel="ELTV生活英語臺">
-    <title lang="zh">快樂DoReMi</title>
-    <desc lang="zh">學習英文的方法千百種，練唱英文歌曲是最輕鬆愉快的方式之一。本清單節目集結了動聽的英文兒歌MV，適合父母帶著孩子一起欣賞，在唱唱跳跳的過程中，增進親子情感，也配合動人旋律，學習英文。</desc>
-  </programme>
   <programme start="20260503203000 +0000" stop="20260503210000 +0000" channel="ELTV生活英語臺">
     <title lang="zh">快樂DoReMi</title>
     <desc lang="zh">學習英文的方法千百種，練唱英文歌曲是最輕鬆愉快的方式之一。本清單節目集結了動聽的英文兒歌MV，適合父母帶著孩子一起欣賞，在唱唱跳跳的過程中，增進親子情感，也配合動人旋律，學習英文。</desc>
@@ -565098,14 +565081,6 @@
   <programme start="20260508073000 +0000" stop="20260508080000 +0000" channel="ELTV生活英語臺">
     <title lang="zh">歡唱小精靈</title>
     <desc lang="zh">暫無描述</desc>
-  </programme>
-  <programme start="20260503193000 +0000" stop="20260503200000 +0000" channel="龍華卡通臺">
-    <title lang="zh">搗蛋拉茶鋪</title>
-    <desc lang="zh">熱愛拉茶的老闆，和自信滿滿的服務生狗狗，在飄著香氣的拉茶鋪裡享受著愜意的時光。然而一切平靜，都被一隻搗蛋的猴子破壞了！為了趕走猴子，狗狗與猴子的戰鬥即將展開！</desc>
-  </programme>
-  <programme start="20260503200000 +0000" stop="20260503203000 +0000" channel="龍華卡通臺">
-    <title lang="zh">海鸚出任務</title>
-    <desc lang="zh">一顆從天而降的流星，改變了四隻海鸚的平凡生活，讓他們得到了超乎想像的超能力——速度、力量、智慧與共情。在導師的指導和幫助下，他們組成超級英雄團隊拯救世界，對抗邪惡的海象博士奧託！</desc>
   </programme>
   <programme start="20260503203000 +0000" stop="20260503210000 +0000" channel="龍華卡通臺">
     <title lang="zh">海鸚出任務</title>
@@ -565967,10 +565942,6 @@
     <title lang="zh">搗蛋拉茶鋪</title>
     <desc lang="zh">熱愛拉茶的老闆，和自信滿滿的服務生狗狗，在飄著香氣的拉茶鋪裡享受著愜意的時光。然而一切平靜，都被一隻搗蛋的猴子破壞了！為了趕走猴子，狗狗與猴子的戰鬥即將展開！</desc>
   </programme>
-  <programme start="20260503190000 +0000" stop="20260503200000 +0000" channel="亞洲旅遊臺">
-    <title lang="zh">融融歷險記</title>
-    <desc lang="zh">《融融歷險記 Ben’s Adventure》的創辦人Ben，立志前往那些沒有人要去的地方。走過五大洲75餘國，喜歡拍影片更愛與當地人交流，因為這纔是旅行真正的意義。「旅行的意義是什麼？」旅行的意義，看不同的風景，認識不同的人，領略不同的美好，讓你覺得世界那麼大。</desc>
-  </programme>
   <programme start="20260503200000 +0000" stop="20260503220000 +0000" channel="亞洲旅遊臺">
     <title lang="zh">效廉出發吧</title>
     <desc lang="zh">東森超視全新外景旅遊實境綜藝節目，由跨世代人夫許效舜、威廉攜手主持。兩位私交甚篤的知己好友，將在節目中分享彼此人生故事，帶觀眾深入瞭解每個城鎮獨有的歷史人文，探索每個地方的特色美食生活。一段見證男人友誼的旅行，就此展開！</desc>
@@ -566330,10 +566301,6 @@
   <programme start="20260508070000 +0000" stop="20260508080000 +0000" channel="亞洲旅遊臺">
     <title lang="zh">融融歷險記</title>
     <desc lang="zh">《融融歷險記 Ben’s Adventure》的創辦人Ben，立志前往那些沒有人要去的地方。走過五大洲75餘國，喜歡拍影片更愛與當地人交流，因為這纔是旅行真正的意義。「旅行的意義是什麼？」旅行的意義，看不同的風景，認識不同的人，領略不同的美好，讓你覺得世界那麼大。</desc>
-  </programme>
-  <programme start="20260503190000 +0000" stop="20260503200000 +0000" channel="Smart知識臺">
-    <title lang="zh">全民星攻略</title>
-    <desc lang="zh">東森綜合臺全新益智實境節目，「全民星攻略」，由館長曾國城擔任把關者，考驗著每個來挑戰九宮格益智遊戲藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理想分析，纔有機會獲取智慧星幣，帶走夢幻大獎。</desc>
   </programme>
   <programme start="20260503200000 +0000" stop="20260503210000 +0000" channel="Smart知識臺">
     <title lang="zh">健康2.0</title>
@@ -566767,10 +566734,6 @@
     <title lang="zh">全民星攻略</title>
     <desc lang="zh">東森綜合臺全新益智實境節目，「全民星攻略」，由館長曾國城擔任把關者，考驗著每個來挑戰九宮格益智遊戲藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理想分析，纔有機會獲取智慧星幣，帶走夢幻大獎。</desc>
   </programme>
-  <programme start="20260503190000 +0000" stop="20260503200000 +0000" channel="龍華戲劇臺">
-    <title lang="zh">奔跑吧薔薇</title>
-    <desc lang="zh">出身富裕的白薔薇（李英雅）待人十分親切，最後透過相親和皮膚科醫生結婚。沒想到父親的意外身亡，讓她陷入經濟困境，就連丈夫也背叛了她。萬念俱灰下，薔薇失去生活的重心，甚至徘徊在生死的邊緣。直到對料理的熱情讓她重拾希望，進而進入SL食品公司工作，開啟了她和黃太子（高周元）的不解之緣…</desc>
-  </programme>
   <programme start="20260503200000 +0000" stop="20260503210000 +0000" channel="龍華戲劇臺">
     <title lang="zh">奔跑吧薔薇</title>
     <desc lang="zh">出身富裕的白薔薇（李英雅）待人十分親切，最後透過相親和皮膚科醫生結婚。沒想到父親的意外身亡，讓她陷入經濟困境，就連丈夫也背叛了她。萬念俱灰下，薔薇失去生活的重心，甚至徘徊在生死的邊緣。直到對料理的熱情讓她重拾希望，進而進入SL食品公司工作，開啟了她和黃太子（高周元）的不解之緣…</desc>
@@ -567202,10 +567165,6 @@
   <programme start="20260508070000 +0000" stop="20260508080000 +0000" channel="龍華戲劇臺">
     <title lang="zh">國色芳華</title>
     <desc lang="zh">商戶之女何惟芳（楊紫）在天下第一貪官蔣長揚（李現）協助下，從只有利益交換的婚姻中和離出戶。而後何惟芳來到長安，憑藉培育稀世牡丹的高超技能和過人的經商頭腦，與蔣長揚組成匠人與投資人組合，帶領一眾命運坎坷的女性開啟創業之路…</desc>
-  </programme>
-  <programme start="20260503190000 +0000" stop="20260503203000 +0000" channel="臺灣戲劇臺">
-    <title lang="zh">藍色水玲瓏</title>
-    <desc lang="zh">推出全新三大系列，分別為陰陽有情天、夜迷離及神祕記事簿，劇情有動人的人世間的親情，至死不渝的男女情愛，天理報應的因果事件等，這些充斥在社會上的愛恨情仇，令人匪夷所思的事件，帶來另一種不同的詮釋角度。</desc>
   </programme>
   <programme start="20260503203000 +0000" stop="20260503220000 +0000" channel="臺灣戲劇臺">
     <title lang="zh">藍色水玲瓏</title>
@@ -567650,10 +567609,6 @@
   <programme start="20260508070000 +0000" stop="20260508080000 +0000" channel="臺灣戲劇臺">
     <title lang="zh">包青天</title>
     <desc lang="zh">仁宗皇帝在位期間，包拯（金超羣）升任開封府府尹執掌京畿，剛直耿介、鐵面無私、明察秋毫、斷案如神，百姓愛戴敬仰尊稱為“包青天”。並有公孫策（範鴻軒）與南俠展昭（何家勁）一文一武兩員大將，使得包拯屢破奇案屢建奇功。</desc>
-  </programme>
-  <programme start="20260503192000 +0000" stop="20260503200000 +0000" channel="東森購物1臺">
-    <title lang="zh">鎖定CH.43、CH.49、CH120選購</title>
-    <desc lang="zh">暫無描述</desc>
   </programme>
   <programme start="20260503200000 +0000" stop="20260503204000 +0000" channel="東森購物1臺">
     <title lang="zh">5月下單滿千現折200元(每人限乙次)</title>
@@ -568303,10 +568258,6 @@
     <title lang="zh">鎖定CH.43、CH.49、CH120選購</title>
     <desc lang="zh">暫無描述</desc>
   </programme>
-  <programme start="20260503190000 +0000" stop="20260503200000 +0000" channel="龍華偶像臺">
-    <title lang="zh">君九齡</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
   <programme start="20260503200000 +0000" stop="20260503210000 +0000" channel="龍華偶像臺">
     <title lang="zh">記得我愛你</title>
     <desc lang="zh">徐振宇（俞承豪）身患超憶症而無法忘記任何事，雖然被人視為記憶天才，但醫生診斷為「障礙」。他積極克服自身障礙，成為所向披靡的律師，父親卻因遭人陰謀算計，被栽贓陷害並宣判死刑。為證明父親的清白，振宇發誓要找出父親無罪的證據…</desc>
@@ -568739,10 +568690,6 @@
     <title lang="zh">我把社長解鎖了</title>
     <desc lang="zh">講述不明所以死去的39歲大企業天才CEO，死後被鎖在手機裏，隨後被29歲待業生撿到手機後挖掘真相的故事。</desc>
   </programme>
-  <programme start="20260503190000 +0000" stop="20260503200000 +0000" channel="龍華日韓臺">
-    <title lang="zh">暖陽之下</title>
-    <desc lang="zh">該劇講述了兩對夫妻宋思凝和李俊龍，陳誦英和關錚，由於婚育觀不同而產生各種分歧和矛盾，最終夫妻之間相互包容，共同創造出幸福美好的生活的故事。</desc>
-  </programme>
   <programme start="20260503200000 +0000" stop="20260503210000 +0000" channel="龍華日韓臺">
     <title lang="zh">白夜童話</title>
     <desc lang="zh">從小被母親拋棄的白夜（樸荷娜）與哥哥白英俊相依為命，她雖然和導演張和嚴（姜恩卓）兩情相悅，卻為了向生母英荷復仇，而決定嫁給英荷的繼子趙羅丹（金民修）。於是，一場以電視臺藝能局為背景，四個家庭相互牽扯的復仇劇就此展開…</desc>
@@ -569174,10 +569121,6 @@
   <programme start="20260508070000 +0000" stop="20260508080000 +0000" channel="龍華日韓臺">
     <title lang="zh">人偶之家</title>
     <desc lang="zh">洪世妍（樸荷娜）在母親再婚後擁有了完整的家庭，但高中時繼父生意失敗而令她黯然離家獨自生活。後來她發現自己被所愛的人背叛和拋棄後，為了找回自己的生活，決定改名換姓回來向他們復仇，並且揭開所有人隱藏在背後之祕密的故事。</desc>
-  </programme>
-  <programme start="20260503192000 +0000" stop="20260503200000 +0000" channel="東森購物2臺">
-    <title lang="zh">鎖定CH.43、CH.49、CH120選購</title>
-    <desc lang="zh">暫無描述</desc>
   </programme>
   <programme start="20260503200000 +0000" stop="20260503204000 +0000" channel="東森購物2臺">
     <title lang="zh">5月下單滿千現折200元(每人限乙次)</title>
@@ -569827,10 +569770,6 @@
     <title lang="zh">鎖定CH.43、CH.49、CH120選購</title>
     <desc lang="zh">暫無描述</desc>
   </programme>
-  <programme start="20260503190000 +0000" stop="20260503200000 +0000" channel="華視新聞">
-    <title lang="zh">我的野生鄰居</title>
-    <desc lang="zh">華視製播生態紀錄片。近年來許多野生動物如白鼻心、食蟹蒙等逐漸適應都市環境，成為市民的「野生鄰居」。這些動物常出現於都會區公園、建築物天花板夾層等處。本片介紹在都市生態中與這些物種和平共存的重要性，並呼籲正確的保育與處理觀念。</desc>
-  </programme>
   <programme start="20260503200000 +0000" stop="20260503210000 +0000" channel="華視新聞">
     <title lang="zh">華視2400夜間新聞</title>
     <desc lang="zh">由專業華視主播帶來最即時、最完整、最專業的新聞報導。</desc>
@@ -570303,10 +570242,6 @@
     <title lang="zh">早安新聞</title>
     <desc lang="zh">暫無描述</desc>
   </programme>
-  <programme start="20260503190000 +0000" stop="20260503200000 +0000" channel="三立新聞iNEWS">
-    <title lang="zh">360大世界</title>
-    <desc lang="zh">帶你360度看世界，介紹世界各地奇聞軼事，每個故事都令人嘖嘖稱奇！</desc>
-  </programme>
   <programme start="20260503200000 +0000" stop="20260503210000 +0000" channel="三立新聞iNEWS">
     <title lang="zh">1819錢進大頭條</title>
     <desc lang="zh">三立iNEWS製播的財經新聞節目，由最專業的財經主播帶來國際時事、財經股匯市報導、深度新聞及時事評論…等內容。</desc>
@@ -570722,10 +570657,6 @@
   <programme start="20260508070000 +0000" stop="20260508080000 +0000" channel="三立新聞iNEWS">
     <title lang="zh">全球新食力</title>
     <desc lang="zh">三立iNEWS製播的美食資訊節目，帶你全省走透透，喫遍臺灣！</desc>
-  </programme>
-  <programme start="20260503190000 +0000" stop="20260503200000 +0000" channel="寰宇財經臺">
-    <title lang="zh">美食打卡趣</title>
-    <desc lang="zh">暫無描述</desc>
   </programme>
   <programme start="20260503200000 +0000" stop="20260503210000 +0000" channel="寰宇財經臺">
     <title lang="zh">57怪奇物語</title>
@@ -571157,14 +571088,6 @@
   </programme>
   <programme start="20260508070000 +0000" stop="20260508080000 +0000" channel="寰宇財經臺">
     <title lang="zh">小食光臺味誌</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
-  <programme start="20260503193000 +0000" stop="20260503200000 +0000" channel="daystar">
-    <title lang="zh">Prophecy Watchers</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
-  <programme start="20260503200000 +0000" stop="20260503203000 +0000" channel="daystar">
-    <title lang="zh">Prophecy Live</title>
     <desc lang="zh">暫無描述</desc>
   </programme>
   <programme start="20260503203000 +0000" stop="20260503210000 +0000" channel="daystar">
@@ -571954,10 +571877,6 @@
   <programme start="20260508073000 +0000" stop="20260508080000 +0000" channel="daystar">
     <title lang="zh">Rick Renner</title>
     <desc lang="zh">暫無描述</desc>
-  </programme>
-  <programme start="20260503190000 +0000" stop="20260503200000 +0000" channel="中視新聞">
-    <title lang="zh">中視新聞全球報導6點搶先報</title>
-    <desc lang="zh">每晚由最專業的中視新聞主播，為全國觀眾提供最專業、最準確的即時新聞報導。</desc>
   </programme>
   <programme start="20260503200000 +0000" stop="20260503210000 +0000" channel="中視新聞">
     <title lang="zh">中視2100整點新聞</title>
@@ -572771,10 +572690,6 @@
     <title lang="zh">大新聞大爆卦</title>
     <desc lang="zh">每週一到週五《大新聞大爆卦》中天主播馬千惠陪你一起來解卦！！！</desc>
   </programme>
-  <programme start="20260503185500 +0000" stop="20260503195500 +0000" channel="寰宇新聞臺灣臺">
-    <title lang="zh">寰宇焦點新聞</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
   <programme start="20260503195500 +0000" stop="20260503205500 +0000" channel="寰宇新聞臺灣臺">
     <title lang="zh">寰宇晚間新聞</title>
     <desc lang="zh">寰宇晚間新聞給你最在地的臺灣新聞、最深入的兩岸焦點，掌握國際情勢帶您瞭解社會脈動。</desc>
@@ -573207,10 +573122,6 @@
     <title lang="zh">寰宇整點新聞</title>
     <desc lang="zh">來自路透的國際新聞、最在地的臺灣新聞以及最深入的兩岸焦點，帶您掌握社會脈動。</desc>
   </programme>
-  <programme start="20260503185500 +0000" stop="20260503195500 +0000" channel="寰宇新聞臺">
-    <title lang="zh">寰宇全球新聞</title>
-    <desc lang="zh">搶先揭露全球各地政經、社會、娛樂的第一手新聞訊息，讓觀眾不漏接關鍵的世界大事。</desc>
-  </programme>
   <programme start="20260503195500 +0000" stop="20260503205500 +0000" channel="寰宇新聞臺">
     <title lang="zh">寰宇全球新聞</title>
     <desc lang="zh">搶先揭露全球各地政經、社會、娛樂的第一手新聞訊息，讓觀眾不漏接關鍵的世界大事。</desc>
@@ -573642,14 +573553,6 @@
   <programme start="20260508065500 +0000" stop="20260508075500 +0000" channel="寰宇新聞臺">
     <title lang="zh">寰宇整點新聞</title>
     <desc lang="zh">來自路透的國際新聞、最在地的臺灣新聞以及最深入的兩岸焦點，帶您掌握社會脈動。</desc>
-  </programme>
-  <programme start="20260503193000 +0000" stop="20260503200000 +0000" channel="第1商業臺">
-    <title lang="zh">股市強強滾-亞洲投顧-鄭偉羣分析師</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
-  <programme start="20260503200000 +0000" stop="20260503203000 +0000" channel="第1商業臺">
-    <title lang="zh">旗開得勝-顧德投顧-張家豪分析師</title>
-    <desc lang="zh">暫無描述</desc>
   </programme>
   <programme start="20260503203000 +0000" stop="20260503210000 +0000" channel="第1商業臺">
     <title lang="zh">期股衝衝衝-寶得富-翁士峻分析師</title>
@@ -574431,10 +574334,6 @@
     <title lang="zh">期股衝衝衝-寶得富-翁士峻分析師</title>
     <desc lang="zh">暫無描述</desc>
   </programme>
-  <programme start="20260503184500 +0000" stop="20260503194800 +0000" channel="國會頻道1臺">
-    <title lang="zh">經濟委員會</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
   <programme start="20260503194800 +0000" stop="20260503204800 +0000" channel="國會頻道1臺">
     <title lang="zh">內政委員會</title>
     <desc lang="zh">暫無描述</desc>
@@ -574529,10 +574428,6 @@
   </programme>
   <programme start="20260508004700 +0000" stop="20260508010000 +0000" channel="國會頻道1臺">
     <title lang="zh">週五會議預報</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
-  <programme start="20260503163700 +0000" stop="20260503193900 +0000" channel="國會頻道2臺">
-    <title lang="zh">社會福利及衛生環境委員會</title>
     <desc lang="zh">暫無描述</desc>
   </programme>
   <programme start="20260503193900 +0000" stop="20260503212300 +0000" channel="國會頻道2臺">
@@ -574823,10 +574718,6 @@
     <title lang="zh">唐山大兄</title>
     <desc lang="zh">李小龍從美國返回香港發展後的首部電影。一羣到泰國打工的華人，竟然無故相繼失蹤，後來他們發現原來他們都是慘遭老闆毒手。原因是同伴們不願替老闆進行販毒的非法勾當，而鄭潮安（李小龍）在胸前玉佩被打碎後才展開激烈的反擊行動。</desc>
   </programme>
-  <programme start="20260503180000 +0000" stop="20260503195500 +0000" channel="龍華電影臺">
-    <title lang="zh">龍屢閣：無情都市</title>
-    <desc lang="zh">表面上，「龍屢閣」是間平凡的中菜餐廳，實際上則是暗中執行私法正義的祕密組織。龍屢閣的五名成員：哲民、智慧、勝進，龍泰和郭社長，一旦接到神祕情報員的委託，便會共同為受害者伸張正義。當大企業會長兒子的暴行引發了死亡事件，竟牽涉到龍屢閣相關人士，事件開始變得複雜難解…</desc>
-  </programme>
   <programme start="20260503195500 +0000" stop="20260503215000 +0000" channel="龍華電影臺">
     <title lang="zh">龍屢閣2：眾神之夜</title>
     <desc lang="zh">過去曾是「龍屢閣」成員的英燦，如今改行當記者並試圖揭發腐敗的現任議員。某一天，英燦委託龍屢閣的勝進尋找與事件有關的記憶卡；同時，龍屢閣收到了委託，要尋找突然消失的女高中生英恩。調查女高中生失蹤事件的哲民和智慧，發現失蹤事件與議員事件的關鍵，共同指向了新興宗教「日月教」…</desc>
@@ -575046,10 +574937,6 @@
   <programme start="20260508053500 +0000" stop="20260508075000 +0000" channel="龍華電影臺">
     <title lang="zh">特務迷城</title>
     <desc lang="zh">健身器材店營業員小北從小習武，並且有預感能力，夢想有一天成為特務。小北憑著預感及敏捷的身手，把銀行劫匪當場逮捕，成為報紙的頭條人物。偵探從報紙的報導得悉小北是名孤兒，可能是他一名客人樸元正失散多年的兒子，遂帶小北去見樸元正的律師，在好奇心的驅使下，小北決定前往韓國去尋找身世之謎…</desc>
-  </programme>
-  <programme start="20260503171500 +0000" stop="20260503194000 +0000" channel="龍華洋片臺">
-    <title lang="zh">破風</title>
-    <desc lang="zh">專業單車車隊弘光隊的韓藉天才車手鄭知元 （崔始源）獨當一面，新人王仇銘（彭于晏） 與邱田 （竇曉）甘心當破風手，為他製造衝線機會。但仇銘及邱田被個人勝敗心魔所困，3人喪失團隊精神，成績一落千丈而各散東西，直到再重遇，能否劃破逆風，創造奇蹟？</desc>
   </programme>
   <programme start="20260503194000 +0000" stop="20260503211000 +0000" channel="龍華洋片臺">
     <title lang="zh">猩紅黎明</title>
@@ -661201,40 +661088,44 @@
     <title lang="zh">8 Mani Seithigal</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260504013000 +0800" stop="20260504043000 +0800" channel="KTV">
+  <programme start="20260504013000 +0800" stop="20260504044300 +0800" channel="KTV">
     <title lang="zh">Oram Po</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260504043000 +0800" stop="20260504073000 +0800" channel="KTV">
+  <programme start="20260504044300 +0800" stop="20260504073000 +0800" channel="KTV">
     <title lang="zh">Aduthathu</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260504073000 +0800" stop="20260504093000 +0800" channel="KTV">
-    <title lang="zh">Agni Theertham</title>
+    <title lang="zh">No information available</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260504093000 +0800" stop="20260504103000 +0800" channel="KTV">
-    <title lang="zh">Kaalai Thaeneer</title>
+    <title lang="zh">No information available</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260504103000 +0800" stop="20260504133000 +0800" channel="KTV">
-    <title lang="zh">Archana IAS</title>
+    <title lang="zh">No information available</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260504133000 +0800" stop="20260504193000 +0800" channel="KTV">
-    <title lang="zh">Kadhalar Dhinam</title>
+  <programme start="20260504133000 +0800" stop="20260504163000 +0800" channel="KTV">
+    <title lang="zh">No information available</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260504163000 +0800" stop="20260504193000 +0800" channel="KTV">
+    <title lang="zh">No information available Ep09</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260504193000 +0800" stop="20260504223000 +0800" channel="KTV">
-    <title lang="zh">Mugavari</title>
+    <title lang="zh">No information available</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260505013000 +0800" stop="20260505043000 +0800" channel="KTV">
-    <title lang="zh">Vetri Mel Vetri</title>
+    <title lang="zh">No information available</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260505043000 +0800" stop="20260505073000 +0800" channel="KTV">
-    <title lang="zh">Akka</title>
+    <title lang="zh">No information available</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260505073000 +0800" stop="20260505093000 +0800" channel="KTV">
