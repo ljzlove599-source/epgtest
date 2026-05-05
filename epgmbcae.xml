@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260506063000 +0800" stop="20260506073000 +0800" channel="mbc action">
-    <title lang="en">برنامج american ninja warrior</title>
-  </programme>
   <programme start="20260506073000 +0800" stop="20260506080000 +0800" channel="mbc action">
     <title lang="en">The Promised Neverland</title>
   </programme>
@@ -149,9 +146,6 @@
   </programme>
   <programme start="20260508053000 +0800" stop="20260508063000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
-  </programme>
-  <programme start="20260506060000 +0800" stop="20260506073000 +0800" channel="mbc max">
-    <title lang="en">All I See Is You</title>
   </programme>
   <programme start="20260506073000 +0800" stop="20260506080000 +0800" channel="mbc max">
     <title lang="en">برنامج Celebrity Scoop Season 9</title>
@@ -365,5 +359,8 @@
   </programme>
   <programme start="20260508150000 +0800" stop="20260508170000 +0800" channel="mbc 2">
     <title lang="en">Paws of Fury: The Legend of Hank</title>
+  </programme>
+  <programme start="20260508170000 +0800" stop="20260508190000 +0800" channel="mbc 2">
+    <title lang="en">Holmes &amp; Watson</title>
   </programme>
 </tv>
