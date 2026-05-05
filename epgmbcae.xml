@@ -9,21 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260505130000 +0800" stop="20260505140000 +0800" channel="mbc action">
-    <title lang="en">ascend برنامج</title>
-  </programme>
-  <programme start="20260505140000 +0800" stop="20260505143000 +0800" channel="mbc action">
-    <title lang="en">برنامج the inside line</title>
-  </programme>
-  <programme start="20260505143000 +0800" stop="20260505150000 +0800" channel="mbc action">
-    <title lang="en">برنامج the football review</title>
-  </programme>
-  <programme start="20260505150000 +0800" stop="20260505153000 +0800" channel="mbc action">
-    <title lang="en">برنامج The Ride Life With Sung Kang</title>
-  </programme>
-  <programme start="20260505153000 +0800" stop="20260505163000 +0800" channel="mbc action">
-    <title lang="en">برنامج the inside line</title>
-  </programme>
   <programme start="20260505163000 +0800" stop="20260505173000 +0800" channel="mbc action">
     <title lang="en">The Promised Neverland</title>
   </programme>
@@ -189,8 +174,14 @@
   <programme start="20260507230000 +0800" stop="20260508000000 +0800" channel="mbc action">
     <title lang="en">Ridiculousness</title>
   </programme>
-  <programme start="20260505133000 +0800" stop="20260505153000 +0800" channel="mbc max">
-    <title lang="en">Night School</title>
+  <programme start="20260508000000 +0800" stop="20260508010000 +0800" channel="mbc action">
+    <title lang="en">برنامج american ninja warrior</title>
+  </programme>
+  <programme start="20260508010000 +0800" stop="20260508020000 +0800" channel="mbc action">
+    <title lang="en">The Promised Neverland</title>
+  </programme>
+  <programme start="20260508020000 +0800" stop="20260508023000 +0800" channel="mbc action">
+    <title lang="en">برنامج action bodcast</title>
   </programme>
   <programme start="20260505153000 +0800" stop="20260505170000 +0800" channel="mbc max">
     <title lang="en">Blackbird</title>
@@ -309,8 +300,11 @@
   <programme start="20260507220000 +0800" stop="20260508000000 +0800" channel="mbc max">
     <title lang="en">S.W.A.T.</title>
   </programme>
-  <programme start="20260505134000 +0800" stop="20260505153000 +0800" channel="mbc 2">
-    <title lang="en">88 Minutes</title>
+  <programme start="20260508000000 +0800" stop="20260508020000 +0800" channel="mbc max">
+    <title lang="en">John Wick</title>
+  </programme>
+  <programme start="20260508020000 +0800" stop="20260508040000 +0800" channel="mbc max">
+    <title lang="en">John Wick: Chapter 2</title>
   </programme>
   <programme start="20260505153000 +0800" stop="20260505173500 +0800" channel="mbc 2">
     <title lang="en">The Green Hornet</title>
@@ -425,5 +419,8 @@
   </programme>
   <programme start="20260507230000 +0800" stop="20260508010000 +0800" channel="mbc 2">
     <title lang="en">The Karate Kid Part II</title>
+  </programme>
+  <programme start="20260508010000 +0800" stop="20260508030000 +0800" channel="mbc 2">
+    <title lang="en">Paul Blart: Mall Cop</title>
   </programme>
 </tv>
