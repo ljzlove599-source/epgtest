@@ -9,12 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260506103000 +0800" stop="20260506120000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-  </programme>
-  <programme start="20260506120000 +0800" stop="20260506130000 +0800" channel="mbc action">
-    <title lang="en">بودكاست ملح الدوري</title>
-  </programme>
   <programme start="20260506130000 +0800" stop="20260506140000 +0800" channel="mbc action">
     <title lang="en">برنامج action bodcast</title>
   </programme>
@@ -135,12 +129,6 @@
   <programme start="20260508053000 +0800" stop="20260508063000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
   </programme>
-  <programme start="20260506093000 +0800" stop="20260506113000 +0800" channel="mbc max">
-    <title lang="en">Skylines</title>
-  </programme>
-  <programme start="20260506113000 +0800" stop="20260506120000 +0800" channel="mbc max">
-    <title lang="en">Action Zone</title>
-  </programme>
   <programme start="20260506120000 +0800" stop="20260506140000 +0800" channel="mbc max">
     <title lang="en">A Million Little Pieces</title>
   </programme>
@@ -243,11 +231,8 @@
   <programme start="20260508200000 +0800" stop="20260508220000 +0800" channel="mbc max">
     <title lang="en">Seized</title>
   </programme>
-  <programme start="20260506104500 +0800" stop="20260506111000 +0800" channel="mbc 2">
-    <title lang="en">برنامج World Of Movies Season 3</title>
-  </programme>
-  <programme start="20260506111000 +0800" stop="20260506130000 +0800" channel="mbc 2">
-    <title lang="en">Reminiscence</title>
+  <programme start="20260508220000 +0800" stop="20260509000000 +0800" channel="mbc max">
+    <title lang="en">Alvin and the Chipmunks</title>
   </programme>
   <programme start="20260506130000 +0800" stop="20260506145500 +0800" channel="mbc 2">
     <title lang="en">The Green Hornet</title>
@@ -347,5 +332,11 @@
   </programme>
   <programme start="20260508190000 +0800" stop="20260508203000 +0800" channel="mbc 2">
     <title lang="en">Paul Blart: Mall Cop</title>
+  </programme>
+  <programme start="20260508203000 +0800" stop="20260508223000 +0800" channel="mbc 2">
+    <title lang="en">Here Comes the Boom</title>
+  </programme>
+  <programme start="20260508223000 +0800" stop="20260509010000 +0800" channel="mbc 2">
+    <title lang="en">Hulk</title>
   </programme>
 </tv>
