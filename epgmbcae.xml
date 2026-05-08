@@ -9,9 +9,6 @@
   <channel id="mbc 2">
     <display-name lang="en">mbc 2</display-name>
   </channel>
-  <programme start="20260508083000 +0800" stop="20260508103000 +0800" channel="mbc max">
-    <title lang="en">One Day</title>
-  </programme>
   <programme start="20260508103000 +0800" stop="20260508121500 +0800" channel="mbc max">
     <title lang="en">Friends with Kids</title>
   </programme>
@@ -99,8 +96,8 @@
   <programme start="20260510170000 +0800" stop="20260510193000 +0800" channel="mbc max">
     <title lang="en">Blood Diamond</title>
   </programme>
-  <programme start="20260508070000 +0800" stop="20260508093000 +0800" channel="mbc 2">
-    <title lang="en">Here Comes the Boom</title>
+  <programme start="20260510193000 +0800" stop="20260510210000 +0800" channel="mbc max">
+    <title lang="en">Smurfs: The Lost Village</title>
   </programme>
   <programme start="20260508093000 +0800" stop="20260508113000 +0800" channel="mbc 2">
     <title lang="en">Alpha</title>
@@ -185,5 +182,8 @@
   </programme>
   <programme start="20260510163000 +0800" stop="20260510183000 +0800" channel="mbc 2">
     <title lang="en">Get Him to the Greek</title>
+  </programme>
+  <programme start="20260510183000 +0800" stop="20260510203000 +0800" channel="mbc 2">
+    <title lang="en">Cats</title>
   </programme>
 </tv>
