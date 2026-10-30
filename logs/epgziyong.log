@@ -10,6 +10,9 @@
 处理文件: ./epganywhere.xml
 处理文件: ./epglifetv.xml
 处理文件: ./epgmytvsuper.xml
+XML解析失败: ./epgmytvsuper.xml - 
+重试解析也失败: ./epgmytvsuper.xml
+加载失败: ./epgmytvsuper.xml
 处理文件: ./epg4gtv2.xml
 处理文件: ./epgmacocable.xml
 处理文件: ./epgofiii.xml
@@ -29,6 +32,8 @@
 处理节目表: ./epganywhere.xml
 处理节目表: ./epglifetv.xml
 处理节目表: ./epgmytvsuper.xml
+XML解析失败: ./epgmytvsuper.xml - 
+重试解析也失败: ./epgmytvsuper.xml
 处理节目表: ./epg4gtv2.xml
 处理节目表: ./epgmacocable.xml
 处理节目表: ./epgofiii.xml
@@ -40,5 +45,5 @@ XML文件合并完成，已保存为 epgziyong.xml
 压缩文件已保存为 epgziyong.xml.gz
 
 合并统计:
-- 频道数量: 1836
-- 节目数量: 167635
+- 频道数量: 1227
+- 节目数量: 90063
